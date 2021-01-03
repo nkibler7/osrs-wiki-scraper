@@ -1,6 +1,9 @@
 name: Update output files from scraper.
 
 on:
+  schedule:
+    - cron: '20 * * * *'
+  # Allows manual runs, if necessary.
   workflow_dispatch:
 
 jobs:
