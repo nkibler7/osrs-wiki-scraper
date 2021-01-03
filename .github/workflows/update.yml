@@ -1,0 +1,20 @@
+name: Update output files from scraper.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update_job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Run Updater
+        uses: ./
+        id: update
+      - name: Update resources
+        uses: test-room-7/action-update-file@v1
+        with:
+          file-path: out/*.binarypb
+          commit-msg: Update output files.
+          github-token: ${{ secrets.GITHUB_TOKEN }}

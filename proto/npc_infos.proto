@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+
+message NpcInfos {
+  repeated NpcInfo npcs = 1;
+}
+
+message NpcInfo {
+  repeated int32 ids = 1;
+
+  int32 hitpoints = 2;
+  int32 att = 3;
+  int32 str = 4;
+  int32 def = 5;
+  int32 mage = 6;
+  int32 range = 7;
+  int32 attbns = 8;
+  int32 strbns = 9;
+  int32 amagic = 10;
+  int32 mbns = 11;
+  int32 arange = 12;
+  int32 rngbns = 13;
+  int32 dstab = 14;
+  int32 dslash = 15;
+  int32 dcrush = 16;
+  int32 dmagic = 17;
+  int32 drange = 18;
+}

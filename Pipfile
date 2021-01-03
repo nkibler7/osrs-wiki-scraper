@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+mwparserfromhell = "*"
+protobuf = "3.14.0"
+pywikibot = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
+
+[scripts]
+protogen = 'protoc -I=proto/ --python_out=proto/gen --java_out=proto/gen proto/*.proto'

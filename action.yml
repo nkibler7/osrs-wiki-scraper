@@ -1,0 +1,10 @@
+name: 'Run Updater'
+description: 'Runs main.py in this repo to update the output files after scraping the wiki.'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  env:
+    WORKON_HOME: '/root/.local/share/virtualenvs'
+    PIPENV_PIPFILE: '/Pipfile'
+  args:
+    - '/github/workspace/out'
