@@ -1,29 +1,87 @@
 syntax = "proto3";
 
-option java_multiple_files = true;
+package github.nkibler7.osrswikiscraper;
 
+option java_multiple_files = true;
+option java_package = "com.github.nkibler7.osrswikiscraper";
+
+// A collection of NpcInfo protos that each describe an NPC scraped from the OSRS wiki.
 message NpcInfos {
+  // The list of scraped NPCs from the wiki.
   repeated NpcInfo npcs = 1;
 }
 
+// A single NPC defined on the OSRS wiki.
+//
+// Note that NPCs with variants or "versions" may have multiple NpcInfo protos in the processed list. The set of IDs
+// should always be unique, though.
+//
+// These protos are parsed from the "Infobox Monster" templates found on the wiki pages associated with the "Monsters"
+// category. The field names listed here exactly match the key names used in the template. Multi-versioned key/value
+// pairs are identified with numeric suffixes (i.e. "version1") and cause multiple NpcInfos to be generated, one for
+// each unique number suffix.
 message NpcInfo {
+  // The list of IDs associated with this NPC.
   repeated int32 ids = 1;
 
+  // =============================================== Combat Stats Start ===============================================
+
+  // The max health of this NPC.
   int32 hitpoints = 2;
+
+  // The attack stat of this NPC, a measure of its melee accuracy.
   int32 att = 3;
+
+  // The strength stat of this NPC, a measure of its melee power.
   int32 str = 4;
+
+  // The defence stat of this NPC, a measure of its damage protection in combat.
   int32 def = 5;
+
+  // The magic stat of this NPC.
   int32 mage = 6;
+
+  // The ranged stat of this NPC.
   int32 range = 7;
+
+  // ================================================ Combat Stats End ================================================
+
+  // ============================================= Aggressive Stats Start =============================================
+
+  // The bonus attack stat of this NPC.
   int32 attbns = 8;
+
+  // The bonus strength stat of this NPC.
   int32 strbns = 9;
+
+  // The bonus magic stat of this NPC.
   int32 amagic = 10;
+
+  // The bonus magic damage stat of this NPC.
   int32 mbns = 11;
+
+  // The bonus ranged stat of this NPC.
   int32 arange = 12;
+
+  // The bonus ranged damage stat of this NPC.
   int32 rngbns = 13;
+
+  // ============================================== Aggressive Stats End ==============================================
+
+  // ============================================== Defensive Stats Start ==============================================
+
+  // This NPC's resistance to stab attacks.
   int32 dstab = 14;
+
+  // This NPC's resistance to slash attacks.
   int32 dslash = 15;
+
+  // This NPC's resistance to crush attacks.
   int32 dcrush = 16;
+
+  // This NPC's resistance to magic attacks.
   int32 dmagic = 17;
+
+  // This NPC's resistance to ranged attacks.
   int32 drange = 18;
 }

@@ -15,11 +15,11 @@ _sym_db = _symbol_database.Default()
 
 DESCRIPTOR = _descriptor.FileDescriptor(
   name='npc_infos.proto',
-  package='',
+  package='github.nkibler7.osrswikiscraper',
   syntax='proto3',
-  serialized_options=b'P\001',
+  serialized_options=b'\n#com.github.nkibler7.osrswikiscraperP\001',
   create_key=_descriptor._internal_create_key,
-  serialized_pb=b'\n\x0fnpc_infos.proto\"\"\n\x08NpcInfos\x12\x16\n\x04npcs\x18\x01 \x03(\x0b\x32\x08.NpcInfo\"\x9a\x02\n\x07NpcInfo\x12\x0b\n\x03ids\x18\x01 \x03(\x05\x12\x11\n\thitpoints\x18\x02 \x01(\x05\x12\x0b\n\x03\x61tt\x18\x03 \x01(\x05\x12\x0b\n\x03str\x18\x04 \x01(\x05\x12\x0b\n\x03\x64\x65\x66\x18\x05 \x01(\x05\x12\x0c\n\x04mage\x18\x06 \x01(\x05\x12\r\n\x05range\x18\x07 \x01(\x05\x12\x0e\n\x06\x61ttbns\x18\x08 \x01(\x05\x12\x0e\n\x06strbns\x18\t \x01(\x05\x12\x0e\n\x06\x61magic\x18\n \x01(\x05\x12\x0c\n\x04mbns\x18\x0b \x01(\x05\x12\x0e\n\x06\x61range\x18\x0c \x01(\x05\x12\x0e\n\x06rngbns\x18\r \x01(\x05\x12\r\n\x05\x64stab\x18\x0e \x01(\x05\x12\x0e\n\x06\x64slash\x18\x0f \x01(\x05\x12\x0e\n\x06\x64\x63rush\x18\x10 \x01(\x05\x12\x0e\n\x06\x64magic\x18\x11 \x01(\x05\x12\x0e\n\x06\x64range\x18\x12 \x01(\x05\x42\x02P\x01\x62\x06proto3'
+  serialized_pb=b'\n\x0fnpc_infos.proto\x12\x1fgithub.nkibler7.osrswikiscraper\"B\n\x08NpcInfos\x12\x36\n\x04npcs\x18\x01 \x03(\x0b\x32(.github.nkibler7.osrswikiscraper.NpcInfo\"\x9a\x02\n\x07NpcInfo\x12\x0b\n\x03ids\x18\x01 \x03(\x05\x12\x11\n\thitpoints\x18\x02 \x01(\x05\x12\x0b\n\x03\x61tt\x18\x03 \x01(\x05\x12\x0b\n\x03str\x18\x04 \x01(\x05\x12\x0b\n\x03\x64\x65\x66\x18\x05 \x01(\x05\x12\x0c\n\x04mage\x18\x06 \x01(\x05\x12\r\n\x05range\x18\x07 \x01(\x05\x12\x0e\n\x06\x61ttbns\x18\x08 \x01(\x05\x12\x0e\n\x06strbns\x18\t \x01(\x05\x12\x0e\n\x06\x61magic\x18\n \x01(\x05\x12\x0c\n\x04mbns\x18\x0b \x01(\x05\x12\x0e\n\x06\x61range\x18\x0c \x01(\x05\x12\x0e\n\x06rngbns\x18\r \x01(\x05\x12\r\n\x05\x64stab\x18\x0e \x01(\x05\x12\x0e\n\x06\x64slash\x18\x0f \x01(\x05\x12\x0e\n\x06\x64\x63rush\x18\x10 \x01(\x05\x12\x0e\n\x06\x64magic\x18\x11 \x01(\x05\x12\x0e\n\x06\x64range\x18\x12 \x01(\x05\x42\'\n#com.github.nkibler7.osrswikiscraperP\x01\x62\x06proto3'
 )
 
 
@@ -27,14 +27,14 @@ DESCRIPTOR = _descriptor.FileDescriptor(
 
 _NPCINFOS = _descriptor.Descriptor(
   name='NpcInfos',
-  full_name='NpcInfos',
+  full_name='github.nkibler7.osrswikiscraper.NpcInfos',
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
   create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
-      name='npcs', full_name='NpcInfos.npcs', index=0,
+      name='npcs', full_name='github.nkibler7.osrswikiscraper.NpcInfos.npcs', index=0,
       number=1, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
@@ -52,140 +52,140 @@ _NPCINFOS = _descriptor.Descriptor(
   extension_ranges=[],
   oneofs=[
   ],
-  serialized_start=19,
-  serialized_end=53,
+  serialized_start=52,
+  serialized_end=118,
 )
 
 
 _NPCINFO = _descriptor.Descriptor(
   name='NpcInfo',
-  full_name='NpcInfo',
+  full_name='github.nkibler7.osrswikiscraper.NpcInfo',
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
   create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
-      name='ids', full_name='NpcInfo.ids', index=0,
+      name='ids', full_name='github.nkibler7.osrswikiscraper.NpcInfo.ids', index=0,
       number=1, type=5, cpp_type=1, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
-      name='hitpoints', full_name='NpcInfo.hitpoints', index=1,
+      name='hitpoints', full_name='github.nkibler7.osrswikiscraper.NpcInfo.hitpoints', index=1,
       number=2, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
-      name='att', full_name='NpcInfo.att', index=2,
+      name='att', full_name='github.nkibler7.osrswikiscraper.NpcInfo.att', index=2,
       number=3, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
-      name='str', full_name='NpcInfo.str', index=3,
+      name='str', full_name='github.nkibler7.osrswikiscraper.NpcInfo.str', index=3,
       number=4, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
-      name='def', full_name='NpcInfo.def', index=4,
+      name='def', full_name='github.nkibler7.osrswikiscraper.NpcInfo.def', index=4,
       number=5, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
-      name='mage', full_name='NpcInfo.mage', index=5,
+      name='mage', full_name='github.nkibler7.osrswikiscraper.NpcInfo.mage', index=5,
       number=6, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
-      name='range', full_name='NpcInfo.range', index=6,
+      name='range', full_name='github.nkibler7.osrswikiscraper.NpcInfo.range', index=6,
       number=7, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
-      name='attbns', full_name='NpcInfo.attbns', index=7,
+      name='attbns', full_name='github.nkibler7.osrswikiscraper.NpcInfo.attbns', index=7,
       number=8, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
-      name='strbns', full_name='NpcInfo.strbns', index=8,
+      name='strbns', full_name='github.nkibler7.osrswikiscraper.NpcInfo.strbns', index=8,
       number=9, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
-      name='amagic', full_name='NpcInfo.amagic', index=9,
+      name='amagic', full_name='github.nkibler7.osrswikiscraper.NpcInfo.amagic', index=9,
       number=10, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
-      name='mbns', full_name='NpcInfo.mbns', index=10,
+      name='mbns', full_name='github.nkibler7.osrswikiscraper.NpcInfo.mbns', index=10,
       number=11, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
-      name='arange', full_name='NpcInfo.arange', index=11,
+      name='arange', full_name='github.nkibler7.osrswikiscraper.NpcInfo.arange', index=11,
       number=12, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
-      name='rngbns', full_name='NpcInfo.rngbns', index=12,
+      name='rngbns', full_name='github.nkibler7.osrswikiscraper.NpcInfo.rngbns', index=12,
       number=13, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
-      name='dstab', full_name='NpcInfo.dstab', index=13,
+      name='dstab', full_name='github.nkibler7.osrswikiscraper.NpcInfo.dstab', index=13,
       number=14, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
-      name='dslash', full_name='NpcInfo.dslash', index=14,
+      name='dslash', full_name='github.nkibler7.osrswikiscraper.NpcInfo.dslash', index=14,
       number=15, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
-      name='dcrush', full_name='NpcInfo.dcrush', index=15,
+      name='dcrush', full_name='github.nkibler7.osrswikiscraper.NpcInfo.dcrush', index=15,
       number=16, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
-      name='dmagic', full_name='NpcInfo.dmagic', index=16,
+      name='dmagic', full_name='github.nkibler7.osrswikiscraper.NpcInfo.dmagic', index=16,
       number=17, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
       serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
-      name='drange', full_name='NpcInfo.drange', index=17,
+      name='drange', full_name='github.nkibler7.osrswikiscraper.NpcInfo.drange', index=17,
       number=18, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
@@ -203,8 +203,8 @@ _NPCINFO = _descriptor.Descriptor(
   extension_ranges=[],
   oneofs=[
   ],
-  serialized_start=56,
-  serialized_end=338,
+  serialized_start=121,
+  serialized_end=403,
 )
 
 _NPCINFOS.fields_by_name['npcs'].message_type = _NPCINFO
@@ -215,14 +215,14 @@ _sym_db.RegisterFileDescriptor(DESCRIPTOR)
 NpcInfos = _reflection.GeneratedProtocolMessageType('NpcInfos', (_message.Message,), {
   'DESCRIPTOR' : _NPCINFOS,
   '__module__' : 'npc_infos_pb2'
-  # @@protoc_insertion_point(class_scope:NpcInfos)
+  # @@protoc_insertion_point(class_scope:github.nkibler7.osrswikiscraper.NpcInfos)
   })
 _sym_db.RegisterMessage(NpcInfos)
 
 NpcInfo = _reflection.GeneratedProtocolMessageType('NpcInfo', (_message.Message,), {
   'DESCRIPTOR' : _NPCINFO,
   '__module__' : 'npc_infos_pb2'
-  # @@protoc_insertion_point(class_scope:NpcInfo)
+  # @@protoc_insertion_point(class_scope:github.nkibler7.osrswikiscraper.NpcInfo)
   })
 _sym_db.RegisterMessage(NpcInfo)
 
