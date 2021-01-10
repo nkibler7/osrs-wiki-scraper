@@ -2,6 +2,7 @@ import errno
 import os
 import re
 from google.protobuf.message import Message
+from google.protobuf.text_format import MessageToString
 from typing import *
 
 comment_stripper = re.compile(r'<!--(.*?)-->')
@@ -16,8 +17,13 @@ def write_proto(message: Message, filename: str):
             if exc.errno != errno.EEXIST:
                 raise
 
-    with open(filename, "wb") as f:
+    binary_filename = filename + '.binarypb'
+    with open(binary_filename, "wb") as f:
         f.write(message.SerializeToString())
+
+    text_filename = filename + '.textproto'
+    with open(text_filename, "w") as f:
+        f.write(MessageToString(message))
 
 
 def get_infobox_versions(code) -> Iterator[Dict[str, Any]]:

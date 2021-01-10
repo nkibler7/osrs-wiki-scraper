@@ -51,7 +51,7 @@ def parse_and_write_npcinfos(output_dir: str):
             except ParseError:
                 warn('Failed to parse JSON into NpcInfo proto: {}'.format(filtered_infobox))
 
-    output_filename = os.path.join(output_dir, 'npc_infos.binarypb')
+    output_filename = os.path.join(output_dir, 'npc_infos')
     util.write_proto(npc_infos, output_filename)
     print('{} NpcInfos written to: {}'.format(len(npc_infos.npcs), output_filename))
 
