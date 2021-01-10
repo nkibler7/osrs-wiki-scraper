@@ -27,6 +27,8 @@ private static final long serialVersionUID = 0L;
   }
   private NpcInfo() {
     ids_ = emptyIntList();
+    name_ = "";
+    version_ = "";
   }
 
   @java.lang.Override
@@ -166,6 +168,18 @@ private static final long serialVersionUID = 0L;
             drange_ = input.readInt32();
             break;
           }
+          case 154: {
+            java.lang.String s = input.readStringRequireUtf8();
+
+            name_ = s;
+            break;
+          }
+          case 162: {
+            java.lang.String s = input.readStringRequireUtf8();
+
+            version_ = s;
+            break;
+          }
           default: {
             if (!parseUnknownField(
                 input, unknownFields, extensionRegistry, tag)) {
@@ -240,6 +254,102 @@ private static final long serialVersionUID = 0L;
     return ids_.getInt(index);
   }
   private int idsMemoizedSerializedSize = -1;
+
+  public static final int NAME_FIELD_NUMBER = 19;
+  private volatile java.lang.Object name_;
+  /**
+   * <pre>
+   * The name of this NPC.
+   * </pre>
+   *
+   * <code>string name = 19;</code>
+   * @return The name.
+   */
+  @java.lang.Override
+  public java.lang.String getName() {
+    java.lang.Object ref = name_;
+    if (ref instanceof java.lang.String) {
+      return (java.lang.String) ref;
+    } else {
+      com.google.protobuf.ByteString bs = 
+          (com.google.protobuf.ByteString) ref;
+      java.lang.String s = bs.toStringUtf8();
+      name_ = s;
+      return s;
+    }
+  }
+  /**
+   * <pre>
+   * The name of this NPC.
+   * </pre>
+   *
+   * <code>string name = 19;</code>
+   * @return The bytes for name.
+   */
+  @java.lang.Override
+  public com.google.protobuf.ByteString
+      getNameBytes() {
+    java.lang.Object ref = name_;
+    if (ref instanceof java.lang.String) {
+      com.google.protobuf.ByteString b = 
+          com.google.protobuf.ByteString.copyFromUtf8(
+              (java.lang.String) ref);
+      name_ = b;
+      return b;
+    } else {
+      return (com.google.protobuf.ByteString) ref;
+    }
+  }
+
+  public static final int VERSION_FIELD_NUMBER = 20;
+  private volatile java.lang.Object version_;
+  /**
+   * <pre>
+   * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple versions, yet are
+   * represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
+   * like the Abyssal Sire.
+   * </pre>
+   *
+   * <code>string version = 20;</code>
+   * @return The version.
+   */
+  @java.lang.Override
+  public java.lang.String getVersion() {
+    java.lang.Object ref = version_;
+    if (ref instanceof java.lang.String) {
+      return (java.lang.String) ref;
+    } else {
+      com.google.protobuf.ByteString bs = 
+          (com.google.protobuf.ByteString) ref;
+      java.lang.String s = bs.toStringUtf8();
+      version_ = s;
+      return s;
+    }
+  }
+  /**
+   * <pre>
+   * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple versions, yet are
+   * represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
+   * like the Abyssal Sire.
+   * </pre>
+   *
+   * <code>string version = 20;</code>
+   * @return The bytes for version.
+   */
+  @java.lang.Override
+  public com.google.protobuf.ByteString
+      getVersionBytes() {
+    java.lang.Object ref = version_;
+    if (ref instanceof java.lang.String) {
+      com.google.protobuf.ByteString b = 
+          com.google.protobuf.ByteString.copyFromUtf8(
+              (java.lang.String) ref);
+      version_ = b;
+      return b;
+    } else {
+      return (com.google.protobuf.ByteString) ref;
+    }
+  }
 
   public static final int HITPOINTS_FIELD_NUMBER = 2;
   private int hitpoints_;
@@ -569,6 +679,12 @@ private static final long serialVersionUID = 0L;
     if (drange_ != 0) {
       output.writeInt32(18, drange_);
     }
+    if (!getNameBytes().isEmpty()) {
+      com.google.protobuf.GeneratedMessageV3.writeString(output, 19, name_);
+    }
+    if (!getVersionBytes().isEmpty()) {
+      com.google.protobuf.GeneratedMessageV3.writeString(output, 20, version_);
+    }
     unknownFields.writeTo(output);
   }
 
@@ -660,6 +776,12 @@ private static final long serialVersionUID = 0L;
       size += com.google.protobuf.CodedOutputStream
         .computeInt32Size(18, drange_);
     }
+    if (!getNameBytes().isEmpty()) {
+      size += com.google.protobuf.GeneratedMessageV3.computeStringSize(19, name_);
+    }
+    if (!getVersionBytes().isEmpty()) {
+      size += com.google.protobuf.GeneratedMessageV3.computeStringSize(20, version_);
+    }
     size += unknownFields.getSerializedSize();
     memoizedSize = size;
     return size;
@@ -677,6 +799,10 @@ private static final long serialVersionUID = 0L;
 
     if (!getIdsList()
         .equals(other.getIdsList())) return false;
+    if (!getName()
+        .equals(other.getName())) return false;
+    if (!getVersion()
+        .equals(other.getVersion())) return false;
     if (getHitpoints()
         != other.getHitpoints()) return false;
     if (getAtt()
@@ -726,6 +852,10 @@ private static final long serialVersionUID = 0L;
       hash = (37 * hash) + IDS_FIELD_NUMBER;
       hash = (53 * hash) + getIdsList().hashCode();
     }
+    hash = (37 * hash) + NAME_FIELD_NUMBER;
+    hash = (53 * hash) + getName().hashCode();
+    hash = (37 * hash) + VERSION_FIELD_NUMBER;
+    hash = (53 * hash) + getVersion().hashCode();
     hash = (37 * hash) + HITPOINTS_FIELD_NUMBER;
     hash = (53 * hash) + getHitpoints();
     hash = (37 * hash) + ATT_FIELD_NUMBER;
@@ -905,6 +1035,10 @@ private static final long serialVersionUID = 0L;
       super.clear();
       ids_ = emptyIntList();
       bitField0_ = (bitField0_ & ~0x00000001);
+      name_ = "";
+
+      version_ = "";
+
       hitpoints_ = 0;
 
       att_ = 0;
@@ -971,6 +1105,8 @@ private static final long serialVersionUID = 0L;
         bitField0_ = (bitField0_ & ~0x00000001);
       }
       result.ids_ = ids_;
+      result.name_ = name_;
+      result.version_ = version_;
       result.hitpoints_ = hitpoints_;
       result.att_ = att_;
       result.str_ = str_;
@@ -1044,6 +1180,14 @@ private static final long serialVersionUID = 0L;
           ensureIdsIsMutable();
           ids_.addAll(other.ids_);
         }
+        onChanged();
+      }
+      if (!other.getName().isEmpty()) {
+        name_ = other.name_;
+        onChanged();
+      }
+      if (!other.getVersion().isEmpty()) {
+        version_ = other.version_;
         onChanged();
       }
       if (other.getHitpoints() != 0) {
@@ -1230,6 +1374,208 @@ private static final long serialVersionUID = 0L;
     public Builder clearIds() {
       ids_ = emptyIntList();
       bitField0_ = (bitField0_ & ~0x00000001);
+      onChanged();
+      return this;
+    }
+
+    private java.lang.Object name_ = "";
+    /**
+     * <pre>
+     * The name of this NPC.
+     * </pre>
+     *
+     * <code>string name = 19;</code>
+     * @return The name.
+     */
+    public java.lang.String getName() {
+      java.lang.Object ref = name_;
+      if (!(ref instanceof java.lang.String)) {
+        com.google.protobuf.ByteString bs =
+            (com.google.protobuf.ByteString) ref;
+        java.lang.String s = bs.toStringUtf8();
+        name_ = s;
+        return s;
+      } else {
+        return (java.lang.String) ref;
+      }
+    }
+    /**
+     * <pre>
+     * The name of this NPC.
+     * </pre>
+     *
+     * <code>string name = 19;</code>
+     * @return The bytes for name.
+     */
+    public com.google.protobuf.ByteString
+        getNameBytes() {
+      java.lang.Object ref = name_;
+      if (ref instanceof String) {
+        com.google.protobuf.ByteString b = 
+            com.google.protobuf.ByteString.copyFromUtf8(
+                (java.lang.String) ref);
+        name_ = b;
+        return b;
+      } else {
+        return (com.google.protobuf.ByteString) ref;
+      }
+    }
+    /**
+     * <pre>
+     * The name of this NPC.
+     * </pre>
+     *
+     * <code>string name = 19;</code>
+     * @param value The name to set.
+     * @return This builder for chaining.
+     */
+    public Builder setName(
+        java.lang.String value) {
+      if (value == null) {
+    throw new NullPointerException();
+  }
+  
+      name_ = value;
+      onChanged();
+      return this;
+    }
+    /**
+     * <pre>
+     * The name of this NPC.
+     * </pre>
+     *
+     * <code>string name = 19;</code>
+     * @return This builder for chaining.
+     */
+    public Builder clearName() {
+      
+      name_ = getDefaultInstance().getName();
+      onChanged();
+      return this;
+    }
+    /**
+     * <pre>
+     * The name of this NPC.
+     * </pre>
+     *
+     * <code>string name = 19;</code>
+     * @param value The bytes for name to set.
+     * @return This builder for chaining.
+     */
+    public Builder setNameBytes(
+        com.google.protobuf.ByteString value) {
+      if (value == null) {
+    throw new NullPointerException();
+  }
+  checkByteStringIsUtf8(value);
+      
+      name_ = value;
+      onChanged();
+      return this;
+    }
+
+    private java.lang.Object version_ = "";
+    /**
+     * <pre>
+     * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple versions, yet are
+     * represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
+     * like the Abyssal Sire.
+     * </pre>
+     *
+     * <code>string version = 20;</code>
+     * @return The version.
+     */
+    public java.lang.String getVersion() {
+      java.lang.Object ref = version_;
+      if (!(ref instanceof java.lang.String)) {
+        com.google.protobuf.ByteString bs =
+            (com.google.protobuf.ByteString) ref;
+        java.lang.String s = bs.toStringUtf8();
+        version_ = s;
+        return s;
+      } else {
+        return (java.lang.String) ref;
+      }
+    }
+    /**
+     * <pre>
+     * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple versions, yet are
+     * represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
+     * like the Abyssal Sire.
+     * </pre>
+     *
+     * <code>string version = 20;</code>
+     * @return The bytes for version.
+     */
+    public com.google.protobuf.ByteString
+        getVersionBytes() {
+      java.lang.Object ref = version_;
+      if (ref instanceof String) {
+        com.google.protobuf.ByteString b = 
+            com.google.protobuf.ByteString.copyFromUtf8(
+                (java.lang.String) ref);
+        version_ = b;
+        return b;
+      } else {
+        return (com.google.protobuf.ByteString) ref;
+      }
+    }
+    /**
+     * <pre>
+     * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple versions, yet are
+     * represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
+     * like the Abyssal Sire.
+     * </pre>
+     *
+     * <code>string version = 20;</code>
+     * @param value The version to set.
+     * @return This builder for chaining.
+     */
+    public Builder setVersion(
+        java.lang.String value) {
+      if (value == null) {
+    throw new NullPointerException();
+  }
+  
+      version_ = value;
+      onChanged();
+      return this;
+    }
+    /**
+     * <pre>
+     * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple versions, yet are
+     * represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
+     * like the Abyssal Sire.
+     * </pre>
+     *
+     * <code>string version = 20;</code>
+     * @return This builder for chaining.
+     */
+    public Builder clearVersion() {
+      
+      version_ = getDefaultInstance().getVersion();
+      onChanged();
+      return this;
+    }
+    /**
+     * <pre>
+     * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple versions, yet are
+     * represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
+     * like the Abyssal Sire.
+     * </pre>
+     *
+     * <code>string version = 20;</code>
+     * @param value The bytes for version to set.
+     * @return This builder for chaining.
+     */
+    public Builder setVersionBytes(
+        com.google.protobuf.ByteString value) {
+      if (value == null) {
+    throw new NullPointerException();
+  }
+  checkByteStringIsUtf8(value);
+      
+      version_ = value;
       onChanged();
       return this;
     }

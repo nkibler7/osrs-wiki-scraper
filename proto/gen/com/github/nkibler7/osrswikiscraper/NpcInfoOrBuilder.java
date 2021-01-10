@@ -38,6 +38,50 @@ public interface NpcInfoOrBuilder extends
 
   /**
    * <pre>
+   * The name of this NPC.
+   * </pre>
+   *
+   * <code>string name = 19;</code>
+   * @return The name.
+   */
+  java.lang.String getName();
+  /**
+   * <pre>
+   * The name of this NPC.
+   * </pre>
+   *
+   * <code>string name = 19;</code>
+   * @return The bytes for name.
+   */
+  com.google.protobuf.ByteString
+      getNameBytes();
+
+  /**
+   * <pre>
+   * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple versions, yet are
+   * represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
+   * like the Abyssal Sire.
+   * </pre>
+   *
+   * <code>string version = 20;</code>
+   * @return The version.
+   */
+  java.lang.String getVersion();
+  /**
+   * <pre>
+   * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple versions, yet are
+   * represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
+   * like the Abyssal Sire.
+   * </pre>
+   *
+   * <code>string version = 20;</code>
+   * @return The bytes for version.
+   */
+  com.google.protobuf.ByteString
+      getVersionBytes();
+
+  /**
+   * <pre>
    * The max health of this NPC.
    * </pre>
    *

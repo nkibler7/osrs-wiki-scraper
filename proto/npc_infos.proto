@@ -24,6 +24,14 @@ message NpcInfo {
   // The list of IDs associated with this NPC.
   repeated int32 ids = 1;
 
+  // The name of this NPC.
+  string name = 19;
+
+  // The name of the version of this NPC, if one exists. This is set for NPCs that have multiple versions, yet are
+  // represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
+  // like the Abyssal Sire.
+  string version = 20;
+
   // =============================================== Combat Stats Start ===============================================
 
   // The max health of this NPC.
