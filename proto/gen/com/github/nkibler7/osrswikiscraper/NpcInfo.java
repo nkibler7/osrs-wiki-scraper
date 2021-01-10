@@ -83,101 +83,101 @@ private static final long serialVersionUID = 0L;
             input.popLimit(limit);
             break;
           }
-          case 16: {
-
-            hitpoints_ = input.readInt32();
-            break;
-          }
-          case 24: {
-
-            att_ = input.readInt32();
-            break;
-          }
-          case 32: {
-
-            str_ = input.readInt32();
-            break;
-          }
-          case 40: {
-
-            def_ = input.readInt32();
-            break;
-          }
-          case 48: {
-
-            mage_ = input.readInt32();
-            break;
-          }
-          case 56: {
-
-            range_ = input.readInt32();
-            break;
-          }
-          case 64: {
-
-            attbns_ = input.readInt32();
-            break;
-          }
-          case 72: {
-
-            strbns_ = input.readInt32();
-            break;
-          }
-          case 80: {
-
-            amagic_ = input.readInt32();
-            break;
-          }
-          case 88: {
-
-            mbns_ = input.readInt32();
-            break;
-          }
-          case 96: {
-
-            arange_ = input.readInt32();
-            break;
-          }
-          case 104: {
-
-            rngbns_ = input.readInt32();
-            break;
-          }
-          case 112: {
-
-            dstab_ = input.readInt32();
-            break;
-          }
-          case 120: {
-
-            dslash_ = input.readInt32();
-            break;
-          }
-          case 128: {
-
-            dcrush_ = input.readInt32();
-            break;
-          }
-          case 136: {
-
-            dmagic_ = input.readInt32();
-            break;
-          }
-          case 144: {
-
-            drange_ = input.readInt32();
-            break;
-          }
-          case 154: {
+          case 18: {
             java.lang.String s = input.readStringRequireUtf8();
 
             name_ = s;
             break;
           }
-          case 162: {
+          case 26: {
             java.lang.String s = input.readStringRequireUtf8();
 
             version_ = s;
+            break;
+          }
+          case 32: {
+
+            hitpoints_ = input.readInt32();
+            break;
+          }
+          case 40: {
+
+            att_ = input.readInt32();
+            break;
+          }
+          case 48: {
+
+            str_ = input.readInt32();
+            break;
+          }
+          case 56: {
+
+            def_ = input.readInt32();
+            break;
+          }
+          case 64: {
+
+            mage_ = input.readInt32();
+            break;
+          }
+          case 72: {
+
+            range_ = input.readInt32();
+            break;
+          }
+          case 80: {
+
+            attbns_ = input.readInt32();
+            break;
+          }
+          case 88: {
+
+            strbns_ = input.readInt32();
+            break;
+          }
+          case 96: {
+
+            amagic_ = input.readInt32();
+            break;
+          }
+          case 104: {
+
+            mbns_ = input.readInt32();
+            break;
+          }
+          case 112: {
+
+            arange_ = input.readInt32();
+            break;
+          }
+          case 120: {
+
+            rngbns_ = input.readInt32();
+            break;
+          }
+          case 128: {
+
+            dstab_ = input.readInt32();
+            break;
+          }
+          case 136: {
+
+            dslash_ = input.readInt32();
+            break;
+          }
+          case 144: {
+
+            dcrush_ = input.readInt32();
+            break;
+          }
+          case 152: {
+
+            dmagic_ = input.readInt32();
+            break;
+          }
+          case 160: {
+
+            drange_ = input.readInt32();
             break;
           }
           default: {
@@ -255,14 +255,14 @@ private static final long serialVersionUID = 0L;
   }
   private int idsMemoizedSerializedSize = -1;
 
-  public static final int NAME_FIELD_NUMBER = 19;
+  public static final int NAME_FIELD_NUMBER = 2;
   private volatile java.lang.Object name_;
   /**
    * <pre>
    * The name of this NPC.
    * </pre>
    *
-   * <code>string name = 19;</code>
+   * <code>string name = 2;</code>
    * @return The name.
    */
   @java.lang.Override
@@ -283,7 +283,7 @@ private static final long serialVersionUID = 0L;
    * The name of this NPC.
    * </pre>
    *
-   * <code>string name = 19;</code>
+   * <code>string name = 2;</code>
    * @return The bytes for name.
    */
   @java.lang.Override
@@ -301,7 +301,7 @@ private static final long serialVersionUID = 0L;
     }
   }
 
-  public static final int VERSION_FIELD_NUMBER = 20;
+  public static final int VERSION_FIELD_NUMBER = 3;
   private volatile java.lang.Object version_;
   /**
    * <pre>
@@ -310,7 +310,7 @@ private static final long serialVersionUID = 0L;
    * like the Abyssal Sire.
    * </pre>
    *
-   * <code>string version = 20;</code>
+   * <code>string version = 3;</code>
    * @return The version.
    */
   @java.lang.Override
@@ -333,7 +333,7 @@ private static final long serialVersionUID = 0L;
    * like the Abyssal Sire.
    * </pre>
    *
-   * <code>string version = 20;</code>
+   * <code>string version = 3;</code>
    * @return The bytes for version.
    */
   @java.lang.Override
@@ -351,14 +351,14 @@ private static final long serialVersionUID = 0L;
     }
   }
 
-  public static final int HITPOINTS_FIELD_NUMBER = 2;
+  public static final int HITPOINTS_FIELD_NUMBER = 4;
   private int hitpoints_;
   /**
    * <pre>
    * The max health of this NPC.
    * </pre>
    *
-   * <code>int32 hitpoints = 2;</code>
+   * <code>int32 hitpoints = 4;</code>
    * @return The hitpoints.
    */
   @java.lang.Override
@@ -366,14 +366,14 @@ private static final long serialVersionUID = 0L;
     return hitpoints_;
   }
 
-  public static final int ATT_FIELD_NUMBER = 3;
+  public static final int ATT_FIELD_NUMBER = 5;
   private int att_;
   /**
    * <pre>
    * The attack stat of this NPC, a measure of its melee accuracy.
    * </pre>
    *
-   * <code>int32 att = 3;</code>
+   * <code>int32 att = 5;</code>
    * @return The att.
    */
   @java.lang.Override
@@ -381,14 +381,14 @@ private static final long serialVersionUID = 0L;
     return att_;
   }
 
-  public static final int STR_FIELD_NUMBER = 4;
+  public static final int STR_FIELD_NUMBER = 6;
   private int str_;
   /**
    * <pre>
    * The strength stat of this NPC, a measure of its melee power.
    * </pre>
    *
-   * <code>int32 str = 4;</code>
+   * <code>int32 str = 6;</code>
    * @return The str.
    */
   @java.lang.Override
@@ -396,14 +396,14 @@ private static final long serialVersionUID = 0L;
     return str_;
   }
 
-  public static final int DEF_FIELD_NUMBER = 5;
+  public static final int DEF_FIELD_NUMBER = 7;
   private int def_;
   /**
    * <pre>
    * The defence stat of this NPC, a measure of its damage protection in combat.
    * </pre>
    *
-   * <code>int32 def = 5;</code>
+   * <code>int32 def = 7;</code>
    * @return The def.
    */
   @java.lang.Override
@@ -411,14 +411,14 @@ private static final long serialVersionUID = 0L;
     return def_;
   }
 
-  public static final int MAGE_FIELD_NUMBER = 6;
+  public static final int MAGE_FIELD_NUMBER = 8;
   private int mage_;
   /**
    * <pre>
    * The magic stat of this NPC.
    * </pre>
    *
-   * <code>int32 mage = 6;</code>
+   * <code>int32 mage = 8;</code>
    * @return The mage.
    */
   @java.lang.Override
@@ -426,14 +426,14 @@ private static final long serialVersionUID = 0L;
     return mage_;
   }
 
-  public static final int RANGE_FIELD_NUMBER = 7;
+  public static final int RANGE_FIELD_NUMBER = 9;
   private int range_;
   /**
    * <pre>
    * The ranged stat of this NPC.
    * </pre>
    *
-   * <code>int32 range = 7;</code>
+   * <code>int32 range = 9;</code>
    * @return The range.
    */
   @java.lang.Override
@@ -441,14 +441,14 @@ private static final long serialVersionUID = 0L;
     return range_;
   }
 
-  public static final int ATTBNS_FIELD_NUMBER = 8;
+  public static final int ATTBNS_FIELD_NUMBER = 10;
   private int attbns_;
   /**
    * <pre>
    * The bonus attack stat of this NPC.
    * </pre>
    *
-   * <code>int32 attbns = 8;</code>
+   * <code>int32 attbns = 10;</code>
    * @return The attbns.
    */
   @java.lang.Override
@@ -456,14 +456,14 @@ private static final long serialVersionUID = 0L;
     return attbns_;
   }
 
-  public static final int STRBNS_FIELD_NUMBER = 9;
+  public static final int STRBNS_FIELD_NUMBER = 11;
   private int strbns_;
   /**
    * <pre>
    * The bonus strength stat of this NPC.
    * </pre>
    *
-   * <code>int32 strbns = 9;</code>
+   * <code>int32 strbns = 11;</code>
    * @return The strbns.
    */
   @java.lang.Override
@@ -471,14 +471,14 @@ private static final long serialVersionUID = 0L;
     return strbns_;
   }
 
-  public static final int AMAGIC_FIELD_NUMBER = 10;
+  public static final int AMAGIC_FIELD_NUMBER = 12;
   private int amagic_;
   /**
    * <pre>
    * The bonus magic stat of this NPC.
    * </pre>
    *
-   * <code>int32 amagic = 10;</code>
+   * <code>int32 amagic = 12;</code>
    * @return The amagic.
    */
   @java.lang.Override
@@ -486,14 +486,14 @@ private static final long serialVersionUID = 0L;
     return amagic_;
   }
 
-  public static final int MBNS_FIELD_NUMBER = 11;
+  public static final int MBNS_FIELD_NUMBER = 13;
   private int mbns_;
   /**
    * <pre>
    * The bonus magic damage stat of this NPC.
    * </pre>
    *
-   * <code>int32 mbns = 11;</code>
+   * <code>int32 mbns = 13;</code>
    * @return The mbns.
    */
   @java.lang.Override
@@ -501,14 +501,14 @@ private static final long serialVersionUID = 0L;
     return mbns_;
   }
 
-  public static final int ARANGE_FIELD_NUMBER = 12;
+  public static final int ARANGE_FIELD_NUMBER = 14;
   private int arange_;
   /**
    * <pre>
    * The bonus ranged stat of this NPC.
    * </pre>
    *
-   * <code>int32 arange = 12;</code>
+   * <code>int32 arange = 14;</code>
    * @return The arange.
    */
   @java.lang.Override
@@ -516,14 +516,14 @@ private static final long serialVersionUID = 0L;
     return arange_;
   }
 
-  public static final int RNGBNS_FIELD_NUMBER = 13;
+  public static final int RNGBNS_FIELD_NUMBER = 15;
   private int rngbns_;
   /**
    * <pre>
    * The bonus ranged damage stat of this NPC.
    * </pre>
    *
-   * <code>int32 rngbns = 13;</code>
+   * <code>int32 rngbns = 15;</code>
    * @return The rngbns.
    */
   @java.lang.Override
@@ -531,14 +531,14 @@ private static final long serialVersionUID = 0L;
     return rngbns_;
   }
 
-  public static final int DSTAB_FIELD_NUMBER = 14;
+  public static final int DSTAB_FIELD_NUMBER = 16;
   private int dstab_;
   /**
    * <pre>
    * This NPC's resistance to stab attacks.
    * </pre>
    *
-   * <code>int32 dstab = 14;</code>
+   * <code>int32 dstab = 16;</code>
    * @return The dstab.
    */
   @java.lang.Override
@@ -546,14 +546,14 @@ private static final long serialVersionUID = 0L;
     return dstab_;
   }
 
-  public static final int DSLASH_FIELD_NUMBER = 15;
+  public static final int DSLASH_FIELD_NUMBER = 17;
   private int dslash_;
   /**
    * <pre>
    * This NPC's resistance to slash attacks.
    * </pre>
    *
-   * <code>int32 dslash = 15;</code>
+   * <code>int32 dslash = 17;</code>
    * @return The dslash.
    */
   @java.lang.Override
@@ -561,14 +561,14 @@ private static final long serialVersionUID = 0L;
     return dslash_;
   }
 
-  public static final int DCRUSH_FIELD_NUMBER = 16;
+  public static final int DCRUSH_FIELD_NUMBER = 18;
   private int dcrush_;
   /**
    * <pre>
    * This NPC's resistance to crush attacks.
    * </pre>
    *
-   * <code>int32 dcrush = 16;</code>
+   * <code>int32 dcrush = 18;</code>
    * @return The dcrush.
    */
   @java.lang.Override
@@ -576,14 +576,14 @@ private static final long serialVersionUID = 0L;
     return dcrush_;
   }
 
-  public static final int DMAGIC_FIELD_NUMBER = 17;
+  public static final int DMAGIC_FIELD_NUMBER = 19;
   private int dmagic_;
   /**
    * <pre>
    * This NPC's resistance to magic attacks.
    * </pre>
    *
-   * <code>int32 dmagic = 17;</code>
+   * <code>int32 dmagic = 19;</code>
    * @return The dmagic.
    */
   @java.lang.Override
@@ -591,14 +591,14 @@ private static final long serialVersionUID = 0L;
     return dmagic_;
   }
 
-  public static final int DRANGE_FIELD_NUMBER = 18;
+  public static final int DRANGE_FIELD_NUMBER = 20;
   private int drange_;
   /**
    * <pre>
    * This NPC's resistance to ranged attacks.
    * </pre>
    *
-   * <code>int32 drange = 18;</code>
+   * <code>int32 drange = 20;</code>
    * @return The drange.
    */
   @java.lang.Override
@@ -628,62 +628,62 @@ private static final long serialVersionUID = 0L;
     for (int i = 0; i < ids_.size(); i++) {
       output.writeInt32NoTag(ids_.getInt(i));
     }
-    if (hitpoints_ != 0) {
-      output.writeInt32(2, hitpoints_);
-    }
-    if (att_ != 0) {
-      output.writeInt32(3, att_);
-    }
-    if (str_ != 0) {
-      output.writeInt32(4, str_);
-    }
-    if (def_ != 0) {
-      output.writeInt32(5, def_);
-    }
-    if (mage_ != 0) {
-      output.writeInt32(6, mage_);
-    }
-    if (range_ != 0) {
-      output.writeInt32(7, range_);
-    }
-    if (attbns_ != 0) {
-      output.writeInt32(8, attbns_);
-    }
-    if (strbns_ != 0) {
-      output.writeInt32(9, strbns_);
-    }
-    if (amagic_ != 0) {
-      output.writeInt32(10, amagic_);
-    }
-    if (mbns_ != 0) {
-      output.writeInt32(11, mbns_);
-    }
-    if (arange_ != 0) {
-      output.writeInt32(12, arange_);
-    }
-    if (rngbns_ != 0) {
-      output.writeInt32(13, rngbns_);
-    }
-    if (dstab_ != 0) {
-      output.writeInt32(14, dstab_);
-    }
-    if (dslash_ != 0) {
-      output.writeInt32(15, dslash_);
-    }
-    if (dcrush_ != 0) {
-      output.writeInt32(16, dcrush_);
-    }
-    if (dmagic_ != 0) {
-      output.writeInt32(17, dmagic_);
-    }
-    if (drange_ != 0) {
-      output.writeInt32(18, drange_);
-    }
     if (!getNameBytes().isEmpty()) {
-      com.google.protobuf.GeneratedMessageV3.writeString(output, 19, name_);
+      com.google.protobuf.GeneratedMessageV3.writeString(output, 2, name_);
     }
     if (!getVersionBytes().isEmpty()) {
-      com.google.protobuf.GeneratedMessageV3.writeString(output, 20, version_);
+      com.google.protobuf.GeneratedMessageV3.writeString(output, 3, version_);
+    }
+    if (hitpoints_ != 0) {
+      output.writeInt32(4, hitpoints_);
+    }
+    if (att_ != 0) {
+      output.writeInt32(5, att_);
+    }
+    if (str_ != 0) {
+      output.writeInt32(6, str_);
+    }
+    if (def_ != 0) {
+      output.writeInt32(7, def_);
+    }
+    if (mage_ != 0) {
+      output.writeInt32(8, mage_);
+    }
+    if (range_ != 0) {
+      output.writeInt32(9, range_);
+    }
+    if (attbns_ != 0) {
+      output.writeInt32(10, attbns_);
+    }
+    if (strbns_ != 0) {
+      output.writeInt32(11, strbns_);
+    }
+    if (amagic_ != 0) {
+      output.writeInt32(12, amagic_);
+    }
+    if (mbns_ != 0) {
+      output.writeInt32(13, mbns_);
+    }
+    if (arange_ != 0) {
+      output.writeInt32(14, arange_);
+    }
+    if (rngbns_ != 0) {
+      output.writeInt32(15, rngbns_);
+    }
+    if (dstab_ != 0) {
+      output.writeInt32(16, dstab_);
+    }
+    if (dslash_ != 0) {
+      output.writeInt32(17, dslash_);
+    }
+    if (dcrush_ != 0) {
+      output.writeInt32(18, dcrush_);
+    }
+    if (dmagic_ != 0) {
+      output.writeInt32(19, dmagic_);
+    }
+    if (drange_ != 0) {
+      output.writeInt32(20, drange_);
     }
     unknownFields.writeTo(output);
   }
@@ -708,79 +708,79 @@ private static final long serialVersionUID = 0L;
       }
       idsMemoizedSerializedSize = dataSize;
     }
+    if (!getNameBytes().isEmpty()) {
+      size += com.google.protobuf.GeneratedMessageV3.computeStringSize(2, name_);
+    }
+    if (!getVersionBytes().isEmpty()) {
+      size += com.google.protobuf.GeneratedMessageV3.computeStringSize(3, version_);
+    }
     if (hitpoints_ != 0) {
       size += com.google.protobuf.CodedOutputStream
-        .computeInt32Size(2, hitpoints_);
+        .computeInt32Size(4, hitpoints_);
     }
     if (att_ != 0) {
       size += com.google.protobuf.CodedOutputStream
-        .computeInt32Size(3, att_);
+        .computeInt32Size(5, att_);
     }
     if (str_ != 0) {
       size += com.google.protobuf.CodedOutputStream
-        .computeInt32Size(4, str_);
+        .computeInt32Size(6, str_);
     }
     if (def_ != 0) {
       size += com.google.protobuf.CodedOutputStream
-        .computeInt32Size(5, def_);
+        .computeInt32Size(7, def_);
     }
     if (mage_ != 0) {
       size += com.google.protobuf.CodedOutputStream
-        .computeInt32Size(6, mage_);
+        .computeInt32Size(8, mage_);
     }
     if (range_ != 0) {
       size += com.google.protobuf.CodedOutputStream
-        .computeInt32Size(7, range_);
+        .computeInt32Size(9, range_);
     }
     if (attbns_ != 0) {
       size += com.google.protobuf.CodedOutputStream
-        .computeInt32Size(8, attbns_);
+        .computeInt32Size(10, attbns_);
     }
     if (strbns_ != 0) {
       size += com.google.protobuf.CodedOutputStream
-        .computeInt32Size(9, strbns_);
+        .computeInt32Size(11, strbns_);
     }
     if (amagic_ != 0) {
       size += com.google.protobuf.CodedOutputStream
-        .computeInt32Size(10, amagic_);
+        .computeInt32Size(12, amagic_);
     }
     if (mbns_ != 0) {
       size += com.google.protobuf.CodedOutputStream
-        .computeInt32Size(11, mbns_);
+        .computeInt32Size(13, mbns_);
     }
     if (arange_ != 0) {
       size += com.google.protobuf.CodedOutputStream
-        .computeInt32Size(12, arange_);
+        .computeInt32Size(14, arange_);
     }
     if (rngbns_ != 0) {
       size += com.google.protobuf.CodedOutputStream
-        .computeInt32Size(13, rngbns_);
+        .computeInt32Size(15, rngbns_);
     }
     if (dstab_ != 0) {
       size += com.google.protobuf.CodedOutputStream
-        .computeInt32Size(14, dstab_);
+        .computeInt32Size(16, dstab_);
     }
     if (dslash_ != 0) {
       size += com.google.protobuf.CodedOutputStream
-        .computeInt32Size(15, dslash_);
+        .computeInt32Size(17, dslash_);
     }
     if (dcrush_ != 0) {
       size += com.google.protobuf.CodedOutputStream
-        .computeInt32Size(16, dcrush_);
+        .computeInt32Size(18, dcrush_);
     }
     if (dmagic_ != 0) {
       size += com.google.protobuf.CodedOutputStream
-        .computeInt32Size(17, dmagic_);
+        .computeInt32Size(19, dmagic_);
     }
     if (drange_ != 0) {
       size += com.google.protobuf.CodedOutputStream
-        .computeInt32Size(18, drange_);
-    }
-    if (!getNameBytes().isEmpty()) {
-      size += com.google.protobuf.GeneratedMessageV3.computeStringSize(19, name_);
-    }
-    if (!getVersionBytes().isEmpty()) {
-      size += com.google.protobuf.GeneratedMessageV3.computeStringSize(20, version_);
+        .computeInt32Size(20, drange_);
     }
     size += unknownFields.getSerializedSize();
     memoizedSize = size;
@@ -1384,7 +1384,7 @@ private static final long serialVersionUID = 0L;
      * The name of this NPC.
      * </pre>
      *
-     * <code>string name = 19;</code>
+     * <code>string name = 2;</code>
      * @return The name.
      */
     public java.lang.String getName() {
@@ -1404,7 +1404,7 @@ private static final long serialVersionUID = 0L;
      * The name of this NPC.
      * </pre>
      *
-     * <code>string name = 19;</code>
+     * <code>string name = 2;</code>
      * @return The bytes for name.
      */
     public com.google.protobuf.ByteString
@@ -1425,7 +1425,7 @@ private static final long serialVersionUID = 0L;
      * The name of this NPC.
      * </pre>
      *
-     * <code>string name = 19;</code>
+     * <code>string name = 2;</code>
      * @param value The name to set.
      * @return This builder for chaining.
      */
@@ -1444,7 +1444,7 @@ private static final long serialVersionUID = 0L;
      * The name of this NPC.
      * </pre>
      *
-     * <code>string name = 19;</code>
+     * <code>string name = 2;</code>
      * @return This builder for chaining.
      */
     public Builder clearName() {
@@ -1458,7 +1458,7 @@ private static final long serialVersionUID = 0L;
      * The name of this NPC.
      * </pre>
      *
-     * <code>string name = 19;</code>
+     * <code>string name = 2;</code>
      * @param value The bytes for name to set.
      * @return This builder for chaining.
      */
@@ -1482,7 +1482,7 @@ private static final long serialVersionUID = 0L;
      * like the Abyssal Sire.
      * </pre>
      *
-     * <code>string version = 20;</code>
+     * <code>string version = 3;</code>
      * @return The version.
      */
     public java.lang.String getVersion() {
@@ -1504,7 +1504,7 @@ private static final long serialVersionUID = 0L;
      * like the Abyssal Sire.
      * </pre>
      *
-     * <code>string version = 20;</code>
+     * <code>string version = 3;</code>
      * @return The bytes for version.
      */
     public com.google.protobuf.ByteString
@@ -1527,7 +1527,7 @@ private static final long serialVersionUID = 0L;
      * like the Abyssal Sire.
      * </pre>
      *
-     * <code>string version = 20;</code>
+     * <code>string version = 3;</code>
      * @param value The version to set.
      * @return This builder for chaining.
      */
@@ -1548,7 +1548,7 @@ private static final long serialVersionUID = 0L;
      * like the Abyssal Sire.
      * </pre>
      *
-     * <code>string version = 20;</code>
+     * <code>string version = 3;</code>
      * @return This builder for chaining.
      */
     public Builder clearVersion() {
@@ -1564,7 +1564,7 @@ private static final long serialVersionUID = 0L;
      * like the Abyssal Sire.
      * </pre>
      *
-     * <code>string version = 20;</code>
+     * <code>string version = 3;</code>
      * @param value The bytes for version to set.
      * @return This builder for chaining.
      */
@@ -1586,7 +1586,7 @@ private static final long serialVersionUID = 0L;
      * The max health of this NPC.
      * </pre>
      *
-     * <code>int32 hitpoints = 2;</code>
+     * <code>int32 hitpoints = 4;</code>
      * @return The hitpoints.
      */
     @java.lang.Override
@@ -1598,7 +1598,7 @@ private static final long serialVersionUID = 0L;
      * The max health of this NPC.
      * </pre>
      *
-     * <code>int32 hitpoints = 2;</code>
+     * <code>int32 hitpoints = 4;</code>
      * @param value The hitpoints to set.
      * @return This builder for chaining.
      */
@@ -1613,7 +1613,7 @@ private static final long serialVersionUID = 0L;
      * The max health of this NPC.
      * </pre>
      *
-     * <code>int32 hitpoints = 2;</code>
+     * <code>int32 hitpoints = 4;</code>
      * @return This builder for chaining.
      */
     public Builder clearHitpoints() {
@@ -1629,7 +1629,7 @@ private static final long serialVersionUID = 0L;
      * The attack stat of this NPC, a measure of its melee accuracy.
      * </pre>
      *
-     * <code>int32 att = 3;</code>
+     * <code>int32 att = 5;</code>
      * @return The att.
      */
     @java.lang.Override
@@ -1641,7 +1641,7 @@ private static final long serialVersionUID = 0L;
      * The attack stat of this NPC, a measure of its melee accuracy.
      * </pre>
      *
-     * <code>int32 att = 3;</code>
+     * <code>int32 att = 5;</code>
      * @param value The att to set.
      * @return This builder for chaining.
      */
@@ -1656,7 +1656,7 @@ private static final long serialVersionUID = 0L;
      * The attack stat of this NPC, a measure of its melee accuracy.
      * </pre>
      *
-     * <code>int32 att = 3;</code>
+     * <code>int32 att = 5;</code>
      * @return This builder for chaining.
      */
     public Builder clearAtt() {
@@ -1672,7 +1672,7 @@ private static final long serialVersionUID = 0L;
      * The strength stat of this NPC, a measure of its melee power.
      * </pre>
      *
-     * <code>int32 str = 4;</code>
+     * <code>int32 str = 6;</code>
      * @return The str.
      */
     @java.lang.Override
@@ -1684,7 +1684,7 @@ private static final long serialVersionUID = 0L;
      * The strength stat of this NPC, a measure of its melee power.
      * </pre>
      *
-     * <code>int32 str = 4;</code>
+     * <code>int32 str = 6;</code>
      * @param value The str to set.
      * @return This builder for chaining.
      */
@@ -1699,7 +1699,7 @@ private static final long serialVersionUID = 0L;
      * The strength stat of this NPC, a measure of its melee power.
      * </pre>
      *
-     * <code>int32 str = 4;</code>
+     * <code>int32 str = 6;</code>
      * @return This builder for chaining.
      */
     public Builder clearStr() {
@@ -1715,7 +1715,7 @@ private static final long serialVersionUID = 0L;
      * The defence stat of this NPC, a measure of its damage protection in combat.
      * </pre>
      *
-     * <code>int32 def = 5;</code>
+     * <code>int32 def = 7;</code>
      * @return The def.
      */
     @java.lang.Override
@@ -1727,7 +1727,7 @@ private static final long serialVersionUID = 0L;
      * The defence stat of this NPC, a measure of its damage protection in combat.
      * </pre>
      *
-     * <code>int32 def = 5;</code>
+     * <code>int32 def = 7;</code>
      * @param value The def to set.
      * @return This builder for chaining.
      */
@@ -1742,7 +1742,7 @@ private static final long serialVersionUID = 0L;
      * The defence stat of this NPC, a measure of its damage protection in combat.
      * </pre>
      *
-     * <code>int32 def = 5;</code>
+     * <code>int32 def = 7;</code>
      * @return This builder for chaining.
      */
     public Builder clearDef() {
@@ -1758,7 +1758,7 @@ private static final long serialVersionUID = 0L;
      * The magic stat of this NPC.
      * </pre>
      *
-     * <code>int32 mage = 6;</code>
+     * <code>int32 mage = 8;</code>
      * @return The mage.
      */
     @java.lang.Override
@@ -1770,7 +1770,7 @@ private static final long serialVersionUID = 0L;
      * The magic stat of this NPC.
      * </pre>
      *
-     * <code>int32 mage = 6;</code>
+     * <code>int32 mage = 8;</code>
      * @param value The mage to set.
      * @return This builder for chaining.
      */
@@ -1785,7 +1785,7 @@ private static final long serialVersionUID = 0L;
      * The magic stat of this NPC.
      * </pre>
      *
-     * <code>int32 mage = 6;</code>
+     * <code>int32 mage = 8;</code>
      * @return This builder for chaining.
      */
     public Builder clearMage() {
@@ -1801,7 +1801,7 @@ private static final long serialVersionUID = 0L;
      * The ranged stat of this NPC.
      * </pre>
      *
-     * <code>int32 range = 7;</code>
+     * <code>int32 range = 9;</code>
      * @return The range.
      */
     @java.lang.Override
@@ -1813,7 +1813,7 @@ private static final long serialVersionUID = 0L;
      * The ranged stat of this NPC.
      * </pre>
      *
-     * <code>int32 range = 7;</code>
+     * <code>int32 range = 9;</code>
      * @param value The range to set.
      * @return This builder for chaining.
      */
@@ -1828,7 +1828,7 @@ private static final long serialVersionUID = 0L;
      * The ranged stat of this NPC.
      * </pre>
      *
-     * <code>int32 range = 7;</code>
+     * <code>int32 range = 9;</code>
      * @return This builder for chaining.
      */
     public Builder clearRange() {
@@ -1844,7 +1844,7 @@ private static final long serialVersionUID = 0L;
      * The bonus attack stat of this NPC.
      * </pre>
      *
-     * <code>int32 attbns = 8;</code>
+     * <code>int32 attbns = 10;</code>
      * @return The attbns.
      */
     @java.lang.Override
@@ -1856,7 +1856,7 @@ private static final long serialVersionUID = 0L;
      * The bonus attack stat of this NPC.
      * </pre>
      *
-     * <code>int32 attbns = 8;</code>
+     * <code>int32 attbns = 10;</code>
      * @param value The attbns to set.
      * @return This builder for chaining.
      */
@@ -1871,7 +1871,7 @@ private static final long serialVersionUID = 0L;
      * The bonus attack stat of this NPC.
      * </pre>
      *
-     * <code>int32 attbns = 8;</code>
+     * <code>int32 attbns = 10;</code>
      * @return This builder for chaining.
      */
     public Builder clearAttbns() {
@@ -1887,7 +1887,7 @@ private static final long serialVersionUID = 0L;
      * The bonus strength stat of this NPC.
      * </pre>
      *
-     * <code>int32 strbns = 9;</code>
+     * <code>int32 strbns = 11;</code>
      * @return The strbns.
      */
     @java.lang.Override
@@ -1899,7 +1899,7 @@ private static final long serialVersionUID = 0L;
      * The bonus strength stat of this NPC.
      * </pre>
      *
-     * <code>int32 strbns = 9;</code>
+     * <code>int32 strbns = 11;</code>
      * @param value The strbns to set.
      * @return This builder for chaining.
      */
@@ -1914,7 +1914,7 @@ private static final long serialVersionUID = 0L;
      * The bonus strength stat of this NPC.
      * </pre>
      *
-     * <code>int32 strbns = 9;</code>
+     * <code>int32 strbns = 11;</code>
      * @return This builder for chaining.
      */
     public Builder clearStrbns() {
@@ -1930,7 +1930,7 @@ private static final long serialVersionUID = 0L;
      * The bonus magic stat of this NPC.
      * </pre>
      *
-     * <code>int32 amagic = 10;</code>
+     * <code>int32 amagic = 12;</code>
      * @return The amagic.
      */
     @java.lang.Override
@@ -1942,7 +1942,7 @@ private static final long serialVersionUID = 0L;
      * The bonus magic stat of this NPC.
      * </pre>
      *
-     * <code>int32 amagic = 10;</code>
+     * <code>int32 amagic = 12;</code>
      * @param value The amagic to set.
      * @return This builder for chaining.
      */
@@ -1957,7 +1957,7 @@ private static final long serialVersionUID = 0L;
      * The bonus magic stat of this NPC.
      * </pre>
      *
-     * <code>int32 amagic = 10;</code>
+     * <code>int32 amagic = 12;</code>
      * @return This builder for chaining.
      */
     public Builder clearAmagic() {
@@ -1973,7 +1973,7 @@ private static final long serialVersionUID = 0L;
      * The bonus magic damage stat of this NPC.
      * </pre>
      *
-     * <code>int32 mbns = 11;</code>
+     * <code>int32 mbns = 13;</code>
      * @return The mbns.
      */
     @java.lang.Override
@@ -1985,7 +1985,7 @@ private static final long serialVersionUID = 0L;
      * The bonus magic damage stat of this NPC.
      * </pre>
      *
-     * <code>int32 mbns = 11;</code>
+     * <code>int32 mbns = 13;</code>
      * @param value The mbns to set.
      * @return This builder for chaining.
      */
@@ -2000,7 +2000,7 @@ private static final long serialVersionUID = 0L;
      * The bonus magic damage stat of this NPC.
      * </pre>
      *
-     * <code>int32 mbns = 11;</code>
+     * <code>int32 mbns = 13;</code>
      * @return This builder for chaining.
      */
     public Builder clearMbns() {
@@ -2016,7 +2016,7 @@ private static final long serialVersionUID = 0L;
      * The bonus ranged stat of this NPC.
      * </pre>
      *
-     * <code>int32 arange = 12;</code>
+     * <code>int32 arange = 14;</code>
      * @return The arange.
      */
     @java.lang.Override
@@ -2028,7 +2028,7 @@ private static final long serialVersionUID = 0L;
      * The bonus ranged stat of this NPC.
      * </pre>
      *
-     * <code>int32 arange = 12;</code>
+     * <code>int32 arange = 14;</code>
      * @param value The arange to set.
      * @return This builder for chaining.
      */
@@ -2043,7 +2043,7 @@ private static final long serialVersionUID = 0L;
      * The bonus ranged stat of this NPC.
      * </pre>
      *
-     * <code>int32 arange = 12;</code>
+     * <code>int32 arange = 14;</code>
      * @return This builder for chaining.
      */
     public Builder clearArange() {
@@ -2059,7 +2059,7 @@ private static final long serialVersionUID = 0L;
      * The bonus ranged damage stat of this NPC.
      * </pre>
      *
-     * <code>int32 rngbns = 13;</code>
+     * <code>int32 rngbns = 15;</code>
      * @return The rngbns.
      */
     @java.lang.Override
@@ -2071,7 +2071,7 @@ private static final long serialVersionUID = 0L;
      * The bonus ranged damage stat of this NPC.
      * </pre>
      *
-     * <code>int32 rngbns = 13;</code>
+     * <code>int32 rngbns = 15;</code>
      * @param value The rngbns to set.
      * @return This builder for chaining.
      */
@@ -2086,7 +2086,7 @@ private static final long serialVersionUID = 0L;
      * The bonus ranged damage stat of this NPC.
      * </pre>
      *
-     * <code>int32 rngbns = 13;</code>
+     * <code>int32 rngbns = 15;</code>
      * @return This builder for chaining.
      */
     public Builder clearRngbns() {
@@ -2102,7 +2102,7 @@ private static final long serialVersionUID = 0L;
      * This NPC's resistance to stab attacks.
      * </pre>
      *
-     * <code>int32 dstab = 14;</code>
+     * <code>int32 dstab = 16;</code>
      * @return The dstab.
      */
     @java.lang.Override
@@ -2114,7 +2114,7 @@ private static final long serialVersionUID = 0L;
      * This NPC's resistance to stab attacks.
      * </pre>
      *
-     * <code>int32 dstab = 14;</code>
+     * <code>int32 dstab = 16;</code>
      * @param value The dstab to set.
      * @return This builder for chaining.
      */
@@ -2129,7 +2129,7 @@ private static final long serialVersionUID = 0L;
      * This NPC's resistance to stab attacks.
      * </pre>
      *
-     * <code>int32 dstab = 14;</code>
+     * <code>int32 dstab = 16;</code>
      * @return This builder for chaining.
      */
     public Builder clearDstab() {
@@ -2145,7 +2145,7 @@ private static final long serialVersionUID = 0L;
      * This NPC's resistance to slash attacks.
      * </pre>
      *
-     * <code>int32 dslash = 15;</code>
+     * <code>int32 dslash = 17;</code>
      * @return The dslash.
      */
     @java.lang.Override
@@ -2157,7 +2157,7 @@ private static final long serialVersionUID = 0L;
      * This NPC's resistance to slash attacks.
      * </pre>
      *
-     * <code>int32 dslash = 15;</code>
+     * <code>int32 dslash = 17;</code>
      * @param value The dslash to set.
      * @return This builder for chaining.
      */
@@ -2172,7 +2172,7 @@ private static final long serialVersionUID = 0L;
      * This NPC's resistance to slash attacks.
      * </pre>
      *
-     * <code>int32 dslash = 15;</code>
+     * <code>int32 dslash = 17;</code>
      * @return This builder for chaining.
      */
     public Builder clearDslash() {
@@ -2188,7 +2188,7 @@ private static final long serialVersionUID = 0L;
      * This NPC's resistance to crush attacks.
      * </pre>
      *
-     * <code>int32 dcrush = 16;</code>
+     * <code>int32 dcrush = 18;</code>
      * @return The dcrush.
      */
     @java.lang.Override
@@ -2200,7 +2200,7 @@ private static final long serialVersionUID = 0L;
      * This NPC's resistance to crush attacks.
      * </pre>
      *
-     * <code>int32 dcrush = 16;</code>
+     * <code>int32 dcrush = 18;</code>
      * @param value The dcrush to set.
      * @return This builder for chaining.
      */
@@ -2215,7 +2215,7 @@ private static final long serialVersionUID = 0L;
      * This NPC's resistance to crush attacks.
      * </pre>
      *
-     * <code>int32 dcrush = 16;</code>
+     * <code>int32 dcrush = 18;</code>
      * @return This builder for chaining.
      */
     public Builder clearDcrush() {
@@ -2231,7 +2231,7 @@ private static final long serialVersionUID = 0L;
      * This NPC's resistance to magic attacks.
      * </pre>
      *
-     * <code>int32 dmagic = 17;</code>
+     * <code>int32 dmagic = 19;</code>
      * @return The dmagic.
      */
     @java.lang.Override
@@ -2243,7 +2243,7 @@ private static final long serialVersionUID = 0L;
      * This NPC's resistance to magic attacks.
      * </pre>
      *
-     * <code>int32 dmagic = 17;</code>
+     * <code>int32 dmagic = 19;</code>
      * @param value The dmagic to set.
      * @return This builder for chaining.
      */
@@ -2258,7 +2258,7 @@ private static final long serialVersionUID = 0L;
      * This NPC's resistance to magic attacks.
      * </pre>
      *
-     * <code>int32 dmagic = 17;</code>
+     * <code>int32 dmagic = 19;</code>
      * @return This builder for chaining.
      */
     public Builder clearDmagic() {
@@ -2274,7 +2274,7 @@ private static final long serialVersionUID = 0L;
      * This NPC's resistance to ranged attacks.
      * </pre>
      *
-     * <code>int32 drange = 18;</code>
+     * <code>int32 drange = 20;</code>
      * @return The drange.
      */
     @java.lang.Override
@@ -2286,7 +2286,7 @@ private static final long serialVersionUID = 0L;
      * This NPC's resistance to ranged attacks.
      * </pre>
      *
-     * <code>int32 drange = 18;</code>
+     * <code>int32 drange = 20;</code>
      * @param value The drange to set.
      * @return This builder for chaining.
      */
@@ -2301,7 +2301,7 @@ private static final long serialVersionUID = 0L;
      * This NPC's resistance to ranged attacks.
      * </pre>
      *
-     * <code>int32 drange = 18;</code>
+     * <code>int32 drange = 20;</code>
      * @return This builder for chaining.
      */
     public Builder clearDrange() {

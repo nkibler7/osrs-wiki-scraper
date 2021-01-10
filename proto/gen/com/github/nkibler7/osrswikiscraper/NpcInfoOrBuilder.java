@@ -41,7 +41,7 @@ public interface NpcInfoOrBuilder extends
    * The name of this NPC.
    * </pre>
    *
-   * <code>string name = 19;</code>
+   * <code>string name = 2;</code>
    * @return The name.
    */
   java.lang.String getName();
@@ -50,7 +50,7 @@ public interface NpcInfoOrBuilder extends
    * The name of this NPC.
    * </pre>
    *
-   * <code>string name = 19;</code>
+   * <code>string name = 2;</code>
    * @return The bytes for name.
    */
   com.google.protobuf.ByteString
@@ -63,7 +63,7 @@ public interface NpcInfoOrBuilder extends
    * like the Abyssal Sire.
    * </pre>
    *
-   * <code>string version = 20;</code>
+   * <code>string version = 3;</code>
    * @return The version.
    */
   java.lang.String getVersion();
@@ -74,7 +74,7 @@ public interface NpcInfoOrBuilder extends
    * like the Abyssal Sire.
    * </pre>
    *
-   * <code>string version = 20;</code>
+   * <code>string version = 3;</code>
    * @return The bytes for version.
    */
   com.google.protobuf.ByteString
@@ -85,7 +85,7 @@ public interface NpcInfoOrBuilder extends
    * The max health of this NPC.
    * </pre>
    *
-   * <code>int32 hitpoints = 2;</code>
+   * <code>int32 hitpoints = 4;</code>
    * @return The hitpoints.
    */
   int getHitpoints();
@@ -95,7 +95,7 @@ public interface NpcInfoOrBuilder extends
    * The attack stat of this NPC, a measure of its melee accuracy.
    * </pre>
    *
-   * <code>int32 att = 3;</code>
+   * <code>int32 att = 5;</code>
    * @return The att.
    */
   int getAtt();
@@ -105,7 +105,7 @@ public interface NpcInfoOrBuilder extends
    * The strength stat of this NPC, a measure of its melee power.
    * </pre>
    *
-   * <code>int32 str = 4;</code>
+   * <code>int32 str = 6;</code>
    * @return The str.
    */
   int getStr();
@@ -115,7 +115,7 @@ public interface NpcInfoOrBuilder extends
    * The defence stat of this NPC, a measure of its damage protection in combat.
    * </pre>
    *
-   * <code>int32 def = 5;</code>
+   * <code>int32 def = 7;</code>
    * @return The def.
    */
   int getDef();
@@ -125,7 +125,7 @@ public interface NpcInfoOrBuilder extends
    * The magic stat of this NPC.
    * </pre>
    *
-   * <code>int32 mage = 6;</code>
+   * <code>int32 mage = 8;</code>
    * @return The mage.
    */
   int getMage();
@@ -135,7 +135,7 @@ public interface NpcInfoOrBuilder extends
    * The ranged stat of this NPC.
    * </pre>
    *
-   * <code>int32 range = 7;</code>
+   * <code>int32 range = 9;</code>
    * @return The range.
    */
   int getRange();
@@ -145,7 +145,7 @@ public interface NpcInfoOrBuilder extends
    * The bonus attack stat of this NPC.
    * </pre>
    *
-   * <code>int32 attbns = 8;</code>
+   * <code>int32 attbns = 10;</code>
    * @return The attbns.
    */
   int getAttbns();
@@ -155,7 +155,7 @@ public interface NpcInfoOrBuilder extends
    * The bonus strength stat of this NPC.
    * </pre>
    *
-   * <code>int32 strbns = 9;</code>
+   * <code>int32 strbns = 11;</code>
    * @return The strbns.
    */
   int getStrbns();
@@ -165,7 +165,7 @@ public interface NpcInfoOrBuilder extends
    * The bonus magic stat of this NPC.
    * </pre>
    *
-   * <code>int32 amagic = 10;</code>
+   * <code>int32 amagic = 12;</code>
    * @return The amagic.
    */
   int getAmagic();
@@ -175,7 +175,7 @@ public interface NpcInfoOrBuilder extends
    * The bonus magic damage stat of this NPC.
    * </pre>
    *
-   * <code>int32 mbns = 11;</code>
+   * <code>int32 mbns = 13;</code>
    * @return The mbns.
    */
   int getMbns();
@@ -185,7 +185,7 @@ public interface NpcInfoOrBuilder extends
    * The bonus ranged stat of this NPC.
    * </pre>
    *
-   * <code>int32 arange = 12;</code>
+   * <code>int32 arange = 14;</code>
    * @return The arange.
    */
   int getArange();
@@ -195,7 +195,7 @@ public interface NpcInfoOrBuilder extends
    * The bonus ranged damage stat of this NPC.
    * </pre>
    *
-   * <code>int32 rngbns = 13;</code>
+   * <code>int32 rngbns = 15;</code>
    * @return The rngbns.
    */
   int getRngbns();
@@ -205,7 +205,7 @@ public interface NpcInfoOrBuilder extends
    * This NPC's resistance to stab attacks.
    * </pre>
    *
-   * <code>int32 dstab = 14;</code>
+   * <code>int32 dstab = 16;</code>
    * @return The dstab.
    */
   int getDstab();
@@ -215,7 +215,7 @@ public interface NpcInfoOrBuilder extends
    * This NPC's resistance to slash attacks.
    * </pre>
    *
-   * <code>int32 dslash = 15;</code>
+   * <code>int32 dslash = 17;</code>
    * @return The dslash.
    */
   int getDslash();
@@ -225,7 +225,7 @@ public interface NpcInfoOrBuilder extends
    * This NPC's resistance to crush attacks.
    * </pre>
    *
-   * <code>int32 dcrush = 16;</code>
+   * <code>int32 dcrush = 18;</code>
    * @return The dcrush.
    */
   int getDcrush();
@@ -235,7 +235,7 @@ public interface NpcInfoOrBuilder extends
    * This NPC's resistance to magic attacks.
    * </pre>
    *
-   * <code>int32 dmagic = 17;</code>
+   * <code>int32 dmagic = 19;</code>
    * @return The dmagic.
    */
   int getDmagic();
@@ -245,7 +245,7 @@ public interface NpcInfoOrBuilder extends
    * This NPC's resistance to ranged attacks.
    * </pre>
    *
-   * <code>int32 drange = 18;</code>
+   * <code>int32 drange = 20;</code>
    * @return The drange.
    */
   int getDrange();

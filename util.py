@@ -2,7 +2,7 @@ import errno
 import os
 import re
 from google.protobuf.message import Message
-from google.protobuf.text_format import MessageToString
+from google.protobuf.text_format import PrintMessage
 from typing import *
 
 comment_stripper = re.compile(r'<!--(.*?)-->')
@@ -23,7 +23,10 @@ def write_proto(message: Message, filename: str):
 
     text_filename = filename + '.textproto'
     with open(text_filename, "w") as f:
-        f.write(MessageToString(message))
+        # These comments point to the proto to use as a schema for IDEs.
+        f.write("# proto-file: proto/npc_infos.proto\n")
+        f.write("# proto-message: NpcInfos\n\n")
+        PrintMessage(message, f)
 
 
 def get_infobox_versions(code) -> Iterator[Dict[str, Any]]:

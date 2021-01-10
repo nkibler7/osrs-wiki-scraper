@@ -25,71 +25,71 @@ message NpcInfo {
   repeated int32 ids = 1;
 
   // The name of this NPC.
-  string name = 19;
+  string name = 2;
 
   // The name of the version of this NPC, if one exists. This is set for NPCs that have multiple versions, yet are
   // represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
   // like the Abyssal Sire.
-  string version = 20;
+  string version = 3;
 
   // =============================================== Combat Stats Start ===============================================
 
   // The max health of this NPC.
-  int32 hitpoints = 2;
+  int32 hitpoints = 4;
 
   // The attack stat of this NPC, a measure of its melee accuracy.
-  int32 att = 3;
+  int32 att = 5;
 
   // The strength stat of this NPC, a measure of its melee power.
-  int32 str = 4;
+  int32 str = 6;
 
   // The defence stat of this NPC, a measure of its damage protection in combat.
-  int32 def = 5;
+  int32 def = 7;
 
   // The magic stat of this NPC.
-  int32 mage = 6;
+  int32 mage = 8;
 
   // The ranged stat of this NPC.
-  int32 range = 7;
+  int32 range = 9;
 
   // ================================================ Combat Stats End ================================================
 
   // ============================================= Aggressive Stats Start =============================================
 
   // The bonus attack stat of this NPC.
-  int32 attbns = 8;
+  int32 attbns = 10;
 
   // The bonus strength stat of this NPC.
-  int32 strbns = 9;
+  int32 strbns = 11;
 
   // The bonus magic stat of this NPC.
-  int32 amagic = 10;
+  int32 amagic = 12;
 
   // The bonus magic damage stat of this NPC.
-  int32 mbns = 11;
+  int32 mbns = 13;
 
   // The bonus ranged stat of this NPC.
-  int32 arange = 12;
+  int32 arange = 14;
 
   // The bonus ranged damage stat of this NPC.
-  int32 rngbns = 13;
+  int32 rngbns = 15;
 
   // ============================================== Aggressive Stats End ==============================================
 
   // ============================================== Defensive Stats Start ==============================================
 
   // This NPC's resistance to stab attacks.
-  int32 dstab = 14;
+  int32 dstab = 16;
 
   // This NPC's resistance to slash attacks.
-  int32 dslash = 15;
+  int32 dslash = 17;
 
   // This NPC's resistance to crush attacks.
-  int32 dcrush = 16;
+  int32 dcrush = 18;
 
   // This NPC's resistance to magic attacks.
-  int32 dmagic = 17;
+  int32 dmagic = 19;
 
   // This NPC's resistance to ranged attacks.
-  int32 drange = 18;
+  int32 drange = 20;
 }
