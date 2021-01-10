@@ -18875,11 +18875,6 @@ npcs {
   ids: 4962
   name: "Solus Dellagar"
   hitpoints: 40
-  att: 80
-  str: 80
-  def: 80
-  mage: 80
-  range: 80
 }
 npcs {
   ids: 561
