@@ -1197,7 +1197,7 @@ npcs {
 npcs {
   ids: 10531
   name: "Avatar of Creation"
-  hitpoints: 907
+  hitpoints: 1500
   att: 160
   str: 320
   def: 10
@@ -1213,7 +1213,7 @@ npcs {
 npcs {
   ids: 10532
   name: "Avatar of Destruction"
-  hitpoints: 907
+  hitpoints: 1500
   att: 160
   str: 320
   def: 10
