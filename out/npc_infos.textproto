@@ -14805,6 +14805,8 @@ npcs {
   name: "Penance Fighter"
   version: "Wave 1"
   hitpoints: 28
+  att: 26
+  str: 26
   def: 25
 }
 npcs {
@@ -14812,6 +14814,8 @@ npcs {
   name: "Penance Fighter"
   version: "Wave 2"
   hitpoints: 29
+  att: 28
+  str: 29
   def: 27
 }
 npcs {
@@ -14819,6 +14823,8 @@ npcs {
   name: "Penance Fighter"
   version: "Wave 3"
   hitpoints: 32
+  att: 33
+  str: 32
   def: 34
 }
 npcs {
@@ -14826,6 +14832,8 @@ npcs {
   name: "Penance Fighter"
   version: "Wave 4"
   hitpoints: 37
+  att: 36
+  str: 38
   def: 37
 }
 npcs {
@@ -14833,6 +14841,8 @@ npcs {
   name: "Penance Fighter"
   version: "Wave 5"
   hitpoints: 38
+  att: 41
+  str: 43
   def: 44
 }
 npcs {
@@ -14840,6 +14850,8 @@ npcs {
   name: "Penance Fighter"
   version: "Wave 6"
   hitpoints: 49
+  att: 50
+  str: 48
   def: 48
 }
 npcs {
@@ -14847,6 +14859,8 @@ npcs {
   name: "Penance Fighter"
   version: "Wave 7/10"
   hitpoints: 50
+  att: 56
+  str: 55
   def: 52
 }
 npcs {
@@ -14854,6 +14868,8 @@ npcs {
   name: "Penance Fighter"
   version: "Wave 8"
   hitpoints: 55
+  att: 60
+  str: 61
   def: 62
 }
 npcs {
@@ -14861,6 +14877,8 @@ npcs {
   name: "Penance Fighter"
   version: "Wave 9"
   hitpoints: 56
+  att: 71
+  str: 73
   def: 66
 }
 npcs {
@@ -14935,6 +14953,7 @@ npcs {
   version: "Wave 1"
   hitpoints: 20
   def: 21
+  range: 23
 }
 npcs {
   ids: 5758
@@ -14942,6 +14961,7 @@ npcs {
   version: "Wave 2"
   hitpoints: 29
   def: 29
+  range: 24
 }
 npcs {
   ids: 5759
@@ -14949,6 +14969,7 @@ npcs {
   version: "Wave 3"
   hitpoints: 32
   def: 33
+  range: 34
 }
 npcs {
   ids: 5760
@@ -14956,6 +14977,7 @@ npcs {
   version: "Wave 4"
   hitpoints: 34
   def: 42
+  range: 40
 }
 npcs {
   ids: 5761
@@ -14963,6 +14985,7 @@ npcs {
   version: "Wave 5"
   hitpoints: 41
   def: 46
+  range: 45
 }
 npcs {
   ids: 5762
@@ -14970,6 +14993,7 @@ npcs {
   version: "Wave 6"
   hitpoints: 50
   def: 54
+  range: 52
 }
 npcs {
   ids: 5763
@@ -14977,6 +15001,7 @@ npcs {
   version: "Wave 7/10"
   hitpoints: 50
   def: 61
+  range: 62
 }
 npcs {
   ids: 5764
@@ -14984,6 +15009,7 @@ npcs {
   version: "Wave 8"
   hitpoints: 55
   def: 68
+  range: 70
 }
 npcs {
   ids: 5765
@@ -14991,6 +15017,7 @@ npcs {
   version: "Wave 9"
   hitpoints: 58
   def: 80
+  range: 78
 }
 npcs {
   ids: 1669
