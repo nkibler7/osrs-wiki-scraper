@@ -6811,11 +6811,32 @@ npcs {
   name: "Forgotten Soul"
   version: "Level 46"
   hitpoints: 50
+  att: 50
+  str: 40
+  def: 20
+  mage: 20
+  range: 1
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+  dmagic: 10
+  drange: 10
 }
 npcs {
   ids: 10523
   name: "Forgotten Soul"
   version: "Level 76"
+  hitpoints: 77
+  att: 80
+  str: 70
+  def: 30
+  mage: 30
+  range: 1
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+  dmagic: 10
+  drange: 10
 }
 npcs {
   ids: 4772
@@ -15568,12 +15589,73 @@ npcs {
   drange: -12
 }
 npcs {
-  ids: 1261
   ids: 1262
+  name: "Ram"
+  version: "1"
+  hitpoints: 8
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  dstab: -21
+  dslash: -21
+  dcrush: -21
+  dmagic: -21
+  drange: -21
+}
+npcs {
   ids: 1263
+  name: "Ram"
+  version: "2"
+  hitpoints: 8
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  dstab: -21
+  dslash: -21
+  dcrush: -21
+  dmagic: -21
+  drange: -21
+}
+npcs {
   ids: 1264
+  name: "Ram"
+  version: "3"
+  hitpoints: 8
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  dstab: -21
+  dslash: -21
+  dcrush: -21
+  dmagic: -21
+  drange: -21
+}
+npcs {
   ids: 1265
   name: "Ram"
+  version: "Monastery"
+  hitpoints: 8
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  dstab: -21
+  dslash: -21
+  dcrush: -21
+  dmagic: -21
+  drange: -21
+}
+npcs {
+  ids: 1261
+  name: "Ram"
+  version: "Sheared"
   hitpoints: 8
   att: 1
   str: 1
@@ -23076,7 +23158,19 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 10522
   name: "Wolf"
+  hitpoints: 80
+  att: 85
+  str: 75
+  def: 30
+  mage: 30
+  range: 1
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+  dmagic: 10
+  drange: 10
 }
 npcs {
   ids: 3015
