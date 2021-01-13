@@ -3624,14 +3624,85 @@ npcs {
 }
 npcs {
   ids: 5330
-  ids: 5331
-  ids: 5332
-  ids: 5333
-  ids: 5336
-  ids: 5337
-  ids: 5338
-  ids: 5339
   name: "Cave goblin miner"
+  version: "1"
+  hitpoints: 10
+  att: 10
+  str: 12
+  def: 7
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 5331
+  name: "Cave goblin miner"
+  version: "2"
+  hitpoints: 10
+  att: 10
+  str: 12
+  def: 7
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 5332
+  name: "Cave goblin miner"
+  version: "3"
+  hitpoints: 10
+  att: 10
+  str: 12
+  def: 7
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 5333
+  name: "Cave goblin miner"
+  version: "4"
+  hitpoints: 10
+  att: 10
+  str: 12
+  def: 7
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 5334
+  name: "Cave goblin miner"
+  version: "5"
+  hitpoints: 10
+  att: 10
+  str: 12
+  def: 7
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 5335
+  name: "Cave goblin miner"
+  version: "6"
+  hitpoints: 10
+  att: 10
+  str: 12
+  def: 7
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 5336
+  name: "Cave goblin miner"
+  version: "7"
+  hitpoints: 10
+  att: 10
+  str: 12
+  def: 7
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 5337
+  name: "Cave goblin miner"
+  version: "8"
   hitpoints: 10
   att: 10
   str: 12
@@ -15498,25 +15569,27 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 1852
-  ids: 1853
+  ids: 3420
+  ids: 3421
+  ids: 3422
   name: "Rabbit"
-  version: "Level 1"
-  hitpoints: 1
+  version: "Tirannwn"
+  hitpoints: 5
   att: 1
   str: 1
   def: 1
   mage: 1
   range: 1
+  dslash: -42
+  dcrush: -42
+  dmagic: -42
+  drange: -42
 }
 npcs {
-  ids: 3420
-  ids: 3421
-  ids: 3422
   ids: 3664
   ids: 3665
   name: "Rabbit"
-  version: "Level 2"
+  version: "Miscellania"
   hitpoints: 5
   att: 1
   str: 1
@@ -15528,6 +15601,18 @@ npcs {
   dcrush: -42
   dmagic: -42
   drange: -42
+}
+npcs {
+  ids: 1852
+  ids: 1853
+  name: "Rabbit"
+  version: "Enchanted Valley"
+  hitpoints: 1
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 9118
