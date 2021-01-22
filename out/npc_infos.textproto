@@ -15466,6 +15466,38 @@ npcs {
   drange: 200
 }
 npcs {
+  ids: 1739
+  ids: 1743
+  ids: 1747
+  ids: 1751
+  name: "Portal"
+  version: "Purple"
+}
+npcs {
+  ids: 1740
+  ids: 1744
+  ids: 1748
+  ids: 1752
+  name: "Portal"
+  version: "Blue"
+}
+npcs {
+  ids: 1741
+  ids: 1745
+  ids: 1749
+  ids: 1753
+  name: "Portal"
+  version: "Yellow"
+}
+npcs {
+  ids: 1742
+  ids: 1746
+  ids: 1750
+  ids: 1754
+  name: "Portal"
+  version: "Red"
+}
+npcs {
   ids: 3612
   ids: 6469
   ids: 7268
