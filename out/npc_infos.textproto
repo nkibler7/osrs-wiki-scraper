@@ -21914,6 +21914,19 @@ npcs {
   strbns: 5
 }
 npcs {
+  name: "Undead Zealot"
+  hitpoints: 28
+  att: 28
+  str: 28
+  def: 38
+  mage: 1
+  range: 1
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+}
+npcs {
   ids: 3957
   name: "Ungadulu"
   version: "Normal"
