@@ -21971,6 +21971,24 @@ npcs {
   name: "Uodai"
 }
 npcs {
+  ids: 10589
+  name: "Urium Shade"
+  version: "Shade"
+  hitpoints: 130
+  att: 138
+  str: 116
+  def: 100
+}
+npcs {
+  ids: 6143
+  name: "Urium Shadow"
+  version: "Shadow"
+  hitpoints: 130
+  att: 138
+  str: 116
+  def: 100
+}
+npcs {
   ids: 5260
   name: "Uyoro"
 }
