@@ -667,19 +667,19 @@ E
 (
 08@H
 &
-Ö)Cave goblin miner5 
+Ø)Cave goblin miner5 
 (
 08@H
 &
-×)Cave goblin miner6 
+Ù)Cave goblin miner6 
 (
 08@H
 &
-Ø)Cave goblin miner7 
+Ú)Cave goblin miner7 
 (
 08@H
 &
-Ù)Cave goblin miner8 
+Û)Cave goblin miner8 
 (
 08@H
 %
@@ -837,7 +837,7 @@ L
 $
 ÆFCrystalline Scorpion &(00j8@
 "
-ÄFCrystalline Spider ( 08@
+ÃFCrystalline Spider ( 08@
 #
 ÅFCrystalline Unicorn ,(2008@
  
@@ -1131,8 +1131,8 @@ Elf Archer2 i(
 "Enclave guard P(F0F8F@HP	X€ˆ
 
 à3Energy sprite >
-7
-+	Whirlpool	Whirlpool x(08@H–˜ñÿÿÿÿÿÿÿÿ 
+9
+í+	Whirlpool	Whirlpool x(08@H–˜ñÿÿÿÿÿÿÿÿ 
 G
 Ÿ+Enormous TentacleEnormous Tentacle x(08@H–˜ñÿÿÿÿÿÿÿÿ 
 F
@@ -1247,15 +1247,15 @@ $
 •Foreman (08ˆ
 #
 Æ8Forester (08@H€ˆ
-9
-›RForgotten SoulLevel 46 2(20(8@H€
+?
+›RœR¦R§RForgotten SoulLevel 46 2(20(8@H€
 ˆ
 
 ˜
  
 
-9
-›RForgotten SoulLevel 76 M(P0F8@H€
+?
+RR¨R©RForgotten SoulLevel 76 M(P0F8@H€
 ˆ
 
 ˜
@@ -2072,13 +2072,13 @@ King Roald –(Œ0x8@HXëÿÿÿÿÿÿÿÿ
 ÓKing Scorpion (08@H€ˆ 
 
 ÙRKing Scorpion
-L
-áäKnight of ArdougneArdougne 4(&0(8@HPX
+V
+áäßDàDáD–E—EKnight of ArdougneArdougne 4(&0(8@HPX
 €'ˆ($˜õÿÿÿÿÿÿÿÿ $
-Q
-áäKnight of ArdougneSong of the Elves (lvl 27) ((08@H€ˆ˜ 
-Q
-áäKnight of ArdougneSong of the Elves (lvl 53) 6(,048@H€ˆ((˜ 
+O
+“EKnight of ArdougneSong of the Elves (lvl 27) ((08@H€ˆ˜ 
+O
+”EKnight of ArdougneSong of the Elves (lvl 53) 6(,048@H€ˆ((˜ 
 @
 ¦Knight of Saradomin	Level 101 l(K0Z8R@<HPX€ˆ 
 A
@@ -2111,8 +2111,8 @@ A
 é6Kourend head guard V(K0I8=@HPX€ˆ˜ôÿÿÿÿÿÿÿÿ 
 (
  Kraka x(20d82P(XF€ˆ(˜È È
-0
-íğ+	Whirlpool	Whirlpool(08@H˜‚ ¬
+,
+ğ	Whirlpool	Whirlpool(08@H˜‚ ¬
 )
 îKrakenKraken ÿ(08@H˜‚ ¬
 @
@@ -2170,7 +2170,7 @@ T
 
 ÊLizard ((&0$8#@H
 
-ÚR
+ÛR
 Lizard man
 >
 ‚6ƒ6	LizardmanLevel 53 <(+0+8+@H+PXpx€öÿÿÿÿÿÿÿÿˆ
@@ -2556,11 +2556,11 @@ $
  
 )Padulah ‚(‚0‚8‚@‚HP2
 C
-øİŞÖ?PaladinArdougne B(&0686@PX€WˆTL˜öÿÿÿÿÿÿÿÿ O
-I
-øİŞÖ?PaladinSong of the Elves (lvl 49) 7(†008@€ˆ((˜ 
-R
-øİŞÖ?PaladinSong of the Elves (lvl 121) R(60~8@@€WˆTL˜öÿÿÿÿÿÿÿÿ O
+İŞÖ?•EPaladinArdougne B(&0686@PX€WˆTL˜öÿÿÿÿÿÿÿÿ O
+C
+‘EPaladinSong of the Elves (lvl 49) 7(†008@€ˆ((˜ 
+L
+’EPaladinSong of the Elves (lvl 121) R(60~8@@€WˆTL˜öÿÿÿÿÿÿÿÿ O
 
 Palmer 2(08@H
 ;
@@ -3747,14 +3747,14 @@ TzHaar-Ket	Level 221 È(È0´8¾@(H
 (
 êëìíîïğ
 TzHaar-Mej d(P0P8P@xH
-.
-÷øùúûü
+&
+øû
 TzHaar-XilSword x(Œ0d8d@(Hx
-.
-÷øùúûü
+&
+÷ú
 TzHaar-XilKnife x(Œ0d8d@(Hx
--
-÷øùúûü
+%
+ùü
 TzHaar-XilRing x(Œ0d8d@(Hx
 ?
 š<	TzKal-ZukNormal °	(Ş0Ø8„@–HXÈ`¦hÂp¦xÈ˜Ş d

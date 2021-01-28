@@ -3667,7 +3667,7 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 5334
+  ids: 5336
   name: "Cave goblin miner"
   version: "5"
   hitpoints: 10
@@ -3678,7 +3678,7 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 5335
+  ids: 5337
   name: "Cave goblin miner"
   version: "6"
   hitpoints: 10
@@ -3689,7 +3689,7 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 5336
+  ids: 5338
   name: "Cave goblin miner"
   version: "7"
   hitpoints: 10
@@ -3700,7 +3700,7 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 5337
+  ids: 5339
   name: "Cave goblin miner"
   version: "8"
   hitpoints: 10
@@ -4625,7 +4625,7 @@ npcs {
   mage: 18
 }
 npcs {
-  ids: 9028
+  ids: 9027
   name: "Crystalline Spider"
   hitpoints: 12
   att: 32
@@ -6237,6 +6237,7 @@ npcs {
   hitpoints: 62
 }
 npcs {
+  ids: 493
   ids: 5534
   name: "Whirlpool"
   version: "Whirlpool"
@@ -6879,6 +6880,9 @@ npcs {
 }
 npcs {
   ids: 10523
+  ids: 10524
+  ids: 10534
+  ids: 10535
   name: "Forgotten Soul"
   version: "Level 46"
   hitpoints: 50
@@ -6894,7 +6898,10 @@ npcs {
   drange: 10
 }
 npcs {
-  ids: 10523
+  ids: 10525
+  ids: 10526
+  ids: 10536
+  ids: 10537
   name: "Forgotten Soul"
   version: "Level 76"
   hitpoints: 77
@@ -11921,6 +11928,11 @@ npcs {
 npcs {
   ids: 3297
   ids: 3300
+  ids: 8799
+  ids: 8800
+  ids: 8801
+  ids: 8854
+  ids: 8855
   name: "Knight of Ardougne"
   version: "Ardougne"
   hitpoints: 52
@@ -11938,8 +11950,7 @@ npcs {
   drange: 36
 }
 npcs {
-  ids: 3297
-  ids: 3300
+  ids: 8851
   name: "Knight of Ardougne"
   version: "Song of the Elves (lvl 27)"
   hitpoints: 40
@@ -11955,8 +11966,7 @@ npcs {
   drange: 5
 }
 npcs {
-  ids: 3297
-  ids: 3300
+  ids: 8852
   name: "Knight of Ardougne"
   version: "Song of the Elves (lvl 53)"
   hitpoints: 54
@@ -12155,9 +12165,7 @@ npcs {
   drange: 200
 }
 npcs {
-  ids: 493
   ids: 496
-  ids: 5534
   name: "Whirlpool"
   version: "Whirlpool"
   att: 1
@@ -12460,7 +12468,7 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 10586
+  ids: 10587
   name: "Lizard man"
 }
 npcs {
@@ -14771,10 +14779,10 @@ npcs {
   attbns: 50
 }
 npcs {
-  ids: 1144
   ids: 3293
   ids: 3294
   ids: 8150
+  ids: 8853
   name: "Paladin"
   version: "Ardougne"
   hitpoints: 66
@@ -14791,10 +14799,7 @@ npcs {
   drange: 79
 }
 npcs {
-  ids: 1144
-  ids: 3293
-  ids: 3294
-  ids: 8150
+  ids: 8849
   name: "Paladin"
   version: "Song of the Elves (lvl 49)"
   hitpoints: 55
@@ -14809,10 +14814,7 @@ npcs {
   drange: 20
 }
 npcs {
-  ids: 1144
-  ids: 3293
-  ids: 3294
-  ids: 8150
+  ids: 8850
   name: "Paladin"
   version: "Song of the Elves (lvl 121)"
   hitpoints: 82
@@ -21549,12 +21551,8 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 2167
   ids: 2168
-  ids: 2169
-  ids: 2170
   ids: 2171
-  ids: 2172
   name: "TzHaar-Xil"
   version: "Sword"
   hitpoints: 120
@@ -21566,11 +21564,7 @@ npcs {
 }
 npcs {
   ids: 2167
-  ids: 2168
-  ids: 2169
   ids: 2170
-  ids: 2171
-  ids: 2172
   name: "TzHaar-Xil"
   version: "Knife"
   hitpoints: 120
@@ -21581,11 +21575,7 @@ npcs {
   range: 120
 }
 npcs {
-  ids: 2167
-  ids: 2168
   ids: 2169
-  ids: 2170
-  ids: 2171
   ids: 2172
   name: "TzHaar-Xil"
   version: "Ring"
