@@ -1462,10 +1462,6 @@ npcs {
   drange: 30
 }
 npcs {
-  ids: 10580
-  name: "Baby blue dragon"
-}
-npcs {
   name: "Baby dragon"
 }
 npcs {
@@ -2478,10 +2474,6 @@ npcs {
   dmagic: -10
 }
 npcs {
-  ids: 10583
-  name: "Black demon"
-}
-npcs {
   ids: 252
   ids: 253
   ids: 254
@@ -2523,10 +2515,6 @@ npcs {
   dcrush: 70
   dmagic: 60
   drange: 50
-}
-npcs {
-  ids: 10576
-  name: "Black dragon"
 }
 npcs {
   ids: 4742
@@ -2963,10 +2951,6 @@ npcs {
   dcrush: 70
   dmagic: 60
   drange: 50
-}
-npcs {
-  ids: 10578
-  name: "Blue dragon"
 }
 npcs {
   ids: 2613
@@ -8767,10 +8751,6 @@ npcs {
   dmagic: -10
 }
 npcs {
-  ids: 10582
-  name: "Greater demon"
-}
-npcs {
   ids: 7278
   name: "Greater Nechryael"
   hitpoints: 205
@@ -11847,10 +11827,6 @@ npcs {
   drange: 70
 }
 npcs {
-  ids: 10579
-  name: "King black dragon"
-}
-npcs {
   ids: 7405
   name: "King kurask"
   hitpoints: 420
@@ -11920,10 +11896,6 @@ npcs {
   dslash: 15
   dcrush: 15
   drange: 5
-}
-npcs {
-  ids: 10585
-  name: "King Scorpion"
 }
 npcs {
   ids: 3297
@@ -12403,10 +12375,6 @@ npcs {
   dmagic: -10
 }
 npcs {
-  ids: 10581
-  name: "Lesser demon"
-}
-npcs {
   ids: 3982
   name: "Lesser demon"
   hitpoints: 81
@@ -12466,10 +12434,6 @@ npcs {
   def: 35
   mage: 1
   range: 1
-}
-npcs {
-  ids: 10587
-  name: "Lizard man"
 }
 npcs {
   ids: 6914
@@ -14695,10 +14659,6 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 10586
-  name: "Orc"
-}
-npcs {
   ids: 2237
   ids: 2238
   ids: 2239
@@ -16306,10 +16266,6 @@ npcs {
   drange: 50
 }
 npcs {
-  ids: 10577
-  name: "Red dragon"
-}
-npcs {
   ids: 3517
   ids: 4321
   name: "Renegade knight"
@@ -17228,10 +17184,6 @@ npcs {
   dslash: 15
   dcrush: 15
   drange: 55
-}
-npcs {
-  ids: 10584
-  name: "Scorpion"
 }
 npcs {
   ids: 7390
@@ -21222,10 +21174,6 @@ npcs {
   dstab: 4
   dslash: 6
   dcrush: 6
-}
-npcs {
-  ids: 10588
-  name: "Troll"
 }
 npcs {
   ids: 133
