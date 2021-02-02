@@ -14750,6 +14750,7 @@ npcs {
   str: 54
   def: 54
   mage: 1
+  range: 1
   attbns: 20
   strbns: 22
   dstab: 87
@@ -14767,6 +14768,7 @@ npcs {
   str: 48
   def: 28
   mage: 1
+  range: 1
   dstab: 20
   dslash: 40
   dcrush: 40
@@ -14782,6 +14784,7 @@ npcs {
   str: 126
   def: 64
   mage: 1
+  range: 1
   dstab: 87
   dslash: 84
   dcrush: 76
