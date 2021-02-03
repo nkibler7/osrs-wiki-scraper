@@ -6863,6 +6863,28 @@ npcs {
   dcrush: 5
 }
 npcs {
+  ids: 10544
+  name: "Forgotten Soul"
+  version: "1"
+  hitpoints: 50
+  att: 8
+  str: 8
+  def: 12
+  mage: 10
+  range: 1
+}
+npcs {
+  ids: 10545
+  name: "Forgotten Soul"
+  version: "2"
+  hitpoints: 50
+  att: 8
+  str: 8
+  def: 12
+  mage: 10
+  range: 1
+}
+npcs {
   ids: 10523
   ids: 10524
   ids: 10534
