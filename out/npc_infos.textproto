@@ -21877,7 +21877,24 @@ npcs {
   strbns: 5
 }
 npcs {
+  ids: 10591
   name: "Undead Zealot"
+  version: "1"
+  hitpoints: 28
+  att: 28
+  str: 28
+  def: 38
+  mage: 1
+  range: 1
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+}
+npcs {
+  ids: 10592
+  name: "Undead Zealot"
+  version: "2"
   hitpoints: 28
   att: 28
   str: 28
