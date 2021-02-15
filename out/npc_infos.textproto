@@ -4834,6 +4834,17 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 979
+  name: "Dagannoth"
+  version: "Level 100 (Horror From The Deep)"
+  hitpoints: 120
+  att: 78
+  str: 78
+  def: 81
+  mage: 1
+  range: 50
+}
+npcs {
   ids: 140
   name: "Dagannoth"
   hitpoints: 142
