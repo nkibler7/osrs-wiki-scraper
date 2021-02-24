@@ -1462,9 +1462,6 @@ npcs {
   drange: 30
 }
 npcs {
-  name: "Baby dragon"
-}
-npcs {
   ids: 5194
   name: "Baby green dragon"
   version: "1"
@@ -23339,16 +23336,76 @@ npcs {
   drange: 10
 }
 npcs {
-  ids: 3015
   ids: 3111
-  ids: 3112
-  ids: 3113
-  ids: 3268
-  ids: 3299
   ids: 6990
+  name: "Woman"
+  version: "Purple"
+  hitpoints: 7
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  dstab: -21
+  dslash: -21
+  dcrush: -21
+  dmagic: -21
+  drange: -21
+}
+npcs {
+  ids: 3112
   ids: 6991
+  name: "Woman"
+  version: "Brown"
+  hitpoints: 7
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  dstab: -21
+  dslash: -21
+  dcrush: -21
+  dmagic: -21
+  drange: -21
+}
+npcs {
+  ids: 3113
   ids: 6992
   name: "Woman"
+  version: "Red"
+  hitpoints: 7
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  dstab: -21
+  dslash: -21
+  dcrush: -21
+  dmagic: -21
+  drange: -21
+}
+npcs {
+  ids: 3299
+  name: "Woman"
+  version: "East Ardougne"
+  hitpoints: 7
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  dstab: -21
+  dslash: -21
+  dcrush: -21
+  dmagic: -21
+  drange: -21
+}
+npcs {
+  ids: 3015
+  name: "Woman"
+  version: "Varrock"
   hitpoints: 7
   att: 1
   str: 1
