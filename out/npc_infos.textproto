@@ -23117,6 +23117,23 @@ npcs {
   drange: 74
 }
 npcs {
+  ids: 4114
+  name: "White Knight"
+  hitpoints: 52
+  att: 27
+  str: 29
+  def: 21
+  mage: 1
+  range: 1
+  attbns: 30
+  strbns: 31
+  dstab: 83
+  dslash: 76
+  dcrush: 70
+  dmagic: -11
+  drange: 74
+}
+npcs {
   ids: 107
   name: "White wolf"
   version: "Level 25"
