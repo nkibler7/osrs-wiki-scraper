@@ -23099,7 +23099,6 @@ npcs {
 }
 npcs {
   ids: 1829
-  ids: 4114
   name: "White Knight"
   version: "Partisan"
   hitpoints: 55
