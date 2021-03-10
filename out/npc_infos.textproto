@@ -12377,6 +12377,11 @@ npcs {
   ids: 3360
   name: "Leon d\'Cour"
   hitpoints: 123
+  att: 123
+  str: 123
+  def: 123
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 2005
