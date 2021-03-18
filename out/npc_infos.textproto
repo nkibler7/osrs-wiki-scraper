@@ -12075,7 +12075,7 @@ npcs {
 npcs {
   ids: 1606
   name: "Kolodion"
-  version: "Jogre"
+  version: "Ogre"
   hitpoints: 65
 }
 npcs {
