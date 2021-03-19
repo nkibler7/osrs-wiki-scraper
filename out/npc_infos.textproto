@@ -2731,7 +2731,7 @@ npcs {
 }
 npcs {
   ids: 3911
-  name: "Black unicorn"
+  name: "Black unicorn Foal"
   hitpoints: 25
   att: 18
   str: 18
