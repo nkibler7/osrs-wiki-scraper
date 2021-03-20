@@ -15082,7 +15082,7 @@ npcs {
   ids: 5758
   name: "Penance Ranger"
   version: "Wave 2"
-  hitpoints: 29
+  hitpoints: 28
   def: 29
   range: 24
 }
@@ -15090,7 +15090,7 @@ npcs {
   ids: 5759
   name: "Penance Ranger"
   version: "Wave 3"
-  hitpoints: 32
+  hitpoints: 29
   def: 33
   range: 34
 }
@@ -15130,7 +15130,7 @@ npcs {
   ids: 5764
   name: "Penance Ranger"
   version: "Wave 8"
-  hitpoints: 55
+  hitpoints: 54
   def: 68
   range: 70
 }
