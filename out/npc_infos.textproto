@@ -3905,12 +3905,47 @@ npcs {
 npcs {
   ids: 1173
   ids: 1174
-  ids: 2804
-  ids: 2805
-  ids: 2806
+  name: "Chicken"
+  version: "Normal"
+  hitpoints: 3
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  attbns: -47
+  strbns: -42
+  dstab: -42
+  dslash: -42
+  dcrush: -42
+  dmagic: -42
+  drange: -42
+}
+npcs {
   ids: 3661
   ids: 3662
   name: "Chicken"
+  version: "Miscellania"
+  hitpoints: 3
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  attbns: -47
+  strbns: -42
+  dstab: -42
+  dslash: -42
+  dcrush: -42
+  dmagic: -42
+  drange: -42
+}
+npcs {
+  ids: 2804
+  ids: 2805
+  ids: 2806
+  name: "Chicken"
+  version: "Falador Farm"
   hitpoints: 3
   att: 1
   str: 1
