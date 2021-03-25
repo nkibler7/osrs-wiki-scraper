@@ -3059,7 +3059,7 @@ U
 :
 QShadow WyrmIdle À(¬0´8}@ H}Xh€ˆdd˜2 
 ?
-QShadow Wyrm	Attacking À(¬0´8}@ H}Xh€ˆdd˜2 
+ŸQShadow Wyrm	Attacking À(¬0´8}@ H}Xh€ˆdd˜2 
 3
 …DShaeded Beast Ò(20P82@úHh
 €2ˆd˜– 2
@@ -3307,12 +3307,12 @@ X€ˆ
 ÃAÄASotetseg  (ú0ú8È@úX0€FˆFF˜ –
 
 üSoulless (08@H
-<
-ÃQÄQÅQSourhog
+8
+ÃQSourhog
 Post-quest ((#08@H#PX`p#xˆ
 ˜
-G
-ÃQÄQÅQSourhogA Porcine of Interest ((#08@H#PX`p#xˆ
+C
+ÄQSourhogA Porcine of Interest ((#08@H#PX`p#xˆ
 ˜
 %
 œ..Spawn (x08@H2˜öÿÿÿÿÿÿÿÿ
@@ -3727,8 +3727,8 @@ B
 2
 ñòóôõö‚<ƒ<„<…<†<‡<
 TzHaar-Hur P(<0<8<@PH
-5
-ışÿ€‚ƒ
+7
+ışÿ€‚ƒ‹
 TzHaar-Ket	Level 149 Œ(x0Œ8x@(H
 +
 ÿ;
@@ -3857,6 +3857,8 @@ O
 €–ˆ––˜ 
 N
 è:VanguardRanged (Challenge Mode) ˜(á0á8ğ@áHáp(x€7ˆ<d˜ ¬
+
+æ:VanguardMoving
 5
 –—˜™š›¯@°@Vanstrom Klause ›(–0ˆ8–@–H–
 -Vanstrom Klause î8´@´`h€"ˆ""˜" "

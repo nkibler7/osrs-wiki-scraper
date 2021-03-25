@@ -17594,7 +17594,7 @@ npcs {
   drange: 20
 }
 npcs {
-  ids: 10398
+  ids: 10399
   name: "Shadow Wyrm"
   version: "Attacking"
   hitpoints: 320
@@ -19199,8 +19199,6 @@ npcs {
 }
 npcs {
   ids: 10435
-  ids: 10436
-  ids: 10437
   name: "Sourhog"
   version: "Post-quest"
   hitpoints: 40
@@ -19219,9 +19217,7 @@ npcs {
   dmagic: 30
 }
 npcs {
-  ids: 10435
   ids: 10436
-  ids: 10437
   name: "Sourhog"
   version: "A Porcine of Interest"
   hitpoints: 40
@@ -21566,6 +21562,7 @@ npcs {
   ids: 2177
   ids: 2178
   ids: 2179
+  ids: 2187
   name: "TzHaar-Ket"
   version: "Level 149"
   hitpoints: 140
@@ -22309,6 +22306,11 @@ npcs {
   dcrush: 100
   dmagic: 400
   drange: 300
+}
+npcs {
+  ids: 7526
+  name: "Vanguard"
+  version: "Moving"
 }
 npcs {
   ids: 3734
