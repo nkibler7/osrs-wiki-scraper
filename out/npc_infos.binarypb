@@ -38,6 +38,18 @@ G
 åJAcidic Bloodveld (P0.8@H€œÿÿÿÿÿÿÿÿˆœÿÿÿÿÿÿÿÿœÿÿÿÿÿÿÿÿ˜œÿÿÿÿÿÿÿÿ œÿÿÿÿÿÿÿÿ
 7
 Ş>š?Adamant dragon §(˜0˜8@ºHº€ˆnU˜ _
+%
+’
+	AfflictedLevel 30 (08"@H
+%
+‘
+	AfflictedLevel 32 (08$@H
+%
+
+	AfflictedLevel 34 (08&@H
+%
+
+	AfflictedLevel 37 (08(@H
 '
 ô1Agrith-NaarNormal _(S0Z8R@dHd
 /
@@ -152,6 +164,8 @@ R
 Ù8AnkouLevel 95 <(d0F8d@H
 !
 ¸=AnkouLevel 98 d(K0Z8P@H
+%
+ä Apmeken F(0(8<@UH€AˆAA˜2
 +
 åArcher 2(08@H(px€ˆ˜
  
@@ -215,6 +229,36 @@ P X*€ˆ˜ 
 ¤RAvatar of Destruction Ü( 0À8
 @
 P X*€ˆ˜ 
+$
+áAviansieLevel 69 F(08F@HG
+$
+éAviansieLevel 71 ?(087@HV
+$
+êAviansieLevel 73 C(087@HY
+(
+âAviansieLevel 79 (1) S(08F@HU
+(
+ëAviansieLevel 79 (2) M(087@H`
+$
+äAviansieLevel 83 V(08d@HL
+$
+ãAviansieLevel 84 V(08F@H]
+$
+ìAviansieLevel 89 E(08s@HY
+$
+åAviansieLevel 92 _(08d@HZ
+$
+íAviansieLevel 94 K(08s@H`
+(
+æAviansieLevel 97 (1) b(08d@Hc
+(
+îAviansieLevel 97 (2) O(08s@He
+'
+ïAviansie	Level 131 s(08¯@H
+'
+çAviansie	Level 137 |(08 @Hˆ
+(
+èAviansie	Level 148 ‹(08 @H—
 
 ø8Awakened Altar d
 6
@@ -237,12 +281,17 @@ P X*€ˆ˜ 
 õBaby red dragon2 2((0(8(@H€ˆ22˜( 
 3
 öBaby red dragon3 2((0(8(@H€ˆ22˜( 
+0
+‰Baby red dragon A(70787@H€ˆ22˜( 
 
 úBaby Roc 2(F0F8F@H˜–
 &
 İ-Baby tanglefootTan (((0&8(@H
 (
 Ş-Baby tanglefootBrown (((0&8(@H
+(
+¼Balfrug Kreeyath ¡(s0<8™@–H˜
+
 ,
 ‚BanditLevel 22 (08@HPXˆ
 .
@@ -316,6 +365,10 @@ K
 P
 X
 €ˆ˜ 
+/
+ØÆ1BarrelchestNormal †(ª0‘8Œ@ZHPPXP
+3
+æBarrelchest (hard)Hard ÿ(²0…8Œ@¢HPPXP
 %
 ¡¢Basilisk K(0-8K@H€ˆ˜
 /
@@ -624,8 +677,13 @@ V
 H
 A
 ”Chaos druid warrior (( 0"8@HP	X€ˆ˜üÿÿÿÿÿÿÿÿ 
+2
+£÷Chaos dwarf =(&0*8@HPX	€(ˆ"˜
+ #
 8
 †é2Chaos Elemental ú(08@H€FˆFF˜F F
+B
+Û3Chaos Fanatic á(08Ü@ÈHpKxìÿÿÿÿÿÿÿÿ€„ˆ„ú˜˜ P
 /
 ¼4Chaotic death spawnMelee 2(ü08F@üHü
 0
@@ -654,6 +712,9 @@ z
 û&Ò1	ChronozonNormal <(­0¬8­@H
 +
 ”1Chronozon (hard)Hard x(Ú0Ø8­@H
+)
+•"
+City guard P(F0F8F@HP	X€ˆ
 !
 ¶	Clivet (
 0
@@ -719,6 +780,10 @@ w
 Cow (hard)Hard  (È0È8@HPñÿÿÿÿÿÿÿÿXñÿÿÿÿÿÿÿÿ€ëÿÿÿÿÿÿÿÿˆëÿÿÿÿÿÿÿÿëÿÿÿÿÿÿÿÿ˜ëÿÿÿÿÿÿÿÿ ëÿÿÿÿÿÿÿÿ
 p
 èêñCow calf (08@HPìÿÿÿÿÿÿÿÿXìÿÿÿÿÿÿÿÿ€æÿÿÿÿÿÿÿÿˆæÿÿÿÿÿÿÿÿæÿÿÿÿÿÿÿÿ˜æÿÿÿÿÿÿÿÿ æÿÿÿÿÿÿÿÿ
+ 
+Ö%CrabLevel 21 (08@H
+ 
+Ó%CrabLevel 23 (08@H
 .
 ÁÂÃÄCrawling HandLevel 7 (08@H
 (
@@ -1047,6 +1112,8 @@ Elf Archer2 i(
 ±á>Í1ElvargNormal P(F0F8F@FH€ˆ((˜ 
 8
 æ/Elvarg (hard)Hard ğ(Ò0Ò8F@ÒH€ˆ((˜ 
+,
+"Enclave guard P(F0F8F@HP	X€ˆ
 
 à3Energy sprite >
 9
@@ -1126,6 +1193,8 @@ Fire giant	Level 104 ‚(A0A8x@HP2X€ˆ
 2
 Ó8
 Fire giant	Level 109 –(Z0P8A@HPXˆ
+M
+øFire Warrior of Lesarkus ;(N0N8N@>HPôÿÿÿÿÿÿÿÿ€"ˆ%#˜ùÿÿÿÿÿÿÿÿ #
 
 ”Fire wizard (08
 @
@@ -1163,6 +1232,12 @@ $
 •Foreman (08ˆ
 #
 Æ8Forester (08@H€ˆ
+#
+°RForgotten Soul1 2(08@
+H
+#
+±RForgotten Soul2 2(08@
+H
 ?
 ›RœR¦R§RForgotten SoulLevel 46 2(20(8@H€
 ˆ
@@ -1224,6 +1299,10 @@ G
 -
 ò5ó5GangsterLevel 50 2(20(8(@HP#X
 
+#
+ÌGardenerLevel 3 (08@H
+'
+ËÃˆ+GardenerLevel 4 (08@H
 *
 œ‡Gargoyle i(K0i8k@H€ˆ˜ 
 U
@@ -1432,6 +1511,10 @@ U
 ÛFGolem 
 $
 "Gorad P(60686@HPX€ˆ
+%
+ªGorak	Level 145 p(‚0‚8ƒ@H
+%
+ÅGorak	Level 149 €(…0~8‡@H
 &
 ü)Grave scorpion (08@Hˆ
 >
@@ -1739,6 +1822,10 @@ Ice spider A(2078+@H€ˆ˜ 
 ÔÁ-Æ-Ice troll female P(P0P8(@HP<X<€ˆ<
 2
 ÕÂ-Ç-Ice troll grunt P(d0d8<@HP<X<€ˆ<
+@
+¾-Ô1Ice Troll KingNormal –(d0d8P@HP<X<€-ˆ--˜Ğ Ğ
+E
+–1Ice Troll King (hard)Hard ÿ(È0È8P@HP<X<€-ˆ--˜Ğ Ğ
 1
 ÓÀ-Å-Ice troll male P(P0P8(@HP<X<€ˆ<
 1
@@ -1987,6 +2074,16 @@ A
  
 -
 Â7Ã7Kob È(´0¯8PPÈX‡€UˆUZ˜È È
+
+ÅÃÄKolodionHuman 
+
+ÆKolodionOgre A
+
+ÇKolodionSpider A
+
+ÈKolodionGhost N
+!
+ÉKolodionDemon k(U0b8i@PH
 2
 ¹Koschei the deathless (08€ˆ˜ 
 2
@@ -2005,6 +2102,8 @@ A
 ğ	Whirlpool	Whirlpool(08@H˜‚ ¬
 )
 îKrakenKraken ÿ(08@H˜‚ ¬
+@
+ÚÜ2	Kree'arra ÿ(¬0È8„@ÈHüPˆXpxx2€´ˆ´´˜È È
 ,
 ­LKroy í(P0P8P@PP$X*`$h*€2ˆ22˜2 2
 6
@@ -2029,6 +2128,8 @@ Lava beast A
 ¡Leech -(P08#@H
 
 çLensa 2((0(8(@HX
+
+ Leon d'Cour {({0{8{@H
 B
 ÕÖ×Øâè;é;ğ;Lesser demonLevel 82 O(D0F8G@H˜öÿÿÿÿÿÿÿÿ
 4
@@ -2234,6 +2335,10 @@ Moss giantLevel 48 U(08@HP!X
 *
  D
 Moss GiantLevel 84 x(<0<8<@HPBX>
+-
+ûò1Moss GuardianNormal x(<0<8<@HPBX>
+3
+µ1Moss Guardian (hard)Hard ğ(¥0¥8<@HPBX>
 (
 ìAíAîAMother ë(–0–8ª@<HiP<X2˜È
 A
@@ -2306,6 +2411,18 @@ Nail beastLevel 98 A(×08@H
 Nail beast	Level 141 K(À08(@H
 R
 ĞNarf (08@H€ûÿÿÿÿÿÿÿÿˆûÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿ˜ûÿÿÿÿÿÿÿÿ ûÿÿÿÿÿÿÿÿ
+#
+é)ş1NazastaroolZombie F(U0P8P
+8
+ê)ÿ1NazastaroolSkeleton F(:068:PX€ˆ˜ 
+"
+ë)€2NazastaroolGhost P(U0P8P
+2
+Á1Nazastarool (hard)Zombie (hard) š(»0°8P
+G
+Â1Nazastarool (hard)Skeleton (hard) ´(–0Œ8:PX€ˆ˜ 
+1
+Ã1Nazastarool (hard)Ghost (hard) °(»0°8P
 '
 	Nechryael i(a0a8i@H€ˆ 
 ,
@@ -2410,6 +2527,8 @@ $
 )Ouhai
 *
 Ç È É Ê Ë Ì Í Î Ï Ğ Outlaw (#08@H
+ 
+)Padulah ‚(‚0‚8‚@‚HP2
 E
 İŞÖ?•EPaladinArdougne B(&0686@HPX€WˆTL˜öÿÿÿÿÿÿÿÿ O
 E
@@ -2596,6 +2715,12 @@ $
 
 
 -Queen Spawn -(<0>82@H
+V
+ÜİŞRabbitTirannwn (08@HˆÖÿÿÿÿÿÿÿÿÖÿÿÿÿÿÿÿÿ˜Öÿÿÿÿÿÿÿÿ Öÿÿÿÿÿÿÿÿ
+c
+ĞÑRabbitMiscellania (08@H€ÖÿÿÿÿÿÿÿÿˆÖÿÿÿÿÿÿÿÿÖÿÿÿÿÿÿÿÿ˜Öÿÿÿÿÿÿÿÿ Öÿÿÿÿÿÿÿÿ
+,
+¼½RabbitEnchanted Valley (08@H
 5
 GRabbit Ğ(Ø0È8Â@¬HPPX<€–ˆ––˜– È
 3
@@ -2626,6 +2751,16 @@ r
 ¦§RatLevel 1 (08@HPÑÿÿÿÿÿÿÿÿXËÿÿÿÿÿÿÿÿ€ÖÿÿÿÿÿÿÿÿˆÖÿÿÿÿÿÿÿÿÖÿÿÿÿÿÿÿÿ˜Öÿÿÿÿÿÿÿÿ Öÿÿÿÿÿÿÿÿ
 x
 ¼ÑRatLevel 1 (SoS) (08@HPÑÿÿÿÿÿÿÿÿXËÿÿÿÿÿÿÿÿ€ÖÿÿÿÿÿÿÿÿˆÖÿÿÿÿÿÿÿÿÖÿÿÿÿÿÿÿÿ˜Öÿÿÿÿÿÿÿÿ Öÿÿÿÿÿÿÿÿ
+
+¨RavagerLevel 36 (098
+
+©RavagerLevel 53 &(%0R8
+
+ªRavagerLevel 71 5(/0k8!
+ 
+«RavagerLevel 89 D(90„8+
+!
+¬Ravager	Level 106 S(C085
 1
 ş6Reanimated abyssal #(a0C8‡@H€ˆ 
 %
@@ -2742,6 +2877,8 @@ Riyl ShadeShade L(X078<
 !
 
 Riyl ShadowShadow L(X078<
+
+ÿ+Riyl shadow L(W088<@2H2
 8
 ù>Robert the Strong ˜8Œ@€HÈp~€Œˆ´<˜¬ Ü
 (
@@ -2794,6 +2931,8 @@ S
 ÑRusty (08@H€ñÿÿÿÿÿÿÿÿˆñÿÿÿÿÿÿÿÿñÿÿÿÿÿÿÿÿ˜ñÿÿÿÿÿÿÿÿ ñÿÿÿÿÿÿÿÿ
 %
 °Salarin the twisted F(:0:8>@H
+5
+üSan Tojalon x(V0T8VPX€ˆ˜ÿÿÿÿÿÿÿÿÿ 
 %
 ¯.¦8	Sand CrabActive <(08@H
 '
@@ -2852,6 +2991,16 @@ HPdXd
 ÊSea Snake Hatchling 2(<0782@
 !
 ÉSea Snake Young U(Z0F8F@H
+%
+Õ!	Sea trollLevel 65 P(20282@H
+%
+Ô!	Sea trollLevel 79 d(<0<8<@H
+%
+Ö!	Sea trollLevel 87 P(K0K8K@H
+&
+×!	Sea troll	Level 101 P(Z0Z8Z@H
+3
+Û!Sea Troll Queen È(d0F8d@–HPdX(€ˆ((˜(
 t
 º
 SeagullLevel 2 (08@HPÑÿÿÿÿÿÿÿÿXÖÿÿÿÿÿÿÿÿ€ÖÿÿÿÿÿÿÿÿˆÖÿÿÿÿÿÿÿÿÖÿÿÿÿÿÿÿÿ˜Öÿÿÿÿÿÿÿÿ Öÿÿÿÿÿÿÿÿ
@@ -2874,6 +3023,8 @@ U
 Ô4ShadeStronghold of Security ª(‚0‚8‚@H
 /
 Ú8ShadeCatacombs of Kourend s(‚0ˆ8d@2H2
+
+,Shade s(‚0ˆ8d@2H2
 )
 ¤üShadow (Z0x8@ZH€ˆ˜ 
 
@@ -2921,6 +3072,8 @@ PX
 Sir Gawain n(n0i8d@HP(X-€AˆZ¬
 7
 F	Sir Harry 9(60686@HPX€WˆTL˜öÿÿÿÿÿÿÿÿ O
+7
+›F	Sir Jerro 9(60686@HPX€WˆTL˜öÿÿÿÿÿÿÿÿ O
 )
 ı!ƒ"Sir Kay n(n0n8d@HP7X7€-ˆ¬A
 /
@@ -2965,6 +3118,8 @@ C
 ØSkeletonLevel 68 F(<028<@H€#ˆ#ûÿÿÿÿÿÿÿÿ #
 ;
 ÜİŞSkeletonLevel 85 M(J0J8J@HPX€Oˆ˜ F
+
+õ(Skeleton n(´0Z8n@nHP2
 5
 •–—˜Skeleton 3(H0H8H@H€ˆûÿÿÿÿÿÿÿÿ 
 
@@ -3020,6 +3175,10 @@ N
 ‚Skeleton (08@H€	ˆşÿÿÿÿÿÿÿÿ˜ 
 9
 „Skeleton heavy |(s0r8n@HP	Xˆ˜ıÿÿÿÿÿÿÿÿ 
+.
+¾'ó1Skeleton HellhoundNormal 7(F0n8d@H
+4
+¶1Skeleton Hellhound (hard)Hard „(¨0ˆ8d@H
 8
 Õ3Skeleton Hellhound n(Ò0ú8–@H€eˆg
 ˜´ Š
@@ -3120,6 +3279,8 @@ X€ˆ
 €ˆ˜üÿÿÿÿÿÿÿÿ 
 
 Â&Å&â&Solus Dellagar (
+
+±²	Sorebones 4(10282@H
 1
 ÃAÄASotetseg  (ú0ú8È@úX0€FˆFF˜ –
 
@@ -3169,6 +3330,21 @@ $
 ±SpinnerLevel 88 ](%0%8@%
 !
 °SpinnerLevel 92 e( 0 8v@R
+.
+º.¼.Ê.Suspicious waterSuspicious water d
+7
+».É.Ë.SpinolypSpinolyp d(
+0
+8
+@Hd€dˆdd˜2 2
+*
+ÙSpiritual mageZamorak K(08=@´H
+;
+¤Spiritual mage	Saradomin U(08V@ H€ˆ˜ 
+8
+ÄSpiritual mageBandos j(08g@H€ˆ˜# 
+9
+àSpiritual mageArmadyl K(08o@–H€	ˆ˜- 
 ,
 ØSpiritual rangerZamorak x(08P@HŒ
 =
@@ -3208,6 +3384,8 @@ H
 ×8Steel dragonCatacombs of Kourend ú(ë0ë8ë@‚H€2ˆFF˜ Z
 1
 ‹Steel dragon Ò(×0×8×@dH€2ˆFF˜ Z
+)
+Stick ‡(<0n8<P2XP€ˆ2˜È È
 7
 ‚?Stone GuardianMagic >(08Š@€H`
 €(ˆ(#˜#
@@ -3227,6 +3405,9 @@ x
 €.ˆ2-˜ôÿÿÿÿÿÿÿÿ -
 ,
 ¦CSulphur Lizard 2(20-8@H€ˆ 
+ 
+ESummoned Zombie (0	8
+@H
 2
 “”•–—˜™Suqah i(_0_8_@H€2ˆFF˜Z 2
 V
@@ -3268,6 +3449,10 @@ TanglefootNormal f(a0a8[@H
 ›%œ%Target (08@H
 3
 •%Tarik (08@HPX€ˆ˜üÿÿÿÿÿÿÿÿ 
+,
+Í2Mutant tarn P((0P8(@H€2ˆ22˜2 2
+%
+Ì2Tarn P((0P8(@H€2ˆ22˜2 2
 8
 ô:õ:ö:TektonNormal ¬(†0†8Í@ÍHP@X€›ˆ¥i
 @
@@ -3291,6 +3476,9 @@ Terror dog	Level 100 R(d0Z8J@HX
 )
 É2
 Terror dog	Level 110 W(n0h8N@HX
+ 
+‘’
+Terrorbird "(08@H
 .
 ÒThe Draugen <(<0<8<@H€dˆdd˜ô ô
 .
@@ -3306,6 +3494,21 @@ Terror dog	Level 110 W(n0h8N@HX
 ;
 ÉHÊHËHÌHThe Jormungand Ø(Ö0Ö8Ö@ÖHÖ€2ˆ2
 ˜2 2
+@
+á
+â
+ï1
+The KendalNormal 2(A0A8<PX
+€
+ˆ
+
+˜öÿÿÿÿÿÿÿÿ 
+D
+²1The Kendal (hard)Hard –(Ã0Ã8<PX
+€
+ˆ
+
+˜öÿÿÿÿÿÿÿÿ 
 :
 ¨AThe Maiden of SugadintiNormal ¬(Ş0Ş8È@ŞHŞ`¬
 >
@@ -3323,6 +3526,10 @@ G
 ÇIThe Nightmare à(–0–8–@–H–PŒX€`Œh@pŒx@€xˆ´(˜Ø Ø
 )
 ä$å$The Shaikahan d(P0P8@H˜N N
+.
+“Ğ1The UntouchableNormal Z(»0ÿ8²@H
+2
+é/The Untouchable (hard)Hard ´(ö0ş8²@H
 A
 óThermonuclear smoke devil ğ(æ0Ü8è@H¶€ˆ	˜  „
 %
@@ -3588,6 +3795,10 @@ $
 ‘Unicow (08@H
 
 )Uodai
+"
+İRUrium ShadeShade ‚(Š0t8d
+$
+ÿ/Urium ShadowShadow ‚(Š0t8d
 
 Œ)Uyoro
 U
@@ -3755,6 +3966,8 @@ White wolfLevel 25 "(08@H
 White wolfLevel 38 ,(08 @H
 
 pqš9Wild dog >(50686@H
+
+™Wilson 2(08@H
 %
 ÛWingman Skree y(P028 @–HdP-X
 .
