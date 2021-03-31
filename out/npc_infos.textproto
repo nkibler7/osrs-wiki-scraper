@@ -2573,6 +2573,58 @@ npcs {
   drange: 40
 }
 npcs {
+  ids: 6050
+  name: "Black Guard Berserker"
+  version: "Red"
+  hitpoints: 50
+  att: 60
+  str: 60
+  def: 60
+  mage: 1
+  range: 1
+  attbns: 55
+  strbns: 55
+  dstab: 60
+  dslash: 60
+  dcrush: 60
+  drange: 60
+}
+npcs {
+  ids: 6051
+  name: "Black Guard Berserker"
+  version: "Blue"
+  hitpoints: 50
+  att: 60
+  str: 60
+  def: 60
+  mage: 1
+  range: 1
+  attbns: 55
+  strbns: 55
+  dstab: 60
+  dslash: 60
+  dcrush: 60
+  drange: 60
+}
+npcs {
+  ids: 6052
+  ids: 2232
+  name: "Black Guard Berserker"
+  version: "Green"
+  hitpoints: 50
+  att: 60
+  str: 60
+  def: 60
+  mage: 1
+  range: 1
+  attbns: 55
+  strbns: 55
+  dstab: 60
+  dslash: 60
+  dcrush: 60
+  drange: 60
+}
+npcs {
   ids: 301
   name: "Black Heather"
   hitpoints: 37
@@ -2966,6 +3018,51 @@ npcs {
   def: 80
   mage: 170
   range: 140
+}
+npcs {
+  ids: 1734
+  name: "Brawler"
+  version: "Level 51"
+  hitpoints: 53
+  att: 27
+  str: 57
+  def: 43
+}
+npcs {
+  ids: 1735
+  name: "Brawler"
+  version: "Level 76"
+  hitpoints: 83
+  att: 37
+  str: 82
+  def: 67
+}
+npcs {
+  ids: 1736
+  name: "Brawler"
+  version: "Level 101"
+  hitpoints: 113
+  att: 47
+  str: 107
+  def: 93
+}
+npcs {
+  ids: 1737
+  name: "Brawler"
+  version: "Level 129"
+  hitpoints: 143
+  att: 67
+  str: 132
+  def: 118
+}
+npcs {
+  ids: 1738
+  name: "Brawler"
+  version: "Level 158"
+  hitpoints: 173
+  att: 87
+  str: 157
+  def: 143
 }
 npcs {
   ids: 2208
@@ -13649,6 +13746,40 @@ npcs {
   dcrush: 10
   dmagic: 200
   drange: 200
+}
+npcs {
+  ids: 2067
+  name: "Mounted terrorbird gnome"
+  version: "Level 31"
+  hitpoints: 36
+  att: 25
+  str: 25
+  def: 25
+  dstab: 16
+  dslash: 16
+  dcrush: 18
+  dmagic: 15
+  drange: 10
+}
+npcs {
+  ids: 2068
+  ids: 5971
+  ids: 5972
+  ids: 5973
+  name: "Mounted terrorbird gnome"
+  version: "Level 49"
+  hitpoints: 55
+  att: 40
+  str: 40
+  def: 40
+  mage: 1
+  range: 1
+  rngbns: 2
+  dstab: 16
+  dslash: 16
+  dcrush: 18
+  dmagic: 15
+  drange: 10
 }
 npcs {
   ids: 9013
