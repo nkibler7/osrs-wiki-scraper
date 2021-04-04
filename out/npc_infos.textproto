@@ -313,7 +313,7 @@ npcs {
 npcs {
   ids: 911
   ids: 6388
-  name: "Agrith-Naar"
+  name: "Agrith Naar"
   version: "Normal"
   hitpoints: 95
   att: 83
@@ -324,7 +324,7 @@ npcs {
 }
 npcs {
   ids: 6327
-  name: "Agrith-Naar (hard)"
+  name: "Agrith Naar (hard)"
   version: "Hard"
   hitpoints: 209
   att: 182
