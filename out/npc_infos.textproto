@@ -23200,7 +23200,6 @@ npcs {
 npcs {
   ids: 112
   ids: 113
-  ids: 7322
   name: "Wild dog"
   hitpoints: 62
   att: 53
