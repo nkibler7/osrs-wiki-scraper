@@ -2950,6 +2950,21 @@ npcs {
   drange: 50
 }
 npcs {
+  name: "Body Golem"
+  version: "Level 50"
+  hitpoints: 60
+  att: 33
+  str: 43
+  def: 45
+  mage: 1
+  range: 1
+  strbns: 28
+  dstab: 5
+  dslash: 5
+  dmagic: 2
+  drange: 10
+}
+npcs {
   ids: 2613
   name: "Boris"
   hitpoints: 60
@@ -3853,6 +3868,20 @@ npcs {
   dcrush: 250
   dmagic: 280
   drange: 80
+}
+npcs {
+  name: "Chaos Golem"
+  hitpoints: 94
+  att: 45
+  str: 55
+  def: 59
+  mage: 1
+  range: 1
+  strbns: 35
+  dstab: 5
+  dslash: 5
+  dmagic: 2
+  drange: 10
 }
 npcs {
   ids: 6716
@@ -6821,6 +6850,20 @@ npcs {
   dslash: 18
   dcrush: 18
   drange: 18
+}
+npcs {
+  name: "Flawed Golem"
+  hitpoints: 25
+  att: 7
+  str: 12
+  def: 6
+  mage: 1
+  range: 1
+  strbns: 15
+  dstab: 5
+  dslash: 5
+  dmagic: 2
+  drange: 10
 }
 npcs {
   ids: 2498
@@ -13305,6 +13348,20 @@ npcs {
   dcrush: -21
   dmagic: -21
   drange: -21
+}
+npcs {
+  name: "Mind Golem"
+  hitpoints: 15
+  att: 14
+  str: 31
+  def: 25
+  mage: 1
+  range: 1
+  strbns: 23
+  dstab: 5
+  dslash: 5
+  dmagic: 2
+  drange: 10
 }
 npcs {
   ids: 2481
