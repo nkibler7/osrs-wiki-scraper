@@ -561,6 +561,21 @@ npcs {
   range: 1
 }
 npcs {
+  name: "Ancient Guardian"
+  hitpoints: 40
+  att: 25
+  str: 33
+  def: 25
+  mage: 1
+  range: 1
+  attbns: 20
+  strbns: 50
+  dstab: 40
+  dslash: 40
+  dmagic: 5
+  drange: 30
+}
+npcs {
   ids: 7307
   name: "Ancient Wizard"
   version: "Mage"
@@ -2950,8 +2965,8 @@ npcs {
   drange: 50
 }
 npcs {
+  ids: 10691
   name: "Body Golem"
-  version: "Level 50"
   hitpoints: 60
   att: 33
   str: 43
@@ -3870,6 +3885,7 @@ npcs {
   drange: 80
 }
 npcs {
+  ids: 10689
   name: "Chaos Golem"
   hitpoints: 94
   att: 45
@@ -6852,6 +6868,7 @@ npcs {
   drange: 18
 }
 npcs {
+  ids: 10695
   name: "Flawed Golem"
   hitpoints: 25
   att: 7
@@ -13350,8 +13367,26 @@ npcs {
   drange: -21
 }
 npcs {
+  ids: 10693
   name: "Mind Golem"
-  hitpoints: 15
+  version: "Golem"
+  hitpoints: 40
+  att: 14
+  str: 31
+  def: 25
+  mage: 1
+  range: 1
+  strbns: 23
+  dstab: 5
+  dslash: 5
+  dmagic: 2
+  drange: 10
+}
+npcs {
+  ids: 10694
+  name: "Rubble"
+  version: "Rubble"
+  hitpoints: 40
   att: 14
   str: 31
   def: 25
