@@ -561,6 +561,8 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 10654
+  ids: 10655
   name: "Ancient Guardian"
   hitpoints: 40
   att: 25
