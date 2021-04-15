@@ -3903,7 +3903,7 @@ npcs {
 }
 npcs {
   ids: 10689
-  name: "Rubble"
+  name: "Chaos Golem"
   version: "Golem"
   hitpoints: 94
   att: 45
