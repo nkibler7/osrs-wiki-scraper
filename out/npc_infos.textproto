@@ -2967,6 +2967,23 @@ npcs {
 npcs {
   ids: 10691
   name: "Body Golem"
+  version: "Golem"
+  hitpoints: 60
+  att: 33
+  str: 43
+  def: 45
+  mage: 1
+  range: 1
+  strbns: 28
+  dstab: 5
+  dslash: 5
+  dmagic: 2
+  drange: 10
+}
+npcs {
+  ids: 10692
+  name: "Rubble"
+  version: "Rubble"
   hitpoints: 60
   att: 33
   str: 43
@@ -3886,7 +3903,24 @@ npcs {
 }
 npcs {
   ids: 10689
-  name: "Chaos Golem"
+  name: "Rubble"
+  version: "Golem"
+  hitpoints: 94
+  att: 45
+  str: 55
+  def: 59
+  mage: 1
+  range: 1
+  strbns: 35
+  dstab: 5
+  dslash: 5
+  dmagic: 2
+  drange: 10
+}
+npcs {
+  ids: 10690
+  name: "Rubble"
+  version: "Rubble"
   hitpoints: 94
   att: 45
   str: 55
@@ -6870,6 +6904,23 @@ npcs {
 npcs {
   ids: 10695
   name: "Flawed Golem"
+  version: "Golem"
+  hitpoints: 25
+  att: 7
+  str: 12
+  def: 6
+  mage: 1
+  range: 1
+  strbns: 15
+  dstab: 5
+  dslash: 5
+  dmagic: 2
+  drange: 10
+}
+npcs {
+  ids: 10696
+  name: "Rubble"
+  version: "Rubble"
   hitpoints: 25
   att: 7
   str: 12
