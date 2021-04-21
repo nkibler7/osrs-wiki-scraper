@@ -7095,10 +7095,57 @@ npcs {
   drange: 10
 }
 npcs {
-  ids: 4772
   ids: 4773
+  name: "Fortress Guard"
+  hitpoints: 22
+  att: 18
+  str: 18
+  def: 15
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 6
+  dstab: 14
+  dslash: 18
+  dcrush: 14
+  dmagic: -4
+  drange: 15
+}
+npcs {
   ids: 4774
+  name: "Fortress Guard"
+  hitpoints: 22
+  att: 18
+  str: 18
+  def: 15
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 6
+  dstab: 14
+  dslash: 18
+  dcrush: 14
+  dmagic: -4
+  drange: 15
+}
+npcs {
   ids: 4775
+  name: "Fortress Guard"
+  hitpoints: 22
+  att: 18
+  str: 18
+  def: 15
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 6
+  dstab: 14
+  dslash: 18
+  dcrush: 14
+  dmagic: -4
+  drange: 15
+}
+npcs {
   ids: 4776
   name: "Fortress Guard"
   hitpoints: 22
@@ -14791,7 +14838,6 @@ npcs {
   dcrush: 16
 }
 npcs {
-  ids: 4382
   ids: 4383
   ids: 4384
   name: "Ogre shaman"
