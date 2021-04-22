@@ -4623,10 +4623,7 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 449
   ids: 450
-  ids: 451
-  ids: 452
   name: "Crawling Hand"
   version: "Level 7"
   hitpoints: 15
@@ -4639,11 +4636,51 @@ npcs {
 npcs {
   ids: 448
   name: "Crawling Hand"
-  version: "Level 8"
+  version: "Level 8 (1)"
   hitpoints: 16
   att: 8
   str: 4
   def: 4
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 449
+  name: "Crawling Hand"
+  version: "Level 8 (2)"
+  hitpoints: 16
+  att: 8
+  str: 4
+  def: 4
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 451
+  name: "Crawling Hand"
+  version: "Level 8 (3)"
+  hitpoints: 16
+  att: 8
+  str: 4
+  def: 4
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 452
+  name: "Crawling Hand"
+  version: "Level 8 (4)"
+  hitpoints: 16
+  att: 8
+  str: 4
+  def: 4
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 455
+  name: "Crawling Hand"
+  version: "Level 11 (unused)"
   mage: 1
   range: 1
 }
@@ -4665,7 +4702,29 @@ npcs {
   hitpoints: 19
   att: 11
   str: 7
-  def: 7
+  def: 8
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 456
+  name: "Crawling Hand"
+  version: "Level 12 (unused 1)"
+  hitpoints: 19
+  att: 11
+  str: 7
+  def: 9
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 457
+  name: "Crawling Hand"
+  version: "Level 12 (unused 2)"
+  hitpoints: 19
+  att: 11
+  str: 7
+  def: 10
   mage: 1
   range: 1
 }
@@ -13320,6 +13379,21 @@ npcs {
 npcs {
   ids: 1118
   name: "Man"
+  version: "Normal"
+  hitpoints: 13
+  att: 2
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  dstab: 1
+  dslash: 1
+  dcrush: 1
+}
+npcs {
+  ids: 1138
+  name: "Man"
+  version: "Unused"
   hitpoints: 13
   att: 2
   str: 1
