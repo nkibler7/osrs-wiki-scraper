@@ -415,8 +415,10 @@ $
 ŞBig frogLevel 24 (08@H
 
 ¢	Big Snake x(<0<8<@HPBX>
-
-msBig Wolf J(<0=8>@H
+.
+mBig WolfWhite Wolf Mountain J(<0=8>@H
+'
+sBig WolfFeldip Hills J(<0=8>@H
 0
 ‚
 Billy GoatBrown (08@HPX
@@ -4092,10 +4094,12 @@ H˜
 ºWolfLevel 14 (
 08
 @H
+#
+ntuçWolfLevel 25 "(08@H
 
-nWolfLevel 25 "(08@H
-!
-jÈWolfLevel 64 E(20784@H
+jWolfLevel 64 E(20784@H
++
+ÈWolfLevel 64 (Rellekka) E(20784@H
 %
 šRWolf P(U0K8@H€
 ˆ
@@ -4114,10 +4118,16 @@ b
 \
 ÇWomanVarrock (08@H€ëÿÿÿÿÿÿÿÿˆëÿÿÿÿÿÿÿÿëÿÿÿÿÿÿÿÿ˜ëÿÿÿÿÿÿÿÿ ëÿÿÿÿÿÿÿÿ
 $
-ßëõWomanLevel 3 
+ßWomanLevel 3 (1) 
 (08@H
-+
-êóWomanLevel 4 (08@H€ˆ
+
+ëWomanLevel 3 (2)@H
+
+õWomanLevel 3 (3)@H
+-
+êWomanLevel 4 (1) (08@H€ˆ
+-
+óWomanLevel 4 (2) (08@H€ˆ
 !
 ôWomanLevel 12 (
 0
