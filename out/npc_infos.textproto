@@ -4429,11 +4429,80 @@ npcs {
 }
 npcs {
   ids: 2790
+  name: "Cow"
+  version: "1"
+  hitpoints: 8
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  attbns: -15
+  strbns: -15
+  dstab: -21
+  dslash: -21
+  dcrush: -21
+  dmagic: -21
+  drange: -21
+}
+npcs {
   ids: 2791
-  ids: 2793
+  name: "Cow"
+  version: "2"
+  hitpoints: 8
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  attbns: -15
+  strbns: -15
+  dstab: -21
+  dslash: -21
+  dcrush: -21
+  dmagic: -21
+  drange: -21
+}
+npcs {
   ids: 2795
+  name: "Cow"
+  version: "3 (unused)"
+  hitpoints: 8
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  attbns: -15
+  strbns: -15
+  dstab: -21
+  dslash: -21
+  dcrush: -21
+  dmagic: -21
+  drange: -21
+}
+npcs {
+  ids: 2793
+  name: "Cow"
+  version: "4"
+  hitpoints: 8
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  attbns: -15
+  strbns: -15
+  dstab: -21
+  dslash: -21
+  dcrush: -21
+  dmagic: -21
+  drange: -21
+}
+npcs {
   ids: 5842
   name: "Cow"
+  version: "Zanaris"
   hitpoints: 8
   att: 1
   str: 1
