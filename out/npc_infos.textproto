@@ -2129,8 +2129,22 @@ npcs {
 }
 npcs {
   ids: 417
+  name: "Basilisk"
+  version: "Normal"
+  hitpoints: 75
+  att: 30
+  str: 45
+  def: 75
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  dmagic: 20
+}
+npcs {
   ids: 418
   name: "Basilisk"
+  version: "Unused"
   hitpoints: 75
   att: 30
   str: 45
@@ -4130,8 +4144,22 @@ npcs {
 }
 npcs {
   ids: 419
+  name: "Cockatrice"
+  version: "Normal"
+  hitpoints: 37
+  att: 22
+  str: 37
+  def: 37
+  mage: 1
+  range: 1
+  dstab: 10
+  dslash: 10
+  dmagic: 10
+}
+npcs {
   ids: 420
   name: "Cockatrice"
+  version: "Unused"
   hitpoints: 37
   att: 22
   str: 37
@@ -21656,6 +21684,19 @@ npcs {
   dcrush: 20
 }
 npcs {
+  ids: 426
+  name: "Turoth"
+  version: "Level 86 (unused)"
+  hitpoints: 78
+  att: 55
+  str: 85
+  def: 85
+  mage: 1
+  range: 1
+  dslash: 20
+  dcrush: 20
+}
+npcs {
   ids: 428
   name: "Turoth"
   version: "Level 87"
@@ -21663,6 +21704,20 @@ npcs {
   att: 56
   str: 86
   def: 86
+  mage: 1
+  range: 1
+  dslash: 20
+  dcrush: 20
+}
+npcs {
+  ids: 431
+  ids: 432
+  name: "Turoth"
+  version: "Level 88 (unused)"
+  hitpoints: 80
+  att: 57
+  str: 87
+  def: 87
   mage: 1
   range: 1
   dslash: 20
@@ -23459,8 +23514,19 @@ npcs {
 }
 npcs {
   ids: 112
+  name: "Wild dog"
+  version: "Normal"
+  hitpoints: 62
+  att: 53
+  str: 54
+  def: 54
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 113
   name: "Wild dog"
+  version: "Unused"
   hitpoints: 62
   att: 53
   str: 54

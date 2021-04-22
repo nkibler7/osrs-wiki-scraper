@@ -371,8 +371,10 @@ X
 ØÆ1BarrelchestNormal †(ª0‘8Œ@ZHPPXP
 3
 æBarrelchest (hard)Hard ÿ(²0…8Œ@¢HPPXP
-%
-¡¢Basilisk K(0-8K@H€ˆ˜
++
+¡BasiliskNormal K(0-8K@H€ˆ˜
++
+¢BasiliskUnused K(0-8K@H€ˆ˜
 /
 ÍHBasilisk Knight ¬(º0º8º@ºH€ˆ˜
 ;
@@ -752,9 +754,15 @@ City guard P(F0F8F@HP	X€ˆ
 8@H€ˆ
 &
 á9Cockathrice _(?0N8N@H€ˆ˜
-'
-£¤
-Cockatrice %(0%8%@H€
+-
+£
+CockatriceNormal %(0%8%@H€
+ˆ
+˜
+
+-
+¤
+CockatriceUnused %(0%8%@H€
 ˆ
 ˜
 
@@ -3741,8 +3749,12 @@ B
 ®TurothLevel 83 L(50S8S@Hˆ
 (
 ­TurothLevel 85 M(60T8T@Hˆ
+1
+ªTurothLevel 86 (unused) N(70U8U@Hˆ
 (
 ¬TurothLevel 87 O(80V8V@Hˆ
+3
+¯°TurothLevel 88 (unused) P(90W8W@Hˆ
 (
 «TurothLevel 89 Q(:0X8X@Hˆ
 (
@@ -4027,8 +4039,10 @@ White wolfLevel 25 "(08@H
 %
 l
 White wolfLevel 38 ,(08 @H
-
-pqWild dog >(50686@H
+!
+pWild dogNormal >(50686@H
+!
+qWild dogUnused >(50686@H
 
 ™Wilson 2(08@H
 %
