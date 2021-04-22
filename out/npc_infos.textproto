@@ -14331,10 +14331,6 @@ npcs {
 }
 npcs {
   ids: 724
-  ids: 725
-  ids: 726
-  ids: 727
-  ids: 728
   name: "Mummy"
   version: "Level 98"
   hitpoints: 10
@@ -14352,6 +14348,10 @@ npcs {
   ids: 721
   ids: 722
   ids: 723
+  ids: 725
+  ids: 726
+  ids: 727
+  ids: 728
   name: "Mummy"
   version: "Level 103"
   hitpoints: 90
