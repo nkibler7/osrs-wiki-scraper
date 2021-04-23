@@ -7191,6 +7191,21 @@ npcs {
 npcs {
   ids: 7238
   name: "Forester"
+  version: "Normal"
+  hitpoints: 17
+  att: 14
+  str: 13
+  def: 8
+  mage: 1
+  range: 1
+  dstab: 4
+  dslash: 3
+  dcrush: 5
+}
+npcs {
+  ids: 3296
+  name: "Forester"
+  version: "Unused"
   hitpoints: 17
   att: 14
   str: 13
