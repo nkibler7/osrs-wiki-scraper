@@ -12392,6 +12392,10 @@ npcs {
   drange: 20
 }
 npcs {
+  ids: 3300
+  name: "Knight of Ardougne"
+}
+npcs {
   ids: 2214
   name: "Knight of Saradomin"
   version: "Level 101"
