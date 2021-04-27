@@ -562,8 +562,26 @@ npcs {
 }
 npcs {
   ids: 10654
-  ids: 10655
+  ids: 10665
   name: "Ancient Guardian"
+  version: "Golem"
+  hitpoints: 40
+  att: 25
+  str: 33
+  def: 25
+  mage: 1
+  range: 1
+  attbns: 20
+  strbns: 50
+  dstab: 40
+  dslash: 40
+  dmagic: 5
+  drange: 30
+}
+npcs {
+  ids: 10666
+  name: "Rubble"
+  version: "Rubble"
   hitpoints: 40
   att: 25
   str: 33
