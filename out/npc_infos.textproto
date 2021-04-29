@@ -15313,26 +15313,6 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 9452
-  name: "Parasite"
-  version: "Level 86"
-  hitpoints: 40
-  att: 1
-  str: 1
-  def: 40
-  mage: 60
-  range: 60
-  amagic: 12
-  mbns: 26
-  arange: 12
-  rngbns: 26
-  dstab: 50
-  dslash: 70
-  dcrush: 10
-  dmagic: 100
-  drange: 100
-}
-npcs {
   ids: 9453
   name: "Parasite"
   version: "Level 57"
@@ -15351,6 +15331,26 @@ npcs {
   dcrush: 10
   dmagic: 100
   drange: 100
+}
+npcs {
+  ids: 9452
+  name: "Parasite"
+  version: "Level 86"
+  hitpoints: 80
+  att: 1
+  str: 1
+  def: 60
+  mage: 60
+  range: 60
+  amagic: 20
+  mbns: 46
+  arange: 20
+  rngbns: 46
+  dstab: 60
+  dslash: 80
+  dcrush: 20
+  dmagic: 120
+  drange: 120
 }
 npcs {
   ids: 927
