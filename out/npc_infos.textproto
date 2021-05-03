@@ -23952,13 +23952,24 @@ npcs {
   ids: 1131
   name: "Woman"
   version: "Level 3 (2)"
+  hitpoints: 10
+  att: 2
+  str: 1
+  def: 1
   mage: 1
   range: 1
+  dstab: 1
+  dslash: 1
+  dcrush: 1
 }
 npcs {
   ids: 1141
   name: "Woman"
   version: "Level 3 (3)"
+  hitpoints: 10
+  att: 1
+  str: 1
+  def: 2
   mage: 1
   range: 1
 }
