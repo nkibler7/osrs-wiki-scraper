@@ -8920,11 +8920,27 @@ npcs {
   ids: 655
   name: "Goblin"
   version: "Red"
+  hitpoints: 12
+  att: 3
+  str: 1
+  def: 4
+  mage: 1
+  range: 1
+  attbns: 12
+  strbns: 12
 }
 npcs {
   ids: 662
   name: "Goblin"
   version: "Green"
+  hitpoints: 12
+  att: 3
+  str: 1
+  def: 4
+  mage: 1
+  range: 1
+  attbns: 12
+  strbns: 12
 }
 npcs {
   ids: 3353
