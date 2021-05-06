@@ -8784,7 +8784,6 @@ npcs {
   drange: -15
 }
 npcs {
-  ids: 2484
   ids: 3045
   ids: 3073
   ids: 3074
@@ -8802,42 +8801,6 @@ npcs {
   strbns: 12
 }
 npcs {
-  ids: 2486
-  name: "Goblin"
-  version: "Level 11"
-  hitpoints: 7
-  att: 10
-  str: 3
-  def: 7
-  mage: 1
-  range: 1
-  attbns: 12
-  strbns: 12
-}
-npcs {
-  ids: 2246
-  name: "Goblin"
-  version: "Level 12"
-  hitpoints: 3
-  att: 15
-  str: 6
-  def: 19
-  mage: 1
-  range: 1
-}
-npcs {
-  ids: 2247
-  name: "Goblin"
-  version: "Level 12 (banner)"
-  hitpoints: 15
-  att: 12
-  str: 6
-  def: 13
-  mage: 1
-  range: 1
-}
-npcs {
-  ids: 2485
   ids: 3046
   name: "Goblin"
   version: "Level 13"
@@ -8845,69 +8808,6 @@ npcs {
   att: 12
   str: 13
   def: 7
-  mage: 1
-  range: 1
-  dstab: 4
-  dslash: 6
-  dcrush: 8
-  dmagic: 4
-  drange: 4
-}
-npcs {
-  ids: 2249
-  name: "Goblin"
-  version: "Level 13 (GWD)"
-  hitpoints: 13
-  att: 11
-  str: 6
-  def: 20
-  mage: 1
-  range: 1
-}
-npcs {
-  ids: 2248
-  name: "Goblin"
-  version: "Level 15"
-  hitpoints: 16
-  att: 16
-  str: 6
-  def: 19
-  mage: 1
-  range: 1
-}
-npcs {
-  ids: 2487
-  ids: 2489
-  name: "Goblin"
-  version: "Level 16"
-  hitpoints: 22
-  att: 13
-  str: 11
-  def: 14
-  mage: 1
-  range: 1
-  attbns: 22
-  strbns: 22
-}
-npcs {
-  ids: 2245
-  name: "Goblin"
-  version: "Level 17"
-  hitpoints: 18
-  att: 14
-  str: 16
-  def: 14
-  mage: 1
-  range: 1
-}
-npcs {
-  ids: 2488
-  name: "Goblin"
-  version: "Level 25"
-  hitpoints: 26
-  att: 22
-  str: 23
-  def: 17
   mage: 1
   range: 1
   dstab: 4
@@ -8941,6 +8841,61 @@ npcs {
   range: 1
   attbns: 12
   strbns: 12
+}
+npcs {
+  ids: 2247
+  name: "Goblin"
+  version: "Level 12 (banner)"
+  hitpoints: 3
+  att: 15
+  str: 6
+  def: 19
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 2246
+  name: "Goblin"
+  version: "Level 12"
+  hitpoints: 15
+  att: 12
+  str: 6
+  def: 13
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 2249
+  name: "Goblin"
+  version: "Level 13"
+  hitpoints: 13
+  att: 11
+  str: 6
+  def: 20
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 2248
+  name: "Goblin"
+  version: "Level 15"
+  hitpoints: 16
+  att: 16
+  str: 6
+  def: 19
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 2245
+  name: "Goblin"
+  version: "Level 17"
+  hitpoints: 18
+  att: 14
+  str: 16
+  def: 14
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 2484
