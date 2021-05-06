@@ -8751,8 +8751,6 @@ npcs {
   ids: 3052
   ids: 3053
   ids: 3054
-  ids: 5192
-  ids: 5193
   ids: 5195
   ids: 5196
   ids: 5197
@@ -8762,17 +8760,36 @@ npcs {
   ids: 5201
   ids: 5202
   ids: 5203
-  ids: 5204
-  ids: 5205
-  ids: 5206
-  ids: 5207
-  ids: 5208
   name: "Goblin"
   version: "Level 2"
   hitpoints: 5
   att: 1
   str: 1
   def: 1
+  mage: 1
+  range: 1
+  attbns: -21
+  strbns: -15
+  dstab: -15
+  dslash: -15
+  dcrush: -15
+  dmagic: -15
+  drange: -15
+}
+npcs {
+  ids: 5192
+  ids: 5193
+  ids: 5204
+  ids: 5205
+  ids: 5206
+  ids: 5207
+  ids: 5208
+  name: "Goblin"
+  version: "Level 2 (armed)"
+  hitpoints: 5
+  att: 3
+  str: 1
+  def: 4
   mage: 1
   range: 1
   attbns: -21
@@ -8792,9 +8809,9 @@ npcs {
   name: "Goblin"
   version: "Level 5"
   hitpoints: 12
-  att: 3
-  str: 1
-  def: 4
+  att: 12
+  str: 13
+  def: 7
   mage: 1
   range: 1
   attbns: 12
@@ -8805,9 +8822,9 @@ npcs {
   name: "Goblin"
   version: "Level 13"
   hitpoints: 16
-  att: 12
-  str: 13
-  def: 7
+  att: 1
+  str: 1
+  def: 1
   mage: 1
   range: 1
   dstab: 4
