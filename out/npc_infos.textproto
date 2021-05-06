@@ -8799,12 +8799,8 @@ npcs {
   ids: 667
   ids: 668
   ids: 674
-  ids: 677
-  ids: 678
   ids: 2484
   ids: 3045
-  ids: 3047
-  ids: 3048
   ids: 3073
   ids: 3074
   ids: 3075
@@ -8836,7 +8832,7 @@ npcs {
 npcs {
   ids: 2246
   name: "Goblin"
-  version: "Level 12 (1)"
+  version: "Level 12"
   hitpoints: 3
   att: 15
   str: 6
@@ -8847,7 +8843,7 @@ npcs {
 npcs {
   ids: 2247
   name: "Goblin"
-  version: "Level 12 (2)"
+  version: "Level 12 (banner)"
   hitpoints: 15
   att: 12
   str: 6
