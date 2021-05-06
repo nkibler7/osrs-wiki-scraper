@@ -8784,21 +8784,6 @@ npcs {
   drange: -15
 }
 npcs {
-  ids: 655
-  ids: 656
-  ids: 657
-  ids: 658
-  ids: 659
-  ids: 660
-  ids: 661
-  ids: 662
-  ids: 663
-  ids: 664
-  ids: 665
-  ids: 666
-  ids: 667
-  ids: 668
-  ids: 674
   ids: 2484
   ids: 3045
   ids: 3073
@@ -8930,6 +8915,16 @@ npcs {
   dcrush: 8
   dmagic: 4
   drange: 4
+}
+npcs {
+  ids: 655
+  name: "Goblin"
+  version: "Red"
+}
+npcs {
+  ids: 662
+  name: "Goblin"
+  version: "Green"
 }
 npcs {
   ids: 3353
