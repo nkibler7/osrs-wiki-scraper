@@ -7821,17 +7821,6 @@ npcs {
   drange: 5
 }
 npcs {
-  ids: 5370
-  name: "Ghost"
-  version: "Level 24"
-  hitpoints: 20
-  att: 23
-  str: 23
-  def: 20
-  mage: 1
-  range: 1
-}
-npcs {
   ids: 3625
   name: "Ghost"
   version: "Level 29"
@@ -7884,6 +7873,16 @@ npcs {
   dcrush: 5
   dmagic: 55
   drange: 55
+}
+npcs {
+  ids: 5370
+  name: "Ghost"
+  hitpoints: 20
+  att: 23
+  str: 23
+  def: 20
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 3975
