@@ -4521,7 +4521,7 @@ npcs {
   drange: -21
 }
 npcs {
-  ids: 2795
+  ids: 2793
   name: "Cow"
   version: "3"
   hitpoints: 8
@@ -4539,9 +4539,9 @@ npcs {
   drange: -21
 }
 npcs {
-  ids: 2793
+  ids: 2795
   name: "Cow"
-  version: "4"
+  version: "Isle of Souls"
   hitpoints: 8
   att: 1
   str: 1
