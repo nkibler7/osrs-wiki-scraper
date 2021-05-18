@@ -4523,7 +4523,7 @@ npcs {
 npcs {
   ids: 2795
   name: "Cow"
-  version: "3 (unused)"
+  version: "3"
   hitpoints: 8
   att: 1
   str: 1
