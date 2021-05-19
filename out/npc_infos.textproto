@@ -1051,7 +1051,7 @@ npcs {
 }
 npcs {
   ids: 6587
-  name: "Armadylian guard"
+  name: "Armadylean guard"
   hitpoints: 132
   att: 1
   str: 1
