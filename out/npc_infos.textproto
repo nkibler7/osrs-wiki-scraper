@@ -4344,6 +4344,7 @@ npcs {
 npcs {
   ids: 9042
   name: "Corrupted Bat"
+  hitpoints: 14
   att: 36
   str: 102
   def: 2
