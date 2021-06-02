@@ -7979,6 +7979,11 @@ npcs {
   ids: 3330
   name: "Ghoul Champion"
   hitpoints: 100
+  att: 60
+  str: 80
+  def: 60
+  mage: 1
+  range: 60
 }
 npcs {
   ids: 2834
