@@ -15725,7 +15725,47 @@ npcs {
 npcs {
   ids: 8359
   name: "Pestilent Bloat"
+  version: "Story"
+  att: 250
+  str: 340
+  def: 100
+  mage: 150
+  range: 180
+  attbns: 150
+  strbns: 82
+  arange: 180
+  rngbns: 4
+  dstab: 40
+  dslash: 20
+  dcrush: 40
+  dmagic: 600
+  drange: 800
+}
+npcs {
+  ids: 8359
+  name: "Pestilent Bloat"
+  version: "Normal"
   hitpoints: 2000
+  att: 250
+  str: 340
+  def: 100
+  mage: 150
+  range: 180
+  attbns: 150
+  strbns: 82
+  arange: 180
+  rngbns: 4
+  dstab: 40
+  dslash: 20
+  dcrush: 40
+  dmagic: 600
+  drange: 800
+}
+npcs {
+  ids: 8359
+  name: "Pestilent Bloat"
+  version: "Hard"
+  hitpoints: 2400
   att: 250
   str: 340
   def: 100
