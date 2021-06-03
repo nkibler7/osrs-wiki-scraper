@@ -24234,6 +24234,15 @@ npcs {
   drange: 20
 }
 npcs {
+  name: "Xarpus"
+  att: 1
+  str: 1
+  def: 100
+  mage: 80
+  range: 50
+  drange: 100
+}
+npcs {
   ids: 8340
   ids: 8341
   name: "Xarpus"
@@ -24245,6 +24254,12 @@ npcs {
   range: 1
   arange: 57
   drange: 160
+}
+npcs {
+  name: "Xarpus"
+  att: 1
+  str: 1
+  range: 1
 }
 npcs {
   ids: 2628
