@@ -19722,6 +19722,27 @@ npcs {
   ids: 8387
   ids: 8388
   name: "Sotetseg"
+  version: "Story"
+  hitpoints: 560
+  att: 180
+  str: 140
+  def: 150
+  mage: 150
+  range: 150
+  strbns: 20
+  mbns: 26
+  rngbns: 26
+  dstab: 30
+  dslash: 30
+  dcrush: 30
+  dmagic: 10
+  drange: 120
+}
+npcs {
+  ids: 8387
+  ids: 8388
+  name: "Sotetseg"
+  version: "Normal"
   hitpoints: 4000
   att: 250
   str: 250
@@ -19733,6 +19754,12 @@ npcs {
   dcrush: 70
   dmagic: 30
   drange: 150
+}
+npcs {
+  ids: 8387
+  ids: 8388
+  name: "Sotetseg"
+  version: "Hard"
 }
 npcs {
   ids: 508
