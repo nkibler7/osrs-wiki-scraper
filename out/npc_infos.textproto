@@ -14911,6 +14911,48 @@ npcs {
   range: 100
 }
 npcs {
+  name: "Nylocas Prinkipas"
+  version: "Melee"
+  hitpoints: 400
+  att: 200
+  str: 175
+  def: 25
+  mage: 25
+  range: 175
+  strbns: 30
+  amagic: 300
+  mbns: 300
+  rngbns: 30
+}
+npcs {
+  name: "Nylocas Prinkipas"
+  version: "Magic"
+  hitpoints: 400
+  att: 200
+  str: 175
+  def: 25
+  mage: 25
+  range: 175
+  strbns: 30
+  amagic: 300
+  mbns: 300
+  rngbns: 30
+}
+npcs {
+  name: "Nylocas Prinkipas"
+  version: "Ranged"
+  hitpoints: 400
+  att: 200
+  str: 175
+  def: 25
+  mage: 25
+  range: 175
+  strbns: 30
+  amagic: 300
+  mbns: 300
+  rngbns: 30
+}
+npcs {
   ids: 8343
   ids: 8349
   ids: 8382
