@@ -14911,6 +14911,7 @@ npcs {
   range: 100
 }
 npcs {
+  ids: 10803
   name: "Nylocas Prinkipas"
   version: "Melee"
   hitpoints: 400
@@ -14925,6 +14926,7 @@ npcs {
   rngbns: 30
 }
 npcs {
+  ids: 10805
   name: "Nylocas Prinkipas"
   version: "Magic"
   hitpoints: 400
@@ -14939,6 +14941,7 @@ npcs {
   rngbns: 30
 }
 npcs {
+  ids: 10806
   name: "Nylocas Prinkipas"
   version: "Ranged"
   hitpoints: 400
