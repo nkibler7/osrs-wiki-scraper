@@ -24237,6 +24237,8 @@ npcs {
   drange: 20
 }
 npcs {
+  ids: 8340
+  ids: 8341
   name: "Xarpus"
   att: 1
   str: 1
@@ -24259,6 +24261,8 @@ npcs {
   drange: 160
 }
 npcs {
+  ids: 8340
+  ids: 8341
   name: "Xarpus"
   att: 1
   str: 1
