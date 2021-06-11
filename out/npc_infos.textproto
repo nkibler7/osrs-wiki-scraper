@@ -24240,7 +24240,7 @@ npcs {
   ids: 8340
   ids: 8341
   name: "Xarpus"
-  hitpoints: 520
+  hitpoints: 5200
   att: 1
   str: 1
   def: 100
