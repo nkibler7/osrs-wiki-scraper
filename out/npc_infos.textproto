@@ -15787,6 +15787,7 @@ npcs {
   ids: 8359
   name: "Pestilent Bloat"
   version: "Story"
+  hitpoints: 1600
   att: 100
   str: 180
   def: 80
@@ -24268,7 +24269,7 @@ npcs {
   ids: 8340
   ids: 8341
   name: "Xarpus"
-  hitpoints: 5200
+  hitpoints: 520
   att: 1
   str: 1
   def: 100
