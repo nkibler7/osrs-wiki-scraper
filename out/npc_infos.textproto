@@ -15003,38 +15003,35 @@ npcs {
 }
 npcs {
   ids: 8355
-  name: "Nylocas Vasilias"
-  version: "Melee"
-  hitpoints: 2500
-  att: 400
-  str: 350
-  def: 50
-  mage: 50
-  range: 350
-  strbns: 60
-  amagic: 600
-  mbns: 600
-  rngbns: 60
-}
-npcs {
   ids: 8356
-  name: "Nylocas Vasilias"
-  version: "Magic"
-  hitpoints: 2500
-  att: 400
-  str: 350
-  def: 50
-  mage: 50
-  range: 350
-  strbns: 60
-  amagic: 600
-  mbns: 600
-  rngbns: 60
-}
-npcs {
   ids: 8357
   name: "Nylocas Vasilias"
-  version: "Ranged"
+  version: "Story"
+  hitpoints: 1700
+}
+npcs {
+  ids: 8355
+  ids: 8356
+  ids: 8357
+  name: "Nylocas Vasilias"
+  version: "Normal"
+  hitpoints: 2500
+  att: 400
+  str: 350
+  def: 50
+  mage: 50
+  range: 350
+  strbns: 60
+  amagic: 600
+  mbns: 600
+  rngbns: 60
+}
+npcs {
+  ids: 8355
+  ids: 8356
+  ids: 8357
+  name: "Nylocas Vasilias"
+  version: "Hard"
   hitpoints: 2500
   att: 400
   str: 350
@@ -19743,14 +19740,16 @@ npcs {
   ids: 8388
   name: "Sotetseg"
   version: "Story"
-  hitpoints: 560
+  hitpoints: 2800
   att: 180
   str: 140
   def: 150
   mage: 150
   range: 150
   strbns: 20
+  amagic: -10
   mbns: 26
+  arange: -10
   rngbns: 26
   dstab: 30
   dslash: 30
@@ -19768,7 +19767,12 @@ npcs {
   str: 250
   def: 200
   mage: 250
+  range: 250
   strbns: 48
+  amagic: -10
+  mbns: 60
+  arange: -10
+  rngbns: 60
   dstab: 70
   dslash: 70
   dcrush: 70
@@ -19780,6 +19784,22 @@ npcs {
   ids: 8388
   name: "Sotetseg"
   version: "Hard"
+  hitpoints: 4000
+  att: 350
+  str: 250
+  def: 200
+  mage: 250
+  range: 250
+  strbns: 48
+  amagic: -10
+  mbns: 60
+  arange: -10
+  rngbns: 60
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: 30
+  drange: 150
 }
 npcs {
   ids: 508

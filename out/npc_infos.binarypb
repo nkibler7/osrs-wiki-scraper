@@ -2578,12 +2578,12 @@ F
 —AA¾ANylocas Toxobolos	Level 162 (È0 8@HÈ`±h xñÿÿÿÿÿÿÿÿ
 9
 šA ANylocas Toxobolos	Level 260 (ú0æ8@Hú`ôhô
-7
-£ANylocas VasiliasMelee Ä(0Ş82@2HŞX<`ØhØx<
-7
-¤ANylocas VasiliasMagic Ä(0Ş82@2HŞX<`ØhØx<
-8
-¥ANylocas VasiliasRanged Ä(0Ş82@2HŞX<`ØhØx<
+$
+£A¤A¥ANylocas VasiliasStory ¤
+<
+£A¤A¥ANylocas VasiliasNormal Ä(0Ş82@2HŞX<`ØhØx<
+:
+£A¤A¥ANylocas VasiliasHard Ä(0Ş82@2HŞX<`ØhØx<
 -
 ø9Obor x(Z0d8<@HxPdXDpdxA€#ˆ(-˜ 
 R
@@ -3398,13 +3398,13 @@ X€ˆ
 Â&Å&â&Solus Dellagar (
 
 ±²	Sorebones 4(10282@H
->
-ÃAÄASotetsegStory °(´0Œ8–@–H–Xhx€ˆ˜
+T
+ÃAÄASotetsegStory ğ(´0Œ8–@–H–X`öÿÿÿÿÿÿÿÿhpöÿÿÿÿÿÿÿÿx€ˆ˜
  x
-9
-ÃAÄASotetsegNormal  (ú0ú8È@úX0€FˆFF˜ –
-
-ÃAÄASotetsegHard
+V
+ÃAÄASotetsegNormal  (ú0ú8È@úHúX0`öÿÿÿÿÿÿÿÿh<pöÿÿÿÿÿÿÿÿx<€FˆFF˜ –
+T
+ÃAÄASotetsegHard  (Ş0ú8È@úHúX0`öÿÿÿÿÿÿÿÿh<pöÿÿÿÿÿÿÿÿx<€FˆFF˜ –
 
 üSoulless (08@H
 8
