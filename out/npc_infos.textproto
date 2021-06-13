@@ -21054,6 +21054,19 @@ npcs {
 npcs {
   ids: 8360
   name: "The Maiden of Sugadinti"
+  version: "Story Mode"
+  hitpoints: 2500
+  att: 140
+  str: 140
+  def: 80
+  mage: 140
+  range: 140
+  amagic: 150
+  mbns: 12
+}
+npcs {
+  ids: 8360
+  name: "The Maiden of Sugadinti"
   version: "Normal"
   hitpoints: 3500
   att: 350
@@ -21079,37 +21092,16 @@ npcs {
   ids: 8361
   name: "The Maiden of Sugadinti"
   version: "70% Health"
-  hitpoints: 3500
-  att: 350
-  str: 350
-  def: 200
-  mage: 350
-  range: 350
-  amagic: 300
 }
 npcs {
   ids: 8362
   name: "The Maiden of Sugadinti"
   version: "50% Health"
-  hitpoints: 3500
-  att: 350
-  str: 350
-  def: 200
-  mage: 350
-  range: 350
-  amagic: 300
 }
 npcs {
   ids: 8363
   name: "The Maiden of Sugadinti"
   version: "30% Health"
-  hitpoints: 3500
-  att: 350
-  str: 350
-  def: 200
-  mage: 350
-  range: 350
-  amagic: 300
 }
 npcs {
   ids: 8633
