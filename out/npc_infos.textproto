@@ -15007,7 +15007,16 @@ npcs {
   ids: 8357
   name: "Nylocas Vasilias"
   version: "Story"
-  hitpoints: 1700
+  hitpoints: 1800
+  att: 160
+  str: 140
+  def: 50
+  mage: 20
+  range: 140
+  strbns: 40
+  amagic: 380
+  mbns: 460
+  rngbns: 40
 }
 npcs {
   ids: 8355
@@ -21092,16 +21101,37 @@ npcs {
   ids: 8361
   name: "The Maiden of Sugadinti"
   version: "70% Health"
+  hitpoints: 2450
+  att: 350
+  str: 350
+  def: 200
+  mage: 350
+  range: 350
+  amagic: 300
 }
 npcs {
   ids: 8362
   name: "The Maiden of Sugadinti"
   version: "50% Health"
+  hitpoints: 1750
+  att: 350
+  str: 350
+  def: 200
+  mage: 350
+  range: 350
+  amagic: 300
 }
 npcs {
   ids: 8363
   name: "The Maiden of Sugadinti"
   version: "30% Health"
+  hitpoints: 1050
+  att: 350
+  str: 350
+  def: 200
+  mage: 350
+  range: 350
+  amagic: 300
 }
 npcs {
   ids: 8633
@@ -24281,7 +24311,7 @@ npcs {
   ids: 8340
   ids: 8341
   name: "Xarpus"
-  hitpoints: 2600
+  hitpoints: 4300
   att: 1
   str: 1
   def: 100
