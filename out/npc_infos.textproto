@@ -3010,6 +3010,14 @@ npcs {
   drange: 50
 }
 npcs {
+  ids: 11066
+  name: "Boar"
+}
+npcs {
+  ids: 11067
+  name: "Boar"
+}
+npcs {
   ids: 10691
   name: "Body Golem"
   version: "Golem"
