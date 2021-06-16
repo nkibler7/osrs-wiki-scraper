@@ -13278,6 +13278,9 @@ npcs {
   drange: 4
 }
 npcs {
+  name: "Lynx"
+}
+npcs {
   ids: 2844
   ids: 7269
   name: "Magic axe"
