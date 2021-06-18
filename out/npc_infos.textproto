@@ -1202,6 +1202,10 @@ npcs {
   drange: 40
 }
 npcs {
+  ids: 10940
+  name: "Assassin"
+}
+npcs {
   ids: 1284
   name: "Asyn Shade"
   version: "Shade"
@@ -2085,6 +2089,20 @@ npcs {
   dcrush: 2
   dmagic: -3
   drange: 2
+}
+npcs {
+  ids: 10989
+  name: "Barbarian Warlord"
+  hitpoints: 80
+  att: 90
+  str: 90
+  def: 50
+  mage: 40
+  range: 1
+  dstab: 15
+  dslash: 20
+  dcrush: 15
+  drange: 10
 }
 npcs {
   ids: 2263
@@ -3012,10 +3030,24 @@ npcs {
 npcs {
   ids: 11066
   name: "Boar"
+  version: "Level 5"
+  hitpoints: 8
+  att: 5
+  str: 4
+  def: 3
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 11067
   name: "Boar"
+  version: "Level 7"
+  hitpoints: 12
+  att: 6
+  str: 5
+  def: 4
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 10691
@@ -9676,10 +9708,60 @@ npcs {
   drange: 12
 }
 npcs {
+  ids: 3361
+  name: "Kourend guard"
+  version: "Kourend Castle"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
+  ids: 6574
+  name: "Gnome guard"
+  version: "Gnome guard"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
   ids: 6575
+  name: "Guard"
+  version: "Seers\' Village"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
   ids: 6576
   name: "Guard"
-  version: "Ranger"
+  version: "Catherby"
   hitpoints: 800
   att: 800
   str: 400
@@ -9695,9 +9777,25 @@ npcs {
 }
 npcs {
   ids: 6579
-  ids: 6580
   name: "Guard"
   version: "East Ardougne"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
+  ids: 6580
+  name: "Guard"
+  version: "Yanille"
   hitpoints: 800
   att: 800
   str: 400
@@ -9730,10 +9828,42 @@ npcs {
 }
 npcs {
   ids: 6582
-  ids: 6583
-  ids: 6701
   name: "Guard"
   version: "Varrock"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
+  ids: 6583
+  name: "Guard"
+  version: "Lumbridge"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
+  ids: 6698
+  name: "Ghost guard"
+  version: "Port Phasmatys"
   hitpoints: 800
   att: 800
   str: 400
@@ -9767,7 +9897,24 @@ npcs {
 npcs {
   ids: 6700
   name: "Guard"
-  version: "Fremennik"
+  version: "Fremennik Isles"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
+  ids: 6701
+  name: "Guard"
+  version: "Void Knights\' Outpost"
   hitpoints: 800
   att: 800
   str: 400
@@ -9784,58 +9931,7 @@ npcs {
 npcs {
   ids: 6702
   name: "Guard"
-  version: "Fremennik 2"
-  hitpoints: 800
-  att: 800
-  str: 400
-  def: 300
-  mage: 1
-  range: 1
-  attbns: 60
-  strbns: 7
-  dstab: 8
-  dslash: 9
-  dcrush: 7
-  drange: 8
-}
-npcs {
-  ids: 6574
-  name: "Gnome guard"
-  version: "Gnome guard"
-  hitpoints: 800
-  att: 800
-  str: 400
-  def: 300
-  mage: 1
-  range: 1
-  attbns: 60
-  strbns: 7
-  dstab: 8
-  dslash: 9
-  dcrush: 7
-  drange: 8
-}
-npcs {
-  ids: 6698
-  name: "Ghost guard"
-  version: "Ghost guard"
-  hitpoints: 800
-  att: 800
-  str: 400
-  def: 300
-  mage: 1
-  range: 1
-  attbns: 60
-  strbns: 7
-  dstab: 8
-  dslash: 9
-  dcrush: 7
-  drange: 8
-}
-npcs {
-  ids: 3361
-  name: "Kourend guard"
-  version: "Kourend guard"
+  version: "Rellekka"
   hitpoints: 800
   att: 800
   str: 400
@@ -11831,6 +11927,20 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 10936
+  name: "Judge of Yama"
+  hitpoints: 260
+  att: 186
+  str: 112
+  def: 84
+  mage: 84
+  dstab: 40
+  dslash: 40
+  dcrush: 40
+  dmagic: 600
+  drange: 600
+}
+npcs {
   ids: 1443
   ids: 6382
   name: "Jungle demon"
@@ -12434,7 +12544,6 @@ npcs {
 }
 npcs {
   ids: 3297
-  ids: 3300
   ids: 8799
   ids: 8800
   ids: 8801
@@ -13286,7 +13395,43 @@ npcs {
   drange: 4
 }
 npcs {
+  ids: 11068
   name: "Lynx"
+  version: "Level 21"
+  hitpoints: 25
+  att: 18
+  str: 16
+  def: 18
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 11069
+  name: "Lynx"
+  version: "Level 24"
+  hitpoints: 30
+  att: 20
+  str: 18
+  def: 20
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 11071
+  name: "Lynx Tamer"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 7
+  dstab: 24
+  dslash: 14
+  dcrush: 19
+  dmagic: 4
+  drange: 16
 }
 npcs {
   ids: 2844
@@ -14759,6 +14904,21 @@ npcs {
   drange: 30
 }
 npcs {
+  ids: 11088
+  name: "Necromancer"
+  hitpoints: 40
+  att: 56
+  str: 56
+  def: 50
+  mage: 60
+  range: 1
+  mbns: 10
+  dstab: 8
+  dslash: 8
+  dcrush: 8
+  dmagic: 4
+}
+npcs {
   ids: 1025
   name: "Necromancer"
   hitpoints: 40
@@ -15859,6 +16019,28 @@ npcs {
   dcrush: 40
   dmagic: 600
   drange: 800
+}
+npcs {
+  ids: 10957
+  name: "Phantom Hand"
+  version: "Left Hand"
+  hitpoints: 12
+  att: 100
+  str: 50
+  def: 8
+  mage: 8
+  range: 1
+}
+npcs {
+  ids: 10958
+  name: "Phantom Hand"
+  version: "Right Hand"
+  hitpoints: 12
+  att: 100
+  str: 50
+  def: 8
+  mage: 8
+  range: 1
 }
 npcs {
   ids: 373

@@ -216,6 +216,8 @@ C
 B
 Í	Arzinian Avatar of StrengthLevel 75 F(F0A82€ˆ˜
  (
+
+¼UAssassin
 
 „
 
@@ -362,6 +364,9 @@ H
 K
 ı	BarbarianLevel 17 (Brunnhilde) (08
 @HP	Xˆ˜ıÿÿÿÿÿÿÿÿ 
+/
+íUBarbarian Warlord P(Z0Z82@(H€ˆ 
+
 0
 ×Bardur c(c0(8c@HPdXd€–ˆ––˜– –
 3
@@ -523,12 +528,10 @@ X
 ‹ø-Blue dragon4 i(_0_8_@H€2ˆFF˜< 2
 1
 Œù-Blue dragon5 i(_0_8_@H€2ˆFF˜< 2
-
-
-ºVBoar
-
-
-»VBoar
+
+ºVBoarLevel 5 (08@H
+
+»VBoarLevel 7 (08@H
 1
 ÃS
 Body GolemGolem <(!0+8-@HX€ˆ˜ 
@@ -1698,26 +1701,34 @@ Grey beard ((08@PX€$ˆ02˜üÿÿÿÿÿÿÿÿ &
 C
 Guard
 Bone spear (08@H`üÿÿÿÿÿÿÿÿˆ˜ıÿÿÿÿÿÿÿÿ 
-5
-¯3°3GuardRanger  ( 08¬@HP<X€ˆ	 
-<
-³3´3GuardEast Ardougne  ( 08¬@HP<X€ˆ	 
-4
-µ3GuardFalador  ( 08¬@HP<X€ˆ	 
-8
-¶3·3­4GuardVarrock  ( 08¬@HP<X€ˆ	 
-5
-«4GuardSophanem  ( 08¬@HP<X€ˆ	 
-6
-¬4Guard	Fremennik  ( 08¬@HP<X€ˆ	 
-8
-®4GuardFremennik 2  ( 08¬@HP<X€ˆ	 
+C
+¡Kourend guardKourend Castle  ( 08¬@HP<X€ˆ	 
 >
 ®3Gnome guardGnome guard  ( 08¬@HP<X€ˆ	 
->
-ª4Ghost guardGhost guard  ( 08¬@HP<X€ˆ	 
+;
+¯3GuardSeers' Village  ( 08¬@HP<X€ˆ	 
+5
+°3GuardCatherby  ( 08¬@HP<X€ˆ	 
+:
+³3GuardEast Ardougne  ( 08¬@HP<X€ˆ	 
+4
+´3GuardYanille  ( 08¬@HP<X€ˆ	 
+4
+µ3GuardFalador  ( 08¬@HP<X€ˆ	 
+4
+¶3GuardVarrock  ( 08¬@HP<X€ˆ	 
+6
+·3Guard	Lumbridge  ( 08¬@HP<X€ˆ	 
+A
+ª4Ghost guardPort Phasmatys  ( 08¬@HP<X€ˆ	 
+5
+«4GuardSophanem  ( 08¬@HP<X€ˆ	 
+<
+¬4GuardFremennik Isles  ( 08¬@HP<X€ˆ	 
 B
-¡Kourend guardKourend guard  ( 08¬@HP<X€ˆ	 
+­4GuardVoid Knights' Outpost  ( 08¬@HP<X€ˆ	 
+5
+®4GuardRellekka  ( 08¬@HP<X€ˆ	 
 ?
 ´$º$½$Guard
 Brown hair <( 0 8'P	X€ˆ˜ıÿÿÿÿÿÿÿÿ 
@@ -2052,6 +2063,8 @@ T
 ÿ%€&Jubbly bird 
 
 ”Jubster <(R0N8Q@H
+0
+¸UJudge of Yama „(º0p8T@T€(ˆ((˜Ø Ø
 7
 £î1Jungle demonNormal ª(ª0ª8ª@ªHP2X2ˆ2˜2
 :
@@ -2155,8 +2168,8 @@ King Roald –(Œ0x8@HXëÿÿÿÿÿÿÿÿ
 ã8Sandy BoulderHidden È(2028d@H
 +
 ÓKing Scorpion (08@H€ˆ 
-V
-áäßDàDáD–E—EKnight of ArdougneArdougne 4(&0(8@HPX
+T
+áßDàDáD–E—EKnight of ArdougneArdougne 4(&0(8@HPX
 €'ˆ($˜õÿÿÿÿÿÿÿÿ $
 O
 “EKnight of ArdougneSong of the Elves (lvl 27) ((08@H€ˆ˜ 
@@ -2294,7 +2307,13 @@ A
 6
 óôLucien (08
 @HPX€ˆ˜ÿÿÿÿÿÿÿÿÿ 
-Lynx
+ 
+¼VLynxLevel 21 (08@H
+ 
+½VLynxLevel 24 (08@H
+/
+¿V
+Lynx Tamer (08@HP	X€ˆ˜ 
 ,
 œå8	Magic axe ,(&0&8@H€
 ˆ˜ 
@@ -2541,6 +2560,9 @@ G
 ,
 ó9
 Nechryarch À(¶0„8Œ@H€ˆ 
++
+ĞVNecromancer ((80882@<Hh
+€ˆ˜
 
 Necromancer ((08@H
 
@@ -2750,6 +2772,11 @@ I
 §APestilent BloatNormal Ğ(ú0Ô8d@–H´P–XRp´x€(ˆ(˜Ø  
 G
 §APestilent BloatHard à(ú0Ô8d@–H´P–XRp´x€(ˆ(˜Ø  
+)
+ÍUPhantom Hand	Left Hand (d028@H
+*
+ÎUPhantom Hand
+Right Hand (d028@H
 "
 õPheasant1 tail (08@H
 #
