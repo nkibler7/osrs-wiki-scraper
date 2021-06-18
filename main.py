@@ -37,6 +37,10 @@ def parse_and_write_npcinfos(output_dir: str):
             if 'removal' in infobox and not str(infobox['removal']).strip().lower() in ['', 'no']:
                 continue
 
+            # Skips this infobox if there is no ID attribute.
+            if 'id' not in infobox:
+                continue
+                
             # Parses string ID fields into an array of ints.
             ids = [int(npc_id) for npc_id in str(infobox['id']).split(',') if npc_id != '' and npc_id.isdigit()]
 
