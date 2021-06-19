@@ -8526,10 +8526,10 @@ npcs {
   ids: 7568
   name: "Glowing crystal"
   version: "Challenge Mode"
-  hitpoints: 175
+  hitpoints: 120
   att: 1
   str: 1
-  def: 150
+  def: 100
   mage: 150
   range: 1
   dstab: -5
