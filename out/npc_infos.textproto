@@ -10095,6 +10095,44 @@ npcs {
   drange: 7
 }
 npcs {
+  ids: 397
+  ids: 398
+  name: "Town Guard"
+  version: "Bow"
+  hitpoints: 22
+  att: 15
+  str: 15
+  def: 16
+  mage: 1
+  range: 26
+  attbns: 6
+  strbns: 10
+  dstab: 5
+  dslash: 5
+  dcrush: 5
+  dmagic: -4
+  drange: 5
+}
+npcs {
+  ids: 399
+  ids: 400
+  name: "Town Guard"
+  version: "Staff"
+  hitpoints: 22
+  att: 15
+  str: 15
+  def: 16
+  mage: 1
+  range: 1
+  attbns: 6
+  strbns: 10
+  dstab: 5
+  dslash: 5
+  dcrush: 5
+  dmagic: -4
+  drange: 5
+}
+npcs {
   ids: 9182
   name: "Guard"
   version: "1"
@@ -21940,44 +21978,6 @@ npcs {
   dstab: 23
   dslash: 35
   dcrush: 28
-}
-npcs {
-  ids: 397
-  ids: 398
-  name: "Town Guard"
-  version: "Bow"
-  hitpoints: 22
-  att: 15
-  str: 15
-  def: 16
-  mage: 1
-  range: 26
-  attbns: 6
-  strbns: 10
-  dstab: 5
-  dslash: 5
-  dcrush: 5
-  dmagic: -4
-  drange: 5
-}
-npcs {
-  ids: 399
-  ids: 400
-  name: "Town Guard"
-  version: "Staff"
-  hitpoints: 22
-  att: 15
-  str: 15
-  def: 16
-  mage: 1
-  range: 1
-  attbns: 6
-  strbns: 10
-  dstab: 5
-  dslash: 5
-  dcrush: 5
-  dmagic: -4
-  drange: 5
 }
 npcs {
   ids: 8514
