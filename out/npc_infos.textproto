@@ -13154,7 +13154,6 @@ npcs {
 }
 npcs {
   ids: 6918
-  ids: 6919
   name: "Lizardman brute"
   version: "Standard"
   hitpoints: 60
