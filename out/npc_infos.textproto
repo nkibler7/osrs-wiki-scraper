@@ -1204,6 +1204,32 @@ npcs {
 npcs {
   ids: 10940
   name: "Assassin"
+  hitpoints: 120
+  att: 112
+  str: 112
+  def: 92
+  mage: 92
+  range: 112
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  dmagic: 20
+  drange: 50
+}
+npcs {
+  ids: 10941
+  name: "Assassin"
+  hitpoints: 120
+  att: 112
+  str: 112
+  def: 92
+  mage: 92
+  range: 112
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  dmagic: 20
+  drange: 50
 }
 npcs {
   ids: 1284
