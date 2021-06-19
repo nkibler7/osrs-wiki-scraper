@@ -10271,6 +10271,23 @@ npcs {
   drange: 19
 }
 npcs {
+  ids: 3361
+  name: "Guard"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 7
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
   ids: 1027
   name: "Guard Bandit"
   hitpoints: 27
@@ -10538,6 +10555,23 @@ npcs {
   def: 75
   mage: 50
   range: 50
+}
+npcs {
+  ids: 11093
+  name: "Head Guard"
+  hitpoints: 86
+  att: 75
+  str: 73
+  def: 61
+  mage: 1
+  range: 1
+  attbns: 17
+  strbns: 15
+  dstab: 16
+  dslash: 16
+  dcrush: 18
+  dmagic: -12
+  drange: 27
 }
 npcs {
   ids: 4248
@@ -12798,40 +12832,6 @@ npcs {
   att: 255
   str: 5
   def: 255
-}
-npcs {
-  ids: 7016
-  name: "Kourend guard"
-  hitpoints: 22
-  att: 19
-  str: 18
-  def: 14
-  mage: 1
-  range: 1
-  attbns: 9
-  strbns: 7
-  dstab: 18
-  dslash: 25
-  dcrush: 19
-  dmagic: -4
-  drange: 20
-}
-npcs {
-  ids: 7017
-  name: "Kourend head guard"
-  hitpoints: 86
-  att: 75
-  str: 73
-  def: 61
-  mage: 1
-  range: 1
-  attbns: 17
-  strbns: 15
-  dstab: 16
-  dslash: 16
-  dcrush: 18
-  dmagic: -12
-  drange: 27
 }
 npcs {
   ids: 928
