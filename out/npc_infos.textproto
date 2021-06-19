@@ -24527,6 +24527,34 @@ npcs {
   drange: 20
 }
 npcs {
+  ids: 10954
+  name: "Xamphur"
+  hitpoints: 450
+  def: 100
+  mage: 140
+  amagic: 20
+  mbns: 12
+  dstab: 180
+  dslash: 180
+  dcrush: 180
+  dmagic: 260
+  drange: 30
+}
+npcs {
+  ids: 10953
+  name: "Xamphur"
+  hitpoints: 450
+  def: 100
+  mage: 140
+  amagic: 20
+  mbns: 12
+  dstab: 180
+  dslash: 180
+  dcrush: 180
+  dmagic: 260
+  drange: 30
+}
+npcs {
   ids: 8340
   ids: 8341
   name: "Xarpus"
