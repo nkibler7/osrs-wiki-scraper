@@ -10182,7 +10182,7 @@ npcs {
 npcs {
   ids: 397
   ids: 398
-  name: "Town Guard"
+  name: "Guard"
   version: "Bow"
   hitpoints: 22
   att: 15
@@ -10201,7 +10201,7 @@ npcs {
 npcs {
   ids: 399
   ids: 400
-  name: "Town Guard"
+  name: "Guard"
   version: "Staff"
   hitpoints: 22
   att: 15
