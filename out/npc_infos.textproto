@@ -2117,6 +2117,91 @@ npcs {
   drange: 2
 }
 npcs {
+  ids: 10988
+  name: "Barbarian"
+  version: "Level 9"
+  hitpoints: 20
+  att: 6
+  str: 7
+  def: 3
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 16
+  dslash: 10
+  dcrush: 10
+  dmagic: -3
+  drange: 5
+}
+npcs {
+  ids: 10987
+  name: "Barbarian"
+  version: "Level 10 (spear)"
+  hitpoints: 18
+  att: 8
+  str: 7
+  def: 3
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 15
+  dslash: 3
+  dcrush: 2
+  dmagic: -3
+  drange: 2
+}
+npcs {
+  ids: 10984
+  name: "Barbarian"
+  version: "Level 10 (2h sword)"
+  hitpoints: 18
+  att: 8
+  str: 7
+  def: 3
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 20
+  dslash: 3
+  dcrush: 2
+  dmagic: -3
+  drange: 2
+}
+npcs {
+  ids: 10985
+  name: "Barbarian"
+  version: "Level 10 (greataxe)"
+  hitpoints: 18
+  att: 8
+  str: 7
+  def: 3
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 15
+  dslash: 3
+  dcrush: 2
+  dmagic: -3
+  drange: 2
+}
+npcs {
+  ids: 10986
+  name: "Barbarian"
+  version: "Level 15"
+  hitpoints: 24
+  att: 15
+  str: 3
+  def: 10
+  mage: 1
+  range: 15
+  attbns: 9
+  strbns: 15
+  dslash: 3
+  dcrush: 2
+  dmagic: -3
+  drange: 2
+}
+npcs {
   ids: 10989
   name: "Barbarian Warlord"
   hitpoints: 80
@@ -10827,6 +10912,18 @@ npcs {
   ids: 2103
   name: "Hill Giant"
   version: "6"
+  hitpoints: 35
+  att: 18
+  str: 22
+  def: 26
+  mage: 1
+  range: 1
+  attbns: 18
+  strbns: 16
+}
+npcs {
+  ids: 2761
+  name: "Hill Giant"
   hitpoints: 35
   att: 18
   str: 22
