@@ -1768,6 +1768,8 @@ npcs {
   dmagic: 10
 }
 npcs {
+  ids: 11063
+  ids: 11064
   ids: 11065
   name: "Bandit"
   hitpoints: 27
