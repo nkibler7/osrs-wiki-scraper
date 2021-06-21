@@ -18365,6 +18365,23 @@ npcs {
   hitpoints: 250
 }
 npcs {
+  ids: 11073
+  name: "Sergeant"
+  hitpoints: 86
+  att: 75
+  str: 73
+  def: 61
+  mage: 1
+  range: 1
+  attbns: 17
+  strbns: 15
+  dstab: 16
+  dslash: 16
+  dcrush: 18
+  dmagic: -12
+  drange: 27
+}
+npcs {
   ids: 2218
   name: "Sergeant Grimspike"
   hitpoints: 146
@@ -19992,6 +20009,23 @@ npcs {
   dcrush: 21
   dmagic: 6
   drange: 14
+}
+npcs {
+  ids: 11072
+  name: "Soldier"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 7
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
 }
 npcs {
   ids: 6905
