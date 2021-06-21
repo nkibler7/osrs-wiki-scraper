@@ -1768,6 +1768,23 @@ npcs {
   dmagic: 10
 }
 npcs {
+  ids: 11065
+  name: "Bandit"
+  hitpoints: 27
+  att: 17
+  str: 17
+  def: 17
+  mage: 1
+  range: 1
+  attbns: 11
+  strbns: 12
+  dstab: 4
+  dslash: 8
+  dcrush: 5
+  dmagic: 1
+  drange: 4
+}
+npcs {
   ids: 738
   name: "Bandit champion"
   hitpoints: 50
