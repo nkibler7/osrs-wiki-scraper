@@ -5652,6 +5652,48 @@ npcs {
   dcrush: 59
 }
 npcs {
+  ids: 11111
+  name: "Dark warrior"
+  version: "Level 37"
+  hitpoints: 50
+  att: 30
+  str: 30
+  def: 20
+  mage: 10
+  range: 1
+  dstab: 10
+  dslash: 20
+  dcrush: 40
+}
+npcs {
+  ids: 11110
+  name: "Dark warrior"
+  version: "Level 51"
+  hitpoints: 70
+  att: 40
+  str: 40
+  def: 30
+  mage: 15
+  range: 1
+  dstab: 10
+  dslash: 20
+  dcrush: 40
+}
+npcs {
+  ids: 11109
+  name: "Dark warrior"
+  version: "Level 62"
+  hitpoints: 80
+  att: 50
+  str: 50
+  def: 40
+  mage: 20
+  range: 1
+  dstab: 10
+  dslash: 20
+  dcrush: 40
+}
+npcs {
   ids: 6606
   name: "Dark warrior"
   version: "Level 145"
