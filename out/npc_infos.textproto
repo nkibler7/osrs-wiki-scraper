@@ -19483,6 +19483,15 @@ npcs {
   ids: 924
   name: "Skeleton"
   hitpoints: 18
+  att: 10
+  str: 11
+  def: 7
+  amagic: 1
+  arange: 1
+  dstab: 5
+  dslash: 5
+  dcrush: -5
+  drange: 5
 }
 npcs {
   ids: 1538
