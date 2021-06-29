@@ -10931,7 +10931,6 @@ npcs {
 }
 npcs {
   ids: 2100
-  ids: 7261
   name: "Hill Giant"
   version: "3"
   hitpoints: 35
@@ -10983,7 +10982,7 @@ npcs {
   strbns: 16
 }
 npcs {
-  ids: 2761
+  ids: 7261
   name: "Hill Giant"
   hitpoints: 35
   att: 18
