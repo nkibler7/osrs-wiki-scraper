@@ -11987,7 +11987,7 @@ npcs {
 npcs {
   ids: 7708
   name: "Jal-MejJak"
-  hitpoints: 80
+  hitpoints: 75
   att: 1
   str: 1
   def: 100
@@ -12028,7 +12028,7 @@ npcs {
   ids: 7698
   ids: 7702
   name: "Jal-Xil"
-  hitpoints: 130
+  hitpoints: 125
   att: 140
   str: 180
   def: 60
