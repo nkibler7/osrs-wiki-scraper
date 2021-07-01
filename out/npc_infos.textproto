@@ -16307,6 +16307,35 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 9416
+  ids: 9417
+  ids: 9418
+  ids: 9419
+  ids: 9420
+  ids: 9421
+  ids: 9422
+  ids: 9423
+  ids: 9424
+  name: "Phosani\'s Nightmare"
+  hitpoints: 3200
+  att: 150
+  str: 150
+  def: 150
+  mage: 150
+  range: 150
+  attbns: 220
+  strbns: 274
+  amagic: 220
+  mbns: 162
+  arange: 220
+  rngbns: 162
+  dstab: 120
+  dslash: 180
+  dcrush: 40
+  dmagic: 600
+  drange: 600
+}
+npcs {
   ids: 1280
   name: "Phrin Shade"
   version: "Shade"
