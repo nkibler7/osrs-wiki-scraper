@@ -5319,17 +5319,6 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 979
-  name: "Dagannoth"
-  version: "Level 100 (Horror From The Deep)"
-  hitpoints: 120
-  att: 78
-  str: 78
-  def: 81
-  mage: 1
-  range: 50
-}
-npcs {
   ids: 140
   name: "Dagannoth"
   hitpoints: 142
@@ -5352,7 +5341,12 @@ npcs {
   ids: 978
   ids: 979
   name: "Dagannoth"
-  hitpoints: 160
+  hitpoints: 120
+  att: 78
+  str: 78
+  def: 81
+  mage: 1
+  range: 50
 }
 npcs {
   ids: 2259
@@ -16316,6 +16310,9 @@ npcs {
   ids: 9422
   ids: 9423
   ids: 9424
+  ids: 11153
+  ids: 11154
+  ids: 11155
   name: "Phosani\'s Nightmare"
   hitpoints: 3200
   att: 150
@@ -21637,7 +21634,16 @@ npcs {
   drange: 145
 }
 npcs {
-  ids: 9415
+  ids: 9425
+  ids: 9426
+  ids: 9427
+  ids: 9428
+  ids: 9429
+  ids: 9430
+  ids: 9431
+  ids: 9432
+  ids: 9433
+  ids: 9460
   name: "The Nightmare"
   hitpoints: 2400
   att: 150
