@@ -11474,9 +11474,40 @@ npcs {
 }
 npcs {
   ids: 1874
+  name: "Ice troll runt"
+  version: "Variant 1"
+  hitpoints: 60
+  att: 60
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 60
+  dstab: 30
+  dslash: 60
+  dcrush: 30
+}
+npcs {
   ids: 5823
+  name: "Ice troll runt"
+  version: "Variant 2"
+  hitpoints: 60
+  att: 60
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 60
+  dstab: 30
+  dslash: 60
+  dcrush: 30
+}
+npcs {
   ids: 5828
   name: "Ice troll runt"
+  version: "Variant 3"
   hitpoints: 60
   att: 60
   str: 70
