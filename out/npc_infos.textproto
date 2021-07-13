@@ -16410,7 +16410,6 @@ npcs {
 npcs {
   ids: 522
   ids: 6994
-  ids: 6995
   name: "Pirate"
   version: "Brimhaven"
   hitpoints: 20
@@ -16481,6 +16480,13 @@ npcs {
   ids: 4052
   name: "Pirate"
   version: "Cabin Fever"
+}
+npcs {
+  ids: 524
+  ids: 6995
+  name: "Pirate"
+  version: "Port Piscarilius"
+  hitpoints: 20
 }
 npcs {
   ids: 4926
