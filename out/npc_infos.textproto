@@ -6351,24 +6351,6 @@ npcs {
   range: 1
 }
 npcs {
-  name: "Durial321"
-  hitpoints: 9500
-  att: 95
-  str: 98
-  def: 88
-  mage: 94
-  range: 80
-  attbns: 95
-  strbns: 105
-  amagic: 47
-  arange: -12
-  dstab: 148
-  dslash: 134
-  dcrush: 162
-  dmagic: 69
-  drange: 88
-}
-npcs {
   ids: 7851
   ids: 7854
   ids: 7855
