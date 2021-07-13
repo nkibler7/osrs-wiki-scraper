@@ -7788,9 +7788,22 @@ npcs {
 }
 npcs {
   ids: 6896
+  name: "Gangster"
+  version: "Level 45 (1)"
+  hitpoints: 40
+  att: 40
+  str: 30
+  def: 50
+  mage: 1
+  range: 1
+  attbns: 20
+  strbns: 30
+  dcrush: 10
+}
+npcs {
   ids: 6897
   name: "Gangster"
-  version: "Level 45"
+  version: "Level 45 (2)"
   hitpoints: 40
   att: 40
   str: 30
@@ -7803,9 +7816,22 @@ npcs {
 }
 npcs {
   ids: 6898
+  name: "Gangster"
+  version: "Level 50 (1)"
+  hitpoints: 50
+  att: 50
+  str: 40
+  def: 40
+  mage: 1
+  range: 1
+  attbns: 35
+  strbns: 15
+  dcrush: 10
+}
+npcs {
   ids: 6899
   name: "Gangster"
-  version: "Level 50"
+  version: "Level 50 (2)"
   hitpoints: 50
   att: 50
   str: 40
