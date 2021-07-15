@@ -24992,6 +24992,18 @@ npcs {
 npcs {
   ids: 9049
   name: "Zalcano"
+  version: "Shielded"
+  hitpoints: 300
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 9050
+  name: "Zalcano"
+  version: "Weakened"
   hitpoints: 1000
   att: 1
   str: 1
