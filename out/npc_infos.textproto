@@ -25070,7 +25070,7 @@ npcs {
   ids: 7418
   name: "Zamorak warrior"
   version: "Level 84"
-  hitpoints: 50
+  hitpoints: 45
   att: 85
   str: 70
   def: 90
@@ -25081,7 +25081,7 @@ npcs {
   ids: 7419
   name: "Zamorak warrior"
   version: "Level 85"
-  hitpoints: 50
+  hitpoints: 45
   att: 90
   str: 70
   def: 90
