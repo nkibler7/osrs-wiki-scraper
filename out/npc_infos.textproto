@@ -2606,6 +2606,10 @@ npcs {
   def: 13
 }
 npcs {
+  ids: 2912
+  name: "Black chinchompa"
+}
+npcs {
   ids: 240
   ids: 1432
   ids: 2048
@@ -3682,6 +3686,10 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 2911
+  name: "Carnivorous chinchompa"
+}
+npcs {
   ids: 2474
   name: "Catablepon"
   version: "Level 49"
@@ -4258,6 +4266,10 @@ npcs {
   ids: 3316
   name: "Chicken"
   hitpoints: 3
+}
+npcs {
+  ids: 2910
+  name: "Chinchompa"
 }
 npcs {
   ids: 7404
