@@ -2366,6 +2366,7 @@ npcs {
 }
 npcs {
   ids: 2827
+  ids: 10888
   name: "Bat"
   hitpoints: 8
   att: 5
@@ -2577,6 +2578,7 @@ npcs {
 }
 npcs {
   ids: 5241
+  ids: 10541
   name: "Bird"
   version: "Level 5"
   hitpoints: 5
@@ -4207,6 +4209,8 @@ npcs {
 npcs {
   ids: 1173
   ids: 1174
+  ids: 10495
+  ids: 10496
   name: "Chicken"
   version: "Normal"
   hitpoints: 3
@@ -10431,7 +10435,13 @@ npcs {
   drange: 19
 }
 npcs {
-  ids: 3361
+  ids: 11094
+  ids: 11096
+  ids: 11098
+  ids: 11100
+  ids: 11102
+  ids: 11104
+  ids: 11106
   name: "Guard"
   hitpoints: 22
   att: 19
@@ -19193,6 +19203,11 @@ npcs {
   ids: 79
   ids: 80
   ids: 81
+  ids: 10717
+  ids: 10718
+  ids: 10719
+  ids: 10720
+  ids: 10721
   name: "Skeleton"
   version: "Level 25"
   hitpoints: 17
