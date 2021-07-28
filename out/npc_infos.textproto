@@ -20557,6 +20557,38 @@ npcs {
   dmagic: 1
 }
 npcs {
+  ids: 11175
+  name: "Spider"
+  version: "Level 87"
+  hitpoints: 80
+  att: 80
+  str: 80
+  def: 60
+  mage: 60
+  range: 1
+  dstab: 60
+  dslash: 60
+  dcrush: 20
+  dmagic: 20
+  drange: 180
+}
+npcs {
+  ids: 11176
+  name: "Spider"
+  version: "Level 123"
+  hitpoints: 100
+  att: 120
+  str: 120
+  def: 80
+  mage: 80
+  range: 1
+  dstab: 60
+  dslash: 60
+  dcrush: 20
+  dmagic: 20
+  drange: 180
+}
+npcs {
   ids: 8137
   ids: 8138
   name: "Spider"
