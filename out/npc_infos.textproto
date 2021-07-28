@@ -15452,7 +15452,7 @@ npcs {
   ids: 8356
   ids: 8357
   name: "Nylocas Vasilias"
-  version: "Story"
+  version: "Entry"
   hitpoints: 1800
   att: 160
   str: 140
@@ -16238,7 +16238,7 @@ npcs {
 npcs {
   ids: 8359
   name: "Pestilent Bloat"
-  version: "Story"
+  version: "Entry"
   hitpoints: 1600
   att: 100
   str: 180
@@ -20302,7 +20302,7 @@ npcs {
   ids: 8387
   ids: 8388
   name: "Sotetseg"
-  version: "Story"
+  version: "Entry"
   hitpoints: 2800
   att: 180
   str: 140
@@ -21617,7 +21617,7 @@ npcs {
 npcs {
   ids: 8360
   name: "The Maiden of Sugadinti"
-  version: "Story Mode"
+  version: "Entry Mode"
   hitpoints: 2500
   att: 140
   str: 140
