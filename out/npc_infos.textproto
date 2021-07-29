@@ -10886,6 +10886,23 @@ npcs {
   drange: 80
 }
 npcs {
+  ids: 8583
+  name: "Hespori"
+  hitpoints: 360
+  att: 1
+  str: 1
+  def: 120
+  mage: 126
+  range: 150
+  amagic: 150
+  arange: 150
+  dstab: 60
+  dslash: 20
+  dcrush: 60
+  dmagic: 80
+  drange: 80
+}
+npcs {
   ids: 4195
   name: "Het"
   hitpoints: 75
