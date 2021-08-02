@@ -13143,7 +13143,7 @@ npcs {
 npcs {
   ids: 9773
   name: "Kroy"
-  hitpoints: 237
+  hitpoints: 209
   att: 80
   str: 80
   def: 80
@@ -16526,6 +16526,14 @@ npcs {
   name: "Pirate"
   version: "Port Piscarilius"
   hitpoints: 20
+  att: 20
+  str: 20
+  def: 20
+  mage: 1
+  range: 1
+  attbns: 10
+  strbns: 9
+  dslash: 1
 }
 npcs {
   ids: 4926
