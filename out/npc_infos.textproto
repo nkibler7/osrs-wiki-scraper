@@ -335,9 +335,25 @@ npcs {
 }
 npcs {
   ids: 4880
-  ids: 6369
   name: "Agrith-Na-Na"
   version: "Normal"
+  hitpoints: 200
+  att: 83
+  str: 150
+  def: 82
+  mage: 100
+  range: 100
+  attbns: 100
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 100
+  drange: 100
+}
+npcs {
+  ids: 6369
+  name: "Agrith-Na-Na"
+  version: "Nightmare Zone"
   hitpoints: 200
   att: 83
   str: 150
@@ -2904,9 +2920,26 @@ npcs {
 }
 npcs {
   ids: 4067
-  ids: 6360
   name: "Black Knight Titan"
   version: "Normal"
+  hitpoints: 142
+  att: 91
+  str: 100
+  def: 91
+  mage: 1
+  range: 1
+  attbns: 27
+  strbns: 22
+  dstab: 18
+  dslash: 27
+  dcrush: 18
+  dmagic: 1000
+  drange: 1000
+}
+npcs {
+  ids: 6360
+  name: "Black Knight Titan"
+  version: "Nightmare Zone"
   hitpoints: 142
   att: 91
   str: 100
@@ -14637,7 +14670,6 @@ npcs {
 }
 npcs {
   ids: 891
-  ids: 6386
   name: "Moss Guardian"
   version: "Normal"
   hitpoints: 120
@@ -14656,6 +14688,18 @@ npcs {
   hitpoints: 240
   att: 165
   str: 165
+  def: 60
+  mage: 1
+  range: 1
+  attbns: 66
+  strbns: 62
+}
+npcs {
+  ids: 6386
+  name: "Moss Guardian"
+  hitpoints: 120
+  att: 60
+  str: 60
   def: 60
   mage: 1
   range: 1
