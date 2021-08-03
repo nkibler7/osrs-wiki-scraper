@@ -1079,9 +1079,25 @@ npcs {
 npcs {
   ids: 643
   ids: 642
-  ids: 6392
   name: "Arrg"
   version: "Normal"
+  hitpoints: 140
+  att: 70
+  str: 140
+  def: 40
+  range: 70
+  attbns: 60
+  strbns: 100
+  dstab: 35
+  dslash: 60
+  dcrush: 35
+  dmagic: 200
+  drange: 200
+}
+npcs {
+  ids: 6392
+  name: "Arrg"
+  version: "Nightmare Zone"
   hitpoints: 140
   att: 70
   str: 140
@@ -5245,7 +5261,6 @@ npcs {
   drange: -10
 }
 npcs {
-  ids: 2097
   ids: 2463
   ids: 2465
   ids: 2467
@@ -5299,6 +5314,17 @@ npcs {
   att: 95
   str: 75
   def: 55
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 2097
+  name: "Cyclops"
+  version: "Zoo"
+  hitpoints: 55
+  att: 47
+  str: 50
+  def: 46
   mage: 1
   range: 1
 }
