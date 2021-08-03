@@ -11915,10 +11915,10 @@ npcs {
   drange: 70
 }
 npcs {
+  ids: 3429
   ids: 8759
-  ids: 9503
   name: "Iorwerth Warrior"
-  version: "Female"
+  version: "Iorwerth Camp"
   hitpoints: 105
   att: 95
   str: 95
@@ -11931,10 +11931,10 @@ npcs {
   drange: 50
 }
 npcs {
-  ids: 3429
   ids: 9502
+  ids: 9503
   name: "Iorwerth Warrior"
-  version: "Male"
+  version: "Iorwerth Dungeon"
   hitpoints: 105
   att: 95
   str: 95
