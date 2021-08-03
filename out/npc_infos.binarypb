@@ -1980,8 +1980,10 @@ Ice spider A(2078+@HÄàêò†
 àª	Ice troll	Level 124 P(å0x8P@HP<X<Äà<ê
 3
 ‘¡-∆-Ice troll female P(P0P8(@HP<X<Äà<ê
-2
-’¬-«-Ice troll grunt P(d0d8<@HP<X<Äà<ê
+9
+’«-Ice troll gruntRegular P(d0d8<@HP<X<Äà<ê
+?
+¬-Ice troll gruntIce Troll Caves P(d0d8<@HP<X<Äà<ê
 @
 æ-‘1Ice Troll KingNormal ñ(d0d8P@HP<X<Ä-à-ê-ò–†–
 E
@@ -2892,8 +2894,12 @@ $
 Õ—’ŸPortalYellow
 
 Œ“÷⁄PortalRed
-6
-ú≈2‰8Possessed pickaxe (((078(@HÄà
+=
+ú≈2Possessed pickaxeRegular (((078(@HÄà
+êò†
+
+H
+‰8Possessed pickaxeCatacombs of Kourend (((078(@HÄà
 êò†
 
 *
