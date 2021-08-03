@@ -5261,12 +5261,33 @@ npcs {
   drange: -10
 }
 npcs {
+  ids: 2097
+  name: "Cyclops"
+  version: "Level 56 (Ardougne Zoo)"
+  hitpoints: 55
+  att: 47
+  str: 50
+  def: 46
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 2463
   ids: 2465
   ids: 2467
+  name: "Cyclops"
+  version: "Level 56 (Warriors\' Guild)"
+  hitpoints: 75
+  att: 47
+  str: 50
+  def: 26
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 7271
   name: "Cyclops"
-  version: "Level 56"
+  version: "Level 56 (Catacombs)"
   hitpoints: 75
   att: 47
   str: 50
@@ -5278,9 +5299,19 @@ npcs {
   ids: 2464
   ids: 2466
   ids: 2468
+  name: "Cyclops"
+  version: "Level 76 (Warriors\' Guild)"
+  hitpoints: 100
+  att: 65
+  str: 65
+  def: 35
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 7270
   name: "Cyclops"
-  version: "Level 76"
+  version: "Level 76 (Catacombs)"
   hitpoints: 100
   att: 65
   str: 65
@@ -5292,7 +5323,7 @@ npcs {
   ids: 2235
   ids: 2236
   name: "Cyclops"
-  version: "Level 81"
+  version: "Level 81 (God Wars Dungeon)"
   hitpoints: 110
   att: 60
   str: 70
@@ -5309,22 +5340,11 @@ npcs {
   ids: 2141
   ids: 2142
   name: "Cyclops"
-  version: "Level 106"
+  version: "Level 106 (Warriors\' Guild Basement)"
   hitpoints: 150
   att: 95
   str: 75
   def: 55
-  mage: 1
-  range: 1
-}
-npcs {
-  ids: 2097
-  name: "Cyclops"
-  version: "Zoo"
-  hitpoints: 55
-  att: 47
-  str: 50
-  def: 46
   mage: 1
   range: 1
 }
