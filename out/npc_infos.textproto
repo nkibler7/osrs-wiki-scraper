@@ -10983,7 +10983,7 @@ npcs {
   drange: 80
 }
 npcs {
-  ids: 8583
+  ids: 11192
   name: "Hespori"
   hitpoints: 360
   att: 1
