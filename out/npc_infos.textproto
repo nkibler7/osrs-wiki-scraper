@@ -16922,6 +16922,8 @@ npcs {
   def: 1
   mage: 1
   range: 1
+  attbns: -47
+  strbns: -42
   dslash: -42
   dcrush: -42
   dmagic: -42
@@ -16938,6 +16940,8 @@ npcs {
   def: 1
   mage: 1
   range: 1
+  attbns: -47
+  strbns: -42
   dstab: -42
   dslash: -42
   dcrush: -42
@@ -16955,6 +16959,8 @@ npcs {
   def: 1
   mage: 1
   range: 1
+  attbns: -47
+  strbns: -42
 }
 npcs {
   ids: 9118
