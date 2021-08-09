@@ -17044,6 +17044,8 @@ npcs {
   def: 1
   mage: 1
   range: 1
+  attbns: -15
+  strbns: -15
   dstab: -21
   dslash: -21
   dcrush: -21
@@ -17060,6 +17062,8 @@ npcs {
   def: 1
   mage: 1
   range: 1
+  attbns: -15
+  strbns: -15
   dstab: -21
   dslash: -21
   dcrush: -21
@@ -17076,6 +17080,8 @@ npcs {
   def: 1
   mage: 1
   range: 1
+  attbns: -15
+  strbns: -15
   dstab: -21
   dslash: -21
   dcrush: -21
@@ -17092,6 +17098,8 @@ npcs {
   def: 1
   mage: 1
   range: 1
+  attbns: -15
+  strbns: -15
   dstab: -21
   dslash: -21
   dcrush: -21
@@ -17108,6 +17116,8 @@ npcs {
   def: 1
   mage: 1
   range: 1
+  attbns: -15
+  strbns: -15
   dstab: -21
   dslash: -21
   dcrush: -21
