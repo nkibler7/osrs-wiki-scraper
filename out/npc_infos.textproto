@@ -13289,8 +13289,21 @@ npcs {
 }
 npcs {
   ids: 410
+  name: "Kurask"
+  version: "Normal"
+  hitpoints: 97
+  att: 67
+  str: 105
+  def: 105
+  mage: 1
+  range: 1
+  dslash: 20
+  dcrush: 20
+}
+npcs {
   ids: 411
   name: "Kurask"
+  version: "Big"
   hitpoints: 97
   att: 67
   str: 105
