@@ -13449,7 +13449,7 @@ npcs {
 npcs {
   ids: 3982
   name: "Lesser demon"
-  hitpoints: 81
+  hitpoints: 79
   att: 68
   str: 70
   def: 71
