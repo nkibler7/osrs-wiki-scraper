@@ -1528,8 +1528,11 @@ Giant Mole È(È0È8È@ÈH€<ˆPd˜P <
 ûð1	Giant RocNormal ú(‚0‚8d@H‚˜–
 0
 ³1Giant Roc (hard)Hard ÿ(„0„8d@H„˜–
-A
-Õ´.Giant Rock Crab ´(20P8È@H€áˆÈ¯˜öÿÿÿÿÿÿÿÿ ú
+B
+ÕGiant Rock Crab1 ´(20P8È@H€áˆÈ¯˜öÿÿÿÿÿÿÿÿ ú
+9
+´.Giant Rock Crab2 ´(20P8È@H€áˆÈ¯˜
+ ú
  
 à9Giant rockslug M(H0M8M@H
 @
@@ -3576,8 +3579,13 @@ $
 °SpinnerLevel 92 e( 0 8v@R
 .
 º.¼.Ê.Suspicious waterSuspicious water d
+9
+».Ë.SpinolypSpinolyp (1) d(
+0
+8
+@H€dˆdd˜2 2
 7
-».É.Ë.SpinolypSpinolyp d(
+É.SpinolypSpinolyp (2) d(
 0
 8
 @Hd€dˆdd˜2 2
