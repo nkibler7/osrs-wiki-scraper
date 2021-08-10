@@ -24322,8 +24322,8 @@ npcs {
 }
 npcs {
   ids: 5938
-  ids: 5939
   name: "Wallasalki"
+  version: "1"
   hitpoints: 120
   att: 1
   str: 1
@@ -24335,6 +24335,22 @@ npcs {
   dcrush: 175
   dmagic: 250
   drange: -10
+}
+npcs {
+  ids: 5939
+  name: "Wallasalki"
+  version: "2"
+  hitpoints: 120
+  att: 10
+  str: 10
+  def: 80
+  mage: 100
+  range: 1
+  dstab: 100
+  dslash: 150
+  dcrush: 175
+  dmagic: 250
+  drange: 10
 }
 npcs {
   ids: 7277
