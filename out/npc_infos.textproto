@@ -25391,7 +25391,7 @@ npcs {
 npcs {
   ids: 2954
   name: "Zamorak wizard"
-  hitpoints: 73
+  hitpoints: 76
   att: 24
   str: 24
   def: 24
