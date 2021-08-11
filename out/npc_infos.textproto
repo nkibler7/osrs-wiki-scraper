@@ -3071,6 +3071,7 @@ npcs {
   dstab: 5
   dslash: 5
   dcrush: 30
+  dmagic: 5
   drange: 50
 }
 npcs {
@@ -3086,6 +3087,7 @@ npcs {
   dstab: 5
   dslash: 5
   dcrush: 30
+  dmagic: 5
   drange: 50
 }
 npcs {
@@ -6082,7 +6084,7 @@ npcs {
   attbns: 280
   strbns: 30
   arange: 90
-  rngbns: 90
+  rngbns: -10
   dstab: 20
   dslash: 20
   dcrush: 50
