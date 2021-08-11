@@ -6065,6 +6065,7 @@ npcs {
   attbns: 43
   strbns: 29
   amagic: 40
+  mbns: 29
   arange: 43
   rngbns: 29
   dmagic: 50
