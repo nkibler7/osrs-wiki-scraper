@@ -11446,7 +11446,7 @@ npcs {
 npcs {
   ids: 4922
   name: "Ice Queen"
-  hitpoints: 105
+  hitpoints: 104
   att: 95
   str: 94
   def: 95
@@ -20598,10 +20598,6 @@ npcs {
   def: 25
   mage: 25
   range: 35
-  attbns: 18
-  strbns: 16
-  amagic: 25
-  arange: 35
   rngbns: 20
   dslash: 30
   dcrush: 10
@@ -20617,10 +20613,6 @@ npcs {
   def: 25
   mage: 25
   range: 35
-  attbns: 18
-  strbns: 16
-  amagic: 25
-  arange: 35
   rngbns: 20
   dslash: 30
   dcrush: 10
