@@ -2367,8 +2367,8 @@ Loar ShadeShade &(-08
 œLocust riderRanger Z(i0Z82@HZpPxP€2ˆZ2˜" B
 A
 ¡Locust riderRanger (Quest) Z(i0Z82@HZpPxP€2ˆZ2˜" B
-/
-›Locust riderLancer Z(d0Z8Z@H€ZˆZ(
+1
+›Locust riderLancer Z(d0Z8Z@HX€ZˆZ(
 7
  Locust riderLancer (Quest) Z(d0Z8Z@H€ZˆZ(
 5
@@ -3354,7 +3354,7 @@ M
 ;
 ÜİŞSkeletonLevel 85 M(J0J8J@HPX€Oˆ˜ F
 
-õ(Skeleton n(´0Z8n@nHP2
+õ(Skeleton M(´0Z8n@nHP2
 5
 •–—˜Skeleton 3(H0H8H@H€ˆûÿÿÿÿÿÿÿÿ 
 
@@ -3638,14 +3638,17 @@ H
 ‹Steel dragon Ò(×0×8×@dH€2ˆFF˜ Z
 )
 Stick ‡(<0n8<P2XP€ˆ2˜È È
-7
-‚?Stone GuardianMagic >(08Š@€H`
-€(ˆ(#˜#
 9
-€?Stone GuardianMelee >(–0”8Š@vH€ˆ˜
+‚?Stone GuardianMagic >(08Š@€H`
+h
+€(ˆ(#˜#
+;
+€?Stone GuardianMelee >(–0”8Š@vHh
+€ˆ˜
  (
-:
-?Stone GuardianRanged >(08Š@vH€p
+<
+?Stone GuardianRanged >(08Š@vH€h
+p
 x
 €
 ˆ
@@ -4015,7 +4018,7 @@ Undead cow (08@H€ëÿÿÿÿÿÿÿÿˆëÿÿÿÿÿÿÿÿëÿÿÿÿÿÿÿÿ˜ëÿÿÿÿÿÿÿÿ ëÿÿÿÿÿÿÿ
 Ñ,Ò,Ó,Ô,Õ,Ö,×,Ø,Undead LumberjackLevel 70 @H
 7
 à)á)
-Undead oneLevel 61 /(70787PX€ˆ˜ 
+Undead oneLevel 61 /(70787PX€ˆ˜ 
 /
 Ş)ß)
 Undead oneLevel 68 (Skeletal) /(?0?8?

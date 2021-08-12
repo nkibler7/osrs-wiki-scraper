@@ -13770,6 +13770,7 @@ npcs {
   def: 90
   mage: 1
   range: 1
+  strbns: 30
   dstab: 90
   dslash: 90
   dcrush: 40
@@ -19511,7 +19512,7 @@ npcs {
 npcs {
   ids: 5237
   name: "Skeleton"
-  hitpoints: 110
+  hitpoints: 77
   att: 180
   str: 90
   def: 110
@@ -21278,6 +21279,7 @@ npcs {
   mage: 128
   range: 1
   amagic: 10
+  mbns: 10
   dstab: 40
   dslash: 40
   dcrush: 35
@@ -21293,6 +21295,7 @@ npcs {
   def: 138
   mage: 118
   range: 1
+  mbns: 10
   dstab: 25
   dslash: 25
   dcrush: 15
@@ -21309,6 +21312,7 @@ npcs {
   def: 138
   mage: 118
   range: 128
+  mbns: 10
   arange: 10
   rngbns: 10
   dstab: 10
@@ -23374,7 +23378,7 @@ npcs {
   strbns: 5
   dstab: 5
   dslash: 5
-  dcrush: 4
+  dcrush: 3
   dmagic: 1
   drange: 4
 }
