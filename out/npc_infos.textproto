@@ -22655,10 +22655,8 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 3616
   ids: 6359
   name: "Treus Dayth"
-  version: "Normal"
   hitpoints: 100
   att: 70
   str: 70
@@ -22674,7 +22672,6 @@ npcs {
 npcs {
   ids: 6298
   name: "Treus Dayth (hard)"
-  version: "Hard"
   hitpoints: 240
   att: 168
   str: 168
