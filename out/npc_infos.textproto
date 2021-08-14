@@ -17718,7 +17718,7 @@ npcs {
 npcs {
   ids: 7938
   name: "Revenant dark beast"
-  hitpoints: 140
+  hitpoints: 72
   att: 93
   str: 110
   def: 80
@@ -17727,6 +17727,7 @@ npcs {
   attbns: 65
   strbns: 60
   arange: 45
+  rngbns: 45
   dstab: 153
   dslash: 152
   dcrush: 155
