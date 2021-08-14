@@ -12071,10 +12071,62 @@ npcs {
 }
 npcs {
   ids: 4276
+  name: "Jail guard"
+  version: "1"
+  hitpoints: 32
+  att: 19
+  str: 23
+  def: 21
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 5
+  dstab: 8
+  dslash: 9
+  dcrush: 10
+  dmagic: 4
+  drange: 9
+}
+npcs {
   ids: 4277
+  name: "Jail guard"
+  version: "2"
+  hitpoints: 32
+  att: 19
+  str: 23
+  def: 21
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 5
+  dstab: 8
+  dslash: 9
+  dcrush: 10
+  dmagic: 4
+  drange: 9
+}
+npcs {
   ids: 4278
+  name: "Jail guard"
+  version: "3"
+  hitpoints: 32
+  att: 19
+  str: 23
+  def: 21
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 5
+  dstab: 8
+  dslash: 9
+  dcrush: 10
+  dmagic: 4
+  drange: 9
+}
+npcs {
   ids: 4279
   name: "Jail guard"
+  version: "4"
   hitpoints: 32
   att: 19
   str: 23
