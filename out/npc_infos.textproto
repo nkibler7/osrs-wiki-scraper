@@ -5446,6 +5446,8 @@ npcs {
   def: 71
   mage: 1
   range: 1
+  dmagic: 50
+  drange: 50
 }
 npcs {
   ids: 140
