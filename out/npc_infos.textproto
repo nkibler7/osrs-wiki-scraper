@@ -3701,6 +3701,7 @@ npcs {
   def: 20
   mage: 1
   range: 1
+  strbns: 20
 }
 npcs {
   ids: 1379
@@ -3712,6 +3713,7 @@ npcs {
   def: 25
   mage: 1
   range: 1
+  strbns: 20
 }
 npcs {
   ids: 1380
@@ -3723,6 +3725,7 @@ npcs {
   def: 25
   mage: 1
   range: 1
+  strbns: 20
 }
 npcs {
   ids: 1381
@@ -3734,6 +3737,7 @@ npcs {
   def: 25
   mage: 1
   range: 1
+  strbns: 20
 }
 npcs {
   ids: 1382
@@ -3745,6 +3749,7 @@ npcs {
   def: 25
   mage: 1
   range: 1
+  strbns: 20
 }
 npcs {
   ids: 2911
@@ -20558,8 +20563,19 @@ npcs {
 }
 npcs {
   ids: 561
+  name: "Sorebones"
+  version: "Jacket"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 562
   name: "Sorebones"
+  version: "Apron"
   hitpoints: 52
   att: 49
   str: 50
