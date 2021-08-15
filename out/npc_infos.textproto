@@ -2586,8 +2586,8 @@ npcs {
   def: 29
   mage: 1
   range: 1
-  attbns: 29
-  strbns: 10
+  attbns: 30
+  strbns: 29
   dstab: 10
   dslash: 10
   drange: 10
@@ -2602,8 +2602,8 @@ npcs {
   def: 29
   mage: 1
   range: 1
-  attbns: 29
-  strbns: 10
+  attbns: 30
+  strbns: 29
   dstab: 10
   dslash: 10
   drange: 10
