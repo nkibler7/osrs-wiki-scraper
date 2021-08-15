@@ -4994,7 +4994,7 @@ npcs {
   hitpoints: 19
   att: 11
   str: 7
-  def: 8
+  def: 7
   mage: 1
   range: 1
 }
@@ -5032,6 +5032,7 @@ npcs {
   attbns: 250
   strbns: 25
   arange: 75
+  rngbns: -15
   dstab: 5
   dslash: 5
   dcrush: 30
@@ -5047,6 +5048,11 @@ npcs {
   def: 54
   mage: 1
   range: 1
+  dstab: 20
+  dslash: 12
+  dcrush: 22
+  dmagic: 10
+  drange: 20
 }
 npcs {
   ids: 4198
@@ -5086,7 +5092,7 @@ npcs {
 npcs {
   ids: 1683
   name: "Crypt spider"
-  hitpoints: 45
+  hitpoints: 60
   att: 45
   str: 47
   def: 45
@@ -5340,6 +5346,7 @@ npcs {
   mage: 1
   range: 1
   attbns: 22
+  strbns: 30
 }
 npcs {
   ids: 2137
