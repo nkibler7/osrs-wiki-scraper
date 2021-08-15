@@ -1496,8 +1496,9 @@ V
 Giant Champion F($0,84@H
 %
 ‘’Giant crypt rat F(P028A@H
-$
-”Giant crypt spider P(A0C8A@H
+3
+”Giant crypt spider P(A0C8A@H€ˆ
+˜ 
 &
 üC
 Giant frogLevel 13 (
@@ -1589,14 +1590,16 @@ v
 Z
 Ò/Gnome Driver 
 (08@H€âÿÿÿÿÿÿÿÿˆâÿÿÿÿÿÿÿÿâÿÿÿÿÿÿÿÿ˜âÿÿÿÿÿÿÿÿ âÿÿÿÿÿÿÿÿ
-#
-Á/Â/Gnome guard (08@HPX
+*
+Á/Gnome guardHalberd (08@HPX
+4
+Â/Gnome guardSword (08@HPX€ˆ	 
 X
 Ó/
 Gnome Mage 
 (08@H€âÿÿÿÿÿÿÿÿˆâÿÿÿÿÿÿÿÿâÿÿÿÿÿÿÿÿ˜âÿÿÿÿÿÿÿÿ âÿÿÿÿÿÿÿÿ
 =
-í&î&Gnome troopLevel 1 (08@HPXx€ˆ˜ 
+í&î&Gnome troopLevel 1 (08@HPXx€ˆ˜ 
 =
 Î.Ï.Gnome troopLevel 3 (08@HPXx€ˆ˜ 
 r
@@ -1604,14 +1607,14 @@ r
 r
 Ç/Gnome woman2 (08@HPÖÿÿÿÿÿÿÿÿXÖÿÿÿÿÿÿÿÿ€ÖÿÿÿÿÿÿÿÿˆÖÿÿÿÿÿÿÿÿÖÿÿÿÿÿÿÿÿ˜Öÿÿÿÿÿÿÿÿ Öÿÿÿÿÿÿÿÿ
 *
-ƒ„GoatTan (08@HPX
-€
+ƒ„GoatTan (08@HP
+X€
 ˆ
  
 
 ,
-€GoatBrown (08@HPX
-€
+€GoatBrown (08@HP
+X€
 ˆ
  
 
@@ -1934,9 +1937,9 @@ Hill GiantTank top #(08@HPX
 Hill GiantHammer #(08@HPX
 /
 éÖ×ØÙÅ%	HobgoblinLevel 28 (08@H
-)
+/
 ê	HobgoblinLevel 42 1(!08$@HPX
-
+€ˆ
 %
 Á	HobgoblinLevel 47 4('0'8#@H
 $
@@ -2014,8 +2017,8 @@ E
  
 &
 …†Ice wolfLevel 96 F(d0Z8F@H
-/
-‡ÆÇÈÉÊËIce wolf	Level 132 F(–0–8F
+3
+‡ÆÇÈÉÊËIce wolf	Level 132 F(–0–8F@H
 $
 Í%IcefiendLevel 13 (
 0
@@ -2750,8 +2753,8 @@ $
 ˜ûÿÿÿÿÿÿÿÿ 
 
 )Ouhai
-*
-Ç È É Ê Ë Ì Í Î Ï Ğ Outlaw (#08@H
+5
+Ç È É Ê Ë Ì Í Î Ï Ğ Outlaw (#08@HXëÿÿÿÿÿÿÿÿ
  
 )Padulah ‚(‚0‚8‚@‚HP2
 E
@@ -2881,11 +2884,11 @@ e
 €ˆ
 +
 §Pirate
-Port Sarim (08@HP	X
-ˆ
+Port Sarim (08@HP
+X	ˆ
 0
-‰Ñ6PiratePirate's Cove (08@HP	X
-ˆ
+‰Ñ6PiratePirate's Cove (08@HP
+X	ˆ
 9
 ‹PirateAsgarnian Ice Dungeon (08@HPX
 €ˆ
@@ -2909,7 +2912,7 @@ $
 ı)Poison spiderLevel 31 (08@H€ˆ
 ˜ 
 8
-ÏPoison spiderLevel 64 @(2048:@H€ˆ
+ÏPoison spiderLevel 64 @(20:84@H€ˆ
 ˜ 
 6
 –%Poltenip (08@HPX€ˆ˜üÿÿÿÿÿÿÿÿ 
