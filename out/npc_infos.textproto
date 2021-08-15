@@ -2638,6 +2638,8 @@ npcs {
   att: 15
   str: 16
   def: 13
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 2912
