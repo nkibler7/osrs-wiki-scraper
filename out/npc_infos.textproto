@@ -5485,12 +5485,12 @@ npcs {
   name: "Dagannoth"
   version: "Level 88"
   hitpoints: 85
-  att: 1
-  str: 1
+  att: 10
+  str: 10
   def: 75
   mage: 1
   range: 100
-  dstab: -10
+  dstab: 10
   dslash: 10
   dcrush: 90
   dmagic: 200
@@ -5879,7 +5879,7 @@ npcs {
   ids: 2057
   name: "Dark wizard"
   version: "Level 22"
-  hitpoints: 24
+  hitpoints: 25
   att: 20
   str: 10
   def: 15
