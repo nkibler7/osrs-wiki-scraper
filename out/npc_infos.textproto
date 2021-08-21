@@ -8234,8 +8234,8 @@ npcs {
   name: "Ghost"
   hitpoints: 20
   att: 23
-  str: 23
-  def: 20
+  str: 20
+  def: 23
   mage: 1
   range: 1
 }
