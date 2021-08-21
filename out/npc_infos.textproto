@@ -6760,11 +6760,12 @@ npcs {
   def: 80
   mage: 1
   range: 90
+  rngbns: 8
   dstab: 50
-  dslash: 70
-  dcrush: 70
+  dslash: 50
+  dcrush: 50
   dmagic: 60
-  drange: 50
+  drange: 70
 }
 npcs {
   ids: 5296
@@ -6776,11 +6777,12 @@ npcs {
   def: 80
   mage: 1
   range: 90
+  rngbns: 8
   dstab: 50
-  dslash: 70
-  dcrush: 70
+  dslash: 50
+  dcrush: 50
   dmagic: 60
-  drange: 50
+  drange: 70
 }
 npcs {
   ids: 5293
@@ -6877,6 +6879,7 @@ npcs {
   def: 1
   mage: 1
   range: 150
+  mbns: 40
   dmagic: -15
   drange: 270
 }
@@ -6890,6 +6893,7 @@ npcs {
   def: 1
   mage: 1
   range: 150
+  mbns: 40
   dmagic: -15
   drange: 270
 }
@@ -7006,8 +7010,11 @@ npcs {
   name: "Evil Chicken"
   version: "Normal"
   hitpoints: 120
+  att: 1
+  str: 1
   def: 126
   mage: 200
+  range: 1
 }
 npcs {
   ids: 6306
@@ -7016,6 +7023,7 @@ npcs {
   hitpoints: 240
   def: 126
   mage: 400
+  range: 1
 }
 npcs {
   ids: 625
