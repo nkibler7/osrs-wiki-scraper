@@ -23891,6 +23891,7 @@ npcs {
   range: 150
 }
 npcs {
+  ids: 9567
   name: "Vanstrom Klause"
   hitpoints: 750
   def: 180
