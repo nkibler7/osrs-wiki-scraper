@@ -212,11 +212,11 @@ npcs {
   mage: 200
   range: 1
   attbns: 65
-  dstab: 40
-  dslash: 60
-  dcrush: 50
-  dmagic: 20
-  drange: 60
+  dstab: 20
+  dslash: 30
+  dcrush: 25
+  dmagic: -40
+  drange: 30
 }
 npcs {
   ids: 2586
