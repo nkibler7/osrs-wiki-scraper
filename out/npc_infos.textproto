@@ -9422,7 +9422,7 @@ npcs {
   mage: 1
   range: 1
   attbns: 8
-  strbns: 8
+  strbns: 6
   dstab: 15
   dslash: 27
   dcrush: 21
