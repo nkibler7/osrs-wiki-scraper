@@ -18723,6 +18723,7 @@ npcs {
   str: 55
   def: 50
   mage: 1
+  range: 1
 }
 npcs {
   ids: 1097
