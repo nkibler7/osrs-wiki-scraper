@@ -8433,7 +8433,6 @@ npcs {
 }
 npcs {
   ids: 4799
-  ids: 4800
   name: "Giant lobster"
   hitpoints: 50
   att: 40
