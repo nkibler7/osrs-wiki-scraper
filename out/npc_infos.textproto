@@ -25322,6 +25322,10 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 2847
+  name: "Yeti"
+}
+npcs {
   ids: 3679
   name: "Yrsa"
 }
