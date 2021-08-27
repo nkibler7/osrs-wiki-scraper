@@ -15887,7 +15887,6 @@ npcs {
 }
 npcs {
   ids: 4362
-  ids: 4363
   name: "Ogre chieftain"
   hitpoints: 60
   att: 75
