@@ -14863,12 +14863,12 @@ npcs {
   strbns: 62
 }
 npcs {
-  ids: 6325
-  name: "Moss Guardian (hard)"
-  version: "Hard"
-  hitpoints: 240
-  att: 165
-  str: 165
+  ids: 6386
+  name: "Moss Guardian"
+  version: "Nightmare Zone"
+  hitpoints: 120
+  att: 60
+  str: 60
   def: 60
   mage: 1
   range: 1
@@ -14876,11 +14876,12 @@ npcs {
   strbns: 62
 }
 npcs {
-  ids: 6386
-  name: "Moss Guardian"
-  hitpoints: 120
-  att: 60
-  str: 60
+  ids: 6325
+  name: "Moss Guardian (hard)"
+  version: "Hard"
+  hitpoints: 240
+  att: 165
+  str: 165
   def: 60
   mage: 1
   range: 1
