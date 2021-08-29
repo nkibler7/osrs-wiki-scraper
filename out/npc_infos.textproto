@@ -11557,10 +11557,10 @@ npcs {
   ids: 705
   name: "Ice troll"
   version: "Level 121"
-  hitpoints: 80
-  att: 100
-  str: 120
-  def: 120
+  hitpoints: 90
+  att: 110
+  str: 110
+  def: 110
   mage: 1
   range: 1
   attbns: 60
