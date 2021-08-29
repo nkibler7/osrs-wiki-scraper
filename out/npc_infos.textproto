@@ -13192,7 +13192,7 @@ npcs {
   name: "Knight of Saradomin"
   version: "Level 103"
   hitpoints: 135
-  att: 70
+  att: 75
   str: 85
   def: 70
   mage: 60
@@ -13341,6 +13341,7 @@ npcs {
   def: 1
   mage: 1
   range: 1
+  mbns: 50
   dmagic: 130
   drange: 300
 }
@@ -13635,6 +13636,10 @@ npcs {
   def: 35
   mage: 1
   range: 1
+  dstab: 5
+  dslash: 15
+  dcrush: 15
+  drange: 5
 }
 npcs {
   ids: 6914
