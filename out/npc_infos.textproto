@@ -9602,7 +9602,7 @@ npcs {
   ids: 2032
   name: "Greater demon"
   version: "Level 92"
-  hitpoints: 89
+  hitpoints: 87
   att: 76
   str: 78
   def: 81
@@ -11089,7 +11089,7 @@ npcs {
   hitpoints: 13
   att: 2
   str: 2
-  def: 4
+  def: 2
   mage: 1
   range: 1
   attbns: 6
