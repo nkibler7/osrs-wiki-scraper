@@ -12917,9 +12917,9 @@ npcs {
   range: 1
   attbns: 10
   strbns: 14
-  dstab: 35
-  dslash: 29
-  dcrush: 21
+  dstab: 44
+  dslash: 38
+  dcrush: 30
 }
 npcs {
   ids: 1225
@@ -12955,17 +12955,17 @@ npcs {
   name: "Khazard trooper"
   hitpoints: 22
   att: 17
-  str: 16
-  def: 13
+  str: 18
+  def: 12
   mage: 1
   range: 1
-  attbns: 9
-  strbns: 5
-  dstab: 25
-  dslash: 25
-  dcrush: 22
+  attbns: 8
+  strbns: 10
+  dstab: 33
+  dslash: 34
+  dcrush: 29
   dmagic: -7
-  drange: -25
+  drange: 33
 }
 npcs {
   ids: 6390
