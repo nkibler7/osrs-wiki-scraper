@@ -19893,7 +19893,7 @@ npcs {
   mage: 1
   range: 1
   dstab: 50
-  dslash: 50
+  dslash: 40
   drange: 40
 }
 npcs {
@@ -20440,8 +20440,8 @@ npcs {
   name: "Snake"
   hitpoints: 25
   att: 25
-  str: 50
-  def: 25
+  str: 25
+  def: 50
   mage: 1
   range: 1
 }
@@ -20523,11 +20523,11 @@ npcs {
   range: 1
   attbns: 9
   strbns: 7
-  dstab: 18
-  dslash: 25
+  dstab: 24
+  dslash: 14
   dcrush: 19
-  dmagic: -4
-  drange: 20
+  dmagic: 4
+  drange: 16
 }
 npcs {
   ids: 6905
@@ -21097,22 +21097,6 @@ npcs {
   dcrush: 13
   dmagic: 35
   drange: 13
-}
-npcs {
-  ids: 3168
-  name: "Spiritual mage"
-  version: "Armadyl"
-  hitpoints: 75
-  att: 1
-  str: 1
-  def: 111
-  mage: 150
-  range: 1
-  dstab: 9
-  dslash: 12
-  dcrush: 5
-  dmagic: 45
-  drange: 28
 }
 npcs {
   ids: 3160
@@ -23296,6 +23280,8 @@ npcs {
   def: 1
   mage: 1
   range: 1
+  attbns: -47
+  strbns: -42
   dstab: -42
   dslash: -42
   dcrush: -42
@@ -23312,6 +23298,8 @@ npcs {
   def: 1
   mage: 1
   range: 1
+  attbns: -15
+  strbns: -15
   dstab: -21
   dslash: -21
   dcrush: -21
@@ -23573,9 +23561,10 @@ npcs {
   version: "Normal"
   hitpoints: 65
   att: 57
-  str: 65
-  def: 61
+  str: 61
+  def: 65
   mage: 65
+  attbns: 7
   strbns: 3
   rngbns: 7
 }
@@ -23712,8 +23701,8 @@ npcs {
   ids: 4487
   name: "Vampyre Juvinate"
   version: "Level 54"
-  hitpoints: 65
-  att: 55
+  hitpoints: 85
+  att: 40
   str: 40
   def: 30
   mage: 1
@@ -23732,8 +23721,8 @@ npcs {
   version: "Level 54 (Meiyerditch/Darkmeyer)"
   hitpoints: 85
   att: 40
-  str: 30
-  def: 40
+  str: 40
+  def: 30
   mage: 1
   range: 1
 }
@@ -24201,6 +24190,7 @@ npcs {
   range: 308
   attbns: 16
   amagic: 150
+  mbns: 56
   arange: 78
   dstab: 26
   dslash: 108

@@ -3411,7 +3411,7 @@ M
 /
 ™2SkeletonLevel 77 P(H0<8<@HXÄ2à(†(
 -
-´2SkeletonLevel 81 G(H0@8P@HÄ2à2†(
+´2SkeletonLevel 81 G(H0@8P@HÄ2à(†(
 /
 ƒ2SkeletonLevel 87 \(K0P87@HXÄ2à(†(
 /
@@ -3507,7 +3507,7 @@ V
 @
 HPdXd
 
-çSnake (028@H
+çSnake (082@H
 b
 ˝	SnakelingMelee (å0ä8@HPxÄÿˇˇˇˇˇˇˇˇàÿˇˇˇˇˇˇˇˇêÿˇˇˇˇˇˇˇˇòÿˇˇˇˇˇˇˇˇ†ÿˇˇˇˇˇˇˇˇ
 n
@@ -3519,8 +3519,8 @@ T
 @HÄÎˇˇˇˇˇˇˇˇàÎˇˇˇˇˇˇˇˇêÎˇˇˇˇˇˇˇˇòÎˇˇˇˇˇˇˇˇ†Îˇˇˇˇˇˇˇˇ
 *
 ¯Soldier 2((0(8(@PXÄàêò†
-5
-¿VSoldier (08@HP	XÄàêò¸ˇˇˇˇˇˇˇˇ†
+,
+¿VSoldier (08@HP	XÄàêò†
 4
 ˘5¯5Soldier (tier 1) 2(08@HPX†ˇˇˇˇˇˇˇˇˇ
 (
@@ -3617,8 +3617,6 @@ $
 §Spiritual mage	Saradomin U(08V@†HÄàêò†
 8
 ƒSpiritual mageBandos j(08g@éHÄàêò#†
-9
-‡Spiritual mageArmadyl K(08o@ñHÄ	àêò-†
 ,
 ÿSpiritual rangerZamorak x(08P@Hå
 =
@@ -4011,11 +4009,11 @@ TzHaar-XilRing x(å0d8d@(Hx
 ¨$Ugthanki -(#0#8#
 
 î#ô#Ulfric <(d0R8d@H
-\
-±Undead chicken (08@HÄ÷ˇˇˇˇˇˇˇˇà÷ˇˇˇˇˇˇˇˇê÷ˇˇˇˇˇˇˇˇò÷ˇˇˇˇˇˇˇˇ†÷ˇˇˇˇˇˇˇˇ
-Z
+r
+±Undead chicken (08@HP—ˇˇˇˇˇˇˇˇX÷ˇˇˇˇˇˇˇˇÄ÷ˇˇˇˇˇˇˇˇà÷ˇˇˇˇˇˇˇˇê÷ˇˇˇˇˇˇˇˇò÷ˇˇˇˇˇˇˇˇ†÷ˇˇˇˇˇˇˇˇ
+p
 ∞≈"
-Undead cow (08@HÄÎˇˇˇˇˇˇˇˇàÎˇˇˇˇˇˇˇˇêÎˇˇˇˇˇˇˇˇòÎˇˇˇˇˇˇˇˇ†Îˇˇˇˇˇˇˇˇ
+Undead cow (08@HPÒˇˇˇˇˇˇˇˇXÒˇˇˇˇˇˇˇˇÄÎˇˇˇˇˇˇˇˇàÎˇˇˇˇˇˇˇˇêÎˇˇˇˇˇˇˇˇòÎˇˇˇˇˇˇˇˇ†Îˇˇˇˇˇˇˇˇ
 5
 ·Undead Druid å(<028<@sP2X2`dh2Ä(àêPòå†(
 ;
@@ -4058,8 +4056,8 @@ Undead oneLevel 73 ;(A0A8APX
 ‡RUndead Zealot2 (08&@HX
 Äà†
 
-$
-ıUngaduluNormal A(90A8=@AXx
+&
+ıUngaduluNormal A(90=8A@APXx
 )
 ˆUngadulu	Possessed ñ(ì0ì8ìXx
 
@@ -4088,9 +4086,9 @@ C
 .
 €"Ü#Vampyre JuvinateLevel 50 <(20%8@H
 6
-À"Ã"Õ"Œ"–"á#Vampyre JuvinateLevel 54 A(70(8@H
+À"Ã"Õ"Œ"–"á#Vampyre JuvinateLevel 54 U((0(8@H
 R
-ÍÎÓÔÚÛÄLˇKVampyre Juvinate Level 54 (Meiyerditch/Darkmeyer) U((08(@H
+ÍÎÓÔÚÛÄLˇKVampyre Juvinate Level 54 (Meiyerditch/Darkmeyer) U((0(8@H
 .
 Ç,Ö,Vampyre JuvinateLevel 59 2(_08-@2H2
 ,
@@ -4156,9 +4154,9 @@ I
 Ë9Vitreous warped Jelly ‹(»0¥8˙@¥H
 
 ˚Viyeldi P(>0B8FPX
-D
+F
 ˚>˝>Vorkath
-Post-quest Ó(∞0¥8÷@ñH¥P`ñpNÄàlêlò†
+Post-quest Ó(∞0¥8÷@ñH¥P`ñh8pNÄàlêlò†
 J
 ˙>¸>VorkathDragon Slayer II Ã(∞0å8§@îHåP`îp`ÄBà~ê~òÃ†P
 
