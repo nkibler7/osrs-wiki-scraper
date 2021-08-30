@@ -14953,6 +14953,8 @@ npcs {
   att: 25
   str: 25
   def: 25
+  mage: 1
+  range: 1
   dstab: 16
   dslash: 16
   dcrush: 18
@@ -15466,12 +15468,13 @@ npcs {
 npcs {
   ids: 11088
   name: "Necromancer"
-  hitpoints: 40
+  hitpoints: 80
   att: 56
   str: 56
   def: 50
   mage: 60
   range: 1
+  amagic: 10
   mbns: 10
   dstab: 8
   dslash: 8
@@ -16110,7 +16113,7 @@ npcs {
   name: "Paladin"
   version: "Ardougne"
   hitpoints: 66
-  att: 38
+  att: 54
   str: 54
   def: 54
   mage: 1
@@ -25585,6 +25588,7 @@ npcs {
   def: 10
   mage: 1
   range: 1
+  attbns: 5
 }
 npcs {
   ids: 42
@@ -25605,6 +25609,7 @@ npcs {
   def: 18
   mage: 1
   range: 1
+  attbns: 5
 }
 npcs {
   ids: 49
@@ -25630,6 +25635,13 @@ npcs {
   def: 16
   mage: 1
   range: 1
+  attbns: 5
+  strbns: 7
+  dstab: 9
+  dslash: 8
+  dcrush: 12
+  dmagic: 10
+  drange: 11
 }
 npcs {
   ids: 2501
@@ -25643,6 +25655,7 @@ npcs {
   def: 20
   mage: 1
   range: 1
+  attbns: 5
 }
 npcs {
   ids: 2504
@@ -25656,6 +25669,7 @@ npcs {
   def: 40
   mage: 1
   range: 1
+  attbns: 5
 }
 npcs {
   ids: 2507
@@ -25669,6 +25683,13 @@ npcs {
   def: 48
   mage: 1
   range: 1
+  attbns: 5
+  strbns: 7
+  dstab: 19
+  dslash: 18
+  dcrush: 22
+  dmagic: 20
+  drange: 21
 }
 npcs {
   ids: 7486
@@ -25680,6 +25701,7 @@ npcs {
   def: 47
   mage: 1
   range: 1
+  attbns: 5
   strbns: 10
   dstab: 20
   dslash: 20
@@ -25695,6 +25717,7 @@ npcs {
   def: 61
   mage: 1
   range: 1
+  attbns: 5
   strbns: 10
   dstab: 20
   dslash: 20
@@ -25710,6 +25733,7 @@ npcs {
   def: 62
   mage: 1
   range: 1
+  attbns: 5
   strbns: 10
   dstab: 20
   dslash: 20
@@ -25725,6 +25749,7 @@ npcs {
   def: 62
   mage: 1
   range: 1
+  attbns: 5
   strbns: 10
   dstab: 20
   dslash: 20
