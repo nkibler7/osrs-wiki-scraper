@@ -19668,8 +19668,8 @@ npcs {
   name: "Skeleton"
   hitpoints: 85
   att: 70
-  str: 80
-  def: 60
+  str: 60
+  def: 80
   mage: 110
   range: 1
   strbns: 5
