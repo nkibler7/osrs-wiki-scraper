@@ -15996,8 +15996,24 @@ npcs {
 }
 npcs {
   ids: 7989
+  name: "Ogress Warrior"
+  version: "1"
+  hitpoints: 82
+  att: 68
+  str: 70
+  def: 82
+  mage: 60
+  range: 1
+  dstab: 10
+  dslash: 12
+  dcrush: 12
+  dmagic: 14
+  drange: 16
+}
+npcs {
   ids: 7990
   name: "Ogress Warrior"
+  version: "2"
   hitpoints: 82
   att: 68
   str: 70
