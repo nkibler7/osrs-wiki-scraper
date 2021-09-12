@@ -13947,7 +13947,6 @@ npcs {
 }
 npcs {
   ids: 3443
-  ids: 3444
   name: "Lucien"
   hitpoints: 17
   att: 12
