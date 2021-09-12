@@ -22172,7 +22172,6 @@ npcs {
 }
 npcs {
   ids: 4708
-  ids: 4709
   name: "The Shaikahan"
   hitpoints: 100
   att: 80
