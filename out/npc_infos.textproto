@@ -3046,8 +3046,24 @@ npcs {
 }
 npcs {
   ids: 4533
+  name: "Blessed spider"
+  version: "Normal"
+  hitpoints: 32
+  att: 35
+  str: 35
+  def: 35
+  mage: 1
+  range: 1
+  dstab: 15
+  dslash: 16
+  dcrush: 7
+  dmagic: 12
+  drange: 16
+}
+npcs {
   ids: 8978
   name: "Blessed spider"
+  version: "Song of the Elves"
   hitpoints: 32
   att: 35
   str: 35
