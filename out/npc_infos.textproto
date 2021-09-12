@@ -4147,7 +4147,6 @@ npcs {
 }
 npcs {
   ids: 291
-  ids: 2423
   name: "Chaos dwarf"
   hitpoints: 61
   att: 38
@@ -11517,6 +11516,23 @@ npcs {
 npcs {
   ids: 3022
   name: "Ice spider"
+  version: "Normal"
+  hitpoints: 65
+  att: 50
+  str: 55
+  def: 43
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 17
+  dcrush: 12
+  dmagic: 13
+  drange: 13
+}
+npcs {
+  ids: 10722
+  name: "Ice spider"
+  version: "Settlement Ruins"
   hitpoints: 65
   att: 50
   str: 55
@@ -13988,8 +14004,24 @@ npcs {
 }
 npcs {
   ids: 2844
+  name: "Magic axe"
+  version: "Normal"
+  hitpoints: 44
+  att: 38
+  str: 38
+  def: 29
+  mage: 1
+  range: 1
+  dstab: 10
+  dslash: 5
+  dcrush: 15
+  dmagic: 5
+  drange: 10
+}
+npcs {
   ids: 7269
   name: "Magic axe"
+  version: "Catacombs of Kourend"
   hitpoints: 44
   att: 38
   str: 38

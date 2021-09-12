@@ -742,8 +742,8 @@ V
 H
 A
 ”Chaos druid warrior (( 0"8@HP	X€ˆ˜üÿÿÿÿÿÿÿÿ 
-2
-£÷Chaos dwarf =(&0*8@HPX	€(ˆ"˜
+0
+£Chaos dwarf =(&0*8@HPX	€(ˆ"˜
  #
 8
 †é2Chaos Elemental ú(08@H€FˆFF˜F F
@@ -1987,9 +1987,12 @@ R
 *
 º&	Ice Queen h(_0^8_@H€ˆ(˜
  
-+
+3
 Î
-Ice spider A(2078+@H€ˆ˜ 
+Ice spiderNormal A(2078+@H€ˆ˜ 
+=
+âS
+Ice spiderSettlement Ruins A(2078+@H€ˆ˜ 
 =
 ŠŒ½¿À	Ice troll	Level 120 d(d0d8x@HP<X<€ˆ<
 9
@@ -2404,8 +2407,12 @@ A
 /
 ¿V
 Lynx Tamer (08@HP	X€ˆ˜ 
-,
-œå8	Magic axe ,(&0&8@H€
+2
+œ	Magic axeNormal ,(&0&8@H€
+ˆ˜ 
+
+@
+å8	Magic axeCatacombs of Kourend ,(&0&8@H€
 ˆ˜ 
 
 $
