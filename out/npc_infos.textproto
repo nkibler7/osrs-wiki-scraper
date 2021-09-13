@@ -3682,8 +3682,19 @@ npcs {
 }
 npcs {
   ids: 6102
+  name: "Bush snake"
+  version: "1"
+  hitpoints: 25
+  att: 25
+  str: 25
+  def: 50
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 6103
   name: "Bush snake"
+  version: "2"
   hitpoints: 25
   att: 25
   str: 25
@@ -5593,8 +5604,23 @@ npcs {
 }
 npcs {
   ids: 2266
+  name: "Dagannoth Prime"
+  version: "Normal"
+  hitpoints: 255
+  att: 255
+  str: 255
+  def: 255
+  mage: 255
+  dstab: 255
+  dslash: 255
+  dcrush: 255
+  dmagic: 255
+  drange: 10
+}
+npcs {
   ids: 6497
   name: "Dagannoth Prime"
+  version: "PvM Arena"
   hitpoints: 255
   att: 255
   str: 255
@@ -5608,8 +5634,23 @@ npcs {
 }
 npcs {
   ids: 2267
+  name: "Dagannoth Rex"
+  version: "Normal"
+  hitpoints: 255
+  att: 255
+  str: 255
+  def: 255
+  range: 255
+  dstab: 255
+  dslash: 255
+  dcrush: 255
+  dmagic: 10
+  drange: 255
+}
+npcs {
   ids: 6498
   name: "Dagannoth Rex"
+  version: "PvM Arena"
   hitpoints: 255
   att: 255
   str: 255
@@ -5633,8 +5674,24 @@ npcs {
 }
 npcs {
   ids: 2265
+  name: "Dagannoth Supreme"
+  version: "Normal"
+  hitpoints: 255
+  att: 255
+  str: 255
+  def: 128
+  mage: 255
+  range: 255
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+  dmagic: 255
+  drange: 550
+}
+npcs {
   ids: 6496
   name: "Dagannoth Supreme"
+  version: "PvM Arena"
   hitpoints: 255
   att: 255
   str: 255
@@ -5746,6 +5803,21 @@ npcs {
 }
 npcs {
   ids: 4005
+  name: "Dark beast"
+  version: "Normal"
+  hitpoints: 220
+  att: 140
+  str: 160
+  def: 120
+  mage: 160
+  range: 1
+  dstab: 30
+  dslash: 40
+  dcrush: 100
+  dmagic: 90
+  drange: 100
+}
+npcs {
   ids: 7250
   name: "Dark beast"
   hitpoints: 220
@@ -20507,8 +20579,21 @@ npcs {
 }
 npcs {
   ids: 462
+  name: "Small Lizard"
+  version: "Green"
+  hitpoints: 15
+  att: 10
+  str: 10
+  def: 10
+  mage: 1
+  range: 1
+  dslash: 5
+  dcrush: 5
+}
+npcs {
   ids: 463
   name: "Small Lizard"
+  version: "Orange"
   hitpoints: 15
   att: 10
   str: 10
@@ -21790,8 +21875,19 @@ npcs {
 }
 npcs {
   ids: 4763
+  name: "Target"
+  version: "Standing"
+  hitpoints: 1
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 4764
   name: "Target"
+  version: "Fallen"
   hitpoints: 1
   att: 1
   str: 1
@@ -23358,8 +23454,20 @@ npcs {
 }
 npcs {
   ids: 3127
+  name: "TzTok-Jad"
+  version: "Normal"
+  hitpoints: 250
+  att: 640
+  str: 960
+  def: 480
+  mage: 480
+  range: 960
+  amagic: 60
+}
+npcs {
   ids: 6506
   name: "TzTok-Jad"
+  version: "PvM Arena"
   hitpoints: 250
   att: 640
   str: 960

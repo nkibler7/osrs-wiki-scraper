@@ -631,9 +631,12 @@ l
 ¾Bunny1 (08@HPÑÿÿÿÿÿÿÿÿXÖÿÿÿÿÿÿÿÿ€ÖÿÿÿÿÿÿÿÿˆÖÿÿÿÿÿÿÿÿÖÿÿÿÿÿÿÿÿ˜Öÿÿÿÿÿÿÿÿ Öÿÿÿÿÿÿÿÿ
 l
 ¿Bunny2 (08@HPÑÿÿÿÿÿÿÿÿXÖÿÿÿÿÿÿÿÿ€ÖÿÿÿÿÿÿÿÿˆÖÿÿÿÿÿÿÿÿÖÿÿÿÿÿÿÿÿ˜Öÿÿÿÿÿÿÿÿ Öÿÿÿÿÿÿÿÿ
-
-Ö/×/
-Bush snake (082@H
+
+Ö/
+Bush snake1 (082@H
+
+×/
+Bush snake2 (082@H
 3
 ç2Ñ3Callisto ÿ(Ş0ò8¸@H€‡ˆh¯˜„ æ
 *
@@ -981,16 +984,27 @@ X
 ÔÕÖ×ØÙÚÛÜÙ1Ú1Û1Ü1İ1Ş1Dagannoth motherNormal x(N0N8Q@H2€–ˆ––˜2 2
 N
 œ111Ÿ1 1¡1Dagannoth mother (hard)Hard ğ(º0º8Q@Hx€–ˆ––˜2 2
-9
-Úá2Dagannoth Prime ÿ(ÿ0ÿ8ÿ@ÿ€ÿˆÿÿ˜ÿ 
+?
+ÚDagannoth PrimeNormal ÿ(ÿ0ÿ8ÿ@ÿ€ÿˆÿÿ˜ÿ 
 
-7
-Ûâ2Dagannoth Rex ÿ(ÿ0ÿ8ÿHÿ€ÿˆÿÿ˜
+B
+á2Dagannoth Prime	PvM Arena ÿ(ÿ0ÿ8ÿ@ÿ€ÿˆÿÿ˜ÿ 
+
+=
+ÛDagannoth RexNormal ÿ(ÿ0ÿ8ÿHÿ€ÿˆÿÿ˜
+ ÿ
+@
+â2Dagannoth Rex	PvM Arena ÿ(ÿ0ÿ8ÿHÿ€ÿˆÿÿ˜
  ÿ
 !
 ğDagannoth spawn #(20#8@H
-<
-Ùà2Dagannoth Supreme ÿ(ÿ0ÿ8€@ÿHÿ€
+B
+ÙDagannoth SupremeNormal ÿ(ÿ0ÿ8€@ÿHÿ€
+ˆ
+
+˜ÿ ¦
+E
+à2Dagannoth Supreme	PvM Arena ÿ(ÿ0ÿ8€@ÿHÿ€
 ˆ
 
 ˜ÿ ¦
@@ -1008,8 +1022,11 @@ G
 
 €9
 Dark Ankou <(d0F8d@H
-1
-¥Ò8
+7
+¥
+Dark beastNormal Ü(Œ0 8x@ H€ˆ(d˜Z d
+/
+Ò8
 Dark beast Ü(Œ0 8x@ H€ˆ(d˜Z d
 :
 ÀDark energy core (08@H€
@@ -3514,8 +3531,13 @@ V
 (0€œÿÿÿÿÿÿÿÿˆœÿÿÿÿÿÿÿÿœÿÿÿÿÿÿÿÿ˜œÿÿÿÿÿÿÿÿ œÿÿÿÿÿÿÿÿ
 .
 ½%¾%Slug Prince F(20282@H€ˆ˜c c
-&
-ÎÏSmall Lizard (
++
+ÎSmall LizardGreen (
+0
+8
+@Hˆ
+,
+ÏSmall LizardOrange (
 0
 8
 @Hˆ
@@ -3741,8 +3763,10 @@ TanglefootNormal f(a0a8[@H
 “1Tanglefoot (hard)Hard Ì(Â0Â8[@H
 
 ü<Tar Monster È(x0P8F@Hd
-
-›%œ%Target (08@H
+"
+›%TargetStanding (08@H
+ 
+œ%TargetFallen (08@H
 3
 •%Tarik (08@HPX€ˆ˜üÿÿÿÿÿÿÿÿ 
 ,
@@ -4024,8 +4048,10 @@ TzHaar-XilRing x(Œ0d8d@(Hx
 š<	TzKal-ZukNormal °	(Ş0Ø8„@–HXÈ`¦hÂp¦xÈ˜Ş d
 @
 š<	TzKal-ZukEnraged °	(Ş0Ø8„@–HXÈ`¦hÂp¦xÈ˜Ş d
-%
-·ê2	TzTok-Jad ú(€0À8à@àHÀ`<
++
+·	TzTok-JadNormal ú(€0À8à@àHÀ`<
+.
+ê2	TzTok-Jad	PvM Arena ú(€0À8à@àHÀ`<
 
 ¬$Ugthanki -(#0#8#
 
