@@ -6472,6 +6472,10 @@ npcs {
   drange: -42
 }
 npcs {
+  ids: 5258
+  name: "Duke"
+}
+npcs {
   ids: 3607
   ids: 3608
   ids: 3609
@@ -15485,8 +15489,23 @@ npcs {
 }
 npcs {
   ids: 8
+  name: "Nechryael"
+  version: "Normal"
+  hitpoints: 105
+  att: 97
+  str: 97
+  def: 105
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  dcrush: 20
+  drange: 20
+}
+npcs {
   ids: 11
   name: "Nechryael"
+  version: "Slayer task"
   hitpoints: 105
   att: 97
   str: 97
@@ -18282,8 +18301,19 @@ npcs {
 }
 npcs {
   ids: 421
+  name: "Rockslug"
+  version: "Cave"
+  hitpoints: 27
+  att: 22
+  str: 27
+  def: 27
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 422
   name: "Rockslug"
+  version: "Swamp"
   hitpoints: 27
   att: 22
   str: 27

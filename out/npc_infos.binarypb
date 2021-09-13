@@ -1134,6 +1134,9 @@ j
 ®¯Duck (08@HPÑÿÿÿÿÿÿÿÿXÖÿÿÿÿÿÿÿÿ€ÖÿÿÿÿÿÿÿÿˆÖÿÿÿÿÿÿÿÿÖÿÿÿÿÿÿÿÿ˜Öÿÿÿÿÿÿÿÿ Öÿÿÿÿÿÿÿÿ
 l
 ÑDuckling (08@HPÑÿÿÿÿÿÿÿÿXÖÿÿÿÿÿÿÿÿ€ÖÿÿÿÿÿÿÿÿˆÖÿÿÿÿÿÿÿÿÖÿÿÿÿÿÿÿÿ˜Öÿÿÿÿÿÿÿÿ Öÿÿÿÿÿÿÿÿ
+
+
+Š)Duke
 (
 —˜™Dungeon ratSmall (
 0
@@ -2656,8 +2659,10 @@ G
 Â1Nazastarool (hard)Skeleton (hard) ´(–0Œ8:PX€ˆ˜ 
 1
 Ã1Nazastarool (hard)Ghost (hard) °(»0°8P
-'
-	Nechryael i(a0a8i@H€ˆ 
+.
+	NechryaelNormal i(a0a8i@H€ˆ 
+3
+	NechryaelSlayer task i(a0a8i@H€ˆ 
 ,
 ó9
 Nechryarch À(¶0„8Œ@H€ˆ 
@@ -3172,8 +3177,10 @@ Rock Golem	Level 120 x(d0d8d@HK
 Rock Golem	Level 159 ¦(‚0‚8‚@HP
 /
 ¸.Rock lobster –(d0d8d@H€dˆd2˜2 –
-
-¥¦Rockslug (08@H
+ 
+¥RockslugCave (08@H
+!
+¦RockslugSwamp (08@H
 
 Rocnar d(P0P8PPX
 .
