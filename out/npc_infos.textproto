@@ -18638,9 +18638,25 @@ npcs {
   dmagic: 34
 }
 npcs {
-  ids: 1782
   ids: 4192
   name: "Scarab swarm"
+  version: "Normal"
+  hitpoints: 25
+  att: 255
+  str: 5
+  def: 30
+  mage: 1
+  range: 1
+  dstab: 90
+  dslash: 90
+  dcrush: 5
+  dmagic: 90
+  drange: 90
+}
+npcs {
+  ids: 1782
+  name: "Scarab swarm"
+  version: "Pyramid Plunder"
   hitpoints: 25
   att: 255
   str: 5
