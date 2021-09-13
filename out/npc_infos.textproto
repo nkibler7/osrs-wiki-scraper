@@ -4191,8 +4191,24 @@ npcs {
 }
 npcs {
   ids: 2054
+  name: "Chaos Elemental"
+  version: "Normal"
+  hitpoints: 250
+  att: 270
+  str: 270
+  def: 270
+  mage: 270
+  range: 270
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: 70
+  drange: 70
+}
+npcs {
   ids: 6505
   name: "Chaos Elemental"
+  version: "PvM Arena"
   hitpoints: 250
   att: 270
   str: 270
@@ -8562,8 +8578,24 @@ npcs {
 }
 npcs {
   ids: 5779
+  name: "Giant Mole"
+  version: "Normal"
+  hitpoints: 200
+  att: 200
+  str: 200
+  def: 200
+  mage: 200
+  range: 1
+  dstab: 60
+  dslash: 80
+  dcrush: 100
+  dmagic: 80
+  drange: 60
+}
+npcs {
   ids: 6499
   name: "Giant Mole"
+  version: "PvM Arena"
   hitpoints: 200
   att: 200
   str: 200
