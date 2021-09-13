@@ -11445,12 +11445,6 @@ npcs {
   drange: -12
 }
 npcs {
-  ids: 706
-  ids: 707
-  name: "Ice block"
-  hitpoints: 10
-}
-npcs {
   ids: 7584
   name: "Ice demon"
   version: "Normal"
@@ -14404,9 +14398,23 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 3549
   ids: 3550
   name: "Menaphite Thug"
+  version: "After Quest"
+  hitpoints: 60
+  att: 60
+  str: 50
+  def: 20
+  attbns: 4
+  strbns: 9
+  dstab: 9
+  dslash: 8
+  dcrush: 10
+}
+npcs {
+  ids: 3549
+  name: "Menaphite Thug"
+  version: "Before Quest"
   hitpoints: 60
   att: 60
   str: 50
@@ -23382,7 +23390,6 @@ npcs {
 }
 npcs {
   ids: 2992
-  ids: 4421
   name: "Undead cow"
   hitpoints: 8
   att: 1
