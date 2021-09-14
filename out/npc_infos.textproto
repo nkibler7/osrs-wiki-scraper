@@ -6366,7 +6366,7 @@ npcs {
 npcs {
   ids: 3426
   name: "Dire Wolf"
-  version: "Normal"
+  version: "Level 88"
   hitpoints: 85
   att: 75
   str: 75
@@ -6377,7 +6377,7 @@ npcs {
 npcs {
   ids: 9181
   name: "Dire Wolf"
-  version: "Albino"
+  version: "Level 72"
   hitpoints: 74
   att: 60
   str: 61
