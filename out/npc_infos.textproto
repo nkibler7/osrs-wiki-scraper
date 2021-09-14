@@ -5836,6 +5836,7 @@ npcs {
 npcs {
   ids: 7250
   name: "Dark beast"
+  version: "Catacombs of Kourend"
   hitpoints: 220
   att: 140
   str: 160
