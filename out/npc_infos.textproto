@@ -12615,7 +12615,6 @@ npcs {
 }
 npcs {
   ids: 4863
-  ids: 4864
   name: "Jubbly bird"
   hitpoints: 21
 }
