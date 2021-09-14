@@ -6527,8 +6527,26 @@ npcs {
 }
 npcs {
   ids: 1838
+  name: "Duck"
+  version: "Male"
+  hitpoints: 3
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  attbns: -47
+  strbns: -42
+  dstab: -42
+  dslash: -42
+  dcrush: -42
+  dmagic: -42
+  drange: -42
+}
+npcs {
   ids: 1839
   name: "Duck"
+  version: "Female"
   hitpoints: 3
   att: 1
   str: 1
