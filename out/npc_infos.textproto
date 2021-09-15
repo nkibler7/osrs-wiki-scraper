@@ -5820,6 +5820,7 @@ npcs {
 npcs {
   ids: 4005
   name: "Dark beast"
+  version: "Normal"
   hitpoints: 220
   att: 140
   str: 160
