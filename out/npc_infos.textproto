@@ -5820,23 +5820,6 @@ npcs {
 npcs {
   ids: 4005
   name: "Dark beast"
-  version: "Normal"
-  hitpoints: 220
-  att: 140
-  str: 160
-  def: 120
-  mage: 160
-  range: 1
-  dstab: 30
-  dslash: 40
-  dcrush: 100
-  dmagic: 90
-  drange: 100
-}
-npcs {
-  ids: 7250
-  name: "Dark beast"
-  version: "Catacombs of Kourend"
   hitpoints: 220
   att: 140
   str: 160
