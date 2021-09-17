@@ -4075,8 +4075,22 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 493
+  name: "Whirlpool"
+  version: "Whirlpool"
+  hitpoints: 125
+  att: 1
+  str: 1
+  def: 150
+  mage: 120
+  range: 1
+  dmagic: -63
+  drange: 100
+}
+npcs {
   ids: 492
   name: "Cave kraken"
+  version: "Cave kraken"
   hitpoints: 125
   att: 1
   str: 1
