@@ -6993,7 +6993,6 @@ npcs {
   hitpoints: 62
 }
 npcs {
-  ids: 493
   ids: 5534
   name: "Whirlpool"
   version: "Whirlpool"
