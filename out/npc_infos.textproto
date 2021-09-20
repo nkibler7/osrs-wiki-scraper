@@ -20609,7 +20609,6 @@ npcs {
 }
 npcs {
   ids: 4797
-  ids: 4798
   name: "Slug Prince"
   hitpoints: 70
   att: 50
