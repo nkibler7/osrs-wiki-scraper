@@ -22167,7 +22167,6 @@ npcs {
 }
 npcs {
   ids: 3476
-  ids: 3478
   name: "The Illusive"
   hitpoints: 140
 }
