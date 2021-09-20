@@ -3703,8 +3703,24 @@ npcs {
 }
 npcs {
   ids: 6503
+  name: "Callisto"
+  version: "Normal"
+  hitpoints: 255
+  att: 350
+  str: 370
+  def: 440
+  mage: 1
+  range: 1
+  dstab: 135
+  dslash: 104
+  dcrush: 175
+  dmagic: 900
+  drange: 230
+}
+npcs {
   ids: 6609
   name: "Callisto"
+  version: "PvM Arena"
   hitpoints: 255
   att: 350
   str: 370
@@ -4548,8 +4564,27 @@ npcs {
 }
 npcs {
   ids: 2205
+  name: "Commander Zilyana"
+  version: "Normal"
+  hitpoints: 255
+  att: 280
+  str: 196
+  def: 300
+  mage: 300
+  range: 250
+  attbns: 195
+  strbns: 20
+  amagic: 200
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 100
+  drange: 100
+}
+npcs {
   ids: 6493
   name: "Commander Zilyana"
+  version: "PvM Arena"
   hitpoints: 255
   att: 280
   str: 196
@@ -8185,8 +8220,28 @@ npcs {
 }
 npcs {
   ids: 2215
+  name: "General Graardor"
+  version: "Normal"
+  hitpoints: 255
+  att: 280
+  str: 350
+  def: 250
+  mage: 80
+  range: 350
+  attbns: 120
+  strbns: 43
+  arange: 100
+  rngbns: 40
+  dstab: 90
+  dslash: 90
+  dcrush: 90
+  dmagic: 298
+  drange: 90
+}
+npcs {
   ids: 6494
   name: "General Graardor"
+  version: "PvM Arena"
   hitpoints: 255
   att: 280
   str: 350
@@ -12772,8 +12827,26 @@ npcs {
 }
 npcs {
   ids: 3129
+  name: "K\'ril Tsutsaroth"
+  version: "Normal"
+  hitpoints: 255
+  att: 340
+  str: 300
+  def: 270
+  mage: 200
+  range: 1
+  attbns: 160
+  strbns: 31
+  dstab: 80
+  dslash: 80
+  dcrush: 80
+  dmagic: 130
+  drange: 80
+}
+npcs {
   ids: 6495
   name: "K\'ril Tsutsaroth"
+  version: "PvM Arena"
   hitpoints: 255
   att: 340
   str: 300
@@ -13495,8 +13568,28 @@ npcs {
 }
 npcs {
   ids: 3162
+  name: "Kree\'arra"
+  version: "Normal"
+  hitpoints: 255
+  att: 300
+  str: 200
+  def: 260
+  mage: 200
+  range: 380
+  attbns: 136
+  strbns: 12
+  arange: 120
+  rngbns: 50
+  dstab: 180
+  dslash: 180
+  dcrush: 180
+  dmagic: 200
+  drange: 200
+}
+npcs {
   ids: 6492
   name: "Kree\'arra"
+  version: "PvM Arena"
   hitpoints: 255
   att: 300
   str: 200
@@ -23530,7 +23623,6 @@ npcs {
 }
 npcs {
   ids: 4500
-  ids: 4505
   name: "Ulfric"
   hitpoints: 60
   att: 100
@@ -24222,8 +24314,24 @@ npcs {
 }
 npcs {
   ids: 6504
+  name: "Venenatis"
+  version: "Normal"
+  hitpoints: 255
+  att: 470
+  str: 490
+  def: 490
+  mage: 150
+  range: 1
+  dstab: 260
+  dslash: 260
+  dcrush: 260
+  dmagic: 850
+  drange: 100
+}
+npcs {
   ids: 6610
   name: "Venenatis"
+  version: "PvM Arena"
   hitpoints: 255
   att: 470
   str: 490
@@ -24487,8 +24595,19 @@ npcs {
 }
 npcs {
   ids: 1267
+  name: "Vulture"
+  version: "Landed"
+  hitpoints: 10
+  att: 40
+  str: 40
+  def: 10
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 1268
   name: "Vulture"
+  version: "Flying"
   hitpoints: 10
   att: 40
   str: 40
