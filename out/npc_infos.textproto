@@ -3604,7 +3604,6 @@ npcs {
 }
 npcs {
   ids: 2918
-  ids: 8081
   name: "Brutal green dragon"
   hitpoints: 175
   att: 268
@@ -24854,8 +24853,22 @@ npcs {
 }
 npcs {
   ids: 2916
+  name: "Waterfiend"
+  version: "Normal"
+  hitpoints: 128
+  def: 128
+  mage: 105
+  range: 105
+  dstab: 100
+  dslash: 100
+  dcrush: 10
+  dmagic: 100
+  drange: 100
+}
+npcs {
   ids: 2917
   name: "Waterfiend"
+  version: "Slayer task"
   hitpoints: 128
   def: 128
   mage: 105
