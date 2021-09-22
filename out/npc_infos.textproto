@@ -4965,9 +4965,44 @@ npcs {
 }
 npcs {
   ids: 2792
+  name: "Cow calf"
+  version: "1"
+  hitpoints: 6
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  attbns: -20
+  strbns: -20
+  dstab: -26
+  dslash: -26
+  dcrush: -26
+  dmagic: -26
+  drange: -26
+}
+npcs {
   ids: 2794
+  name: "Cow calf"
+  version: "2"
+  hitpoints: 6
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  attbns: -20
+  strbns: -20
+  dstab: -26
+  dslash: -26
+  dcrush: -26
+  dmagic: -26
+  drange: -26
+}
+npcs {
   ids: 2801
   name: "Cow calf"
+  version: "Farmland"
   hitpoints: 6
   att: 1
   str: 1
