@@ -26038,6 +26038,18 @@ npcs {
   drange: 11
 }
 npcs {
+  ids: 64
+  ids: 65
+  ids: 66
+  ids: 67
+  ids: 68
+  name: "Zombie"
+  version: "Level 25"
+  mage: 1
+  range: 1
+  attbns: 5
+}
+npcs {
   ids: 2501
   ids: 2502
   ids: 2503
@@ -26064,6 +26076,7 @@ npcs {
   mage: 1
   range: 1
   attbns: 5
+  dcrush: 22
 }
 npcs {
   ids: 2507
@@ -26081,7 +26094,6 @@ npcs {
   strbns: 7
   dstab: 19
   dslash: 18
-  dcrush: 22
   dmagic: 20
   drange: 21
 }
