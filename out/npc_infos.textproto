@@ -22543,9 +22543,7 @@ npcs {
   drange: 900
 }
 npcs {
-  ids: 1448
   ids: 3252
-  ids: 3253
   name: "Thief"
   version: "Standard"
   hitpoints: 17
@@ -22556,12 +22554,63 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 3253
+  name: "Thief"
+  version: "Port Sarim"
+  hitpoints: 17
+  att: 14
+  str: 13
+  def: 12
+  range: 2
+}
+npcs {
+  ids: 1448
+  name: "Thief"
+  version: "Port Sarim Jail"
+  hitpoints: 17
+  att: 14
+  str: 13
+  def: 12
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 5217
+  name: "Thief"
+  version: "Varrock Gang, 1"
+  hitpoints: 17
+  att: 14
+  str: 13
+  def: 12
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 5218
+  name: "Thief"
+  version: "Varrock Gang, 2"
+  hitpoints: 17
+  att: 14
+  str: 13
+  def: 12
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 5219
+  name: "Thief"
+  version: "Varrock Gang, 3"
+  hitpoints: 17
+  att: 14
+  str: 13
+  def: 12
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 5220
   name: "Thief"
-  version: "Varrock Gang"
+  version: "Varrock Gang, 4"
   hitpoints: 17
   att: 14
   str: 13
@@ -22577,7 +22626,8 @@ npcs {
   att: 14
   str: 10
   def: 9
-  range: 2
+  mage: 1
+  range: 1
   attbns: 6
   strbns: 7
   dstab: 8
@@ -22589,7 +22639,43 @@ npcs {
 npcs {
   ids: 7914
   name: "Thief"
-  version: "The Warrens"
+  version: "The Warrens, 1"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 7
+  dstab: 24
+  dslash: 14
+  dcrush: 19
+  dmagic: 4
+  drange: 16
+}
+npcs {
+  ids: 7915
+  name: "Thief"
+  version: "The Warrens, 2"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 7
+  dstab: 24
+  dslash: 14
+  dcrush: 19
+  dmagic: 4
+  drange: 16
+}
+npcs {
+  ids: 7916
+  name: "Thief"
+  version: "The Warrens, 3"
   hitpoints: 22
   att: 19
   str: 18
