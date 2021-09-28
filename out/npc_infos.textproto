@@ -19211,11 +19211,6 @@ npcs {
   drange: -42
 }
 npcs {
-  ids: 5442
-  name: "Security Guard"
-  hitpoints: 250
-}
-npcs {
   ids: 11073
   name: "Sergeant"
   hitpoints: 86
