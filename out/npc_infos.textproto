@@ -7106,6 +7106,10 @@ npcs {
   drange: 2
 }
 npcs {
+  ids: 11227
+  name: "Enraged Boar"
+}
+npcs {
   ids: 7234
   name: "Ent"
   hitpoints: 75
