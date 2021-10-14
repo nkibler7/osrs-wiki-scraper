@@ -15511,9 +15511,7 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 7561
   ids: 7562
-  ids: 7563
   name: "Muttadile"
   version: "Small"
   hitpoints: 250
@@ -15533,7 +15531,6 @@ npcs {
 }
 npcs {
   ids: 7561
-  ids: 7562
   ids: 7563
   name: "Muttadile"
   version: "Large"
@@ -15553,9 +15550,7 @@ npcs {
   dmagic: 75
 }
 npcs {
-  ids: 7561
   ids: 7562
-  ids: 7563
   name: "Muttadile"
   version: "Small (Challenge Mode)"
   hitpoints: 375
@@ -15575,7 +15570,6 @@ npcs {
 }
 npcs {
   ids: 7561
-  ids: 7562
   ids: 7563
   name: "Muttadile"
   version: "Large (Challenge Mode)"
@@ -24592,21 +24586,6 @@ npcs {
   def: 88
   mage: 88
   range: 150
-  dmagic: 70
-  drange: 60
-}
-npcs {
-  ids: 7530
-  ids: 7531
-  ids: 7532
-  name: "Vespula"
-  version: "Challenge Mode"
-  hitpoints: 288
-  att: 225
-  str: 225
-  def: 132
-  mage: 132
-  range: 225
   dmagic: 70
   drange: 60
 }
