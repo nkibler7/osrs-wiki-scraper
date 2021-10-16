@@ -18129,7 +18129,6 @@ npcs {
 }
 npcs {
   ids: 3517
-  ids: 4321
   name: "Renegade knight"
   hitpoints: 48
   att: 28
