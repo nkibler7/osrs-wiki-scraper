@@ -1077,6 +1077,10 @@ npcs {
   dmagic: 3
 }
 npcs {
+  ids: 7750
+  name: "Armoured Foe"
+}
+npcs {
   ids: 643
   ids: 642
   name: "Arrg"
@@ -25137,6 +25141,10 @@ npcs {
   dcrush: 21
   dmagic: -6
   drange: 20
+}
+npcs {
+  ids: 7751
+  name: "Well-armed Foe"
 }
 npcs {
   ids: 2593
