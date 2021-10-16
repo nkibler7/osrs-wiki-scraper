@@ -2653,7 +2653,6 @@ npcs {
 }
 npcs {
   ids: 240
-  ids: 1432
   ids: 2048
   ids: 2049
   ids: 2050
@@ -2663,7 +2662,6 @@ npcs {
   ids: 5875
   ids: 5876
   ids: 5877
-  ids: 6357
   name: "Black demon"
   version: "Level 172"
   hitpoints: 157
@@ -2707,6 +2705,18 @@ npcs {
   hitpoints: 200
   att: 145
   str: 165
+  def: 152
+  mage: 1
+  range: 1
+  dmagic: -10
+}
+npcs {
+  ids: 1432
+  name: "Black demon"
+  version: "Normal"
+  hitpoints: 157
+  att: 145
+  str: 148
   def: 152
   mage: 1
   range: 1
