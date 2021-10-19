@@ -13223,10 +13223,28 @@ npcs {
 }
 npcs {
   ids: 4969
-  ids: 4970
   ids: 5964
+  name: "Khazard trooper"
+  version: "Mace"
+  hitpoints: 22
+  att: 17
+  str: 18
+  def: 12
+  mage: 1
+  range: 1
+  attbns: 8
+  strbns: 10
+  dstab: 33
+  dslash: 34
+  dcrush: 29
+  dmagic: -7
+  drange: 33
+}
+npcs {
+  ids: 4970
   ids: 5965
   name: "Khazard trooper"
+  version: "Spear"
   hitpoints: 22
   att: 17
   str: 18
