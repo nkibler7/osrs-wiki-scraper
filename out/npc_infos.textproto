@@ -15354,6 +15354,20 @@ npcs {
   dcrush: 9
 }
 npcs {
+  ids: 9017
+  name: "Mourner"
+  hitpoints: 105
+  att: 95
+  str: 95
+  def: 80
+  mage: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+}
+npcs {
   ids: 9008
   name: "Mourner"
   hitpoints: 19
@@ -15367,44 +15381,19 @@ npcs {
   dcrush: 4
 }
 npcs {
-  ids: 1115
+  ids: 8844
   name: "Mourner"
-  hitpoints: 25
-  att: 20
-  str: 20
-  def: 20
-  mage: 1
-  range: 1
-  dstab: 3
-  dslash: 2
-  dcrush: 4
+  version: "Level 24"
 }
 npcs {
-  ids: 1148
+  ids: 8845
   name: "Mourner"
-  hitpoints: 25
-  att: 20
-  str: 20
-  def: 20
-  mage: 1
-  range: 1
-  dstab: 2
-  dslash: 1
-  dcrush: 3
+  version: "Level 51"
 }
 npcs {
-  ids: 9017
+  ids: 8846
   name: "Mourner"
-  hitpoints: 105
-  att: 95
-  str: 95
-  def: 80
-  mage: 1
-  dstab: 50
-  dslash: 70
-  dcrush: 70
-  dmagic: 60
-  drange: 50
+  version: "Level 106"
 }
 npcs {
   ids: 5127
