@@ -12015,8 +12015,24 @@ npcs {
 npcs {
   ids: 2841
   ids: 2842
+  name: "Ice warrior"
+  version: "Normal"
+  hitpoints: 59
+  att: 47
+  str: 47
+  def: 47
+  mage: 1
+  range: 1
+  dstab: 30
+  dslash: 40
+  dcrush: 20
+  dmagic: 10
+  drange: 30
+}
+npcs {
   ids: 2851
   name: "Ice warrior"
+  version: "Ice Queen"
   hitpoints: 59
   att: 47
   str: 47
