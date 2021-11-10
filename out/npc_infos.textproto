@@ -11466,7 +11466,7 @@ npcs {
 npcs {
   ids: 10376
   name: "Hill Giant"
-  version: "Tank top"
+  version: "Singlet"
   hitpoints: 35
   att: 18
   str: 22
