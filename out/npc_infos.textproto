@@ -19698,11 +19698,6 @@ npcs {
   dcrush: 300
 }
 npcs {
-  ids: 4682
-  name: "Sir Leye"
-  hitpoints: 20
-}
-npcs {
   ids: 4342
   ids: 4357
   name: "Sir Lucan"
