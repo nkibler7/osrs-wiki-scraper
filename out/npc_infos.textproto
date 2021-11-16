@@ -12032,7 +12032,7 @@ npcs {
 npcs {
   ids: 2851
   name: "Ice warrior"
-  version: "Ice Queen"
+  version: "Ice Queen\'s Lair"
   hitpoints: 59
   att: 47
   str: 47
