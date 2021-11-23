@@ -2271,23 +2271,6 @@ npcs {
   drange: 10
 }
 npcs {
-  ids: 2263
-  name: "Bardur"
-  hitpoints: 99
-  att: 99
-  str: 40
-  def: 99
-  mage: 1
-  range: 1
-  attbns: 100
-  strbns: 100
-  dstab: 150
-  dslash: 150
-  dcrush: 150
-  dmagic: 150
-  drange: 150
-}
-npcs {
   ids: 2648
   name: "Bark Blamish Snail"
   hitpoints: 22
