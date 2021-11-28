@@ -16096,10 +16096,10 @@ npcs {
   mbns: 500
 }
 npcs {
-  ids: 10807
-  ids: 10808
-  ids: 10809
-  ids: 10810
+  ids: 10786
+  ids: 10787
+  ids: 10788
+  ids: 10789
   name: "Nylocas Vasilias"
   version: "Entry"
   hitpoints: 1800
@@ -16132,10 +16132,10 @@ npcs {
   rngbns: 60
 }
 npcs {
-  ids: 10786
-  ids: 10787
-  ids: 10788
-  ids: 10789
+  ids: 10807
+  ids: 10808
+  ids: 10809
+  ids: 10810
   name: "Nylocas Vasilias"
   version: "Hard"
   hitpoints: 2500
@@ -21057,8 +21057,8 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 10867
-  ids: 10868
+  ids: 10864
+  ids: 10865
   name: "Sotetseg"
   version: "Entry"
   hitpoints: 2800
@@ -21101,8 +21101,8 @@ npcs {
   drange: 150
 }
 npcs {
-  ids: 10864
-  ids: 10865
+  ids: 10867
+  ids: 10868
   name: "Sotetseg"
   version: "Hard"
   hitpoints: 4000
@@ -25800,8 +25800,10 @@ npcs {
   drange: 30
 }
 npcs {
-  ids: 10770
-  ids: 10773
+  ids: 10766
+  ids: 10767
+  ids: 10768
+  ids: 10769
   name: "Xarpus"
   hitpoints: 4300
   att: 1
@@ -25824,10 +25826,8 @@ npcs {
   drange: 160
 }
 npcs {
-  ids: 10766
-  ids: 10767
-  ids: 10768
-  ids: 10769
+  ids: 10770
+  ids: 10773
   name: "Xarpus"
   hitpoints: 6000
   att: 1
