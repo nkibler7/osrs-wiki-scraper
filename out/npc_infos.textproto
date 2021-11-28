@@ -16096,9 +16096,10 @@ npcs {
   mbns: 500
 }
 npcs {
-  ids: 8355
-  ids: 8356
-  ids: 8357
+  ids: 10807
+  ids: 10808
+  ids: 10809
+  ids: 10810
   name: "Nylocas Vasilias"
   version: "Entry"
   hitpoints: 1800
@@ -16113,6 +16114,7 @@ npcs {
   rngbns: 40
 }
 npcs {
+  ids: 8354
   ids: 8355
   ids: 8356
   ids: 8357
@@ -16130,9 +16132,10 @@ npcs {
   rngbns: 60
 }
 npcs {
-  ids: 8355
-  ids: 8356
-  ids: 8357
+  ids: 10786
+  ids: 10787
+  ids: 10788
+  ids: 10789
   name: "Nylocas Vasilias"
   version: "Hard"
   hitpoints: 2500
