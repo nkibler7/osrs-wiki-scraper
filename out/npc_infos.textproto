@@ -4826,7 +4826,7 @@ npcs {
   ids: 6332
   name: "Count Draynor (hard)"
   version: "Hard"
-  hitpoints: 210
+  hitpoints: 223
   att: 198
   str: 165
   def: 30
@@ -11918,7 +11918,7 @@ npcs {
   ids: 6294
   name: "Ice Troll King (hard)"
   version: "Hard"
-  hitpoints: 255
+  hitpoints: 240
   att: 200
   str: 200
   def: 80
