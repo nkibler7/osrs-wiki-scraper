@@ -3107,6 +3107,8 @@ npcs {
 }
 npcs {
   ids: 8367
+  ids: 10821
+  ids: 10829
   name: "Blood spawn"
   hitpoints: 120
   att: 1
@@ -16006,6 +16008,10 @@ npcs {
 npcs {
   ids: 8366
   ids: 8385
+  ids: 10820
+  ids: 10828
+  ids: 10845
+  ids: 10862
   name: "Nylocas Matomenos"
   hitpoints: 200
   att: 100
@@ -16894,7 +16900,7 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 8359
+  ids: 10813
   name: "Pestilent Bloat"
   version: "Entry"
   hitpoints: 1600
@@ -16934,7 +16940,7 @@ npcs {
   drange: 800
 }
 npcs {
-  ids: 8359
+  ids: 10812
   name: "Pestilent Bloat"
   version: "Hard"
   hitpoints: 2400
@@ -22400,7 +22406,7 @@ npcs {
   drange: 20
 }
 npcs {
-  ids: 8360
+  ids: 10814
   name: "The Maiden of Sugadinti"
   version: "Entry Mode"
   hitpoints: 2500
@@ -22425,7 +22431,7 @@ npcs {
   amagic: 300
 }
 npcs {
-  ids: 8360
+  ids: 10822
   name: "The Maiden of Sugadinti"
   version: "Hard Mode"
   hitpoints: 3500
