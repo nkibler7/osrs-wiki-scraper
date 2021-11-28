@@ -22409,7 +22409,7 @@ npcs {
   drange: 20
 }
 npcs {
-  ids: 10814
+  ids: 10822
   name: "The Maiden of Sugadinti"
   version: "Entry Mode"
   hitpoints: 2500
@@ -22434,7 +22434,7 @@ npcs {
   amagic: 300
 }
 npcs {
-  ids: 10822
+  ids: 10814
   name: "The Maiden of Sugadinti"
   version: "Hard Mode"
   hitpoints: 3500
