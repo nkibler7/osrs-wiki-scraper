@@ -16903,7 +16903,7 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 10813
+  ids: 10812
   name: "Pestilent Bloat"
   version: "Entry"
   hitpoints: 1600
@@ -16943,7 +16943,7 @@ npcs {
   drange: 800
 }
 npcs {
-  ids: 10812
+  ids: 10813
   name: "Pestilent Bloat"
   version: "Hard"
   hitpoints: 2400
@@ -22409,7 +22409,7 @@ npcs {
   drange: 20
 }
 npcs {
-  ids: 10822
+  ids: 10814
   name: "The Maiden of Sugadinti"
   version: "Entry Mode"
   hitpoints: 2500
@@ -22434,7 +22434,7 @@ npcs {
   amagic: 300
 }
 npcs {
-  ids: 10814
+  ids: 10822
   name: "The Maiden of Sugadinti"
   version: "Hard Mode"
   hitpoints: 3500
