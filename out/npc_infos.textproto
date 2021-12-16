@@ -5199,6 +5199,9 @@ npcs {
   drange: 40
 }
 npcs {
+  name: "Cruor"
+}
+npcs {
   ids: 7388
   name: "Crushing hand"
   hitpoints: 55
@@ -7970,6 +7973,9 @@ npcs {
   range: 1
 }
 npcs {
+  name: "Fumus"
+}
+npcs {
   ids: 4483
   ids: 4484
   ids: 4485
@@ -9009,6 +9015,9 @@ npcs {
   dcrush: 10
   dmagic: 10
   drange: 10
+}
+npcs {
+  name: "Glacies"
 }
 npcs {
   ids: 5129
@@ -15863,6 +15872,10 @@ npcs {
   range: 1
 }
 npcs {
+  name: "Nex"
+  hitpoints: 7500
+}
+npcs {
   ids: 3962
   ids: 6379
   name: "Nezikchened"
@@ -21516,6 +21529,13 @@ npcs {
   drange: 13
 }
 npcs {
+  name: "Spiritual mage"
+  version: "Zarosian"
+  att: 1
+  str: 1
+  range: 1
+}
+npcs {
   ids: 3160
   name: "Spiritual ranger"
   version: "Zamorak"
@@ -23793,6 +23813,9 @@ npcs {
   def: 100
   mage: 1
   range: 1
+}
+npcs {
+  name: "Umbra"
 }
 npcs {
   ids: 2993
