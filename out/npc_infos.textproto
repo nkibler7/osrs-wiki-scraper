@@ -3106,6 +3106,11 @@ npcs {
   drange: 50
 }
 npcs {
+  ids: 11293
+  ids: 11294
+  name: "Blood Reaver"
+}
+npcs {
   ids: 8367
   ids: 10821
   ids: 10829
