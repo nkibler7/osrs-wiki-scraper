@@ -5199,6 +5199,7 @@ npcs {
   drange: 40
 }
 npcs {
+  ids: 11285
   name: "Cruor"
 }
 npcs {
@@ -7973,6 +7974,7 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 11283
   name: "Fumus"
 }
 npcs {
@@ -9017,6 +9019,7 @@ npcs {
   drange: 10
 }
 npcs {
+  ids: 11286
   name: "Glacies"
 }
 npcs {
