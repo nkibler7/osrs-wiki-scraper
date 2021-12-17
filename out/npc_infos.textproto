@@ -15872,6 +15872,11 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 11278
+  ids: 11279
+  ids: 11280
+  ids: 11281
+  ids: 11282
   name: "Nex"
 }
 npcs {
