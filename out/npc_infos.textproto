@@ -15873,7 +15873,6 @@ npcs {
 }
 npcs {
   name: "Nex"
-  hitpoints: 7500
 }
 npcs {
   ids: 3962
