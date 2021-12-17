@@ -23834,6 +23834,7 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 11284
   name: "Umbra"
 }
 npcs {
