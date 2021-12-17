@@ -21534,7 +21534,7 @@ npcs {
 }
 npcs {
   name: "Spiritual mage"
-  version: "Zarosian"
+  version: "Zaros"
   att: 1
   str: 1
   range: 1
@@ -21599,6 +21599,13 @@ npcs {
   drange: 41
 }
 npcs {
+  name: "Spiritual ranger"
+  version: "Zaros"
+  att: 1
+  str: 1
+  mage: 1
+}
+npcs {
   ids: 3159
   name: "Spiritual warrior"
   version: "Zamorak"
@@ -21660,6 +21667,11 @@ npcs {
   dcrush: 13
   dmagic: 35
   drange: 35
+}
+npcs {
+  name: "Spiritual warrior"
+  version: "Zaros"
+  mage: 1
 }
 npcs {
   ids: 7794
