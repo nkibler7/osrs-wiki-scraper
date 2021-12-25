@@ -20068,10 +20068,53 @@ npcs {
 }
 npcs {
   ids: 1685
+  name: "Skeleton"
+  version: "Unarmed"
+  hitpoints: 51
+  att: 72
+  str: 72
+  def: 72
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: -5
+  drange: 5
+}
+npcs {
   ids: 1686
+  name: "Skeleton"
+  version: "Unarmed round shield"
+  hitpoints: 51
+  att: 72
+  str: 72
+  def: 72
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: -5
+  drange: 5
+}
+npcs {
   ids: 1687
+  name: "Skeleton"
+  version: "Square shield"
+  hitpoints: 51
+  att: 72
+  str: 72
+  def: 72
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: -5
+  drange: 5
+}
+npcs {
   ids: 1688
   name: "Skeleton"
+  version: "Armed round shield"
   hitpoints: 51
   att: 72
   str: 72
