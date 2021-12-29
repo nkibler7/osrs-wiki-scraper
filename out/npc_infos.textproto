@@ -21579,6 +21579,7 @@ npcs {
   drange: 13
 }
 npcs {
+  ids: 11292
   name: "Spiritual Mage"
   version: "Zaros"
   att: 1
@@ -21645,6 +21646,7 @@ npcs {
   drange: 41
 }
 npcs {
+  ids: 11291
   name: "Spiritual Ranger"
   version: "Zaros"
   att: 1
@@ -21715,6 +21717,7 @@ npcs {
   drange: 35
 }
 npcs {
+  ids: 11290
   name: "Spiritual Warrior"
   version: "Zaros"
   mage: 1
