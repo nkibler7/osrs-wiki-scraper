@@ -3107,9 +3107,25 @@ npcs {
 }
 npcs {
   ids: 11293
+  name: "Blood Reaver"
+  version: "Ancient Prison"
+  hitpoints: 125
+  att: 1
+  str: 1
+  def: 100
+  mage: 190
+  range: 1
+  dstab: 20
+  dslash: 80
+  dcrush: 120
+  dmagic: 300
+  drange: 55
+}
+npcs {
   ids: 11294
   name: "Blood Reaver"
-  hitpoints: 125
+  version: "Nex\'s chamber"
+  hitpoints: 150
   att: 1
   str: 1
   def: 100
@@ -5212,6 +5228,18 @@ npcs {
 npcs {
   ids: 11285
   name: "Cruor"
+  hitpoints: 500
+  att: 1
+  str: 1
+  def: 200
+  mage: 200
+  range: 1
+  mbns: 25
+  dstab: 100
+  dslash: 25
+  dcrush: 100
+  dmagic: 150
+  drange: 50
 }
 npcs {
   ids: 7388
@@ -7987,6 +8015,18 @@ npcs {
 npcs {
   ids: 11283
   name: "Fumus"
+  hitpoints: 500
+  att: 1
+  str: 1
+  def: 200
+  mage: 200
+  range: 1
+  mbns: 25
+  dstab: 25
+  dslash: 100
+  dcrush: 100
+  dmagic: 150
+  drange: 50
 }
 npcs {
   ids: 4483
@@ -9032,6 +9072,18 @@ npcs {
 npcs {
   ids: 11286
   name: "Glacies"
+  hitpoints: 500
+  att: 1
+  str: 1
+  def: 200
+  mage: 200
+  range: 1
+  mbns: 25
+  dstab: 100
+  dslash: 100
+  dcrush: 25
+  dmagic: 150
+  drange: 50
 }
 npcs {
   ids: 5129
@@ -15892,6 +15944,7 @@ npcs {
   ids: 11281
   ids: 11282
   name: "Nex"
+  hitpoints: 3400
 }
 npcs {
   ids: 3962
@@ -23918,6 +23971,18 @@ npcs {
 npcs {
   ids: 11284
   name: "Umbra"
+  hitpoints: 500
+  att: 1
+  str: 1
+  def: 200
+  mage: 200
+  range: 1
+  mbns: 25
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 150
+  drange: 25
 }
 npcs {
   ids: 2993
