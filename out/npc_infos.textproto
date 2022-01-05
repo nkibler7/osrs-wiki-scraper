@@ -3109,6 +3109,17 @@ npcs {
   ids: 11293
   ids: 11294
   name: "Blood Reaver"
+  hitpoints: 125
+  att: 1
+  str: 1
+  def: 100
+  mage: 190
+  range: 1
+  dstab: 20
+  dslash: 80
+  dcrush: 120
+  dmagic: 300
+  drange: 55
 }
 npcs {
   ids: 8367
@@ -21582,9 +21593,18 @@ npcs {
   ids: 11292
   name: "Spiritual Mage"
   version: "Zaros"
+  hitpoints: 125
   att: 1
   str: 1
+  def: 100
+  mage: 200
   range: 1
+  amagic: 52
+  mbns: 52
+  dstab: 420
+  dslash: 400
+  dcrush: 420
+  dmagic: 200
 }
 npcs {
   ids: 3160
@@ -21649,9 +21669,16 @@ npcs {
   ids: 11291
   name: "Spiritual Ranger"
   version: "Zaros"
+  hitpoints: 107
   att: 1
   str: 1
-  mage: 1
+  def: 100
+  mage: 100
+  range: 190
+  dstab: 20
+  dcrush: 20
+  dmagic: 300
+  drange: 50
 }
 npcs {
   ids: 3159
@@ -21720,7 +21747,16 @@ npcs {
   ids: 11290
   name: "Spiritual Warrior"
   version: "Zaros"
-  mage: 1
+  hitpoints: 100
+  att: 190
+  str: 190
+  def: 100
+  mage: 50
+  range: 1
+  dstab: 100
+  dslash: 100
+  dcrush: 80
+  drange: 250
 }
 npcs {
   ids: 7794
