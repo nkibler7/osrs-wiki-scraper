@@ -20450,8 +20450,8 @@ npcs {
   att: 10
   str: 11
   def: 7
-  amagic: 1
-  arange: 1
+  mage: 1
+  range: 1
   dstab: 5
   dslash: 5
   dcrush: -5
