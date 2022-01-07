@@ -22902,7 +22902,7 @@ npcs {
   name: "Thief"
   version: "The Warrens, 2"
   hitpoints: 22
-  att: 19
+  att: 99
   str: 18
   def: 14
   mage: 1
