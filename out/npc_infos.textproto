@@ -4648,13 +4648,23 @@ npcs {
   drange: 2
 }
 npcs {
-  ids: 1067
   ids: 1068
   ids: 1069
   ids: 1070
   ids: 1071
   name: "Confusion beast"
-  version: "Level 43"
+  version: "Level 43 (crush)"
+  hitpoints: 28
+  att: 42
+  str: 41
+  def: 40
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 1067
+  name: "Confusion beast"
+  version: "Level 43 (stab)"
   hitpoints: 28
   att: 42
   str: 41
