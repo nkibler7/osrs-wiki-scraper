@@ -21759,7 +21759,7 @@ npcs {
   ids: 11291
   name: "Spiritual Ranger"
   version: "Zaros"
-  hitpoints: 107
+  hitpoints: 110
   att: 1
   str: 1
   def: 100
