@@ -15970,6 +15970,22 @@ npcs {
   ids: 11282
   name: "Nex"
   hitpoints: 3400
+  att: 315
+  str: 200
+  def: 260
+  mage: 230
+  range: 350
+  attbns: 200
+  strbns: 20
+  amagic: 100
+  mbns: 22
+  arange: 150
+  rngbns: 5
+  dstab: 40
+  dslash: 140
+  dcrush: 60
+  dmagic: 300
+  drange: 190
 }
 npcs {
   ids: 3962
