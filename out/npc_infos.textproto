@@ -6764,7 +6764,17 @@ npcs {
 npcs {
   ids: 423
   name: "Dust devil"
-  version: "Level 93"
+  version: "Level 93 (normal)"
+  hitpoints: 105
+  att: 105
+  str: 70
+  def: 40
+  mage: 1
+  range: 1
+}
+npcs {
+  name: "Dust devil"
+  version: "Level 93 (Wilderness)"
   hitpoints: 105
   att: 105
   str: 70
