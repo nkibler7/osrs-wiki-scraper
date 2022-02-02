@@ -18491,6 +18491,9 @@ npcs {
   drange: 190
 }
 npcs {
+  name: "Revenant Maledictus"
+}
+npcs {
   ids: 7937
   name: "Revenant ork"
   hitpoints: 105
