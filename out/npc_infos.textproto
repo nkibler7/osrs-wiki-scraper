@@ -18491,7 +18491,25 @@ npcs {
   drange: 190
 }
 npcs {
-  name: "Revenant Maledictus"
+  ids: 11246
+  name: "Revenant maledictus"
+  hitpoints: 1250
+  att: 106
+  str: 126
+  def: 90
+  mage: 130
+  range: 130
+  attbns: 72
+  strbns: 78
+  amagic: 60
+  mbns: 60
+  arange: 265
+  rngbns: 60
+  dstab: 201
+  dslash: 206
+  dcrush: 188
+  dmagic: 101
+  drange: 231
 }
 npcs {
   ids: 7937
