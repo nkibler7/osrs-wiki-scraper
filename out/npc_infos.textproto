@@ -88,6 +88,21 @@ npcs {
   drange: 20
 }
 npcs {
+  ids: 11239
+  name: "Abyssal demon"
+  version: "Wilderness Slayer Cave"
+  hitpoints: 150
+  att: 97
+  str: 67
+  def: 135
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  dcrush: 20
+  drange: 20
+}
+npcs {
   ids: 2585
   name: "Abyssal guardian"
   hitpoints: 55
@@ -9994,6 +10009,22 @@ npcs {
 npcs {
   ids: 7278
   name: "Greater Nechryael"
+  version: "Regular"
+  hitpoints: 205
+  att: 197
+  str: 197
+  def: 85
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  drange: 50
+}
+npcs {
+  ids: 11240
+  name: "Greater Nechryael"
+  version: "Wilderness Slayer Cave"
   hitpoints: 205
   att: 197
   str: 197
@@ -12758,6 +12789,21 @@ npcs {
   ids: 441
   ids: 442
   name: "Jelly"
+  version: "Regular"
+  hitpoints: 75
+  att: 45
+  str: 45
+  def: 120
+  mage: 45
+  range: 1
+}
+npcs {
+  ids: 11241
+  ids: 11242
+  ids: 11243
+  ids: 11244
+  name: "Jelly"
+  version: "Wilderness Slayer Cave"
   hitpoints: 75
   att: 45
   str: 45
