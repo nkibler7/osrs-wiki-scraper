@@ -58,7 +58,6 @@ npcs {
 }
 npcs {
   ids: 415
-  ids: 416
   name: "Abyssal demon"
   version: "Standard"
   hitpoints: 150
