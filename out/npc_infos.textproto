@@ -15416,6 +15416,10 @@ npcs {
   strbns: 62
 }
 npcs {
+  ids: 11271
+  name: "Mosschin"
+}
+npcs {
   ids: 8428
   ids: 8429
   ids: 8430
@@ -18343,6 +18347,10 @@ npcs {
   drange: 50
 }
 npcs {
+  ids: 11272
+  name: "Redeyes"
+}
+npcs {
   ids: 3517
   name: "Renegade knight"
   hitpoints: 48
@@ -20814,6 +20822,10 @@ npcs {
   drange: 2
 }
 npcs {
+  ids: 11268
+  name: "Skoblin"
+}
+npcs {
   ids: 872
   ids: 878
   ids: 879
@@ -21088,6 +21100,10 @@ npcs {
   drange: 44
 }
 npcs {
+  ids: 11270
+  name: "Snailfeet"
+}
+npcs {
   ids: 2845
   name: "Snake"
   hitpoints: 6
@@ -21154,6 +21170,10 @@ npcs {
   dcrush: -40
   dmagic: -40
   drange: -40
+}
+npcs {
+  ids: 11269
+  name: "Snothead"
 }
 npcs {
   ids: 2626
@@ -22165,6 +22185,10 @@ npcs {
   dcrush: 98
   dmagic: 1
   drange: 82
+}
+npcs {
+  ids: 11273
+  name: "Strongbones"
 }
 npcs {
   ids: 5043
