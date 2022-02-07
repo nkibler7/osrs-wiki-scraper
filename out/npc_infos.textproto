@@ -6787,6 +6787,7 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 11238
   name: "Dust devil"
   version: "Level 93 (Wilderness)"
   hitpoints: 105
