@@ -12802,6 +12802,7 @@ npcs {
   ids: 11242
   ids: 11243
   ids: 11244
+  ids: 11245
   name: "Jelly"
   version: "Wilderness Slayer Cave"
   hitpoints: 75
