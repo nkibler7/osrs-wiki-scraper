@@ -18365,7 +18365,7 @@ npcs {
 npcs {
   ids: 11272
   name: "Redeyes"
-  hitpoints: 155
+  hitpoints: 160
   att: 70
   str: 70
   def: 70
