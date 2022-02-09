@@ -15419,7 +15419,7 @@ npcs {
 npcs {
   ids: 11271
   name: "Mosschin"
-  hitpoints: 118
+  hitpoints: 120
   att: 50
   str: 50
   def: 50
