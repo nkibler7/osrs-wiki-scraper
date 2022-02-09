@@ -15419,6 +15419,21 @@ npcs {
 npcs {
   ids: 11271
   name: "Mosschin"
+  hitpoints: 118
+  att: 50
+  str: 50
+  def: 50
+  mage: 50
+  range: 1
+  attbns: 34
+  strbns: 40
+  amagic: 34
+  mbns: 40
+  dstab: 10
+  dslash: 10
+  dcrush: 5
+  dmagic: 5
+  drange: 20
 }
 npcs {
   ids: 8428
@@ -18350,6 +18365,21 @@ npcs {
 npcs {
   ids: 11272
   name: "Redeyes"
+  hitpoints: 155
+  att: 70
+  str: 70
+  def: 70
+  mage: 70
+  range: 1
+  attbns: 36
+  strbns: 46
+  amagic: 36
+  mbns: 46
+  dstab: 10
+  dslash: 10
+  dcrush: 5
+  dmagic: 5
+  drange: 20
 }
 npcs {
   ids: 3517
@@ -20825,6 +20855,19 @@ npcs {
 npcs {
   ids: 11268
   name: "Skoblin"
+  hitpoints: 30
+  att: 15
+  str: 20
+  def: 10
+  mage: 10
+  range: 1
+  attbns: 30
+  strbns: 36
+  dstab: 10
+  dslash: 10
+  dcrush: 5
+  dmagic: 5
+  drange: 20
 }
 npcs {
   ids: 872
@@ -21103,6 +21146,21 @@ npcs {
 npcs {
   ids: 11270
   name: "Snailfeet"
+  hitpoints: 80
+  att: 30
+  str: 30
+  def: 30
+  mage: 30
+  range: 30
+  attbns: 32
+  strbns: 36
+  arange: 32
+  rngbns: 36
+  dstab: 10
+  dslash: 10
+  dcrush: 5
+  dmagic: 5
+  drange: 20
 }
 npcs {
   ids: 2845
@@ -21175,6 +21233,19 @@ npcs {
 npcs {
   ids: 11269
   name: "Snothead"
+  hitpoints: 50
+  att: 15
+  str: 15
+  def: 15
+  mage: 15
+  range: 1
+  attbns: 30
+  strbns: 30
+  dstab: 10
+  dslash: 10
+  dcrush: 5
+  dmagic: 5
+  drange: 20
 }
 npcs {
   ids: 2626
@@ -22190,6 +22261,23 @@ npcs {
 npcs {
   ids: 11273
   name: "Strongbones"
+  hitpoints: 200
+  att: 90
+  str: 90
+  def: 90
+  mage: 90
+  range: 90
+  attbns: 38
+  strbns: 50
+  amagic: 38
+  mbns: 50
+  arange: 38
+  rngbns: 50
+  dstab: 10
+  dslash: 10
+  dcrush: 5
+  dmagic: 5
+  drange: 20
 }
 npcs {
   ids: 5043
