@@ -10024,7 +10024,7 @@ npcs {
 npcs {
   ids: 11240
   name: "Greater Nechryael"
-  version: "Wilderness Slayer Cave"
+  version: "Wilderness"
   hitpoints: 205
   att: 197
   str: 197
