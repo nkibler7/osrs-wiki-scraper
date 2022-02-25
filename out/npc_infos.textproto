@@ -726,8 +726,6 @@ npcs {
 }
 npcs {
   ids: 1062
-  ids: 1063
-  ids: 1064
   name: "Angry giant rat"
   version: "Level 45"
   hitpoints: 50
