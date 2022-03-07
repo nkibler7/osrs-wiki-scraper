@@ -3445,10 +3445,6 @@ npcs {
   ids: 1738
   name: "Brawler"
   version: "Level 158"
-  hitpoints: 173
-  att: 87
-  str: 157
-  def: 143
 }
 npcs {
   ids: 2208
