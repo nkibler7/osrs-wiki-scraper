@@ -16149,6 +16149,9 @@ npcs {
   ids: 8344
   ids: 8350
   ids: 8383
+  ids: 10793
+  ids: 10799
+  ids: 10860
   name: "Nylocas Hagios"
   version: "Level 162"
   hitpoints: 11
@@ -16164,6 +16167,8 @@ npcs {
 npcs {
   ids: 8347
   ids: 8353
+  ids: 10796
+  ids: 10802
   name: "Nylocas Hagios"
   version: "Level 260"
   hitpoints: 22
@@ -16179,6 +16184,9 @@ npcs {
   ids: 8342
   ids: 8348
   ids: 8381
+  ids: 10791
+  ids: 10797
+  ids: 10858
   name: "Nylocas Ischyros"
   version: "Level 162"
   hitpoints: 11
@@ -16194,6 +16202,8 @@ npcs {
 npcs {
   ids: 8345
   ids: 8351
+  ids: 10794
+  ids: 10800
   name: "Nylocas Ischyros"
   version: "Level 260"
   hitpoints: 22
@@ -16269,6 +16279,9 @@ npcs {
   ids: 8343
   ids: 8349
   ids: 8382
+  ids: 10792
+  ids: 10798
+  ids: 10859
   name: "Nylocas Toxobolos"
   version: "Level 162"
   hitpoints: 11
@@ -16284,6 +16297,8 @@ npcs {
 npcs {
   ids: 8346
   ids: 8352
+  ids: 10795
+  ids: 10801
   name: "Nylocas Toxobolos"
   version: "Level 260"
   hitpoints: 22
