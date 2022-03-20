@@ -15190,7 +15190,6 @@ npcs {
   ids: 5272
   ids: 5273
   ids: 5274
-  ids: 6794
   ids: 6813
   name: "Monkey Archer"
   hitpoints: 50
