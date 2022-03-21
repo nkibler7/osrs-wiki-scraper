@@ -3216,12 +3216,12 @@ H
 3
 ü=Revenant pyrefiend 0(<0(8!@CH(€-ˆ(2˜ 
 
-%
-Ì4River TrollLevel 14(08@H
-%
-Í4River TrollLevel 29( 0 8 @H
-%
-Î4River TrollLevel 49(00080@H
+'
+Ì4River TrollLevel 14 (	0	8	@H
+'
+Í4River TrollLevel 29 ((08@H
+'
+Î4River TrollLevel 49 <(&0&8&@H
 '
 Ï4River TrollLevel 79 U(A0A8A@H
 (
@@ -3245,24 +3245,24 @@ Riyl ShadeShade L(X078<
 df	Rock CrabActive 2(08@H
 #
 eg	Rock CrabHidden 2(08@H
-
+&
 Å4
-Rock GolemLevel 14
-
+Rock GolemLevel 14 (	0	8	@H
+&
 Æ4
-Rock GolemLevel 29
-
+Rock GolemLevel 29 ((08@H
+&
 Ç4
-Rock GolemLevel 49
-
+Rock GolemLevel 49 <(&0&8&@H#
+&
 È4
-Rock GolemLevel 79 V
+Rock GolemLevel 79 U(A0A8A@HF
 '
 É4
 Rock Golem	Level 120 x(d0d8d@HK
 +
 Ê4
-Rock Golem	Level 159 ¦(‚0‚8‚@HP
+Rock Golem	Level 159 ª(‚0‚8‚@HP
 /
 ¸.Rock lobster –(d0d8d@H€dˆd2˜2 –
  
@@ -4071,13 +4071,13 @@ A
 +
 ÑBTrapped Soul (hard)Hard d(d0x8@H
 '
-ÅTree spiritLevel 14 (08@H
+ÅTree spiritLevel 14 (	0	8	@H
 '
-ÆTree spiritLevel 29 ((08@H
+ÆTree spiritLevel 29 ((08@H
 '
 ÇTree spiritLevel 49 <(&0&8&@H
 '
-ÈTree spiritLevel 79 V(@0@8@@H
+ÈTree spiritLevel 79 U(A0A8A@H
 (
 ÉTree spirit	Level 120 x(d0d8d@H
 ,

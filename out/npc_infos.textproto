@@ -18651,9 +18651,10 @@ npcs {
   ids: 6732
   name: "River Troll"
   version: "Level 14"
-  att: 17
-  str: 17
-  def: 17
+  hitpoints: 25
+  att: 9
+  str: 9
+  def: 9
   mage: 1
   range: 1
 }
@@ -18661,9 +18662,10 @@ npcs {
   ids: 6733
   name: "River Troll"
   version: "Level 29"
-  att: 32
-  str: 32
-  def: 32
+  hitpoints: 40
+  att: 22
+  str: 22
+  def: 22
   mage: 1
   range: 1
 }
@@ -18671,9 +18673,10 @@ npcs {
   ids: 6734
   name: "River Troll"
   version: "Level 49"
-  att: 48
-  str: 48
-  def: 48
+  hitpoints: 60
+  att: 38
+  str: 38
+  def: 38
   mage: 1
   range: 1
 }
@@ -18795,22 +18798,45 @@ npcs {
   ids: 6725
   name: "Rock Golem"
   version: "Level 14"
+  hitpoints: 25
+  att: 9
+  str: 9
+  def: 9
+  mage: 1
+  range: 8
 }
 npcs {
   ids: 6726
   name: "Rock Golem"
   version: "Level 29"
+  hitpoints: 40
+  att: 22
+  str: 22
+  def: 22
+  mage: 1
+  range: 20
 }
 npcs {
   ids: 6727
   name: "Rock Golem"
   version: "Level 49"
+  hitpoints: 60
+  att: 38
+  str: 38
+  def: 38
+  mage: 1
+  range: 35
 }
 npcs {
   ids: 6728
   name: "Rock Golem"
   version: "Level 79"
-  hitpoints: 86
+  hitpoints: 85
+  att: 65
+  str: 65
+  def: 65
+  mage: 1
+  range: 70
 }
 npcs {
   ids: 6729
@@ -18827,7 +18853,7 @@ npcs {
   ids: 6730
   name: "Rock Golem"
   version: "Level 159"
-  hitpoints: 166
+  hitpoints: 170
   att: 130
   str: 130
   def: 130
@@ -23623,9 +23649,9 @@ npcs {
   name: "Tree spirit"
   version: "Level 14"
   hitpoints: 25
-  att: 8
-  str: 8
-  def: 8
+  att: 9
+  str: 9
+  def: 9
   mage: 1
   range: 1
 }
@@ -23634,9 +23660,9 @@ npcs {
   name: "Tree spirit"
   version: "Level 29"
   hitpoints: 40
-  att: 17
-  str: 17
-  def: 17
+  att: 22
+  str: 22
+  def: 22
   mage: 1
   range: 1
 }
@@ -23655,10 +23681,10 @@ npcs {
   ids: 1864
   name: "Tree spirit"
   version: "Level 79"
-  hitpoints: 86
-  att: 64
-  str: 64
-  def: 64
+  hitpoints: 85
+  att: 65
+  str: 65
+  def: 65
   mage: 1
   range: 1
 }
