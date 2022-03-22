@@ -18444,7 +18444,7 @@ npcs {
 npcs {
   ids: 7938
   name: "Revenant dark beast"
-  hitpoints: 136
+  hitpoints: 140
   att: 93
   str: 110
   def: 80
