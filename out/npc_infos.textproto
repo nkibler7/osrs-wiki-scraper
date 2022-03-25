@@ -9554,9 +9554,9 @@ npcs {
   name: "Goblin"
   version: "Level 5"
   hitpoints: 12
-  att: 12
-  str: 13
-  def: 7
+  att: 3
+  str: 1
+  def: 4
   mage: 1
   range: 1
   attbns: 12
@@ -9567,9 +9567,9 @@ npcs {
   name: "Goblin"
   version: "Level 13"
   hitpoints: 16
-  att: 1
-  str: 1
-  def: 1
+  att: 12
+  str: 13
+  def: 7
   mage: 1
   range: 1
   dstab: 4
