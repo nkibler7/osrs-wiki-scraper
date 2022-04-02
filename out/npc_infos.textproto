@@ -17506,6 +17506,8 @@ npcs {
   ids: 1751
   name: "Portal"
   version: "Purple"
+  att: 10
+  def: 20
 }
 npcs {
   ids: 1740
@@ -17514,6 +17516,8 @@ npcs {
   ids: 1752
   name: "Portal"
   version: "Blue"
+  att: 10
+  def: 20
 }
 npcs {
   ids: 1741
@@ -17522,6 +17526,8 @@ npcs {
   ids: 1753
   name: "Portal"
   version: "Yellow"
+  att: 10
+  def: 20
 }
 npcs {
   ids: 1742
@@ -17530,6 +17536,8 @@ npcs {
   ids: 1754
   name: "Portal"
   version: "Red"
+  att: 10
+  def: 20
 }
 npcs {
   ids: 3612
