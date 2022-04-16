@@ -7184,6 +7184,12 @@ npcs {
 npcs {
   ids: 11227
   name: "Enraged Boar"
+  hitpoints: 25
+  att: 7
+  str: 7
+  def: 5
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 7234
