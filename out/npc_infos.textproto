@@ -14566,6 +14566,22 @@ npcs {
   drange: -21
 }
 npcs {
+  ids: 3298
+  name: "Man"
+  version: "Cavalier"
+  hitpoints: 7
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  dstab: -21
+  dslash: -21
+  dcrush: -21
+  dmagic: -21
+  drange: -21
+}
+npcs {
   ids: 3109
   ids: 6815
   name: "Man"
@@ -14608,22 +14624,6 @@ npcs {
   def: 1
   mage: 1
   range: 1
-}
-npcs {
-  ids: 3298
-  name: "Man"
-  version: "Cavalier"
-  hitpoints: 7
-  att: 1
-  str: 1
-  def: 1
-  mage: 1
-  range: 1
-  dstab: -21
-  dslash: -21
-  dcrush: -21
-  dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 3264
