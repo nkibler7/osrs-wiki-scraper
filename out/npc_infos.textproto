@@ -11606,14 +11606,9 @@ npcs {
   strbns: 16
 }
 npcs {
-  ids: 3049
-  ids: 3286
-  ids: 3287
-  ids: 3288
-  ids: 3289
-  ids: 4805
+  ids: 132
   name: "Hobgoblin"
-  version: "Level 28"
+  version: "Hobgoblin (unused)"
   hitpoints: 29
   att: 22
   str: 24
@@ -11622,9 +11617,9 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 3050
+  ids: 2241
   name: "Hobgoblin"
-  version: "Level 42"
+  version: "Hobgoblin (GWD)"
   hitpoints: 49
   att: 33
   str: 31
@@ -11637,13 +11632,55 @@ npcs {
   dslash: 1
 }
 npcs {
-  ids: 2241
+  ids: 3049
   name: "Hobgoblin"
-  version: "Level 47"
+  version: "Hobgoblin"
   hitpoints: 52
   att: 39
   str: 39
   def: 35
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 3050
+  name: "Hobgoblin"
+  version: "Hobgoblin (armed)"
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 3286
+  name: "Hobgoblin"
+  version: "Hobgoblin (brown)"
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 3287
+  name: "Hobgoblin"
+  version: "Hobgoblin (grey)"
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 3288
+  name: "Hobgoblin"
+  version: "Hobgoblin (khaki)"
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 3289
+  name: "Hobgoblin"
+  version: "Hobgoblin (brown, armed)"
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 4805
+  name: "Hobgoblin"
+  version: "Hobgoblin (brown, armed)"
   mage: 1
   range: 1
 }
