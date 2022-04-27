@@ -11304,6 +11304,19 @@ npcs {
   drange: 27
 }
 npcs {
+  name: "Head Menaphite Guard"
+  hitpoints: 169
+  att: 180
+  str: 150
+  def: 150
+  mage: 150
+  range: 1
+  dstab: 10
+  dslash: 30
+  dcrush: 30
+  drange: 50
+}
+npcs {
   ids: 4248
   name: "Head Thief"
   hitpoints: 37
@@ -19244,6 +19257,20 @@ npcs {
   range: 1
   attbns: 40
   strbns: 40
+  dmagic: 30
+}
+npcs {
+  name: "Scabarite Mages"
+  hitpoints: 120
+  att: 1
+  str: 1
+  def: 60
+  mage: 100
+  range: 1
+  amagic: 30
+  mbns: 30
+  dslash: 20
+  dcrush: 20
   dmagic: 30
 }
 npcs {
