@@ -19317,7 +19317,7 @@ npcs {
   dmagic: 30
 }
 npcs {
-  name: "Scabarite Mages"
+  name: "Scabarite Mage"
   hitpoints: 120
   att: 1
   str: 1
@@ -19814,6 +19814,10 @@ npcs {
   def: 54
   mage: 1
   range: 1
+}
+npcs {
+  name: "Shadow Portal"
+  hitpoints: 20
 }
 npcs {
   ids: 3016
