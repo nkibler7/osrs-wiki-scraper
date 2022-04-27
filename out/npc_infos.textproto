@@ -14946,6 +14946,7 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 11492
   name: "Menaphite Akh"
   hitpoints: 480
   att: 150
@@ -14955,8 +14956,27 @@ npcs {
   range: 150
   attbns: 46
   strbns: 24
-  mbns: 46
-  rngbns: 46
+  amagic: 46
+  arange: 46
+  dstab: 5
+  dslash: 30
+  dcrush: 30
+  dmagic: 280
+  drange: 180
+}
+npcs {
+  ids: 11494
+  name: "Menaphite Shadow"
+  hitpoints: 50
+  att: 150
+  str: 150
+  def: 70
+  mage: 150
+  range: 150
+  attbns: 46
+  strbns: 24
+  amagic: 46
+  arange: 46
   dstab: 5
   dslash: 30
   dcrush: 30
