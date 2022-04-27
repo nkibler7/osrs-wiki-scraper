@@ -437,7 +437,7 @@ npcs {
 }
 npcs {
   ids: 3292
-  name: "Al-Kharid warrior"
+  name: "Al Kharid warrior"
   hitpoints: 19
   att: 7
   str: 5
@@ -1002,18 +1002,61 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 4195
+  name: "Apparition"
+  version: "Het"
+  hitpoints: 75
+  att: 80
+  str: 83
+  def: 40
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 4196
-  name: "Apmeken"
+  name: "Apparition"
+  version: "Apmeken"
   hitpoints: 70
   att: 30
   str: 40
-  def: 60
+  def: 40
   mage: 85
   range: 1
   dstab: 65
   dslash: 65
   dcrush: 65
   dmagic: 50
+}
+npcs {
+  ids: 4197
+  name: "Apparition"
+  version: "Scabaras"
+  hitpoints: 50
+  att: 70
+  str: 70
+  def: 40
+  mage: 1
+  range: 1
+  dstab: 30
+  dslash: 30
+  dcrush: 30
+  drange: 70
+}
+npcs {
+  ids: 4198
+  name: "Apparition"
+  version: "Crondis"
+  hitpoints: 60
+  att: 80
+  str: 70
+  def: 40
+  mage: 40
+  range: 1
+  dstab: 15
+  dslash: 15
+  dcrush: 15
+  dmagic: 70
+  drange: 70
 }
 npcs {
   ids: 3301
@@ -5229,21 +5272,6 @@ npcs {
   drange: 20
 }
 npcs {
-  ids: 4198
-  name: "Crondis"
-  hitpoints: 60
-  att: 80
-  str: 70
-  def: 35
-  mage: 40
-  range: 1
-  dstab: 15
-  dslash: 15
-  dcrush: 15
-  dmagic: 70
-  drange: 40
-}
-npcs {
   ids: 11285
   name: "Cruor"
   hitpoints: 500
@@ -8959,7 +8987,7 @@ npcs {
   ids: 797
   ids: 798
   ids: 6343
-  name: "Giant scarab"
+  name: "Giant Scarab"
   version: "Normal"
   hitpoints: 130
   att: 169
@@ -8975,7 +9003,7 @@ npcs {
 }
 npcs {
   ids: 1127
-  name: "Giant scarab (hard)"
+  name: "Giant Scarab (hard)"
   version: "Hard"
   hitpoints: 255
   att: 305
@@ -11433,16 +11461,6 @@ npcs {
   dcrush: 60
   dmagic: 80
   drange: 80
-}
-npcs {
-  ids: 4195
-  name: "Het"
-  hitpoints: 75
-  att: 80
-  str: 83
-  def: 40
-  mage: 1
-  range: 1
 }
 npcs {
   ids: 518
@@ -19227,20 +19245,6 @@ npcs {
   attbns: 40
   strbns: 40
   dmagic: 30
-}
-npcs {
-  ids: 4197
-  name: "Scabaras"
-  hitpoints: 50
-  att: 70
-  str: 70
-  def: 66
-  mage: 1
-  range: 1
-  dstab: 30
-  dslash: 30
-  dcrush: 30
-  drange: 70
 }
 npcs {
   ids: 799

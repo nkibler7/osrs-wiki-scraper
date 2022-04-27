@@ -73,7 +73,7 @@ Air Wizard (08
 @
 ˜
 ?
-ÜAl-Kharid warrior (08@HP
+ÜAl Kharid warrior (08@HP
 X	€ˆ
 ˜ÿÿÿÿÿÿÿÿÿ 
 
@@ -172,8 +172,18 @@ R
 Ù8AnkouLevel 95 <(d0F8d@H
 !
 ¸=AnkouLevel 98 d(K0Z8P@H
-%
-ä Apmeken F(0(8<@UH€AˆAA˜2
+!
+ã 
+ApparitionHet K(P0S8(@H
+1
+ä 
+ApparitionApmeken F(0(8(@UH€AˆAA˜2
+2
+å 
+ApparitionScabaras 2(F0F8(@H€ˆ F
+4
+æ 
+ApparitionCrondis <(P0F8(@(H€ˆ˜F F
 +
 åArcher 2(08@H(px€ˆ˜
  
@@ -923,8 +933,6 @@ L
 *
 Ø 	Crocodile >(50686@H€ˆ˜
  
-(
-æ Crondis <(P0F8#@(H€ˆ˜F (
 ,
 •XCruor ô(08È@ÈHh€dˆd˜– 2
 
@@ -1596,9 +1604,9 @@ B
  
 à9Giant rockslug M(H0M8M@H
 @
-Ç1Giant scarabNormal ‚(©0¾8©@H¾€Fˆcc˜Ÿ •
+Ç1Giant ScarabNormal ‚(©0¾8©@H¾€Fˆcc˜Ÿ •
 A
-çGiant scarab (hard)Hard ÿ(±0Ö8©@HÖ€Fˆcc˜Ÿ •
+çGiant Scarab (hard)Hard ÿ(±0Ö8©@HÖ€Fˆcc˜Ÿ •
 $
 ÍGiant Sea Snake d(ª0Z8 @H‚
 "
@@ -1962,8 +1970,6 @@ T
 ‡CHespori ¬(08x@~H–`–p–€<ˆ<˜P P
 0
 ¸WHespori è(08x@~H–`–p–€<ˆ<˜P P
-
-ã Het K(P0S8(@H
 2
 †
 HighwaymanNo hood (08@HPXˆ 
@@ -3326,8 +3332,6 @@ Sand SnakeHard ´(´0Œ8@H
 ¡Saradomin priest Y(x0.8x@}HP	X€ˆ˜ 
 )
 ‹Saradomin wizard x(d0P8P@PHP(X(˜
-&
-å Scabaras 2(F0F8B@H€ˆ F
 =
 ŸScarab mageLevel 66 (Quest) 2(Z0Z8Z@FH`F€(ˆZZ˜"
 9
