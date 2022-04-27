@@ -4257,6 +4257,7 @@ npcs {
   drange: 100
 }
 npcs {
+  ids: 11482
   name: "Champion of Scabaras"
   hitpoints: 600
   att: 160
@@ -14943,6 +14944,24 @@ npcs {
   def: 34
   mage: 40
   range: 1
+}
+npcs {
+  name: "Menaphite Akh"
+  hitpoints: 480
+  att: 150
+  str: 150
+  def: 140
+  mage: 150
+  range: 150
+  attbns: 46
+  strbns: 24
+  mbns: 46
+  rngbns: 46
+  dstab: 5
+  dslash: 30
+  dcrush: 30
+  dmagic: 280
+  drange: 180
 }
 npcs {
   ids: 3550
