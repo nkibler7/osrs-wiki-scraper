@@ -4257,6 +4257,23 @@ npcs {
   drange: 100
 }
 npcs {
+  name: "Champion of Scabaras"
+  hitpoints: 600
+  att: 160
+  str: 160
+  def: 160
+  mage: 160
+  attbns: 28
+  strbns: 26
+  amagic: 28
+  mbns: 26
+  dstab: 120
+  dslash: 160
+  dcrush: 160
+  dmagic: 340
+  drange: 5
+}
+npcs {
   ids: 520
   name: "Chaos druid"
   hitpoints: 20
