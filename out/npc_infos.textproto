@@ -11304,8 +11304,9 @@ npcs {
   drange: 27
 }
 npcs {
+  ids: 11529
   name: "Head Menaphite Guard"
-  hitpoints: 169
+  hitpoints: 180
   att: 180
   str: 150
   def: 150
