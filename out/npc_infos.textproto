@@ -19413,6 +19413,10 @@ npcs {
   drange: 90
 }
 npcs {
+  ids: 11484
+  name: "Scarab Swarm"
+}
+npcs {
   ids: 729
   name: "Scarabs"
   hitpoints: 25
