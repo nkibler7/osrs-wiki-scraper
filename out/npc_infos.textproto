@@ -19415,6 +19415,7 @@ npcs {
 npcs {
   ids: 11484
   name: "Scarab Swarm"
+  hitpoints: 5
 }
 npcs {
   ids: 729
