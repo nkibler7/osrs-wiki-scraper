@@ -14392,7 +14392,7 @@ npcs {
   drange: 70
 }
 npcs {
-  ids: 4186
+  ids: 11584
   name: "Locust"
   hitpoints: 27
   att: 17
@@ -17540,7 +17540,7 @@ npcs {
   dcrush: 5
 }
 npcs {
-  ids: 4188
+  ids: 11586
   name: "Plague frog"
   hitpoints: 10
   att: 18
@@ -19363,6 +19363,22 @@ npcs {
   dslash: 90
   dcrush: 90
   dmagic: 34
+}
+npcs {
+  ids: 11508
+  name: "Scarab mage"
+  version: "Level 119 (Quest)"
+  hitpoints: 120
+  att: 1
+  str: 1
+  def: 60
+  mage: 100
+  range: 1
+  amagic: 30
+  mbns: 30
+  dslash: 20
+  dcrush: 20
+  dmagic: 30
 }
 npcs {
   ids: 4192
