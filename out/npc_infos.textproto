@@ -19317,20 +19317,6 @@ npcs {
   dmagic: 30
 }
 npcs {
-  name: "Scabarite Mage"
-  hitpoints: 120
-  att: 1
-  str: 1
-  def: 60
-  mage: 100
-  range: 1
-  amagic: 30
-  mbns: 30
-  dslash: 20
-  dcrush: 20
-  dmagic: 30
-}
-npcs {
   ids: 799
   name: "Scarab mage"
   version: "Level 66 (Quest)"
