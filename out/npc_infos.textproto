@@ -14965,7 +14965,7 @@ npcs {
   drange: 180
 }
 npcs {
-  ids: 11494
+  ids: 11462
   name: "Menaphite Shadow"
   hitpoints: 50
   att: 150
