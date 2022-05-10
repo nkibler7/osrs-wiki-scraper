@@ -21589,8 +21589,14 @@ npcs {
   ids: 4930
   ids: 4933
   ids: 4962
-  name: "Solus Dellagar"
+  name: "colour: Solus Dellagar"
   hitpoints: 40
+  att: 75
+  str: 60
+  def: 30
+  mage: 99
+  range: 25
+  dcrush: 69
 }
 npcs {
   ids: 561
