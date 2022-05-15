@@ -21721,6 +21721,20 @@ npcs {
   dmagic: 30
 }
 npcs {
+  ids: 10436
+  name: "Sourhog"
+  hitpoints: 40
+  att: 35
+  str: 30
+  def: 25
+  mage: 25
+  range: 35
+  rngbns: 20
+  dslash: 30
+  dcrush: 10
+  dmagic: 30
+}
+npcs {
   ids: 5916
   ids: 5917
   name: "Spawn"
