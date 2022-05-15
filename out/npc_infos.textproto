@@ -21693,7 +21693,6 @@ npcs {
 npcs {
   ids: 10435
   name: "Sourhog"
-  version: "Post-quest"
   hitpoints: 40
   att: 35
   str: 30
@@ -21706,9 +21705,8 @@ npcs {
   dmagic: 30
 }
 npcs {
-  ids: 10436
+  ids: 10435
   name: "Sourhog"
-  version: "A Porcine of Interest"
   hitpoints: 40
   att: 35
   str: 30
