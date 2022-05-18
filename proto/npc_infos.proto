@@ -20,6 +20,8 @@ message NpcInfos {
 // category. The field names listed here exactly match the key names used in the template. Multi-versioned key/value
 // pairs are identified with numeric suffixes (i.e. "version1") and cause multiple NpcInfos to be generated, one for
 // each unique number suffix.
+//
+// Next ID: 22
 message NpcInfo {
   // The list of IDs associated with this NPC.
   repeated int32 ids = 1;
@@ -31,6 +33,9 @@ message NpcInfo {
   // represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
   // like the Abyssal Sire.
   string version = 3;
+
+  // The list of monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+  repeated string attributes = 21;
 
   // =============================================== Combat Stats Start ===============================================
 
