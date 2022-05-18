@@ -18589,6 +18589,11 @@ npcs {
   ids: 11463
   name: "Reanimated hellhound"
   hitpoints: 35
+  att: 105
+  str: 104
+  def: 102
+  mage: 1
+  range: 1
   attributes: "demon"
 }
 npcs {
