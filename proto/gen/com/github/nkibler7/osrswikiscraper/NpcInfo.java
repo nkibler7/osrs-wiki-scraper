@@ -12,6 +12,7 @@ package com.github.nkibler7.osrswikiscraper;
  * category. The field names listed here exactly match the key names used in the template. Multi-versioned key/value
  * pairs are identified with numeric suffixes (i.e. "version1") and cause multiple NpcInfos to be generated, one for
  * each unique number suffix.
+ * Next ID: 22
  * </pre>
  *
  * Protobuf type {@code github.nkibler7.osrswikiscraper.NpcInfo}
@@ -29,6 +30,7 @@ private static final long serialVersionUID = 0L;
     ids_ = emptyIntList();
     name_ = "";
     version_ = "";
+    attributes_ = com.google.protobuf.LazyStringArrayList.EMPTY;
   }
 
   @java.lang.Override
@@ -180,6 +182,15 @@ private static final long serialVersionUID = 0L;
             drange_ = input.readInt32();
             break;
           }
+          case 170: {
+            java.lang.String s = input.readStringRequireUtf8();
+            if (!((mutable_bitField0_ & 0x00000002) != 0)) {
+              attributes_ = new com.google.protobuf.LazyStringArrayList();
+              mutable_bitField0_ |= 0x00000002;
+            }
+            attributes_.add(s);
+            break;
+          }
           default: {
             if (!parseUnknownField(
                 input, unknownFields, extensionRegistry, tag)) {
@@ -197,6 +208,9 @@ private static final long serialVersionUID = 0L;
     } finally {
       if (((mutable_bitField0_ & 0x00000001) != 0)) {
         ids_.makeImmutable(); // C
+      }
+      if (((mutable_bitField0_ & 0x00000002) != 0)) {
+        attributes_ = attributes_.getUnmodifiableView();
       }
       this.unknownFields = unknownFields.build();
       makeExtensionsImmutable();
@@ -349,6 +363,57 @@ private static final long serialVersionUID = 0L;
     } else {
       return (com.google.protobuf.ByteString) ref;
     }
+  }
+
+  public static final int ATTRIBUTES_FIELD_NUMBER = 21;
+  private com.google.protobuf.LazyStringList attributes_;
+  /**
+   * <pre>
+   * The list of monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+   * </pre>
+   *
+   * <code>repeated string attributes = 21;</code>
+   * @return A list containing the attributes.
+   */
+  public com.google.protobuf.ProtocolStringList
+      getAttributesList() {
+    return attributes_;
+  }
+  /**
+   * <pre>
+   * The list of monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+   * </pre>
+   *
+   * <code>repeated string attributes = 21;</code>
+   * @return The count of attributes.
+   */
+  public int getAttributesCount() {
+    return attributes_.size();
+  }
+  /**
+   * <pre>
+   * The list of monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+   * </pre>
+   *
+   * <code>repeated string attributes = 21;</code>
+   * @param index The index of the element to return.
+   * @return The attributes at the given index.
+   */
+  public java.lang.String getAttributes(int index) {
+    return attributes_.get(index);
+  }
+  /**
+   * <pre>
+   * The list of monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+   * </pre>
+   *
+   * <code>repeated string attributes = 21;</code>
+   * @param index The index of the value to return.
+   * @return The bytes of the attributes at the given index.
+   */
+  public com.google.protobuf.ByteString
+      getAttributesBytes(int index) {
+    return attributes_.getByteString(index);
   }
 
   public static final int HITPOINTS_FIELD_NUMBER = 4;
@@ -685,6 +750,9 @@ private static final long serialVersionUID = 0L;
     if (drange_ != 0) {
       output.writeInt32(20, drange_);
     }
+    for (int i = 0; i < attributes_.size(); i++) {
+      com.google.protobuf.GeneratedMessageV3.writeString(output, 21, attributes_.getRaw(i));
+    }
     unknownFields.writeTo(output);
   }
 
@@ -782,6 +850,14 @@ private static final long serialVersionUID = 0L;
       size += com.google.protobuf.CodedOutputStream
         .computeInt32Size(20, drange_);
     }
+    {
+      int dataSize = 0;
+      for (int i = 0; i < attributes_.size(); i++) {
+        dataSize += computeStringSizeNoTag(attributes_.getRaw(i));
+      }
+      size += dataSize;
+      size += 2 * getAttributesList().size();
+    }
     size += unknownFields.getSerializedSize();
     memoizedSize = size;
     return size;
@@ -803,6 +879,8 @@ private static final long serialVersionUID = 0L;
         .equals(other.getName())) return false;
     if (!getVersion()
         .equals(other.getVersion())) return false;
+    if (!getAttributesList()
+        .equals(other.getAttributesList())) return false;
     if (getHitpoints()
         != other.getHitpoints()) return false;
     if (getAtt()
@@ -856,6 +934,10 @@ private static final long serialVersionUID = 0L;
     hash = (53 * hash) + getName().hashCode();
     hash = (37 * hash) + VERSION_FIELD_NUMBER;
     hash = (53 * hash) + getVersion().hashCode();
+    if (getAttributesCount() > 0) {
+      hash = (37 * hash) + ATTRIBUTES_FIELD_NUMBER;
+      hash = (53 * hash) + getAttributesList().hashCode();
+    }
     hash = (37 * hash) + HITPOINTS_FIELD_NUMBER;
     hash = (53 * hash) + getHitpoints();
     hash = (37 * hash) + ATT_FIELD_NUMBER;
@@ -994,6 +1076,7 @@ private static final long serialVersionUID = 0L;
    * category. The field names listed here exactly match the key names used in the template. Multi-versioned key/value
    * pairs are identified with numeric suffixes (i.e. "version1") and cause multiple NpcInfos to be generated, one for
    * each unique number suffix.
+   * Next ID: 22
    * </pre>
    *
    * Protobuf type {@code github.nkibler7.osrswikiscraper.NpcInfo}
@@ -1039,6 +1122,8 @@ private static final long serialVersionUID = 0L;
 
       version_ = "";
 
+      attributes_ = com.google.protobuf.LazyStringArrayList.EMPTY;
+      bitField0_ = (bitField0_ & ~0x00000002);
       hitpoints_ = 0;
 
       att_ = 0;
@@ -1107,6 +1192,11 @@ private static final long serialVersionUID = 0L;
       result.ids_ = ids_;
       result.name_ = name_;
       result.version_ = version_;
+      if (((bitField0_ & 0x00000002) != 0)) {
+        attributes_ = attributes_.getUnmodifiableView();
+        bitField0_ = (bitField0_ & ~0x00000002);
+      }
+      result.attributes_ = attributes_;
       result.hitpoints_ = hitpoints_;
       result.att_ = att_;
       result.str_ = str_;
@@ -1188,6 +1278,16 @@ private static final long serialVersionUID = 0L;
       }
       if (!other.getVersion().isEmpty()) {
         version_ = other.version_;
+        onChanged();
+      }
+      if (!other.attributes_.isEmpty()) {
+        if (attributes_.isEmpty()) {
+          attributes_ = other.attributes_;
+          bitField0_ = (bitField0_ & ~0x00000002);
+        } else {
+          ensureAttributesIsMutable();
+          attributes_.addAll(other.attributes_);
+        }
         onChanged();
       }
       if (other.getHitpoints() != 0) {
@@ -1576,6 +1676,152 @@ private static final long serialVersionUID = 0L;
   checkByteStringIsUtf8(value);
       
       version_ = value;
+      onChanged();
+      return this;
+    }
+
+    private com.google.protobuf.LazyStringList attributes_ = com.google.protobuf.LazyStringArrayList.EMPTY;
+    private void ensureAttributesIsMutable() {
+      if (!((bitField0_ & 0x00000002) != 0)) {
+        attributes_ = new com.google.protobuf.LazyStringArrayList(attributes_);
+        bitField0_ |= 0x00000002;
+       }
+    }
+    /**
+     * <pre>
+     * The list of monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+     * </pre>
+     *
+     * <code>repeated string attributes = 21;</code>
+     * @return A list containing the attributes.
+     */
+    public com.google.protobuf.ProtocolStringList
+        getAttributesList() {
+      return attributes_.getUnmodifiableView();
+    }
+    /**
+     * <pre>
+     * The list of monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+     * </pre>
+     *
+     * <code>repeated string attributes = 21;</code>
+     * @return The count of attributes.
+     */
+    public int getAttributesCount() {
+      return attributes_.size();
+    }
+    /**
+     * <pre>
+     * The list of monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+     * </pre>
+     *
+     * <code>repeated string attributes = 21;</code>
+     * @param index The index of the element to return.
+     * @return The attributes at the given index.
+     */
+    public java.lang.String getAttributes(int index) {
+      return attributes_.get(index);
+    }
+    /**
+     * <pre>
+     * The list of monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+     * </pre>
+     *
+     * <code>repeated string attributes = 21;</code>
+     * @param index The index of the value to return.
+     * @return The bytes of the attributes at the given index.
+     */
+    public com.google.protobuf.ByteString
+        getAttributesBytes(int index) {
+      return attributes_.getByteString(index);
+    }
+    /**
+     * <pre>
+     * The list of monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+     * </pre>
+     *
+     * <code>repeated string attributes = 21;</code>
+     * @param index The index to set the value at.
+     * @param value The attributes to set.
+     * @return This builder for chaining.
+     */
+    public Builder setAttributes(
+        int index, java.lang.String value) {
+      if (value == null) {
+    throw new NullPointerException();
+  }
+  ensureAttributesIsMutable();
+      attributes_.set(index, value);
+      onChanged();
+      return this;
+    }
+    /**
+     * <pre>
+     * The list of monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+     * </pre>
+     *
+     * <code>repeated string attributes = 21;</code>
+     * @param value The attributes to add.
+     * @return This builder for chaining.
+     */
+    public Builder addAttributes(
+        java.lang.String value) {
+      if (value == null) {
+    throw new NullPointerException();
+  }
+  ensureAttributesIsMutable();
+      attributes_.add(value);
+      onChanged();
+      return this;
+    }
+    /**
+     * <pre>
+     * The list of monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+     * </pre>
+     *
+     * <code>repeated string attributes = 21;</code>
+     * @param values The attributes to add.
+     * @return This builder for chaining.
+     */
+    public Builder addAllAttributes(
+        java.lang.Iterable<java.lang.String> values) {
+      ensureAttributesIsMutable();
+      com.google.protobuf.AbstractMessageLite.Builder.addAll(
+          values, attributes_);
+      onChanged();
+      return this;
+    }
+    /**
+     * <pre>
+     * The list of monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+     * </pre>
+     *
+     * <code>repeated string attributes = 21;</code>
+     * @return This builder for chaining.
+     */
+    public Builder clearAttributes() {
+      attributes_ = com.google.protobuf.LazyStringArrayList.EMPTY;
+      bitField0_ = (bitField0_ & ~0x00000002);
+      onChanged();
+      return this;
+    }
+    /**
+     * <pre>
+     * The list of monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+     * </pre>
+     *
+     * <code>repeated string attributes = 21;</code>
+     * @param value The bytes of the attributes to add.
+     * @return This builder for chaining.
+     */
+    public Builder addAttributesBytes(
+        com.google.protobuf.ByteString value) {
+      if (value == null) {
+    throw new NullPointerException();
+  }
+  checkByteStringIsUtf8(value);
+      ensureAttributesIsMutable();
+      attributes_.add(value);
       onChanged();
       return this;
     }
