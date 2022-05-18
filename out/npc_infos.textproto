@@ -18586,6 +18586,12 @@ npcs {
   drange: -15
 }
 npcs {
+  ids: 11463
+  name: "Reanimated hellhound"
+  hitpoints: 35
+  attributes: "demon"
+}
+npcs {
   ids: 7031
   name: "Reanimated horror"
   hitpoints: 35
