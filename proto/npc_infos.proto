@@ -34,8 +34,8 @@ message NpcInfo {
   // like the Abyssal Sire.
   string version = 3;
 
-  // The list of monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
-  repeated string attributes = 21;
+  // The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+  string attributes = 21;
 
   // =============================================== Combat Stats Start ===============================================
 

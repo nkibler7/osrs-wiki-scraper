@@ -52,8 +52,8 @@ def parse_and_write_npcinfos(output_dir: str):
                 npc_info = ParseDict(filtered_infobox, NpcInfo())
                 npc_info.ids[:] = ids
                 npc_infos.npcs.append(npc_info)
-            except ParseError:
-                warn('Failed to parse JSON into NpcInfo proto: {}'.format(filtered_infobox))
+            except ParseError as err:
+                warn('Failed to parse JSON into NpcInfo proto: {}\nError: {}'.format(filtered_infobox, err))
 
     output_filename = os.path.join(output_dir, 'npc_infos')
     util.write_proto(npc_infos, output_filename)

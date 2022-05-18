@@ -82,44 +82,23 @@ public interface NpcInfoOrBuilder extends
 
   /**
    * <pre>
-   * The list of monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+   * The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
    * </pre>
    *
-   * <code>repeated string attributes = 21;</code>
-   * @return A list containing the attributes.
+   * <code>string attributes = 21;</code>
+   * @return The attributes.
    */
-  java.util.List<java.lang.String>
-      getAttributesList();
+  java.lang.String getAttributes();
   /**
    * <pre>
-   * The list of monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+   * The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
    * </pre>
    *
-   * <code>repeated string attributes = 21;</code>
-   * @return The count of attributes.
-   */
-  int getAttributesCount();
-  /**
-   * <pre>
-   * The list of monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
-   * </pre>
-   *
-   * <code>repeated string attributes = 21;</code>
-   * @param index The index of the element to return.
-   * @return The attributes at the given index.
-   */
-  java.lang.String getAttributes(int index);
-  /**
-   * <pre>
-   * The list of monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
-   * </pre>
-   *
-   * <code>repeated string attributes = 21;</code>
-   * @param index The index of the value to return.
-   * @return The bytes of the attributes at the given index.
+   * <code>string attributes = 21;</code>
+   * @return The bytes for attributes.
    */
   com.google.protobuf.ByteString
-      getAttributesBytes(int index);
+      getAttributesBytes();
 
   /**
    * <pre>

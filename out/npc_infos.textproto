@@ -7,6 +7,41 @@ npcs {
   hitpoints: 50
 }
 npcs {
+  ids: 2
+  ids: 3
+  ids: 4
+  ids: 5
+  ids: 6
+  ids: 7
+  name: "Aberrant spectre"
+  hitpoints: 90
+  att: 1
+  str: 1
+  def: 90
+  mage: 105
+  range: 1
+  dstab: 20
+  dslash: 20
+  dcrush: 20
+  drange: 15
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 7402
+  name: "Abhorrent spectre"
+  hitpoints: 250
+  att: 1
+  str: 1
+  def: 180
+  mage: 300
+  range: 1
+  dstab: 40
+  dslash: 40
+  dcrush: 40
+  drange: 30
+  attributes: "undead, Spectral"
+}
+npcs {
   ids: 8260
   ids: 8261
   ids: 8262
@@ -22,6 +57,54 @@ npcs {
   dcrush: 80
   dmagic: 20
   drange: 180
+}
+npcs {
+  ids: 415
+  name: "Abyssal demon"
+  version: "Standard"
+  hitpoints: 150
+  att: 97
+  str: 67
+  def: 135
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  dcrush: 20
+  drange: 20
+  attributes: "demon"
+}
+npcs {
+  ids: 7241
+  name: "Abyssal demon"
+  version: "Catacombs of Kourend"
+  hitpoints: 150
+  att: 97
+  str: 67
+  def: 135
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  dcrush: 20
+  drange: 20
+  attributes: "demon"
+}
+npcs {
+  ids: 11239
+  name: "Abyssal demon"
+  version: "Wilderness Slayer Cave"
+  hitpoints: 150
+  att: 97
+  str: 67
+  def: 135
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  dcrush: 20
+  drange: 20
+  attributes: "demon"
 }
 npcs {
   ids: 2585
@@ -58,6 +141,109 @@ npcs {
   drange: 10
 }
 npcs {
+  ids: 7533
+  name: "Abyssal portal"
+  version: "Normal"
+  hitpoints: 250
+  att: 1
+  str: 1
+  def: 176
+  mage: 176
+  range: 1
+  dmagic: 60
+  drange: 140
+  attributes: "xerician"
+}
+npcs {
+  ids: 7533
+  name: "Abyssal portal"
+  version: "Challenge Mode"
+  hitpoints: 370
+  att: 1
+  str: 1
+  def: 264
+  mage: 264
+  range: 1
+  dmagic: 60
+  drange: 140
+  attributes: "xerician"
+}
+npcs {
+  ids: 5886
+  ids: 5887
+  ids: 5888
+  name: "Abyssal Sire"
+  version: "Phase 1"
+  hitpoints: 400
+  att: 180
+  str: 136
+  def: 250
+  mage: 200
+  range: 1
+  attbns: 65
+  dstab: 40
+  dslash: 60
+  dcrush: 50
+  dmagic: 20
+  drange: 60
+  attributes: "demon"
+}
+npcs {
+  ids: 5889
+  ids: 5890
+  name: "Abyssal Sire"
+  version: "Phase 2"
+  hitpoints: 400
+  att: 180
+  str: 136
+  def: 250
+  mage: 200
+  range: 1
+  attbns: 65
+  dstab: 40
+  dslash: 60
+  dcrush: 50
+  dmagic: 20
+  drange: 60
+  attributes: "demon"
+}
+npcs {
+  ids: 5891
+  name: "Abyssal Sire"
+  version: "Phase 3 (stage 1)"
+  hitpoints: 400
+  att: 180
+  str: 136
+  def: 250
+  mage: 200
+  range: 1
+  attbns: 65
+  dstab: 40
+  dslash: 60
+  dcrush: 50
+  dmagic: 20
+  drange: 60
+  attributes: "demon"
+}
+npcs {
+  ids: 5908
+  name: "Abyssal Sire"
+  version: "Phase 3 (stage 2)"
+  hitpoints: 400
+  att: 180
+  str: 136
+  def: 250
+  mage: 200
+  range: 1
+  attbns: 65
+  dstab: 20
+  dslash: 30
+  dcrush: 25
+  dmagic: -40
+  drange: 30
+  attributes: "demon"
+}
+npcs {
   ids: 2586
   name: "Abyssal walker"
   hitpoints: 95
@@ -88,6 +274,23 @@ npcs {
   dcrush: -100
   dmagic: -100
   drange: -100
+}
+npcs {
+  ids: 8030
+  ids: 8090
+  name: "Adamant dragon"
+  hitpoints: 295
+  att: 280
+  str: 280
+  def: 272
+  mage: 186
+  range: 186
+  dstab: 30
+  dslash: 110
+  dcrush: 85
+  dmagic: 30
+  drange: 95
+  attributes: "dragon,fiery"
 }
 npcs {
   ids: 1298
@@ -208,6 +411,24 @@ npcs {
   drange: 100
 }
 npcs {
+  ids: 1672
+  name: "Ahrim the Blighted"
+  hitpoints: 100
+  att: 1
+  str: 1
+  def: 100
+  mage: 100
+  range: 1
+  strbns: 68
+  amagic: 73
+  arange: -19
+  dstab: 103
+  dslash: 85
+  dcrush: 117
+  dmagic: 73
+  attributes: "spectral"
+}
+npcs {
   ids: 1369
   name: "Air elemental"
   hitpoints: 30
@@ -253,6 +474,90 @@ npcs {
   def: 30
   mage: 1
   range: 1
+}
+npcs {
+  ids: 8615
+  name: "Alchemical Hydra"
+  version: "Five heads"
+  hitpoints: 1100
+  att: 100
+  str: 100
+  def: 100
+  mage: 260
+  range: 260
+  amagic: 45
+  mbns: 20
+  arange: 45
+  rngbns: 20
+  dstab: 75
+  dslash: 150
+  dcrush: 150
+  dmagic: 150
+  drange: 45
+  attributes: "dragon"
+}
+npcs {
+  ids: 8619
+  name: "Alchemical Hydra"
+  version: "Four heads"
+  hitpoints: 1100
+  att: 100
+  str: 100
+  def: 100
+  mage: 260
+  range: 260
+  amagic: 45
+  mbns: 20
+  arange: 45
+  rngbns: 20
+  dstab: 75
+  dslash: 150
+  dcrush: 150
+  dmagic: 150
+  drange: 45
+  attributes: "dragon"
+}
+npcs {
+  ids: 8620
+  name: "Alchemical Hydra"
+  version: "Three heads"
+  hitpoints: 1100
+  att: 100
+  str: 100
+  def: 100
+  mage: 260
+  range: 260
+  amagic: 45
+  mbns: 20
+  arange: 45
+  rngbns: 20
+  dstab: 75
+  dslash: 150
+  dcrush: 150
+  dmagic: 150
+  drange: 45
+  attributes: "dragon"
+}
+npcs {
+  ids: 8621
+  name: "Alchemical Hydra"
+  version: "Two heads"
+  hitpoints: 1100
+  att: 100
+  str: 100
+  def: 100
+  mage: 260
+  range: 260
+  amagic: 45
+  mbns: 20
+  arange: 45
+  rngbns: 20
+  dstab: 75
+  dslash: 150
+  dcrush: 150
+  dmagic: 150
+  drange: 45
+  attributes: "dragon"
 }
 npcs {
   ids: 2623
@@ -374,6 +679,22 @@ npcs {
   strbns: 80
 }
 npcs {
+  ids: 7795
+  name: "Ancient Wyvern"
+  hitpoints: 300
+  att: 150
+  str: 150
+  def: 150
+  mage: 90
+  range: 90
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: 170
+  drange: 120
+  attributes: "dragon"
+}
+npcs {
   ids: 7797
   name: "Ancient Zygomite"
   hitpoints: 150
@@ -388,6 +709,23 @@ npcs {
   dcrush: 20
   dmagic: 30
   drange: 30
+}
+npcs {
+  ids: 5563
+  name: "Angry barbarian spirit"
+  hitpoints: 190
+  att: 150
+  str: 140
+  def: 100
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 15
+  dslash: 3
+  dcrush: 2
+  dmagic: -3
+  drange: 2
+  attributes: "spectral"
 }
 npcs {
   ids: 1060
@@ -622,6 +960,70 @@ npcs {
   dcrush: -21
   dmagic: -21
   drange: -21
+}
+npcs {
+  ids: 2514
+  ids: 2517
+  name: "Ankou"
+  version: "Level 75"
+  hitpoints: 60
+  att: 70
+  str: 70
+  def: 60
+  mage: 1
+  range: 1
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 2515
+  ids: 2518
+  name: "Ankou"
+  version: "Level 82"
+  hitpoints: 65
+  att: 80
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 2516
+  ids: 2519
+  ids: 6608
+  name: "Ankou"
+  version: "Level 86"
+  hitpoints: 70
+  att: 75
+  str: 75
+  def: 80
+  mage: 1
+  range: 1
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 7257
+  name: "Ankou"
+  version: "Level 95"
+  hitpoints: 60
+  att: 100
+  str: 70
+  def: 100
+  mage: 1
+  range: 1
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 7864
+  name: "Ankou"
+  version: "Level 98"
+  hitpoints: 100
+  att: 75
+  str: 90
+  def: 80
+  mage: 1
+  range: 1
+  attributes: "undead, spectral"
 }
 npcs {
   ids: 4195
@@ -945,6 +1347,37 @@ npcs {
   drange: 50
 }
 npcs {
+  ids: 1284
+  name: "Asyn Shade"
+  version: "Shade"
+  hitpoints: 90
+  att: 102
+  str: 84
+  def: 70
+  attributes: "shade,undead,spectral"
+}
+npcs {
+  ids: 1283
+  name: "Asyn Shadow"
+  version: "Shadow"
+  hitpoints: 90
+  att: 102
+  str: 84
+  def: 70
+  attributes: "shade,undead,spectral"
+}
+npcs {
+  ids: 5632
+  name: "Asyn shadow"
+  hitpoints: 94
+  att: 110
+  str: 96
+  def: 80
+  mage: 50
+  range: 50
+  attributes: "undead, spectral"
+}
+npcs {
   ids: 10531
   name: "Avatar of Creation"
   hitpoints: 1500
@@ -1147,6 +1580,177 @@ npcs {
   hitpoints: 100
 }
 npcs {
+  ids: 1871
+  ids: 1872
+  ids: 7955
+  name: "Baby black dragon"
+  hitpoints: 80
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  dstab: 30
+  dslash: 50
+  dcrush: 50
+  dmagic: 40
+  drange: 30
+  attributes: "dragon"
+}
+npcs {
+  ids: 241
+  name: "Baby blue dragon"
+  version: "1"
+  hitpoints: 50
+  att: 40
+  str: 40
+  def: 40
+  mage: 1
+  range: 1
+  dstab: 30
+  dslash: 50
+  dcrush: 50
+  dmagic: 40
+  drange: 30
+  attributes: "dragon"
+}
+npcs {
+  ids: 242
+  name: "Baby blue dragon"
+  version: "2"
+  hitpoints: 50
+  att: 40
+  str: 40
+  def: 40
+  mage: 1
+  range: 1
+  dstab: 30
+  dslash: 50
+  dcrush: 50
+  dmagic: 40
+  drange: 30
+  attributes: "dragon"
+}
+npcs {
+  ids: 243
+  name: "Baby blue dragon"
+  version: "3"
+  hitpoints: 50
+  att: 40
+  str: 40
+  def: 40
+  mage: 1
+  range: 1
+  dstab: 30
+  dslash: 50
+  dcrush: 50
+  dmagic: 40
+  drange: 30
+  attributes: "dragon"
+}
+npcs {
+  ids: 5194
+  name: "Baby green dragon"
+  version: "1"
+  hitpoints: 50
+  att: 40
+  str: 40
+  def: 40
+  mage: 1
+  range: 1
+  dstab: 30
+  dslash: 50
+  dcrush: 50
+  dmagic: 40
+  drange: 30
+  attributes: "dragon"
+}
+npcs {
+  ids: 5872
+  name: "Baby green dragon"
+  version: "2"
+  hitpoints: 50
+  att: 40
+  str: 40
+  def: 40
+  mage: 1
+  range: 1
+  dstab: 30
+  dslash: 50
+  dcrush: 50
+  dmagic: 40
+  drange: 30
+  attributes: "dragon"
+}
+npcs {
+  ids: 5873
+  name: "Baby green dragon"
+  version: "3"
+  hitpoints: 50
+  att: 40
+  str: 40
+  def: 40
+  mage: 1
+  range: 1
+  dstab: 30
+  dslash: 50
+  dcrush: 50
+  dmagic: 40
+  drange: 30
+  attributes: "dragon"
+}
+npcs {
+  ids: 244
+  name: "Baby red dragon"
+  version: "1"
+  hitpoints: 50
+  att: 40
+  str: 40
+  def: 40
+  mage: 1
+  range: 1
+  dstab: 30
+  dslash: 50
+  dcrush: 50
+  dmagic: 40
+  drange: 30
+  attributes: "dragon"
+}
+npcs {
+  ids: 245
+  name: "Baby red dragon"
+  version: "2"
+  hitpoints: 50
+  att: 40
+  str: 40
+  def: 40
+  mage: 1
+  range: 1
+  dstab: 30
+  dslash: 50
+  dcrush: 50
+  dmagic: 40
+  drange: 30
+  attributes: "dragon"
+}
+npcs {
+  ids: 246
+  name: "Baby red dragon"
+  version: "3"
+  hitpoints: 50
+  att: 40
+  str: 40
+  def: 40
+  mage: 1
+  range: 1
+  dstab: 30
+  dslash: 50
+  dcrush: 50
+  dmagic: 40
+  drange: 30
+  attributes: "dragon"
+}
+npcs {
   ids: 137
   name: "Baby red dragon"
   hitpoints: 65
@@ -1193,6 +1797,18 @@ npcs {
   def: 40
   mage: 1
   range: 1
+}
+npcs {
+  ids: 3132
+  name: "Balfrug Kreeyath"
+  hitpoints: 161
+  att: 115
+  str: 60
+  def: 153
+  mage: 150
+  range: 1
+  dmagic: 10
+  attributes: "demon"
 }
 npcs {
   ids: 1026
@@ -1328,6 +1944,21 @@ npcs {
   dcrush: 13
   dmagic: 5
   drange: 13
+}
+npcs {
+  ids: 414
+  name: "Banshee"
+  hitpoints: 22
+  att: 22
+  str: 15
+  def: 22
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: 5
+  drange: 5
+  attributes: "undead, spectral"
 }
 npcs {
   ids: 3262
@@ -1955,6 +2586,23 @@ npcs {
   drange: 200
 }
 npcs {
+  ids: 5565
+  name: "Berserk barbarian spirit"
+  hitpoints: 190
+  att: 150
+  str: 140
+  def: 100
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 15
+  dslash: 3
+  dcrush: 2
+  dmagic: -3
+  drange: 2
+  attributes: "spectral"
+}
+npcs {
   ids: 8701
   name: "Big frog"
   version: "Level 10"
@@ -2084,6 +2732,156 @@ npcs {
   def: 2
   mage: 2
   range: 2
+}
+npcs {
+  ids: 240
+  ids: 2048
+  ids: 2049
+  ids: 2050
+  ids: 2051
+  ids: 2052
+  ids: 5874
+  ids: 5875
+  ids: 5876
+  ids: 5877
+  name: "Black demon"
+  version: "Level 172"
+  hitpoints: 157
+  att: 145
+  str: 148
+  def: 152
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
+}
+npcs {
+  ids: 7243
+  name: "Black demon"
+  version: "Level 178"
+  hitpoints: 160
+  att: 145
+  str: 148
+  def: 175
+  mage: 1
+  range: 1
+  dmagic: -5
+  attributes: "demon"
+}
+npcs {
+  ids: 7242
+  name: "Black demon"
+  version: "Level 184"
+  hitpoints: 170
+  att: 155
+  str: 158
+  def: 162
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
+}
+npcs {
+  ids: 7874
+  ids: 7875
+  ids: 7876
+  name: "Black demon"
+  version: "Level 188"
+  hitpoints: 200
+  att: 145
+  str: 165
+  def: 152
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
+}
+npcs {
+  ids: 1432
+  name: "Black demon"
+  version: "Normal"
+  hitpoints: 157
+  att: 145
+  str: 148
+  def: 152
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
+}
+npcs {
+  ids: 6295
+  name: "Black demon (hard)"
+  version: "Hard"
+  hitpoints: 255
+  att: 290
+  str: 296
+  def: 152
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
+}
+npcs {
+  ids: 252
+  ids: 253
+  ids: 254
+  ids: 255
+  ids: 256
+  ids: 257
+  ids: 258
+  ids: 259
+  ids: 8084
+  ids: 8085
+  name: "Black dragon"
+  version: "Level 227"
+  hitpoints: 190
+  att: 200
+  str: 200
+  def: 200
+  mage: 100
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 7861
+  ids: 7862
+  ids: 7863
+  name: "Black dragon"
+  version: "Level 247"
+  hitpoints: 250
+  att: 200
+  str: 215
+  def: 200
+  mage: 150
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 4742
+  name: "Black golem"
+  hitpoints: 80
+  att: 80
+  str: 30
+  def: 80
+  mage: 1
+  range: 1
+  dstab: 300
+  dslash: 300
+  dcrush: 1
+  dmagic: 300
+  drange: 300
+  attributes: "Golem"
 }
 npcs {
   ids: 1409
@@ -2412,6 +3210,40 @@ npcs {
   drange: 50
 }
 npcs {
+  ids: 11293
+  name: "Blood Reaver"
+  version: "Ancient Prison"
+  hitpoints: 125
+  att: 1
+  str: 1
+  def: 100
+  mage: 190
+  range: 1
+  dstab: 20
+  dslash: 80
+  dcrush: 120
+  dmagic: 300
+  drange: 55
+  attributes: "Demon"
+}
+npcs {
+  ids: 11294
+  name: "Blood Reaver"
+  version: "Nex\'s chamber"
+  hitpoints: 150
+  att: 1
+  str: 1
+  def: 100
+  mage: 190
+  range: 1
+  dstab: 20
+  dslash: 80
+  dcrush: 120
+  dmagic: 300
+  drange: 55
+  attributes: "Demon"
+}
+npcs {
   ids: 8367
   ids: 10821
   ids: 10829
@@ -2422,6 +3254,33 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 484
+  ids: 485
+  ids: 486
+  ids: 487
+  name: "Bloodveld"
+  version: "Standard"
+  hitpoints: 120
+  att: 75
+  str: 45
+  def: 30
+  mage: 1
+  range: 1
+  attributes: "demon"
+}
+npcs {
+  ids: 3138
+  name: "Bloodveld"
+  version: "God Wars"
+  hitpoints: 134
+  att: 80
+  str: 46
+  def: 30
+  mage: 1
+  range: 1
+  attributes: "demon"
+}
+npcs {
   ids: 1678
   name: "Bloodworm"
   hitpoints: 45
@@ -2430,6 +3289,98 @@ npcs {
   def: 35
   mage: 1
   range: 1
+}
+npcs {
+  ids: 269
+  ids: 5882
+  name: "Blue dragon"
+  version: "1"
+  hitpoints: 105
+  att: 95
+  str: 95
+  def: 95
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 265
+  ids: 4385
+  ids: 5878
+  name: "Blue dragon"
+  version: "2"
+  hitpoints: 105
+  att: 95
+  str: 95
+  def: 95
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 266
+  ids: 5879
+  ids: 8083
+  name: "Blue dragon"
+  version: "3"
+  hitpoints: 105
+  att: 95
+  str: 95
+  def: 95
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 267
+  ids: 5880
+  name: "Blue dragon"
+  version: "4"
+  hitpoints: 105
+  att: 95
+  str: 95
+  def: 95
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 268
+  ids: 5881
+  name: "Blue dragon"
+  version: "5"
+  hitpoints: 105
+  att: 95
+  str: 95
+  def: 95
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon,fiery"
 }
 npcs {
   ids: 11066
@@ -2452,6 +3403,23 @@ npcs {
   def: 4
   mage: 1
   range: 1
+}
+npcs {
+  ids: 10691
+  name: "Body Golem"
+  version: "Golem"
+  hitpoints: 60
+  att: 33
+  str: 43
+  def: 45
+  mage: 1
+  range: 1
+  strbns: 28
+  dstab: 5
+  dslash: 5
+  dmagic: 2
+  drange: 10
+  attributes: "Golem"
 }
 npcs {
   ids: 10692
@@ -2494,6 +3462,31 @@ npcs {
   mage: 1
   range: 1
   strbns: 20
+}
+npcs {
+  ids: 1224
+  ids: 6355
+  name: "Bouncer"
+  version: "Normal"
+  hitpoints: 116
+  att: 120
+  str: 120
+  def: 120
+  mage: 1
+  range: 1
+  attributes: "demon"
+}
+npcs {
+  ids: 6293
+  name: "Bouncer (hard)"
+  version: "Hard"
+  hitpoints: 232
+  att: 240
+  str: 240
+  def: 120
+  mage: 1
+  range: 1
+  attributes: "demon"
 }
 npcs {
   ids: 3508
@@ -2615,6 +3608,41 @@ npcs {
   drange: -12
 }
 npcs {
+  ids: 270
+  ids: 271
+  name: "Bronze dragon"
+  version: "Standard"
+  hitpoints: 122
+  att: 112
+  str: 112
+  def: 112
+  mage: 100
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 30
+  drange: 90
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 7253
+  name: "Bronze dragon"
+  version: "Catacombs of Kourend"
+  hitpoints: 122
+  att: 130
+  str: 130
+  def: 112
+  mage: 130
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 30
+  drange: 90
+  attributes: "dragon,fiery"
+}
+npcs {
   ids: 6408
   ids: 6409
   name: "Broodoo victim"
@@ -2687,6 +3715,70 @@ npcs {
   dcrush: 30
   dmagic: 5
   drange: 50
+}
+npcs {
+  ids: 7275
+  ids: 8092
+  ids: 8093
+  name: "Brutal black dragon"
+  hitpoints: 315
+  att: 330
+  str: 210
+  def: 258
+  mage: 250
+  strbns: 20
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 7273
+  name: "Brutal blue dragon"
+  hitpoints: 245
+  att: 298
+  str: 198
+  def: 198
+  mage: 198
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 2918
+  name: "Brutal green dragon"
+  hitpoints: 175
+  att: 268
+  str: 168
+  def: 168
+  mage: 168
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 7274
+  ids: 8087
+  name: "Brutal red dragon"
+  hitpoints: 285
+  att: 310
+  str: 210
+  def: 198
+  mage: 250
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon,fiery"
 }
 npcs {
   ids: 8195
@@ -3212,6 +4304,27 @@ npcs {
   drange: -12
 }
 npcs {
+  ids: 5862
+  ids: 5863
+  ids: 5866
+  name: "Cerberus"
+  hitpoints: 600
+  att: 220
+  str: 220
+  def: 100
+  mage: 220
+  range: 220
+  attbns: 50
+  amagic: 50
+  arange: 50
+  dstab: 50
+  dslash: 100
+  dcrush: 25
+  dmagic: 100
+  drange: 100
+  attributes: "demon"
+}
+npcs {
   ids: 11482
   name: "Champion of Scabaras"
   hitpoints: 600
@@ -3321,6 +4434,23 @@ npcs {
   dcrush: 250
   dmagic: 280
   drange: 80
+}
+npcs {
+  ids: 10689
+  name: "Chaos Golem"
+  version: "Golem"
+  hitpoints: 94
+  att: 45
+  str: 55
+  def: 59
+  mage: 1
+  range: 1
+  strbns: 35
+  dstab: 5
+  dslash: 5
+  dmagic: 2
+  drange: 10
+  attributes: "golem"
 }
 npcs {
   ids: 10690
@@ -3480,6 +4610,31 @@ npcs {
   def: 3
 }
 npcs {
+  ids: 4987
+  ids: 6354
+  name: "Chronozon"
+  version: "Normal"
+  hitpoints: 60
+  att: 173
+  str: 172
+  def: 173
+  mage: 1
+  range: 1
+  attributes: "demon"
+}
+npcs {
+  ids: 6292
+  name: "Chronozon (hard)"
+  version: "Hard"
+  hitpoints: 120
+  att: 346
+  str: 344
+  def: 173
+  mage: 1
+  range: 1
+  attributes: "demon"
+}
+npcs {
   ids: 4373
   name: "City guard"
   hitpoints: 80
@@ -3562,6 +4717,22 @@ npcs {
   dstab: 39
   dslash: 31
   dcrush: 34
+}
+npcs {
+  ids: 10402
+  name: "Colossal Hydra"
+  hitpoints: 750
+  att: 1
+  str: 1
+  def: 100
+  mage: 250
+  range: 250
+  dstab: 100
+  dslash: 200
+  dcrush: 200
+  dmagic: 200
+  drange: 20
+  attributes: "dragon"
 }
 npcs {
   ids: 2205
@@ -3819,6 +4990,38 @@ npcs {
   mage: 22
 }
 npcs {
+  ids: 3481
+  ids: 3482
+  ids: 6393
+  name: "Count Draynor"
+  version: "Normal"
+  hitpoints: 35
+  att: 30
+  str: 25
+  def: 30
+  mage: 1
+  range: 1
+  dstab: 2
+  dslash: 1
+  dcrush: 3
+  attributes: "vampyre1"
+}
+npcs {
+  ids: 6332
+  name: "Count Draynor (hard)"
+  version: "Hard"
+  hitpoints: 223
+  att: 198
+  str: 165
+  def: 30
+  mage: 1
+  range: 1
+  dstab: 2
+  dslash: 1
+  dcrush: 3
+  attributes: "vampyre1"
+}
+npcs {
   ids: 2790
   name: "Cow"
   version: "1"
@@ -4021,6 +5224,122 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 450
+  name: "Crawling Hand"
+  version: "Level 7"
+  hitpoints: 15
+  att: 7
+  str: 3
+  def: 3
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 448
+  name: "Crawling Hand"
+  version: "Level 8 (1)"
+  hitpoints: 16
+  att: 8
+  str: 4
+  def: 4
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 449
+  name: "Crawling Hand"
+  version: "Level 8 (2)"
+  hitpoints: 16
+  att: 8
+  str: 4
+  def: 4
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 451
+  name: "Crawling Hand"
+  version: "Level 8 (3)"
+  hitpoints: 16
+  att: 8
+  str: 4
+  def: 4
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 452
+  name: "Crawling Hand"
+  version: "Level 8 (4)"
+  hitpoints: 16
+  att: 8
+  str: 4
+  def: 4
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 455
+  name: "Crawling Hand"
+  version: "Level 11 (unused)"
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 453
+  name: "Crawling Hand"
+  version: "Level 12 (1)"
+  hitpoints: 19
+  att: 11
+  str: 7
+  def: 7
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 454
+  name: "Crawling Hand"
+  version: "Level 12 (2)"
+  hitpoints: 19
+  att: 11
+  str: 7
+  def: 7
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 456
+  name: "Crawling Hand"
+  version: "Level 12 (unused 1)"
+  hitpoints: 19
+  att: 11
+  str: 7
+  def: 9
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 457
+  name: "Crawling Hand"
+  version: "Level 12 (unused 2)"
+  hitpoints: 19
+  att: 11
+  str: 7
+  def: 10
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
   ids: 6618
   name: "Crazy archaeologist"
   hitpoints: 225
@@ -4069,6 +5388,17 @@ npcs {
   dcrush: 100
   dmagic: 150
   drange: 50
+}
+npcs {
+  ids: 7388
+  name: "Crushing hand"
+  hitpoints: 55
+  att: 45
+  str: 42
+  def: 14
+  mage: 1
+  range: 1
+  attributes: "undead"
 }
 npcs {
   ids: 1679
@@ -4670,6 +6000,24 @@ npcs {
   drange: 550
 }
 npcs {
+  ids: 9774
+  name: "Damien Leucurte"
+  hitpoints: 217
+  def: 160
+  mage: 160
+  range: 160
+  amagic: 18
+  mbns: 12
+  arange: 18
+  rngbns: 12
+  dstab: 30
+  dslash: 30
+  dcrush: 30
+  dmagic: 30
+  drange: 30
+  attributes: "vampyre3"
+}
+npcs {
   ids: 682
   ids: 6346
   name: "Damis"
@@ -4738,6 +6086,17 @@ npcs {
   dcrush: 100
   dmagic: 80
   drange: 120
+}
+npcs {
+  ids: 7296
+  name: "Dark Ankou"
+  hitpoints: 60
+  att: 100
+  str: 70
+  def: 100
+  mage: 1
+  range: 1
+  attributes: "undead"
 }
 npcs {
   ids: 4005
@@ -4953,6 +6312,71 @@ npcs {
   drange: 20
 }
 npcs {
+  ids: 509
+  name: "Death wing"
+  hitpoints: 80
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  attributes: "spectral"
+}
+npcs {
+  ids: 7560
+  name: "Deathly mage"
+  version: "Normal"
+  hitpoints: 120
+  att: 1
+  str: 1
+  def: 155
+  mage: 210
+  range: 1
+  amagic: 120
+  attributes: "xerician"
+}
+npcs {
+  ids: 7560
+  name: "Deathly mage"
+  version: "Challenge Mode"
+  hitpoints: 180
+  att: 1
+  str: 1
+  def: 232
+  mage: 315
+  range: 1
+  amagic: 120
+  attributes: "xerician"
+}
+npcs {
+  ids: 7559
+  name: "Deathly ranger"
+  version: "Normal"
+  hitpoints: 120
+  att: 1
+  str: 1
+  def: 155
+  mage: 155
+  range: 210
+  arange: 120
+  rngbns: 70
+  attributes: "xerician"
+}
+npcs {
+  ids: 7559
+  name: "Deathly ranger"
+  version: "Challenge Mode"
+  hitpoints: 180
+  att: 1
+  str: 1
+  def: 232
+  mage: 232
+  range: 315
+  arange: 120
+  rngbns: 70
+  attributes: "xerician"
+}
+npcs {
   ids: 1724
   ids: 1725
   name: "Defiler"
@@ -5014,6 +6438,30 @@ npcs {
   mage: 1
   range: 1
   dmagic: -10
+}
+npcs {
+  ids: 7144
+  ids: 7145
+  ids: 7146
+  ids: 7147
+  ids: 7148
+  ids: 7149
+  ids: 7152
+  name: "Demonic gorilla"
+  hitpoints: 380
+  att: 205
+  str: 195
+  def: 200
+  mage: 195
+  range: 195
+  attbns: 43
+  strbns: 29
+  amagic: 40
+  mbns: 29
+  arange: 43
+  rngbns: 29
+  dmagic: 50
+  attributes: "demon"
 }
 npcs {
   ids: 7806
@@ -5122,6 +6570,76 @@ npcs {
   dcrush: 150
 }
 npcs {
+  ids: 3459
+  ids: 3460
+  ids: 6344
+  name: "Dessous"
+  version: "Normal"
+  hitpoints: 200
+  att: 99
+  str: 99
+  def: 99
+  mage: 1
+  range: 1
+  attbns: 50
+  strbns: 50
+  dstab: 10
+  dslash: 150
+  dcrush: 150
+  attributes: "vampyre1"
+}
+npcs {
+  ids: 1128
+  name: "Dessous"
+  version: "Hard"
+  hitpoints: 255
+  att: 198
+  str: 198
+  def: 99
+  mage: 1
+  range: 1
+  attbns: 50
+  strbns: 50
+  dstab: 10
+  dslash: 150
+  dcrush: 150
+  attributes: "vampyre1"
+}
+npcs {
+  ids: 7279
+  name: "Deviant spectre"
+  hitpoints: 190
+  att: 1
+  str: 1
+  def: 90
+  mage: 205
+  range: 1
+  dstab: 80
+  dslash: 80
+  dcrush: 80
+  drange: 85
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 1673
+  name: "Dharok the Wretched"
+  hitpoints: 100
+  att: 100
+  str: 100
+  def: 100
+  mage: 1
+  range: 1
+  strbns: 105
+  amagic: -58
+  arange: -18
+  dstab: 252
+  dslash: 250
+  dcrush: 244
+  dmagic: -11
+  drange: 249
+  attributes: "spectral"
+}
+npcs {
   ids: 3426
   name: "Dire Wolf"
   version: "Level 88"
@@ -5181,6 +6699,18 @@ npcs {
   dcrush: 10
 }
 npcs {
+  ids: 8995
+  name: "Doomion"
+  hitpoints: 87
+  att: 76
+  str: 78
+  def: 77
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
+}
+npcs {
   ids: 1777
   name: "Double agent"
   version: "Level 65"
@@ -5225,6 +6755,27 @@ npcs {
   dstab: 20
   dslash: 20
   dcrush: 20
+}
+npcs {
+  ids: 8612
+  ids: 8613
+  name: "Drake"
+  hitpoints: 250
+  att: 140
+  str: 118
+  def: 120
+  mage: 112
+  range: 140
+  attbns: 40
+  strbns: 12
+  arange: 40
+  rngbns: 40
+  dstab: 60
+  dslash: 60
+  dcrush: 60
+  dmagic: 20
+  drange: 100
+  attributes: "dragon"
 }
 npcs {
   ids: 3258
@@ -5303,6 +6854,11 @@ npcs {
   dcrush: -42
   dmagic: -42
   drange: -42
+}
+npcs {
+  ids: 5258
+  name: "Duke"
+  attributes: "(Optional)"
 }
 npcs {
   ids: 3607
@@ -5756,6 +7312,23 @@ npcs {
   drange: 270
 }
 npcs {
+  ids: 5564
+  name: "Enraged barbarian spirit"
+  hitpoints: 190
+  att: 150
+  str: 140
+  def: 100
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 15
+  dslash: 3
+  dcrush: 2
+  dmagic: -3
+  drange: 2
+  attributes: "spectral"
+}
+npcs {
   ids: 11227
   name: "Enraged Boar"
   hitpoints: 25
@@ -6015,6 +7588,103 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 3237
+  name: "Feral Vampyre"
+  version: "Level 61"
+  hitpoints: 40
+  att: 55
+  str: 60
+  def: 55
+  mage: 40
+  range: 1
+  attributes: "vampyre1"
+}
+npcs {
+  ids: 3707
+  ids: 3708
+  ids: 4431
+  name: "Feral Vampyre"
+  version: "Level 64"
+  hitpoints: 80
+  att: 55
+  str: 30
+  def: 60
+  mage: 1
+  range: 1
+  attributes: "vampyre1"
+}
+npcs {
+  ids: 5640
+  name: "Feral Vampyre"
+  version: "Level 70"
+  hitpoints: 75
+  att: 90
+  str: 46
+  def: 30
+  attributes: "vampyre1"
+}
+npcs {
+  ids: 3234
+  name: "Feral Vampyre"
+  version: "Level 72"
+  hitpoints: 50
+  att: 65
+  str: 70
+  def: 65
+  mage: 50
+  range: 1
+  attributes: "vampyre1"
+}
+npcs {
+  ids: 3137
+  name: "Feral Vampyre"
+  version: "Level 77"
+  hitpoints: 60
+  att: 65
+  str: 66
+  def: 81
+  mage: 1
+  range: 1
+  attributes: "vampyre1"
+}
+npcs {
+  ids: 5641
+  name: "Feral Vampyre"
+  version: "Level 100"
+  hitpoints: 135
+  att: 105
+  str: 76
+  def: 30
+  attributes: "vampyre1"
+}
+npcs {
+  ids: 5642
+  name: "Feral Vampyre"
+  version: "Level 130"
+  hitpoints: 185
+  att: 120
+  str: 116
+  def: 30
+  attributes: "vampyre1"
+}
+npcs {
+  ids: 5566
+  name: "Ferocious barbarian spirit"
+  hitpoints: 190
+  att: 150
+  str: 140
+  def: 100
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 15
+  dslash: 73
+  dcrush: 72
+  dmagic: -3
+  drange: 72
+  attributes: "spectral"
+}
+npcs {
   ids: 626
   name: "Fever spider"
   hitpoints: 40
@@ -6028,6 +7698,77 @@ npcs {
   dcrush: 10
   dmagic: 15
   drange: 15
+}
+npcs {
+  ids: 1365
+  name: "Fire elemental"
+  hitpoints: 30
+  att: 35
+  str: 35
+  def: 20
+  mage: 20
+  range: 20
+  attributes: "fiery"
+}
+npcs {
+  ids: 2075
+  ids: 2076
+  ids: 2077
+  ids: 2078
+  ids: 2079
+  ids: 2080
+  ids: 2081
+  ids: 2082
+  ids: 2083
+  ids: 2084
+  name: "Fire giant"
+  version: "Level 86"
+  hitpoints: 111
+  att: 65
+  str: 65
+  def: 65
+  mage: 1
+  range: 1
+  attbns: 29
+  strbns: 31
+  dslash: 3
+  dcrush: 2
+  attributes: "fiery"
+}
+npcs {
+  ids: 7252
+  name: "Fire giant"
+  version: "Level 104"
+  hitpoints: 130
+  att: 65
+  str: 65
+  def: 120
+  mage: 1
+  range: 1
+  attbns: 50
+  strbns: 20
+  dstab: 20
+  dslash: 10
+  dcrush: 10
+  dmagic: 50
+  drange: -10
+  attributes: "fiery"
+}
+npcs {
+  ids: 7251
+  name: "Fire giant"
+  version: "Level 109"
+  hitpoints: 150
+  att: 90
+  str: 80
+  def: 65
+  mage: 1
+  range: 1
+  attbns: 29
+  strbns: 31
+  dslash: 3
+  dcrush: 2
+  attributes: "fiery"
 }
 npcs {
   ids: 3448
@@ -6054,6 +7795,26 @@ npcs {
   def: 10
   mage: 10
   dmagic: 15
+}
+npcs {
+  ids: 1286
+  name: "Fiyr Shade"
+  version: "Shade"
+  hitpoints: 110
+  att: 120
+  str: 100
+  def: 85
+  attributes: "shade,undead,spectral"
+}
+npcs {
+  ids: 1285
+  name: "Fiyr Shadow"
+  version: "Shadow"
+  hitpoints: 110
+  att: 120
+  str: 100
+  def: 85
+  attributes: "shade,undead,spectral"
 }
 npcs {
   ids: 4881
@@ -6089,6 +7850,38 @@ npcs {
   dcrush: 5
   dmagic: 5
   drange: 50
+}
+npcs {
+  ids: 7394
+  name: "Flaming pyrelord"
+  hitpoints: 126
+  att: 98
+  str: 65
+  def: 52
+  mage: 1
+  range: 1
+  dstab: 18
+  dslash: 18
+  dcrush: 18
+  drange: 18
+  attributes: "demon"
+}
+npcs {
+  ids: 10695
+  name: "Flawed Golem"
+  version: "Golem"
+  hitpoints: 25
+  att: 7
+  str: 12
+  def: 6
+  mage: 1
+  range: 1
+  strbns: 15
+  dstab: 5
+  dslash: 5
+  dmagic: 2
+  drange: 10
+  attributes: "Golem"
 }
 npcs {
   ids: 10696
@@ -6219,6 +8012,30 @@ npcs {
   dstab: 4
   dslash: 3
   dcrush: 5
+}
+npcs {
+  ids: 10544
+  name: "Forgotten Soul"
+  version: "1"
+  hitpoints: 50
+  att: 8
+  str: 8
+  def: 12
+  mage: 10
+  range: 1
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 10545
+  name: "Forgotten Soul"
+  version: "2"
+  hitpoints: 50
+  att: 8
+  str: 8
+  def: 12
+  mage: 10
+  range: 1
+  attributes: "undead, spectral"
 }
 npcs {
   ids: 10523
@@ -6442,6 +8259,98 @@ npcs {
   dcrush: -21
   dmagic: -21
   drange: -21
+}
+npcs {
+  ids: 8094
+  ids: 8095
+  ids: 8177
+  name: "Galvek"
+  version: "Fire"
+  hitpoints: 1200
+  att: 632
+  str: 268
+  def: 188
+  mage: 160
+  range: 246
+  attbns: 34
+  amagic: 160
+  mbns: 42
+  arange: 180
+  rngbns: 6
+  dstab: 80
+  dslash: 140
+  dcrush: 140
+  dmagic: 280
+  drange: 86
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 8097
+  name: "Galvek"
+  version: "Air"
+  hitpoints: 1200
+  att: 632
+  str: 268
+  def: 188
+  mage: 160
+  range: 246
+  attbns: 34
+  amagic: 160
+  mbns: 42
+  arange: 180
+  rngbns: 6
+  dstab: 80
+  dslash: 140
+  dcrush: 140
+  dmagic: 280
+  drange: 86
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 8096
+  name: "Galvek"
+  version: "Water"
+  hitpoints: 1200
+  att: 632
+  str: 268
+  def: 188
+  mage: 160
+  range: 246
+  attbns: 34
+  amagic: 160
+  mbns: 42
+  arange: 180
+  rngbns: 6
+  dstab: 80
+  dslash: 140
+  dcrush: 140
+  dmagic: 280
+  drange: 86
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 8098
+  ids: 8178
+  ids: 8179
+  name: "Galvek"
+  version: "Earth"
+  hitpoints: 1200
+  att: 632
+  str: 268
+  def: 188
+  mage: 160
+  range: 246
+  attbns: 34
+  amagic: 160
+  mbns: 42
+  arange: 180
+  rngbns: 6
+  dstab: 80
+  dslash: 140
+  dcrush: 140
+  dmagic: 280
+  drange: 86
+  attributes: "dragon,fiery"
 }
 npcs {
   ids: 6902
@@ -6679,6 +8588,242 @@ npcs {
   dcrush: -21
   dmagic: -21
   drange: -21
+}
+npcs {
+  ids: 946
+  name: "Ghast"
+  hitpoints: 45
+  att: 22
+  str: 22
+  def: 18
+  mage: 1
+  range: 1
+  attributes: "spectral"
+}
+npcs {
+  ids: 5625
+  name: "Ghast"
+  hitpoints: 115
+  att: 80
+  str: 30
+  def: 60
+  mage: 30
+  range: 30
+  attributes: "spectral"
+}
+npcs {
+  ids: 5626
+  name: "Ghast"
+  hitpoints: 135
+  att: 110
+  str: 70
+  def: 70
+  mage: 30
+  range: 30
+  attributes: "spectral"
+}
+npcs {
+  ids: 5627
+  name: "Ghast"
+  hitpoints: 160
+  att: 135
+  str: 110
+  def: 80
+  mage: 30
+  range: 30
+  attributes: "spectral"
+}
+npcs {
+  ids: 85
+  ids: 86
+  ids: 87
+  ids: 88
+  ids: 89
+  ids: 90
+  ids: 91
+  ids: 92
+  ids: 93
+  ids: 94
+  ids: 95
+  ids: 96
+  ids: 97
+  ids: 98
+  ids: 99
+  ids: 472
+  ids: 473
+  ids: 474
+  ids: 505
+  ids: 506
+  ids: 507
+  ids: 7263
+  ids: 7264
+  name: "Ghost"
+  version: "Level 19"
+  hitpoints: 25
+  att: 13
+  str: 13
+  def: 18
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: 5
+  dmagic: -5
+  drange: 5
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 3625
+  name: "Ghost"
+  version: "Level 29"
+  hitpoints: 27
+  att: 23
+  str: 23
+  def: 28
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: 5
+  dmagic: -5
+  drange: 5
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 2531
+  ids: 2532
+  ids: 2533
+  ids: 2534
+  name: "Ghost"
+  version: "Level 76"
+  hitpoints: 75
+  att: 63
+  str: 63
+  def: 68
+  mage: 1
+  range: 1
+  dstab: 45
+  dslash: 45
+  dcrush: 5
+  dmagic: -5
+  drange: 45
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 2527
+  ids: 2528
+  ids: 2529
+  ids: 2530
+  name: "Ghost"
+  version: "Level 77"
+  hitpoints: 80
+  att: 63
+  str: 63
+  def: 68
+  mage: 1
+  range: 1
+  dstab: 55
+  dslash: 55
+  dcrush: 5
+  dmagic: 55
+  drange: 55
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 5370
+  name: "Ghost"
+  hitpoints: 20
+  att: 23
+  str: 20
+  def: 23
+  mage: 1
+  range: 1
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 3975
+  name: "Ghost"
+  version: "1"
+  hitpoints: 25
+  att: 13
+  str: 13
+  def: 18
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: 5
+  dmagic: -5
+  drange: 5
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 3976
+  name: "Ghost"
+  version: "2"
+  hitpoints: 25
+  att: 13
+  str: 13
+  def: 18
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: 5
+  dmagic: -5
+  drange: 5
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 3977
+  name: "Ghost"
+  version: "3"
+  hitpoints: 25
+  att: 13
+  str: 13
+  def: 18
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: 5
+  dmagic: -5
+  drange: 5
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 3978
+  name: "Ghost"
+  version: "4"
+  hitpoints: 25
+  att: 13
+  str: 13
+  def: 18
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: 5
+  dmagic: -5
+  drange: 5
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 3979
+  name: "Ghost"
+  version: "5"
+  hitpoints: 25
+  att: 13
+  str: 13
+  def: 18
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: 5
+  dmagic: -5
+  drange: 5
+  attributes: "undead, spectral"
 }
 npcs {
   ids: 289
@@ -7038,6 +9183,33 @@ npcs {
   range: 130
 }
 npcs {
+  ids: 680
+  ids: 681
+  name: "Giant skeleton"
+  hitpoints: 70
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 6440
+  name: "Giant skeleton"
+  hitpoints: 110
+  att: 84
+  str: 80
+  def: 80
+  mage: 1
+  range: 1
+  strbns: 15
+  dstab: 50
+  dslash: 40
+  drange: 40
+  attributes: "undead"
+}
+npcs {
   ids: 5628
   name: "Giant snail"
   version: "Level 80"
@@ -7183,6 +9355,36 @@ npcs {
   mbns: 40
   arange: 100
   rngbns: 40
+}
+npcs {
+  ids: 7568
+  name: "Glowing crystal"
+  version: "Normal"
+  hitpoints: 120
+  att: 1
+  str: 1
+  def: 100
+  mage: 100
+  range: 1
+  dstab: -5
+  dslash: 180
+  dcrush: 180
+  attributes: "xerician"
+}
+npcs {
+  ids: 7568
+  name: "Glowing crystal"
+  version: "Challenge Mode"
+  hitpoints: 120
+  att: 1
+  str: 1
+  def: 100
+  mage: 150
+  range: 1
+  dstab: -5
+  dslash: 180
+  dcrush: 180
+  attributes: "xerician"
 }
 npcs {
   ids: 5969
@@ -7799,6 +10001,316 @@ npcs {
   range: 1
   dslash: 3
   dcrush: 3
+}
+npcs {
+  ids: 7551
+  name: "Great Olm"
+  version: "Head"
+  hitpoints: 800
+  att: 250
+  str: 250
+  def: 150
+  mage: 250
+  range: 250
+  amagic: 60
+  arange: 60
+  dstab: 200
+  dslash: 200
+  dcrush: 200
+  dmagic: 200
+  drange: 50
+  attributes: "dragon,xerician"
+}
+npcs {
+  ids: 7552
+  name: "Great Olm (Left claw)"
+  version: "Left claw"
+  hitpoints: 600
+  att: 250
+  str: 250
+  def: 175
+  mage: 175
+  range: 250
+  amagic: 60
+  arange: 60
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  dmagic: 50
+  drange: 50
+  attributes: "dragon,xerician"
+}
+npcs {
+  ids: 7550
+  name: "Great Olm (Right claw)"
+  version: "Right claw"
+  hitpoints: 600
+  att: 250
+  str: 250
+  def: 175
+  mage: 87
+  range: 250
+  amagic: 60
+  arange: 60
+  dstab: 200
+  dslash: 200
+  dcrush: 200
+  dmagic: 50
+  drange: 200
+  attributes: "dragon,xerician"
+}
+npcs {
+  ids: 7554
+  name: "Great Olm"
+  version: "Head (Challenge Mode)"
+  hitpoints: 800
+  att: 375
+  str: 375
+  def: 225
+  mage: 375
+  range: 375
+  amagic: 60
+  arange: 60
+  dstab: 200
+  dslash: 200
+  dcrush: 200
+  dmagic: 200
+  drange: 50
+  attributes: "dragon,xerician"
+}
+npcs {
+  ids: 7555
+  name: "Great Olm (Left claw)"
+  version: "Left claw (Challenge Mode)"
+  hitpoints: 600
+  att: 375
+  str: 375
+  def: 262
+  mage: 262
+  range: 375
+  amagic: 60
+  arange: 60
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  dmagic: 50
+  drange: 50
+  attributes: "dragon,xerician"
+}
+npcs {
+  ids: 7553
+  name: "Great Olm (Right claw)"
+  version: "Right claw (Challenge Mode)"
+  hitpoints: 600
+  att: 375
+  str: 375
+  def: 262
+  mage: 130
+  range: 375
+  amagic: 60
+  arange: 60
+  dstab: 200
+  dslash: 200
+  dcrush: 200
+  dmagic: 50
+  drange: 200
+  attributes: "dragon,xerician"
+}
+npcs {
+  ids: 7410
+  name: "Greater abyssal demon"
+  hitpoints: 400
+  att: 300
+  str: 260
+  def: 240
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  drange: 50
+  attributes: "demon"
+}
+npcs {
+  ids: 2025
+  ids: 2026
+  ids: 2027
+  ids: 2028
+  ids: 2029
+  ids: 2030
+  ids: 2031
+  ids: 2032
+  name: "Greater demon"
+  version: "Level 92"
+  hitpoints: 87
+  att: 76
+  str: 78
+  def: 81
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
+}
+npcs {
+  ids: 7245
+  name: "Greater demon"
+  version: "Level 100"
+  hitpoints: 115
+  att: 90
+  str: 70
+  def: 80
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
+}
+npcs {
+  ids: 7244
+  name: "Greater demon"
+  version: "Level 101"
+  hitpoints: 120
+  att: 90
+  str: 90
+  def: 50
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
+}
+npcs {
+  ids: 7871
+  ids: 7872
+  ids: 7873
+  name: "Greater demon"
+  version: "Level 104"
+  hitpoints: 120
+  att: 76
+  str: 90
+  def: 81
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
+}
+npcs {
+  ids: 7246
+  name: "Greater demon"
+  version: "Level 113"
+  hitpoints: 130
+  att: 120
+  str: 90
+  def: 50
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
+}
+npcs {
+  ids: 7278
+  name: "Greater Nechryael"
+  version: "Regular"
+  hitpoints: 205
+  att: 197
+  str: 197
+  def: 85
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  drange: 50
+  attributes: "demon"
+}
+npcs {
+  ids: 11240
+  name: "Greater Nechryael"
+  version: "Wilderness"
+  hitpoints: 205
+  att: 197
+  str: 197
+  def: 85
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  drange: 50
+  attributes: "demon"
+}
+npcs {
+  ids: 6614
+  name: "Greater Skeleton Hellhound"
+  hitpoints: 190
+  att: 240
+  str: 310
+  def: 220
+  mage: 1
+  range: 1
+  dstab: 150
+  dslash: 163
+  dcrush: 20
+  dmagic: 210
+  drange: 275
+  attributes: "undead"
+}
+npcs {
+  ids: 260
+  ids: 261
+  ids: 262
+  ids: 263
+  ids: 264
+  ids: 8073
+  ids: 8076
+  ids: 8082
+  name: "Green dragon"
+  version: "Level 79"
+  hitpoints: 75
+  att: 68
+  str: 68
+  def: 68
+  mage: 68
+  range: 1
+  dstab: 20
+  dslash: 40
+  dcrush: 40
+  dmagic: 30
+  drange: 20
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 7868
+  ids: 7869
+  ids: 7870
+  name: "Green dragon"
+  version: "Level 88"
+  hitpoints: 100
+  att: 68
+  str: 75
+  def: 68
+  mage: 75
+  range: 1
+  dstab: 20
+  dslash: 40
+  dcrush: 40
+  dmagic: 30
+  drange: 20
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 4744
+  name: "Grey golem"
+  hitpoints: 80
+  att: 80
+  str: 30
+  def: 80
+  mage: 1
+  range: 1
+  dstab: 300
+  dslash: 1
+  dcrush: 300
+  dmagic: 300
+  drange: 300
+  attributes: "Golem"
 }
 npcs {
   ids: 4919
@@ -8721,6 +11233,56 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 7569
+  name: "Guardian"
+  version: "Normal"
+  hitpoints: 250
+  att: 140
+  str: 140
+  def: 100
+  mage: 1
+  range: 1
+  strbns: 20
+  dstab: 80
+  dslash: 180
+  dcrush: -10
+  attributes: "xerician"
+}
+npcs {
+  ids: 7570
+  name: "Guardian"
+  version: "Challenge Mode"
+  hitpoints: 375
+  att: 210
+  str: 210
+  def: 150
+  mage: 1
+  range: 1
+  strbns: 20
+  dstab: 80
+  dslash: 180
+  dcrush: -10
+  attributes: "xerician"
+}
+npcs {
+  ids: 10400
+  name: "Guardian Drake"
+  hitpoints: 630
+  att: 270
+  str: 280
+  def: 200
+  mage: 300
+  range: 240
+  strbns: 12
+  arange: 40
+  dstab: 60
+  dslash: 100
+  dcrush: 100
+  dmagic: 20
+  drange: 150
+  attributes: "dragon"
+}
+npcs {
   ids: 3445
   name: "Guardian of Armadyl"
   version: "Male"
@@ -8772,6 +11334,25 @@ npcs {
   dcrush: 10
   dmagic: -1
   drange: 11
+}
+npcs {
+  ids: 1674
+  name: "Guthan the Infested"
+  hitpoints: 100
+  att: 100
+  str: 100
+  def: 100
+  mage: 1
+  range: 1
+  strbns: 75
+  amagic: -50
+  arange: -19
+  dstab: 259
+  dslash: 257
+  dcrush: 241
+  dmagic: -11
+  drange: 250
+  attributes: "spectral"
 }
 npcs {
   ids: 5157
@@ -8931,6 +11512,79 @@ npcs {
   dcrush: 15
   dmagic: 4
   drange: 9
+}
+npcs {
+  ids: 10493
+  ids: 10506
+  name: "Headless Beast"
+  version: "Normal"
+  hitpoints: 100
+  att: 60
+  str: 86
+  def: 42
+  mage: 42
+  range: 1
+  dstab: 18
+  dslash: 18
+  dcrush: 18
+  dmagic: 6
+  drange: 52
+  attributes: "undead"
+}
+npcs {
+  ids: 10492
+  name: "Headless Beast (hard)"
+  version: "Hard"
+  hitpoints: 320
+  att: 200
+  str: 240
+  def: 42
+  mage: 42
+  range: 1
+  dstab: 18
+  dslash: 18
+  dcrush: 18
+  dmagic: 6
+  drange: 52
+  attributes: "undead"
+}
+npcs {
+  ids: 104
+  ids: 105
+  ids: 7256
+  name: "Hellhound"
+  version: "Level 122"
+  hitpoints: 116
+  att: 105
+  str: 104
+  def: 102
+  mage: 1
+  range: 1
+  attributes: "demon"
+}
+npcs {
+  ids: 3133
+  name: "Hellhound"
+  version: "Level 127"
+  hitpoints: 116
+  att: 107
+  str: 116
+  def: 106
+  mage: 1
+  range: 1
+  attributes: "demon"
+}
+npcs {
+  ids: 7877
+  name: "Hellhound"
+  version: "Level 136"
+  hitpoints: 150
+  att: 105
+  str: 120
+  def: 102
+  mage: 1
+  range: 1
+  attributes: "demon"
 }
 npcs {
   ids: 135
@@ -9273,6 +11927,18 @@ npcs {
   dslash: 1
 }
 npcs {
+  ids: 8996
+  name: "Holthion"
+  hitpoints: 87
+  att: 76
+  str: 78
+  def: 77
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
+}
+npcs {
   ids: 7802
   name: "Hoop Snake"
   hitpoints: 25
@@ -9349,6 +12015,21 @@ npcs {
   drange: 80
 }
 npcs {
+  ids: 8609
+  name: "Hydra"
+  hitpoints: 300
+  att: 1
+  str: 1
+  def: 100
+  mage: 210
+  range: 210
+  dstab: 160
+  dslash: 160
+  dcrush: 160
+  dmagic: 160
+  attributes: "dragon"
+}
+npcs {
   ids: 4110
   name: "Hygd"
   hitpoints: 10
@@ -9362,6 +12043,40 @@ npcs {
   dcrush: -12
   dmagic: -12
   drange: -12
+}
+npcs {
+  ids: 7584
+  name: "Ice demon"
+  version: "Normal"
+  hitpoints: 140
+  att: 1
+  str: 1
+  def: 160
+  mage: 390
+  range: 390
+  dstab: 70
+  dslash: 70
+  dcrush: 110
+  dmagic: 60
+  drange: 140
+  attributes: "demon,xerician"
+}
+npcs {
+  ids: 7585
+  name: "Ice demon"
+  version: "Challenge Mode"
+  hitpoints: 210
+  att: 1
+  str: 1
+  def: 240
+  mage: 585
+  range: 585
+  dstab: 70
+  dslash: 70
+  dcrush: 110
+  dmagic: 60
+  drange: 140
+  attributes: "demon,xerician"
 }
 npcs {
   ids: 2085
@@ -9735,6 +12450,30 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 4813
+  name: "Icefiend"
+  version: "Level 13"
+  hitpoints: 15
+  att: 10
+  str: 10
+  def: 12
+  mage: 1
+  range: 1
+  attributes: "demon"
+}
+npcs {
+  ids: 3140
+  name: "Icefiend"
+  version: "Level 18"
+  hitpoints: 20
+  att: 12
+  str: 16
+  def: 19
+  mage: 1
+  range: 1
+  attributes: "demon"
+}
+npcs {
   ids: 852
   ids: 853
   ids: 854
@@ -9746,6 +12485,44 @@ npcs {
   def: 40
   mage: 1
   range: 1
+}
+npcs {
+  ids: 5007
+  name: "Imp"
+  version: "Regular"
+  hitpoints: 8
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  attbns: -42
+  strbns: -37
+  dstab: -42
+  dslash: -42
+  dcrush: -42
+  dmagic: -42
+  drange: -42
+  attributes: "demon"
+}
+npcs {
+  ids: 3134
+  name: "Imp"
+  version: "GWD"
+  hitpoints: 10
+  att: 5
+  str: 5
+  def: 6
+  mage: 1
+  range: 1
+  attbns: -42
+  strbns: -37
+  dstab: -42
+  dslash: -42
+  dcrush: -42
+  dmagic: -42
+  drange: -42
+  attributes: "demon"
 }
 npcs {
   ids: 3355
@@ -9786,6 +12563,43 @@ npcs {
   mage: 75
   range: 1
   dmagic: 40
+}
+npcs {
+  ids: 9465
+  name: "Infernal pyrelord"
+  hitpoints: 184
+  att: 124
+  str: 96
+  def: 68
+  mage: 1
+  range: 1
+  dstab: 18
+  dslash: 18
+  dcrush: 18
+  drange: 18
+  attributes: "demon"
+}
+npcs {
+  ids: 7397
+  name: "Insatiable Bloodveld"
+  hitpoints: 380
+  att: 190
+  str: 145
+  def: 85
+  mage: 1
+  range: 1
+  attributes: "demon"
+}
+npcs {
+  ids: 7398
+  name: "Insatiable mutated Bloodveld"
+  hitpoints: 410
+  att: 250
+  str: 190
+  def: 130
+  mage: 1
+  range: 1
+  attributes: "demon"
 }
 npcs {
   ids: 511
@@ -9878,6 +12692,58 @@ npcs {
   dcrush: -21
   dmagic: -21
   drange: -21
+}
+npcs {
+  ids: 272
+  ids: 273
+  ids: 8080
+  name: "Iron dragon"
+  version: "Normal"
+  hitpoints: 165
+  att: 165
+  str: 165
+  def: 165
+  mage: 100
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 30
+  drange: 90
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 7254
+  name: "Iron dragon"
+  version: "Catacombs of Kourend"
+  hitpoints: 195
+  att: 185
+  str: 185
+  def: 185
+  mage: 120
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 30
+  drange: 90
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 3965
+  name: "Irvig Senay"
+  hitpoints: 125
+  att: 76
+  str: 74
+  def: 81
+  attbns: 29
+  strbns: 31
+  dstab: 27
+  dslash: 31
+  dcrush: 29
+  dmagic: -1
+  drange: 29
+  attributes: "spectral"
 }
 npcs {
   ids: 7964
@@ -10303,6 +13169,54 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 10936
+  name: "Judge of Yama"
+  hitpoints: 260
+  att: 186
+  str: 112
+  def: 84
+  mage: 84
+  dstab: 40
+  dslash: 40
+  dcrush: 40
+  dmagic: 600
+  drange: 600
+  attributes: "demon"
+}
+npcs {
+  ids: 1443
+  ids: 6382
+  name: "Jungle demon"
+  version: "Normal"
+  hitpoints: 170
+  att: 170
+  str: 170
+  def: 170
+  mage: 170
+  range: 1
+  attbns: 50
+  strbns: 50
+  dslash: 50
+  dmagic: 50
+  attributes: "demon"
+}
+npcs {
+  ids: 6321
+  name: "Jungle demon (hard)"
+  version: "Hard"
+  hitpoints: 255
+  att: 340
+  str: 340
+  def: 170
+  mage: 340
+  range: 1
+  attbns: 50
+  strbns: 50
+  dslash: 50
+  dmagic: 50
+  attributes: "demon"
+}
+npcs {
   ids: 1042
   ids: 1043
   ids: 1044
@@ -10385,6 +13299,117 @@ npcs {
   drange: 200
 }
 npcs {
+  ids: 3129
+  name: "K\'ril Tsutsaroth"
+  version: "Normal"
+  hitpoints: 255
+  att: 340
+  str: 300
+  def: 270
+  mage: 200
+  range: 1
+  attbns: 160
+  strbns: 31
+  dstab: 80
+  dslash: 80
+  dcrush: 80
+  dmagic: 130
+  drange: 80
+  attributes: "demon"
+}
+npcs {
+  ids: 6495
+  name: "K\'ril Tsutsaroth"
+  version: "PvM Arena"
+  hitpoints: 255
+  att: 340
+  str: 300
+  def: 270
+  mage: 200
+  range: 1
+  attbns: 160
+  strbns: 31
+  dstab: 80
+  dslash: 80
+  dcrush: 80
+  dmagic: 130
+  drange: 80
+  attributes: "demon"
+}
+npcs {
+  ids: 959
+  ids: 960
+  ids: 962
+  name: "Kalphite Guardian"
+  hitpoints: 170
+  att: 110
+  str: 110
+  def: 110
+  mage: 1
+  range: 1
+  dstab: 25
+  dslash: 25
+  dcrush: 5
+  dmagic: 50
+  drange: 50
+  attributes: "kalphite"
+}
+npcs {
+  ids: 963
+  ids: 4303
+  ids: 6500
+  name: "Kalphite Queen"
+  version: "Crawling"
+  hitpoints: 255
+  att: 300
+  str: 300
+  def: 300
+  mage: 150
+  range: 1
+  dstab: 50
+  dslash: 50
+  dcrush: 10
+  dmagic: 100
+  drange: 100
+  attributes: "kalphite"
+}
+npcs {
+  ids: 965
+  ids: 4304
+  ids: 6501
+  name: "Kalphite Queen"
+  version: "Airborne"
+  hitpoints: 255
+  att: 300
+  str: 300
+  def: 300
+  mage: 150
+  range: 1
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 10
+  drange: 10
+  attributes: "kalphite"
+}
+npcs {
+  ids: 957
+  ids: 958
+  name: "Kalphite Soldier"
+  hitpoints: 90
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  dstab: 25
+  dslash: 25
+  dcrush: 5
+  dmagic: 50
+  drange: 50
+  attributes: "kalphite"
+}
+npcs {
   ids: 138
   name: "Kalphite Soldier"
   hitpoints: 90
@@ -10398,6 +13423,24 @@ npcs {
   dcrush: 5
   dmagic: 50
   drange: 50
+}
+npcs {
+  ids: 955
+  ids: 956
+  ids: 961
+  name: "Kalphite Worker"
+  hitpoints: 40
+  att: 20
+  str: 20
+  def: 20
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: 1
+  dmagic: 10
+  drange: 10
+  attributes: "kalphite"
 }
 npcs {
   ids: 8993
@@ -10483,6 +13526,25 @@ npcs {
   dcrush: 150
   dmagic: 150
   drange: 150
+}
+npcs {
+  ids: 1675
+  name: "Karil the Tainted"
+  hitpoints: 100
+  att: 1
+  str: 1
+  def: 100
+  mage: 1
+  range: 100
+  amagic: -26
+  arange: 134
+  rngbns: 55
+  dstab: 79
+  dslash: 71
+  dcrush: 90
+  dmagic: 106
+  drange: 100
+  attributes: "spectral"
 }
 npcs {
   ids: 1494
@@ -10697,6 +13759,35 @@ npcs {
   dcrush: 10
   dmagic: 20
   drange: 20
+}
+npcs {
+  ids: 239
+  name: "King Black Dragon"
+  hitpoints: 240
+  att: 240
+  str: 240
+  def: 240
+  mage: 240
+  range: 1
+  dstab: 70
+  dslash: 90
+  dcrush: 90
+  dmagic: 80
+  drange: 70
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 7405
+  name: "King kurask"
+  hitpoints: 420
+  att: 190
+  str: 320
+  def: 250
+  mage: 1
+  range: 1
+  dslash: 50
+  dcrush: 50
+  attributes: "leafy"
 }
 npcs {
   ids: 4163
@@ -11032,6 +14123,25 @@ npcs {
   drange: 200
 }
 npcs {
+  ids: 9773
+  name: "Kroy"
+  hitpoints: 209
+  att: 80
+  str: 80
+  def: 80
+  mage: 80
+  attbns: 36
+  strbns: 42
+  amagic: 36
+  mbns: 42
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  dmagic: 50
+  drange: 50
+  attributes: "vampyre1"
+}
+npcs {
   ids: 6805
   name: "Kruk"
   hitpoints: 210
@@ -11066,6 +14176,34 @@ npcs {
   drange: -21
 }
 npcs {
+  ids: 410
+  name: "Kurask"
+  version: "Normal"
+  hitpoints: 97
+  att: 67
+  str: 105
+  def: 105
+  mage: 1
+  range: 1
+  dslash: 20
+  dcrush: 20
+  attributes: "leafy"
+}
+npcs {
+  ids: 411
+  name: "Kurask"
+  version: "Big"
+  hitpoints: 97
+  att: 67
+  str: 105
+  def: 105
+  mage: 1
+  range: 1
+  dslash: 20
+  dcrush: 20
+  attributes: "leafy"
+}
+npcs {
   ids: 3940
   name: "Lanzig"
   hitpoints: 50
@@ -11094,6 +14232,22 @@ npcs {
   ids: 7817
   name: "Lava beast"
   hitpoints: 65
+}
+npcs {
+  ids: 6593
+  name: "Lava dragon"
+  hitpoints: 230
+  att: 240
+  str: 220
+  def: 220
+  mage: 1
+  range: 1
+  dstab: 70
+  dslash: 90
+  dcrush: 90
+  dmagic: 80
+  drange: 70
+  attributes: "dragon,fiery"
 }
 npcs {
   ids: 3233
@@ -11125,6 +14279,90 @@ npcs {
   def: 123
   mage: 1
   range: 1
+}
+npcs {
+  ids: 2005
+  ids: 2006
+  ids: 2007
+  ids: 2008
+  ids: 2018
+  ids: 7656
+  ids: 7657
+  ids: 7664
+  name: "Lesser demon"
+  version: "Level 82"
+  hitpoints: 79
+  att: 68
+  str: 70
+  def: 71
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
+}
+npcs {
+  ids: 7247
+  name: "Lesser demon"
+  version: "Level 87"
+  hitpoints: 87
+  att: 80
+  str: 70
+  def: 71
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
+}
+npcs {
+  ids: 7248
+  name: "Lesser demon"
+  version: "Level 94"
+  hitpoints: 98
+  att: 80
+  str: 70
+  def: 85
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
+}
+npcs {
+  ids: 7865
+  ids: 7866
+  ids: 7867
+  name: "Lesser demon"
+  version: "Level 94 (Wilderness Slayer Cave)"
+  hitpoints: 110
+  att: 68
+  str: 85
+  def: 71
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
+}
+npcs {
+  ids: 3982
+  name: "Lesser demon"
+  hitpoints: 79
+  att: 68
+  str: 70
+  def: 71
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
+}
+npcs {
+  ids: 3357
+  name: "Lesser Demon Champion"
+  hitpoints: 148
+  att: 136
+  str: 140
+  def: 142
+  mage: 136
+  range: 1
+  attributes: "demon"
 }
 npcs {
   ids: 2619
@@ -11286,6 +14524,68 @@ npcs {
   dmagic: 50
 }
 npcs {
+  ids: 7573
+  ids: 7574
+  name: "Lizardman shaman"
+  version: "Normal"
+  hitpoints: 190
+  att: 130
+  str: 130
+  def: 210
+  mage: 130
+  range: 130
+  attbns: 58
+  strbns: 52
+  arange: 56
+  rngbns: 49
+  dstab: 102
+  dslash: 160
+  dcrush: 150
+  dmagic: 160
+  attributes: "xerician"
+}
+npcs {
+  ids: 7573
+  ids: 7574
+  name: "Lizardman shaman"
+  version: "Challenge Mode"
+  hitpoints: 285
+  att: 195
+  str: 195
+  def: 315
+  mage: 195
+  range: 195
+  attbns: 58
+  strbns: 52
+  arange: 56
+  rngbns: 49
+  dstab: 102
+  dslash: 160
+  dcrush: 150
+  dmagic: 160
+  attributes: "xerician"
+}
+npcs {
+  ids: 1277
+  name: "Loar Shade"
+  version: "Shade"
+  hitpoints: 38
+  att: 45
+  str: 30
+  def: 26
+  attributes: "shade,undead,spectral"
+}
+npcs {
+  ids: 1276
+  name: "Loar Shadow"
+  version: "Shadow"
+  hitpoints: 38
+  att: 45
+  str: 30
+  def: 26
+  attributes: "shade,undead,spectral"
+}
+npcs {
   ids: 7796
   name: "Lobstrosity"
   hitpoints: 50
@@ -11374,6 +14674,22 @@ npcs {
   dstab: 90
   dslash: 90
   dcrush: 40
+}
+npcs {
+  ids: 7792
+  name: "Long-tailed Wyvern"
+  hitpoints: 200
+  att: 125
+  str: 120
+  def: 90
+  mage: 90
+  range: 90
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: 140
+  drange: 120
+  attributes: "dragon"
 }
 npcs {
   ids: 2921
@@ -12000,6 +15316,40 @@ npcs {
   drange: -21
 }
 npcs {
+  ids: 10693
+  name: "Mind Golem"
+  version: "Golem"
+  hitpoints: 40
+  att: 14
+  str: 31
+  def: 25
+  mage: 1
+  range: 1
+  strbns: 23
+  dstab: 5
+  dslash: 5
+  dmagic: 2
+  drange: 10
+  attributes: "Golem"
+}
+npcs {
+  ids: 10694
+  name: "Rubble"
+  version: "Rubble"
+  hitpoints: 40
+  att: 14
+  str: 31
+  def: 25
+  mage: 1
+  range: 1
+  strbns: 23
+  dstab: 5
+  dslash: 5
+  dmagic: 2
+  drange: 10
+  attributes: "None"
+}
+npcs {
   ids: 2481
   name: "Minotaur"
   version: "Level 12"
@@ -12030,6 +15380,24 @@ npcs {
   dcrush: -10
   dmagic: 21
   drange: -10
+}
+npcs {
+  ids: 2919
+  ids: 8088
+  ids: 8089
+  name: "Mithril dragon"
+  hitpoints: 254
+  att: 268
+  str: 268
+  def: 268
+  mage: 168
+  range: 168
+  dstab: 50
+  dslash: 100
+  dcrush: 70
+  dmagic: 30
+  drange: 90
+  attributes: "dragon,fiery"
 }
 npcs {
   ids: 2592
@@ -12208,6 +15576,45 @@ npcs {
   def: 130
   mage: 130
   range: 1
+}
+npcs {
+  ids: 5283
+  name: "Monkey Zombie"
+  version: "Level 82"
+  hitpoints: 60
+  att: 100
+  str: 60
+  def: 60
+  mage: 60
+  range: 1
+  attbns: 15
+  attributes: "undead"
+}
+npcs {
+  ids: 5281
+  name: "Monkey Zombie"
+  version: "Level 98"
+  hitpoints: 60
+  att: 150
+  str: 60
+  def: 60
+  mage: 60
+  range: 1
+  attbns: 35
+  attributes: "undead"
+}
+npcs {
+  ids: 5282
+  name: "Monkey Zombie"
+  version: "Level 129"
+  hitpoints: 90
+  att: 150
+  str: 110
+  def: 90
+  mage: 90
+  range: 1
+  attbns: 35
+  attributes: "undead"
 }
 npcs {
   ids: 7395
@@ -12578,6 +15985,178 @@ npcs {
   strbns: -21
 }
 npcs {
+  ids: 949
+  ids: 950
+  ids: 951
+  ids: 952
+  ids: 953
+  ids: 7658
+  ids: 7659
+  ids: 7660
+  ids: 7661
+  ids: 7662
+  name: "Mummy"
+  version: "Level 84"
+  hitpoints: 90
+  att: 90
+  str: 30
+  def: 90
+  mage: 1
+  range: 1
+  strbns: 30
+  dstab: 90
+  dslash: 90
+  dcrush: 30
+  dmagic: 90
+  attributes: "undead"
+}
+npcs {
+  ids: 717
+  name: "Mummy"
+  version: "Level 96"
+  hitpoints: 1
+  att: 255
+  str: 2
+  def: 50
+  mage: 1
+  range: 1
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  attributes: "undead"
+}
+npcs {
+  ids: 724
+  name: "Mummy"
+  version: "Level 98"
+  hitpoints: 10
+  att: 255
+  str: 2
+  def: 50
+  mage: 1
+  range: 1
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  attributes: "undead"
+}
+npcs {
+  ids: 720
+  ids: 721
+  ids: 722
+  ids: 723
+  ids: 725
+  ids: 726
+  ids: 727
+  ids: 728
+  name: "Mummy"
+  version: "Level 103"
+  hitpoints: 90
+  att: 90
+  str: 90
+  def: 90
+  mage: 1
+  range: 1
+  strbns: 90
+  dstab: 90
+  dslash: 90
+  dcrush: 90
+  attributes: "undead"
+}
+npcs {
+  ids: 7276
+  name: "Mutated Bloodveld"
+  hitpoints: 170
+  att: 110
+  str: 115
+  def: 30
+  mage: 1
+  range: 1
+  attributes: "demon"
+}
+npcs {
+  ids: 7562
+  name: "Muttadile"
+  version: "Small"
+  hitpoints: 250
+  att: 150
+  str: 150
+  def: 138
+  mage: 1
+  range: 150
+  attbns: 71
+  strbns: 64
+  arange: 83
+  rngbns: 75
+  dstab: -5
+  dslash: 72
+  dcrush: 50
+  dmagic: 60
+  attributes: "xerician"
+}
+npcs {
+  ids: 7561
+  ids: 7563
+  name: "Muttadile"
+  version: "Large"
+  hitpoints: 250
+  att: 250
+  str: 250
+  def: 220
+  mage: 250
+  range: 250
+  attbns: 88
+  strbns: 74
+  arange: 82
+  rngbns: 63
+  dstab: -5
+  dslash: 82
+  dcrush: 60
+  dmagic: 75
+  attributes: "xerician"
+}
+npcs {
+  ids: 7562
+  name: "Muttadile"
+  version: "Small (Challenge Mode)"
+  hitpoints: 375
+  att: 225
+  str: 225
+  def: 207
+  mage: 1
+  range: 225
+  attbns: 71
+  strbns: 64
+  arange: 83
+  rngbns: 75
+  dstab: -5
+  dslash: 72
+  dcrush: 50
+  dmagic: 60
+  attributes: "xerician"
+}
+npcs {
+  ids: 7561
+  ids: 7563
+  name: "Muttadile"
+  version: "Large (Challenge Mode)"
+  hitpoints: 375
+  att: 375
+  str: 375
+  def: 330
+  mage: 375
+  range: 375
+  attbns: 88
+  strbns: 74
+  arange: 82
+  rngbns: 63
+  dstab: -5
+  dslash: 82
+  dcrush: 60
+  dmagic: 75
+  attributes: "xerician"
+}
+npcs {
   ids: 2634
   name: "Myre Blamish Snail"
   version: "Round"
@@ -12685,6 +16264,17 @@ npcs {
   drange: 5
 }
 npcs {
+  ids: 5355
+  ids: 6400
+  name: "Nazastarool"
+  version: "Ghost"
+  hitpoints: 80
+  att: 85
+  str: 80
+  def: 80
+  attributes: "spectral"
+}
+npcs {
   ids: 6337
   name: "Nazastarool (hard)"
   version: "Zombie (hard)"
@@ -12708,6 +16298,63 @@ npcs {
   dcrush: 5
   dmagic: 5
   drange: 5
+}
+npcs {
+  ids: 6339
+  name: "Nazastarool (hard)"
+  version: "Ghost (hard)"
+  hitpoints: 176
+  att: 187
+  str: 176
+  def: 80
+  attributes: "spectral"
+}
+npcs {
+  ids: 8
+  name: "Nechryael"
+  version: "Normal"
+  hitpoints: 105
+  att: 97
+  str: 97
+  def: 105
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  dcrush: 20
+  drange: 20
+  attributes: "demon"
+}
+npcs {
+  ids: 11
+  name: "Nechryael"
+  version: "Slayer task"
+  hitpoints: 105
+  att: 97
+  str: 97
+  def: 105
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  dcrush: 20
+  drange: 20
+  attributes: "demon"
+}
+npcs {
+  ids: 7411
+  name: "Nechryarch"
+  hitpoints: 320
+  att: 310
+  str: 260
+  def: 140
+  mage: 1
+  range: 1
+  dstab: 30
+  dslash: 30
+  dcrush: 30
+  drange: 30
+  attributes: "demon"
 }
 npcs {
   ids: 11088
@@ -13352,6 +16999,34 @@ npcs {
   drange: 13
 }
 npcs {
+  ids: 8994
+  name: "Othainian"
+  hitpoints: 87
+  att: 76
+  str: 78
+  def: 77
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
+}
+npcs {
+  ids: 2843
+  name: "Otherworldly being"
+  hitpoints: 66
+  att: 56
+  str: 56
+  def: 46
+  mage: 1
+  range: 1
+  dstab: 15
+  dslash: 10
+  dcrush: 20
+  dmagic: -5
+  drange: 15
+  attributes: "spectral"
+}
+npcs {
   ids: 5261
   name: "Ouhai"
 }
@@ -13505,6 +17180,97 @@ npcs {
   drange: 200
 }
 npcs {
+  ids: 1667
+  ids: 5739
+  name: "Penance Fighter"
+  version: "Wave 1"
+  hitpoints: 28
+  att: 26
+  str: 26
+  def: 25
+  attributes: "penance"
+}
+npcs {
+  ids: 5740
+  name: "Penance Fighter"
+  version: "Wave 2"
+  hitpoints: 29
+  att: 28
+  str: 29
+  def: 27
+  attributes: "penance"
+}
+npcs {
+  ids: 5741
+  name: "Penance Fighter"
+  version: "Wave 3"
+  hitpoints: 32
+  att: 33
+  str: 32
+  def: 34
+  attributes: "penance"
+}
+npcs {
+  ids: 5742
+  name: "Penance Fighter"
+  version: "Wave 4"
+  hitpoints: 37
+  att: 36
+  str: 38
+  def: 37
+  attributes: "penance"
+}
+npcs {
+  ids: 5743
+  name: "Penance Fighter"
+  version: "Wave 5"
+  hitpoints: 38
+  att: 41
+  str: 43
+  def: 44
+  attributes: "penance"
+}
+npcs {
+  ids: 5744
+  name: "Penance Fighter"
+  version: "Wave 6"
+  hitpoints: 49
+  att: 50
+  str: 48
+  def: 48
+  attributes: "penance"
+}
+npcs {
+  ids: 5745
+  name: "Penance Fighter"
+  version: "Wave 7/10"
+  hitpoints: 50
+  att: 56
+  str: 55
+  def: 52
+  attributes: "penance"
+}
+npcs {
+  ids: 5746
+  name: "Penance Fighter"
+  version: "Wave 8"
+  hitpoints: 55
+  att: 60
+  str: 61
+  def: 62
+  attributes: "penance"
+}
+npcs {
+  ids: 5747
+  name: "Penance Fighter"
+  version: "Wave 9"
+  hitpoints: 56
+  att: 71
+  str: 73
+  def: 66
+  attributes: "penance"
+}
+npcs {
   ids: 1670
   ids: 5766
   name: "Penance Healer"
@@ -13568,6 +17334,88 @@ npcs {
   def: 132
   mage: 1
   range: 116
+}
+npcs {
+  ids: 1668
+  ids: 5757
+  name: "Penance Ranger"
+  version: "Wave 1"
+  hitpoints: 20
+  def: 21
+  range: 23
+  attributes: "penance"
+}
+npcs {
+  ids: 5758
+  name: "Penance Ranger"
+  version: "Wave 2"
+  hitpoints: 28
+  def: 29
+  range: 24
+  attributes: "penance"
+}
+npcs {
+  ids: 5759
+  name: "Penance Ranger"
+  version: "Wave 3"
+  hitpoints: 29
+  def: 33
+  range: 34
+  attributes: "penance"
+}
+npcs {
+  ids: 5760
+  name: "Penance Ranger"
+  version: "Wave 4"
+  hitpoints: 34
+  def: 42
+  range: 40
+  attributes: "penance"
+}
+npcs {
+  ids: 5761
+  name: "Penance Ranger"
+  version: "Wave 5"
+  hitpoints: 41
+  def: 46
+  range: 45
+  attributes: "penance"
+}
+npcs {
+  ids: 5762
+  name: "Penance Ranger"
+  version: "Wave 6"
+  hitpoints: 50
+  def: 54
+  range: 52
+  attributes: "penance"
+}
+npcs {
+  ids: 5763
+  name: "Penance Ranger"
+  version: "Wave 7/10"
+  hitpoints: 50
+  def: 61
+  range: 62
+  attributes: "penance"
+}
+npcs {
+  ids: 5764
+  name: "Penance Ranger"
+  version: "Wave 8"
+  hitpoints: 54
+  def: 68
+  range: 70
+  attributes: "penance"
+}
+npcs {
+  ids: 5765
+  name: "Penance Ranger"
+  version: "Wave 9"
+  hitpoints: 58
+  def: 80
+  range: 78
+  attributes: "penance"
 }
 npcs {
   ids: 1669
@@ -13648,6 +17496,69 @@ npcs {
   def: 2
   mage: 1
   range: 1
+}
+npcs {
+  ids: 10812
+  name: "Pestilent Bloat"
+  version: "Entry"
+  hitpoints: 1600
+  att: 100
+  str: 180
+  def: 80
+  mage: 120
+  range: 72
+  attbns: 60
+  strbns: 46
+  arange: 72
+  rngbns: 2
+  dstab: 10
+  dslash: 5
+  dcrush: 10
+  dmagic: 600
+  drange: 800
+  attributes: "undead"
+}
+npcs {
+  ids: 8359
+  name: "Pestilent Bloat"
+  version: "Normal"
+  hitpoints: 2000
+  att: 250
+  str: 340
+  def: 100
+  mage: 150
+  range: 180
+  attbns: 150
+  strbns: 82
+  arange: 180
+  rngbns: 4
+  dstab: 40
+  dslash: 20
+  dcrush: 40
+  dmagic: 600
+  drange: 800
+  attributes: "undead"
+}
+npcs {
+  ids: 10813
+  name: "Pestilent Bloat"
+  version: "Hard"
+  hitpoints: 2400
+  att: 250
+  str: 340
+  def: 100
+  mage: 150
+  range: 180
+  attbns: 150
+  strbns: 82
+  arange: 180
+  rngbns: 4
+  dstab: 40
+  dslash: 20
+  dcrush: 40
+  dmagic: 600
+  drange: 800
+  attributes: "undead"
 }
 npcs {
   ids: 10957
@@ -13746,6 +17657,26 @@ npcs {
   dcrush: 40
   dmagic: 600
   drange: 600
+}
+npcs {
+  ids: 1280
+  name: "Phrin Shade"
+  version: "Shade"
+  hitpoints: 56
+  att: 64
+  str: 47
+  def: 42
+  attributes: "shade,undead,spectral"
+}
+npcs {
+  ids: 1279
+  name: "Phrin Shadow"
+  version: "Shadow"
+  hitpoints: 56
+  att: 64
+  str: 47
+  def: 42
+  attributes: "shade,undead,spectral"
 }
 npcs {
   ids: 522
@@ -13937,6 +17868,25 @@ npcs {
   drange: 20
 }
 npcs {
+  ids: 7515
+  ids: 7860
+  name: "Porazdir"
+  hitpoints: 320
+  att: 250
+  str: 150
+  def: 100
+  mage: 180
+  range: 1
+  amagic: 80
+  mbns: 80
+  dstab: 200
+  dslash: 200
+  dcrush: 200
+  dmagic: -60
+  drange: 200
+  attributes: "demon"
+}
+npcs {
   ids: 1739
   ids: 1743
   ids: 1747
@@ -14041,6 +17991,73 @@ npcs {
   strbns: 90
   dstab: 90
   dcrush: 90
+}
+npcs {
+  ids: 433
+  ids: 434
+  ids: 435
+  ids: 436
+  name: "Pyrefiend"
+  version: "Regular"
+  hitpoints: 45
+  att: 52
+  str: 30
+  def: 22
+  mage: 1
+  range: 1
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+  drange: 10
+  attributes: "fiery, demon"
+}
+npcs {
+  ids: 3139
+  name: "Pyrefiend"
+  version: "GWD"
+  hitpoints: 48
+  att: 60
+  str: 36
+  def: 22
+  mage: 1
+  range: 1
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+  drange: 10
+  attributes: "fiery, demon"
+}
+npcs {
+  ids: 6762
+  name: "Pyrelord"
+  version: "1"
+  hitpoints: 80
+  att: 60
+  str: 40
+  def: 30
+  mage: 1
+  range: 1
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+  drange: 10
+  attributes: "demon"
+}
+npcs {
+  ids: 6795
+  name: "Pyrelord"
+  version: "2"
+  hitpoints: 80
+  att: 60
+  str: 40
+  def: 30
+  mage: 1
+  range: 1
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+  drange: 10
+  attributes: "demon"
 }
 npcs {
   ids: 5776
@@ -14255,6 +18272,63 @@ npcs {
   drange: -21
 }
 npcs {
+  ids: 3966
+  name: "Ranalph Devere"
+  hitpoints: 130
+  att: 66
+  str: 67
+  def: 66
+  attbns: 45
+  strbns: 44
+  dstab: 38
+  dslash: 40
+  dcrush: 36
+  drange: 38
+  attributes: "spectral"
+}
+npcs {
+  ids: 8242
+  ids: 8243
+  ids: 8244
+  ids: 8245
+  ids: 8246
+  ids: 8247
+  name: "Ranis Drakan"
+  hitpoints: 400
+  att: 120
+  str: 120
+  def: 120
+  mage: 120
+  range: 1
+  strbns: 34
+  mbns: 34
+  dstab: 60
+  dslash: 60
+  dcrush: 60
+  dmagic: 60
+  drange: 60
+  attributes: "vampyre3"
+}
+npcs {
+  ids: 8248
+  name: "Ranis Drakan"
+  hitpoints: 400
+  att: 120
+  str: 120
+  def: 120
+  mage: 120
+  range: 1
+  attbns: 160
+  strbns: -36
+  mbns: 34
+  dstab: 60
+  dslash: 60
+  dcrush: 60
+  dmagic: 60
+  drange: 60
+  attributes: "vampyre3"
+}
+npcs {
   ids: 3681
   name: "Rannveig"
   hitpoints: 1
@@ -14353,6 +18427,21 @@ npcs {
   def: 53
 }
 npcs {
+  ids: 7038
+  name: "Reanimated abyssal"
+  hitpoints: 35
+  att: 97
+  str: 67
+  def: 135
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  dcrush: 20
+  drange: 20
+  attributes: "demon"
+}
+npcs {
   ids: 7037
   name: "Reanimated aviansie"
   hitpoints: 35
@@ -14371,6 +18460,17 @@ npcs {
   def: 15
   mage: 1
   range: 1
+}
+npcs {
+  ids: 7034
+  name: "Reanimated bloodveld"
+  hitpoints: 35
+  att: 75
+  str: 45
+  def: 30
+  mage: 1
+  range: 1
+  attributes: "demon"
 }
 npcs {
   ids: 7026
@@ -14393,6 +18493,18 @@ npcs {
   range: 50
 }
 npcs {
+  ids: 7036
+  name: "Reanimated demon"
+  hitpoints: 35
+  att: 68
+  str: 70
+  def: 71
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
+}
+npcs {
   ids: 7287
   name: "Reanimated demon spawn"
   hitpoints: 85
@@ -14412,6 +18524,22 @@ npcs {
   def: 54
   mage: 1
   range: 1
+}
+npcs {
+  ids: 7039
+  name: "Reanimated dragon"
+  hitpoints: 35
+  att: 68
+  str: 68
+  def: 68
+  mage: 68
+  range: 1
+  dstab: 20
+  dslash: 40
+  dcrush: 40
+  dmagic: 30
+  drange: 20
+  attributes: "dragon"
 }
 npcs {
   ids: 7029
@@ -14586,6 +18714,94 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 247
+  name: "Red dragon"
+  version: "1"
+  hitpoints: 140
+  att: 130
+  str: 130
+  def: 130
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 248
+  ids: 8075
+  ids: 8078
+  ids: 8079
+  name: "Red dragon"
+  version: "2"
+  hitpoints: 140
+  att: 130
+  str: 130
+  def: 130
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 249
+  name: "Red dragon"
+  version: "3"
+  hitpoints: 140
+  att: 130
+  str: 130
+  def: 130
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 250
+  name: "Red dragon"
+  version: "4"
+  hitpoints: 140
+  att: 130
+  str: 130
+  def: 130
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 251
+  name: "Red dragon"
+  version: "5"
+  hitpoints: 140
+  att: 130
+  str: 130
+  def: 130
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon,fiery"
+}
+npcs {
   ids: 11272
   name: "Redeyes"
   hitpoints: 160
@@ -14620,10 +18836,260 @@ npcs {
   dcrush: 62
 }
 npcs {
+  ids: 7403
+  name: "Repugnant spectre"
+  hitpoints: 390
+  att: 1
+  str: 1
+  def: 220
+  mage: 380
+  range: 1
+  dstab: 120
+  dslash: 120
+  dcrush: 120
+  drange: 115
+  attributes: "undead, spectral"
+}
+npcs {
   ids: 5914
   name: "Respiratory system"
   hitpoints: 50
   def: 80
+}
+npcs {
+  ids: 7934
+  name: "Revenant cyclops"
+  hitpoints: 110
+  att: 60
+  str: 73
+  def: 49
+  mage: 65
+  range: 70
+  attbns: 53
+  strbns: 64
+  dstab: 140
+  dslash: 130
+  dcrush: 135
+  dmagic: 10
+  drange: 135
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 7938
+  name: "Revenant dark beast"
+  hitpoints: 140
+  att: 93
+  str: 110
+  def: 80
+  mage: 130
+  range: 135
+  attbns: 65
+  strbns: 60
+  arange: 45
+  rngbns: 45
+  dstab: 153
+  dslash: 152
+  dcrush: 155
+  dmagic: 70
+  drange: 158
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 7936
+  name: "Revenant demon"
+  hitpoints: 80
+  att: 83
+  str: 76
+  def: 80
+  mage: 120
+  range: 80
+  attbns: 30
+  strbns: 50
+  amagic: 50
+  mbns: 24
+  arange: 40
+  rngbns: 30
+  dstab: 124
+  dslash: 118
+  dcrush: 130
+  dmagic: 85
+  drange: 90
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 7940
+  name: "Revenant dragon"
+  hitpoints: 155
+  att: 106
+  str: 126
+  def: 87
+  mage: 150
+  range: 151
+  attbns: 72
+  strbns: 78
+  amagic: 61
+  mbns: 35
+  arange: 60
+  rngbns: 51
+  dstab: 201
+  dslash: 206
+  dcrush: 188
+  dmagic: 101
+  drange: 197
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 7931
+  name: "Revenant goblin"
+  hitpoints: 14
+  att: 13
+  str: 14
+  def: 14
+  mage: 12
+  range: 15
+  attbns: 6
+  strbns: 8
+  amagic: 37
+  mbns: 12
+  arange: 21
+  rngbns: 12
+  dstab: 25
+  dslash: 28
+  dcrush: 31
+  dmagic: 1
+  drange: 31
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 7935
+  name: "Revenant hellhound"
+  hitpoints: 80
+  att: 76
+  str: 80
+  def: 80
+  mage: 104
+  range: 80
+  attbns: 38
+  strbns: 40
+  amagic: 30
+  dstab: 138
+  dslash: 140
+  dcrush: 142
+  dmagic: 62
+  drange: 140
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 7933
+  name: "Revenant hobgoblin"
+  hitpoints: 72
+  att: 50
+  str: 50
+  def: 41
+  mage: 55
+  range: 60
+  attbns: 20
+  strbns: 24
+  amagic: 5
+  arange: 25
+  dstab: 65
+  dslash: 60
+  dcrush: 68
+  dmagic: 30
+  drange: 50
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 7881
+  name: "Revenant imp"
+  hitpoints: 10
+  att: 5
+  str: 5
+  def: 4
+  mage: 9
+  range: 5
+  amagic: 5
+  dmagic: 5
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 7939
+  name: "Revenant knight"
+  hitpoints: 143
+  att: 100
+  str: 119
+  def: 80
+  mage: 146
+  range: 146
+  attbns: 69
+  strbns: 71
+  amagic: 55
+  mbns: 30
+  arange: 55
+  rngbns: 45
+  dstab: 195
+  dslash: 200
+  dcrush: 180
+  dmagic: 95
+  drange: 190
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 11246
+  name: "Revenant maledictus"
+  hitpoints: 1250
+  att: 106
+  str: 126
+  def: 90
+  mage: 130
+  range: 130
+  attbns: 72
+  strbns: 78
+  amagic: 60
+  mbns: 60
+  arange: 265
+  rngbns: 60
+  dstab: 201
+  dslash: 206
+  dcrush: 188
+  dmagic: 101
+  drange: 231
+  attributes: "Undead, Spectral"
+}
+npcs {
+  ids: 7937
+  name: "Revenant ork"
+  hitpoints: 105
+  att: 99
+  str: 100
+  def: 60
+  mage: 110
+  range: 130
+  attbns: 60
+  strbns: 55
+  arange: 50
+  dstab: 148
+  dslash: 150
+  dcrush: 146
+  dmagic: 50
+  drange: 148
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 7932
+  name: "Revenant pyrefiend"
+  hitpoints: 48
+  att: 60
+  str: 40
+  def: 33
+  mage: 67
+  range: 40
+  dstab: 45
+  dslash: 40
+  dcrush: 50
+  dmagic: 15
+  drange: 10
+  attributes: "undead, spectral"
 }
 npcs {
   ids: 6732
@@ -14692,6 +19158,37 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 1282
+  name: "Riyl Shade"
+  version: "Shade"
+  hitpoints: 76
+  att: 88
+  str: 55
+  def: 60
+  attributes: "shade,undead,spectral"
+}
+npcs {
+  ids: 1281
+  name: "Riyl Shadow"
+  version: "Shadow"
+  hitpoints: 76
+  att: 88
+  str: 55
+  def: 60
+  attributes: "shade,undead,spectral"
+}
+npcs {
+  ids: 5631
+  name: "Riyl shadow"
+  hitpoints: 76
+  att: 87
+  str: 56
+  def: 60
+  mage: 50
+  range: 50
+  attributes: "undead, spectral"
+}
+npcs {
   ids: 8057
   name: "Robert the Strong"
   hitpoints: 280
@@ -14743,6 +19240,78 @@ npcs {
   def: 1
   mage: 1
   range: 1
+}
+npcs {
+  ids: 6725
+  name: "Rock Golem"
+  version: "Level 14"
+  hitpoints: 25
+  att: 9
+  str: 9
+  def: 9
+  mage: 1
+  range: 8
+  attributes: "Golem"
+}
+npcs {
+  ids: 6726
+  name: "Rock Golem"
+  version: "Level 29"
+  hitpoints: 40
+  att: 22
+  str: 22
+  def: 22
+  mage: 1
+  range: 20
+  attributes: "Golem"
+}
+npcs {
+  ids: 6727
+  name: "Rock Golem"
+  version: "Level 49"
+  hitpoints: 60
+  att: 38
+  str: 38
+  def: 38
+  mage: 1
+  range: 35
+  attributes: "Golem"
+}
+npcs {
+  ids: 6728
+  name: "Rock Golem"
+  version: "Level 79"
+  hitpoints: 85
+  att: 65
+  str: 65
+  def: 65
+  mage: 1
+  range: 70
+  attributes: "Golem"
+}
+npcs {
+  ids: 6729
+  name: "Rock Golem"
+  version: "Level 120"
+  hitpoints: 120
+  att: 100
+  str: 100
+  def: 100
+  mage: 1
+  range: 75
+  attributes: "Golem"
+}
+npcs {
+  ids: 6730
+  name: "Rock Golem"
+  version: "Level 159"
+  hitpoints: 170
+  att: 130
+  str: 130
+  def: 130
+  mage: 1
+  range: 80
+  attributes: "Golem"
 }
 npcs {
   ids: 5944
@@ -14863,6 +19432,25 @@ npcs {
   def: 7
 }
 npcs {
+  ids: 8031
+  ids: 8091
+  name: "Rune dragon"
+  hitpoints: 330
+  att: 284
+  str: 284
+  def: 276
+  mage: 196
+  range: 246
+  mbns: 16
+  rngbns: 14
+  dstab: 30
+  dslash: 115
+  dcrush: 90
+  dmagic: 30
+  drange: 95
+  attributes: "dragon,fiery"
+}
+npcs {
   ids: 8027
   name: "Rune dragon"
   hitpoints: 330
@@ -14877,6 +19465,17 @@ npcs {
   dcrush: 90
   dmagic: 30
   drange: 95
+}
+npcs {
+  ids: 6600
+  name: "Runite Golem"
+  hitpoints: 170
+  att: 140
+  str: 150
+  def: 165
+  mage: 1
+  range: 1
+  attributes: "Golem"
 }
 npcs {
   ids: 3281
@@ -14902,6 +19501,22 @@ npcs {
   def: 62
   mage: 1
   range: 1
+}
+npcs {
+  ids: 3964
+  name: "San Tojalon"
+  hitpoints: 120
+  att: 86
+  str: 84
+  def: 86
+  attbns: 16
+  strbns: 17
+  dstab: 18
+  dslash: 22
+  dcrush: 20
+  dmagic: -1
+  drange: 20
+  attributes: "spectral"
 }
 npcs {
   ids: 5935
@@ -14999,9 +19614,136 @@ npcs {
   dmagic: 30
 }
 npcs {
+  ids: 799
+  name: "Scarab mage"
+  version: "Level 66 (Quest)"
+  hitpoints: 50
+  att: 90
+  str: 90
+  def: 90
+  mage: 70
+  range: 1
+  amagic: 70
+  dstab: 40
+  dslash: 90
+  dcrush: 90
+  dmagic: 34
+  attributes: "kalphite"
+}
+npcs {
+  ids: 794
+  name: "Scarab mage"
+  version: "Level 93"
+  hitpoints: 50
+  att: 90
+  str: 90
+  def: 90
+  mage: 70
+  range: 1
+  amagic: 70
+  mbns: 70
+  rngbns: 80
+  dstab: 40
+  dslash: 90
+  dcrush: 90
+  dmagic: 34
+  attributes: "kalphite"
+}
+npcs {
+  ids: 11508
+  name: "Scarab mage"
+  version: "Level 119 (Quest)"
+  hitpoints: 120
+  att: 1
+  str: 1
+  def: 60
+  mage: 100
+  range: 1
+  amagic: 30
+  mbns: 30
+  dslash: 20
+  dcrush: 20
+  dmagic: 30
+  attributes: "kalphite"
+}
+npcs {
+  ids: 4192
+  name: "Scarab swarm"
+  version: "Normal"
+  hitpoints: 25
+  att: 255
+  str: 5
+  def: 30
+  mage: 1
+  range: 1
+  dstab: 90
+  dslash: 90
+  dcrush: 5
+  dmagic: 90
+  drange: 90
+  attributes: "kalphite"
+}
+npcs {
+  ids: 1782
+  name: "Scarab swarm"
+  version: "Pyramid Plunder"
+  hitpoints: 25
+  att: 255
+  str: 5
+  def: 30
+  mage: 1
+  range: 1
+  dstab: 90
+  dslash: 90
+  dcrush: 5
+  dmagic: 90
+  drange: 90
+  attributes: "kalphite"
+}
+npcs {
   ids: 11484
   name: "Scarab Swarm"
   hitpoints: 5
+}
+npcs {
+  ids: 729
+  name: "Scarabs"
+  hitpoints: 25
+  att: 255
+  str: 2
+  def: 10
+  mage: 1
+  range: 1
+  dstab: 15
+  dslash: 15
+  dcrush: 15
+  dmagic: 15
+  drange: 15
+  attributes: "kalphite"
+}
+npcs {
+  ids: 7548
+  name: "Scavenger beast"
+  version: "Normal"
+  hitpoints: 30
+  att: 120
+  str: 120
+  def: 45
+  mage: 1
+  range: 1
+  attributes: "xerician"
+}
+npcs {
+  ids: 7549
+  name: "Scavenger beast"
+  version: "Challenge Mode"
+  hitpoints: 45
+  att: 180
+  str: 180
+  def: 67
+  mage: 1
+  range: 1
+  attributes: "xerician"
 }
 npcs {
   ids: 5918
@@ -15115,6 +19857,36 @@ npcs {
   dslash: 15
   dcrush: 15
   drange: 55
+}
+npcs {
+  ids: 7390
+  name: "Screaming banshee"
+  hitpoints: 61
+  att: 65
+  str: 61
+  def: 56
+  mage: 1
+  range: 1
+  dstab: 13
+  dslash: 13
+  dcrush: 13
+  drange: 13
+  attributes: "undead"
+}
+npcs {
+  ids: 7391
+  name: "Screaming twisted banshee"
+  hitpoints: 220
+  att: 103
+  str: 110
+  def: 80
+  mage: 1
+  range: 1
+  dstab: 25
+  dslash: 25
+  dcrush: 25
+  drange: 25
+  attributes: "undead"
 }
 npcs {
   ids: 1098
@@ -15300,6 +20072,41 @@ npcs {
   drange: -12
 }
 npcs {
+  ids: 6740
+  name: "Shade"
+  version: "Stronghold of Security"
+  hitpoints: 170
+  att: 130
+  str: 130
+  def: 130
+  mage: 1
+  range: 1
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 7258
+  name: "Shade"
+  version: "Catacombs of Kourend"
+  hitpoints: 115
+  att: 130
+  str: 136
+  def: 100
+  mage: 50
+  range: 50
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 5633
+  name: "Shade"
+  hitpoints: 115
+  att: 130
+  str: 136
+  def: 100
+  mage: 50
+  range: 50
+  attributes: "undead, spectral"
+}
+npcs {
   ids: 4004
   ids: 764
   name: "Shadow"
@@ -15358,6 +20165,44 @@ npcs {
   dcrush: 19
   dmagic: 15
   drange: 38
+}
+npcs {
+  ids: 10398
+  name: "Shadow Wyrm"
+  version: "Idle"
+  hitpoints: 320
+  att: 300
+  str: 180
+  def: 125
+  mage: 160
+  range: 125
+  strbns: 30
+  mbns: 30
+  dstab: 20
+  dslash: 100
+  dcrush: 100
+  dmagic: 50
+  drange: 20
+  attributes: "dragon"
+}
+npcs {
+  ids: 10399
+  name: "Shadow Wyrm"
+  version: "Attacking"
+  hitpoints: 320
+  att: 300
+  str: 180
+  def: 125
+  mage: 160
+  range: 125
+  strbns: 30
+  mbns: 30
+  dstab: 20
+  dslash: 100
+  dcrush: 100
+  dmagic: 50
+  drange: 20
+  attributes: "dragon"
 }
 npcs {
   ids: 8709
@@ -15706,6 +20551,725 @@ npcs {
   drange: 4
 }
 npcs {
+  ids: 7604
+  ids: 7605
+  ids: 7606
+  name: "Skeletal Mystic"
+  version: "Normal"
+  hitpoints: 160
+  att: 140
+  str: 140
+  def: 187
+  mage: 140
+  range: 1
+  attbns: 85
+  strbns: 50
+  amagic: 40
+  mbns: 38
+  dstab: 155
+  dslash: 155
+  dcrush: 115
+  dmagic: 140
+  drange: 115
+  attributes: "undead, xerician"
+}
+npcs {
+  ids: 7604
+  ids: 7605
+  ids: 7606
+  name: "Skeletal Mystic"
+  version: "Challenge Mode"
+  hitpoints: 240
+  att: 210
+  str: 210
+  def: 280
+  mage: 210
+  range: 1
+  attbns: 85
+  strbns: 50
+  amagic: 40
+  mbns: 38
+  dstab: 155
+  dslash: 155
+  dcrush: 115
+  dmagic: 140
+  drange: 115
+  attributes: "undead, xerician"
+}
+npcs {
+  ids: 468
+  name: "Skeletal Wyvern"
+  version: "1"
+  hitpoints: 200
+  att: 125
+  str: 116
+  def: 120
+  mage: 125
+  range: 120
+  dstab: 140
+  dslash: 90
+  dcrush: 90
+  dmagic: 80
+  drange: 140
+  attributes: "dragon"
+}
+npcs {
+  ids: 465
+  name: "Skeletal Wyvern"
+  version: "2"
+  hitpoints: 200
+  att: 125
+  str: 116
+  def: 120
+  mage: 125
+  range: 120
+  dstab: 140
+  dslash: 90
+  dcrush: 90
+  dmagic: 80
+  drange: 140
+  attributes: "dragon"
+}
+npcs {
+  ids: 466
+  name: "Skeletal Wyvern"
+  version: "3"
+  hitpoints: 200
+  att: 125
+  str: 116
+  def: 120
+  mage: 125
+  range: 120
+  dstab: 140
+  dslash: 90
+  dcrush: 90
+  dmagic: 80
+  drange: 140
+  attributes: "dragon"
+}
+npcs {
+  ids: 467
+  name: "Skeletal Wyvern"
+  version: "4"
+  hitpoints: 200
+  att: 125
+  str: 116
+  def: 120
+  mage: 125
+  range: 120
+  dstab: 140
+  dslash: 90
+  dcrush: 90
+  dmagic: 80
+  drange: 140
+  attributes: "dragon"
+}
+npcs {
+  ids: 74
+  ids: 75
+  ids: 76
+  name: "Skeleton"
+  version: "Level 21"
+  hitpoints: 24
+  att: 17
+  str: 17
+  def: 17
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: -5
+  drange: 5
+  attributes: "undead"
+}
+npcs {
+  ids: 70
+  ids: 71
+  ids: 72
+  ids: 73
+  ids: 7265
+  name: "Skeleton"
+  version: "Level 22"
+  hitpoints: 29
+  att: 15
+  str: 18
+  def: 17
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: -5
+  drange: 5
+  attributes: "undead"
+}
+npcs {
+  ids: 77
+  ids: 78
+  ids: 79
+  ids: 80
+  ids: 81
+  ids: 10717
+  ids: 10718
+  ids: 10719
+  ids: 10720
+  ids: 10721
+  name: "Skeleton"
+  version: "Level 25"
+  hitpoints: 17
+  att: 24
+  str: 24
+  def: 24
+  mage: 1
+  range: 1
+  attbns: 15
+  strbns: 14
+  dstab: 9
+  dslash: 11
+  dcrush: -2
+  dmagic: 1
+  drange: 4
+  attributes: "undead"
+}
+npcs {
+  ids: 82
+  ids: 83
+  name: "Skeleton"
+  version: "Level 45"
+  hitpoints: 59
+  att: 32
+  str: 35
+  def: 36
+  mage: 1
+  range: 1
+  attbns: 15
+  strbns: 14
+  dstab: 9
+  dslash: 11
+  dcrush: -2
+  dmagic: 1
+  drange: 4
+  attributes: "undead"
+}
+npcs {
+  ids: 2521
+  ids: 2522
+  ids: 2523
+  name: "Skeleton"
+  version: "Level 60"
+  hitpoints: 70
+  att: 50
+  str: 50
+  def: 40
+  mage: 1
+  range: 1
+  dstab: 35
+  dslash: 35
+  dcrush: -5
+  drange: 35
+  attributes: "undead"
+}
+npcs {
+  ids: 2520
+  name: "Skeleton"
+  version: "Level 68"
+  hitpoints: 70
+  att: 60
+  str: 50
+  def: 60
+  mage: 1
+  range: 1
+  dstab: 35
+  dslash: 35
+  dcrush: -5
+  drange: 35
+  attributes: "undead"
+}
+npcs {
+  ids: 2524
+  ids: 2525
+  ids: 2526
+  name: "Skeleton"
+  version: "Level 85"
+  hitpoints: 77
+  att: 74
+  str: 74
+  def: 74
+  mage: 1
+  range: 1
+  attbns: 15
+  strbns: 14
+  dstab: 79
+  dslash: 31
+  dcrush: 20
+  dmagic: 5
+  drange: 70
+  attributes: "undead"
+}
+npcs {
+  ids: 5237
+  name: "Skeleton"
+  hitpoints: 77
+  att: 180
+  str: 90
+  def: 110
+  mage: 110
+  range: 1
+  attbns: 50
+  attributes: "undead"
+}
+npcs {
+  ids: 1685
+  name: "Skeleton"
+  version: "Unarmed"
+  hitpoints: 51
+  att: 72
+  str: 72
+  def: 72
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: -5
+  drange: 5
+  attributes: "undead"
+}
+npcs {
+  ids: 1686
+  name: "Skeleton"
+  version: "Unarmed round shield"
+  hitpoints: 51
+  att: 72
+  str: 72
+  def: 72
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: -5
+  drange: 5
+  attributes: "undead"
+}
+npcs {
+  ids: 1687
+  name: "Skeleton"
+  version: "Square shield"
+  hitpoints: 51
+  att: 72
+  str: 72
+  def: 72
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: -5
+  drange: 5
+  attributes: "undead"
+}
+npcs {
+  ids: 1688
+  name: "Skeleton"
+  version: "Armed round shield"
+  hitpoints: 51
+  att: 72
+  str: 72
+  def: 72
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: -5
+  drange: 5
+  attributes: "undead"
+}
+npcs {
+  ids: 3565
+  name: "Skeleton"
+  hitpoints: 29
+  att: 15
+  str: 18
+  def: 17
+  mage: 1
+  range: 1
+  attbns: 15
+  strbns: 14
+  dstab: 9
+  dslash: 11
+  dcrush: -2
+  dmagic: 1
+  drange: 4
+  attributes: "undead"
+}
+npcs {
+  ids: 6441
+  name: "Skeleton"
+  hitpoints: 85
+  att: 70
+  str: 60
+  def: 80
+  mage: 110
+  range: 1
+  strbns: 5
+  dstab: 50
+  dslash: 40
+  drange: 40
+  attributes: "undead"
+}
+npcs {
+  ids: 3972
+  name: "Skeleton"
+  version: "1"
+  hitpoints: 29
+  att: 15
+  str: 18
+  def: 17
+  mage: 1
+  range: 1
+  attbns: 15
+  strbns: 14
+  dstab: 9
+  dslash: 11
+  dcrush: -2
+  dmagic: 1
+  drange: 4
+  attributes: "undead"
+}
+npcs {
+  ids: 3973
+  name: "Skeleton"
+  version: "2"
+  hitpoints: 29
+  att: 15
+  str: 18
+  def: 17
+  mage: 1
+  range: 1
+  attbns: 15
+  strbns: 14
+  dstab: 9
+  dslash: 11
+  dcrush: -2
+  dmagic: 1
+  drange: 4
+  attributes: "undead"
+}
+npcs {
+  ids: 3974
+  name: "Skeleton"
+  version: "3"
+  hitpoints: 29
+  att: 15
+  str: 18
+  def: 17
+  mage: 1
+  range: 1
+  attbns: 15
+  strbns: 14
+  dstab: 9
+  dslash: 11
+  dcrush: -2
+  dmagic: 1
+  drange: 4
+  attributes: "undead"
+}
+npcs {
+  ids: 8070
+  name: "Skeleton"
+  version: "Melee"
+  hitpoints: 54
+  att: 160
+  str: 180
+  def: 62
+  mage: 1
+  range: 1
+  attbns: 30
+  dstab: 25
+  dslash: 20
+  dcrush: 25
+  dmagic: 10
+  drange: 30
+  attributes: "undead"
+}
+npcs {
+  ids: 8071
+  name: "Skeleton"
+  version: "Range"
+  hitpoints: 54
+  att: 160
+  str: 1
+  def: 62
+  mage: 1
+  range: 180
+  arange: 20
+  dstab: 15
+  dslash: 10
+  dcrush: 15
+  dmagic: 30
+  drange: 20
+  attributes: "undead"
+}
+npcs {
+  ids: 8072
+  name: "Skeleton"
+  version: "Magic"
+  hitpoints: 54
+  att: 160
+  str: 1
+  def: 62
+  mage: 180
+  range: 1
+  amagic: 20
+  dstab: 35
+  dslash: 30
+  dcrush: 35
+  dmagic: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 6448
+  name: "Skeleton"
+  version: "Level 40"
+  hitpoints: 26
+  att: 33
+  str: 31
+  def: 52
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 40
+  drange: 40
+  attributes: "undead"
+}
+npcs {
+  ids: 6444
+  name: "Skeleton"
+  version: "Level 42 (Sword)"
+  hitpoints: 40
+  att: 40
+  str: 30
+  def: 40
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 40
+  drange: 40
+  attributes: "undead"
+}
+npcs {
+  ids: 6446
+  name: "Skeleton"
+  version: "Level 42 (Hammer)"
+  hitpoints: 42
+  att: 36
+  str: 38
+  def: 30
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 40
+  drange: 40
+  attributes: "undead"
+}
+npcs {
+  ids: 6445
+  name: "Skeleton"
+  version: "Level 59"
+  hitpoints: 53
+  att: 50
+  str: 46
+  def: 62
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 40
+  drange: 40
+  attributes: "undead"
+}
+npcs {
+  ids: 6447
+  name: "Skeleton"
+  version: "Level 63"
+  hitpoints: 58
+  att: 56
+  str: 61
+  def: 45
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 40
+  drange: 40
+  attributes: "undead"
+}
+npcs {
+  ids: 6467
+  name: "Skeleton"
+  version: "Level 72"
+  hitpoints: 69
+  att: 75
+  str: 61
+  def: 45
+  mage: 1
+  range: 1
+  strbns: 15
+  dstab: 50
+  dslash: 40
+  drange: 40
+  attributes: "undead"
+}
+npcs {
+  ids: 6442
+  name: "Skeleton"
+  version: "Level 77"
+  hitpoints: 80
+  att: 72
+  str: 60
+  def: 60
+  mage: 1
+  range: 1
+  strbns: 5
+  dstab: 50
+  dslash: 40
+  drange: 40
+  attributes: "undead"
+}
+npcs {
+  ids: 6443
+  name: "Skeleton"
+  version: "Level 81"
+  hitpoints: 71
+  att: 72
+  str: 64
+  def: 80
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 40
+  drange: 40
+  attributes: "undead"
+}
+npcs {
+  ids: 6468
+  name: "Skeleton"
+  version: "Level 87"
+  hitpoints: 92
+  att: 75
+  str: 80
+  def: 55
+  mage: 1
+  range: 1
+  strbns: 15
+  dstab: 50
+  dslash: 40
+  drange: 40
+  attributes: "undead"
+}
+npcs {
+  ids: 924
+  name: "Skeleton"
+  hitpoints: 18
+  att: 10
+  str: 11
+  def: 7
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: -5
+  drange: 5
+  attributes: "undead"
+}
+npcs {
+  ids: 1538
+  name: "Skeleton brute"
+  hitpoints: 124
+  att: 115
+  str: 114
+  def: 110
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 15
+  dslash: 3
+  dcrush: 2
+  dmagic: -3
+  drange: 2
+  attributes: "undead"
+}
+npcs {
+  ids: 3358
+  name: "Skeleton Champion"
+  hitpoints: 58
+  att: 1
+  str: 1
+  def: 34
+  mage: 1
+  range: 36
+  attributes: "undead"
+}
+npcs {
+  ids: 4491
+  ids: 4492
+  ids: 4493
+  name: "Skeleton fremennik"
+  version: "Level 40"
+  hitpoints: 25
+  att: 53
+  str: 30
+  def: 30
+  mage: 1
+  range: 1
+  attbns: 8
+  strbns: 13
+  dstab: 14
+  dslash: 18
+  dcrush: 15
+  dmagic: -4
+  drange: 15
+  attributes: "undead"
+}
+npcs {
+  ids: 4494
+  ids: 4495
+  ids: 4496
+  name: "Skeleton fremennik"
+  version: "Level 50"
+  hitpoints: 35
+  att: 60
+  str: 43
+  def: 35
+  mage: 1
+  range: 1
+  attbns: 8
+  strbns: 13
+  dstab: 14
+  dslash: 18
+  dcrush: 15
+  dmagic: -4
+  drange: 15
+  attributes: "undead"
+}
+npcs {
+  ids: 4497
+  ids: 4498
+  ids: 4499
+  name: "Skeleton fremennik"
+  version: "Level 60"
+  hitpoints: 40
+  att: 72
+  str: 54
+  def: 40
+  mage: 1
+  range: 1
+  attbns: 8
+  strbns: 13
+  dstab: 14
+  dslash: 18
+  dcrush: 15
+  dmagic: -4
+  drange: 15
+  attributes: "undead"
+}
+npcs {
   ids: 130
   name: "Skeleton"
   hitpoints: 29
@@ -15719,6 +21283,64 @@ npcs {
   dcrush: -2
   dmagic: 1
   drange: 4
+}
+npcs {
+  ids: 1540
+  name: "Skeleton heavy"
+  hitpoints: 124
+  att: 115
+  str: 114
+  def: 110
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 15
+  dslash: 3
+  dcrush: 2
+  dmagic: -3
+  drange: 2
+  attributes: "undead"
+}
+npcs {
+  ids: 5054
+  ids: 6387
+  name: "Skeleton Hellhound"
+  version: "Normal"
+  hitpoints: 55
+  att: 70
+  str: 110
+  def: 100
+  mage: 1
+  range: 1
+  attributes: "demon"
+}
+npcs {
+  ids: 6326
+  name: "Skeleton Hellhound (hard)"
+  version: "Hard"
+  hitpoints: 132
+  att: 168
+  str: 264
+  def: 100
+  mage: 1
+  range: 1
+  attributes: "demon"
+}
+npcs {
+  ids: 6613
+  name: "Skeleton Hellhound"
+  hitpoints: 110
+  att: 210
+  str: 250
+  def: 150
+  mage: 1
+  range: 1
+  dstab: 101
+  dslash: 103
+  dcrush: 10
+  dmagic: 180
+  drange: 266
+  attributes: "undead"
 }
 npcs {
   ids: 1537
@@ -15737,6 +21359,65 @@ npcs {
   drange: 2
 }
 npcs {
+  ids: 84
+  name: "Skeleton Mage"
+  version: "Level 16"
+  hitpoints: 17
+  att: 14
+  str: 14
+  def: 14
+  mage: 18
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 4319
+  name: "Skeleton Mage"
+  version: "Level 83"
+  hitpoints: 80
+  att: 10
+  str: 10
+  def: 60
+  mage: 100
+  range: 1
+  dmagic: 15
+  attributes: "undead"
+}
+npcs {
+  ids: 1541
+  name: "Skeleton thug"
+  hitpoints: 124
+  att: 115
+  str: 114
+  def: 110
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 15
+  dslash: 3
+  dcrush: 2
+  dmagic: -3
+  drange: 2
+  attributes: "undead"
+}
+npcs {
+  ids: 1539
+  name: "Skeleton warlord"
+  hitpoints: 124
+  att: 115
+  str: 114
+  def: 110
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 15
+  dslash: 3
+  dcrush: 2
+  dmagic: -3
+  drange: 2
+  attributes: "undead"
+}
+npcs {
   ids: 11268
   name: "Skoblin"
   hitpoints: 30
@@ -15752,6 +21433,37 @@ npcs {
   dcrush: 5
   dmagic: 5
   drange: 20
+}
+npcs {
+  ids: 872
+  ids: 878
+  ids: 879
+  name: "Skogre"
+  hitpoints: 71
+  att: 20
+  str: 36
+  def: 35
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 7286
+  name: "Skotizo"
+  hitpoints: 450
+  att: 240
+  str: 250
+  def: 200
+  mage: 280
+  range: 1
+  attbns: 160
+  strbns: 31
+  dstab: 80
+  dslash: 80
+  dcrush: 80
+  dmagic: 130
+  drange: 130
+  attributes: "demon"
 }
 npcs {
   ids: 773
@@ -15852,6 +21564,21 @@ npcs {
   dcrush: 5
   dmagic: 5
   drange: 50
+}
+npcs {
+  ids: 882
+  name: "Slash Bash"
+  hitpoints: 100
+  att: 100
+  str: 120
+  def: 60
+  mage: 1
+  range: 100
+  attbns: 22
+  dstab: 30
+  dslash: 30
+  dcrush: 30
+  attributes: "undead"
 }
 npcs {
   ids: 9446
@@ -16572,6 +22299,19 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 10397
+  name: "Spiked Turoth"
+  hitpoints: 195
+  att: 204
+  str: 280
+  def: 154
+  mage: 1
+  range: 1
+  dslash: 40
+  dcrush: 40
+  attributes: "leafy"
+}
+npcs {
   ids: 1709
   name: "Spinner"
   version: "Level 36"
@@ -16663,6 +22403,248 @@ npcs {
   drange: 50
 }
 npcs {
+  ids: 3161
+  name: "Spiritual mage"
+  version: "Zamorak"
+  hitpoints: 75
+  att: 1
+  str: 1
+  def: 61
+  mage: 180
+  range: 1
+  attributes: "spectral"
+}
+npcs {
+  ids: 2212
+  name: "Spiritual mage"
+  version: "Saradomin"
+  hitpoints: 85
+  att: 1
+  str: 1
+  def: 86
+  mage: 160
+  range: 1
+  dstab: 8
+  dslash: 7
+  dcrush: 3
+  dmagic: 16
+  drange: 2
+  attributes: "spectral"
+}
+npcs {
+  ids: 2244
+  name: "Spiritual mage"
+  version: "Bandos"
+  hitpoints: 106
+  att: 1
+  str: 1
+  def: 103
+  mage: 142
+  range: 1
+  dstab: 12
+  dslash: 14
+  dcrush: 13
+  dmagic: 35
+  drange: 13
+  attributes: "spectral"
+}
+npcs {
+  ids: 11292
+  name: "Spiritual Mage"
+  version: "Zaros"
+  hitpoints: 125
+  att: 1
+  str: 1
+  def: 100
+  mage: 200
+  range: 1
+  amagic: 52
+  mbns: 52
+  dstab: 420
+  dslash: 400
+  dcrush: 420
+  dmagic: 200
+  attributes: "spectral"
+}
+npcs {
+  ids: 3160
+  name: "Spiritual ranger"
+  version: "Zamorak"
+  hitpoints: 120
+  att: 1
+  str: 1
+  def: 80
+  mage: 1
+  range: 140
+  attributes: "spectral"
+}
+npcs {
+  ids: 2211
+  name: "Spiritual ranger"
+  version: "Saradomin"
+  hitpoints: 106
+  att: 1
+  str: 1
+  def: 100
+  mage: 1
+  range: 146
+  dstab: 3
+  dslash: 5
+  dcrush: 13
+  dmagic: 16
+  drange: 23
+  attributes: "spectral"
+}
+npcs {
+  ids: 2242
+  name: "Spiritual ranger"
+  version: "Bandos"
+  hitpoints: 131
+  att: 1
+  str: 1
+  def: 96
+  mage: 1
+  range: 121
+  dstab: 12
+  dslash: 14
+  dcrush: 13
+  dmagic: 5
+  drange: 13
+  attributes: "spectral"
+}
+npcs {
+  ids: 3167
+  name: "Spiritual ranger"
+  version: "Armadyl"
+  hitpoints: 89
+  att: 1
+  str: 1
+  def: 130
+  mage: 1
+  range: 150
+  dstab: 17
+  dslash: 16
+  dcrush: 8
+  dmagic: 35
+  drange: 41
+  attributes: "spectral"
+}
+npcs {
+  ids: 11291
+  name: "Spiritual Ranger"
+  version: "Zaros"
+  hitpoints: 110
+  att: 1
+  str: 1
+  def: 100
+  mage: 100
+  range: 190
+  dstab: 20
+  dcrush: 20
+  dmagic: 300
+  drange: 50
+  attributes: "spectral"
+}
+npcs {
+  ids: 3159
+  name: "Spiritual warrior"
+  version: "Zamorak"
+  hitpoints: 100
+  att: 100
+  str: 100
+  def: 100
+  mage: 1
+  range: 1
+  attributes: "spectral"
+}
+npcs {
+  ids: 2210
+  name: "Spiritual warrior"
+  version: "Saradomin"
+  hitpoints: 110
+  att: 110
+  str: 106
+  def: 110
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 6
+  dstab: 12
+  dslash: 14
+  dcrush: 13
+  dmagic: 5
+  drange: 13
+  attributes: "spectral"
+}
+npcs {
+  ids: 2243
+  name: "Spiritual warrior"
+  version: "Bandos"
+  hitpoints: 131
+  att: 116
+  str: 120
+  def: 100
+  mage: 1
+  range: 1
+  attbns: 29
+  strbns: 13
+  dstab: 12
+  dslash: 14
+  dcrush: 13
+  dmagic: 5
+  drange: 13
+  attributes: "spectral"
+}
+npcs {
+  ids: 3166
+  name: "Spiritual warrior"
+  version: "Armadyl"
+  hitpoints: 98
+  att: 1
+  str: 1
+  def: 120
+  mage: 1
+  range: 141
+  dstab: 23
+  dslash: 25
+  dcrush: 13
+  dmagic: 35
+  drange: 35
+  attributes: "spectral"
+}
+npcs {
+  ids: 11290
+  name: "Spiritual Warrior"
+  version: "Zaros"
+  hitpoints: 100
+  att: 190
+  str: 190
+  def: 100
+  mage: 50
+  range: 1
+  dstab: 100
+  dslash: 100
+  dcrush: 80
+  drange: 250
+  attributes: "spectral"
+}
+npcs {
+  ids: 7794
+  name: "Spitting Wyvern"
+  hitpoints: 200
+  att: 125
+  str: 80
+  def: 90
+  mage: 125
+  range: 125
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: 140
+  drange: 120
+  attributes: "dragon"
+}
+npcs {
   ids: 1689
   name: "Splatter"
   version: "Level 22"
@@ -16740,6 +22722,42 @@ npcs {
   drange: 13
 }
 npcs {
+  ids: 274
+  ids: 275
+  ids: 8086
+  name: "Steel dragon"
+  version: "Normal"
+  hitpoints: 210
+  att: 215
+  str: 215
+  def: 215
+  mage: 100
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 30
+  drange: 90
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 7255
+  name: "Steel dragon"
+  version: "Catacombs of Kourend"
+  hitpoints: 250
+  att: 235
+  str: 235
+  def: 235
+  mage: 130
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 30
+  drange: 90
+  attributes: "dragon,fiery"
+}
+npcs {
   ids: 139
   name: "Steel dragon"
   hitpoints: 210
@@ -16768,6 +22786,61 @@ npcs {
   dcrush: 50
   dmagic: 200
   drange: 200
+}
+npcs {
+  ids: 8066
+  name: "Stone Guardian"
+  version: "Magic"
+  hitpoints: 62
+  att: 1
+  str: 1
+  def: 138
+  mage: 128
+  range: 1
+  amagic: 10
+  mbns: 10
+  dstab: 40
+  dslash: 40
+  dcrush: 35
+  dmagic: 35
+  attributes: "Golem"
+}
+npcs {
+  ids: 8064
+  name: "Stone Guardian"
+  version: "Melee"
+  hitpoints: 62
+  att: 150
+  str: 148
+  def: 138
+  mage: 118
+  range: 1
+  mbns: 10
+  dstab: 25
+  dslash: 25
+  dcrush: 15
+  dmagic: 10
+  drange: 40
+  attributes: "Golem"
+}
+npcs {
+  ids: 8065
+  name: "Stone Guardian"
+  version: "Ranged"
+  hitpoints: 62
+  att: 1
+  str: 1
+  def: 138
+  mage: 118
+  range: 128
+  mbns: 10
+  arange: 10
+  rngbns: 10
+  dstab: 10
+  dslash: 10
+  dmagic: 55
+  drange: 25
+  attributes: "Golem"
 }
 npcs {
   ids: 685
@@ -16837,6 +22910,17 @@ npcs {
   dslash: 25
   dcrush: 25
   drange: 15
+}
+npcs {
+  ids: 69
+  name: "Summoned Zombie"
+  hitpoints: 22
+  att: 8
+  str: 9
+  def: 10
+  mage: 1
+  range: 1
+  attributes: "undead"
 }
 npcs {
   ids: 787
@@ -16976,6 +23060,22 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 7793
+  name: "Taloned Wyvern"
+  hitpoints: 200
+  att: 120
+  str: 110
+  def: 90
+  mage: 90
+  range: 90
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: 140
+  drange: 120
+  attributes: "dragon"
+}
+npcs {
   ids: 5848
   ids: 6353
   name: "Tanglefoot"
@@ -17063,6 +23163,92 @@ npcs {
   drange: 50
 }
 npcs {
+  ids: 6476
+  name: "Tarn"
+  hitpoints: 80
+  att: 40
+  str: 80
+  def: 40
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  dmagic: 50
+  drange: 50
+  attributes: "undead"
+}
+npcs {
+  ids: 7540
+  ids: 7541
+  ids: 7542
+  name: "Tekton"
+  version: "Normal"
+  hitpoints: 300
+  att: 390
+  str: 390
+  def: 205
+  mage: 205
+  range: 1
+  attbns: 64
+  strbns: 20
+  dstab: 155
+  dslash: 165
+  dcrush: 105
+  attributes: "xerician"
+}
+npcs {
+  ids: 7543
+  name: "Tekton (enraged)"
+  version: "Enraged"
+  hitpoints: 300
+  att: 390
+  str: 390
+  def: 205
+  mage: 205
+  range: 1
+  attbns: 64
+  strbns: 30
+  dstab: 280
+  dslash: 290
+  dcrush: 180
+  attributes: "xerician"
+}
+npcs {
+  ids: 7545
+  name: "Tekton"
+  version: "Normal (Challenge Mode)"
+  hitpoints: 450
+  att: 585
+  str: 585
+  def: 246
+  mage: 246
+  range: 1
+  attbns: 64
+  strbns: 20
+  dstab: 155
+  dslash: 165
+  dcrush: 105
+  attributes: "xerician"
+}
+npcs {
+  ids: 7544
+  name: "Tekton (enraged)"
+  version: "Enraged (Challenge Mode)"
+  hitpoints: 450
+  att: 585
+  str: 585
+  def: 246
+  mage: 246
+  range: 1
+  attbns: 64
+  strbns: 30
+  dstab: 280
+  dslash: 290
+  dcrush: 180
+  attributes: "xerician"
+}
+npcs {
   ids: 7620
   name: "Temple Guardian"
   hitpoints: 45
@@ -17133,6 +23319,22 @@ npcs {
   def: 19
   mage: 1
   range: 1
+}
+npcs {
+  ids: 3922
+  name: "The Draugen"
+  hitpoints: 60
+  att: 60
+  str: 60
+  def: 60
+  mage: 1
+  range: 1
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 500
+  drange: 500
+  attributes: "undead"
 }
 npcs {
   ids: 3474
@@ -17763,6 +23965,24 @@ npcs {
   drange: 50
 }
 npcs {
+  ids: 1676
+  name: "Torag the Corrupted"
+  hitpoints: 100
+  att: 100
+  str: 100
+  def: 100
+  mage: 1
+  range: 1
+  strbns: 72
+  amagic: -33
+  arange: -11
+  dstab: 221
+  dslash: 235
+  dcrush: 222
+  drange: 221
+  attributes: "spectral"
+}
+npcs {
   ids: 1714
   ids: 1715
   name: "Torcher"
@@ -17813,6 +24033,18 @@ npcs {
   hitpoints: 71
   def: 89
   mage: 107
+}
+npcs {
+  ids: 8512
+  ids: 8513
+  name: "Tormented Soul"
+  hitpoints: 20
+  att: 16
+  str: 12
+  def: 10
+  mage: 1
+  range: 1
+  attributes: "undead"
 }
 npcs {
   ids: 6075
@@ -17870,6 +24102,17 @@ npcs {
   range: 1
   attbns: 90
   strbns: 123
+}
+npcs {
+  ids: 2999
+  name: "Tortured soul"
+  hitpoints: 51
+  att: 52
+  str: 62
+  def: 38
+  mage: 1
+  range: 1
+  attributes: "undead, spectral"
 }
 npcs {
   ids: 3551
@@ -17957,6 +24200,31 @@ npcs {
   dcrush: 28
 }
 npcs {
+  ids: 8514
+  ids: 8528
+  name: "Trapped Soul"
+  version: "Normal"
+  hitpoints: 30
+  att: 25
+  str: 29
+  def: 20
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 8529
+  name: "Trapped Soul (hard)"
+  version: "Hard"
+  hitpoints: 100
+  att: 100
+  str: 120
+  def: 20
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
   ids: 1861
   name: "Tree spirit"
   version: "Level 14"
@@ -18021,6 +24289,63 @@ npcs {
   def: 130
   mage: 1
   range: 1
+}
+npcs {
+  ids: 1163
+  ids: 6380
+  name: "Tree spirit"
+  version: "Normal"
+  hitpoints: 85
+  att: 90
+  str: 95
+  def: 80
+  mage: 1
+  range: 1
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 6319
+  name: "Tree spirit (hard)"
+  version: "Hard"
+  hitpoints: 187
+  att: 200
+  str: 209
+  def: 80
+  mage: 1
+  range: 1
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 6359
+  name: "Treus Dayth"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 100
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: 5
+  dmagic: -5
+  drange: 5
+  attributes: "spectral"
+}
+npcs {
+  ids: 6298
+  name: "Treus Dayth (hard)"
+  hitpoints: 240
+  att: 168
+  str: 168
+  def: 100
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: 5
+  dmagic: -5
+  drange: 5
+  attributes: "spectral"
 }
 npcs {
   ids: 530
@@ -18122,6 +24447,104 @@ npcs {
   drange: 200
 }
 npcs {
+  ids: 3130
+  name: "Tstanon Karlak"
+  hitpoints: 142
+  att: 124
+  str: 118
+  def: 125
+  mage: 50
+  range: 50
+  strbns: 14
+  dmagic: -5
+  attributes: "demon"
+}
+npcs {
+  ids: 430
+  name: "Turoth"
+  version: "Level 83"
+  hitpoints: 76
+  att: 53
+  str: 83
+  def: 83
+  mage: 1
+  range: 1
+  dslash: 20
+  dcrush: 20
+  attributes: "leafy"
+}
+npcs {
+  ids: 429
+  name: "Turoth"
+  version: "Level 85"
+  hitpoints: 77
+  att: 54
+  str: 84
+  def: 84
+  mage: 1
+  range: 1
+  dslash: 20
+  dcrush: 20
+  attributes: "leafy"
+}
+npcs {
+  ids: 426
+  name: "Turoth"
+  version: "Level 86 (unused)"
+  hitpoints: 78
+  att: 55
+  str: 85
+  def: 85
+  mage: 1
+  range: 1
+  dslash: 20
+  dcrush: 20
+  attributes: "leafy"
+}
+npcs {
+  ids: 428
+  name: "Turoth"
+  version: "Level 87"
+  hitpoints: 79
+  att: 56
+  str: 86
+  def: 86
+  mage: 1
+  range: 1
+  dslash: 20
+  dcrush: 20
+  attributes: "leafy"
+}
+npcs {
+  ids: 431
+  ids: 432
+  name: "Turoth"
+  version: "Level 88 (unused)"
+  hitpoints: 80
+  att: 57
+  str: 87
+  def: 87
+  mage: 1
+  range: 1
+  dslash: 20
+  dcrush: 20
+  attributes: "leafy"
+}
+npcs {
+  ids: 427
+  name: "Turoth"
+  version: "Level 89"
+  hitpoints: 81
+  att: 58
+  str: 88
+  def: 88
+  mage: 1
+  range: 1
+  dslash: 20
+  dcrush: 20
+  attributes: "leafy"
+}
+npcs {
   ids: 4131
   name: "Twig"
   version: "Awake"
@@ -18148,6 +24571,21 @@ npcs {
   dcrush: 10
   dmagic: 200
   drange: 200
+}
+npcs {
+  ids: 7272
+  name: "Twisted Banshee"
+  hitpoints: 100
+  att: 75
+  str: 85
+  def: 50
+  mage: 1
+  range: 1
+  dstab: 15
+  dslash: 15
+  dcrush: 15
+  drange: 15
+  attributes: "undead, spectral"
 }
 npcs {
   ids: 9295
@@ -18416,6 +24854,275 @@ npcs {
   drange: 25
 }
 npcs {
+  ids: 2993
+  name: "Undead chicken"
+  hitpoints: 3
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  attbns: -47
+  strbns: -42
+  dstab: -42
+  dslash: -42
+  dcrush: -42
+  dmagic: -42
+  drange: -42
+  attributes: "undead"
+}
+npcs {
+  ids: 2992
+  name: "Undead cow"
+  hitpoints: 8
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  attbns: -15
+  strbns: -15
+  dstab: -21
+  dslash: -21
+  dcrush: -21
+  dmagic: -21
+  drange: -21
+  attributes: "undead"
+}
+npcs {
+  ids: 2145
+  name: "Undead Druid"
+  hitpoints: 140
+  att: 60
+  str: 50
+  def: 60
+  mage: 115
+  attbns: 50
+  strbns: 50
+  amagic: 100
+  mbns: 50
+  dstab: 40
+  dslash: 30
+  dcrush: 80
+  dmagic: 140
+  drange: 40
+  attributes: "undead"
+}
+npcs {
+  ids: 5648
+  ids: 5649
+  ids: 5650
+  ids: 5651
+  ids: 5652
+  ids: 5653
+  ids: 5654
+  ids: 5655
+  name: "Undead Lumberjack"
+  version: "Level 30"
+  hitpoints: 10
+  att: 73
+  str: 6
+  def: 10
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 5656
+  ids: 5657
+  ids: 5658
+  ids: 5659
+  ids: 5660
+  ids: 5661
+  ids: 5662
+  ids: 5663
+  name: "Undead Lumberjack"
+  version: "Level 35"
+  hitpoints: 12
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 5665
+  ids: 5666
+  ids: 5667
+  ids: 5668
+  ids: 5669
+  ids: 5670
+  ids: 5671
+  ids: 5672
+  name: "Undead Lumberjack"
+  version: "Level 40"
+  hitpoints: 12
+  att: 101
+  str: 6
+  def: 12
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 5673
+  ids: 5674
+  ids: 5675
+  ids: 5676
+  ids: 5677
+  ids: 5678
+  ids: 5679
+  ids: 5680
+  name: "Undead Lumberjack"
+  version: "Level 45"
+  hitpoints: 13
+  att: 105
+  str: 16
+  def: 13
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 5681
+  ids: 5682
+  ids: 5683
+  ids: 5684
+  ids: 5685
+  ids: 5686
+  ids: 5687
+  ids: 5688
+  name: "Undead Lumberjack"
+  version: "Level 50"
+  hitpoints: 14
+  att: 117
+  str: 16
+  def: 14
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 5689
+  ids: 5690
+  ids: 5691
+  ids: 5692
+  ids: 5693
+  ids: 5694
+  ids: 5695
+  ids: 5696
+  name: "Undead Lumberjack"
+  version: "Level 55"
+  hitpoints: 12
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 5697
+  ids: 5698
+  ids: 5699
+  ids: 5700
+  ids: 5701
+  ids: 5702
+  ids: 5703
+  ids: 5704
+  name: "Undead Lumberjack"
+  version: "Level 60"
+  hitpoints: 12
+  att: 137
+  str: 26
+  def: 16
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 5705
+  ids: 5706
+  ids: 5707
+  ids: 5708
+  ids: 5709
+  ids: 5710
+  ids: 5711
+  ids: 5712
+  name: "Undead Lumberjack"
+  version: "Level 64"
+  hitpoints: 12
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 5713
+  ids: 5714
+  ids: 5715
+  ids: 5716
+  ids: 5717
+  ids: 5718
+  ids: 5719
+  ids: 5720
+  name: "Undead Lumberjack"
+  version: "Level 70"
+  hitpoints: 12
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 5344
+  ids: 5345
+  name: "Undead one"
+  version: "Level 61"
+  hitpoints: 47
+  att: 55
+  str: 55
+  def: 55
+  attbns: 7
+  strbns: 5
+  dstab: 5
+  dslash: 5
+  dcrush: 3
+  dmagic: 1
+  drange: 4
+  attributes: "undead"
+}
+npcs {
+  ids: 5342
+  ids: 5343
+  name: "Undead one"
+  version: "Level 68 (Skeletal)"
+  hitpoints: 47
+  att: 63
+  str: 63
+  def: 63
+  attributes: "undead"
+}
+npcs {
+  ids: 5346
+  ids: 5347
+  ids: 5348
+  name: "Undead one"
+  version: "Level 68 (Zombie)"
+  hitpoints: 47
+  att: 63
+  str: 63
+  def: 63
+  attributes: "undead"
+}
+npcs {
+  ids: 5349
+  ids: 5350
+  ids: 5351
+  name: "Undead one"
+  version: "Level 73"
+  hitpoints: 59
+  att: 65
+  str: 65
+  def: 65
+  attbns: 4
+  strbns: 5
+  attributes: "undead"
+}
+npcs {
   ids: 10591
   name: "Undead Zealot"
   version: "1"
@@ -18504,6 +25211,26 @@ npcs {
   name: "Uodai"
 }
 npcs {
+  ids: 10589
+  name: "Urium Shade"
+  version: "Shade"
+  hitpoints: 130
+  att: 138
+  str: 116
+  def: 100
+  attributes: "shade,undead,spectral"
+}
+npcs {
+  ids: 6143
+  name: "Urium Shadow"
+  version: "Shadow"
+  hitpoints: 130
+  att: 138
+  str: 116
+  def: 100
+  attributes: "shade,undead,spectral"
+}
+npcs {
   ids: 5260
   name: "Uyoro"
 }
@@ -18521,6 +25248,329 @@ npcs {
   dcrush: -12
   dmagic: -12
   drange: -12
+}
+npcs {
+  ids: 4436
+  ids: 4437
+  ids: 4438
+  ids: 4439
+  name: "Vampyre Juvenile"
+  version: "Burgh de Rott"
+  hitpoints: 60
+  att: 40
+  str: 30
+  def: 30
+  mage: 1
+  range: 1
+  attributes: "vampyre1"
+}
+npcs {
+  ids: 3692
+  ids: 3693
+  ids: 3696
+  ids: 3697
+  ids: 9731
+  ids: 9732
+  name: "Vampyre Juvenile"
+  version: "Meiyerditch/Darkmeyer"
+  hitpoints: 60
+  att: 40
+  str: 30
+  def: 30
+  mage: 1
+  range: 1
+  attributes: "vampyre1"
+}
+npcs {
+  ids: 4443
+  ids: 4486
+  name: "Vampyre Juvinate"
+  version: "Level 50"
+  hitpoints: 60
+  att: 50
+  str: 37
+  def: 30
+  mage: 1
+  range: 1
+  attributes: "vampyre2"
+}
+npcs {
+  ids: 4427
+  ids: 4428
+  ids: 4429
+  ids: 4430
+  ids: 4432
+  ids: 4487
+  name: "Vampyre Juvinate"
+  version: "Level 54"
+  hitpoints: 85
+  att: 40
+  str: 40
+  def: 30
+  mage: 1
+  range: 1
+  attributes: "vampyre2"
+}
+npcs {
+  ids: 3690
+  ids: 3691
+  ids: 3694
+  ids: 3695
+  ids: 3698
+  ids: 3699
+  ids: 9728
+  ids: 9727
+  name: "Vampyre Juvinate"
+  version: "Level 54 (Meiyerditch/Darkmeyer)"
+  hitpoints: 85
+  att: 40
+  str: 40
+  def: 30
+  mage: 1
+  range: 1
+  attributes: "vampyre2"
+}
+npcs {
+  ids: 5634
+  ids: 5637
+  name: "Vampyre Juvinate"
+  version: "Level 59"
+  hitpoints: 50
+  att: 95
+  str: 16
+  def: 45
+  mage: 50
+  range: 50
+  attributes: "vampyre2"
+}
+npcs {
+  ids: 4442
+  name: "Vampyre Juvinate"
+  version: "Level 75"
+  hitpoints: 110
+  att: 70
+  str: 50
+  def: 35
+  mage: 1
+  range: 1
+  attributes: "vampyre2"
+}
+npcs {
+  ids: 5635
+  ids: 5638
+  name: "Vampyre Juvinate"
+  version: "Level 90"
+  hitpoints: 100
+  att: 113
+  str: 46
+  def: 55
+  mage: 50
+  range: 50
+  attributes: "vampyre2"
+}
+npcs {
+  ids: 5636
+  ids: 5639
+  name: "Vampyre Juvinate"
+  version: "Level 119"
+  hitpoints: 150
+  att: 127
+  str: 76
+  def: 65
+  mage: 50
+  range: 50
+  attributes: "vampyre2"
+}
+npcs {
+  ids: 7529
+  name: "Vanguard"
+  version: "Magic"
+  hitpoints: 180
+  att: 150
+  str: 150
+  def: 160
+  mage: 150
+  range: 150
+  amagic: 40
+  mbns: 25
+  dstab: 315
+  dslash: 340
+  dcrush: 400
+  dmagic: 110
+  drange: 50
+  attributes: "xerician"
+}
+npcs {
+  ids: 7527
+  name: "Vanguard"
+  version: "Melee"
+  hitpoints: 180
+  att: 150
+  str: 150
+  def: 160
+  mage: 150
+  range: 150
+  attbns: 20
+  strbns: 10
+  dstab: 150
+  dslash: 150
+  dcrush: 150
+  dmagic: 20
+  drange: 400
+  attributes: "xerician"
+}
+npcs {
+  ids: 7528
+  name: "Vanguard"
+  version: "Ranged"
+  hitpoints: 180
+  att: 150
+  str: 150
+  def: 160
+  mage: 150
+  range: 150
+  arange: 40
+  rngbns: 25
+  dstab: 55
+  dslash: 60
+  dcrush: 100
+  dmagic: 400
+  drange: 300
+  attributes: "xerician"
+}
+npcs {
+  ids: 7529
+  name: "Vanguard"
+  version: "Magic (Challenge Mode)"
+  hitpoints: 280
+  att: 225
+  str: 225
+  def: 240
+  mage: 225
+  range: 225
+  amagic: 40
+  mbns: 25
+  dstab: 315
+  dslash: 340
+  dcrush: 400
+  dmagic: 110
+  drange: 50
+  attributes: "xerician"
+}
+npcs {
+  ids: 7527
+  name: "Vanguard"
+  version: "Melee (Challenge Mode)"
+  hitpoints: 280
+  att: 225
+  str: 225
+  def: 240
+  mage: 225
+  range: 225
+  attbns: 20
+  strbns: 10
+  dstab: 150
+  dslash: 150
+  dcrush: 150
+  dmagic: 20
+  drange: 400
+  attributes: "xerician"
+}
+npcs {
+  ids: 7528
+  name: "Vanguard"
+  version: "Ranged (Challenge Mode)"
+  hitpoints: 280
+  att: 225
+  str: 225
+  def: 240
+  mage: 225
+  range: 225
+  arange: 40
+  rngbns: 25
+  dstab: 55
+  dslash: 60
+  dcrush: 100
+  dmagic: 400
+  drange: 300
+  attributes: "xerician"
+}
+npcs {
+  ids: 7526
+  name: "Vanguard"
+  version: "Moving"
+  attributes: "xerician"
+}
+npcs {
+  ids: 3734
+  ids: 3735
+  ids: 3736
+  ids: 3737
+  ids: 3738
+  ids: 3739
+  ids: 8239
+  ids: 8240
+  name: "Vanstrom Klause"
+  hitpoints: 155
+  att: 150
+  str: 136
+  def: 150
+  mage: 150
+  range: 150
+  attributes: "vampyre3"
+}
+npcs {
+  ids: 9567
+  name: "Vanstrom Klause"
+  hitpoints: 750
+  def: 180
+  mage: 180
+  amagic: 16
+  mbns: 18
+  dstab: 34
+  dslash: 34
+  dcrush: 34
+  dmagic: 34
+  drange: 34
+  attributes: "vampyre3"
+}
+npcs {
+  ids: 7566
+  ids: 7567
+  name: "Vasa Nistirio"
+  version: "Normal"
+  hitpoints: 300
+  att: 1
+  str: 1
+  def: 175
+  mage: 230
+  range: 230
+  arange: 100
+  dstab: 170
+  dslash: 190
+  dcrush: 50
+  dmagic: 400
+  drange: 60
+  attributes: "xerician"
+}
+npcs {
+  ids: 7566
+  ids: 7567
+  name: "Vasa Nistirio"
+  version: "Challenge Mode"
+  hitpoints: 450
+  att: 1
+  str: 1
+  def: 262
+  mage: 345
+  range: 345
+  arange: 100
+  dstab: 170
+  dslash: 190
+  dcrush: 50
+  dmagic: 400
+  drange: 60
+  attributes: "xerician"
 }
 npcs {
   ids: 6504
@@ -18568,6 +25618,24 @@ npcs {
   dcrush: -21
   dmagic: -21
   drange: -21
+}
+npcs {
+  ids: 1677
+  name: "Verac the Defiled"
+  hitpoints: 100
+  att: 100
+  str: 100
+  def: 100
+  mage: 1
+  range: 1
+  strbns: 72
+  amagic: -42
+  arange: -14
+  dstab: 227
+  dslash: 230
+  dcrush: 221
+  drange: 225
+  attributes: "spectral"
 }
 npcs {
   ids: 8369
@@ -18633,6 +25701,79 @@ npcs {
   drange: 230
 }
 npcs {
+  ids: 7538
+  ids: 7539
+  name: "Vespine soldier"
+  version: "Normal"
+  hitpoints: 100
+  att: 150
+  str: 150
+  def: 40
+  mage: 40
+  range: 1
+  dmagic: 30
+  attributes: "xerician"
+}
+npcs {
+  ids: 7538
+  ids: 7539
+  name: "Vespine soldier"
+  version: "Challenge Mode"
+  range: 1
+  dmagic: 30
+  attributes: "xerician"
+}
+npcs {
+  ids: 7530
+  ids: 7531
+  ids: 7532
+  name: "Vespula"
+  version: "Normal"
+  hitpoints: 200
+  att: 150
+  str: 150
+  def: 88
+  mage: 88
+  range: 150
+  dmagic: 70
+  drange: 60
+  attributes: "xerician"
+}
+npcs {
+  ids: 6611
+  name: "Vet\'ion"
+  version: "Normal"
+  hitpoints: 255
+  att: 430
+  str: 430
+  def: 395
+  mage: 300
+  range: 1
+  dstab: 201
+  dslash: 200
+  dcrush: -10
+  dmagic: 250
+  drange: 270
+  attributes: "undead"
+}
+npcs {
+  ids: 6612
+  name: "Vet\'ion Reborn"
+  version: "Reborn"
+  hitpoints: 255
+  att: 430
+  str: 430
+  def: 395
+  mage: 300
+  range: 1
+  dstab: 201
+  dslash: 200
+  dcrush: -10
+  dmagic: 250
+  drange: 270
+  attributes: "undead"
+}
+npcs {
   ids: 7399
   name: "Vitreous Jelly"
   hitpoints: 190
@@ -18663,6 +25804,49 @@ npcs {
   strbns: 3
 }
 npcs {
+  ids: 8059
+  ids: 8061
+  name: "Vorkath"
+  version: "Post-quest"
+  hitpoints: 750
+  att: 560
+  str: 308
+  def: 214
+  mage: 150
+  range: 308
+  attbns: 16
+  amagic: 150
+  mbns: 56
+  arange: 78
+  dstab: 26
+  dslash: 108
+  dcrush: 108
+  dmagic: 240
+  drange: 26
+  attributes: "dragon,undead,fiery"
+}
+npcs {
+  ids: 8058
+  ids: 8060
+  name: "Vorkath"
+  version: "Dragon Slayer II"
+  hitpoints: 460
+  att: 560
+  str: 268
+  def: 164
+  mage: 148
+  range: 268
+  attbns: 14
+  amagic: 148
+  arange: 96
+  dstab: 66
+  dslash: 126
+  dcrush: 126
+  dmagic: 204
+  drange: 80
+  attributes: "dragon,undead,fiery"
+}
+npcs {
   ids: 1267
   name: "Vulture"
   version: "Landed"
@@ -18683,6 +25867,238 @@ npcs {
   def: 10
   mage: 1
   range: 1
+}
+npcs {
+  ids: 8251
+  ids: 8252
+  ids: 8253
+  ids: 8254
+  ids: 8255
+  ids: 8256
+  ids: 8257
+  ids: 8258
+  ids: 8259
+  name: "Vyrewatch"
+  version: "Level 87"
+  hitpoints: 75
+  att: 80
+  str: 75
+  def: 75
+  mage: 75
+  range: 1
+  attributes: "vampyre3"
+}
+npcs {
+  ids: 3709
+  ids: 3713
+  ids: 3717
+  ids: 3721
+  ids: 3725
+  ids: 3729
+  ids: 3748
+  ids: 3752
+  ids: 3756
+  ids: 3760
+  ids: 8300
+  ids: 8301
+  ids: 8302
+  ids: 8303
+  ids: 8304
+  ids: 8305
+  ids: 8306
+  ids: 8307
+  ids: 9740
+  ids: 9738
+  ids: 9736
+  ids: 9737
+  ids: 9742
+  ids: 9739
+  ids: 9741
+  ids: 9735
+  name: "Vyrewatch"
+  version: "Level 105"
+  hitpoints: 90
+  att: 105
+  str: 86
+  def: 85
+  mage: 105
+  range: 105
+  attributes: "vampyre3"
+}
+npcs {
+  ids: 3710
+  ids: 3714
+  ids: 3718
+  ids: 3722
+  ids: 3726
+  ids: 3730
+  ids: 3749
+  ids: 3753
+  ids: 3757
+  ids: 3761
+  name: "Vyrewatch"
+  version: "Level 110"
+  hitpoints: 90
+  att: 110
+  str: 96
+  def: 85
+  mage: 110
+  range: 110
+  attributes: "vampyre3"
+}
+npcs {
+  ids: 3711
+  ids: 3715
+  ids: 3719
+  ids: 3723
+  ids: 3727
+  ids: 3731
+  ids: 3750
+  ids: 3754
+  ids: 3758
+  ids: 3762
+  name: "Vyrewatch"
+  version: "Level 120"
+  hitpoints: 105
+  att: 120
+  str: 106
+  def: 85
+  mage: 120
+  range: 120
+  attributes: "vampyre3"
+}
+npcs {
+  ids: 3712
+  ids: 3716
+  ids: 3720
+  ids: 3724
+  ids: 3728
+  ids: 3732
+  ids: 3751
+  ids: 3755
+  ids: 3759
+  ids: 3763
+  name: "Vyrewatch"
+  version: "Level 125"
+  hitpoints: 110
+  att: 120
+  str: 116
+  def: 85
+  mage: 120
+  range: 120
+  attributes: "vampyre3"
+}
+npcs {
+  ids: 9756
+  name: "Vyrewatch Sentinel"
+  version: "1"
+  hitpoints: 150
+  att: 120
+  str: 160
+  def: 180
+  mage: 120
+  range: 120
+  attbns: 135
+  strbns: 150
+  attributes: "vampyre3"
+}
+npcs {
+  ids: 9757
+  name: "Vyrewatch Sentinel"
+  version: "2"
+  hitpoints: 150
+  att: 120
+  str: 160
+  def: 180
+  mage: 120
+  range: 120
+  attbns: 135
+  strbns: 150
+  attributes: "vampyre3"
+}
+npcs {
+  ids: 9760
+  name: "Vyrewatch Sentinel"
+  version: "3"
+  hitpoints: 150
+  att: 120
+  str: 160
+  def: 180
+  mage: 120
+  range: 120
+  attbns: 135
+  strbns: 150
+  attributes: "vampyre3"
+}
+npcs {
+  ids: 9762
+  name: "Vyrewatch Sentinel"
+  version: "4"
+  hitpoints: 150
+  att: 120
+  str: 160
+  def: 180
+  mage: 120
+  range: 120
+  attbns: 135
+  strbns: 150
+  attributes: "vampyre3"
+}
+npcs {
+  ids: 9763
+  name: "Vyrewatch Sentinel"
+  version: "5"
+  hitpoints: 150
+  att: 120
+  str: 160
+  def: 180
+  mage: 120
+  range: 120
+  attbns: 135
+  strbns: 150
+  attributes: "vampyre3"
+}
+npcs {
+  ids: 9759
+  name: "Vyrewatch Sentinel"
+  version: "6"
+  hitpoints: 150
+  att: 120
+  str: 160
+  def: 180
+  mage: 120
+  range: 120
+  attbns: 135
+  strbns: 150
+  attributes: "vampyre3"
+}
+npcs {
+  ids: 9758
+  name: "Vyrewatch Sentinel"
+  version: "7"
+  hitpoints: 150
+  att: 120
+  str: 160
+  def: 180
+  mage: 120
+  range: 120
+  attbns: 135
+  strbns: 150
+  attributes: "vampyre3"
+}
+npcs {
+  ids: 9761
+  name: "Vyrewatch Sentinel"
+  version: "8"
+  hitpoints: 150
+  att: 120
+  str: 160
+  def: 180
+  mage: 120
+  range: 120
+  attbns: 135
+  strbns: 150
+  attributes: "vampyre3"
 }
 npcs {
   ids: 476
@@ -18820,6 +26236,36 @@ npcs {
   dmagic: 15
 }
 npcs {
+  ids: 2916
+  name: "Waterfiend"
+  version: "Normal"
+  hitpoints: 128
+  def: 128
+  mage: 105
+  range: 105
+  dstab: 100
+  dslash: 100
+  dcrush: 10
+  dmagic: 100
+  drange: 100
+  attributes: "demon"
+}
+npcs {
+  ids: 2917
+  name: "Waterfiend"
+  version: "Slayer task"
+  hitpoints: 128
+  def: 128
+  mage: 105
+  range: 105
+  dstab: 100
+  dslash: 100
+  dcrush: 10
+  dmagic: 100
+  drange: 100
+  attributes: "demon"
+}
+npcs {
   ids: 5211
   name: "Weaponsmaster"
   hitpoints: 20
@@ -18887,6 +26333,22 @@ npcs {
   dcrush: -21
   dmagic: -21
   drange: -21
+}
+npcs {
+  ids: 4743
+  name: "White golem"
+  hitpoints: 80
+  att: 80
+  str: 30
+  def: 80
+  mage: 1
+  range: 1
+  dstab: 1
+  dslash: 300
+  dcrush: 300
+  dmagic: 300
+  drange: 300
+  attributes: "Golem"
 }
 npcs {
   ids: 1798
@@ -19400,6 +26862,44 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 8610
+  name: "Wyrm"
+  version: "Idle"
+  hitpoints: 130
+  att: 85
+  str: 60
+  def: 80
+  mage: 80
+  range: 80
+  strbns: 30
+  mbns: 30
+  dstab: 20
+  dslash: 50
+  dcrush: 50
+  dmagic: 50
+  drange: 20
+  attributes: "dragon"
+}
+npcs {
+  ids: 8611
+  name: "Wyrm"
+  version: "Attacking"
+  hitpoints: 130
+  att: 85
+  str: 60
+  def: 80
+  mage: 80
+  range: 80
+  strbns: 30
+  mbns: 30
+  dstab: 20
+  dslash: 50
+  dcrush: 50
+  dmagic: 50
+  drange: 20
+  attributes: "dragon"
+}
+npcs {
   ids: 10954
   name: "Xamphur"
   hitpoints: 450
@@ -19577,6 +27077,20 @@ npcs {
   drange: -21
 }
 npcs {
+  ids: 3131
+  name: "Zakl\'n Gritch"
+  hitpoints: 150
+  att: 83
+  str: 76
+  def: 127
+  mage: 50
+  range: 150
+  arange: 20
+  rngbns: 20
+  dmagic: -5
+  attributes: "demon"
+}
+npcs {
   ids: 9049
   name: "Zalcano"
   version: "Shielded"
@@ -19687,6 +27201,27 @@ npcs {
   dmagic: 3
 }
 npcs {
+  ids: 866
+  ids: 867
+  ids: 868
+  ids: 869
+  ids: 870
+  ids: 871
+  ids: 873
+  ids: 874
+  ids: 875
+  ids: 876
+  ids: 877
+  name: "Zogre"
+  hitpoints: 71
+  att: 20
+  str: 36
+  def: 35
+  mage: 1
+  range: 1
+  attributes: "Undead"
+}
+npcs {
   ids: 2631
   name: "Zoja"
   hitpoints: 60
@@ -19700,6 +27235,1106 @@ npcs {
   dcrush: -21
   dmagic: -21
   drange: -21
+}
+npcs {
+  ids: 26
+  ids: 27
+  ids: 28
+  ids: 29
+  ids: 30
+  ids: 31
+  ids: 32
+  ids: 33
+  ids: 34
+  ids: 35
+  ids: 36
+  ids: 37
+  ids: 38
+  ids: 39
+  ids: 40
+  ids: 41
+  name: "Zombie"
+  version: "Level 13"
+  hitpoints: 22
+  att: 8
+  str: 9
+  def: 10
+  mage: 1
+  range: 1
+  attbns: 5
+  attributes: "undead"
+}
+npcs {
+  ids: 42
+  ids: 43
+  ids: 44
+  ids: 45
+  ids: 46
+  ids: 47
+  ids: 48
+  ids: 6596
+  ids: 6597
+  ids: 6598
+  name: "Zombie"
+  version: "Level 18"
+  hitpoints: 24
+  att: 13
+  str: 13
+  def: 18
+  mage: 1
+  range: 1
+  attbns: 5
+  attributes: "undead"
+}
+npcs {
+  ids: 49
+  ids: 50
+  ids: 51
+  ids: 52
+  ids: 53
+  ids: 54
+  ids: 55
+  ids: 56
+  ids: 57
+  ids: 58
+  ids: 59
+  ids: 60
+  ids: 61
+  ids: 62
+  ids: 63
+  name: "Zombie"
+  version: "Level 24"
+  hitpoints: 30
+  att: 19
+  str: 21
+  def: 16
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 7
+  dstab: 9
+  dslash: 8
+  dcrush: 12
+  dmagic: 10
+  drange: 11
+  attributes: "undead"
+}
+npcs {
+  ids: 64
+  ids: 65
+  ids: 66
+  ids: 67
+  ids: 68
+  name: "Zombie"
+  version: "Level 25"
+  hitpoints: 30
+  mage: 1
+  range: 1
+  attbns: 5
+  attributes: "undead"
+}
+npcs {
+  ids: 2501
+  ids: 2502
+  ids: 2503
+  name: "Zombie"
+  version: "Level 30"
+  hitpoints: 30
+  att: 25
+  str: 29
+  def: 20
+  mage: 1
+  range: 1
+  attbns: 5
+  attributes: "undead"
+}
+npcs {
+  ids: 2504
+  ids: 2505
+  ids: 2506
+  name: "Zombie"
+  version: "Level 44"
+  hitpoints: 40
+  att: 35
+  str: 40
+  def: 40
+  mage: 1
+  range: 1
+  attbns: 5
+  dcrush: 22
+  attributes: "undead"
+}
+npcs {
+  ids: 2507
+  ids: 2508
+  ids: 2509
+  name: "Zombie"
+  version: "Level 53"
+  hitpoints: 50
+  att: 55
+  str: 40
+  def: 48
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 7
+  dstab: 19
+  dslash: 18
+  dmagic: 20
+  drange: 21
+  attributes: "undead"
+}
+npcs {
+  ids: 7486
+  name: "Zombie"
+  version: "Level 56"
+  hitpoints: 50
+  att: 50
+  str: 50
+  def: 47
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 7485
+  name: "Zombie"
+  version: "Level 70"
+  hitpoints: 65
+  att: 61
+  str: 60
+  def: 61
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 7488
+  name: "Zombie"
+  version: "Level 72"
+  hitpoints: 68
+  att: 61
+  str: 63
+  def: 62
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 7487
+  name: "Zombie"
+  version: "Level 76"
+  hitpoints: 71
+  att: 69
+  str: 65
+  def: 62
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 64
+  name: "Zombie"
+  version: "1"
+  hitpoints: 30
+  att: 19
+  str: 21
+  def: 21
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 7
+  dstab: 10
+  dslash: 8
+  dcrush: 12
+  dmagic: 10
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 65
+  name: "Zombie"
+  version: "2"
+  hitpoints: 30
+  att: 19
+  str: 21
+  def: 21
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 7
+  dstab: 10
+  dslash: 8
+  dcrush: 12
+  dmagic: 10
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 66
+  name: "Zombie"
+  version: "3"
+  hitpoints: 30
+  att: 19
+  str: 21
+  def: 21
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 7
+  dstab: 10
+  dslash: 8
+  dcrush: 12
+  dmagic: 10
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 67
+  name: "Zombie"
+  version: "4"
+  hitpoints: 30
+  att: 19
+  str: 21
+  def: 21
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 7
+  dstab: 10
+  dslash: 8
+  dcrush: 12
+  dmagic: 10
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 68
+  name: "Zombie"
+  version: "5"
+  hitpoints: 30
+  att: 19
+  str: 21
+  def: 21
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 7
+  dstab: 10
+  dslash: 8
+  dcrush: 12
+  dmagic: 10
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 3980
+  ids: 3981
+  name: "Zombie"
+  hitpoints: 30
+  att: 19
+  str: 21
+  def: 16
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 7
+  dstab: 9
+  dslash: 8
+  dcrush: 12
+  dmagic: 10
+  drange: 11
+  attributes: "undead"
+}
+npcs {
+  ids: 6741
+  name: "Zombie"
+  hitpoints: 170
+  att: 130
+  str: 130
+  def: 130
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 8067
+  name: "Zombie"
+  version: "Melee"
+  hitpoints: 54
+  att: 160
+  str: 180
+  def: 62
+  mage: 1
+  range: 1
+  attbns: 30
+  dstab: 25
+  dslash: 20
+  dcrush: 25
+  dmagic: 10
+  drange: 30
+  attributes: "undead"
+}
+npcs {
+  ids: 8068
+  name: "Zombie"
+  version: "Range"
+  hitpoints: 54
+  att: 160
+  str: 1
+  def: 62
+  mage: 1
+  range: 180
+  arange: 20
+  dstab: 15
+  dslash: 10
+  dcrush: 15
+  dmagic: 30
+  drange: 20
+  attributes: "undead"
+}
+npcs {
+  ids: 8069
+  name: "Zombie"
+  version: "Magic"
+  hitpoints: 54
+  att: 160
+  str: 1
+  def: 62
+  mage: 180
+  range: 1
+  amagic: 20
+  dstab: 35
+  dslash: 30
+  dcrush: 35
+  dmagic: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 6449
+  name: "Zombie"
+  version: "Level 40"
+  hitpoints: 38
+  att: 36
+  str: 35
+  def: 33
+  mage: 1
+  range: 1
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 6450
+  name: "Zombie"
+  version: "Level 42"
+  hitpoints: 40
+  att: 39
+  str: 35
+  def: 35
+  mage: 1
+  range: 1
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 6451
+  name: "Zombie"
+  version: "Level 47"
+  hitpoints: 42
+  att: 42
+  str: 39
+  def: 42
+  mage: 1
+  range: 1
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 6452
+  name: "Zombie"
+  version: "Level 50"
+  hitpoints: 48
+  att: 44
+  str: 42
+  def: 44
+  mage: 1
+  range: 1
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 6453
+  name: "Zombie"
+  version: "Level 56"
+  hitpoints: 50
+  att: 50
+  str: 50
+  def: 47
+  mage: 1
+  range: 1
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 6454
+  name: "Zombie"
+  version: "Level 61"
+  hitpoints: 57
+  att: 53
+  str: 55
+  def: 50
+  mage: 1
+  range: 1
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 6455
+  name: "Zombie"
+  version: "Level 67"
+  hitpoints: 63
+  att: 56
+  str: 58
+  def: 60
+  mage: 1
+  range: 1
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 6456
+  name: "Zombie"
+  version: "Level 70"
+  hitpoints: 65
+  att: 61
+  str: 60
+  def: 61
+  mage: 1
+  range: 1
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 6457
+  name: "Zombie"
+  version: "Level 72"
+  hitpoints: 68
+  att: 61
+  str: 63
+  def: 62
+  mage: 1
+  range: 1
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 6458
+  name: "Zombie"
+  version: "Level 76"
+  hitpoints: 71
+  att: 69
+  str: 65
+  def: 62
+  mage: 1
+  range: 1
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 6459
+  name: "Zombie"
+  version: "Level 80"
+  hitpoints: 73
+  att: 72
+  str: 73
+  def: 62
+  mage: 1
+  range: 1
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 6466
+  name: "Zombie"
+  version: "Level 81"
+  hitpoints: 76
+  att: 69
+  str: 70
+  def: 71
+  mage: 1
+  range: 1
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 6460
+  name: "Zombie"
+  version: "Level 85"
+  hitpoints: 75
+  att: 71
+  str: 81
+  def: 70
+  mage: 1
+  range: 1
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 6461
+  name: "Zombie"
+  version: "Level 86"
+  hitpoints: 76
+  att: 74
+  str: 80
+  def: 71
+  mage: 1
+  range: 1
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 6462
+  name: "Zombie"
+  version: "Level 90"
+  hitpoints: 81
+  att: 82
+  str: 80
+  def: 72
+  mage: 1
+  range: 1
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 6463
+  name: "Zombie"
+  version: "Level 95"
+  hitpoints: 92
+  att: 85
+  str: 80
+  def: 75
+  mage: 1
+  range: 1
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 6464
+  name: "Zombie"
+  version: "Level 98"
+  hitpoints: 96
+  att: 85
+  str: 83
+  def: 81
+  mage: 1
+  range: 1
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 6465
+  name: "Zombie"
+  version: "Level 100"
+  hitpoints: 102
+  att: 86
+  str: 83
+  def: 81
+  mage: 1
+  range: 1
+  strbns: 10
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 5647
+  name: "Zombie"
+  hitpoints: 20
+  att: 20
+  str: 20
+  def: 20
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 880
+  name: "Zombie"
+  hitpoints: 50
+  att: 30
+  str: 30
+  def: 30
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 613
+  name: "Zombie pirate"
+  version: "1"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 614
+  name: "Zombie pirate"
+  version: "2"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 615
+  name: "Zombie pirate"
+  version: "3"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 616
+  name: "Zombie pirate"
+  version: "4"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 617
+  name: "Zombie pirate"
+  version: "5"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 618
+  name: "Zombie pirate"
+  version: "6"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 563
+  ids: 564
+  name: "Zombie pirate"
+  version: "7"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 565
+  ids: 566
+  name: "Zombie pirate"
+  version: "8"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 567
+  name: "Zombie pirate"
+  version: "9"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 568
+  name: "Zombie pirate"
+  version: "10"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 569
+  ids: 570
+  name: "Zombie pirate"
+  version: "11"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 571
+  name: "Zombie pirate"
+  version: "12"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 572
+  name: "Zombie pirate"
+  version: "13"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 573
+  name: "Zombie pirate"
+  version: "14"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 574
+  name: "Zombie pirate"
+  version: "15"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 575
+  name: "Zombie pirate"
+  version: "16"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 576
+  name: "Zombie pirate"
+  version: "17"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 577
+  name: "Zombie pirate"
+  version: "18"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 578
+  name: "Zombie pirate"
+  version: "19"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 579
+  name: "Zombie pirate"
+  version: "20"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 580
+  name: "Zombie pirate"
+  version: "21"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 581
+  name: "Zombie pirate"
+  version: "22"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 582
+  ids: 583
+  name: "Zombie pirate"
+  version: "23"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 584
+  ids: 585
+  name: "Zombie pirate"
+  version: "24"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 586
+  ids: 587
+  name: "Zombie pirate"
+  version: "25"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 588
+  ids: 589
+  name: "Zombie pirate"
+  version: "26"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 590
+  ids: 591
+  name: "Zombie pirate"
+  version: "27"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 592
+  name: "Zombie pirate"
+  version: "28"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 593
+  ids: 594
+  name: "Zombie pirate"
+  version: "29"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 595
+  ids: 596
+  name: "Zombie pirate"
+  version: "30"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 597
+  ids: 598
+  name: "Zombie pirate"
+  version: "31"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 599
+  name: "Zombie pirate"
+  version: "32"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
 }
 npcs {
   ids: 3969
@@ -19735,6 +28370,78 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 619
+  name: "Zombie swab"
+  version: "1"
+  hitpoints: 50
+  att: 45
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 620
+  name: "Zombie swab"
+  version: "2"
+  hitpoints: 50
+  att: 45
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 621
+  name: "Zombie swab"
+  version: "3"
+  hitpoints: 50
+  att: 45
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 622
+  name: "Zombie swab"
+  version: "4"
+  hitpoints: 50
+  att: 45
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 623
+  name: "Zombie swab"
+  version: "5"
+  hitpoints: 50
+  att: 45
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 624
+  name: "Zombie swab"
+  version: "6"
+  hitpoints: 50
+  att: 45
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
   ids: 3359
   name: "Zombies Champion"
   hitpoints: 60
@@ -19743,6 +28450,40 @@ npcs {
   def: 42
   mage: 1
   range: 1
+}
+npcs {
+  ids: 8063
+  name: "Zombified Spawn"
+  version: "Post-quest"
+  hitpoints: 38
+  att: 82
+  str: 82
+  def: 6
+  mage: 1
+  range: 1
+  dstab: 3
+  dslash: 3
+  dcrush: 3
+  dmagic: -100
+  drange: 3
+  attributes: "undead"
+}
+npcs {
+  ids: 8062
+  name: "Zombified Spawn"
+  version: "Dragon Slayer II"
+  hitpoints: 8
+  att: 80
+  str: 80
+  def: 4
+  mage: 1
+  range: 1
+  dstab: 3
+  dslash: 3
+  dcrush: 3
+  dmagic: -100
+  drange: 3
+  attributes: "undead"
 }
 npcs {
   ids: 2042

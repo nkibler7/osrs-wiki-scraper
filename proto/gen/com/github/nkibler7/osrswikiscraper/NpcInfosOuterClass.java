@@ -37,7 +37,7 @@ public final class NpcInfosOuterClass {
       "ikiscraper\"B\n\010NpcInfos\0226\n\004npcs\030\001 \003(\0132(.g" +
       "ithub.nkibler7.osrswikiscraper.NpcInfo\"\315" +
       "\002\n\007NpcInfo\022\013\n\003ids\030\001 \003(\005\022\014\n\004name\030\002 \001(\t\022\017\n" +
-      "\007version\030\003 \001(\t\022\022\n\nattributes\030\025 \003(\t\022\021\n\thi" +
+      "\007version\030\003 \001(\t\022\022\n\nattributes\030\025 \001(\t\022\021\n\thi" +
       "tpoints\030\004 \001(\005\022\013\n\003att\030\005 \001(\005\022\013\n\003str\030\006 \001(\005\022" +
       "\013\n\003def\030\007 \001(\005\022\014\n\004mage\030\010 \001(\005\022\r\n\005range\030\t \001(" +
       "\005\022\016\n\006attbns\030\n \001(\005\022\016\n\006strbns\030\013 \001(\005\022\016\n\006ama" +
