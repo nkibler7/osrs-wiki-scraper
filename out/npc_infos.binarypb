@@ -3276,8 +3276,8 @@ Riyl ShadeShade L(X078<ªshade,undead,spectral
 Rock Œ(F0n8FP<Xd€#ˆ<#˜È È
 #
 df	Rock CrabActive 2(08@H
-#
-eg	Rock CrabHidden 2(08@H
+
+egRocksHidden 2(08@H
 .
 Å4
 Rock GolemLevel 14 (	0	8	@HªGolem

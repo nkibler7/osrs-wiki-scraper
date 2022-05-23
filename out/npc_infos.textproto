@@ -19243,7 +19243,7 @@ npcs {
 npcs {
   ids: 101
   ids: 103
-  name: "Rock Crab"
+  name: "Rocks"
   version: "Hidden"
   hitpoints: 50
   att: 1
