@@ -11,14 +11,18 @@ message WeaponCombatStyles {
   repeated WeaponCombatStyle weapons = 1;
 }
 
+// A weapon (identified by its unique ID) combined with its available style types to use when in
+// combat.
 message WeaponCombatStyle {
   // The item ID of this weapon.
   int32 id = 1;
 
-  repeated StyleType style_types = 2;
+  // The list of combat style types available for this weapon.
+  repeated CombatStyleType combat_style_types = 2;
 }
 
-enum StyleType {
+// The total list of combat style types available to all weapons in the game.
+enum CombatStyleType {
   UNSPECIFIED = 0;
   STAB = 1;
   SLASH = 2;

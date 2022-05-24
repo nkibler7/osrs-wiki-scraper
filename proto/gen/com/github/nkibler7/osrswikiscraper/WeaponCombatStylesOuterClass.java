@@ -36,13 +36,14 @@ public final class WeaponCombatStylesOuterClass {
       "\n\032weapon_combat_styles.proto\022\037github.nki" +
       "bler7.osrswikiscraper\"Y\n\022WeaponCombatSty" +
       "les\022C\n\007weapons\030\001 \003(\01322.github.nkibler7.o" +
-      "srswikiscraper.WeaponCombatStyle\"`\n\021Weap" +
-      "onCombatStyle\022\n\n\002id\030\001 \001(\005\022?\n\013style_types" +
-      "\030\002 \003(\0162*.github.nkibler7.osrswikiscraper" +
-      ".StyleType*S\n\tStyleType\022\017\n\013UNSPECIFIED\020\000" +
-      "\022\010\n\004STAB\020\001\022\t\n\005SLASH\020\002\022\t\n\005CRUSH\020\003\022\t\n\005MAGI" +
-      "C\020\004\022\n\n\006RANGED\020\005B\'\n#com.github.nkibler7.o" +
-      "srswikiscraperP\001b\006proto3"
+      "srswikiscraper.WeaponCombatStyle\"m\n\021Weap" +
+      "onCombatStyle\022\n\n\002id\030\001 \001(\005\022L\n\022combat_styl" +
+      "e_types\030\002 \003(\01620.github.nkibler7.osrswiki" +
+      "scraper.CombatStyleType*Y\n\017CombatStyleTy" +
+      "pe\022\017\n\013UNSPECIFIED\020\000\022\010\n\004STAB\020\001\022\t\n\005SLASH\020\002" +
+      "\022\t\n\005CRUSH\020\003\022\t\n\005MAGIC\020\004\022\n\n\006RANGED\020\005B\'\n#co" +
+      "m.github.nkibler7.osrswikiscraperP\001b\006pro" +
+      "to3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,
@@ -59,7 +60,7 @@ public final class WeaponCombatStylesOuterClass {
     internal_static_github_nkibler7_osrswikiscraper_WeaponCombatStyle_fieldAccessorTable = new
       com.google.protobuf.GeneratedMessageV3.FieldAccessorTable(
         internal_static_github_nkibler7_osrswikiscraper_WeaponCombatStyle_descriptor,
-        new java.lang.String[] { "Id", "StyleTypes", });
+        new java.lang.String[] { "Id", "CombatStyleTypes", });
   }
 
   // @@protoc_insertion_point(outer_class_scope)

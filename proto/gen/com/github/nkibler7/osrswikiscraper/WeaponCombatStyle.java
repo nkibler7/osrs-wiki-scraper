@@ -4,6 +4,11 @@
 package com.github.nkibler7.osrswikiscraper;
 
 /**
+ * <pre>
+ * A weapon (identified by its unique ID) combined with its available style types to use when in
+ * combat.
+ * </pre>
+ *
  * Protobuf type {@code github.nkibler7.osrswikiscraper.WeaponCombatStyle}
  */
 public final class WeaponCombatStyle extends
@@ -16,7 +21,7 @@ private static final long serialVersionUID = 0L;
     super(builder);
   }
   private WeaponCombatStyle() {
-    styleTypes_ = java.util.Collections.emptyList();
+    combatStyleTypes_ = java.util.Collections.emptyList();
   }
 
   @java.lang.Override
@@ -58,10 +63,10 @@ private static final long serialVersionUID = 0L;
           case 16: {
             int rawValue = input.readEnum();
             if (!((mutable_bitField0_ & 0x00000001) != 0)) {
-              styleTypes_ = new java.util.ArrayList<java.lang.Integer>();
+              combatStyleTypes_ = new java.util.ArrayList<java.lang.Integer>();
               mutable_bitField0_ |= 0x00000001;
             }
-            styleTypes_.add(rawValue);
+            combatStyleTypes_.add(rawValue);
             break;
           }
           case 18: {
@@ -70,10 +75,10 @@ private static final long serialVersionUID = 0L;
             while(input.getBytesUntilLimit() > 0) {
               int rawValue = input.readEnum();
               if (!((mutable_bitField0_ & 0x00000001) != 0)) {
-                styleTypes_ = new java.util.ArrayList<java.lang.Integer>();
+                combatStyleTypes_ = new java.util.ArrayList<java.lang.Integer>();
                 mutable_bitField0_ |= 0x00000001;
               }
-              styleTypes_.add(rawValue);
+              combatStyleTypes_.add(rawValue);
             }
             input.popLimit(oldLimit);
             break;
@@ -89,14 +94,12 @@ private static final long serialVersionUID = 0L;
       }
     } catch (com.google.protobuf.InvalidProtocolBufferException e) {
       throw e.setUnfinishedMessage(this);
-    } catch (com.google.protobuf.UninitializedMessageException e) {
-      throw e.asInvalidProtocolBufferException().setUnfinishedMessage(this);
     } catch (java.io.IOException e) {
       throw new com.google.protobuf.InvalidProtocolBufferException(
           e).setUnfinishedMessage(this);
     } finally {
       if (((mutable_bitField0_ & 0x00000001) != 0)) {
-        styleTypes_ = java.util.Collections.unmodifiableList(styleTypes_);
+        combatStyleTypes_ = java.util.Collections.unmodifiableList(combatStyleTypes_);
       }
       this.unknownFields = unknownFields.build();
       makeExtensionsImmutable();
@@ -130,63 +133,83 @@ private static final long serialVersionUID = 0L;
     return id_;
   }
 
-  public static final int STYLE_TYPES_FIELD_NUMBER = 2;
-  private java.util.List<java.lang.Integer> styleTypes_;
+  public static final int COMBAT_STYLE_TYPES_FIELD_NUMBER = 2;
+  private java.util.List<java.lang.Integer> combatStyleTypes_;
   private static final com.google.protobuf.Internal.ListAdapter.Converter<
-      java.lang.Integer, com.github.nkibler7.osrswikiscraper.StyleType> styleTypes_converter_ =
+      java.lang.Integer, com.github.nkibler7.osrswikiscraper.CombatStyleType> combatStyleTypes_converter_ =
           new com.google.protobuf.Internal.ListAdapter.Converter<
-              java.lang.Integer, com.github.nkibler7.osrswikiscraper.StyleType>() {
-            public com.github.nkibler7.osrswikiscraper.StyleType convert(java.lang.Integer from) {
+              java.lang.Integer, com.github.nkibler7.osrswikiscraper.CombatStyleType>() {
+            public com.github.nkibler7.osrswikiscraper.CombatStyleType convert(java.lang.Integer from) {
               @SuppressWarnings("deprecation")
-              com.github.nkibler7.osrswikiscraper.StyleType result = com.github.nkibler7.osrswikiscraper.StyleType.valueOf(from);
-              return result == null ? com.github.nkibler7.osrswikiscraper.StyleType.UNRECOGNIZED : result;
+              com.github.nkibler7.osrswikiscraper.CombatStyleType result = com.github.nkibler7.osrswikiscraper.CombatStyleType.valueOf(from);
+              return result == null ? com.github.nkibler7.osrswikiscraper.CombatStyleType.UNRECOGNIZED : result;
             }
           };
   /**
-   * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
-   * @return A list containing the styleTypes.
+   * <pre>
+   * The list of combat style types available for this weapon.
+   * </pre>
+   *
+   * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
+   * @return A list containing the combatStyleTypes.
    */
   @java.lang.Override
-  public java.util.List<com.github.nkibler7.osrswikiscraper.StyleType> getStyleTypesList() {
+  public java.util.List<com.github.nkibler7.osrswikiscraper.CombatStyleType> getCombatStyleTypesList() {
     return new com.google.protobuf.Internal.ListAdapter<
-        java.lang.Integer, com.github.nkibler7.osrswikiscraper.StyleType>(styleTypes_, styleTypes_converter_);
+        java.lang.Integer, com.github.nkibler7.osrswikiscraper.CombatStyleType>(combatStyleTypes_, combatStyleTypes_converter_);
   }
   /**
-   * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
-   * @return The count of styleTypes.
+   * <pre>
+   * The list of combat style types available for this weapon.
+   * </pre>
+   *
+   * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
+   * @return The count of combatStyleTypes.
    */
   @java.lang.Override
-  public int getStyleTypesCount() {
-    return styleTypes_.size();
+  public int getCombatStyleTypesCount() {
+    return combatStyleTypes_.size();
   }
   /**
-   * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
+   * <pre>
+   * The list of combat style types available for this weapon.
+   * </pre>
+   *
+   * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
    * @param index The index of the element to return.
-   * @return The styleTypes at the given index.
+   * @return The combatStyleTypes at the given index.
    */
   @java.lang.Override
-  public com.github.nkibler7.osrswikiscraper.StyleType getStyleTypes(int index) {
-    return styleTypes_converter_.convert(styleTypes_.get(index));
+  public com.github.nkibler7.osrswikiscraper.CombatStyleType getCombatStyleTypes(int index) {
+    return combatStyleTypes_converter_.convert(combatStyleTypes_.get(index));
   }
   /**
-   * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
-   * @return A list containing the enum numeric values on the wire for styleTypes.
+   * <pre>
+   * The list of combat style types available for this weapon.
+   * </pre>
+   *
+   * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
+   * @return A list containing the enum numeric values on the wire for combatStyleTypes.
    */
   @java.lang.Override
   public java.util.List<java.lang.Integer>
-  getStyleTypesValueList() {
-    return styleTypes_;
+  getCombatStyleTypesValueList() {
+    return combatStyleTypes_;
   }
   /**
-   * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
+   * <pre>
+   * The list of combat style types available for this weapon.
+   * </pre>
+   *
+   * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
    * @param index The index of the value to return.
-   * @return The enum numeric value on the wire of styleTypes at the given index.
+   * @return The enum numeric value on the wire of combatStyleTypes at the given index.
    */
   @java.lang.Override
-  public int getStyleTypesValue(int index) {
-    return styleTypes_.get(index);
+  public int getCombatStyleTypesValue(int index) {
+    return combatStyleTypes_.get(index);
   }
-  private int styleTypesMemoizedSerializedSize;
+  private int combatStyleTypesMemoizedSerializedSize;
 
   private byte memoizedIsInitialized = -1;
   @java.lang.Override
@@ -206,12 +229,12 @@ private static final long serialVersionUID = 0L;
     if (id_ != 0) {
       output.writeInt32(1, id_);
     }
-    if (getStyleTypesList().size() > 0) {
+    if (getCombatStyleTypesList().size() > 0) {
       output.writeUInt32NoTag(18);
-      output.writeUInt32NoTag(styleTypesMemoizedSerializedSize);
+      output.writeUInt32NoTag(combatStyleTypesMemoizedSerializedSize);
     }
-    for (int i = 0; i < styleTypes_.size(); i++) {
-      output.writeEnumNoTag(styleTypes_.get(i));
+    for (int i = 0; i < combatStyleTypes_.size(); i++) {
+      output.writeEnumNoTag(combatStyleTypes_.get(i));
     }
     unknownFields.writeTo(output);
   }
@@ -228,15 +251,15 @@ private static final long serialVersionUID = 0L;
     }
     {
       int dataSize = 0;
-      for (int i = 0; i < styleTypes_.size(); i++) {
+      for (int i = 0; i < combatStyleTypes_.size(); i++) {
         dataSize += com.google.protobuf.CodedOutputStream
-          .computeEnumSizeNoTag(styleTypes_.get(i));
+          .computeEnumSizeNoTag(combatStyleTypes_.get(i));
       }
       size += dataSize;
-      if (!getStyleTypesList().isEmpty()) {  size += 1;
+      if (!getCombatStyleTypesList().isEmpty()) {  size += 1;
         size += com.google.protobuf.CodedOutputStream
           .computeUInt32SizeNoTag(dataSize);
-      }styleTypesMemoizedSerializedSize = dataSize;
+      }combatStyleTypesMemoizedSerializedSize = dataSize;
     }
     size += unknownFields.getSerializedSize();
     memoizedSize = size;
@@ -255,7 +278,7 @@ private static final long serialVersionUID = 0L;
 
     if (getId()
         != other.getId()) return false;
-    if (!styleTypes_.equals(other.styleTypes_)) return false;
+    if (!combatStyleTypes_.equals(other.combatStyleTypes_)) return false;
     if (!unknownFields.equals(other.unknownFields)) return false;
     return true;
   }
@@ -269,9 +292,9 @@ private static final long serialVersionUID = 0L;
     hash = (19 * hash) + getDescriptor().hashCode();
     hash = (37 * hash) + ID_FIELD_NUMBER;
     hash = (53 * hash) + getId();
-    if (getStyleTypesCount() > 0) {
-      hash = (37 * hash) + STYLE_TYPES_FIELD_NUMBER;
-      hash = (53 * hash) + styleTypes_.hashCode();
+    if (getCombatStyleTypesCount() > 0) {
+      hash = (37 * hash) + COMBAT_STYLE_TYPES_FIELD_NUMBER;
+      hash = (53 * hash) + combatStyleTypes_.hashCode();
     }
     hash = (29 * hash) + unknownFields.hashCode();
     memoizedHashCode = hash;
@@ -369,6 +392,11 @@ private static final long serialVersionUID = 0L;
     return builder;
   }
   /**
+   * <pre>
+   * A weapon (identified by its unique ID) combined with its available style types to use when in
+   * combat.
+   * </pre>
+   *
    * Protobuf type {@code github.nkibler7.osrswikiscraper.WeaponCombatStyle}
    */
   public static final class Builder extends
@@ -408,7 +436,7 @@ private static final long serialVersionUID = 0L;
       super.clear();
       id_ = 0;
 
-      styleTypes_ = java.util.Collections.emptyList();
+      combatStyleTypes_ = java.util.Collections.emptyList();
       bitField0_ = (bitField0_ & ~0x00000001);
       return this;
     }
@@ -439,10 +467,10 @@ private static final long serialVersionUID = 0L;
       int from_bitField0_ = bitField0_;
       result.id_ = id_;
       if (((bitField0_ & 0x00000001) != 0)) {
-        styleTypes_ = java.util.Collections.unmodifiableList(styleTypes_);
+        combatStyleTypes_ = java.util.Collections.unmodifiableList(combatStyleTypes_);
         bitField0_ = (bitField0_ & ~0x00000001);
       }
-      result.styleTypes_ = styleTypes_;
+      result.combatStyleTypes_ = combatStyleTypes_;
       onBuilt();
       return result;
     }
@@ -494,13 +522,13 @@ private static final long serialVersionUID = 0L;
       if (other.getId() != 0) {
         setId(other.getId());
       }
-      if (!other.styleTypes_.isEmpty()) {
-        if (styleTypes_.isEmpty()) {
-          styleTypes_ = other.styleTypes_;
+      if (!other.combatStyleTypes_.isEmpty()) {
+        if (combatStyleTypes_.isEmpty()) {
+          combatStyleTypes_ = other.combatStyleTypes_;
           bitField0_ = (bitField0_ & ~0x00000001);
         } else {
-          ensureStyleTypesIsMutable();
-          styleTypes_.addAll(other.styleTypes_);
+          ensureCombatStyleTypesIsMutable();
+          combatStyleTypes_.addAll(other.combatStyleTypes_);
         }
         onChanged();
       }
@@ -577,141 +605,189 @@ private static final long serialVersionUID = 0L;
       return this;
     }
 
-    private java.util.List<java.lang.Integer> styleTypes_ =
+    private java.util.List<java.lang.Integer> combatStyleTypes_ =
       java.util.Collections.emptyList();
-    private void ensureStyleTypesIsMutable() {
+    private void ensureCombatStyleTypesIsMutable() {
       if (!((bitField0_ & 0x00000001) != 0)) {
-        styleTypes_ = new java.util.ArrayList<java.lang.Integer>(styleTypes_);
+        combatStyleTypes_ = new java.util.ArrayList<java.lang.Integer>(combatStyleTypes_);
         bitField0_ |= 0x00000001;
       }
     }
     /**
-     * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
-     * @return A list containing the styleTypes.
+     * <pre>
+     * The list of combat style types available for this weapon.
+     * </pre>
+     *
+     * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
+     * @return A list containing the combatStyleTypes.
      */
-    public java.util.List<com.github.nkibler7.osrswikiscraper.StyleType> getStyleTypesList() {
+    public java.util.List<com.github.nkibler7.osrswikiscraper.CombatStyleType> getCombatStyleTypesList() {
       return new com.google.protobuf.Internal.ListAdapter<
-          java.lang.Integer, com.github.nkibler7.osrswikiscraper.StyleType>(styleTypes_, styleTypes_converter_);
+          java.lang.Integer, com.github.nkibler7.osrswikiscraper.CombatStyleType>(combatStyleTypes_, combatStyleTypes_converter_);
     }
     /**
-     * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
-     * @return The count of styleTypes.
+     * <pre>
+     * The list of combat style types available for this weapon.
+     * </pre>
+     *
+     * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
+     * @return The count of combatStyleTypes.
      */
-    public int getStyleTypesCount() {
-      return styleTypes_.size();
+    public int getCombatStyleTypesCount() {
+      return combatStyleTypes_.size();
     }
     /**
-     * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
+     * <pre>
+     * The list of combat style types available for this weapon.
+     * </pre>
+     *
+     * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
      * @param index The index of the element to return.
-     * @return The styleTypes at the given index.
+     * @return The combatStyleTypes at the given index.
      */
-    public com.github.nkibler7.osrswikiscraper.StyleType getStyleTypes(int index) {
-      return styleTypes_converter_.convert(styleTypes_.get(index));
+    public com.github.nkibler7.osrswikiscraper.CombatStyleType getCombatStyleTypes(int index) {
+      return combatStyleTypes_converter_.convert(combatStyleTypes_.get(index));
     }
     /**
-     * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
+     * <pre>
+     * The list of combat style types available for this weapon.
+     * </pre>
+     *
+     * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
      * @param index The index to set the value at.
-     * @param value The styleTypes to set.
+     * @param value The combatStyleTypes to set.
      * @return This builder for chaining.
      */
-    public Builder setStyleTypes(
-        int index, com.github.nkibler7.osrswikiscraper.StyleType value) {
+    public Builder setCombatStyleTypes(
+        int index, com.github.nkibler7.osrswikiscraper.CombatStyleType value) {
       if (value == null) {
         throw new NullPointerException();
       }
-      ensureStyleTypesIsMutable();
-      styleTypes_.set(index, value.getNumber());
+      ensureCombatStyleTypesIsMutable();
+      combatStyleTypes_.set(index, value.getNumber());
       onChanged();
       return this;
     }
     /**
-     * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
-     * @param value The styleTypes to add.
+     * <pre>
+     * The list of combat style types available for this weapon.
+     * </pre>
+     *
+     * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
+     * @param value The combatStyleTypes to add.
      * @return This builder for chaining.
      */
-    public Builder addStyleTypes(com.github.nkibler7.osrswikiscraper.StyleType value) {
+    public Builder addCombatStyleTypes(com.github.nkibler7.osrswikiscraper.CombatStyleType value) {
       if (value == null) {
         throw new NullPointerException();
       }
-      ensureStyleTypesIsMutable();
-      styleTypes_.add(value.getNumber());
+      ensureCombatStyleTypesIsMutable();
+      combatStyleTypes_.add(value.getNumber());
       onChanged();
       return this;
     }
     /**
-     * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
-     * @param values The styleTypes to add.
+     * <pre>
+     * The list of combat style types available for this weapon.
+     * </pre>
+     *
+     * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
+     * @param values The combatStyleTypes to add.
      * @return This builder for chaining.
      */
-    public Builder addAllStyleTypes(
-        java.lang.Iterable<? extends com.github.nkibler7.osrswikiscraper.StyleType> values) {
-      ensureStyleTypesIsMutable();
-      for (com.github.nkibler7.osrswikiscraper.StyleType value : values) {
-        styleTypes_.add(value.getNumber());
+    public Builder addAllCombatStyleTypes(
+        java.lang.Iterable<? extends com.github.nkibler7.osrswikiscraper.CombatStyleType> values) {
+      ensureCombatStyleTypesIsMutable();
+      for (com.github.nkibler7.osrswikiscraper.CombatStyleType value : values) {
+        combatStyleTypes_.add(value.getNumber());
       }
       onChanged();
       return this;
     }
     /**
-     * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
+     * <pre>
+     * The list of combat style types available for this weapon.
+     * </pre>
+     *
+     * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
      * @return This builder for chaining.
      */
-    public Builder clearStyleTypes() {
-      styleTypes_ = java.util.Collections.emptyList();
+    public Builder clearCombatStyleTypes() {
+      combatStyleTypes_ = java.util.Collections.emptyList();
       bitField0_ = (bitField0_ & ~0x00000001);
       onChanged();
       return this;
     }
     /**
-     * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
-     * @return A list containing the enum numeric values on the wire for styleTypes.
+     * <pre>
+     * The list of combat style types available for this weapon.
+     * </pre>
+     *
+     * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
+     * @return A list containing the enum numeric values on the wire for combatStyleTypes.
      */
     public java.util.List<java.lang.Integer>
-    getStyleTypesValueList() {
-      return java.util.Collections.unmodifiableList(styleTypes_);
+    getCombatStyleTypesValueList() {
+      return java.util.Collections.unmodifiableList(combatStyleTypes_);
     }
     /**
-     * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
+     * <pre>
+     * The list of combat style types available for this weapon.
+     * </pre>
+     *
+     * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
      * @param index The index of the value to return.
-     * @return The enum numeric value on the wire of styleTypes at the given index.
+     * @return The enum numeric value on the wire of combatStyleTypes at the given index.
      */
-    public int getStyleTypesValue(int index) {
-      return styleTypes_.get(index);
+    public int getCombatStyleTypesValue(int index) {
+      return combatStyleTypes_.get(index);
     }
     /**
-     * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
+     * <pre>
+     * The list of combat style types available for this weapon.
+     * </pre>
+     *
+     * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
      * @param index The index of the value to return.
-     * @return The enum numeric value on the wire of styleTypes at the given index.
+     * @return The enum numeric value on the wire of combatStyleTypes at the given index.
      * @return This builder for chaining.
      */
-    public Builder setStyleTypesValue(
+    public Builder setCombatStyleTypesValue(
         int index, int value) {
-      ensureStyleTypesIsMutable();
-      styleTypes_.set(index, value);
+      ensureCombatStyleTypesIsMutable();
+      combatStyleTypes_.set(index, value);
       onChanged();
       return this;
     }
     /**
-     * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
-     * @param value The enum numeric value on the wire for styleTypes to add.
+     * <pre>
+     * The list of combat style types available for this weapon.
+     * </pre>
+     *
+     * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
+     * @param value The enum numeric value on the wire for combatStyleTypes to add.
      * @return This builder for chaining.
      */
-    public Builder addStyleTypesValue(int value) {
-      ensureStyleTypesIsMutable();
-      styleTypes_.add(value);
+    public Builder addCombatStyleTypesValue(int value) {
+      ensureCombatStyleTypesIsMutable();
+      combatStyleTypes_.add(value);
       onChanged();
       return this;
     }
     /**
-     * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
-     * @param values The enum numeric values on the wire for styleTypes to add.
+     * <pre>
+     * The list of combat style types available for this weapon.
+     * </pre>
+     *
+     * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
+     * @param values The enum numeric values on the wire for combatStyleTypes to add.
      * @return This builder for chaining.
      */
-    public Builder addAllStyleTypesValue(
+    public Builder addAllCombatStyleTypesValue(
         java.lang.Iterable<java.lang.Integer> values) {
-      ensureStyleTypesIsMutable();
+      ensureCombatStyleTypesIsMutable();
       for (int value : values) {
-        styleTypes_.add(value);
+        combatStyleTypes_.add(value);
       }
       onChanged();
       return this;

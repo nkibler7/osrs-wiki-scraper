@@ -18,31 +18,51 @@ public interface WeaponCombatStyleOrBuilder extends
   int getId();
 
   /**
-   * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
-   * @return A list containing the styleTypes.
+   * <pre>
+   * The list of combat style types available for this weapon.
+   * </pre>
+   *
+   * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
+   * @return A list containing the combatStyleTypes.
    */
-  java.util.List<com.github.nkibler7.osrswikiscraper.StyleType> getStyleTypesList();
+  java.util.List<com.github.nkibler7.osrswikiscraper.CombatStyleType> getCombatStyleTypesList();
   /**
-   * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
-   * @return The count of styleTypes.
+   * <pre>
+   * The list of combat style types available for this weapon.
+   * </pre>
+   *
+   * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
+   * @return The count of combatStyleTypes.
    */
-  int getStyleTypesCount();
+  int getCombatStyleTypesCount();
   /**
-   * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
+   * <pre>
+   * The list of combat style types available for this weapon.
+   * </pre>
+   *
+   * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
    * @param index The index of the element to return.
-   * @return The styleTypes at the given index.
+   * @return The combatStyleTypes at the given index.
    */
-  com.github.nkibler7.osrswikiscraper.StyleType getStyleTypes(int index);
+  com.github.nkibler7.osrswikiscraper.CombatStyleType getCombatStyleTypes(int index);
   /**
-   * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
-   * @return A list containing the enum numeric values on the wire for styleTypes.
+   * <pre>
+   * The list of combat style types available for this weapon.
+   * </pre>
+   *
+   * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
+   * @return A list containing the enum numeric values on the wire for combatStyleTypes.
    */
   java.util.List<java.lang.Integer>
-  getStyleTypesValueList();
+  getCombatStyleTypesValueList();
   /**
-   * <code>repeated .github.nkibler7.osrswikiscraper.StyleType style_types = 2;</code>
+   * <pre>
+   * The list of combat style types available for this weapon.
+   * </pre>
+   *
+   * <code>repeated .github.nkibler7.osrswikiscraper.CombatStyleType combat_style_types = 2;</code>
    * @param index The index of the value to return.
-   * @return The enum numeric value on the wire of styleTypes at the given index.
+   * @return The enum numeric value on the wire of combatStyleTypes at the given index.
    */
-  int getStyleTypesValue(int index);
+  int getCombatStyleTypesValue(int index);
 }
