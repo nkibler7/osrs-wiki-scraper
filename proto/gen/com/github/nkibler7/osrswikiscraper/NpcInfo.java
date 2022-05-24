@@ -6,12 +6,12 @@ package com.github.nkibler7.osrswikiscraper;
 /**
  * <pre>
  * A single NPC defined on the OSRS wiki.
- * Note that NPCs with variants or "versions" may have multiple NpcInfo protos in the processed list. The set of IDs
- * should always be unique, though.
- * These protos are parsed from the "Infobox Monster" templates found on the wiki pages associated with the "Monsters"
- * category. The field names listed here exactly match the key names used in the template. Multi-versioned key/value
- * pairs are identified with numeric suffixes (i.e. "version1") and cause multiple NpcInfos to be generated, one for
- * each unique number suffix.
+ * Note that NPCs with variants or "versions" may have multiple NpcInfo protos in the processed
+ * list. The set of IDs should always be unique, though.
+ * These protos are parsed from the "Infobox Monster" templates found on the wiki pages associated
+ * with the "Monsters" category. The field names listed here exactly match the key names used in the
+ * template. Multi-versioned key/value pairs are identified with numeric suffixes (i.e. "version1")
+ * and cause multiple NpcInfos to be generated, one for each unique number suffix.
  * Next ID: 22
  * </pre>
  *
@@ -199,6 +199,8 @@ private static final long serialVersionUID = 0L;
       }
     } catch (com.google.protobuf.InvalidProtocolBufferException e) {
       throw e.setUnfinishedMessage(this);
+    } catch (com.google.protobuf.UninitializedMessageException e) {
+      throw e.asInvalidProtocolBufferException().setUnfinishedMessage(this);
     } catch (java.io.IOException e) {
       throw new com.google.protobuf.InvalidProtocolBufferException(
           e).setUnfinishedMessage(this);
@@ -313,9 +315,9 @@ private static final long serialVersionUID = 0L;
   private volatile java.lang.Object version_;
   /**
    * <pre>
-   * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple versions, yet are
-   * represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
-   * like the Abyssal Sire.
+   * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple
+   * versions, yet are represented by the same wiki page. Example values for this field are
+   * "Phase 1", "Phase 2", etc. for phased NPCs, like the Abyssal Sire.
    * </pre>
    *
    * <code>string version = 3;</code>
@@ -336,9 +338,9 @@ private static final long serialVersionUID = 0L;
   }
   /**
    * <pre>
-   * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple versions, yet are
-   * represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
-   * like the Abyssal Sire.
+   * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple
+   * versions, yet are represented by the same wiki page. Example values for this field are
+   * "Phase 1", "Phase 2", etc. for phased NPCs, like the Abyssal Sire.
    * </pre>
    *
    * <code>string version = 3;</code>
@@ -363,7 +365,8 @@ private static final long serialVersionUID = 0L;
   private volatile java.lang.Object attributes_;
   /**
    * <pre>
-   * The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+   * The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead",
+   * "Spectral", etc.)
    * </pre>
    *
    * <code>string attributes = 21;</code>
@@ -384,7 +387,8 @@ private static final long serialVersionUID = 0L;
   }
   /**
    * <pre>
-   * The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+   * The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead",
+   * "Spectral", etc.)
    * </pre>
    *
    * <code>string attributes = 21;</code>
@@ -682,10 +686,10 @@ private static final long serialVersionUID = 0L;
     for (int i = 0; i < ids_.size(); i++) {
       output.writeInt32NoTag(ids_.getInt(i));
     }
-    if (!getNameBytes().isEmpty()) {
+    if (!com.google.protobuf.GeneratedMessageV3.isStringEmpty(name_)) {
       com.google.protobuf.GeneratedMessageV3.writeString(output, 2, name_);
     }
-    if (!getVersionBytes().isEmpty()) {
+    if (!com.google.protobuf.GeneratedMessageV3.isStringEmpty(version_)) {
       com.google.protobuf.GeneratedMessageV3.writeString(output, 3, version_);
     }
     if (hitpoints_ != 0) {
@@ -739,7 +743,7 @@ private static final long serialVersionUID = 0L;
     if (drange_ != 0) {
       output.writeInt32(20, drange_);
     }
-    if (!getAttributesBytes().isEmpty()) {
+    if (!com.google.protobuf.GeneratedMessageV3.isStringEmpty(attributes_)) {
       com.google.protobuf.GeneratedMessageV3.writeString(output, 21, attributes_);
     }
     unknownFields.writeTo(output);
@@ -765,10 +769,10 @@ private static final long serialVersionUID = 0L;
       }
       idsMemoizedSerializedSize = dataSize;
     }
-    if (!getNameBytes().isEmpty()) {
+    if (!com.google.protobuf.GeneratedMessageV3.isStringEmpty(name_)) {
       size += com.google.protobuf.GeneratedMessageV3.computeStringSize(2, name_);
     }
-    if (!getVersionBytes().isEmpty()) {
+    if (!com.google.protobuf.GeneratedMessageV3.isStringEmpty(version_)) {
       size += com.google.protobuf.GeneratedMessageV3.computeStringSize(3, version_);
     }
     if (hitpoints_ != 0) {
@@ -839,7 +843,7 @@ private static final long serialVersionUID = 0L;
       size += com.google.protobuf.CodedOutputStream
         .computeInt32Size(20, drange_);
     }
-    if (!getAttributesBytes().isEmpty()) {
+    if (!com.google.protobuf.GeneratedMessageV3.isStringEmpty(attributes_)) {
       size += com.google.protobuf.GeneratedMessageV3.computeStringSize(21, attributes_);
     }
     size += unknownFields.getSerializedSize();
@@ -1052,12 +1056,12 @@ private static final long serialVersionUID = 0L;
   /**
    * <pre>
    * A single NPC defined on the OSRS wiki.
-   * Note that NPCs with variants or "versions" may have multiple NpcInfo protos in the processed list. The set of IDs
-   * should always be unique, though.
-   * These protos are parsed from the "Infobox Monster" templates found on the wiki pages associated with the "Monsters"
-   * category. The field names listed here exactly match the key names used in the template. Multi-versioned key/value
-   * pairs are identified with numeric suffixes (i.e. "version1") and cause multiple NpcInfos to be generated, one for
-   * each unique number suffix.
+   * Note that NPCs with variants or "versions" may have multiple NpcInfo protos in the processed
+   * list. The set of IDs should always be unique, though.
+   * These protos are parsed from the "Infobox Monster" templates found on the wiki pages associated
+   * with the "Monsters" category. The field names listed here exactly match the key names used in the
+   * template. Multi-versioned key/value pairs are identified with numeric suffixes (i.e. "version1")
+   * and cause multiple NpcInfos to be generated, one for each unique number suffix.
    * Next ID: 22
    * </pre>
    *
@@ -1549,9 +1553,9 @@ private static final long serialVersionUID = 0L;
     private java.lang.Object version_ = "";
     /**
      * <pre>
-     * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple versions, yet are
-     * represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
-     * like the Abyssal Sire.
+     * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple
+     * versions, yet are represented by the same wiki page. Example values for this field are
+     * "Phase 1", "Phase 2", etc. for phased NPCs, like the Abyssal Sire.
      * </pre>
      *
      * <code>string version = 3;</code>
@@ -1571,9 +1575,9 @@ private static final long serialVersionUID = 0L;
     }
     /**
      * <pre>
-     * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple versions, yet are
-     * represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
-     * like the Abyssal Sire.
+     * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple
+     * versions, yet are represented by the same wiki page. Example values for this field are
+     * "Phase 1", "Phase 2", etc. for phased NPCs, like the Abyssal Sire.
      * </pre>
      *
      * <code>string version = 3;</code>
@@ -1594,9 +1598,9 @@ private static final long serialVersionUID = 0L;
     }
     /**
      * <pre>
-     * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple versions, yet are
-     * represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
-     * like the Abyssal Sire.
+     * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple
+     * versions, yet are represented by the same wiki page. Example values for this field are
+     * "Phase 1", "Phase 2", etc. for phased NPCs, like the Abyssal Sire.
      * </pre>
      *
      * <code>string version = 3;</code>
@@ -1615,9 +1619,9 @@ private static final long serialVersionUID = 0L;
     }
     /**
      * <pre>
-     * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple versions, yet are
-     * represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
-     * like the Abyssal Sire.
+     * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple
+     * versions, yet are represented by the same wiki page. Example values for this field are
+     * "Phase 1", "Phase 2", etc. for phased NPCs, like the Abyssal Sire.
      * </pre>
      *
      * <code>string version = 3;</code>
@@ -1631,9 +1635,9 @@ private static final long serialVersionUID = 0L;
     }
     /**
      * <pre>
-     * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple versions, yet are
-     * represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
-     * like the Abyssal Sire.
+     * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple
+     * versions, yet are represented by the same wiki page. Example values for this field are
+     * "Phase 1", "Phase 2", etc. for phased NPCs, like the Abyssal Sire.
      * </pre>
      *
      * <code>string version = 3;</code>
@@ -1655,7 +1659,8 @@ private static final long serialVersionUID = 0L;
     private java.lang.Object attributes_ = "";
     /**
      * <pre>
-     * The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+     * The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead",
+     * "Spectral", etc.)
      * </pre>
      *
      * <code>string attributes = 21;</code>
@@ -1675,7 +1680,8 @@ private static final long serialVersionUID = 0L;
     }
     /**
      * <pre>
-     * The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+     * The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead",
+     * "Spectral", etc.)
      * </pre>
      *
      * <code>string attributes = 21;</code>
@@ -1696,7 +1702,8 @@ private static final long serialVersionUID = 0L;
     }
     /**
      * <pre>
-     * The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+     * The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead",
+     * "Spectral", etc.)
      * </pre>
      *
      * <code>string attributes = 21;</code>
@@ -1715,7 +1722,8 @@ private static final long serialVersionUID = 0L;
     }
     /**
      * <pre>
-     * The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+     * The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead",
+     * "Spectral", etc.)
      * </pre>
      *
      * <code>string attributes = 21;</code>
@@ -1729,7 +1737,8 @@ private static final long serialVersionUID = 0L;
     }
     /**
      * <pre>
-     * The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+     * The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead",
+     * "Spectral", etc.)
      * </pre>
      *
      * <code>string attributes = 21;</code>

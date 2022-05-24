@@ -58,9 +58,9 @@ public interface NpcInfoOrBuilder extends
 
   /**
    * <pre>
-   * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple versions, yet are
-   * represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
-   * like the Abyssal Sire.
+   * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple
+   * versions, yet are represented by the same wiki page. Example values for this field are
+   * "Phase 1", "Phase 2", etc. for phased NPCs, like the Abyssal Sire.
    * </pre>
    *
    * <code>string version = 3;</code>
@@ -69,9 +69,9 @@ public interface NpcInfoOrBuilder extends
   java.lang.String getVersion();
   /**
    * <pre>
-   * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple versions, yet are
-   * represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
-   * like the Abyssal Sire.
+   * The name of the version of this NPC, if one exists. This is set for NPCs that have multiple
+   * versions, yet are represented by the same wiki page. Example values for this field are
+   * "Phase 1", "Phase 2", etc. for phased NPCs, like the Abyssal Sire.
    * </pre>
    *
    * <code>string version = 3;</code>
@@ -82,7 +82,8 @@ public interface NpcInfoOrBuilder extends
 
   /**
    * <pre>
-   * The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+   * The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead",
+   * "Spectral", etc.)
    * </pre>
    *
    * <code>string attributes = 21;</code>
@@ -91,7 +92,8 @@ public interface NpcInfoOrBuilder extends
   java.lang.String getAttributes();
   /**
    * <pre>
-   * The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+   * The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead",
+   * "Spectral", etc.)
    * </pre>
    *
    * <code>string attributes = 21;</code>
