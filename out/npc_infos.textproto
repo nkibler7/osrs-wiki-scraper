@@ -11864,8 +11864,16 @@ npcs {
   ids: 3050
   name: "Hobgoblin"
   version: "Hobgoblin (armed)"
+  hitpoints: 49
+  att: 33
+  str: 31
+  def: 36
   mage: 1
   range: 1
+  attbns: 8
+  strbns: 10
+  dstab: 1
+  dslash: 1
 }
 npcs {
   ids: 3286
