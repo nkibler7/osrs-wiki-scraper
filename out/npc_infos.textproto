@@ -3465,6 +3465,17 @@ npcs {
 }
 npcs {
   ids: 1224
+  name: "Bouncer"
+  version: "Quest"
+  hitpoints: 116
+  att: 120
+  str: 120
+  def: 120
+  mage: 1
+  range: 1
+  attributes: "demon"
+}
+npcs {
   ids: 6355
   name: "Bouncer"
   version: "Normal"
