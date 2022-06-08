@@ -11809,9 +11809,9 @@ npcs {
   strbns: 16
 }
 npcs {
-  ids: 10376
+  ids: 10375
   name: "Hill Giant"
-  version: "Singlet"
+  version: "Hammer"
   hitpoints: 35
   att: 18
   str: 22
@@ -11822,9 +11822,9 @@ npcs {
   strbns: 16
 }
 npcs {
-  ids: 10375
+  ids: 10376
   name: "Hill Giant"
-  version: "Hammer"
+  version: "Singlet"
   hitpoints: 35
   att: 18
   str: 22
