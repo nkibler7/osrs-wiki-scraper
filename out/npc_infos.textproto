@@ -21333,6 +21333,17 @@ npcs {
 }
 npcs {
   ids: 5054
+  name: "Skeleton Hellhound"
+  version: "Quest"
+  hitpoints: 55
+  att: 70
+  str: 110
+  def: 100
+  mage: 1
+  range: 1
+  attributes: "demon"
+}
+npcs {
   ids: 6387
   name: "Skeleton Hellhound"
   version: "Normal"
