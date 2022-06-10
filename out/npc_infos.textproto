@@ -7479,6 +7479,7 @@ npcs {
   def: 100
   mage: 1
   range: 1
+  attributes: "Spectral"
 }
 npcs {
   ids: 1273
