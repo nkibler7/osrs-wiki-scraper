@@ -26040,8 +26040,6 @@ npcs {
   def: 180
   mage: 120
   range: 120
-  attbns: 135
-  strbns: 150
   attributes: "vampyre3"
 }
 npcs {
@@ -26054,8 +26052,6 @@ npcs {
   def: 180
   mage: 120
   range: 120
-  attbns: 135
-  strbns: 150
   attributes: "vampyre3"
 }
 npcs {
@@ -26068,8 +26064,6 @@ npcs {
   def: 180
   mage: 120
   range: 120
-  attbns: 135
-  strbns: 150
   attributes: "vampyre3"
 }
 npcs {
@@ -26082,8 +26076,6 @@ npcs {
   def: 180
   mage: 120
   range: 120
-  attbns: 135
-  strbns: 150
   attributes: "vampyre3"
 }
 npcs {
@@ -26096,8 +26088,6 @@ npcs {
   def: 180
   mage: 120
   range: 120
-  attbns: 135
-  strbns: 150
   attributes: "vampyre3"
 }
 npcs {
@@ -26110,8 +26100,6 @@ npcs {
   def: 180
   mage: 120
   range: 120
-  attbns: 135
-  strbns: 150
   attributes: "vampyre3"
 }
 npcs {
@@ -26124,8 +26112,6 @@ npcs {
   def: 180
   mage: 120
   range: 120
-  attbns: 135
-  strbns: 150
   attributes: "vampyre3"
 }
 npcs {
@@ -26138,8 +26124,6 @@ npcs {
   def: 180
   mage: 120
   range: 120
-  attbns: 135
-  strbns: 150
   attributes: "vampyre3"
 }
 npcs {
