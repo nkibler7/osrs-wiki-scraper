@@ -6601,7 +6601,7 @@ npcs {
 }
 npcs {
   ids: 1128
-  name: "Dessous"
+  name: "Dessous (hard)"
   version: "Hard"
   hitpoints: 255
   att: 198
