@@ -20168,7 +20168,8 @@ npcs {
   range: 1
 }
 npcs {
-  name: "Shadow Portal"
+  ids: 11485
+  name: "Shadow Rift"
   hitpoints: 20
 }
 npcs {
