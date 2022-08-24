@@ -5466,10 +5466,6 @@ npcs {
   drange: 20
 }
 npcs {
-  ids: 11705
-  name: "Crocodile"
-}
-npcs {
   ids: 11285
   name: "Cruor"
   hitpoints: 500
@@ -27368,22 +27364,6 @@ npcs {
   mage: 80
   range: 1
   dmagic: 3
-}
-npcs {
-  ids: 11730
-  name: "Zebak"
-  hitpoints: 540
-  att: 250
-  str: 140
-  def: 70
-  mage: 100
-  range: 120
-  attbns: 160
-  strbns: 100
-  amagic: 220
-  mbns: 30
-  arange: 220
-  rngbns: 16
 }
 npcs {
   ids: 11774
