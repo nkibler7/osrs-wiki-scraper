@@ -337,10 +337,6 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 11727
-  name: "Agile Scarab"
-}
-npcs {
   ids: 911
   ids: 6388
   name: "Agrith Naar"
@@ -13622,15 +13618,6 @@ npcs {
   dstab: 50
   dslash: 50
   dcrush: 50
-}
-npcs {
-  ids: 11719
-  name: "Kephri"
-  hitpoints: 235
-  def: 80
-  mage: 125
-  amagic: 125
-  mbns: 50
 }
 npcs {
   ids: 11776
