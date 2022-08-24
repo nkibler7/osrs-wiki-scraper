@@ -1611,20 +1611,8 @@ npcs {
   hitpoints: 100
 }
 npcs {
-  ids: 11778
-  name: "Ba-Ba"
-}
-npcs {
   ids: 11775
   name: "Ba-Ba\'s Phantom"
-}
-npcs {
-  ids: 11781
-  name: "Baboon"
-}
-npcs {
-  ids: 11715
-  name: "Baboon Shaman"
 }
 npcs {
   ids: 1871
