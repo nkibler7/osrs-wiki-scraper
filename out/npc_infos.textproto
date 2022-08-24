@@ -7319,6 +7319,16 @@ npcs {
   drange: 50
 }
 npcs {
+  ids: 11746
+  name: "Elidinis\' Warden"
+  version: "Level 489"
+}
+npcs {
+  ids: 11761
+  name: "Elidinis\' Warden"
+  version: "Level 544"
+}
+npcs {
   ids: 817
   ids: 8033
   ids: 6349
@@ -24607,6 +24617,16 @@ npcs {
   strbns: 14
   dmagic: -5
   attributes: "demon"
+}
+npcs {
+  ids: 11746
+  name: "Tumeken\'s Warden"
+  version: "Level 489"
+}
+npcs {
+  ids: 11761
+  name: "Tumeken\'s Warden"
+  version: "Level 544"
 }
 npcs {
   ids: 430
