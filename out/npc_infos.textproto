@@ -453,27 +453,8 @@ npcs {
   dmagic: 15
 }
 npcs {
-  ids: 11789
-  name: "Akkha"
-  att: 100
-  str: 140
-  def: 80
-  mage: 100
-  range: 100
-  attbns: 115
-  strbns: 30
-  amagic: 115
-  mbns: 40
-  arange: 115
-  rngbns: 40
-}
-npcs {
   ids: 11777
   name: "Akkha\'s Phantom"
-}
-npcs {
-  ids: 11797
-  name: "Akkha\'s Shadow"
 }
 npcs {
   ids: 3292
@@ -19705,10 +19686,6 @@ npcs {
   attbns: 40
   strbns: 40
   dmagic: 30
-}
-npcs {
-  ids: 11697
-  name: "Scarab"
 }
 npcs {
   ids: 799
