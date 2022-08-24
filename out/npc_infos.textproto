@@ -1623,42 +1623,8 @@ npcs {
   name: "Baboon"
 }
 npcs {
-  ids: 11709
-  name: "Baboon Brawler"
-  version: "Level 56"
-}
-npcs {
-  ids: 11712
-  name: "Baboon Brawler"
-  version: "Level 68"
-}
-npcs {
-  ids: 11711
-  name: "Baboon Mage"
-  version: "Level 56"
-}
-npcs {
-  ids: 11714
-  name: "Baboon Mage"
-  version: "Level 68"
-}
-npcs {
   ids: 11715
   name: "Baboon Shaman"
-}
-npcs {
-  ids: 11718
-  name: "Baboon Thrall"
-}
-npcs {
-  ids: 11710
-  name: "Baboon Thrower"
-  version: "Level 56"
-}
-npcs {
-  ids: 11713
-  name: "Baboon Thrower"
-  version: "Level 68"
 }
 npcs {
   ids: 1871
@@ -5687,10 +5653,6 @@ npcs {
   dcrush: -10
   dmagic: -10
   drange: -10
-}
-npcs {
-  ids: 11717
-  name: "Cursed Baboon"
 }
 npcs {
   ids: 2097
@@ -13695,6 +13657,11 @@ npcs {
 npcs {
   ids: 11719
   name: "Kephri"
+  hitpoints: 235
+  def: 80
+  mage: 125
+  amagic: 125
+  mbns: 50
 }
 npcs {
   ids: 11776
@@ -25979,10 +25946,6 @@ npcs {
   def: 70
   attbns: 7
   strbns: 3
-}
-npcs {
-  ids: 11716
-  name: "Volatile Baboon"
 }
 npcs {
   ids: 8059
