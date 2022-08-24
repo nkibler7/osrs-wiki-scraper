@@ -337,6 +337,10 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 11727
+  name: "Agile Scarab"
+}
+npcs {
   ids: 911
   ids: 6388
   name: "Agrith Naar"
@@ -447,6 +451,18 @@ npcs {
   def: 10
   mage: 10
   dmagic: 15
+}
+npcs {
+  ids: 11789
+  name: "Akkha"
+}
+npcs {
+  ids: 11777
+  name: "Akkha\'s Phantom"
+}
+npcs {
+  ids: 11797
+  name: "Akkha\'s Shadow"
 }
 npcs {
   ids: 3292
@@ -1083,6 +1099,10 @@ npcs {
   drange: 70
 }
 npcs {
+  ids: 11726
+  name: "Arcane Scarab"
+}
+npcs {
   ids: 3301
   name: "Archer"
   hitpoints: 50
@@ -1578,6 +1598,56 @@ npcs {
   ids: 7288
   name: "Awakened Altar"
   hitpoints: 100
+}
+npcs {
+  ids: 11778
+  name: "Ba-Ba"
+}
+npcs {
+  ids: 11775
+  name: "Ba-Ba\'s Phantom"
+}
+npcs {
+  ids: 11781
+  name: "Baboon"
+}
+npcs {
+  ids: 11709
+  name: "Baboon Brawler"
+  version: "Level 56"
+}
+npcs {
+  ids: 11712
+  name: "Baboon Brawler"
+  version: "Level 68"
+}
+npcs {
+  ids: 11711
+  name: "Baboon Mage"
+  version: "Level 56"
+}
+npcs {
+  ids: 11714
+  name: "Baboon Mage"
+  version: "Level 68"
+}
+npcs {
+  ids: 11715
+  name: "Baboon Shaman"
+}
+npcs {
+  ids: 11718
+  name: "Baboon Thrall"
+}
+npcs {
+  ids: 11710
+  name: "Baboon Thrower"
+  version: "Level 56"
+}
+npcs {
+  ids: 11713
+  name: "Baboon Thrower"
+  version: "Level 68"
 }
 npcs {
   ids: 1871
@@ -5385,6 +5455,10 @@ npcs {
   drange: 20
 }
 npcs {
+  ids: 11705
+  name: "Crocodile"
+}
+npcs {
   ids: 11285
   name: "Cruor"
   hitpoints: 500
@@ -5606,6 +5680,10 @@ npcs {
   dcrush: -10
   dmagic: -10
   drange: -10
+}
+npcs {
+  ids: 11717
+  name: "Cursed Baboon"
 }
 npcs {
   ids: 2097
@@ -13598,6 +13676,14 @@ npcs {
   dcrush: 50
 }
 npcs {
+  ids: 11719
+  name: "Kephri"
+}
+npcs {
+  ids: 11776
+  name: "Kephri\'s Phantom"
+}
+npcs {
   ids: 3125
   name: "Ket-Zek"
   version: "Standard"
@@ -19649,6 +19735,10 @@ npcs {
   dmagic: 30
 }
 npcs {
+  ids: 11697
+  name: "Scarab"
+}
+npcs {
   ids: 799
   name: "Scarab mage"
   version: "Level 66 (Quest)"
@@ -19739,6 +19829,10 @@ npcs {
   ids: 11484
   name: "Scarab Swarm"
   hitpoints: 5
+}
+npcs {
+  ids: 11723
+  name: "Scarab Swarm"
 }
 npcs {
   ids: 729
@@ -21997,6 +22091,10 @@ npcs {
   drange: 16
 }
 npcs {
+  ids: 11724
+  name: "Soldier Scarab"
+}
+npcs {
   ids: 4930
   ids: 4933
   ids: 4962
@@ -22674,6 +22772,10 @@ npcs {
   dcrush: 80
   drange: 250
   attributes: "spectral"
+}
+npcs {
+  ids: 11725
+  name: "Spitting Scarab"
 }
 npcs {
   ids: 7794
@@ -25852,6 +25954,10 @@ npcs {
   strbns: 3
 }
 npcs {
+  ids: 11716
+  name: "Volatile Baboon"
+}
+npcs {
   ids: 8059
   ids: 8061
   name: "Vorkath"
@@ -27231,6 +27337,26 @@ npcs {
   mage: 80
   range: 1
   dmagic: 3
+}
+npcs {
+  ids: 11730
+  name: "Zebak"
+  hitpoints: 540
+  att: 250
+  str: 140
+  def: 70
+  mage: 100
+  range: 120
+  attbns: 160
+  strbns: 100
+  amagic: 220
+  mbns: 30
+  arange: 220
+  rngbns: 16
+}
+npcs {
+  ids: 11774
+  name: "Zebak\'s Phantom"
 }
 npcs {
   ids: 866
