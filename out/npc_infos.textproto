@@ -1087,10 +1087,6 @@ npcs {
   drange: 70
 }
 npcs {
-  ids: 11726
-  name: "Arcane Scarab"
-}
-npcs {
   ids: 3301
   name: "Archer"
   hitpoints: 50
@@ -19767,10 +19763,6 @@ npcs {
   hitpoints: 5
 }
 npcs {
-  ids: 11723
-  name: "Scarab Swarm"
-}
-npcs {
   ids: 729
   name: "Scarabs"
   hitpoints: 25
@@ -22027,10 +22019,6 @@ npcs {
   drange: 16
 }
 npcs {
-  ids: 11724
-  name: "Soldier Scarab"
-}
-npcs {
   ids: 4930
   ids: 4933
   ids: 4962
@@ -22708,10 +22696,6 @@ npcs {
   dcrush: 80
   drange: 250
   attributes: "spectral"
-}
-npcs {
-  ids: 11725
-  name: "Spitting Scarab"
 }
 npcs {
   ids: 7794
