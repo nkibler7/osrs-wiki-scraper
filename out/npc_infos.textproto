@@ -449,10 +449,6 @@ npcs {
   dmagic: 15
 }
 npcs {
-  ids: 11777
-  name: "Akkha\'s Phantom"
-}
-npcs {
   ids: 3292
   name: "Al Kharid warrior"
   hitpoints: 19
@@ -1582,10 +1578,6 @@ npcs {
   ids: 7288
   name: "Awakened Altar"
   hitpoints: 100
-}
-npcs {
-  ids: 11775
-  name: "Ba-Ba\'s Phantom"
 }
 npcs {
   ids: 1871
@@ -13604,10 +13596,6 @@ npcs {
   dstab: 50
   dslash: 50
   dcrush: 50
-}
-npcs {
-  ids: 11776
-  name: "Kephri\'s Phantom"
 }
 npcs {
   ids: 3125
@@ -27243,10 +27231,6 @@ npcs {
   mage: 80
   range: 1
   dmagic: 3
-}
-npcs {
-  ids: 11774
-  name: "Zebak\'s Phantom"
 }
 npcs {
   ids: 866
