@@ -17775,6 +17775,12 @@ npcs {
   ids: 4052
   name: "Pirate"
   version: "Cabin Fever"
+  hitpoints: 52
+  att: 49
+  str: 50
+  def: 50
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 524
