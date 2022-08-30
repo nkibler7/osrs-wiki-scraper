@@ -11896,6 +11896,7 @@ npcs {
   ids: 3286
   name: "Hobgoblin"
   version: "Hobgoblin (brown)"
+  hitpoints: 29
   mage: 1
   range: 1
 }
@@ -11903,6 +11904,7 @@ npcs {
   ids: 3287
   name: "Hobgoblin"
   version: "Hobgoblin (grey)"
+  hitpoints: 29
   mage: 1
   range: 1
 }
@@ -11910,6 +11912,7 @@ npcs {
   ids: 3288
   name: "Hobgoblin"
   version: "Hobgoblin (khaki)"
+  hitpoints: 29
   mage: 1
   range: 1
 }
@@ -11917,6 +11920,7 @@ npcs {
   ids: 3289
   name: "Hobgoblin"
   version: "Hobgoblin (brown, armed)"
+  hitpoints: 29
   mage: 1
   range: 1
 }
