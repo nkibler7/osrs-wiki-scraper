@@ -337,6 +337,20 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 11727
+  name: "Agile Scarab"
+  hitpoints: 30
+  att: 60
+  str: 20
+  def: 5
+  mage: 30
+  range: 40
+  amagic: 150
+  mbns: 25
+  arange: 150
+  rngbns: 5
+}
+npcs {
   ids: 911
   ids: 6388
   name: "Agrith Naar"
@@ -447,6 +461,48 @@ npcs {
   def: 10
   mage: 10
   dmagic: 15
+}
+npcs {
+  ids: 11789
+  name: "Akkha"
+  hitpoints: 537
+  att: 100
+  str: 140
+  def: 80
+  mage: 100
+  range: 100
+  attbns: 115
+  strbns: 30
+  amagic: 115
+  mbns: 40
+  arange: 115
+  rngbns: 40
+  dstab: 60
+  dslash: 120
+  dcrush: 120
+  dmagic: 10
+  drange: 60
+}
+npcs {
+  ids: 11797
+  name: "Akkha\'s Shadow"
+  hitpoints: 70
+  att: 100
+  str: 140
+  def: 30
+  mage: 100
+  range: 100
+  attbns: 115
+  strbns: 30
+  amagic: 115
+  mbns: 40
+  arange: 115
+  rngbns: 40
+  dstab: 60
+  dslash: 120
+  dcrush: 120
+  dmagic: 10
+  drange: 60
 }
 npcs {
   ids: 3292
@@ -1083,6 +1139,25 @@ npcs {
   drange: 70
 }
 npcs {
+  ids: 11726
+  name: "Arcane Scarab"
+  hitpoints: 40
+  att: 75
+  str: 80
+  def: 80
+  mage: 100
+  range: 95
+  strbns: 55
+  amagic: 250
+  mbns: 65
+  arange: 350
+  dstab: 15
+  dslash: 250
+  dcrush: 30
+  dmagic: 75
+  drange: 50
+}
+npcs {
   ids: 3301
   name: "Archer"
   hitpoints: 50
@@ -1578,6 +1653,21 @@ npcs {
   ids: 7288
   name: "Awakened Altar"
   hitpoints: 100
+}
+npcs {
+  ids: 11778
+  name: "Ba-Ba"
+  hitpoints: 380
+  att: 150
+  str: 160
+  def: 80
+  mage: 100
+  strbns: 26
+  dstab: 80
+  dslash: 160
+  dcrush: 240
+  dmagic: 280
+  drange: 200
 }
 npcs {
   ids: 1871
@@ -5385,6 +5475,22 @@ npcs {
   drange: 20
 }
 npcs {
+  ids: 11705
+  name: "Crocodile"
+  hitpoints: 30
+  att: 150
+  str: 60
+  def: 100
+  mage: 30
+  range: 1
+  strbns: 100
+  dstab: 150
+  dslash: 350
+  dcrush: 350
+  dmagic: 5
+  drange: 150
+}
+npcs {
   ids: 11285
   name: "Cruor"
   hitpoints: 500
@@ -7239,6 +7345,46 @@ npcs {
   dcrush: 70
   dmagic: 60
   drange: 50
+}
+npcs {
+  ids: 11746
+  name: "Elidinis\' Warden"
+  version: "Level 489"
+  hitpoints: 140
+  att: 300
+  str: 150
+  def: 100
+  mage: 190
+  range: 190
+  strbns: 10
+  amagic: 225
+  arange: 225
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: -30
+  drange: 70
+}
+npcs {
+  ids: 11761
+  name: "Elidinis\' Warden"
+  version: "Level 544"
+  hitpoints: 800
+  att: 150
+  str: 150
+  def: 150
+  mage: 150
+  range: 150
+  strbns: 40
+  amagic: 300
+  mbns: 40
+  arange: 300
+  rngbns: 40
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: -30
+  drange: 70
 }
 npcs {
   ids: 817
@@ -13602,6 +13748,21 @@ npcs {
   dcrush: 50
 }
 npcs {
+  ids: 11719
+  name: "Kephri"
+  hitpoints: 90
+  def: 80
+  mage: 125
+  amagic: 125
+  mbns: 50
+  dstab: 60
+  dslash: 300
+  dcrush: 100
+  dmagic: 200
+  drange: 300
+  attributes: "kalphite"
+}
+npcs {
   ids: 3125
   name: "Ket-Zek"
   version: "Standard"
@@ -19659,6 +19820,17 @@ npcs {
   dmagic: 30
 }
 npcs {
+  ids: 11697
+  name: "Scarab"
+  hitpoints: 12
+  att: 20
+  str: 32
+  def: 28
+  mage: 1
+  range: 50
+  arange: 150
+}
+npcs {
   ids: 799
   name: "Scarab mage"
   version: "Level 66 (Quest)"
@@ -22007,6 +22179,26 @@ npcs {
   drange: 16
 }
 npcs {
+  ids: 11724
+  name: "Soldier Scarab"
+  hitpoints: 40
+  att: 75
+  str: 80
+  def: 80
+  mage: 100
+  range: 95
+  attbns: 100
+  strbns: 55
+  amagic: 250
+  mbns: 65
+  arange: 350
+  dstab: 15
+  dslash: 250
+  dcrush: 30
+  dmagic: 10
+  drange: 250
+}
+npcs {
   ids: 4930
   ids: 4933
   ids: 4962
@@ -22684,6 +22876,25 @@ npcs {
   dcrush: 80
   drange: 250
   attributes: "spectral"
+}
+npcs {
+  ids: 11725
+  name: "Spitting Scarab"
+  hitpoints: 40
+  att: 1
+  str: 80
+  def: 80
+  mage: 100
+  range: 95
+  strbns: 55
+  amagic: 250
+  mbns: 65
+  arange: 250
+  dstab: 15
+  dslash: 250
+  dcrush: 30
+  dmagic: 250
+  drange: 125
 }
 npcs {
   ids: 7794
@@ -24515,6 +24726,27 @@ npcs {
   strbns: 14
   dmagic: -5
   attributes: "demon"
+}
+npcs {
+  ids: 11761
+  name: "Tumeken\'s Warden"
+  version: "Level 544"
+  hitpoints: 800
+  att: 150
+  str: 150
+  def: 150
+  mage: 150
+  range: 150
+  strbns: 40
+  amagic: 300
+  mbns: 40
+  arange: 300
+  rngbns: 40
+  dstab: 40
+  dslash: 40
+  dcrush: 20
+  dmagic: 20
+  drange: 20
 }
 npcs {
   ids: 430
@@ -27241,6 +27473,27 @@ npcs {
   mage: 80
   range: 1
   dmagic: 3
+}
+npcs {
+  ids: 11730
+  name: "Zebak"
+  hitpoints: 580
+  att: 250
+  str: 140
+  def: 70
+  mage: 100
+  range: 120
+  attbns: 160
+  strbns: 100
+  amagic: 215
+  mbns: 30
+  arange: 220
+  rngbns: 16
+  dstab: 160
+  dslash: 160
+  dcrush: 260
+  dmagic: 200
+  drange: 110
 }
 npcs {
   ids: 866

@@ -52,6 +52,8 @@ F
 %
 ç
 	AfflictedLevel 37 (08(@H
+(
+œ[Agile Scarab (<08@H(`ñhpñx
 '
 èÙ1Agrith NaarNormal _(S0Z8R@dHd
 /
@@ -72,6 +74,12 @@ J
 Air Wizard (08
 @
 ò
+4
+ç\Akkha ô(d0å8P@dHdPsX`sh(psx(Ä<àxêxò
+†<
+<
+ï\Akkha's Shadow F(d0å8@dHdPsX`sh(psx(Ä<àxêxò
+†<
 ?
 ‹Al Kharid warrior (08@HP
 X	Äàê
@@ -184,6 +192,8 @@ ApparitionScabaras 2(F0F8(@HÄàê†F
 4
 Ê 
 ApparitionCrondis <(P0F8(@(HÄàêòF†F
+9
+Œ[Arcane Scarab ((K0P8P@dH_X7`˙hApﬁÄà˙êòK†2
 +
 ÂArcher 2(08@H(pxÄàêò
 †
@@ -287,6 +297,8 @@ $
 ËAviansie	Level 148 ã(08†@Hó
 
 ¯8Awakened Altar d
+-
+Ç\Ba-Ba ¸(ñ0†8P@dXÄPà†êòò†»
 ?
 œ–ì>Baby black dragon P(F0F8F@HÄà2ê2ò(†™dragon
 =
@@ -937,6 +949,8 @@ L
 *
 ÿ 	Crocodile >(50686@HÄàêò
 †
+1
+π[	Crocodile (ñ0<8d@HXdÄñàﬁêﬁò†ñ
 ,
 ïXCruor Ù(08»@»HhÄdàêdòñ†2
 (
@@ -1282,6 +1296,11 @@ Elf Archer2 i(
 ≠)Elf Warrior1 i(_0_8P@Ä2àFêFò<†2
 -
 Æ)Elf Warrior2 i(_0_8P@Ä2àFêFò<†2
+R
+‚[Elidinis' Warden	Level 489 å(¨0ñ8d@æHæX
+`·p·ÄFàFêFò‚ˇˇˇˇˇˇˇˇ†F
+W
+Ò[Elidinis' Warden	Level 544 †(ñ0ñ8ñ@ñHñX(`¨h(p¨x(ÄFàFêFò‚ˇˇˇˇˇˇˇˇ†F
 3
 ±·>Õ1ElvargNormal P(F0F8F@FHÄà(ê(ò†
 8
@@ -2310,6 +2329,8 @@ M
 ÷Kebbit 2(08@H
 *
 ¿7¡7Keef ¥(•0x8•@HPæX™Ä2à2ê2
+3
+«[Kephri Z8P@}`}h2Ä<à¨êdò»†¨™kalphite
 +
 µKet-ZekStandard †(¿0‡8@H‡`<
 .
@@ -3349,6 +3370,8 @@ Sand SnakeHard ¥(¥0å8@H
 °Saradomin priest Y(x0.8x@}HP	XÄàêò†
 )
 ãSaradomin wizard x(d0P8P@PHP(X(ò
+
+±[Scarab (0 8@H2pñ
 H
 üScarab mageLevel 66 (Quest) 2(Z0Z8Z@FH`FÄ(àZêZò"™kalphite
 D
@@ -3712,6 +3735,9 @@ XÄà
 5
 ≠*Soldier (08@HPX
 Äàêò¸ˇˇˇˇˇˇˇˇ†
+=
+Ã[Soldier Scarab ((K0P8P@dH_PdX7`˙hApﬁÄà˙êò
+†˙
 
 ¬&≈&‚&Solus Dellagar (
 #
@@ -3818,6 +3844,8 @@ G
 ﬁSpiritual warriorArmadyl b(08x@HçÄàêò#†#™spectral
 D
 öXSpiritual WarriorZaros d(æ0æ8d@2HÄdàdêP†˙™spectral
+<
+Õ[Spitting Scarab ((0P8P@dH_X7`˙hAp˙Äà˙êò˙†}
 ;
 Ú<Spitting Wyvern »(}0P8Z@}H}ÄFàFêFòå†x™dragon
 "
@@ -4152,6 +4180,8 @@ B
 ò»†»
 7
 ∫Tstanon Karlak é(|0v8}@2H2Xò˚ˇˇˇˇˇˇˇˇ™demon
+N
+Ò[Tumeken's Warden	Level 544 †(ñ0ñ8ñ@ñHñX(`¨h(p¨x(Ä(à(êò†
 0
 ÆTurothLevel 83 L(50S8S@Hàê™leafy
 0
@@ -4618,6 +4648,8 @@ $
 ˚9Zamorak warriorLevel 85 -(Z0F8Z@H
 #
 äZamorak wizard L(08@PHò
+<
+“[Zebak ƒ(˙0å8F@dHxP†Xd`◊hp‹xÄ†à†êÑò»†n
 4
 ‚„‰ÂÊÁÈÍÎÏÌZogre G(0$8#@H™Undead
 R
