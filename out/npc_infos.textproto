@@ -13907,7 +13907,7 @@ npcs {
 npcs {
   ids: 11719
   name: "Kephri"
-  hitpoints: 90
+  hitpoints: 80
   def: 80
   mage: 125
   amagic: 125
