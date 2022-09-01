@@ -465,7 +465,7 @@ npcs {
 npcs {
   ids: 11789
   name: "Akkha"
-  hitpoints: 537
+  hitpoints: 400
   att: 100
   str: 140
   def: 80
@@ -1668,6 +1668,166 @@ npcs {
   dcrush: 240
   dmagic: 280
   drange: 200
+}
+npcs {
+  ids: 11781
+  name: "Baboon"
+  hitpoints: 35
+  def: 50
+  mage: 50
+  range: 80
+  arange: 80
+  rngbns: 20
+  dstab: 10
+  dslash: 50
+  dcrush: 50
+  dmagic: 50
+  drange: 50
+}
+npcs {
+  ids: 11709
+  name: "Baboon Brawler"
+  version: "Level 56"
+  hitpoints: 4
+  att: 40
+  str: 40
+  def: 12
+  mage: 40
+  range: 40
+  attbns: 20
+  amagic: 20
+  arange: 20
+  dstab: 900
+  dslash: 900
+  dcrush: 900
+  dmagic: -60
+  drange: 900
+}
+npcs {
+  ids: 11712
+  name: "Baboon Brawler"
+  version: "Level 68"
+  hitpoints: 6
+  att: 60
+  str: 60
+  def: 20
+  mage: 60
+  range: 40
+  attbns: 25
+  amagic: 25
+  arange: 25
+  dstab: 900
+  dslash: 900
+  dcrush: 900
+  dmagic: -60
+  drange: 900
+}
+npcs {
+  ids: 11711
+  name: "Baboon Mage"
+  version: "Level 56"
+  hitpoints: 4
+  att: 40
+  str: 40
+  def: 12
+  mage: 40
+  range: 40
+  attbns: 20
+  amagic: 20
+  arange: 20
+  dstab: 900
+  dslash: 900
+  dcrush: 900
+  dmagic: 900
+  drange: -50
+}
+npcs {
+  ids: 11714
+  name: "Baboon Mage"
+  version: "Level 68"
+  hitpoints: 6
+  att: 60
+  str: 60
+  def: 20
+  mage: 60
+  range: 40
+  attbns: 25
+  amagic: 25
+  arange: 25
+  dstab: 900
+  dslash: 900
+  dcrush: 900
+  dmagic: 900
+  drange: -50
+}
+npcs {
+  ids: 11715
+  name: "Baboon Shaman"
+  hitpoints: 16
+  att: 60
+  str: 60
+  def: 20
+  mage: 60
+  range: 60
+  attbns: 25
+  amagic: 25
+  arange: 25
+  dstab: 900
+  dslash: 900
+  dcrush: 900
+  dmagic: 900
+  drange: -50
+}
+npcs {
+  ids: 11718
+  name: "Baboon Thrall"
+  hitpoints: 2
+  att: 40
+  str: 40
+  def: 12
+  mage: 40
+  range: 40
+  attbns: 20
+  amagic: 20
+  arange: 20
+}
+npcs {
+  ids: 11710
+  name: "Baboon Thrower"
+  version: "Level 56"
+  hitpoints: 4
+  att: 40
+  str: 40
+  def: 12
+  mage: 40
+  range: 40
+  attbns: 20
+  amagic: 20
+  arange: 20
+  dstab: -50
+  dslash: -50
+  dcrush: -50
+  dmagic: 900
+  drange: 900
+}
+npcs {
+  ids: 11713
+  name: "Baboon Thrower"
+  version: "Level 68"
+  hitpoints: 6
+  att: 60
+  str: 60
+  def: 20
+  mage: 60
+  range: 40
+  attbns: 25
+  amagic: 25
+  arange: 25
+  dstab: -50
+  dslash: -50
+  dcrush: -50
+  dmagic: 900
+  drange: 900
 }
 npcs {
   ids: 1871
@@ -5714,6 +5874,24 @@ npcs {
   drange: -10
 }
 npcs {
+  ids: 11717
+  name: "Cursed Baboon"
+  hitpoints: 10
+  att: 60
+  str: 60
+  def: 20
+  mage: 60
+  range: 60
+  attbns: 25
+  amagic: 25
+  arange: 25
+  dstab: 900
+  dslash: 900
+  dcrush: 900
+  dmagic: -60
+  drange: -50
+}
+npcs {
   ids: 2097
   name: "Cyclops"
   version: "Level 56 (Ardougne Zoo)"
@@ -7359,27 +7537,6 @@ npcs {
   strbns: 10
   amagic: 225
   arange: 225
-  dstab: 70
-  dslash: 70
-  dcrush: 70
-  dmagic: -30
-  drange: 70
-}
-npcs {
-  ids: 11761
-  name: "Elidinis\' Warden"
-  version: "Level 544"
-  hitpoints: 800
-  att: 150
-  str: 150
-  def: 150
-  mage: 150
-  range: 150
-  strbns: 40
-  amagic: 300
-  mbns: 40
-  arange: 300
-  rngbns: 40
   dstab: 70
   dslash: 70
   dcrush: 70
@@ -24728,25 +24885,25 @@ npcs {
   attributes: "demon"
 }
 npcs {
-  ids: 11761
+  ids: 11746
   name: "Tumeken\'s Warden"
-  version: "Level 544"
-  hitpoints: 800
-  att: 150
+  version: "Level 489"
+  hitpoints: 140
+  att: 300
   str: 150
-  def: 150
-  mage: 150
-  range: 150
-  strbns: 40
-  amagic: 300
-  mbns: 40
-  arange: 300
-  rngbns: 40
-  dstab: 40
-  dslash: 40
-  dcrush: 20
-  dmagic: 20
-  drange: 20
+  def: 100
+  mage: 190
+  range: 190
+  strbns: 25
+  amagic: 225
+  mbns: 12
+  arange: 225
+  rngbns: 12
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: -30
+  drange: 70
 }
 npcs {
   ids: 430
@@ -26092,6 +26249,24 @@ npcs {
   def: 70
   attbns: 7
   strbns: 3
+}
+npcs {
+  ids: 11716
+  name: "Volatile Baboon"
+  hitpoints: 8
+  att: 60
+  str: 60
+  def: 20
+  mage: 60
+  range: 60
+  attbns: 25
+  amagic: 25
+  arange: 25
+  dstab: 900
+  dslash: 900
+  dcrush: 900
+  dmagic: -60
+  drange: -50
 }
 npcs {
   ids: 8059
