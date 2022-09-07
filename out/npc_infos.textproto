@@ -24921,7 +24921,7 @@ npcs {
   attributes: "demon"
 }
 npcs {
-  ids: 11746
+  ids: 11747
   name: "Tumeken\'s Warden"
   version: "Level 489"
   hitpoints: 140
@@ -24942,7 +24942,7 @@ npcs {
   drange: 70
 }
 npcs {
-  ids: 11761
+  ids: 11762
   name: "Tumeken\'s Warden"
   version: "Level 544"
   hitpoints: 880
