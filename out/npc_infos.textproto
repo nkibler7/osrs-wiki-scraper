@@ -17094,6 +17094,21 @@ npcs {
   rngbns: 60
 }
 npcs {
+  ids: 11751
+  name: "Obelisk"
+  hitpoints: 260
+  att: 200
+  str: 150
+  def: 100
+  mage: 100
+  range: 100
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: 50
+  drange: 60
+}
+npcs {
   ids: 7416
   name: "Obor"
   hitpoints: 120
