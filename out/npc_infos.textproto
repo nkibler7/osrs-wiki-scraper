@@ -20115,6 +20115,16 @@ npcs {
   ids: 11484
   name: "Scarab Swarm"
   hitpoints: 5
+  att: 255
+  str: 5
+  def: 2
+  mage: 1
+  range: 1
+  dstab: -100
+  dslash: -100
+  dcrush: -100
+  dmagic: -100
+  drange: -100
 }
 npcs {
   ids: 11723
