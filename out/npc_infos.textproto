@@ -7528,16 +7528,103 @@ npcs {
 npcs {
   ids: 11746
   name: "Elidinis\' Warden"
-  version: "Level 489"
+  version: "Inactive"
   hitpoints: 140
   att: 300
   str: 150
   def: 100
   mage: 190
   range: 190
-  strbns: 10
+  strbns: 25
   amagic: 225
+  mbns: 12
   arange: 225
+  rngbns: 12
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: -30
+  drange: 70
+}
+npcs {
+  ids: 11748
+  name: "Elidinis\' Warden"
+  version: "Charging"
+  hitpoints: 140
+  att: 300
+  str: 150
+  def: 100
+  mage: 190
+  range: 190
+  strbns: 25
+  amagic: 225
+  mbns: 12
+  arange: 225
+  rngbns: 12
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: -30
+  drange: 70
+}
+npcs {
+  ids: 11759
+  name: "Elidinis\' Warden"
+  version: "Destroyed"
+  hitpoints: 140
+  att: 300
+  str: 150
+  def: 100
+  mage: 190
+  range: 190
+  strbns: 25
+  amagic: 225
+  mbns: 12
+  arange: 225
+  rngbns: 12
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: -30
+  drange: 70
+}
+npcs {
+  ids: 11753
+  ids: 11754
+  name: "Elidinis\' Warden"
+  version: "Active"
+  hitpoints: 140
+  att: 300
+  str: 150
+  def: 100
+  mage: 190
+  range: 190
+  strbns: 25
+  amagic: 225
+  mbns: 12
+  arange: 225
+  rngbns: 12
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: -30
+  drange: 70
+}
+npcs {
+  ids: 11755
+  name: "Elidinis\' Warden"
+  version: "Core-ejected"
+  hitpoints: 140
+  att: 300
+  str: 150
+  def: 100
+  mage: 190
+  range: 190
+  strbns: 25
+  amagic: 225
+  mbns: 12
+  arange: 225
+  rngbns: 12
   dstab: 70
   dslash: 70
   dcrush: 70
@@ -7547,11 +7634,32 @@ npcs {
 npcs {
   ids: 11761
   name: "Elidinis\' Warden"
-  version: "Level 544"
+  version: "Normal"
   hitpoints: 880
   att: 150
   str: 150
   def: 150
+  mage: 150
+  range: 150
+  strbns: 40
+  amagic: 230
+  mbns: 40
+  arange: 300
+  rngbns: 40
+  dstab: 40
+  dslash: 40
+  dcrush: 20
+  dmagic: 20
+  drange: 20
+}
+npcs {
+  ids: 11763
+  name: "Elidinis\' Warden"
+  version: "Enraged"
+  hitpoints: 880
+  att: 150
+  str: 150
+  def: 180
   mage: 150
   range: 150
   strbns: 40
@@ -24948,7 +25056,92 @@ npcs {
 npcs {
   ids: 11747
   name: "Tumeken\'s Warden"
-  version: "Level 489"
+  version: "Inactive"
+  hitpoints: 140
+  att: 300
+  str: 150
+  def: 100
+  mage: 190
+  range: 190
+  strbns: 25
+  amagic: 225
+  mbns: 12
+  arange: 225
+  rngbns: 12
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: -30
+  drange: 70
+}
+npcs {
+  ids: 11749
+  name: "Tumeken\'s Warden"
+  version: "Charging"
+  hitpoints: 140
+  att: 300
+  str: 150
+  def: 100
+  mage: 190
+  range: 190
+  strbns: 25
+  amagic: 225
+  mbns: 12
+  arange: 225
+  rngbns: 12
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: -30
+  drange: 70
+}
+npcs {
+  ids: 11760
+  name: "Tumeken\'s Warden"
+  version: "Destroyed"
+  hitpoints: 140
+  att: 300
+  str: 150
+  def: 100
+  mage: 190
+  range: 190
+  strbns: 25
+  amagic: 225
+  mbns: 12
+  arange: 225
+  rngbns: 12
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: -30
+  drange: 70
+}
+npcs {
+  ids: 11756
+  ids: 11757
+  name: "Tumeken\'s Warden"
+  version: "Active"
+  hitpoints: 140
+  att: 300
+  str: 150
+  def: 100
+  mage: 190
+  range: 190
+  strbns: 25
+  amagic: 225
+  mbns: 12
+  arange: 225
+  rngbns: 12
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: -30
+  drange: 70
+}
+npcs {
+  ids: 11758
+  name: "Tumeken\'s Warden"
+  version: "Core-ejected"
   hitpoints: 140
   att: 300
   str: 150
@@ -24969,11 +25162,32 @@ npcs {
 npcs {
   ids: 11762
   name: "Tumeken\'s Warden"
-  version: "Level 544"
+  version: "Normal"
   hitpoints: 880
   att: 150
   str: 150
   def: 150
+  mage: 150
+  range: 150
+  strbns: 40
+  amagic: 230
+  mbns: 40
+  arange: 300
+  rngbns: 40
+  dstab: 40
+  dslash: 40
+  dcrush: 20
+  dmagic: 20
+  drange: 20
+}
+npcs {
+  ids: 11764
+  name: "Tumeken\'s Warden"
+  version: "Enraged"
+  hitpoints: 880
+  att: 150
+  str: 150
+  def: 180
   mage: 150
   range: 150
   strbns: 40
