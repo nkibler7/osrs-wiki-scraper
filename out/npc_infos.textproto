@@ -7535,11 +7535,9 @@ npcs {
   def: 100
   mage: 190
   range: 190
-  strbns: 25
+  strbns: 10
   amagic: 225
-  mbns: 12
   arange: 225
-  rngbns: 12
   dstab: 70
   dslash: 70
   dcrush: 70
@@ -7556,11 +7554,9 @@ npcs {
   def: 100
   mage: 190
   range: 190
-  strbns: 25
+  strbns: 10
   amagic: 225
-  mbns: 12
   arange: 225
-  rngbns: 12
   dstab: 70
   dslash: 70
   dcrush: 70
@@ -7577,11 +7573,9 @@ npcs {
   def: 100
   mage: 190
   range: 190
-  strbns: 25
+  strbns: 10
   amagic: 225
-  mbns: 12
   arange: 225
-  rngbns: 12
   dstab: 70
   dslash: 70
   dcrush: 70
@@ -7599,11 +7593,9 @@ npcs {
   def: 100
   mage: 190
   range: 190
-  strbns: 25
+  strbns: 10
   amagic: 225
-  mbns: 12
   arange: 225
-  rngbns: 12
   dstab: 70
   dslash: 70
   dcrush: 70
@@ -7620,11 +7612,9 @@ npcs {
   def: 100
   mage: 190
   range: 190
-  strbns: 25
+  strbns: 10
   amagic: 225
-  mbns: 12
   arange: 225
-  rngbns: 12
   dstab: 70
   dslash: 70
   dcrush: 70
