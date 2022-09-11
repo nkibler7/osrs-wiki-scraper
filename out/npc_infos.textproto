@@ -24987,69 +24987,6 @@ npcs {
   attributes: "demon"
 }
 npcs {
-  ids: 11747
-  name: "Tumeken\'s Warden"
-  version: "Inactive"
-  hitpoints: 140
-  att: 300
-  str: 150
-  def: 100
-  mage: 190
-  range: 190
-  strbns: 25
-  amagic: 225
-  mbns: 12
-  arange: 225
-  rngbns: 12
-  dstab: 70
-  dslash: 70
-  dcrush: 70
-  dmagic: -30
-  drange: 70
-}
-npcs {
-  ids: 11749
-  name: "Tumeken\'s Warden"
-  version: "Charging"
-  hitpoints: 140
-  att: 300
-  str: 150
-  def: 100
-  mage: 190
-  range: 190
-  strbns: 25
-  amagic: 225
-  mbns: 12
-  arange: 225
-  rngbns: 12
-  dstab: 70
-  dslash: 70
-  dcrush: 70
-  dmagic: -30
-  drange: 70
-}
-npcs {
-  ids: 11760
-  name: "Tumeken\'s Warden"
-  version: "Destroyed"
-  hitpoints: 140
-  att: 300
-  str: 150
-  def: 100
-  mage: 190
-  range: 190
-  strbns: 25
-  amagic: 225
-  mbns: 12
-  arange: 225
-  rngbns: 12
-  dstab: 70
-  dslash: 70
-  dcrush: 70
-  dmagic: -30
-  drange: 70
-}
-npcs {
   ids: 11756
   ids: 11757
   name: "Tumeken\'s Warden"
@@ -25095,7 +25032,7 @@ npcs {
 npcs {
   ids: 11762
   name: "Tumeken\'s Warden"
-  version: "Normal"
+  version: "Damaged"
   hitpoints: 880
   att: 150
   str: 150
@@ -25116,11 +25053,11 @@ npcs {
 npcs {
   ids: 11764
   name: "Tumeken\'s Warden"
-  version: "Enraged"
+  version: "Invulnerable"
   hitpoints: 880
   att: 150
   str: 150
-  def: 180
+  def: 150
   mage: 150
   range: 150
   strbns: 40
