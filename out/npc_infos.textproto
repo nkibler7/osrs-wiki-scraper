@@ -12977,7 +12977,7 @@ npcs {
 npcs {
   ids: 7397
   name: "Insatiable Bloodveld"
-  hitpoints: 380
+  hitpoints: 290
   att: 190
   str: 145
   def: 85
