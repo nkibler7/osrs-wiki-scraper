@@ -5755,7 +5755,7 @@ npcs {
   ids: 9024
   name: "Crystalline Hunllef"
   hitpoints: 600
-  att: 240
+  att: 600
   str: 240
   def: 240
   mage: 240
