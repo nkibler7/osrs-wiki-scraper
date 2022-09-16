@@ -27543,10 +27543,7 @@ npcs {
   drange: 30
 }
 npcs {
-  ids: 10766
-  ids: 10767
   ids: 10768
-  ids: 10769
   name: "Xarpus"
   hitpoints: 4300
   att: 1
@@ -27558,7 +27555,6 @@ npcs {
 }
 npcs {
   ids: 8340
-  ids: 8341
   name: "Xarpus"
   hitpoints: 5000
   att: 1
@@ -27569,25 +27565,12 @@ npcs {
   drange: 160
 }
 npcs {
-  ids: 10770
-  ids: 10773
+  ids: 10772
   name: "Xarpus"
   hitpoints: 6000
   att: 1
   str: 1
   def: 200
-  mage: 220
-  range: 100
-  drange: 160
-}
-npcs {
-  ids: 8340
-  ids: 8341
-  name: "Xarpus"
-  hitpoints: 5000
-  att: 1
-  str: 1
-  def: 250
   mage: 220
   range: 100
   drange: 160
