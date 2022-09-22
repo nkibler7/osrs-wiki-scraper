@@ -27820,6 +27820,27 @@ npcs {
   drange: 110
 }
 npcs {
+  ids: 11732
+  name: "Zebak"
+  hitpoints: 580
+  att: 250
+  str: 140
+  def: 70
+  mage: 100
+  range: 120
+  attbns: 160
+  strbns: 100
+  amagic: 215
+  mbns: 30
+  arange: 220
+  rngbns: 16
+  dstab: 160
+  dslash: 160
+  dcrush: 260
+  dmagic: 200
+  drange: 110
+}
+npcs {
   ids: 866
   ids: 867
   ids: 868
