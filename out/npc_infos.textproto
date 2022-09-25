@@ -6728,9 +6728,38 @@ npcs {
 }
 npcs {
   ids: 459
+  name: "Desert Lizard"
+  version: "Green"
+  hitpoints: 25
+  att: 20
+  str: 22
+  def: 20
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 15
+  dcrush: 15
+  drange: 5
+}
+npcs {
   ids: 460
+  name: "Desert Lizard"
+  version: "Yellow"
+  hitpoints: 25
+  att: 20
+  str: 22
+  def: 20
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 15
+  dcrush: 15
+  drange: 5
+}
+npcs {
   ids: 461
   name: "Desert Lizard"
+  version: "Orange"
   hitpoints: 25
   att: 20
   str: 22
