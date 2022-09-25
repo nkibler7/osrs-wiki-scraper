@@ -4400,85 +4400,15 @@ npcs {
 }
 npcs {
   ids: 5330
-  name: "Cave goblin miner"
-  version: "1"
-  hitpoints: 10
-  att: 10
-  str: 12
-  def: 7
-  mage: 1
-  range: 1
-}
-npcs {
   ids: 5331
-  name: "Cave goblin miner"
-  version: "2"
-  hitpoints: 10
-  att: 10
-  str: 12
-  def: 7
-  mage: 1
-  range: 1
-}
-npcs {
   ids: 5332
-  name: "Cave goblin miner"
-  version: "3"
-  hitpoints: 10
-  att: 10
-  str: 12
-  def: 7
-  mage: 1
-  range: 1
-}
-npcs {
   ids: 5333
-  name: "Cave goblin miner"
-  version: "4"
-  hitpoints: 10
-  att: 10
-  str: 12
-  def: 7
-  mage: 1
-  range: 1
-}
-npcs {
   ids: 5336
-  name: "Cave goblin miner"
-  version: "5"
-  hitpoints: 10
-  att: 10
-  str: 12
-  def: 7
-  mage: 1
-  range: 1
-}
-npcs {
   ids: 5337
-  name: "Cave goblin miner"
-  version: "6"
-  hitpoints: 10
-  att: 10
-  str: 12
-  def: 7
-  mage: 1
-  range: 1
-}
-npcs {
   ids: 5338
-  name: "Cave goblin miner"
-  version: "7"
-  hitpoints: 10
-  att: 10
-  str: 12
-  def: 7
-  mage: 1
-  range: 1
-}
-npcs {
   ids: 5339
   name: "Cave goblin miner"
-  version: "8"
+  version: "1"
   hitpoints: 10
   att: 10
   str: 12
