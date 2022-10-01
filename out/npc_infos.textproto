@@ -18282,13 +18282,11 @@ npcs {
   ids: 1751
   name: "Portal"
   version: "Purple"
-  att: 10
   def: 120
   dstab: 100
   dslash: 100
   dcrush: 100
   dmagic: 100
-  drange: 100
 }
 npcs {
   ids: 1740
@@ -18296,12 +18294,10 @@ npcs {
   ids: 1748
   ids: 1752
   name: "Portal"
-  version: "Blue"
-  att: 10
+  version: "Red"
   def: 120
   dstab: 100
   dslash: 100
-  dcrush: 100
   dmagic: 100
   drange: 100
 }
@@ -18312,10 +18308,7 @@ npcs {
   ids: 1753
   name: "Portal"
   version: "Yellow"
-  att: 10
   def: 120
-  dstab: 100
-  dslash: 100
   dcrush: 100
   dmagic: 100
   drange: 100
@@ -18326,13 +18319,11 @@ npcs {
   ids: 1750
   ids: 1754
   name: "Portal"
-  version: "Red"
-  att: 10
+  version: "Blue"
   def: 120
   dstab: 100
   dslash: 100
   dcrush: 100
-  dmagic: 100
   drange: 100
 }
 npcs {
