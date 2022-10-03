@@ -13572,11 +13572,52 @@ npcs {
 }
 npcs {
   ids: 1042
+  name: "Jungle horror"
+  version: "Red eyes"
+  hitpoints: 45
+  att: 70
+  str: 70
+  def: 55
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 1043
+  name: "Jungle horror"
+  version: "Yellow eyes"
+  hitpoints: 45
+  att: 70
+  str: 70
+  def: 55
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 1044
+  name: "Jungle horror"
+  version: "Green eyes"
+  hitpoints: 45
+  att: 70
+  str: 70
+  def: 55
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 1045
+  name: "Jungle horror"
+  version: "Blue eyes"
+  hitpoints: 45
+  att: 70
+  str: 70
+  def: 55
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 1046
   name: "Jungle horror"
+  version: "Pink eyes"
   hitpoints: 45
   att: 70
   str: 70
