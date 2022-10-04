@@ -15942,10 +15942,21 @@ npcs {
 }
 npcs {
   ids: 5272
-  ids: 5273
   ids: 5274
+  name: "Monkey Archer"
+  version: "Ape Atoll gate"
+  hitpoints: 50
+  att: 80
+  str: 80
+  def: 80
+  mage: 1
+  range: 110
+}
+npcs {
+  ids: 5273
   ids: 6813
   name: "Monkey Archer"
+  version: "Marim"
   hitpoints: 50
   att: 80
   str: 80
@@ -16600,6 +16611,7 @@ npcs {
 }
 npcs {
   ids: 2946
+  ids: 9612
   name: "Nail beast"
   version: "Level 69"
   hitpoints: 55
@@ -16622,6 +16634,7 @@ npcs {
 }
 npcs {
   ids: 2948
+  ids: 9613
   name: "Nail beast"
   version: "Level 141"
   hitpoints: 75
