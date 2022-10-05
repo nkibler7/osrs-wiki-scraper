@@ -11215,6 +11215,23 @@ npcs {
   drange: 8
 }
 npcs {
+  ids: 6595
+  name: "Prifddinas guard"
+  version: "Prifddinas"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
   ids: 4660
   ids: 4666
   ids: 4669
@@ -23936,10 +23953,8 @@ npcs {
   range: 340
 }
 npcs {
-  ids: 9289
   ids: 9290
   ids: 9291
-  ids: 9292
   name: "The Jormungand"
   hitpoints: 600
   att: 214
@@ -24897,9 +24912,25 @@ npcs {
 }
 npcs {
   ids: 530
+  name: "Tribesman"
+  version: "Normal"
+  hitpoints: 39
+  att: 23
+  str: 27
+  def: 26
+  mage: 1
+  range: 1
+  attbns: 8
+  strbns: 5
+  dstab: 4
+  dslash: 6
+  dcrush: 6
+}
+npcs {
   ids: 6406
   ids: 6407
   name: "Tribesman"
+  version: "Tai Bwo Wannai Cleanup"
   hitpoints: 39
   att: 23
   str: 27
