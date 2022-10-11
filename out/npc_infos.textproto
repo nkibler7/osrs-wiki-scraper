@@ -26475,6 +26475,22 @@ npcs {
   attributes: "xerician"
 }
 npcs {
+  ids: 7530
+  ids: 7531
+  ids: 7532
+  name: "Vespula"
+  version: "Challenge Mode"
+  hitpoints: 288
+  att: 225
+  str: 225
+  def: 132
+  mage: 132
+  range: 225
+  dmagic: 70
+  drange: 60
+  attributes: "xerician"
+}
+npcs {
   ids: 6611
   name: "Vet\'ion"
   version: "Normal"
