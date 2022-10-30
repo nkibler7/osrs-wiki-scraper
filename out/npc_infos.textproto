@@ -22914,6 +22914,8 @@ npcs {
   name: "Suspicious water"
   version: "Suspicious water"
   hitpoints: 100
+  strbns: 69
+  amagic: 9999
 }
 npcs {
   ids: 5947
