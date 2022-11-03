@@ -20035,7 +20035,7 @@ npcs {
 }
 npcs {
   ids: 7894
-  name: "Sand Snake"
+  name: "Sand Snake (hard)"
   version: "Hard"
   hitpoints: 180
   att: 180
