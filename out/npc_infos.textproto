@@ -11973,6 +11973,43 @@ npcs {
 npcs {
   ids: 3295
   name: "Hero"
+  version: "1"
+  hitpoints: 82
+  att: 54
+  str: 55
+  def: 54
+  mage: 1
+  range: 1
+  attbns: 20
+  strbns: 22
+  dstab: 87
+  dslash: 84
+  dcrush: 76
+  dmagic: -10
+  drange: 79
+}
+npcs {
+  ids: 11934
+  name: "Hero"
+  version: "2"
+  hitpoints: 82
+  att: 54
+  str: 55
+  def: 54
+  mage: 1
+  range: 1
+  attbns: 20
+  strbns: 22
+  dstab: 87
+  dslash: 84
+  dcrush: 76
+  dmagic: -10
+  drange: 79
+}
+npcs {
+  ids: 11935
+  name: "Hero"
+  version: "3"
   hitpoints: 82
   att: 54
   str: 55
