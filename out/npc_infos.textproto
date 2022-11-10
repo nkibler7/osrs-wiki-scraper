@@ -13680,16 +13680,6 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 3959
-  name: "Jungle savage"
-  hitpoints: 90
-  att: 76
-  str: 76
-  def: 76
-  attbns: 8
-  strbns: 10
-}
-npcs {
   ids: 3020
   ids: 6267
   ids: 6271
@@ -24645,6 +24635,16 @@ npcs {
   mage: 1
   range: 1
   attributes: "undead"
+}
+npcs {
+  ids: 3959
+  name: "Tormented Warrior"
+  hitpoints: 90
+  att: 76
+  str: 76
+  def: 76
+  attbns: 8
+  strbns: 10
 }
 npcs {
   ids: 6075
