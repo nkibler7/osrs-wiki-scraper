@@ -24981,6 +24981,38 @@ npcs {
   dcrush: 6
 }
 npcs {
+  ids: 11955
+  name: "Tribeswoman"
+  version: "Dark brown"
+  hitpoints: 39
+  att: 23
+  str: 27
+  def: 26
+  mage: 1
+  range: 1
+  attbns: 8
+  strbns: 5
+  dstab: 4
+  dslash: 6
+  dcrush: 6
+}
+npcs {
+  ids: 11956
+  name: "Tribeswoman"
+  version: "Light brown"
+  hitpoints: 39
+  att: 23
+  str: 27
+  def: 26
+  mage: 1
+  range: 1
+  attbns: 8
+  strbns: 5
+  dstab: 4
+  dslash: 6
+  dcrush: 6
+}
+npcs {
   ids: 133
   name: "Troll"
   hitpoints: 120
