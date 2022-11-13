@@ -26935,7 +26935,108 @@ npcs {
 }
 npcs {
   ids: 3260
-  name: "Warrior woman"
+  name: "Warrior"
+  version: "Blond"
+  hitpoints: 20
+  att: 22
+  str: 22
+  def: 22
+  mage: 1
+  range: 1
+  attbns: 6
+  strbns: 7
+  amagic: 6
+  arange: 6
+  dstab: 40
+  dslash: 41
+  dcrush: 37
+  dmagic: -10
+  drange: 38
+}
+npcs {
+  ids: 11925
+  name: "Warrior"
+  version: "Wind braids"
+  hitpoints: 20
+  att: 22
+  str: 22
+  def: 22
+  mage: 1
+  range: 1
+  attbns: 6
+  strbns: 7
+  amagic: 6
+  arange: 6
+  dstab: 40
+  dslash: 41
+  dcrush: 37
+  dmagic: -10
+  drange: 38
+}
+npcs {
+  ids: 11926
+  name: "Warrior"
+  version: "Apricot"
+  hitpoints: 20
+  att: 22
+  str: 22
+  def: 22
+  mage: 1
+  range: 1
+  attbns: 6
+  strbns: 7
+  amagic: 6
+  arange: 6
+  dstab: 40
+  dslash: 41
+  dcrush: 37
+  dmagic: -10
+  drange: 38
+}
+npcs {
+  ids: 11927
+  name: "Warrior"
+  version: "Brown"
+  hitpoints: 20
+  att: 22
+  str: 22
+  def: 22
+  mage: 1
+  range: 1
+  attbns: 6
+  strbns: 7
+  amagic: 6
+  arange: 6
+  dstab: 40
+  dslash: 41
+  dcrush: 37
+  dmagic: -10
+  drange: 38
+}
+npcs {
+  ids: 11928
+  name: "Warrior"
+  version: "Goatee"
+  hitpoints: 20
+  att: 22
+  str: 22
+  def: 22
+  mage: 1
+  range: 1
+  attbns: 6
+  strbns: 7
+  amagic: 6
+  arange: 6
+  dstab: 40
+  dslash: 41
+  dcrush: 37
+  dmagic: -10
+  drange: 38
+}
+npcs {
+  ids: 11929
+  name: "Warrior"
+  version: "Bald"
   hitpoints: 20
   att: 22
   str: 22
