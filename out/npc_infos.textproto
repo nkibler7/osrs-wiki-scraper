@@ -7887,12 +7887,86 @@ npcs {
 }
 npcs {
   ids: 3114
-  ids: 3243
-  ids: 3244
-  ids: 3245
-  ids: 3250
-  ids: 3251
   name: "Farmer"
+  version: "Straw hat, brown hair"
+  hitpoints: 12
+  att: 3
+  str: 4
+  def: 8
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 6
+}
+npcs {
+  ids: 3243
+  name: "Farmer"
+  version: "Green shirt, short sleeves"
+  hitpoints: 12
+  att: 3
+  str: 4
+  def: 8
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 6
+}
+npcs {
+  ids: 3244
+  name: "Farmer"
+  version: "Khaki shirt, bracers"
+  hitpoints: 12
+  att: 3
+  str: 4
+  def: 8
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 6
+}
+npcs {
+  ids: 11918
+  name: "Farmer"
+  version: "Straw hat, blonde hair"
+  hitpoints: 12
+  att: 3
+  str: 4
+  def: 8
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 6
+}
+npcs {
+  ids: 11919
+  name: "Farmer"
+  version: "Green shirt, long sleeves"
+  hitpoints: 12
+  att: 3
+  str: 4
+  def: 8
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 6
+}
+npcs {
+  ids: 11920
+  name: "Farmer"
+  version: "Khaki shirt, no bracers"
+  hitpoints: 12
+  att: 3
+  str: 4
+  def: 8
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 6
+}
+npcs {
+  ids: 11921
+  name: "Farmer"
+  version: "Straw hat, black hair"
   hitpoints: 12
   att: 3
   str: 4
