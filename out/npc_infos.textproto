@@ -18899,7 +18899,7 @@ npcs {
   ids: 2854
   ids: 2855
   name: "Rat"
-  version: "Level 1"
+  version: "Regular"
   hitpoints: 2
   att: 1
   str: 1
@@ -18918,7 +18918,7 @@ npcs {
   ids: 2492
   ids: 2513
   name: "Rat"
-  version: "Level 1 (SoS)"
+  version: "Stronghold of Security"
   hitpoints: 2
   att: 1
   str: 1
