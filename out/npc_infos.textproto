@@ -7173,7 +7173,7 @@ npcs {
 npcs {
   ids: 423
   name: "Dust devil"
-  version: "Level 93 (normal)"
+  version: "Smoke Dungeon"
   hitpoints: 105
   att: 105
   str: 70
@@ -7184,7 +7184,7 @@ npcs {
 npcs {
   ids: 11238
   name: "Dust devil"
-  version: "Level 93 (Wilderness)"
+  version: "Wilderness Slayer Cave"
   hitpoints: 105
   att: 105
   str: 70
@@ -7195,7 +7195,7 @@ npcs {
 npcs {
   ids: 7249
   name: "Dust devil"
-  version: "Level 110"
+  version: "Catacombs of Kourend"
   hitpoints: 130
   att: 120
   str: 90
