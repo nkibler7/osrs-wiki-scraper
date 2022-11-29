@@ -21071,6 +21071,11 @@ npcs {
   ids: 4682
   name: "Sir Leye"
   hitpoints: 20
+  att: 18
+  str: 18
+  def: 15
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 4342
