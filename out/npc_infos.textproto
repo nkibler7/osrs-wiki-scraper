@@ -3246,10 +3246,63 @@ npcs {
   dcrush: 10
 }
 npcs {
-  ids: 516
   ids: 517
-  ids: 4331
   name: "Black Knight"
+  version: "Hostile, male"
+  hitpoints: 42
+  att: 25
+  str: 25
+  def: 25
+  mage: 1
+  range: 1
+  attbns: 18
+  strbns: 16
+  dstab: 73
+  dslash: 76
+  dcrush: 70
+  dmagic: -11
+  drange: 72
+}
+npcs {
+  ids: 11953
+  name: "Black Knight"
+  version: "Hostile, female"
+  hitpoints: 42
+  att: 25
+  str: 25
+  def: 25
+  mage: 1
+  range: 1
+  attbns: 18
+  strbns: 16
+  dstab: 73
+  dslash: 76
+  dcrush: 70
+  dmagic: -11
+  drange: 72
+}
+npcs {
+  ids: 516
+  name: "Black Knight"
+  version: "Passive, male"
+  hitpoints: 42
+  att: 25
+  str: 25
+  def: 25
+  mage: 1
+  range: 1
+  attbns: 18
+  strbns: 16
+  dstab: 73
+  dslash: 76
+  dcrush: 70
+  dmagic: -11
+  drange: 72
+}
+npcs {
+  ids: 11952
+  name: "Black Knight"
+  version: "Passive, female"
   hitpoints: 42
   att: 25
   str: 25
