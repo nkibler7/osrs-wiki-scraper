@@ -27286,7 +27286,7 @@ npcs {
   ids: 1798
   ids: 8149
   name: "White Knight"
-  version: "Initiate"
+  version: "Male initiate"
   hitpoints: 52
   att: 27
   str: 29
@@ -27304,7 +27304,7 @@ npcs {
 npcs {
   ids: 1799
   name: "White Knight"
-  version: "Proselyte"
+  version: "Male proselyte"
   hitpoints: 52
   att: 30
   str: 29
@@ -27322,7 +27322,7 @@ npcs {
 npcs {
   ids: 1800
   name: "White Knight"
-  version: "Acolyte"
+  version: "Male acolyte"
   hitpoints: 52
   att: 32
   str: 29
@@ -27340,7 +27340,80 @@ npcs {
 npcs {
   ids: 1829
   name: "White Knight"
-  version: "Partisan"
+  version: "Male partisan"
+  hitpoints: 55
+  att: 32
+  str: 35
+  def: 27
+  mage: 1
+  range: 1
+  attbns: 30
+  strbns: 31
+  dstab: 83
+  dslash: 76
+  dcrush: 70
+  dmagic: -11
+  drange: 85
+}
+npcs {
+  ids: 11892
+  ids: 11948
+  name: "White Knight"
+  version: "Female initiate"
+  hitpoints: 52
+  att: 27
+  str: 29
+  def: 21
+  mage: 1
+  range: 1
+  attbns: 30
+  strbns: 31
+  dstab: 83
+  dslash: 76
+  dcrush: 70
+  dmagic: -11
+  drange: 74
+}
+npcs {
+  ids: 11949
+  name: "White Knight"
+  version: "Female proselyte"
+  hitpoints: 52
+  att: 30
+  str: 29
+  def: 25
+  mage: 1
+  range: 1
+  attbns: 30
+  strbns: 31
+  dstab: 83
+  dslash: 76
+  dcrush: 70
+  dmagic: -11
+  drange: 74
+}
+npcs {
+  ids: 11950
+  name: "White Knight"
+  version: "Female acolyte"
+  hitpoints: 52
+  att: 32
+  str: 29
+  def: 27
+  mage: 1
+  range: 1
+  attbns: 30
+  strbns: 31
+  dstab: 83
+  dslash: 76
+  dcrush: 70
+  dmagic: -11
+  drange: 74
+}
+npcs {
+  ids: 11951
+  name: "White Knight"
+  version: "Female partisan"
   hitpoints: 55
   att: 32
   str: 35
