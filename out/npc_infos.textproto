@@ -14431,13 +14431,8 @@ npcs {
 }
 npcs {
   ids: 3297
-  ids: 8799
-  ids: 8800
-  ids: 8801
-  ids: 8854
-  ids: 8855
   name: "Knight of Ardougne"
-  version: "Ardougne"
+  version: "Male"
   hitpoints: 52
   att: 38
   str: 40
@@ -14453,36 +14448,58 @@ npcs {
   drange: 36
 }
 npcs {
-  ids: 8851
+  ids: 11936
   name: "Knight of Ardougne"
-  version: "Song of the Elves (lvl 27)"
-  hitpoints: 40
-  att: 16
-  str: 18
-  def: 14
+  version: "Female"
+  hitpoints: 52
+  att: 38
+  str: 40
+  def: 31
   mage: 1
   range: 1
-  dstab: 5
-  dslash: 25
-  dcrush: 25
-  dmagic: 15
-  drange: 5
+  attbns: 8
+  strbns: 10
+  dstab: 39
+  dslash: 40
+  dcrush: 36
+  dmagic: -11
+  drange: 36
 }
 npcs {
-  ids: 8852
+  ids: 8854
   name: "Knight of Ardougne"
-  version: "Song of the Elves (lvl 53)"
-  hitpoints: 54
-  att: 44
-  str: 52
-  def: 28
+  version: "West, male"
+  hitpoints: 52
+  att: 38
+  str: 40
+  def: 31
   mage: 1
   range: 1
-  dstab: 20
+  attbns: 8
+  strbns: 10
+  dstab: 39
   dslash: 40
-  dcrush: 40
-  dmagic: 30
-  drange: 20
+  dcrush: 36
+  dmagic: -11
+  drange: 36
+}
+npcs {
+  ids: 11902
+  name: "Knight of Ardougne"
+  version: "West, female"
+  hitpoints: 52
+  att: 38
+  str: 40
+  def: 31
+  mage: 1
+  range: 1
+  attbns: 8
+  strbns: 10
+  dstab: 39
+  dslash: 40
+  dcrush: 36
+  dmagic: -11
+  drange: 36
 }
 npcs {
   ids: 8851
