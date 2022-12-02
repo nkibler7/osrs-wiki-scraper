@@ -14485,6 +14485,38 @@ npcs {
   drange: 20
 }
 npcs {
+  ids: 8851
+  name: "Knight of Ardougne"
+  version: "Level 27"
+  hitpoints: 40
+  att: 16
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 25
+  dcrush: 25
+  dmagic: 15
+  drange: 5
+}
+npcs {
+  ids: 8852
+  name: "Knight of Ardougne"
+  version: "Level 53"
+  hitpoints: 54
+  att: 44
+  str: 52
+  def: 28
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 40
+  dcrush: 40
+  dmagic: 30
+  drange: 20
+}
+npcs {
   ids: 3300
   name: "Knight of Ardougne"
 }
