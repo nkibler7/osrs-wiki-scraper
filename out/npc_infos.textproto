@@ -17721,7 +17721,6 @@ npcs {
 }
 npcs {
   ids: 3293
-  ids: 3294
   name: "Paladin"
   version: "1"
   hitpoints: 57
@@ -17832,6 +17831,23 @@ npcs {
   ids: 11901
   name: "Paladin"
   version: "Female"
+  hitpoints: 57
+  att: 54
+  str: 54
+  def: 54
+  mage: 1
+  range: 1
+  attbns: 20
+  strbns: 22
+  dstab: 87
+  dslash: 84
+  dcrush: 76
+  dmagic: -10
+  drange: 79
+}
+npcs {
+  ids: 3294
+  name: "Paladin"
   hitpoints: 57
   att: 54
   str: 54
