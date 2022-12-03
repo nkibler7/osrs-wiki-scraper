@@ -17726,7 +17726,7 @@ npcs {
   ids: 8853
   name: "Paladin"
   version: "Ardougne"
-  hitpoints: 66
+  hitpoints: 57
   att: 54
   str: 54
   def: 54
