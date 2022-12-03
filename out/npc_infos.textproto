@@ -17722,10 +17722,8 @@ npcs {
 npcs {
   ids: 3293
   ids: 3294
-  ids: 8150
-  ids: 8853
   name: "Paladin"
-  version: "Ardougne"
+  version: "1"
   hitpoints: 57
   att: 54
   str: 54
@@ -17741,31 +17739,107 @@ npcs {
   drange: 79
 }
 npcs {
-  ids: 8849
+  ids: 11930
   name: "Paladin"
-  version: "Song of the Elves (lvl 49)"
-  hitpoints: 55
-  att: 134
-  str: 48
-  def: 28
+  version: "2"
+  hitpoints: 57
+  att: 54
+  str: 54
+  def: 54
   mage: 1
   range: 1
-  dstab: 20
-  dslash: 40
-  dcrush: 40
-  dmagic: 30
-  drange: 20
+  attbns: 20
+  strbns: 22
+  dstab: 87
+  dslash: 84
+  dcrush: 76
+  dmagic: -10
+  drange: 79
 }
 npcs {
-  ids: 8850
+  ids: 11931
   name: "Paladin"
-  version: "Song of the Elves (lvl 121)"
-  hitpoints: 82
+  version: "3"
+  hitpoints: 57
   att: 54
-  str: 126
-  def: 64
+  str: 54
+  def: 54
   mage: 1
   range: 1
+  attbns: 20
+  strbns: 22
+  dstab: 87
+  dslash: 84
+  dcrush: 76
+  dmagic: -10
+  drange: 79
+}
+npcs {
+  ids: 11932
+  name: "Paladin"
+  version: "4"
+  hitpoints: 57
+  att: 54
+  str: 54
+  def: 54
+  mage: 1
+  range: 1
+  attbns: 20
+  strbns: 22
+  dstab: 87
+  dslash: 84
+  dcrush: 76
+  dmagic: -10
+  drange: 79
+}
+npcs {
+  ids: 11933
+  name: "Paladin"
+  version: "5"
+  hitpoints: 57
+  att: 54
+  str: 54
+  def: 54
+  mage: 1
+  range: 1
+  attbns: 20
+  strbns: 22
+  dstab: 87
+  dslash: 84
+  dcrush: 76
+  dmagic: -10
+  drange: 79
+}
+npcs {
+  ids: 8853
+  name: "Paladin"
+  version: "Male"
+  hitpoints: 57
+  att: 54
+  str: 54
+  def: 54
+  mage: 1
+  range: 1
+  attbns: 20
+  strbns: 22
+  dstab: 87
+  dslash: 84
+  dcrush: 76
+  dmagic: -10
+  drange: 79
+}
+npcs {
+  ids: 11901
+  name: "Paladin"
+  version: "Female"
+  hitpoints: 57
+  att: 54
+  str: 54
+  def: 54
+  mage: 1
+  range: 1
+  attbns: 20
+  strbns: 22
   dstab: 87
   dslash: 84
   dcrush: 76
