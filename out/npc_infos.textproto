@@ -17863,6 +17863,38 @@ npcs {
   drange: 79
 }
 npcs {
+  ids: 8849
+  name: "Paladin"
+  version: "Level 49"
+  hitpoints: 55
+  att: 134
+  str: 48
+  def: 28
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 40
+  dcrush: 40
+  dmagic: 30
+  drange: 20
+}
+npcs {
+  ids: 8850
+  name: "Paladin"
+  version: "Level 121"
+  hitpoints: 82
+  att: 54
+  str: 126
+  def: 64
+  mage: 1
+  range: 1
+  dstab: 87
+  dslash: 84
+  dcrush: 76
+  dmagic: -10
+  drange: 79
+}
+npcs {
   ids: 3869
   name: "Palmer"
   hitpoints: 50
