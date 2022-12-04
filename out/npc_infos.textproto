@@ -25253,7 +25253,23 @@ npcs {
 npcs {
   ids: 530
   name: "Tribesman"
-  version: "Normal"
+  version: "Dark brown"
+  hitpoints: 39
+  att: 23
+  str: 27
+  def: 26
+  mage: 1
+  range: 1
+  attbns: 8
+  strbns: 5
+  dstab: 4
+  dslash: 6
+  dcrush: 6
+}
+npcs {
+  ids: 11954
+  name: "Tribesman"
+  version: "Light brown"
   hitpoints: 39
   att: 23
   str: 27
@@ -25270,7 +25286,6 @@ npcs {
   ids: 6406
   ids: 6407
   name: "Tribesman"
-  version: "Tai Bwo Wannai Cleanup"
   hitpoints: 39
   att: 23
   str: 27
