@@ -3595,8 +3595,7 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 269
-  ids: 5882
+  ids: 265
   name: "Blue dragon"
   version: "1"
   hitpoints: 105
@@ -3613,9 +3612,7 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
-  ids: 265
-  ids: 4385
-  ids: 5878
+  ids: 266
   name: "Blue dragon"
   version: "2"
   hitpoints: 105
@@ -3632,9 +3629,7 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
-  ids: 266
-  ids: 5879
-  ids: 8083
+  ids: 267
   name: "Blue dragon"
   version: "3"
   hitpoints: 105
@@ -3651,8 +3646,7 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
-  ids: 267
-  ids: 5880
+  ids: 268
   name: "Blue dragon"
   version: "4"
   hitpoints: 105
@@ -3669,10 +3663,94 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
-  ids: 268
-  ids: 5881
+  ids: 269
   name: "Blue dragon"
   version: "5"
+  hitpoints: 105
+  att: 95
+  str: 95
+  def: 95
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 5878
+  name: "Blue dragon"
+  version: "Task only, 1"
+  hitpoints: 105
+  att: 95
+  str: 95
+  def: 95
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 5879
+  name: "Blue dragon"
+  version: "Task only, 2"
+  hitpoints: 105
+  att: 95
+  str: 95
+  def: 95
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 5880
+  name: "Blue dragon"
+  version: "Task only, 3"
+  hitpoints: 105
+  att: 95
+  str: 95
+  def: 95
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 5881
+  name: "Blue dragon"
+  version: "Task only, 4"
+  hitpoints: 105
+  att: 95
+  str: 95
+  def: 95
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 5882
+  name: "Blue dragon"
+  version: "Task only, 5"
   hitpoints: 105
   att: 95
   str: 95
@@ -23618,11 +23696,26 @@ npcs {
 }
 npcs {
   ids: 274
-  ids: 275
-  ids: 8086
   name: "Steel dragon"
-  version: "Normal"
+  version: "Level 246"
   hitpoints: 210
+  att: 215
+  str: 215
+  def: 215
+  mage: 100
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 30
+  drange: 90
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 275
+  name: "Steel dragon"
+  version: "Level 246 (Task only)"
+  hitpoints: 250
   att: 215
   str: 215
   def: 215
@@ -23638,8 +23731,7 @@ npcs {
 npcs {
   ids: 7255
   name: "Steel dragon"
-  version: "Catacombs of Kourend"
-  hitpoints: 250
+  version: "Level 274"
   att: 235
   str: 235
   def: 235
