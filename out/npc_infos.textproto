@@ -24143,7 +24143,7 @@ npcs {
   ids: 275
   name: "Steel dragon"
   version: "Level 246 (Task only)"
-  hitpoints: 250
+  hitpoints: 210
   att: 215
   str: 215
   def: 215
@@ -24160,6 +24160,7 @@ npcs {
   ids: 7255
   name: "Steel dragon"
   version: "Level 274"
+  hitpoints: 250
   att: 235
   str: 235
   def: 235
