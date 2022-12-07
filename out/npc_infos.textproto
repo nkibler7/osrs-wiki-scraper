@@ -10948,7 +10948,61 @@ npcs {
 npcs {
   ids: 3254
   name: "Guard"
-  version: "Edgeville"
+  version: "E1"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 11922
+  name: "Guard"
+  version: "E2"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 11923
+  name: "Guard"
+  version: "E3"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 11924
+  name: "Guard"
+  version: "E4"
   hitpoints: 22
   att: 19
   str: 18
@@ -10966,7 +11020,61 @@ npcs {
 npcs {
   ids: 3269
   name: "Guard"
-  version: "Falador (sword)"
+  version: "Falador (sword, 1)"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 11942
+  name: "Guard"
+  version: "Falador (sword, 2)"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 11943
+  name: "Guard"
+  version: "Falador (sword, 3)"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 11944
+  name: "Guard"
+  version: "Falador (sword, 4)"
   hitpoints: 22
   att: 19
   str: 18
@@ -10984,7 +11092,26 @@ npcs {
 npcs {
   ids: 3270
   name: "Guard"
-  version: "Falador (crossbow)"
+  version: "Falador (crossbow, 1)"
+  hitpoints: 22
+  att: 15
+  str: 15
+  def: 16
+  mage: 1
+  range: 26
+  attbns: 6
+  strbns: 10
+  rngbns: 10
+  dstab: 13
+  dslash: 17
+  dcrush: 14
+  dmagic: -4
+  drange: 15
+}
+npcs {
+  ids: 11945
+  name: "Guard"
+  version: "Falador (crossbow, 2)"
   hitpoints: 22
   att: 15
   str: 15
@@ -11003,7 +11130,7 @@ npcs {
 npcs {
   ids: 3271
   name: "Guard"
-  version: "Falador (battleaxe)"
+  version: "Falador (battleaxe, 1)"
   hitpoints: 22
   att: 15
   str: 15
@@ -11019,11 +11146,27 @@ npcs {
   drange: 5
 }
 npcs {
-  ids: 3272
-  ids: 3273
-  ids: 3274
+  ids: 11946
   name: "Guard"
-  version: "Falador (longbow)"
+  version: "Falador (battleaxe, 2)"
+  hitpoints: 22
+  att: 15
+  str: 15
+  def: 16
+  mage: 1
+  range: 1
+  attbns: 6
+  strbns: 10
+  dstab: 5
+  dslash: 5
+  dcrush: 5
+  dmagic: -4
+  drange: 5
+}
+npcs {
+  ids: 11947
+  name: "Guard"
+  version: "Falador (longbow, 1)"
   hitpoints: 22
   att: 15
   str: 15
@@ -11039,15 +11182,15 @@ npcs {
   drange: 5
 }
 npcs {
-  ids: 3283
+  ids: 3273
   name: "Guard"
-  version: "Doric\'s hut"
+  version: "Falador (longbow, 2)"
   hitpoints: 22
   att: 15
   str: 15
-  def: 18
+  def: 16
   mage: 1
-  range: 1
+  range: 26
   attbns: 6
   strbns: 10
   dstab: 5
@@ -11057,10 +11200,135 @@ npcs {
   drange: 5
 }
 npcs {
-  ids: 3010
-  ids: 3011
+  ids: 3274
   name: "Guard"
-  version: "Varrock"
+  version: "Falador (longbow, 3)"
+  hitpoints: 22
+  att: 15
+  str: 15
+  def: 16
+  mage: 1
+  range: 26
+  attbns: 6
+  strbns: 10
+  dstab: 5
+  dslash: 5
+  dcrush: 5
+  dmagic: -4
+  drange: 5
+}
+npcs {
+  ids: 11911
+  name: "Guard"
+  version: "V1"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 24
+  dslash: 30
+  dcrush: 25
+  dmagic: -9
+  drange: 25
+}
+npcs {
+  ids: 11912
+  name: "Guard"
+  version: "V2"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 24
+  dslash: 30
+  dcrush: 25
+  dmagic: -9
+  drange: 25
+}
+npcs {
+  ids: 11913
+  name: "Guard"
+  version: "V3"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 24
+  dslash: 30
+  dcrush: 25
+  dmagic: -9
+  drange: 25
+}
+npcs {
+  ids: 11914
+  name: "Guard"
+  version: "V4"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 24
+  dslash: 30
+  dcrush: 25
+  dmagic: -9
+  drange: 25
+}
+npcs {
+  ids: 11915
+  name: "Guard"
+  version: "V5"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 24
+  dslash: 30
+  dcrush: 25
+  dmagic: -9
+  drange: 25
+}
+npcs {
+  ids: 11916
+  name: "Guard"
+  version: "V6"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 24
+  dslash: 30
+  dcrush: 25
+  dmagic: -9
+  drange: 25
+}
+npcs {
+  ids: 11917
+  name: "Guard"
+  version: "V7"
   hitpoints: 22
   att: 19
   str: 18
@@ -11078,7 +11346,7 @@ npcs {
 npcs {
   ids: 5418
   name: "Guard"
-  version: "East Ardougne"
+  version: "A1"
   hitpoints: 22
   att: 17
   str: 18
@@ -11094,26 +11362,58 @@ npcs {
   drange: 16
 }
 npcs {
-  ids: 1546
-  ids: 1547
-  ids: 1548
-  ids: 1549
-  ids: 1550
+  ids: 11937
   name: "Guard"
-  version: "Port Sarim"
+  version: "A2"
   hitpoints: 22
-  att: 19
+  att: 17
   str: 18
-  def: 14
+  def: 13
   mage: 1
   range: 1
-  attbns: 4
-  strbns: 5
-  dstab: 18
-  dslash: 25
+  attbns: 9
+  strbns: 7
+  dstab: 24
+  dslash: 14
   dcrush: 19
-  dmagic: -4
-  drange: 20
+  dmagic: 4
+  drange: 16
+}
+npcs {
+  ids: 11938
+  name: "Guard"
+  version: "A3"
+  hitpoints: 22
+  att: 17
+  str: 18
+  def: 13
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 7
+  dstab: 24
+  dslash: 14
+  dcrush: 19
+  dmagic: 4
+  drange: 16
+}
+npcs {
+  ids: 11939
+  name: "Guard"
+  version: "A4"
+  hitpoints: 22
+  att: 17
+  str: 18
+  def: 13
+  mage: 1
+  range: 1
+  attbns: 9
+  strbns: 7
+  dstab: 24
+  dslash: 14
+  dcrush: 19
+  dmagic: 4
+  drange: 16
 }
 npcs {
   ids: 4099
@@ -11522,6 +11822,23 @@ npcs {
   drange: 19
 }
 npcs {
+  ids: 3283
+  name: "Guard"
+  hitpoints: 22
+  att: 15
+  str: 15
+  def: 18
+  mage: 1
+  range: 1
+  attbns: 6
+  strbns: 10
+  dstab: 5
+  dslash: 5
+  dcrush: 5
+  dmagic: -4
+  drange: 5
+}
+npcs {
   ids: 5185
   ids: 5186
   ids: 5187
@@ -11596,6 +11913,96 @@ npcs {
   dcrush: 5
   dmagic: -4
   drange: 5
+}
+npcs {
+  ids: 1546
+  name: "Guard"
+  version: "1"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 1547
+  name: "Guard"
+  version: "2"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 1548
+  name: "Guard"
+  version: "3"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 1549
+  name: "Guard"
+  version: "4"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 1550
+  name: "Guard"
+  version: "5"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
 }
 npcs {
   ids: 9182
