@@ -7244,6 +7244,13 @@ npcs {
 npcs {
   ids: 5258
   name: "Duke"
+  hitpoints: 130
+  att: 130
+  str: 130
+  def: 130
+  mage: 130
+  range: 1
+  attbns: 50
   attributes: "(Optional)"
 }
 npcs {
@@ -18110,6 +18117,13 @@ npcs {
 npcs {
   ids: 5259
   name: "Oipuis"
+  hitpoints: 130
+  att: 130
+  str: 130
+  def: 130
+  mage: 130
+  range: 1
+  attbns: 50
 }
 npcs {
   ids: 2062
@@ -18172,6 +18186,13 @@ npcs {
 npcs {
   ids: 5261
   name: "Ouhai"
+  hitpoints: 130
+  att: 130
+  str: 130
+  def: 130
+  mage: 130
+  range: 1
+  attbns: 50
 }
 npcs {
   ids: 4167
@@ -26760,6 +26781,13 @@ npcs {
 npcs {
   ids: 5262
   name: "Uodai"
+  hitpoints: 130
+  att: 130
+  str: 130
+  def: 130
+  mage: 130
+  range: 1
+  attbns: 50
 }
 npcs {
   ids: 10589
@@ -26784,6 +26812,13 @@ npcs {
 npcs {
   ids: 5260
   name: "Uyoro"
+  hitpoints: 130
+  att: 130
+  str: 130
+  def: 130
+  mage: 130
+  range: 1
+  attbns: 50
 }
 npcs {
   ids: 3683
