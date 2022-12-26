@@ -10955,7 +10955,7 @@ npcs {
 npcs {
   ids: 3254
   name: "Guard"
-  version: "E1"
+  version: "Edgeville 1"
   hitpoints: 22
   att: 19
   str: 18
@@ -10973,7 +10973,7 @@ npcs {
 npcs {
   ids: 11922
   name: "Guard"
-  version: "E2"
+  version: "Edgeville 2"
   hitpoints: 22
   att: 19
   str: 18
@@ -10991,7 +10991,7 @@ npcs {
 npcs {
   ids: 11923
   name: "Guard"
-  version: "E3"
+  version: "Edgeville 3"
   hitpoints: 22
   att: 19
   str: 18
@@ -11009,7 +11009,7 @@ npcs {
 npcs {
   ids: 11924
   name: "Guard"
-  version: "E4"
+  version: "Edgeville 4"
   hitpoints: 22
   att: 19
   str: 18
@@ -11227,7 +11227,7 @@ npcs {
 npcs {
   ids: 11911
   name: "Guard"
-  version: "V1"
+  version: "Varrock 1"
   hitpoints: 22
   att: 19
   str: 18
@@ -11245,7 +11245,7 @@ npcs {
 npcs {
   ids: 11912
   name: "Guard"
-  version: "V2"
+  version: "Varrock 2"
   hitpoints: 22
   att: 19
   str: 18
@@ -11263,7 +11263,7 @@ npcs {
 npcs {
   ids: 11913
   name: "Guard"
-  version: "V3"
+  version: "Varrock 3"
   hitpoints: 22
   att: 19
   str: 18
@@ -11281,7 +11281,7 @@ npcs {
 npcs {
   ids: 11914
   name: "Guard"
-  version: "V4"
+  version: "Varrock 4"
   hitpoints: 22
   att: 19
   str: 18
@@ -11299,7 +11299,7 @@ npcs {
 npcs {
   ids: 11915
   name: "Guard"
-  version: "V5"
+  version: "Varrock 5"
   hitpoints: 22
   att: 19
   str: 18
@@ -11317,7 +11317,7 @@ npcs {
 npcs {
   ids: 11916
   name: "Guard"
-  version: "V6"
+  version: "Varrock 6"
   hitpoints: 22
   att: 19
   str: 18
@@ -11335,7 +11335,7 @@ npcs {
 npcs {
   ids: 11917
   name: "Guard"
-  version: "V7"
+  version: "Varrock 7"
   hitpoints: 22
   att: 19
   str: 18
@@ -11353,7 +11353,7 @@ npcs {
 npcs {
   ids: 5418
   name: "Guard"
-  version: "A1"
+  version: "Ardougne 1"
   hitpoints: 22
   att: 17
   str: 18
@@ -11371,7 +11371,7 @@ npcs {
 npcs {
   ids: 11937
   name: "Guard"
-  version: "A2"
+  version: "Ardougne 2"
   hitpoints: 22
   att: 17
   str: 18
@@ -11389,7 +11389,7 @@ npcs {
 npcs {
   ids: 11938
   name: "Guard"
-  version: "A3"
+  version: "Ardougne 3"
   hitpoints: 22
   att: 17
   str: 18
@@ -11407,7 +11407,7 @@ npcs {
 npcs {
   ids: 11939
   name: "Guard"
-  version: "A4"
+  version: "Ardougne 4"
   hitpoints: 22
   att: 17
   str: 18
