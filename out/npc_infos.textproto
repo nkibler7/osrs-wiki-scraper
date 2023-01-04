@@ -18474,6 +18474,7 @@ npcs {
   att: 26
   str: 26
   def: 25
+  mage: 1
   attributes: "penance"
 }
 npcs {
@@ -18484,6 +18485,7 @@ npcs {
   att: 28
   str: 29
   def: 27
+  mage: 1
   attributes: "penance"
 }
 npcs {
@@ -18494,6 +18496,7 @@ npcs {
   att: 33
   str: 32
   def: 34
+  mage: 1
   attributes: "penance"
 }
 npcs {
@@ -18504,6 +18507,7 @@ npcs {
   att: 36
   str: 38
   def: 37
+  mage: 1
   attributes: "penance"
 }
 npcs {
@@ -18514,6 +18518,7 @@ npcs {
   att: 41
   str: 43
   def: 44
+  mage: 1
   attributes: "penance"
 }
 npcs {
@@ -18524,6 +18529,7 @@ npcs {
   att: 50
   str: 48
   def: 48
+  mage: 1
   attributes: "penance"
 }
 npcs {
@@ -18534,6 +18540,7 @@ npcs {
   att: 56
   str: 55
   def: 52
+  mage: 1
   attributes: "penance"
 }
 npcs {
@@ -18544,6 +18551,7 @@ npcs {
   att: 60
   str: 61
   def: 62
+  mage: 1
   attributes: "penance"
 }
 npcs {
@@ -18554,6 +18562,7 @@ npcs {
   att: 71
   str: 73
   def: 66
+  mage: 1
   attributes: "penance"
 }
 npcs {
