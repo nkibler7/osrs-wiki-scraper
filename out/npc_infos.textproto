@@ -18904,16 +18904,52 @@ npcs {
   ids: 12080
   name: "Phantom Muspah"
   version: "Form 1"
+  hitpoints: 850
+  att: 280
+  str: 280
+  def: 200
+  mage: 150
+  range: 280
+  attbns: 393
+  strbns: 11
+  amagic: 280
+  mbns: 180
+  arange: 64
+  rngbns: 6
 }
 npcs {
   ids: 12078
   name: "Phantom Muspah"
   version: "Form 2"
+  hitpoints: 850
+  att: 280
+  str: 280
+  def: 200
+  mage: 150
+  range: 280
+  attbns: 393
+  strbns: 11
+  amagic: 280
+  mbns: 180
+  arange: 64
+  rngbns: 6
 }
 npcs {
   ids: 12079
   name: "Phantom Muspah"
   version: "Form 3"
+  hitpoints: 850
+  att: 280
+  str: 280
+  def: 200
+  mage: 150
+  range: 280
+  attbns: 393
+  strbns: 11
+  amagic: 280
+  mbns: 180
+  arange: 64
+  rngbns: 6
 }
 npcs {
   ids: 373
