@@ -18918,7 +18918,7 @@ npcs {
   ids: 12077
   ids: 12080
   name: "Phantom Muspah"
-  version: "Form 1"
+  version: "Ranged"
   hitpoints: 850
   att: 280
   str: 280
@@ -18935,7 +18935,7 @@ npcs {
 npcs {
   ids: 12078
   name: "Phantom Muspah"
-  version: "Form 2"
+  version: "Melee"
   hitpoints: 850
   att: 280
   str: 280
@@ -18952,7 +18952,7 @@ npcs {
 npcs {
   ids: 12079
   name: "Phantom Muspah"
-  version: "Form 3"
+  version: "Prayer Shield"
   hitpoints: 850
   att: 280
   str: 280
