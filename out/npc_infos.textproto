@@ -1397,6 +1397,21 @@ npcs {
   ids: 12061
   ids: 12062
   name: "Assassin"
+  hitpoints: 400
+  att: 140
+  str: 140
+  def: 140
+  mage: 140
+  range: 140
+  attbns: 66
+  strbns: 12
+  arange: 66
+  rngbns: 12
+  dstab: 60
+  dslash: 30
+  dcrush: 80
+  dmagic: 200
+  drange: 50
 }
 npcs {
   ids: 10940
@@ -24346,16 +24361,49 @@ npcs {
   ids: 12076
   name: "Strange Creature"
   version: "Form 1"
+  hitpoints: 550
+  att: 280
+  str: 280
+  def: 200
+  mage: 150
+  range: 280
+  attbns: 60
+  strbns: -10
+  amagic: 90
+  mbns: 66
+  rngbns: -10
 }
 npcs {
   ids: 12074
   name: "Strange Creature"
   version: "Form 2"
+  hitpoints: 550
+  att: 280
+  str: 280
+  def: 200
+  mage: 150
+  range: 280
+  attbns: 60
+  strbns: -10
+  amagic: 90
+  mbns: 66
+  rngbns: -10
 }
 npcs {
   ids: 12075
   name: "Strange Creature"
   version: "Form 3"
+  hitpoints: 550
+  att: 280
+  str: 280
+  def: 200
+  mage: 150
+  range: 280
+  attbns: 60
+  strbns: -10
+  amagic: 90
+  mbns: 66
+  rngbns: -10
 }
 npcs {
   ids: 685
