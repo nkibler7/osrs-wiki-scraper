@@ -8646,6 +8646,7 @@ npcs {
   dcrush: 10
   dmagic: 10
   drange: 10
+  attributes: "undead"
 }
 npcs {
   ids: 10525
@@ -8665,6 +8666,7 @@ npcs {
   dcrush: 10
   dmagic: 10
   drange: 10
+  attributes: "undead"
 }
 npcs {
   ids: 4773
