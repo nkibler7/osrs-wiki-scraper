@@ -24380,7 +24380,7 @@ npcs {
   ids: 12073
   ids: 12076
   name: "Strange Creature"
-  version: "Form 1"
+  version: "Ranged"
   hitpoints: 550
   att: 280
   str: 280
@@ -24396,7 +24396,7 @@ npcs {
 npcs {
   ids: 12074
   name: "Strange Creature"
-  version: "Form 2"
+  version: "Melee"
   hitpoints: 550
   att: 280
   str: 280
@@ -24412,7 +24412,7 @@ npcs {
 npcs {
   ids: 12075
   name: "Strange Creature"
-  version: "Form 3"
+  version: "Shielded"
   hitpoints: 550
   att: 280
   str: 280
