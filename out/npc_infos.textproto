@@ -9602,7 +9602,7 @@ npcs {
 }
 npcs {
   ids: 4799
-  name: "Giant lobster"
+  name: "Giant Lobster"
   hitpoints: 50
   att: 40
   str: 30
@@ -21780,7 +21780,6 @@ npcs {
   ids: 5144
   ids: 5145
   ids: 5146
-  ids: 5223
   ids: 5329
   name: "Sigmund"
   hitpoints: 70
@@ -29281,38 +29280,9 @@ npcs {
   attributes: "undead"
 }
 npcs {
-  ids: 64
-  ids: 65
-  ids: 66
-  ids: 67
-  ids: 68
-  name: "Zombie"
-  version: "Level 25"
-  hitpoints: 30
-  mage: 1
-  range: 1
-  attbns: 5
-  attributes: "undead"
-}
-npcs {
   ids: 2501
   ids: 2502
   ids: 2503
-  name: "Zombie"
-  version: "Level 30"
-  hitpoints: 30
-  att: 25
-  str: 29
-  def: 20
-  mage: 1
-  range: 1
-  attbns: 5
-  attributes: "undead"
-}
-npcs {
-  ids: 2504
-  ids: 2505
-  ids: 2506
   name: "Zombie"
   version: "Level 44"
   hitpoints: 40
@@ -29326,9 +29296,9 @@ npcs {
   attributes: "undead"
 }
 npcs {
-  ids: 2507
-  ids: 2508
-  ids: 2509
+  ids: 2504
+  ids: 2505
+  ids: 2506
   name: "Zombie"
   version: "Level 53"
   hitpoints: 50
@@ -29346,7 +29316,9 @@ npcs {
   attributes: "undead"
 }
 npcs {
-  ids: 7486
+  ids: 2507
+  ids: 2508
+  ids: 2509
   name: "Zombie"
   version: "Level 56"
   hitpoints: 50
@@ -29363,7 +29335,7 @@ npcs {
   attributes: "undead"
 }
 npcs {
-  ids: 7485
+  ids: 7486
   name: "Zombie"
   version: "Level 70"
   hitpoints: 65
@@ -29380,7 +29352,7 @@ npcs {
   attributes: "undead"
 }
 npcs {
-  ids: 7488
+  ids: 7485
   name: "Zombie"
   version: "Level 72"
   hitpoints: 68
@@ -29397,7 +29369,7 @@ npcs {
   attributes: "undead"
 }
 npcs {
-  ids: 7487
+  ids: 7488
   name: "Zombie"
   version: "Level 76"
   hitpoints: 71
@@ -29411,6 +29383,14 @@ npcs {
   dstab: 20
   dslash: 20
   drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 7487
+  name: "Zombie"
+  mage: 1
+  range: 1
+  attbns: 5
   attributes: "undead"
 }
 npcs {
