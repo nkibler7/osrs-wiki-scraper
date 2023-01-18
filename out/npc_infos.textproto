@@ -18977,6 +18977,99 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 12077
+  ids: 12080
+  name: "Phantom Muspah"
+  version: "Ranged"
+  hitpoints: 850
+  att: 280
+  str: 280
+  def: 200
+  mage: 150
+  range: 280
+  attbns: 393
+  strbns: 11
+  amagic: 280
+  mbns: 180
+  arange: 64
+  rngbns: 6
+  dstab: 185
+  dslash: 134
+  dcrush: 120
+  dmagic: 437
+  drange: 56
+  attributes: "spectral"
+}
+npcs {
+  ids: 12078
+  name: "Phantom Muspah"
+  version: "Melee"
+  hitpoints: 850
+  att: 280
+  str: 280
+  def: 200
+  mage: 150
+  range: 280
+  attbns: 393
+  strbns: 11
+  amagic: 280
+  mbns: 180
+  arange: 64
+  rngbns: 6
+  dstab: 185
+  dslash: 134
+  dcrush: 120
+  dmagic: 40
+  drange: 261
+  attributes: "spectral"
+}
+npcs {
+  ids: 12079
+  name: "Phantom Muspah"
+  version: "Shielded"
+  hitpoints: 75
+  att: 280
+  str: 280
+  def: 200
+  mage: 180
+  range: 336
+  attbns: 393
+  strbns: 11
+  amagic: 280
+  mbns: 180
+  arange: 64
+  rngbns: 6
+  dstab: 185
+  dslash: 134
+  dcrush: 120
+  dmagic: 437
+  drange: 56
+  attributes: "spectral"
+}
+npcs {
+  ids: 12080
+  name: "Phantom Muspah"
+  version: "Post-shield"
+  hitpoints: 850
+  att: 280
+  str: 280
+  def: 200
+  mage: 179
+  range: 335
+  attbns: 393
+  strbns: 11
+  amagic: 280
+  mbns: 180
+  arange: 64
+  rngbns: 6
+  dstab: 185
+  dslash: 134
+  dcrush: 120
+  dmagic: 437
+  drange: 56
+  attributes: "spectral"
+}
+npcs {
   ids: 373
   name: "Pheasant"
   version: "1 tail"
