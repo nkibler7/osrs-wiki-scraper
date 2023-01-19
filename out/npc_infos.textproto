@@ -24460,7 +24460,7 @@ npcs {
 }
 npcs {
   ids: 12073
-  ids: 12076
+  ids: 12081
   name: "Strange Creature"
   version: "Ranged"
   hitpoints: 550
@@ -24474,8 +24474,13 @@ npcs {
   amagic: 90
   mbns: 66
   rngbns: -10
+  dstab: 110
+  dslash: 90
+  dcrush: 80
+  dmagic: 280
 }
 npcs {
+  ids: 12063
   ids: 12074
   name: "Strange Creature"
   version: "Melee"
@@ -24490,22 +24495,51 @@ npcs {
   amagic: 90
   mbns: 66
   rngbns: -10
+  dstab: 110
+  dslash: 90
+  dcrush: 80
+  dmagic: -10
+  drange: 160
 }
 npcs {
   ids: 12075
   name: "Strange Creature"
   version: "Shielded"
-  hitpoints: 550
+  hitpoints: 75
   att: 280
   str: 280
   def: 200
-  mage: 150
-  range: 280
+  mage: 180
+  range: 336
   attbns: 60
   strbns: -10
   amagic: 90
   mbns: 66
   rngbns: -10
+  dstab: 110
+  dslash: 90
+  dcrush: 80
+  dmagic: 280
+}
+npcs {
+  ids: 12076
+  name: "Strange Creature"
+  version: "Post-shield"
+  hitpoints: 550
+  att: 280
+  str: 280
+  def: 200
+  mage: 179
+  range: 335
+  attbns: 60
+  strbns: -10
+  amagic: 90
+  mbns: 66
+  rngbns: -10
+  dstab: 110
+  dslash: 90
+  dcrush: 80
+  dmagic: 280
 }
 npcs {
   ids: 685
