@@ -7846,7 +7846,8 @@ npcs {
 npcs {
   ids: 6624
   name: "Energy sprite"
-  hitpoints: 62
+  hitpoints: 60
+  def: 1
 }
 npcs {
   ids: 5534
@@ -25459,6 +25460,9 @@ npcs {
   ids: 2115
   name: "Thing under the bed"
   hitpoints: 25
+  att: 1
+  str: 1
+  def: 5
 }
 npcs {
   ids: 8637
