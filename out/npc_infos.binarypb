@@ -2050,8 +2050,10 @@ Brown hair <( 0 8'P	XÄàêò˝ˇˇˇˇˇˇˇˇ†
 ÷VÿV⁄V‹VﬁV‡V‚VGuard (08@HP	XÄàêò†
 1
 ÉGuard Bandit (08@HPXÄàêò†
-
-r©8	Guard dog 1(#0$8%@H
+"
+r	Guard dogNormal 1(#0$8%@H
+%
+©8	Guard dogHosidius 1(#0$8%@H
 
 É	Guard dog 1(#0$8%@H
 E
@@ -2247,11 +2249,14 @@ E
 ø-Ice troll runt	Variant 2 <(<0F8F@HP<X<Äà<ê
 8
 ƒ-Ice troll runt	Variant 3 <(<0F8F@HP<X<Äà<ê
-6
-ôöIce warriorNormal ;(/0/8/@HÄà(êò
+4
+ôIce warriorNormal ;(/0/8/@HÄà(êò
 †
->
-£Ice warriorIce Queen's Lair ;(/0/8/@HÄà(êò
+B
+öIce warriorAsgarnia Ice Dungeon ;(/0/8/@HÄà(êò
+†
+,
+£Ice warrior ;(/0/8/@HÄà(êò
 †
 &
 ÖÜIce wolfLevel 96 F(d0Z8F@H
@@ -4151,9 +4156,15 @@ Terror dog	Level 100 R(d0Z8J@HX
 )
 …2
 Terror dog	Level 110 W(n0h8N@HX
- 
-êëí
-Terrorbird "(08@H
+
+ê
+Terrorbird1 "(08@H
+
+ë
+Terrorbird2 "(08@H
+
+í
+Terrorbird3 "(08@H
 7
 “The Draugen <(<0<8<@HÄdàdêdòÙ†Ù™undead
 .

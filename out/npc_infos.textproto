@@ -12322,8 +12322,19 @@ npcs {
 }
 npcs {
   ids: 114
+  name: "Guard dog"
+  version: "Normal"
+  hitpoints: 49
+  att: 35
+  str: 36
+  def: 37
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 7209
   name: "Guard dog"
+  version: "Hosidius"
   hitpoints: 49
   att: 35
   str: 36
@@ -13537,7 +13548,6 @@ npcs {
 }
 npcs {
   ids: 2841
-  ids: 2842
   name: "Ice warrior"
   version: "Normal"
   hitpoints: 59
@@ -13553,9 +13563,24 @@ npcs {
   drange: 30
 }
 npcs {
+  ids: 2842
+  name: "Ice warrior"
+  version: "Asgarnia Ice Dungeon"
+  hitpoints: 59
+  att: 47
+  str: 47
+  def: 47
+  mage: 1
+  range: 1
+  dstab: 30
+  dslash: 40
+  dcrush: 20
+  dmagic: 10
+  drange: 30
+}
+npcs {
   ids: 2851
   name: "Ice warrior"
-  version: "Ice Queen\'s Lair"
   hitpoints: 59
   att: 47
   str: 47
@@ -25098,9 +25123,30 @@ npcs {
 }
 npcs {
   ids: 2064
+  name: "Terrorbird"
+  version: "1"
+  hitpoints: 34
+  att: 23
+  str: 23
+  def: 19
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 2065
+  name: "Terrorbird"
+  version: "2"
+  hitpoints: 34
+  att: 23
+  str: 23
+  def: 19
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 2066
   name: "Terrorbird"
+  version: "3"
   hitpoints: 34
   att: 23
   str: 23
