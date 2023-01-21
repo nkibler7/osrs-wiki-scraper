@@ -10651,6 +10651,10 @@ npcs {
   hitpoints: 14
 }
 npcs {
+  ids: 2836
+  name: "Golem"
+}
+npcs {
   ids: 4367
   name: "Gorad"
   hitpoints: 80
