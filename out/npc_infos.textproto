@@ -9869,8 +9869,20 @@ npcs {
 }
 npcs {
   ids: 680
+  name: "Giant skeleton"
+  version: "1"
+  hitpoints: 70
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
   ids: 681
   name: "Giant skeleton"
+  version: "2"
   hitpoints: 70
   att: 70
   str: 70
