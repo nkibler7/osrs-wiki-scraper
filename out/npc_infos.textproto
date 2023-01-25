@@ -1296,6 +1296,8 @@ npcs {
   def: 150
   mage: 1
   range: 120
+  arange: 60
+  rngbns: 18
   dstab: 125
   dslash: 110
   dcrush: 110
