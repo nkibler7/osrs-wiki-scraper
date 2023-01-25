@@ -24064,6 +24064,7 @@ npcs {
 npcs {
   ids: 11998
   name: "Spindel"
+  hitpoints: 515
   att: 200
   str: 130
   def: 225
