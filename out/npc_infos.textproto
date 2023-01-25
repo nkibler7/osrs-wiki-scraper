@@ -4286,15 +4286,14 @@ npcs {
   name: "Callisto"
   hitpoints: 255
   att: 350
-  str: 370
-  def: 440
+  str: 300
+  def: 225
   mage: 1
   range: 1
-  dstab: 135
-  dslash: 104
-  dcrush: 175
-  dmagic: 900
-  drange: 230
+  dstab: 150
+  dslash: 130
+  dcrush: 125
+  drange: 50
 }
 npcs {
   ids: 11995
