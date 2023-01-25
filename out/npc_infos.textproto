@@ -23056,6 +23056,17 @@ npcs {
 npcs {
   ids: 12107
   name: "Skeleton Hellhound"
+  hitpoints: 30
+  att: 110
+  str: 150
+  def: 95
+  mage: 1
+  range: 1
+  dstab: 76
+  dslash: 73
+  dcrush: 10
+  dmagic: 126
+  drange: 155
 }
 npcs {
   ids: 6613
