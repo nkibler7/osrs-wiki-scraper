@@ -1290,6 +1290,16 @@ npcs {
 npcs {
   ids: 11992
   name: "Artio"
+  hitpoints: 450
+  att: 250
+  str: 270
+  def: 150
+  mage: 1
+  range: 120
+  dstab: 125
+  dslash: 110
+  dcrush: 110
+  drange: 40
 }
 npcs {
   ids: 1233
@@ -4288,11 +4298,33 @@ npcs {
   ids: 11995
   name: "Calvar\'ion"
   version: "Normal"
+  hitpoints: 150
+  att: 250
+  str: 250
+  def: 225
+  mage: 178
+  range: 1
+  dstab: 130
+  dslash: 128
+  dcrush: -10
+  dmagic: 198
+  drange: 211
 }
 npcs {
   ids: 11994
   name: "Calvar\'ion"
   version: "Reborn"
+  hitpoints: 150
+  att: 250
+  str: 250
+  def: 225
+  mage: 178
+  range: 1
+  dstab: 130
+  dslash: 128
+  dcrush: -10
+  dmagic: 198
+  drange: 211
 }
 npcs {
   ids: 1383
@@ -24032,6 +24064,16 @@ npcs {
 npcs {
   ids: 11998
   name: "Spindel"
+  att: 200
+  str: 130
+  def: 225
+  mage: 235
+  range: 286
+  dstab: 70
+  dslash: 70
+  dcrush: 10
+  dmagic: 205
+  drange: 103
 }
 npcs {
   ids: 12001
