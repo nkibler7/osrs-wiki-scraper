@@ -1288,6 +1288,10 @@ npcs {
   drange: 200
 }
 npcs {
+  ids: 11992
+  name: "Artio"
+}
+npcs {
   ids: 1233
   name: "Arzinian Avatar of Magic"
   version: "Invincible"
@@ -4266,8 +4270,8 @@ npcs {
 }
 npcs {
   ids: 6503
+  ids: 6609
   name: "Callisto"
-  version: "Normal"
   hitpoints: 255
   att: 350
   str: 370
@@ -4281,20 +4285,14 @@ npcs {
   drange: 230
 }
 npcs {
-  ids: 6609
-  name: "Callisto"
-  version: "PvM Arena"
-  hitpoints: 255
-  att: 350
-  str: 370
-  def: 440
-  mage: 1
-  range: 1
-  dstab: 135
-  dslash: 104
-  dcrush: 175
-  dmagic: 900
-  drange: 230
+  ids: 11995
+  name: "Calvar\'ion"
+  version: "Normal"
+}
+npcs {
+  ids: 11994
+  name: "Calvar\'ion"
+  version: "Reborn"
 }
 npcs {
   ids: 1383
@@ -10937,6 +10935,10 @@ npcs {
   dcrush: 50
   drange: 50
   attributes: "demon"
+}
+npcs {
+  ids: 12108
+  name: "Greater Skeleton Hellhound"
 }
 npcs {
   ids: 6614
@@ -23019,6 +23021,10 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  ids: 12107
+  name: "Skeleton Hellhound"
+}
+npcs {
   ids: 6613
   name: "Skeleton Hellhound"
   hitpoints: 110
@@ -24022,6 +24028,14 @@ npcs {
   dslash: 40
   dcrush: 40
   attributes: "leafy"
+}
+npcs {
+  ids: 11998
+  name: "Spindel"
+}
+npcs {
+  ids: 12001
+  name: "Spindel\'s Spiderling"
 }
 npcs {
   ids: 1709
@@ -27598,8 +27612,8 @@ npcs {
 }
 npcs {
   ids: 6504
+  ids: 6610
   name: "Venenatis"
-  version: "Normal"
   hitpoints: 255
   att: 470
   str: 490
@@ -27613,20 +27627,8 @@ npcs {
   drange: 100
 }
 npcs {
-  ids: 6610
-  name: "Venenatis"
-  version: "PvM Arena"
-  hitpoints: 255
-  att: 470
-  str: 490
-  def: 490
-  mage: 150
-  range: 1
-  dstab: 260
-  dslash: 260
-  dcrush: 260
-  dmagic: 850
-  drange: 100
+  ids: 12000
+  name: "Venenatis\' Spiderling"
 }
 npcs {
   ids: 2630
@@ -27798,7 +27800,7 @@ npcs {
 }
 npcs {
   ids: 6612
-  name: "Vet\'ion Reborn"
+  name: "Vet\'ion"
   version: "Reborn"
   hitpoints: 255
   att: 430
