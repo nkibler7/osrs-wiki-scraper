@@ -27664,11 +27664,11 @@ npcs {
   def: 321
   mage: 300
   range: 350
-  dstab: 260
-  dslash: 260
-  dcrush: 260
-  dmagic: 850
-  drange: 100
+  dstab: 100
+  dslash: 100
+  dcrush: 10
+  dmagic: 300
+  drange: 150
 }
 npcs {
   ids: 12000
