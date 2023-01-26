@@ -11099,6 +11099,16 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 11989
+  name: "Grizzly bear"
+  hitpoints: 75
+  att: 72
+  str: 72
+  def: 72
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 3424
   name: "Grizzly bear cub"
   version: "Level 33"
@@ -19514,6 +19524,23 @@ npcs {
   def: 52
   mage: 1
   range: 1
+  dstab: 20
+  dslash: 17
+  dcrush: 10
+  dmagic: 14
+  drange: 14
+}
+npcs {
+  ids: 11990
+  name: "Poison spider"
+  hitpoints: 73
+  att: 1
+  str: 1
+  def: 35
+  mage: 1
+  range: 45
+  arange: 63
+  rngbns: 35
   dstab: 20
   dslash: 17
   dcrush: 10
