@@ -4284,12 +4284,14 @@ npcs {
   ids: 6503
   ids: 6609
   name: "Callisto"
-  hitpoints: 255
+  hitpoints: 1000
   att: 350
   str: 300
   def: 225
   mage: 1
-  range: 1
+  range: 200
+  arange: 100
+  rngbns: 30
   dstab: 150
   dslash: 130
   dcrush: 125
@@ -4314,7 +4316,7 @@ npcs {
 npcs {
   ids: 11994
   name: "Calvar\'ion"
-  version: "Reborn"
+  version: "Enraged"
   hitpoints: 150
   att: 250
   str: 250
@@ -10972,6 +10974,17 @@ npcs {
 npcs {
   ids: 12108
   name: "Greater Skeleton Hellhound"
+  hitpoints: 30
+  att: 150
+  str: 170
+  def: 110
+  mage: 1
+  range: 1
+  dstab: 95
+  dslash: 101
+  dcrush: 15
+  dmagic: 156
+  drange: 184
 }
 npcs {
   ids: 6614
@@ -24091,6 +24104,12 @@ npcs {
 npcs {
   ids: 12001
   name: "Spindel\'s Spiderling"
+  hitpoints: 5
+  att: 15
+  str: 20
+  def: 1
+  mage: 10
+  range: 20
 }
 npcs {
   ids: 1709
@@ -27684,6 +27703,12 @@ npcs {
 npcs {
   ids: 12000
   name: "Venenatis\' Spiderling"
+  hitpoints: 5
+  att: 15
+  str: 20
+  def: 1
+  mage: 10
+  range: 20
 }
 npcs {
   ids: 2630
