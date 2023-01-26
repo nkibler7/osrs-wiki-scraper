@@ -10990,9 +10990,9 @@ npcs {
   ids: 6614
   name: "Greater Skeleton Hellhound"
   hitpoints: 190
-  att: 240
-  str: 310
-  def: 220
+  att: 228
+  str: 295
+  def: 180
   mage: 1
   range: 1
   dstab: 150
@@ -27881,7 +27881,7 @@ npcs {
 npcs {
   ids: 6612
   name: "Vet\'ion"
-  version: "Reborn"
+  version: "Enraged"
   hitpoints: 255
   att: 430
   str: 430
