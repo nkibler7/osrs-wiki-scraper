@@ -28540,27 +28540,236 @@ npcs {
 }
 npcs {
   ids: 2593
+  name: "Werewolf"
+  version: "Boris"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  dmagic: 60
+}
+npcs {
   ids: 2594
+  name: "Werewolf"
+  version: "Imre"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  dmagic: 60
+}
+npcs {
   ids: 2595
+  name: "Werewolf"
+  version: "Yuri"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  dmagic: 60
+}
+npcs {
   ids: 2596
+  name: "Werewolf"
+  version: "Joseph"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  dmagic: 60
+}
+npcs {
   ids: 2597
+  name: "Werewolf"
+  version: "Nikolai"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  dmagic: 60
+}
+npcs {
   ids: 2598
+  name: "Werewolf"
+  version: "Eduard"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  dmagic: 60
+}
+npcs {
   ids: 2599
+  name: "Werewolf"
+  version: "Lev"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  dmagic: 60
+}
+npcs {
   ids: 2600
+  name: "Werewolf"
+  version: "Georgy"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  dmagic: 60
+}
+npcs {
   ids: 2601
+  name: "Werewolf"
+  version: "Svetlana"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  dmagic: 60
+}
+npcs {
   ids: 2602
+  name: "Werewolf"
+  version: "Irina"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  dmagic: 60
+}
+npcs {
   ids: 2603
+  name: "Werewolf"
+  version: "Alexis"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  dmagic: 60
+}
+npcs {
   ids: 2604
+  name: "Werewolf"
+  version: "Milla"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  dmagic: 60
+}
+npcs {
   ids: 2605
+  name: "Werewolf"
+  version: "Galina"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  dmagic: 60
+}
+npcs {
   ids: 2606
+  name: "Werewolf"
+  version: "Sofiya"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  dmagic: 60
+}
+npcs {
   ids: 2607
+  name: "Werewolf"
+  version: "Ksenia"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  dmagic: 60
+}
+npcs {
   ids: 2608
+  name: "Werewolf"
+  version: "Yadviga"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  dmagic: 60
+}
+npcs {
   ids: 2609
+  name: "Werewolf"
+  version: "Nikita"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  dmagic: 60
+}
+npcs {
   ids: 2610
+  name: "Werewolf"
+  version: "Vera"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  dmagic: 60
+}
+npcs {
   ids: 2611
+  name: "Werewolf"
+  version: "Zoja"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  dmagic: 60
+}
+npcs {
   ids: 2612
   name: "Werewolf"
-  version: "Level 88"
+  version: "Liliya"
   hitpoints: 100
   att: 70
   str: 70
@@ -28571,9 +28780,24 @@ npcs {
 }
 npcs {
   ids: 3135
+  name: "Werewolf"
+  version: "God Wars Dungeon (1)"
+  hitpoints: 92
+  att: 77
+  str: 76
+  def: 85
+  mage: 1
+  range: 1
+  dstab: -21
+  dslash: -21
+  dcrush: -21
+  dmagic: -21
+  drange: -21
+}
+npcs {
   ids: 3136
   name: "Werewolf"
-  version: "Level 93"
+  version: "God Wars Dungeon (2)"
   hitpoints: 92
   att: 77
   str: 76
