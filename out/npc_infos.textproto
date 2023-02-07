@@ -10770,8 +10770,8 @@ npcs {
   dstab: 50
   dslash: 50
   dcrush: 50
-  dmagic: 50
-  drange: 50
+  dmagic: 200
+  drange: 200
   attributes: "dragon,xerician"
 }
 npcs {
@@ -10827,8 +10827,8 @@ npcs {
   dstab: 50
   dslash: 50
   dcrush: 50
-  dmagic: 50
-  drange: 50
+  dmagic: 200
+  drange: 200
   attributes: "dragon,xerician"
 }
 npcs {
