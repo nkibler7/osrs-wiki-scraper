@@ -19212,6 +19212,29 @@ npcs {
   attributes: "spectral"
 }
 npcs {
+  ids: 12082
+  name: "Phantom Muspah"
+  version: "Teleporting"
+  hitpoints: 850
+  att: 280
+  str: 280
+  def: 200
+  mage: 150
+  range: 280
+  attbns: 393
+  strbns: 11
+  amagic: 280
+  mbns: 180
+  arange: 64
+  rngbns: 6
+  dstab: 185
+  dslash: 134
+  dcrush: 120
+  dmagic: 437
+  drange: 56
+  attributes: "spectral"
+}
+npcs {
   ids: 12079
   name: "Phantom Muspah"
   version: "Shielded"
