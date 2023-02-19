@@ -21350,7 +21350,7 @@ npcs {
 }
 npcs {
   ids: 799
-  name: "Scarab mage"
+  name: "Scarab Mage"
   version: "Level 66 (Quest)"
   hitpoints: 50
   att: 90
@@ -21367,7 +21367,7 @@ npcs {
 }
 npcs {
   ids: 794
-  name: "Scarab mage"
+  name: "Scarab Mage"
   version: "Level 93"
   hitpoints: 50
   att: 90
@@ -21386,7 +21386,7 @@ npcs {
 }
 npcs {
   ids: 11508
-  name: "Scarab mage"
+  name: "Scarab Mage"
   version: "Level 119 (Quest)"
   hitpoints: 120
   att: 1
