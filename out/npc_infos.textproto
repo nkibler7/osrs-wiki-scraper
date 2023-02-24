@@ -632,7 +632,6 @@ npcs {
   drange: -21
 }
 npcs {
-  ids: 1204
   name: "Alomone"
   hitpoints: 25
   att: 10
