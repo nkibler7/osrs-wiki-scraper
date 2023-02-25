@@ -12639,6 +12639,21 @@ npcs {
 npcs {
   ids: 1207
   name: "Hazeel Cultist"
+  version: "Male"
+  hitpoints: 25
+  att: 10
+  str: 10
+  def: 4
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 6
+  dcrush: 8
+}
+npcs {
+  ids: 12096
+  name: "Hazeel Cultist"
+  version: "Female"
   hitpoints: 25
   att: 10
   str: 10
