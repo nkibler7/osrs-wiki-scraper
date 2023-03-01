@@ -19165,7 +19165,6 @@ npcs {
 }
 npcs {
   ids: 12077
-  ids: 12080
   name: "Phantom Muspah"
   version: "Ranged"
   hitpoints: 850
