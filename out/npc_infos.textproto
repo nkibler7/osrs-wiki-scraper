@@ -14415,16 +14415,6 @@ npcs {
   drange: -21
 }
 npcs {
-  ids: 4863
-  name: "Jubbly bird"
-  hitpoints: 20
-  att: 5
-  str: 5
-  def: 6
-  mage: 1
-  range: 1
-}
-npcs {
   ids: 3604
   name: "Jubster"
   hitpoints: 60
