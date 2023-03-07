@@ -535,7 +535,7 @@ npcs {
 npcs {
   ids: 8615
   name: "Alchemical Hydra"
-  version: "Five heads"
+  version: "Serpentine"
   hitpoints: 1100
   att: 100
   str: 100
@@ -556,7 +556,7 @@ npcs {
 npcs {
   ids: 8619
   name: "Alchemical Hydra"
-  version: "Four heads"
+  version: "Electric"
   hitpoints: 1100
   att: 100
   str: 100
@@ -577,7 +577,7 @@ npcs {
 npcs {
   ids: 8620
   name: "Alchemical Hydra"
-  version: "Three heads"
+  version: "Fire"
   hitpoints: 1100
   att: 100
   str: 100
@@ -598,7 +598,7 @@ npcs {
 npcs {
   ids: 8621
   name: "Alchemical Hydra"
-  version: "Two heads"
+  version: "Extinguished"
   hitpoints: 1100
   att: 100
   str: 100
