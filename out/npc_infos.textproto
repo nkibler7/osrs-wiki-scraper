@@ -20751,7 +20751,7 @@ npcs {
 }
 npcs {
   ids: 11246
-  name: "Revenant Maledictus"
+  name: "Revenant maledictus"
   hitpoints: 1250
   att: 106
   str: 126
