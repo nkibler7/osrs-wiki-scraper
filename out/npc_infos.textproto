@@ -11627,6 +11627,10 @@ npcs {
   drange: 16
 }
 npcs {
+  ids: 5141
+  name: "Guard"
+}
+npcs {
   ids: 4099
   name: "Guard"
   version: "Black beard"
@@ -11946,6 +11950,10 @@ npcs {
   dslash: 9
   dcrush: 7
   drange: 8
+}
+npcs {
+  ids: 995
+  name: "Guard"
 }
 npcs {
   ids: 4660
