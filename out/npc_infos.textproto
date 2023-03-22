@@ -21646,7 +21646,7 @@ npcs {
   dslash: 13
   dcrush: 13
   drange: 13
-  attributes: "undead"
+  attributes: "undead, spectral"
 }
 npcs {
   ids: 7391
@@ -21661,7 +21661,7 @@ npcs {
   dslash: 25
   dcrush: 25
   drange: 25
-  attributes: "undead"
+  attributes: "undead, spectral"
 }
 npcs {
   ids: 1098
