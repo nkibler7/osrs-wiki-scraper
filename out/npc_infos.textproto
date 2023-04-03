@@ -4297,7 +4297,7 @@ npcs {
   drange: 50
 }
 npcs {
-  ids: 11995
+  ids: 11993
   name: "Calvar\'ion"
   version: "Normal"
   hitpoints: 150
