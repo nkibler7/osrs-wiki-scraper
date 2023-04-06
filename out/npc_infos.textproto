@@ -25242,6 +25242,11 @@ npcs {
   drange: 20
 }
 npcs {
+  ids: 5912
+  name: "Tentacle"
+  attributes: "Demon"
+}
+npcs {
   ids: 5643
   ids: 5646
   name: "Tentacle"
