@@ -254,9 +254,9 @@ B
 „
 
 Asyn ShadeShade Z(f0T8Fªshade,undead,spectral
-9
+3
 ƒ
-Asyn ShadowShadow Z(f0T8Fªshade,undead,spectral
+Asyn ShadowShadow Z(f0T8Fªundead,spectral
 0
 €,Asyn shadow ^(n0`8P@2H2ªundead, spectral
 9
@@ -1472,9 +1472,9 @@ M
 †
 
 Fiyr ShadeShade n(x0d8Uªshade,undead,spectral
-9
+3
 …
-Fiyr ShadowShadow n(x0d8Uªshade,undead,spectral
+Fiyr ShadowShadow n(x0d8Uªundead,spectral
 6
 ‘&â1FlambeedNormal Ò(x0x8K@HPd€2ˆ2˜ 2
 ;
@@ -2663,9 +2663,9 @@ T
 •;–;Lizardman shamanNormal ¾(‚0‚8Ò@‚H‚P:X4p8x1€fˆ –˜ ªxerician
 \
 •;–;Lizardman shamanChallenge Mode (Ã0Ã8»@ÃHÃP:X4p8x1€fˆ –˜ ªxerician
-7
+1
 ı	
-Loar ShadeShade &(-08ªshade,undead,spectral
+Loar ShadeShade &(-08ªundead,spectral
 9
 ü	Loar ShadowShadow &(-08ªshade,undead,spectral
 ,
@@ -3229,8 +3229,8 @@ c
 8
 €
 Phrin ShadeShade 8(@0/8*ªshade,undead,spectral
-:
-ÿ	Phrin ShadowShadow 8(@0/8*ªshade,undead,spectral
+4
+ÿ	Phrin ShadowShadow 8(@0/8*ªundead,spectral
 /
 ŠÒ6Pirate	Brimhaven (08@HPX
 €ˆ
@@ -3484,9 +3484,9 @@ F
 ‚
 
 Riyl ShadeShade L(X078<ªshade,undead,spectral
-9
+3
 
-Riyl ShadowShadow L(X078<ªshade,undead,spectral
+Riyl ShadowShadow L(X078<ªundead,spectral
 0
 ÿ+Riyl shadow L(W088<@2H2ªundead, spectral
 8
@@ -4555,8 +4555,8 @@ Undead oneLevel 73 ;(A0A8APXªundead
 )Uodai ‚(‚0‚8‚@‚HP2
 :
 İRUrium ShadeShade ‚(Š0t8dªshade,undead,spectral
-<
-ÿ/Urium ShadowShadow ‚(Š0t8dªshade,undead,spectral
+6
+ÿ/Urium ShadowShadow ‚(Š0t8dªundead,spectral
 
 Œ)Uyoro ‚(‚0‚8‚@‚HP2
 U

@@ -1476,7 +1476,7 @@ npcs {
   att: 102
   str: 84
   def: 70
-  attributes: "shade,undead,spectral"
+  attributes: "undead,spectral"
 }
 npcs {
   ids: 5632
@@ -8524,7 +8524,7 @@ npcs {
   att: 120
   str: 100
   def: 85
-  attributes: "shade,undead,spectral"
+  attributes: "undead,spectral"
 }
 npcs {
   ids: 4881
@@ -15966,7 +15966,7 @@ npcs {
   att: 45
   str: 30
   def: 26
-  attributes: "shade,undead,spectral"
+  attributes: "undead,spectral"
 }
 npcs {
   ids: 1276
@@ -19374,7 +19374,7 @@ npcs {
   att: 64
   str: 47
   def: 42
-  attributes: "shade,undead,spectral"
+  attributes: "undead,spectral"
 }
 npcs {
   ids: 522
@@ -20898,7 +20898,7 @@ npcs {
   att: 88
   str: 55
   def: 60
-  attributes: "shade,undead,spectral"
+  attributes: "undead,spectral"
 }
 npcs {
   ids: 5631
@@ -27389,7 +27389,7 @@ npcs {
   att: 138
   str: 116
   def: 100
-  attributes: "shade,undead,spectral"
+  attributes: "undead,spectral"
 }
 npcs {
   ids: 5260
