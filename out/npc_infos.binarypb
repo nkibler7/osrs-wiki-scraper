@@ -1252,13 +1252,18 @@ l
 *
 Š)Duke ‚(‚0‚8‚@‚HP2ª
 (Optional)
-(
-—˜™Dungeon ratSmall (
+!
+—˜™Dungeon rat (
 0
 8
 @H
-(
-±²³Dungeon ratLarge (
+0
+±Dungeon ratDoesn't drop tail (
+0
+8
+@H
+)
+²³Dungeon ratStandard (
 0
 8
 @H

@@ -7388,7 +7388,6 @@ npcs {
   ids: 3608
   ids: 3609
   name: "Dungeon rat"
-  version: "Small"
   hitpoints: 12
   att: 10
   str: 10
@@ -7398,10 +7397,20 @@ npcs {
 }
 npcs {
   ids: 2865
+  name: "Dungeon rat"
+  version: "Doesn\'t drop tail"
+  hitpoints: 12
+  att: 10
+  str: 10
+  def: 10
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 2866
   ids: 2867
   name: "Dungeon rat"
-  version: "Large"
+  version: "Standard"
   hitpoints: 12
   att: 10
   str: 10
