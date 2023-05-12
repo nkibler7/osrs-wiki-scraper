@@ -22509,7 +22509,6 @@ npcs {
   ids: 71
   ids: 72
   ids: 73
-  ids: 7265
   name: "Skeleton"
   version: "Level 22"
   hitpoints: 29
@@ -22695,6 +22694,21 @@ npcs {
   att: 72
   str: 72
   def: 72
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: -5
+  drange: 5
+  attributes: "undead"
+}
+npcs {
+  ids: 7265
+  name: "Skeleton"
+  hitpoints: 29
+  att: 15
+  str: 18
+  def: 17
   mage: 1
   range: 1
   dstab: 5
