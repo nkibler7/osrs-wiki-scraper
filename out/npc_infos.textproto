@@ -14430,7 +14430,7 @@ npcs {
 npcs {
   ids: 11241
   name: "Jelly"
-  version: "Regular"
+  version: "Regular (w)"
   hitpoints: 75
   att: 45
   str: 45
@@ -14441,7 +14441,7 @@ npcs {
 npcs {
   ids: 11242
   name: "Jelly"
-  version: "Grey"
+  version: "Grey (w)"
   hitpoints: 75
   att: 45
   str: 45
@@ -14452,7 +14452,7 @@ npcs {
 npcs {
   ids: 11243
   name: "Jelly"
-  version: "Tan"
+  version: "Tan (w)"
   hitpoints: 75
   att: 45
   str: 45
@@ -14463,7 +14463,7 @@ npcs {
 npcs {
   ids: 11244
   name: "Jelly"
-  version: "Olive"
+  version: "Olive (w)"
   hitpoints: 75
   att: 45
   str: 45
@@ -14474,7 +14474,7 @@ npcs {
 npcs {
   ids: 11245
   name: "Jelly"
-  version: "Dark"
+  version: "Dark (w)"
   hitpoints: 75
   att: 45
   str: 45
