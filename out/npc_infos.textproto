@@ -14363,11 +14363,6 @@ npcs {
 }
 npcs {
   ids: 437
-  ids: 438
-  ids: 439
-  ids: 440
-  ids: 441
-  ids: 442
   name: "Jelly"
   version: "Regular"
   hitpoints: 75
@@ -14378,13 +14373,108 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 438
+  name: "Jelly"
+  version: "Grey"
+  hitpoints: 75
+  att: 45
+  str: 45
+  def: 120
+  mage: 45
+  range: 1
+}
+npcs {
+  ids: 439
+  name: "Jelly"
+  version: "Tan"
+  hitpoints: 75
+  att: 45
+  str: 45
+  def: 120
+  mage: 45
+  range: 1
+}
+npcs {
+  ids: 440
+  name: "Jelly"
+  version: "Olive"
+  hitpoints: 75
+  att: 45
+  str: 45
+  def: 120
+  mage: 45
+  range: 1
+}
+npcs {
+  ids: 441
+  name: "Jelly"
+  version: "Dark"
+  hitpoints: 75
+  att: 45
+  str: 45
+  def: 120
+  mage: 45
+  range: 1
+}
+npcs {
+  ids: 442
+  name: "Jelly"
+  version: "Green"
+  hitpoints: 75
+  att: 45
+  str: 45
+  def: 120
+  mage: 45
+  range: 1
+}
+npcs {
   ids: 11241
+  name: "Jelly"
+  version: "Regular"
+  hitpoints: 75
+  att: 45
+  str: 45
+  def: 120
+  mage: 45
+  range: 1
+}
+npcs {
   ids: 11242
+  name: "Jelly"
+  version: "Grey"
+  hitpoints: 75
+  att: 45
+  str: 45
+  def: 120
+  mage: 45
+  range: 1
+}
+npcs {
   ids: 11243
+  name: "Jelly"
+  version: "Tan"
+  hitpoints: 75
+  att: 45
+  str: 45
+  def: 120
+  mage: 45
+  range: 1
+}
+npcs {
   ids: 11244
+  name: "Jelly"
+  version: "Olive"
+  hitpoints: 75
+  att: 45
+  str: 45
+  def: 120
+  mage: 45
+  range: 1
+}
+npcs {
   ids: 11245
   name: "Jelly"
-  version: "Wilderness Slayer Cave"
+  version: "Dark"
   hitpoints: 75
   att: 45
   str: 45
