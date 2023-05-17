@@ -18132,14 +18132,61 @@ npcs {
   mbns: 500
 }
 npcs {
-  ids: 8366
-  ids: 8385
   ids: 10820
-  ids: 10828
+  name: "Nylocas Matomenos"
+  version: "Entry Mode Maiden"
+  att: 100
+  str: 100
+  def: 100
+  mage: 100
+  range: 100
+}
+npcs {
   ids: 10845
+  name: "Nylocas Matomenos"
+  version: "Entry Mode Verzik"
+  att: 100
+  str: 100
+  def: 100
+  mage: 100
+  range: 100
+}
+npcs {
+  ids: 8366
+  name: "Nylocas Matomenos"
+  version: "Normal Mode Maiden"
+  hitpoints: 100
+  att: 100
+  str: 100
+  def: 100
+  mage: 100
+  range: 100
+}
+npcs {
+  ids: 8385
+  name: "Nylocas Matomenos"
+  version: "Normal Mode Verzik"
+  hitpoints: 200
+  att: 100
+  str: 100
+  def: 100
+  mage: 100
+  range: 100
+}
+npcs {
+  ids: 10828
+  name: "Nylocas Matomenos"
+  version: "Hard Mode Maiden"
+  att: 100
+  str: 100
+  def: 100
+  mage: 100
+  range: 100
+}
+npcs {
   ids: 10862
   name: "Nylocas Matomenos"
-  hitpoints: 200
+  version: "Hard Mode Verzik"
   att: 100
   str: 100
   def: 100
