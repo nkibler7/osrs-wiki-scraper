@@ -18280,7 +18280,7 @@ npcs {
   ids: 10789
   name: "Nylocas Vasilias"
   version: "Entry"
-  hitpoints: 1800
+  hitpoints: 1440
   att: 160
   str: 140
   def: 50
