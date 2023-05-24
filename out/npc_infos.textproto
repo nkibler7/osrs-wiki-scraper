@@ -24102,7 +24102,7 @@ npcs {
   ids: 10865
   name: "Sotetseg"
   version: "Entry"
-  hitpoints: 2800
+  hitpoints: 2240
   att: 180
   str: 140
   def: 150
@@ -25728,7 +25728,7 @@ npcs {
   ids: 10814
   name: "The Maiden of Sugadinti"
   version: "Entry Mode"
-  hitpoints: 2500
+  hitpoints: 2000
   att: 140
   str: 140
   def: 80
@@ -29803,7 +29803,7 @@ npcs {
 npcs {
   ids: 10768
   name: "Xarpus"
-  hitpoints: 4300
+  hitpoints: 3400
   att: 1
   str: 1
   def: 100
