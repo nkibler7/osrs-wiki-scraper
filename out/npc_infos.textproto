@@ -19264,7 +19264,7 @@ npcs {
   ids: 10812
   name: "Pestilent Bloat"
   version: "Entry"
-  hitpoints: 1600
+  hitpoints: 1280
   att: 100
   str: 180
   def: 80
