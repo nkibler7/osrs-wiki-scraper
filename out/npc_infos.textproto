@@ -28099,6 +28099,132 @@ npcs {
   ids: 8370
   ids: 8371
   name: "Verzik Vitur"
+  hitpoints: 1200
+  att: 180
+  str: 150
+  def: 10
+  mage: 180
+  range: 180
+  amagic: 32
+  mbns: 140
+  arange: 32
+  rngbns: 50
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+  dmagic: 10
+  drange: 10
+}
+npcs {
+  ids: 8372
+  ids: 8373
+  name: "Verzik Vitur"
+  hitpoints: 1600
+  att: 200
+  str: 150
+  def: 120
+  mage: 180
+  range: 180
+  amagic: 32
+  mbns: 50
+  arange: 32
+  rngbns: 50
+  dstab: 40
+  dslash: 20
+  dcrush: 40
+  dmagic: 40
+  drange: 180
+}
+npcs {
+  ids: 8374
+  ids: 8375
+  name: "Verzik Vitur"
+  hitpoints: 2400
+  att: 180
+  str: 200
+  def: 120
+  mage: 180
+  range: 180
+  attbns: 32
+  strbns: 46
+  amagic: 20
+  mbns: 5
+  arange: 20
+  rngbns: 5
+  dstab: 30
+  dslash: 10
+  dcrush: 30
+  dmagic: 60
+  drange: 100
+}
+npcs {
+  ids: 8369
+  ids: 8370
+  ids: 8371
+  name: "Verzik Vitur"
+  hitpoints: 2000
+  att: 400
+  str: 400
+  def: 20
+  mage: 400
+  range: 400
+  amagic: 80
+  mbns: 150
+  arange: 80
+  rngbns: 80
+  dstab: 20
+  dslash: 20
+  dcrush: 20
+  dmagic: 20
+  drange: 20
+}
+npcs {
+  ids: 8372
+  ids: 8373
+  name: "Verzik Vitur"
+  hitpoints: 3250
+  att: 400
+  str: 400
+  def: 200
+  mage: 400
+  range: 400
+  amagic: 80
+  mbns: 80
+  arange: 80
+  rngbns: 80
+  dstab: 100
+  dslash: 60
+  dcrush: 100
+  dmagic: 70
+  drange: 250
+}
+npcs {
+  ids: 8374
+  ids: 8375
+  name: "Verzik Vitur"
+  hitpoints: 3250
+  att: 400
+  str: 400
+  def: 150
+  mage: 300
+  range: 300
+  attbns: 80
+  strbns: 30
+  amagic: 80
+  mbns: 5
+  arange: 80
+  rngbns: 5
+  dstab: 70
+  dslash: 30
+  dcrush: 70
+  dmagic: 100
+  drange: 230
+}
+npcs {
+  ids: 8369
+  ids: 8370
+  ids: 8371
+  name: "Verzik Vitur"
   hitpoints: 2000
   att: 400
   str: 400
