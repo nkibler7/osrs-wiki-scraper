@@ -3773,12 +3773,6 @@ L
 MNOPQSkeletonLevel 25 (08@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ ªundead
 I
 RSSkeletonLevel 45 ;( 0#8$@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ ªundead
-F
-ÙÚÛSkeletonLevel 60 F(2028(@H€#ˆ#ûÿÿÿÿÿÿÿÿ #ªundead
-B
-ØSkeletonLevel 68 F(<028<@H€#ˆ#ûÿÿÿÿÿÿÿÿ #ªundead
-D
-ÜİŞSkeletonLevel 85 M(J0J8J@HPX€Oˆ˜ Fªundead
 &
 õ(Skeleton M(´0Z8n@nHP2ªundead
 A
@@ -3820,6 +3814,20 @@ B
 =
 ˆ?SkeletonMagic 6( 08>@´H`€#ˆ#˜ 
 ªundead
+;
+ÙSkeleton1 F(2028(@H€#ˆ#ûÿÿÿÿÿÿÿÿ #ªundead
+;
+ÚSkeleton2 F(2028(@H€#ˆ#ûÿÿÿÿÿÿÿÿ #ªundead
+;
+ÛSkeleton3 F(2028(@H€#ˆ#ûÿÿÿÿÿÿÿÿ #ªundead
+;
+ØSkeleton4 F(<028<@H€#ˆ#ûÿÿÿÿÿÿÿÿ #ªundead
+9
+ÜSkeleton5 M(J0J8J@HPX€Oˆ˜ Fªundead
+9
+İSkeleton6 M(J0J8J@HPX€Oˆ˜ Fªundead
+9
+ŞSkeleton7 M(J0J8J@HPX€Oˆ˜ Fªundead
 6
 °2SkeletonLevel 40 (!084@H€2ˆ( (ªundead
 >
