@@ -787,6 +787,7 @@ npcs {
   ids: 1060
   name: "Angry bear"
   version: "Level 40"
+  hitpoints: 200
 }
 npcs {
   ids: 4692
@@ -803,7 +804,7 @@ npcs {
   ids: 1062
   name: "Angry giant rat"
   version: "Level 45"
-  hitpoints: 50
+  hitpoints: 200
 }
 npcs {
   ids: 4689
@@ -821,7 +822,7 @@ npcs {
   ids: 1065
   name: "Angry goblin"
   version: "Level 45"
-  hitpoints: 50
+  hitpoints: 200
 }
 npcs {
   ids: 4691
@@ -838,7 +839,7 @@ npcs {
   ids: 1061
   name: "Angry unicorn"
   version: "Level 45"
-  hitpoints: 50
+  hitpoints: 200
 }
 npcs {
   ids: 4688
