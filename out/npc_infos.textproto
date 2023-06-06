@@ -4312,6 +4312,7 @@ npcs {
   dcrush: -10
   dmagic: 198
   drange: 211
+  attributes: "undead"
 }
 npcs {
   ids: 11994
@@ -4328,6 +4329,7 @@ npcs {
   dcrush: -10
   dmagic: 198
   drange: 211
+  attributes: "undead"
 }
 npcs {
   ids: 1383
