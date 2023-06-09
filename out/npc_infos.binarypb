@@ -706,8 +706,10 @@ Bush snake1 (082@H
 
 ×/
 Bush snake2 (082@H
-3
-ç2Ñ3Callisto è(Ş0¬8á@HÈpdx€–ˆ‚} 2
+1
+Ñ3Callisto è(Ş0¬8á@HÈpdx€–ˆ‚} 2
+1
+ç2Callisto ÿ(Ş0ò8¸@H€‡ˆh¯˜„ æ
 N
 Ù]
 Calvar'ionNormal –(ú0ú8á@²H€‚ˆ€öÿÿÿÿÿÿÿÿ˜Æ Óªundead
@@ -829,10 +831,10 @@ A
 0
 £Chaos dwarf =(&0*8@HPX	€(ˆ"˜
  #
->
-†Chaos ElementalNormal ú(08@H€FˆFF˜F F
-A
-é2Chaos Elemental	PvM Arena ú(08@H€FˆFF˜F F
+6
+†Chaos Elemental ú(08@H€FˆFF˜F F
+6
+é2Chaos Elemental ú(08@H€FˆFF˜F F
 B
 Û3Chaos Fanatic á(08Ü@ÈHpKxìÿÿÿÿÿÿÿÿ€„ˆ„ú˜˜ P
 :
@@ -1083,11 +1085,8 @@ N
 7
 á2Dagannoth Prime ÿ(ÿ0ÿ8ÿ@ÿ€ÿˆÿÿ˜ÿ 
 
-=
-ÛDagannoth RexNormal ÿ(ÿ0ÿ8ÿHÿ€ÿˆÿÿ˜
- ÿ
-@
-â2Dagannoth Rex	PvM Arena ÿ(ÿ0ÿ8ÿHÿ€ÿˆÿÿ˜
+5
+ÛDagannoth Rex ÿ(ÿ0ÿ8ÿHÿ€ÿˆÿÿ˜
  ÿ
 5
 â2Dagannoth Rex ÿ(ÿ0ÿ8ÿHÿ€ÿˆÿÿ˜
@@ -1681,12 +1680,12 @@ Giant frogLevel 99 d(d0P8A@H
 ¿%Giant Lobster 2((08(@H€ˆ˜c F
 +
 ²Giant lobster  (08(@H€ˆ 
-8
+0
 “-
-Giant MoleNormal È(È0È8È@ÈH€<ˆPd˜P <
-;
+Giant Mole È(È0È8È@ÈH€<ˆPd˜P <
+0
 ã2
-Giant Mole	PvM Arena È(È0È8È@ÈH€<ˆPd˜P <
+Giant Mole È(È0È8È@ÈH€<ˆPd˜P <
 ,
 ‘Giant mosquito (08-@H€ˆ˜
 .
@@ -2481,11 +2480,18 @@ K
 ÂKalphite GuardianLower level ª(n0n8n@H€ˆ˜2 2ªkalphite
 >
 ÀKalphite Guardian ª(n0n8n@H€ˆ˜2 2ªkalphite
-M
-ÃÏ!ä2Kalphite QueenCrawling ÿ(¬0¬8¬@–H€2ˆ2
+K
+ÃÏ!Kalphite QueenCrawling ÿ(¬0¬8¬@–H€2ˆ2
 ˜d dªkalphite
-M
-ÅĞ!å2Kalphite QueenAirborne ÿ(¬0¬8¬@–H€dˆdd˜
+K
+ÅĞ!Kalphite QueenAirborne ÿ(¬0¬8¬@–H€dˆdd˜
+ 
+ªkalphite
+I
+ä2Kalphite QueenCrawling ÿ(¬0¬8¬@–H€2ˆ2
+˜d dªkalphite
+I
+å2Kalphite QueenAirborne ÿ(¬0¬8¬@–H€dˆdd˜
  
 ªkalphite
 K
@@ -2553,6 +2559,8 @@ Killerwatt	Attacking 3(2028(@CHCP€
 ˜ 
 F
 ïKing Black Dragon ğ(ğ0ğ8ğ@ğH€FˆZZ˜P Fªdragon,fiery
+F
+æ2King Black Dragon ğ(ğ0ğ8ğ@ğH€FˆZZ˜P Fªdragon,fiery
 /
 í9King kurask ¤(¾0À8ú@Hˆ22ªleafy
 )
@@ -4543,10 +4551,10 @@ TzHaar-XilRing x(Œ0d8d@(Hx
 š<	TzKal-ZukNormal °	(Ş0Ø8„@–HXÈ`¦hÂp¦xÈ˜Ş d
 @
 š<	TzKal-ZukEnraged °	(Ş0Ø8„@–HXÈ`¦hÂp¦xÈ˜Ş d
-+
-·	TzTok-JadNormal ú(€0À8à@àHÀ`<
-.
-ê2	TzTok-Jad	PvM Arena ú(€0À8à@àHÀ`<
+#
+·	TzTok-Jad ú(€0À8à@àHÀ`<
+#
+ê2	TzTok-Jad ú(€0À8à@àHÀ`<
 
 ¬$Ugthanki -(#0#8#
 !
@@ -4665,9 +4673,11 @@ L
 ;;Vasa NistirioNormal ¬(08¯@æHæpd€ªˆ¾2˜ <ªxerician
 T
 ;;Vasa NistirioChallenge Mode Â(08†@ÙHÙpd€ªˆ¾2˜ <ªxerician
-4
-è2Ò3	Venenatis Ò(¬0È8Á@¬HŞ€dˆd
+2
+Ò3	Venenatis Ò(¬0È8Á@¬HŞ€dˆd
 ˜¬ –
+3
+è2	Venenatis ÿ(Ö0ê8ê@–H€„ˆ„„˜Ò d
 '
 à]Venenatis' Spiderling (08@
 H

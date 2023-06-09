@@ -4281,7 +4281,6 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 6503
   ids: 6609
   name: "Callisto"
   hitpoints: 1000
@@ -4296,6 +4295,21 @@ npcs {
   dslash: 130
   dcrush: 125
   drange: 50
+}
+npcs {
+  ids: 6503
+  name: "Callisto"
+  hitpoints: 255
+  att: 350
+  str: 370
+  def: 440
+  mage: 1
+  range: 1
+  dstab: 135
+  dslash: 104
+  dcrush: 175
+  dmagic: 900
+  drange: 230
 }
 npcs {
   ids: 11993
@@ -4838,7 +4852,6 @@ npcs {
 npcs {
   ids: 2054
   name: "Chaos Elemental"
-  version: "Normal"
   hitpoints: 250
   att: 270
   str: 270
@@ -4854,7 +4867,6 @@ npcs {
 npcs {
   ids: 6505
   name: "Chaos Elemental"
-  version: "PvM Arena"
   hitpoints: 250
   att: 270
   str: 270
@@ -6409,22 +6421,6 @@ npcs {
 npcs {
   ids: 2267
   name: "Dagannoth Rex"
-  version: "Normal"
-  hitpoints: 255
-  att: 255
-  str: 255
-  def: 255
-  range: 255
-  dstab: 255
-  dslash: 255
-  dcrush: 255
-  dmagic: 10
-  drange: 255
-}
-npcs {
-  ids: 6498
-  name: "Dagannoth Rex"
-  version: "PvM Arena"
   hitpoints: 255
   att: 255
   str: 255
@@ -9709,7 +9705,6 @@ npcs {
 npcs {
   ids: 5779
   name: "Giant Mole"
-  version: "Normal"
   hitpoints: 200
   att: 200
   str: 200
@@ -9725,7 +9720,6 @@ npcs {
 npcs {
   ids: 6499
   name: "Giant Mole"
-  version: "PvM Arena"
   hitpoints: 200
   att: 200
   str: 200
@@ -14823,7 +14817,6 @@ npcs {
 npcs {
   ids: 963
   ids: 4303
-  ids: 6500
   name: "Kalphite Queen"
   version: "Crawling"
   hitpoints: 255
@@ -14842,6 +14835,39 @@ npcs {
 npcs {
   ids: 965
   ids: 4304
+  name: "Kalphite Queen"
+  version: "Airborne"
+  hitpoints: 255
+  att: 300
+  str: 300
+  def: 300
+  mage: 150
+  range: 1
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 10
+  drange: 10
+  attributes: "kalphite"
+}
+npcs {
+  ids: 6500
+  name: "Kalphite Queen"
+  version: "Crawling"
+  hitpoints: 255
+  att: 300
+  str: 300
+  def: 300
+  mage: 150
+  range: 1
+  dstab: 50
+  dslash: 50
+  dcrush: 10
+  dmagic: 100
+  drange: 100
+  attributes: "kalphite"
+}
+npcs {
   ids: 6501
   name: "Kalphite Queen"
   version: "Airborne"
@@ -15245,6 +15271,22 @@ npcs {
 }
 npcs {
   ids: 239
+  name: "King Black Dragon"
+  hitpoints: 240
+  att: 240
+  str: 240
+  def: 240
+  mage: 240
+  range: 1
+  dstab: 70
+  dslash: 90
+  dcrush: 90
+  dmagic: 80
+  drange: 70
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 6502
   name: "King Black Dragon"
   hitpoints: 240
   att: 240
@@ -27318,7 +27360,6 @@ npcs {
 npcs {
   ids: 3127
   name: "TzTok-Jad"
-  version: "Normal"
   hitpoints: 250
   att: 640
   str: 960
@@ -27330,7 +27371,6 @@ npcs {
 npcs {
   ids: 6506
   name: "TzTok-Jad"
-  version: "PvM Arena"
   hitpoints: 250
   att: 640
   str: 960
@@ -28108,7 +28148,6 @@ npcs {
   attributes: "xerician"
 }
 npcs {
-  ids: 6504
   ids: 6610
   name: "Venenatis"
   hitpoints: 850
@@ -28122,6 +28161,21 @@ npcs {
   dcrush: 10
   dmagic: 300
   drange: 150
+}
+npcs {
+  ids: 6504
+  name: "Venenatis"
+  hitpoints: 255
+  att: 470
+  str: 490
+  def: 490
+  mage: 150
+  range: 1
+  dstab: 260
+  dslash: 260
+  dcrush: 260
+  dmagic: 850
+  drange: 100
 }
 npcs {
   ids: 12000
