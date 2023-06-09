@@ -5186,7 +5186,6 @@ npcs {
 npcs {
   ids: 2205
   name: "Commander Zilyana"
-  version: "Normal"
   hitpoints: 255
   att: 280
   str: 196
@@ -5205,7 +5204,6 @@ npcs {
 npcs {
   ids: 6493
   name: "Commander Zilyana"
-  version: "PvM Arena"
   hitpoints: 255
   att: 280
   str: 196
@@ -6383,7 +6381,6 @@ npcs {
 npcs {
   ids: 2266
   name: "Dagannoth Prime"
-  version: "Normal"
   hitpoints: 255
   att: 255
   str: 255
@@ -6398,7 +6395,6 @@ npcs {
 npcs {
   ids: 6497
   name: "Dagannoth Prime"
-  version: "PvM Arena"
   hitpoints: 255
   att: 255
   str: 255
@@ -6441,6 +6437,20 @@ npcs {
   drange: 255
 }
 npcs {
+  ids: 6498
+  name: "Dagannoth Rex"
+  hitpoints: 255
+  att: 255
+  str: 255
+  def: 255
+  range: 255
+  dstab: 255
+  dslash: 255
+  dcrush: 255
+  dmagic: 10
+  drange: 255
+}
+npcs {
   ids: 3184
   name: "Dagannoth spawn"
   hitpoints: 35
@@ -6453,7 +6463,6 @@ npcs {
 npcs {
   ids: 2265
   name: "Dagannoth Supreme"
-  version: "Normal"
   hitpoints: 255
   att: 255
   str: 255
@@ -6469,7 +6478,6 @@ npcs {
 npcs {
   ids: 6496
   name: "Dagannoth Supreme"
-  version: "PvM Arena"
   hitpoints: 255
   att: 255
   str: 255
@@ -9261,7 +9269,6 @@ npcs {
 npcs {
   ids: 2215
   name: "General Graardor"
-  version: "Normal"
   hitpoints: 255
   att: 280
   str: 350
@@ -9281,7 +9288,6 @@ npcs {
 npcs {
   ids: 6494
   name: "General Graardor"
-  version: "PvM Arena"
   hitpoints: 255
   att: 280
   str: 350
@@ -14731,7 +14737,6 @@ npcs {
 npcs {
   ids: 3129
   name: "K\'ril Tsutsaroth"
-  version: "Normal"
   hitpoints: 255
   att: 340
   str: 300
@@ -14750,7 +14755,6 @@ npcs {
 npcs {
   ids: 6495
   name: "K\'ril Tsutsaroth"
-  version: "PvM Arena"
   hitpoints: 255
   att: 340
   str: 300
@@ -15633,7 +15637,6 @@ npcs {
 npcs {
   ids: 6492
   name: "Kree\'arra"
-  version: "PvM Arena"
   hitpoints: 255
   att: 300
   str: 200
