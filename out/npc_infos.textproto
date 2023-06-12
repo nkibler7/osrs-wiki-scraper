@@ -28221,10 +28221,9 @@ npcs {
   attributes: "spectral"
 }
 npcs {
-  ids: 8369
-  ids: 8370
-  ids: 8371
+  ids: 10830
   name: "Verzik Vitur"
+  version: "Phase 1"
   hitpoints: 1200
   att: 180
   str: 150
@@ -28242,9 +28241,9 @@ npcs {
   drange: 10
 }
 npcs {
-  ids: 8372
-  ids: 8373
+  ids: 10833
   name: "Verzik Vitur"
+  version: "Phase 2"
   hitpoints: 1600
   att: 200
   str: 150
@@ -28262,9 +28261,9 @@ npcs {
   drange: 180
 }
 npcs {
-  ids: 8374
-  ids: 8375
+  ids: 10835
   name: "Verzik Vitur"
+  version: "Phase 3"
   hitpoints: 2400
   att: 180
   str: 200
@@ -28284,10 +28283,9 @@ npcs {
   drange: 100
 }
 npcs {
-  ids: 8369
-  ids: 8370
-  ids: 8371
+  ids: 8250
   name: "Verzik Vitur"
+  version: "Phase 1"
   hitpoints: 2000
   att: 400
   str: 400
@@ -28306,8 +28304,8 @@ npcs {
 }
 npcs {
   ids: 8372
-  ids: 8373
   name: "Verzik Vitur"
+  version: "Phase 2"
   hitpoints: 3250
   att: 400
   str: 400
@@ -28326,8 +28324,8 @@ npcs {
 }
 npcs {
   ids: 8374
-  ids: 8375
   name: "Verzik Vitur"
+  version: "Phase 3"
   hitpoints: 3250
   att: 400
   str: 400
@@ -28347,10 +28345,9 @@ npcs {
   drange: 230
 }
 npcs {
-  ids: 8369
-  ids: 8370
-  ids: 8371
+  ids: 10847
   name: "Verzik Vitur"
+  version: "Phase 1"
   hitpoints: 2000
   att: 400
   str: 400
@@ -28368,9 +28365,9 @@ npcs {
   drange: 20
 }
 npcs {
-  ids: 8372
-  ids: 8373
+  ids: 10850
   name: "Verzik Vitur"
+  version: "Phase 2"
   hitpoints: 3250
   att: 400
   str: 400
@@ -28388,9 +28385,9 @@ npcs {
   drange: 250
 }
 npcs {
-  ids: 8374
-  ids: 8375
+  ids: 10852
   name: "Verzik Vitur"
+  version: "Phase 3"
   hitpoints: 3250
   att: 400
   str: 400
