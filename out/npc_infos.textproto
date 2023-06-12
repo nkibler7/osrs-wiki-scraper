@@ -20000,7 +20000,7 @@ npcs {
 }
 npcs {
   ids: 5776
-  name: "Queen Spawn"
+  name: "Queen spawn"
   hitpoints: 45
   att: 60
   str: 62
@@ -20509,7 +20509,7 @@ npcs {
 }
 npcs {
   ids: 7018
-  name: "Reanimated Goblin"
+  name: "Reanimated goblin"
   hitpoints: 5
   att: 1
   str: 1
@@ -21043,7 +21043,7 @@ npcs {
 }
 npcs {
   ids: 6732
-  name: "River Troll"
+  name: "River troll"
   version: "Level 14"
   hitpoints: 25
   att: 9
@@ -21054,7 +21054,7 @@ npcs {
 }
 npcs {
   ids: 6733
-  name: "River Troll"
+  name: "River troll"
   version: "Level 29"
   hitpoints: 40
   att: 22
@@ -21065,7 +21065,7 @@ npcs {
 }
 npcs {
   ids: 6734
-  name: "River Troll"
+  name: "River troll"
   version: "Level 49"
   hitpoints: 60
   att: 38
@@ -21076,7 +21076,7 @@ npcs {
 }
 npcs {
   ids: 6735
-  name: "River Troll"
+  name: "River troll"
   version: "Level 79"
   hitpoints: 85
   att: 65
@@ -21087,7 +21087,7 @@ npcs {
 }
 npcs {
   ids: 6736
-  name: "River Troll"
+  name: "River troll"
   version: "Level 120"
   hitpoints: 120
   att: 100
@@ -21098,7 +21098,7 @@ npcs {
 }
 npcs {
   ids: 6737
-  name: "River Troll"
+  name: "River troll"
   version: "Level 159"
   hitpoints: 170
   att: 130
@@ -21646,7 +21646,7 @@ npcs {
 }
 npcs {
   ids: 4192
-  name: "Scarab swarm"
+  name: "Scarab Swarm"
   version: "Normal"
   hitpoints: 25
   att: 255
@@ -21663,7 +21663,7 @@ npcs {
 }
 npcs {
   ids: 1782
-  name: "Scarab swarm"
+  name: "Scarab Swarm"
   version: "Pyramid Plunder"
   hitpoints: 25
   att: 255
@@ -25393,7 +25393,7 @@ npcs {
 }
 npcs {
   ids: 5615
-  name: "Swamp Snake"
+  name: "Swamp snake"
   version: "Level 80"
   hitpoints: 120
   att: 50
@@ -25404,7 +25404,7 @@ npcs {
 }
 npcs {
   ids: 5616
-  name: "Swamp Snake"
+  name: "Swamp snake"
   version: "Level 109"
   hitpoints: 125
   att: 70
@@ -25415,7 +25415,7 @@ npcs {
 }
 npcs {
   ids: 5617
-  name: "Swamp Snake"
+  name: "Swamp snake"
   version: "Level 139"
   hitpoints: 130
   att: 90

@@ -3365,7 +3365,7 @@ E
  
 ªdemon
 
--Queen Spawn -(<0>82@H
+-Queen spawn -(<0>82@H
 x
 ÜİŞRabbitTirannwn (08@HPÑÿÿÿÿÿÿÿÿXÖÿÿÿÿÿÿÿÿ€ÖÿÿÿÿÿÿÿÿˆÖÿÿÿÿÿÿÿÿÖÿÿÿÿÿÿÿÿ˜Öÿÿÿÿÿÿÿÿ Öÿÿÿÿÿÿÿÿ
 y
@@ -3438,7 +3438,7 @@ H
 &
 ó6Reanimated giant #(08@HPX
 u
-ê6Reanimated Goblin (08@HPëÿÿÿÿÿÿÿÿXñÿÿÿÿÿÿÿÿ€ñÿÿÿÿÿÿÿÿˆñÿÿÿÿÿÿÿÿñÿÿÿÿÿÿÿÿ˜ñÿÿÿÿÿÿÿÿ ñÿÿÿÿÿÿÿÿ
+ê6Reanimated goblin (08@HPëÿÿÿÿÿÿÿÿXñÿÿÿÿÿÿÿÿ€ñÿÿÿÿÿÿÿÿˆñÿÿÿÿÿÿÿÿñÿÿÿÿÿÿÿÿ˜ñÿÿÿÿÿÿÿÿ ñÿÿÿÿÿÿÿÿ
 .
 ÇYReanimated hellhound #(i0h8f@Hªdemon
 #
@@ -3518,17 +3518,17 @@ F
 ü=Revenant pyrefiend 0(<0(8!@CH(€-ˆ(2˜ 
 ªundead, spectral
 '
-Ì4River TrollLevel 14 (	0	8	@H
+Ì4River trollLevel 14 (	0	8	@H
 '
-Í4River TrollLevel 29 ((08@H
+Í4River trollLevel 29 ((08@H
 '
-Î4River TrollLevel 49 <(&0&8&@H
+Î4River trollLevel 49 <(&0&8&@H
 '
-Ï4River TrollLevel 79 U(A0A8A@H
+Ï4River trollLevel 79 U(A0A8A@H
 (
-Ğ4River Troll	Level 120 x(d0d8d@H
+Ğ4River troll	Level 120 x(d0d8d@H
 ,
-Ñ4River Troll	Level 159 ª(‚0‚8‚@H
+Ñ4River troll	Level 159 ª(‚0‚8‚@H
 7
 ‚
 
@@ -3621,9 +3621,9 @@ D
 H
 ôYScarab MageLevel 119 (Quest) x(08<@dH`hˆ˜ªkalphite
 A
-à Scarab swarmNormal (ÿ08@H€ZˆZ˜Z Zªkalphite
+à Scarab SwarmNormal (ÿ08@H€ZˆZ˜Z Zªkalphite
 J
-öScarab swarmPyramid Plunder (ÿ08@H€ZˆZ˜Z Zªkalphite
+öScarab SwarmPyramid Plunder (ÿ08@H€ZˆZ˜Z Zªkalphite
 [
 ÜYScarab Swarm (ÿ08@H€œÿÿÿÿÿÿÿÿˆœÿÿÿÿÿÿÿÿœÿÿÿÿÿÿÿÿ˜œÿÿÿÿÿÿÿÿ œÿÿÿÿÿÿÿÿ
 X
@@ -4206,11 +4206,11 @@ Swampy logHidden K(082@2H€dˆdd˜d Éÿÿÿÿÿÿÿÿ
 ‚C
 Swamp frog (08@H
 '
-ï+Swamp SnakeLevel 80 x(2028F@H
+ï+Swamp snakeLevel 80 x(2028F@H
 (
-ğ+Swamp Snake	Level 109 }(F0n8P@H
+ğ+Swamp snake	Level 109 }(F0n8P@H
 *
-ñ+Swamp Snake	Level 139 ‚(Z0ª8Z@H
+ñ+Swamp snake	Level 139 ‚(Z0ª8Z@H
 
 “
 Swordchick #()0*8-@H
