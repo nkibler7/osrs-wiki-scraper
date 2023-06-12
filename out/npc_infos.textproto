@@ -455,7 +455,7 @@ npcs {
 }
 npcs {
   ids: 1559
-  name: "Air Wizard"
+  name: "Air wizard"
   hitpoints: 25
   att: 5
   str: 5
@@ -6197,7 +6197,7 @@ npcs {
 }
 npcs {
   ids: 6330
-  name: "Dad"
+  name: "Dad (hard)"
   version: "Hard"
   hitpoints: 240
   att: 132
@@ -7208,7 +7208,7 @@ npcs {
 }
 npcs {
   ids: 302
-  name: "Donny the Lad"
+  name: "Donny the lad"
   hitpoints: 37
   att: 32
   str: 26
@@ -7661,7 +7661,7 @@ npcs {
 }
 npcs {
   ids: 1558
-  name: "Earth Wizard"
+  name: "Earth wizard"
   hitpoints: 25
   att: 5
   str: 5
@@ -8617,7 +8617,7 @@ npcs {
 }
 npcs {
   ids: 2498
-  name: "Flesh crawler"
+  name: "Flesh Crawler"
   version: "Level 28"
   hitpoints: 25
   att: 60
@@ -8633,7 +8633,7 @@ npcs {
 }
 npcs {
   ids: 2499
-  name: "Flesh crawler"
+  name: "Flesh Crawler"
   version: "Level 35"
   hitpoints: 25
   att: 80
@@ -8649,7 +8649,7 @@ npcs {
 }
 npcs {
   ids: 2500
-  name: "Flesh crawler"
+  name: "Flesh Crawler"
   version: "Level 41"
   hitpoints: 25
   att: 100
@@ -11743,7 +11743,7 @@ npcs {
 }
 npcs {
   ids: 3361
-  name: "Kourend guard"
+  name: "Guard"
   version: "Kourend Castle"
   hitpoints: 800
   att: 800
@@ -14585,7 +14585,7 @@ npcs {
 npcs {
   ids: 1443
   ids: 6382
-  name: "Jungle demon"
+  name: "Jungle Demon"
   version: "Normal"
   hitpoints: 170
   att: 170
@@ -14601,7 +14601,7 @@ npcs {
 }
 npcs {
   ids: 6321
-  name: "Jungle demon (hard)"
+  name: "Jungle Demon (hard)"
   version: "Hard"
   hitpoints: 255
   att: 340
