@@ -28283,7 +28283,7 @@ npcs {
   drange: 100
 }
 npcs {
-  ids: 8250
+  ids: 8369
   name: "Verzik Vitur"
   version: "Phase 1"
   hitpoints: 2000
