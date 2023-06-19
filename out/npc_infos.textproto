@@ -17122,8 +17122,8 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 5272
-  ids: 5274
+  ids: 5273
+  ids: 6813
   name: "Monkey Archer"
   version: "Ape Atoll gate"
   hitpoints: 50
@@ -17134,8 +17134,8 @@ npcs {
   range: 110
 }
 npcs {
-  ids: 5273
-  ids: 6813
+  ids: 5272
+  ids: 5274
   name: "Monkey Archer"
   version: "Marim"
   hitpoints: 50
