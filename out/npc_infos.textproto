@@ -13656,7 +13656,7 @@ npcs {
   dcrush: 30
 }
 npcs {
-  ids: 1874
+  ids: 5828
   name: "Ice troll runt"
   version: "Variant 1"
   hitpoints: 60
@@ -13672,7 +13672,7 @@ npcs {
   dcrush: 30
 }
 npcs {
-  ids: 5823
+  ids: 1874
   name: "Ice troll runt"
   version: "Variant 2"
   hitpoints: 60
@@ -13688,7 +13688,7 @@ npcs {
   dcrush: 30
 }
 npcs {
-  ids: 5828
+  ids: 5823
   name: "Ice troll runt"
   version: "Variant 3"
   hitpoints: 60
