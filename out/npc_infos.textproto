@@ -6179,6 +6179,64 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 2097
+  name: "Cyclops"
+  hitpoints: 55
+  att: 47
+  str: 50
+  def: 46
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 7271
+  name: "Cyclops"
+  version: "Level 56"
+  hitpoints: 75
+  att: 47
+  str: 50
+  def: 26
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 7270
+  name: "Cyclops"
+  version: "Level 76"
+  hitpoints: 100
+  att: 65
+  str: 65
+  def: 35
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 2235
+  name: "Cyclops"
+  version: "Teal"
+  hitpoints: 110
+  att: 60
+  str: 70
+  def: 48
+  mage: 1
+  range: 1
+  attbns: 22
+  strbns: 30
+}
+npcs {
+  ids: 2236
+  name: "Cyclops"
+  version: "Grey"
+  hitpoints: 110
+  att: 60
+  str: 70
+  def: 48
+  mage: 1
+  range: 1
+  attbns: 22
+  strbns: 30
+}
+npcs {
   ids: 4130
   ids: 6391
   name: "Dad"
