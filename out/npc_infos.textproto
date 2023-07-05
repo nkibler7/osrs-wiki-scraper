@@ -8927,6 +8927,51 @@ npcs {
   strbns: 20
 }
 npcs {
+  ids: 5825
+  name: "Frenzied ice troll female"
+  hitpoints: 80
+  att: 80
+  str: 80
+  def: 40
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 60
+  dstab: 30
+  dslash: 60
+  dcrush: 30
+}
+npcs {
+  ids: 5826
+  name: "Frenzied ice troll grunt"
+  hitpoints: 80
+  att: 100
+  str: 100
+  def: 60
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 60
+  dstab: 30
+  dslash: 60
+  dcrush: 30
+}
+npcs {
+  ids: 5823
+  name: "Frenzied ice troll runt"
+  hitpoints: 60
+  att: 60
+  str: 70
+  def: 70
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 60
+  dstab: 30
+  dslash: 60
+  dcrush: 30
+}
+npcs {
   ids: 8702
   name: "Frog"
   hitpoints: 8
@@ -13564,7 +13609,6 @@ npcs {
 }
 npcs {
   ids: 1876
-  ids: 5825
   name: "Ice troll female"
   version: "Variant 2"
   hitpoints: 80
@@ -13583,23 +13627,6 @@ npcs {
   ids: 1877
   ids: 5831
   name: "Ice troll grunt"
-  version: "Regular"
-  hitpoints: 80
-  att: 100
-  str: 100
-  def: 60
-  mage: 1
-  range: 1
-  attbns: 60
-  strbns: 60
-  dstab: 30
-  dslash: 60
-  dcrush: 30
-}
-npcs {
-  ids: 5826
-  name: "Ice troll grunt"
-  version: "Ice Troll Caves"
   hitpoints: 80
   att: 100
   str: 100
@@ -13686,22 +13713,6 @@ npcs {
   ids: 1874
   name: "Ice troll runt"
   version: "Variant 2"
-  hitpoints: 60
-  att: 60
-  str: 70
-  def: 70
-  mage: 1
-  range: 1
-  attbns: 60
-  strbns: 60
-  dstab: 30
-  dslash: 60
-  dcrush: 30
-}
-npcs {
-  ids: 5823
-  name: "Ice troll runt"
-  version: "Variant 3"
   hitpoints: 60
   att: 60
   str: 70

@@ -1555,6 +1555,12 @@ H
  à
 
 âFreidir 2((0(8(@HX
+8
+Á-Frenzied ice troll female P(P0P8(@HP<X<€ˆ<
+7
+Â-Frenzied ice troll grunt P(d0d8<@HP<X<€ˆ<
+6
+¿-Frenzied ice troll runt <(<0F8F@HP<X<€ˆ<
 
 þCFrog (08@H
 
@@ -2267,12 +2273,10 @@ Ice spiderSettlement Ruins A(2078+@H€ˆ˜ 
 ˆ»	Ice troll	Level 124 P(Œ0x8P@HP<X<€ˆ<
 :
 Æ-Ice troll female	Variant 1 P(P0P8(@HP<X<€ˆ<
-<
-ÔÁ-Ice troll female	Variant 2 P(P0P8(@HP<X<€ˆ<
-9
-ÕÇ-Ice troll gruntRegular P(d0d8<@HP<X<€ˆ<
-?
-Â-Ice troll gruntIce Troll Caves P(d0d8<@HP<X<€ˆ<
+:
+ÔIce troll female	Variant 2 P(P0P8(@HP<X<€ˆ<
+0
+ÕÇ-Ice troll grunt P(d0d8<@HP<X<€ˆ<
 @
 ¾-Ô1Ice Troll KingNormal –(d0d8P@HP<X<€-ˆ--˜Ð Ð
 E
@@ -2283,8 +2287,6 @@ E
 Ä-Ice troll runt	Variant 1 <(<0F8F@HP<X<€ˆ<
 8
 ÒIce troll runt	Variant 2 <(<0F8F@HP<X<€ˆ<
-8
-¿-Ice troll runt	Variant 3 <(<0F8F@HP<X<€ˆ<
 4
 ™Ice warriorNormal ;(/0/8/@H€ˆ(˜
  
