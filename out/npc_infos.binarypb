@@ -1560,6 +1560,8 @@ H
 7
 Â-Frenzied ice troll grunt P(d0d8<@HP<X<€ˆ<
 6
+À-Frenzied ice troll male P(P0P8(@HP<X<€ˆ<
+6
 ¿-Frenzied ice troll runt <(<0F8F@HP<X<€ˆ<
 
 þCFrog (08@H
@@ -2281,8 +2283,10 @@ Ice spiderSettlement Ruins A(2078+@H€ˆ˜ 
 ¾-Ô1Ice Troll KingNormal –(d0d8P@HP<X<€-ˆ--˜Ð Ð
 E
 –1Ice Troll King (hard)Hard ð(È0È8P@HP<X<€-ˆ--˜Ð Ð
-1
-ÓÀ-Å-Ice troll male P(P0P8(@HP<X<€ˆ<
+8
+Å-Ice troll male	Variant 1 P(P0P8(@HP<X<€ˆ<
+8
+ÓIce troll male	Variant 2 P(P0P8(@HP<X<€ˆ<
 8
 Ä-Ice troll runt	Variant 1 <(<0F8F@HP<X<€ˆ<
 8

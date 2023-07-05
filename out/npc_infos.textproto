@@ -8957,6 +8957,21 @@ npcs {
   dcrush: 30
 }
 npcs {
+  ids: 5824
+  name: "Frenzied ice troll male"
+  hitpoints: 80
+  att: 80
+  str: 80
+  def: 40
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 60
+  dstab: 30
+  dslash: 60
+  dcrush: 30
+}
+npcs {
   ids: 5823
   name: "Frenzied ice troll runt"
   hitpoints: 60
@@ -13677,10 +13692,25 @@ npcs {
   drange: 2000
 }
 npcs {
-  ids: 1875
-  ids: 5824
   ids: 5829
   name: "Ice troll male"
+  version: "Variant 1"
+  hitpoints: 80
+  att: 80
+  str: 80
+  def: 40
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 60
+  dstab: 30
+  dslash: 60
+  dcrush: 30
+}
+npcs {
+  ids: 1875
+  name: "Ice troll male"
+  version: "Variant 2"
   hitpoints: 80
   att: 80
   str: 80
