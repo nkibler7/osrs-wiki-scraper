@@ -30282,7 +30282,7 @@ npcs {
 npcs {
   ids: 9049
   name: "Zalcano"
-  version: "Shielded"
+  version: "Armoured"
   hitpoints: 300
   att: 1
   str: 1
