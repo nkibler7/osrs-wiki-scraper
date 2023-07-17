@@ -8112,6 +8112,27 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 1244
+  ids: 1247
+  ids: 1250
+  ids: 1253
+  ids: 1256
+  name: "Evil creature"
+  version: "Standard"
+  hitpoints: 1
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 1241
+  name: "Evil creature"
+  version: "Izzie "
+  hitpoints: 1
+}
+npcs {
   ids: 625
   name: "Evil spirit"
   hitpoints: 90
