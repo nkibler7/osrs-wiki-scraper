@@ -18163,6 +18163,36 @@ npcs {
   drange: 200
 }
 npcs {
+  ids: 9425
+  ids: 9426
+  ids: 9427
+  ids: 9428
+  ids: 9429
+  ids: 9430
+  ids: 9431
+  ids: 9432
+  ids: 9433
+  ids: 9460
+  name: "The Nightmare"
+  hitpoints: 2400
+  att: 150
+  str: 150
+  def: 150
+  mage: 150
+  range: 150
+  attbns: 140
+  strbns: 128
+  amagic: 140
+  mbns: 64
+  arange: 140
+  rngbns: 64
+  dstab: 120
+  dslash: 180
+  dcrush: 40
+  dmagic: 600
+  drange: 600
+}
+npcs {
   ids: 2629
   name: "Nikita"
   hitpoints: 60
@@ -26033,36 +26063,6 @@ npcs {
   dcrush: 150
   dmagic: 30
   drange: 145
-}
-npcs {
-  ids: 9425
-  ids: 9426
-  ids: 9427
-  ids: 9428
-  ids: 9429
-  ids: 9430
-  ids: 9431
-  ids: 9432
-  ids: 9433
-  ids: 9460
-  name: "The Nightmare"
-  hitpoints: 2400
-  att: 150
-  str: 150
-  def: 150
-  mage: 150
-  range: 150
-  attbns: 140
-  strbns: 128
-  amagic: 140
-  mbns: 64
-  arange: 140
-  rngbns: 64
-  dstab: 120
-  dslash: 180
-  dcrush: 40
-  dmagic: 600
-  drange: 600
 }
 npcs {
   ids: 4708
