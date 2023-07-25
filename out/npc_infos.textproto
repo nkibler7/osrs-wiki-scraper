@@ -17427,7 +17427,6 @@ npcs {
 npcs {
   ids: 891
   name: "Moss Guardian"
-  version: "Normal"
   hitpoints: 120
   att: 60
   str: 60
@@ -17440,7 +17439,7 @@ npcs {
 npcs {
   ids: 6386
   name: "Moss Guardian"
-  version: "Nightmare Zone"
+  version: "Normal Mode"
   hitpoints: 120
   att: 60
   str: 60
@@ -17453,7 +17452,7 @@ npcs {
 npcs {
   ids: 6325
   name: "Moss Guardian (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 240
   att: 165
   str: 165
