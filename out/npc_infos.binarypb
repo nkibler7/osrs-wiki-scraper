@@ -122,8 +122,9 @@ T
 S©SAncient GuardianGolem ((0!8@HPX2€(ˆ(˜ 
 0
 ªSRubbleRubble ((0!8@HPX2€(ˆ(˜ 
-
-«`Ancient Guardian
+8
+°`Ancient Guardian d(´0n8d@d€2ˆ(˜
+ 2ªGolem
 0
 Ì_Ancient Guardian d(´0n8d@d€2ˆ(˜
  2
@@ -1274,12 +1275,12 @@ l
 *
 Š)Duke ‚(‚0‚8‚@‚HP2ª
 (Optional)
-$
-†_‡_Ÿ_ _¡_¢_£_¤_Duke Sucellus1
-$
-†_‡_Ÿ_ _¡_¢_£_¤_Duke Sucellus2
-$
-†_‡_Ÿ_ _¡_¢_£_¤_Duke Sucellus3
+'
+†_‡_Ÿ_ _¡_¢_£_¤_Duke Sucellus1@¶
+'
+†_‡_Ÿ_ _¡_¢_£_¤_Duke Sucellus2@¶
+'
+†_‡_Ÿ_ _¡_¢_£_¤_Duke Sucellus3@¶
 !
 —˜™Dungeon rat (
 0
@@ -2562,8 +2563,8 @@ A
 ¦1Karamel (hard)Hard ÿ(08d@HÈpŒxn€–ˆ––˜– –
 M
 ‹Karil the Tainted d(08d@Hd`æÿÿÿÿÿÿÿÿp†x7€OˆGZ˜j dªspectral
-
-æ_Kasonde ğ
+1
+æ_Kasonde ğ(¾0¾8Z@ZH¾P(p2€ˆ˜ú 2
 
 «`¬`Kasonde the Craven
 
@@ -3025,8 +3026,8 @@ X
 ÙMyre Blamish SnailPointed 8@HP
 X
 €ˆ˜ 2
-
-Œ`Mysterious Figure
+?
+Œ`Mysterious Figure Í(x0x8x@xHxPPX`PhpPx€ˆ(<˜ 
 )
 ‚ŒK
 Nail beastLevel 69 7(–08@H
@@ -3710,7 +3711,7 @@ $
 "
 Ö`Scarred hellhound	Level 106
 
-Ô`Scarred imp
+Ù`Scarred imp
 
 É`Scarred leech
 $
@@ -4264,8 +4265,22 @@ Z
 ¬^Strange CreaturePost-shield ¦(˜0˜8È@³HÏP<Xöÿÿÿÿÿÿÿÿ`ZhBxöÿÿÿÿÿÿÿÿ€nˆZP˜˜
 -
 ­Stranger P(Z0P8P@HX(`€Qˆ]b˜ R
-'
-Ğ`Ñ`Ò`Ó`Ô`Õ`Ö`×`Ø`Ù`Ú`Û`Ü`	Strangled
+*
+Ğ`Ñ`Ò`Ó`×`Ø`Ù`÷_	StrangledStrangled 1
+*
+Ğ`Ñ`Ò`Ó`×`Ø`Ù`÷_	StrangledStrangled 2
+*
+Ğ`Ñ`Ò`Ó`×`Ø`Ù`÷_	StrangledStrangled 3
+*
+Ğ`Ñ`Ò`Ó`×`Ø`Ù`÷_	StrangledStrangled 4
+*
+Ğ`Ñ`Ò`Ó`×`Ø`Ù`÷_	StrangledStrangled 5
+$
+
+Ô`Õ`Ö`Ú`Ü`	StrangledStrangled 1
+$
+
+Ô`Õ`Ö`Ú`Ü`	StrangledStrangled 2
 
 €`Strangled Bear
 

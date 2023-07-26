@@ -723,8 +723,19 @@ npcs {
   drange: 30
 }
 npcs {
-  ids: 12331
+  ids: 12336
   name: "Ancient Guardian"
+  hitpoints: 100
+  att: 180
+  str: 110
+  def: 100
+  mage: 100
+  dstab: 50
+  dslash: 40
+  dcrush: 20
+  dmagic: 10
+  drange: 50
+  attributes: "Golem"
 }
 npcs {
   ids: 12236
@@ -7459,6 +7470,7 @@ npcs {
   ids: 12196
   name: "Duke Sucellus"
   version: "1"
+  mage: 310
 }
 npcs {
   ids: 12166
@@ -7471,6 +7483,7 @@ npcs {
   ids: 12196
   name: "Duke Sucellus"
   version: "2"
+  mage: 310
 }
 npcs {
   ids: 12166
@@ -7483,6 +7496,7 @@ npcs {
   ids: 12196
   name: "Duke Sucellus"
   version: "3"
+  mage: 310
 }
 npcs {
   ids: 3607
@@ -15255,6 +15269,18 @@ npcs {
   ids: 12262
   name: "Kasonde"
   hitpoints: 240
+  att: 190
+  str: 190
+  def: 90
+  mage: 90
+  range: 190
+  attbns: 40
+  arange: 50
+  dstab: 30
+  dslash: 30
+  dcrush: 30
+  dmagic: 250
+  drange: 50
 }
 npcs {
   ids: 12331
@@ -18003,6 +18029,23 @@ npcs {
 npcs {
   ids: 12300
   name: "Mysterious Figure"
+  hitpoints: 333
+  att: 120
+  str: 120
+  def: 120
+  mage: 120
+  range: 120
+  attbns: 80
+  strbns: 25
+  amagic: 80
+  mbns: 25
+  arange: 80
+  rngbns: 25
+  dstab: 20
+  dslash: 40
+  dcrush: 60
+  dmagic: 30
+  drange: 20
 }
 npcs {
   ids: 2946
@@ -22022,7 +22065,7 @@ npcs {
   version: "Level 106"
 }
 npcs {
-  ids: 12372
+  ids: 12377
   name: "Scarred imp"
 }
 npcs {
@@ -25575,16 +25618,78 @@ npcs {
   ids: 12369
   ids: 12370
   ids: 12371
-  ids: 12372
-  ids: 12373
-  ids: 12374
   ids: 12375
   ids: 12376
   ids: 12377
+  ids: 12279
+  name: "Strangled"
+  version: "Strangled 1"
+}
+npcs {
+  ids: 12368
+  ids: 12369
+  ids: 12370
+  ids: 12371
+  ids: 12375
+  ids: 12376
+  ids: 12377
+  ids: 12279
+  name: "Strangled"
+  version: "Strangled 2"
+}
+npcs {
+  ids: 12368
+  ids: 12369
+  ids: 12370
+  ids: 12371
+  ids: 12375
+  ids: 12376
+  ids: 12377
+  ids: 12279
+  name: "Strangled"
+  version: "Strangled 3"
+}
+npcs {
+  ids: 12368
+  ids: 12369
+  ids: 12370
+  ids: 12371
+  ids: 12375
+  ids: 12376
+  ids: 12377
+  ids: 12279
+  name: "Strangled"
+  version: "Strangled 4"
+}
+npcs {
+  ids: 12368
+  ids: 12369
+  ids: 12370
+  ids: 12371
+  ids: 12375
+  ids: 12376
+  ids: 12377
+  ids: 12279
+  name: "Strangled"
+  version: "Strangled 5"
+}
+npcs {
+  ids: 12372
+  ids: 12373
+  ids: 12374
   ids: 12378
-  ids: 12379
   ids: 12380
   name: "Strangled"
+  version: "Strangled 1"
+}
+npcs {
+  ids: 12372
+  ids: 12373
+  ids: 12374
+  ids: 12378
+  ids: 12380
+  name: "Strangled"
+  version: "Strangled 2"
 }
 npcs {
   ids: 12288
