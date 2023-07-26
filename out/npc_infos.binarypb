@@ -1003,8 +1003,8 @@ v
 @Hªundead
 L
 Ú3Crazy archaeologist á( 0Z8ğ@H´PúXpKxñÿÿÿÿÿÿÿÿ€ˆ˜ú ú
-
-Ì`Crimson sanguisphera
+
+Ì`Ñ`Crimson sanguisphera
 *
 Ø 	Crocodile >(50686@H€ˆ˜
  
@@ -1273,12 +1273,12 @@ l
 *
 Š)Duke ‚(‚0‚8‚@‚HP2ª
 (Optional)
-3
-†_‡_Ÿ_ _¡_¢_£_¤_Duke Sucellus1 Ü(ú0ú8ú@ú
-3
-†_‡_Ÿ_ _¡_¢_£_¤_Duke Sucellus2 Ü(ú0ú8ú@ú
-3
-†_‡_Ÿ_ _¡_¢_£_¤_Duke Sucellus3 Ü(ú0ú8ú@ú
+$
+†_‡_Ÿ_ _¡_¢_£_¤_Duke Sucellus1
+$
+†_‡_Ÿ_ _¡_¢_£_¤_Duke Sucellus2
+$
+†_‡_Ÿ_ _¡_¢_£_¤_Duke Sucellus3
 !
 —˜™Dungeon rat (
 0
@@ -2559,6 +2559,10 @@ A
 ¦1Karamel (hard)Hard ÿ(08d@HÈpŒxn€–ˆ––˜– –
 M
 ‹Karil the Tainted d(08d@Hd`æÿÿÿÿÿÿÿÿp†x7€OˆGZ˜j dªspectral
+
+æ_Kasonde
+
+«`¬`Kasonde the Craven
 
 ÖKebbit 2(08@H
 *
@@ -3016,6 +3020,8 @@ X
 ÙMyre Blamish SnailPointed 8@HP
 X
 €ˆ˜ 2
+
+Œ`Mysterious Figure
 )
 ‚ŒK
 Nail beastLevel 69 7(–08@H
@@ -3285,6 +3291,8 @@ S
 (08@H€ôÿÿÿÿÿÿÿÿˆôÿÿÿÿÿÿÿÿôÿÿÿÿÿÿÿÿ˜ôÿÿÿÿÿÿÿÿ ôÿÿÿÿÿÿÿÿ
 
 Penguin (08@H
+
+­`Persten the Deceitful
 L
 ¼TPestilent BloatEntry €
 (d0´8P@xHHP<X.pHx€
@@ -3420,8 +3428,8 @@ B
 GRabbit Ğ(Ø0È8Â@¬HPPX<€–ˆ––˜– È
 3
 —%Radat (08@HPX€ˆ˜üÿÿÿÿÿÿÿÿ 
-
-Í`Radiant sanguisphera
+
+Í`Ò`Radiant sanguisphera
 
 ÚRagnar (08@H
 V
@@ -4377,11 +4385,11 @@ D
 ˆ
 
 ˜öÿÿÿÿÿÿÿÿ 
-0
-¶_·_»_The LeviathanQuest Ğ(ú08È@‚H‚
-5
+?
+¶_·_»_The LeviathanQuest Ğ(ú08È@‚H‚PÈX` h:p¬x
+D
 ¶_·_»_The Leviathan
-Post-Quest Ğ(ú08È@‚H‚
+Post-Quest Ğ(ú08È@‚H‚PÈX` h:p¬x
 ?
 ¾TThe Maiden of Sugadinti
 Entry Mode Ğ(Œ0Œ8P@ŒHŒ`–h
@@ -4989,7 +4997,7 @@ White wolfLevel 25 "(08@H
 l
 White wolfLevel 38 ,(08 @H
 
-ª`Wighted Leech
+¯`Wighted Leech
 !
 pWild dogNormal >(50686@H
 !

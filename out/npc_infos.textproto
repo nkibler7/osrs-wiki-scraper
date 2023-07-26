@@ -5860,6 +5860,7 @@ npcs {
 }
 npcs {
   ids: 12364
+  ids: 12369
   name: "Crimson sanguisphera"
 }
 npcs {
@@ -7457,11 +7458,6 @@ npcs {
   ids: 12196
   name: "Duke Sucellus"
   version: "1"
-  hitpoints: 1500
-  att: 250
-  str: 250
-  def: 250
-  mage: 250
 }
 npcs {
   ids: 12166
@@ -7474,11 +7470,6 @@ npcs {
   ids: 12196
   name: "Duke Sucellus"
   version: "2"
-  hitpoints: 1500
-  att: 250
-  str: 250
-  def: 250
-  mage: 250
 }
 npcs {
   ids: 12166
@@ -7491,11 +7482,6 @@ npcs {
   ids: 12196
   name: "Duke Sucellus"
   version: "3"
-  hitpoints: 1500
-  att: 250
-  str: 250
-  def: 250
-  mage: 250
 }
 npcs {
   ids: 3607
@@ -15261,6 +15247,15 @@ npcs {
   attributes: "spectral"
 }
 npcs {
+  ids: 12262
+  name: "Kasonde"
+}
+npcs {
+  ids: 12331
+  ids: 12332
+  name: "Kasonde the Craven"
+}
+npcs {
   ids: 1494
   name: "Kebbit"
   hitpoints: 50
@@ -17995,6 +17990,10 @@ npcs {
   drange: 50
 }
 npcs {
+  ids: 12300
+  name: "Mysterious Figure"
+}
+npcs {
   ids: 2946
   ids: 9612
   name: "Nail beast"
@@ -19543,6 +19542,10 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 12333
+  name: "Persten the Deceitful"
+}
+npcs {
   ids: 10812
   name: "Pestilent Bloat"
   version: "Entry"
@@ -20331,6 +20334,7 @@ npcs {
 }
 npcs {
   ids: 12365
+  ids: 12370
   name: "Radiant sanguisphera"
 }
 npcs {
@@ -26167,6 +26171,12 @@ npcs {
   def: 200
   mage: 130
   range: 130
+  attbns: 200
+  strbns: 22
+  amagic: 160
+  mbns: 58
+  arange: 300
+  rngbns: 26
 }
 npcs {
   ids: 12214
@@ -26180,6 +26190,12 @@ npcs {
   def: 200
   mage: 130
   range: 130
+  attbns: 200
+  strbns: 22
+  amagic: 160
+  mbns: 58
+  arange: 300
+  rngbns: 26
 }
 npcs {
   ids: 10814
@@ -29950,7 +29966,7 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 12330
+  ids: 12335
   name: "Wighted Leech"
 }
 npcs {
