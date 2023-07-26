@@ -148,11 +148,37 @@ npcs {
   ids: 12388
   name: "Abyssal leech"
   version: "Level 32"
+  hitpoints: 50
+  att: 50
+  str: 10
+  def: 1
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 10
+  dstab: 50
+  dslash: 50
+  dcrush: 10
+  dmagic: 50
+  drange: 10
 }
 npcs {
   ids: 12386
   name: "Abyssal leech"
   version: "Level 54"
+  hitpoints: 20
+  att: 120
+  str: 10
+  def: 30
+  mage: 1
+  range: 1
+  attbns: 100
+  strbns: 10
+  dstab: 50
+  dslash: 50
+  dcrush: 100
+  dmagic: 50
+  drange: 10
 }
 npcs {
   ids: 7533
@@ -22098,11 +22124,28 @@ npcs {
   ids: 12355
   name: "Scarred lesser demon"
   version: "Level 82"
+  attributes: "Demon"
 }
 npcs {
   ids: 12385
   name: "Scarred lesser demon"
   version: "Level 85"
+  attributes: "Demon"
+}
+npcs {
+  ids: 12360
+  name: "Scarred lesser demon"
+  version: "Level 121"
+  hitpoints: 100
+  att: 110
+  str: 110
+  def: 110
+  mage: 110
+  range: 110
+  attbns: 100
+  amagic: 100
+  arange: 100
+  attributes: "Demon"
 }
 npcs {
   ids: 7548
