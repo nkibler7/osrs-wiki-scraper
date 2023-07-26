@@ -59,6 +59,10 @@ npcs {
   drange: 180
 }
 npcs {
+  ids: 12367
+  name: "Abyssal antibody"
+}
+npcs {
   ids: 415
   name: "Abyssal demon"
   version: "Standard"
@@ -139,6 +143,16 @@ npcs {
   dcrush: 100
   dmagic: 50
   drange: 10
+}
+npcs {
+  ids: 12388
+  name: "Abyssal leech"
+  version: "Level 32"
+}
+npcs {
+  ids: 12386
+  name: "Abyssal leech"
+  version: "Level 54"
 }
 npcs {
   ids: 7533
@@ -259,6 +273,16 @@ npcs {
   dcrush: 10
   dmagic: 75
   drange: 75
+}
+npcs {
+  ids: 12389
+  name: "Abyssal walker"
+  version: "Level 90"
+}
+npcs {
+  ids: 12387
+  name: "Abyssal walker"
+  version: "Level 109"
 }
 npcs {
   ids: 9573
@@ -697,6 +721,10 @@ npcs {
   dslash: 40
   dmagic: 5
   drange: 30
+}
+npcs {
+  ids: 12331
+  name: "Ancient Guardian"
 }
 npcs {
   name: "Ancient Guardian"
@@ -5821,6 +5849,10 @@ npcs {
   drange: 250
 }
 npcs {
+  ids: 12364
+  name: "Crimson sanguisphera"
+}
+npcs {
   ids: 4184
   name: "Crocodile"
   hitpoints: 62
@@ -7403,6 +7435,42 @@ npcs {
   range: 1
   attbns: 50
   attributes: "(Optional)"
+}
+npcs {
+  ids: 12166
+  ids: 12167
+  ids: 12191
+  ids: 12192
+  ids: 12193
+  ids: 12194
+  ids: 12195
+  ids: 12196
+  name: "Duke Sucellus"
+  version: "1"
+}
+npcs {
+  ids: 12166
+  ids: 12167
+  ids: 12191
+  ids: 12192
+  ids: 12193
+  ids: 12194
+  ids: 12195
+  ids: 12196
+  name: "Duke Sucellus"
+  version: "2"
+}
+npcs {
+  ids: 12166
+  ids: 12167
+  ids: 12191
+  ids: 12192
+  ids: 12193
+  ids: 12194
+  ids: 12195
+  ids: 12196
+  name: "Duke Sucellus"
+  version: "3"
 }
 npcs {
   ids: 3607
@@ -9559,6 +9627,10 @@ npcs {
   dmagic: 55
   drange: 55
   attributes: "undead, spectral"
+}
+npcs {
+  ids: 12252
+  name: "Ghost"
 }
 npcs {
   ids: 5370
@@ -20233,6 +20305,10 @@ npcs {
   drange: 20
 }
 npcs {
+  ids: 12365
+  name: "Radiant sanguisphera"
+}
+npcs {
   ids: 3674
   name: "Ragnar"
   hitpoints: 1
@@ -21861,6 +21937,69 @@ npcs {
   attributes: "kalphite"
 }
 npcs {
+  ids: 12357
+  name: "Scarred black demon"
+  version: "Level 172"
+}
+npcs {
+  ids: 12381
+  name: "Scarred black demon"
+  version: "Level 176"
+}
+npcs {
+  ids: 12371
+  name: "Scarred demon"
+  version: "Level 18"
+}
+npcs {
+  ids: 12368
+  name: "Scarred demon"
+  version: "Level 113"
+}
+npcs {
+  ids: 12373
+  name: "Scarred demon"
+  version: "Level 127"
+}
+npcs {
+  ids: 12359
+  name: "Scarred greater demon"
+  version: "Level 92"
+}
+npcs {
+  ids: 12383
+  name: "Scarred greater demon"
+  version: "Level 95"
+}
+npcs {
+  ids: 12369
+  name: "Scarred hellhound"
+  version: "Level 86"
+}
+npcs {
+  ids: 12374
+  name: "Scarred hellhound"
+  version: "Level 106"
+}
+npcs {
+  ids: 12372
+  name: "Scarred imp"
+}
+npcs {
+  ids: 12361
+  name: "Scarred leech"
+}
+npcs {
+  ids: 12355
+  name: "Scarred lesser demon"
+  version: "Level 82"
+}
+npcs {
+  ids: 12385
+  name: "Scarred lesser demon"
+  version: "Level 85"
+}
+npcs {
   ids: 7548
   name: "Scavenger beast"
   version: "Normal"
@@ -22286,6 +22425,10 @@ npcs {
   def: 54
   mage: 1
   range: 1
+}
+npcs {
+  ids: 12246
+  name: "Shadow Keeper"
 }
 npcs {
   ids: 11485
@@ -25388,6 +25531,18 @@ npcs {
   drange: 82
 }
 npcs {
+  ids: 12282
+  name: "Strangled Bear"
+}
+npcs {
+  ids: 12283
+  name: "Strangled Boar"
+}
+npcs {
+  ids: 12284
+  name: "Strangled Lynx"
+}
+npcs {
   ids: 11273
   name: "Strongbones"
   hitpoints: 200
@@ -25976,6 +26131,20 @@ npcs {
   drange: 20
 }
 npcs {
+  ids: 12214
+  ids: 12215
+  ids: 12219
+  name: "The Leviathan"
+  version: "Quest"
+}
+npcs {
+  ids: 12214
+  ids: 12215
+  ids: 12219
+  name: "The Leviathan"
+  version: "Post-Quest"
+}
+npcs {
   ids: 10814
   name: "The Maiden of Sugadinti"
   version: "Entry Mode"
@@ -26100,6 +26269,22 @@ npcs {
   def: 434
   mage: 1
   range: 1
+}
+npcs {
+  ids: 12204
+  ids: 12205
+  ids: 12206
+  ids: 12207
+  name: "The Whisperer"
+  version: "Quest"
+}
+npcs {
+  ids: 12204
+  ids: 12205
+  ids: 12206
+  ids: 12207
+  name: "The Whisperer"
+  version: "Post-Quest"
 }
 npcs {
   ids: 499
@@ -28217,6 +28402,20 @@ npcs {
   attributes: "vampyre3"
 }
 npcs {
+  ids: 12223
+  ids: 12224
+  ids: 12228
+  ids: 12425
+  ids: 12426
+  name: "Vardorvis"
+  hitpoints: 500
+  att: 260
+  str: 210
+  def: 180
+  mage: 180
+  attbns: 185
+}
+npcs {
   ids: 7566
   ids: 7567
   name: "Vasa Nistirio"
@@ -29690,6 +29889,10 @@ npcs {
   def: 32
   mage: 1
   range: 1
+}
+npcs {
+  ids: 12330
+  name: "Wighted Leech"
 }
 npcs {
   ids: 112
