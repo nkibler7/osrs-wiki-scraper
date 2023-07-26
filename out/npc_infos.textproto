@@ -7045,6 +7045,16 @@ npcs {
   range: 117
 }
 npcs {
+  ids: 5079
+  name: "Delrith"
+  hitpoints: 7
+  att: 11
+  str: 10
+  def: 5
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 142
   name: "Demon"
   hitpoints: 79
@@ -22210,6 +22220,13 @@ npcs {
 npcs {
   ids: 12377
   name: "Scarred imp"
+  hitpoints: 25
+  att: 1
+  str: 1
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "Demon"
 }
 npcs {
   ids: 12361
@@ -22246,6 +22263,21 @@ npcs {
   ids: 12364
   name: "Scarred lesser demon"
   version: "Level 121 (ranged)"
+  hitpoints: 100
+  att: 110
+  str: 110
+  def: 110
+  mage: 110
+  range: 110
+  attbns: 100
+  amagic: 100
+  arange: 100
+  attributes: "Demon"
+}
+npcs {
+  ids: 12362
+  name: "Scarred lesser demon"
+  version: "Level 121 (melee)"
   hitpoints: 100
   att: 110
   str: 110
@@ -26655,7 +26687,7 @@ npcs {
   ids: 12207
   name: "The Whisperer"
   version: "Post-Quest"
-  hitpoints: 660
+  hitpoints: 900
   att: 240
   str: 250
   def: 200
