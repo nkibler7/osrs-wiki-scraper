@@ -61,6 +61,12 @@ npcs {
 npcs {
   ids: 12372
   name: "Abyssal antibody"
+  hitpoints: 50
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 415
@@ -160,6 +166,18 @@ npcs {
   dslash: 50
   dcrush: 10
   dmagic: 50
+  drange: 10
+}
+npcs {
+  ids: 12366
+  name: "Abyssal leech"
+  version: "Level 46"
+  hitpoints: 30
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
   drange: 10
 }
 npcs {
@@ -5910,6 +5928,12 @@ npcs {
   ids: 12364
   ids: 12369
   name: "Crimson sanguisphera"
+  hitpoints: 20
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 4184
@@ -7506,6 +7530,7 @@ npcs {
   ids: 12196
   name: "Duke Sucellus"
   version: "1"
+  str: 123
   mage: 310
 }
 npcs {
@@ -7519,6 +7544,7 @@ npcs {
   ids: 12196
   name: "Duke Sucellus"
   version: "2"
+  str: 123
   mage: 310
 }
 npcs {
@@ -7532,6 +7558,7 @@ npcs {
   ids: 12196
   name: "Duke Sucellus"
   version: "3"
+  str: 123
   mage: 310
 }
 npcs {
@@ -20438,6 +20465,12 @@ npcs {
   ids: 12365
   ids: 12370
   name: "Radiant sanguisphera"
+  hitpoints: 20
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 3674
@@ -22096,21 +22129,71 @@ npcs {
   ids: 12359
   name: "Scarred greater demon"
   version: "Level 92"
+  hitpoints: 180
+  att: 90
+  str: 90
+  def: 40
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "Demon"
 }
 npcs {
   ids: 12383
   name: "Scarred greater demon"
   version: "Level 95"
+  hitpoints: 180
+  att: 90
+  str: 90
+  def: 40
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "Demon"
 }
 npcs {
-  ids: 12369
-  name: "Scarred hellhound"
-  version: "Level 86"
+  name: "Scarred greater demon"
+  version: "Level 113"
+  hitpoints: 180
+  att: 90
+  str: 90
+  def: 40
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "Demon"
 }
 npcs {
   ids: 12374
   name: "Scarred hellhound"
-  version: "Level 106"
+  version: "Level 101"
+  hitpoints: 25
+  att: 105
+  str: 104
+  def: 50
+  mage: 1
+  range: 1
+  attributes: "Demon"
+}
+npcs {
+  ids: 12369
+  name: "Scarred hellhound"
+  version: "Level 172"
+  att: 105
+  str: 104
+  def: 50
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 12374
+  name: "Scarred hellhound"
+  version: "Level 176"
+  att: 105
+  str: 104
+  def: 50
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 12377

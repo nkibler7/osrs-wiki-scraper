@@ -7,8 +7,8 @@ E
 Í9Abhorrent spectre ˙(08¥@¨HÄ(à(ê(†™undead, Spectral
 2
 ƒ@≈@∆@Abomination »(n0n8n@nHnÄPàPêPò†¥
-
-‘`Abyssal antibody
+"
+‘`Abyssal antibody 2(08@H
 ?
 üAbyssal demonStandard ñ(a0C8á@HÄàê†™demon
 K
@@ -27,6 +27,9 @@ M
 8@HPX
 Ä2à2ê
 ò2†
+
+,
+Œ`Abyssal leechLevel 46 (08@H†
 
 <
 ‚`Abyssal leechLevel 54 (x0
@@ -1013,8 +1016,8 @@ v
 @H™undead
 L
 ⁄3Crazy archaeologist ·(†0Z8@H¥P˙XpKxÒˇˇˇˇˇˇˇˇÄàêò˙†˙
-
-Ã`—`Crimson sanguisphera
+(
+Ã`—`Crimson sanguisphera (08@H
 *
 ÿ 	Crocodile >(50686@HÄàêò
 †
@@ -1283,12 +1286,12 @@ l
 *
 ä)Duke Ç(Ç0Ç8Ç@ÇHP2™
 (Optional)
-'
-Ü_á_ü_†_°_¢_£_§_Duke Sucellus1@∂
-'
-Ü_á_ü_†_°_¢_£_§_Duke Sucellus2@∂
-'
-Ü_á_ü_†_°_¢_£_§_Duke Sucellus3@∂
+)
+Ü_á_ü_†_°_¢_£_§_Duke Sucellus10{@∂
+)
+Ü_á_ü_†_°_¢_£_§_Duke Sucellus20{@∂
+)
+Ü_á_ü_†_°_¢_£_§_Duke Sucellus30{@∂
 !
 óòôDungeon rat (
 0
@@ -3442,8 +3445,8 @@ B
 ûGRabbit –(ÿ0»8¬@¨HPPX<Äñàñêñòñ†»
 3
 ó%Radat (08@HPXÄàêò¸ˇˇˇˇˇˇˇˇ†
-
-Õ`“`Radiant sanguisphera
+(
+Õ`“`Radiant sanguisphera (08@H
 
 ⁄Ragnar (08@H
 V
@@ -3710,14 +3713,17 @@ $
 –`Scarred demon	Level 113
 
 ’`Scarred demon	Level 127
-%
-«`Scarred greater demonLevel 92
-%
-ﬂ`Scarred greater demonLevel 95
-!
-—`Scarred hellhoundLevel 86
-"
-÷`Scarred hellhound	Level 106
+F
+«`Scarred greater demonLevel 92 ¥(Z0Z8(@Hòˆˇˇˇˇˇˇˇˇ™Demon
+F
+ﬂ`Scarred greater demonLevel 95 ¥(Z0Z8(@Hòˆˇˇˇˇˇˇˇˇ™Demon
+CScarred greater demon	Level 113 ¥(Z0Z8(@Hòˆˇˇˇˇˇˇˇˇ™Demon
+6
+÷`Scarred hellhound	Level 101 (i0h82@H™Demon
+,
+—`Scarred hellhound	Level 172(i0h82@H
+,
+÷`Scarred hellhound	Level 176(i0h82@H
 
 Ÿ`Scarred imp
 
