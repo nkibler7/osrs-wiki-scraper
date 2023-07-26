@@ -59,7 +59,7 @@ npcs {
   drange: 180
 }
 npcs {
-  ids: 12367
+  ids: 12372
   name: "Abyssal antibody"
 }
 npcs {
@@ -7457,6 +7457,11 @@ npcs {
   ids: 12196
   name: "Duke Sucellus"
   version: "1"
+  hitpoints: 1500
+  att: 250
+  str: 250
+  def: 250
+  mage: 250
 }
 npcs {
   ids: 12166
@@ -7469,6 +7474,11 @@ npcs {
   ids: 12196
   name: "Duke Sucellus"
   version: "2"
+  hitpoints: 1500
+  att: 250
+  str: 250
+  def: 250
+  mage: 250
 }
 npcs {
   ids: 12166
@@ -7481,6 +7491,11 @@ npcs {
   ids: 12196
   name: "Duke Sucellus"
   version: "3"
+  hitpoints: 1500
+  att: 250
+  str: 250
+  def: 250
+  mage: 250
 }
 npcs {
   ids: 3607
@@ -26146,6 +26161,7 @@ npcs {
   ids: 12219
   name: "The Leviathan"
   version: "Quest"
+  hitpoints: 720
 }
 npcs {
   ids: 12214
@@ -26153,6 +26169,7 @@ npcs {
   ids: 12219
   name: "The Leviathan"
   version: "Post-Quest"
+  hitpoints: 720
 }
 npcs {
   ids: 10814
