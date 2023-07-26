@@ -7530,8 +7530,12 @@ npcs {
   ids: 12196
   name: "Duke Sucellus"
   version: "1"
-  str: 123
+  hitpoints: 758
+  att: 300
+  str: 345
+  def: 275
   mage: 310
+  attbns: 200
 }
 npcs {
   ids: 12166
@@ -7544,8 +7548,12 @@ npcs {
   ids: 12196
   name: "Duke Sucellus"
   version: "2"
-  str: 123
+  hitpoints: 758
+  att: 300
+  str: 345
+  def: 275
   mage: 310
+  attbns: 200
 }
 npcs {
   ids: 12166
@@ -7558,8 +7566,12 @@ npcs {
   ids: 12196
   name: "Duke Sucellus"
   version: "3"
-  str: 123
+  hitpoints: 758
+  att: 300
+  str: 345
+  def: 275
   mage: 310
+  attbns: 200
 }
 npcs {
   ids: 3607
@@ -22218,7 +22230,22 @@ npcs {
 npcs {
   ids: 12360
   name: "Scarred lesser demon"
-  version: "Level 121"
+  version: "Level 121 (mage)"
+  hitpoints: 100
+  att: 110
+  str: 110
+  def: 110
+  mage: 110
+  range: 110
+  attbns: 100
+  amagic: 100
+  arange: 100
+  attributes: "Demon"
+}
+npcs {
+  ids: 12364
+  name: "Scarred lesser demon"
+  version: "Level 121 (ranged)"
   hitpoints: 100
   att: 110
   str: 110

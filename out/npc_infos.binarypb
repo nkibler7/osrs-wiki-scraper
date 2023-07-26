@@ -1286,12 +1286,12 @@ l
 *
 Š)Duke ‚(‚0‚8‚@‚HP2ª
 (Optional)
-)
-†_‡_Ÿ_ _¡_¢_£_¤_Duke Sucellus10{@¶
-)
-†_‡_Ÿ_ _¡_¢_£_¤_Duke Sucellus20{@¶
-)
-†_‡_Ÿ_ _¡_¢_£_¤_Duke Sucellus30{@¶
+6
+†_‡_Ÿ_ _¡_¢_£_¤_Duke Sucellus1 ö(¬0Ù8“@¶PÈ
+6
+†_‡_Ÿ_ _¡_¢_£_¤_Duke Sucellus2 ö(¬0Ù8“@¶PÈ
+6
+†_‡_Ÿ_ _¡_¢_£_¤_Duke Sucellus3 ö(¬0Ù8“@¶PÈ
 !
 —˜™Dungeon rat (
 0
@@ -3732,8 +3732,10 @@ CScarred greater demon	Level 113 ´(Z0Z8(@H˜öÿÿÿÿÿÿÿÿªDemon
 Ã`Scarred lesser demonLevel 82ªDemon
 ,
 á`Scarred lesser demonLevel 85ªDemon
-?
-È`Scarred lesser demon	Level 121 d(n0n8n@nHnPd`dpdªDemon
+F
+È`Scarred lesser demonLevel 121 (mage) d(n0n8n@nHnPd`dpdªDemon
+H
+Ì`Scarred lesser demonLevel 121 (ranged) d(n0n8n@nHnPd`dpdªDemon
 4
 ü:Scavenger beastNormal (x0x8-@Hªxerician
 >
