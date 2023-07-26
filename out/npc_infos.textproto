@@ -699,6 +699,9 @@ npcs {
   drange: 30
 }
 npcs {
+  name: "Ancient Guardian"
+}
+npcs {
   ids: 7307
   name: "Ancient Wizard"
   version: "Mage"
