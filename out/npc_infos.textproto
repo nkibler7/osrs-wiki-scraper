@@ -26162,6 +26162,11 @@ npcs {
   name: "The Leviathan"
   version: "Quest"
   hitpoints: 720
+  att: 250
+  str: 270
+  def: 200
+  mage: 130
+  range: 130
 }
 npcs {
   ids: 12214
@@ -26170,6 +26175,11 @@ npcs {
   name: "The Leviathan"
   version: "Post-Quest"
   hitpoints: 720
+  att: 250
+  str: 270
+  def: 200
+  mage: 130
+  range: 130
 }
 npcs {
   ids: 10814
@@ -28442,11 +28452,21 @@ npcs {
 }
 npcs {
   ids: 12223
+  name: "Vardorvis"
+  version: "Post-quest"
+  hitpoints: 700
+  att: 280
+  str: 270
+  def: 215
+  mage: 215
+}
+npcs {
   ids: 12224
   ids: 12228
   ids: 12425
   ids: 12426
   name: "Vardorvis"
+  version: "Desert Treasure II"
   hitpoints: 500
   att: 260
   str: 210
