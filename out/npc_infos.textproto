@@ -727,6 +727,7 @@ npcs {
   name: "Ancient Guardian"
 }
 npcs {
+  ids: 12236
   name: "Ancient Guardian"
   hitpoints: 100
   att: 180
@@ -14672,6 +14673,10 @@ npcs {
   strbns: 20
 }
 npcs {
+  ids: 12353
+  name: "Jhallan"
+}
+npcs {
   ids: 2094
   name: "Jogre"
   version: "Normal"
@@ -15249,6 +15254,7 @@ npcs {
 npcs {
   ids: 12262
   name: "Kasonde"
+  hitpoints: 240
 }
 npcs {
   ids: 12331
@@ -15319,6 +15325,11 @@ npcs {
   mage: 240
   range: 480
   amagic: 60
+}
+npcs {
+  ids: 12329
+  ids: 12330
+  name: "Ketla the Unworthy"
 }
 npcs {
   ids: 4972
@@ -22456,7 +22467,7 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 12246
+  ids: 12248
   name: "Shadow Keeper"
 }
 npcs {
@@ -25560,15 +25571,31 @@ npcs {
   drange: 82
 }
 npcs {
-  ids: 12282
+  ids: 12368
+  ids: 12369
+  ids: 12370
+  ids: 12371
+  ids: 12372
+  ids: 12373
+  ids: 12374
+  ids: 12375
+  ids: 12376
+  ids: 12377
+  ids: 12378
+  ids: 12379
+  ids: 12380
+  name: "Strangled"
+}
+npcs {
+  ids: 12288
   name: "Strangled Bear"
 }
 npcs {
-  ids: 12283
+  ids: 12289
   name: "Strangled Boar"
 }
 npcs {
-  ids: 12284
+  ids: 12290
   name: "Strangled Lynx"
 }
 npcs {
@@ -26096,6 +26123,10 @@ npcs {
   def: 120
   mage: 1
   range: 1
+}
+npcs {
+  ids: 12328
+  name: "The Forsaken Assassin"
 }
 npcs {
   ids: 3476
