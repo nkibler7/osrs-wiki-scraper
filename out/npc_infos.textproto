@@ -15383,6 +15383,21 @@ npcs {
   ids: 12331
   ids: 12332
   name: "Kasonde the Craven"
+  hitpoints: 200
+  att: 200
+  str: 200
+  def: 120
+  mage: 120
+  range: 200
+  attbns: 40
+  strbns: 4
+  arange: 50
+  rngbns: 4
+  dstab: 30
+  dslash: 30
+  dcrush: 30
+  dmagic: 250
+  drange: 50
 }
 npcs {
   ids: 1494
@@ -15453,6 +15468,17 @@ npcs {
   ids: 12329
   ids: 12330
   name: "Ketla the Unworthy"
+  hitpoints: 200
+  def: 130
+  mage: 130
+  range: 160
+  arange: 80
+  rngbns: 6
+  dstab: 60
+  dslash: 30
+  dcrush: 80
+  dmagic: 200
+  drange: 70
 }
 npcs {
   ids: 4972
@@ -19695,6 +19721,16 @@ npcs {
 npcs {
   ids: 12333
   name: "Persten the Deceitful"
+  hitpoints: 200
+  def: 130
+  mage: 250
+  amagic: 40
+  mbns: 15
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: 200
+  drange: 20
 }
 npcs {
   ids: 10812
@@ -26445,6 +26481,21 @@ npcs {
 npcs {
   ids: 12328
   name: "The Forsaken Assassin"
+  hitpoints: 200
+  att: 160
+  str: 140
+  def: 160
+  mage: 140
+  range: 160
+  attbns: 66
+  strbns: 12
+  arange: 66
+  rngbns: 12
+  dstab: 60
+  dslash: 30
+  dcrush: 80
+  dmagic: 200
+  drange: 50
 }
 npcs {
   ids: 3476
@@ -28810,6 +28861,8 @@ npcs {
   str: 270
   def: 215
   mage: 215
+  attbns: 190
+  strbns: 10
 }
 npcs {
   ids: 7566
@@ -30289,6 +30342,12 @@ npcs {
 npcs {
   ids: 12335
   name: "Wighted Leech"
+  hitpoints: 5
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 112
