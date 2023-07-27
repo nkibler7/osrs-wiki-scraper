@@ -26533,12 +26533,12 @@ npcs {
   ids: 12219
   name: "The Leviathan"
   version: "Post-Quest"
-  hitpoints: 720
+  hitpoints: 900
   att: 250
-  str: 270
-  def: 200
-  mage: 130
-  range: 130
+  str: 360
+  def: 250
+  mage: 160
+  range: 160
   attbns: 200
   strbns: 22
   amagic: 160
