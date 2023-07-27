@@ -7541,11 +7541,9 @@ npcs {
   name: "Duke Sucellus"
   version: "1"
   hitpoints: 440
-  att: 300
   str: 345
   def: 275
   mage: 310
-  attbns: 200
 }
 npcs {
   ids: 12166
@@ -7559,11 +7557,9 @@ npcs {
   name: "Duke Sucellus"
   version: "2"
   hitpoints: 440
-  att: 300
   str: 345
   def: 275
   mage: 310
-  attbns: 200
 }
 npcs {
   ids: 12166
@@ -7577,11 +7573,9 @@ npcs {
   name: "Duke Sucellus"
   version: "3"
   hitpoints: 440
-  att: 300
   str: 345
   def: 275
   mage: 310
-  attbns: 200
 }
 npcs {
   ids: 3607
@@ -26601,7 +26595,7 @@ npcs {
   name: "The Leviathan"
   version: "Post-Quest"
   hitpoints: 900
-  att: 250
+  att: 300
   str: 360
   def: 250
   mage: 160
