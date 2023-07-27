@@ -22719,6 +22719,12 @@ npcs {
 npcs {
   ids: 12248
   name: "Shadow Keeper"
+  hitpoints: 100
+  att: 140
+  str: 110
+  def: 100
+  mage: 100
+  range: 1
 }
 npcs {
   ids: 11485
