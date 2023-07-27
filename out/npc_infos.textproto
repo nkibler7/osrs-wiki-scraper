@@ -26673,34 +26673,6 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 12204
-  ids: 12205
-  ids: 12206
-  ids: 12207
-  name: "The Whisperer"
-  version: "Quest"
-  hitpoints: 660
-  att: 240
-  str: 250
-  def: 200
-  mage: 130
-  range: 130
-}
-npcs {
-  ids: 12204
-  ids: 12205
-  ids: 12206
-  ids: 12207
-  name: "The Whisperer"
-  version: "Post-Quest"
-  hitpoints: 900
-  att: 240
-  str: 250
-  def: 200
-  mage: 130
-  range: 130
-}
-npcs {
   ids: 499
   name: "Thermonuclear smoke devil"
   hitpoints: 240
