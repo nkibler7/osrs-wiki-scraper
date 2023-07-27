@@ -28790,12 +28790,13 @@ npcs {
 npcs {
   ids: 12223
   name: "Vardorvis"
-  version: "Post-quest"
-  hitpoints: 700
-  att: 280
-  str: 270
-  def: 215
-  mage: 215
+  version: "Quest"
+  hitpoints: 500
+  att: 260
+  str: 210
+  def: 180
+  mage: 180
+  attbns: 185
 }
 npcs {
   ids: 12224
@@ -28803,13 +28804,12 @@ npcs {
   ids: 12425
   ids: 12426
   name: "Vardorvis"
-  version: "Desert Treasure II"
-  hitpoints: 500
-  att: 260
-  str: 210
-  def: 180
-  mage: 180
-  attbns: 185
+  version: "Post-Quest"
+  hitpoints: 700
+  att: 280
+  str: 270
+  def: 215
+  mage: 215
 }
 npcs {
   ids: 7566
