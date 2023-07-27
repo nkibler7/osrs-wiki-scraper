@@ -15466,9 +15466,25 @@ npcs {
 }
 npcs {
   ids: 12329
+  name: "Ketla the Unworthy"
+  version: "Regular"
+  hitpoints: 200
+  def: 130
+  mage: 130
+  range: 160
+  arange: 80
+  rngbns: 6
+  dstab: 60
+  dslash: 30
+  dcrush: 80
+  dmagic: 200
+  drange: 70
+}
+npcs {
   ids: 12330
   name: "Ketla the Unworthy"
-  hitpoints: 200
+  version: "Shadow Clone"
+  hitpoints: 1
   def: 130
   mage: 130
   range: 160
