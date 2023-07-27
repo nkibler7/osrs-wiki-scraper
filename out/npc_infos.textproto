@@ -7539,7 +7539,7 @@ npcs {
   ids: 12195
   ids: 12196
   name: "Duke Sucellus"
-  version: "1"
+  version: "Quest"
   hitpoints: 440
   att: 300
   str: 345
@@ -7557,13 +7557,7 @@ npcs {
   ids: 12195
   ids: 12196
   name: "Duke Sucellus"
-  version: "2"
-  hitpoints: 440
-  att: 300
-  str: 345
-  def: 275
-  mage: 310
-  attbns: 200
+  version: "Post-Quest"
 }
 npcs {
   ids: 12166
@@ -7575,13 +7569,7 @@ npcs {
   ids: 12195
   ids: 12196
   name: "Duke Sucellus"
-  version: "3"
-  hitpoints: 440
-  att: 300
-  str: 345
-  def: 275
-  mage: 310
-  attbns: 200
+  version: "Awakened"
 }
 npcs {
   ids: 3607
@@ -26547,6 +26535,20 @@ npcs {
   rngbns: 26
 }
 npcs {
+  ids: 12214
+  ids: 12215
+  ids: 12219
+  name: "The Leviathan"
+  version: "Awakened"
+  att: 250
+  attbns: 200
+  strbns: 22
+  amagic: 160
+  mbns: 58
+  arange: 300
+  rngbns: 26
+}
+npcs {
   ids: 10814
   name: "The Maiden of Sugadinti"
   version: "Entry Mode"
@@ -26671,6 +26673,23 @@ npcs {
   def: 434
   mage: 1
   range: 1
+}
+npcs {
+  ids: 12204
+  ids: 12205
+  ids: 12206
+  ids: 12207
+  name: "The Whisperer"
+  version: "Post-Quest"
+  hitpoints: 900
+}
+npcs {
+  ids: 12204
+  ids: 12205
+  ids: 12206
+  ids: 12207
+  name: "The Whisperer"
+  version: "Awakened"
 }
 npcs {
   ids: 499

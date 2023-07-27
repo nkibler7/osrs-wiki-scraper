@@ -1289,12 +1289,13 @@ l
 *
 ä)Duke Ç(Ç0Ç8Ç@ÇHP2™
 (Optional)
-6
-Ü_á_ü_†_°_¢_£_§_Duke Sucellus1 ∏(¨0Ÿ8ì@∂P»
-6
-Ü_á_ü_†_°_¢_£_§_Duke Sucellus2 ∏(¨0Ÿ8ì@∂P»
-6
-Ü_á_ü_†_°_¢_£_§_Duke Sucellus3 ∏(¨0Ÿ8ì@∂P»
+:
+Ü_á_ü_†_°_¢_£_§_Duke SucellusQuest ∏(¨0Ÿ8ì@∂P»
+-
+Ü_á_ü_†_°_¢_£_§_Duke Sucellus
+Post-Quest
++
+Ü_á_ü_†_°_¢_£_§_Duke SucellusAwakened
 !
 óòôDungeon rat (
 0
@@ -4437,6 +4438,8 @@ D
 D
 ∂_∑_ª_The Leviathan
 Post-Quest Ñ(˙0Ë8˙@†H†P»X`†h:p¨x
+3
+∂_∑_ª_The LeviathanAwakened(˙P»X`†h:p¨x
 ?
 æTThe Maiden of Sugadinti
 Entry Mode –(å0å8P@åHå`ñh
@@ -4461,6 +4464,11 @@ Entry Mode –(å0å8P@åHå`ñh
 ì–1The UntouchableNormal Z(ª0ˇ8≤@H
 2
 È/The Untouchable (hard)Hard ¥(ˆ0˛8≤@H
+(
+¨_≠_Æ_Ø_The Whisperer
+Post-Quest Ñ
+#
+¨_≠_Æ_Ø_The WhispererAwakened
 A
 ÛThermonuclear smoke devil (Ê0‹8Ë@H∂Äàê	ò††Ñ
 !
