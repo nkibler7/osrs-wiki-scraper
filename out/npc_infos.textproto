@@ -7540,7 +7540,7 @@ npcs {
   ids: 12196
   name: "Duke Sucellus"
   version: "1"
-  hitpoints: 758
+  hitpoints: 440
   att: 300
   str: 345
   def: 275
@@ -7558,7 +7558,7 @@ npcs {
   ids: 12196
   name: "Duke Sucellus"
   version: "2"
-  hitpoints: 758
+  hitpoints: 440
   att: 300
   str: 345
   def: 275
@@ -7576,7 +7576,7 @@ npcs {
   ids: 12196
   name: "Duke Sucellus"
   version: "3"
-  hitpoints: 758
+  hitpoints: 440
   att: 300
   str: 345
   def: 275
