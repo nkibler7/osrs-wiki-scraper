@@ -1537,6 +1537,25 @@ npcs {
   drange: 50
 }
 npcs {
+  ids: 12328
+  name: "The Forsaken Assassin"
+  hitpoints: 200
+  att: 160
+  str: 140
+  def: 160
+  mage: 140
+  range: 160
+  attbns: 66
+  strbns: 12
+  arange: 66
+  rngbns: 12
+  dstab: 60
+  dslash: 30
+  dcrush: 80
+  dmagic: 200
+  drange: 50
+}
+npcs {
   ids: 10940
   name: "Assassin"
   hitpoints: 120
