@@ -23,16 +23,15 @@ M
 Ä2à2êdò2†
 
 <
-‰`Abyssal leechLevel 32 2(20
+È`Abyssal leechLevel 32 2(20
 8@HPX
 Ä2à2ê
 ò2†
 
-,
-Œ`Abyssal leechLevel 46 (08@H†
-
+)
+Œ`Abyssal leechLevel 46 (08@H
 <
-‚`Abyssal leechLevel 54 (x0
+Á`Abyssal leechLevel 54 (x0
 8@HPdX
 Ä2à2êdò2†
 
@@ -52,11 +51,13 @@ X
 öAbyssal walker _(0d8_@HPX
 ÄKàKê
 òK†K
-"
-Â`Abyssal walkerLevel 90@H
-0
-„`Abyssal walker	Level 109 x(0ñ8_@HPX
-
+1
+Í`Abyssal walkerLevel 90@HÄKàKê
+òK†K
+?
+Ë`Abyssal walker	Level 109 x(0ñ8_@HPX
+ÄKàKê
+òK†K
 ^
 ÂJAcidic Bloodveld (P0.8@HÄúˇˇˇˇˇˇˇˇàúˇˇˇˇˇˇˇˇêúˇˇˇˇˇˇˇˇòúˇˇˇˇˇˇˇˇ†úˇˇˇˇˇˇˇˇ
 F
@@ -1289,12 +1290,12 @@ l
 *
 ä)Duke Ç(Ç0Ç8Ç@ÇHP2™
 (Optional)
-3
-Ü_á_ü_†_°_¢_£_§_Duke Sucellus1 ∏(¨0Ÿ8ì@∂
-3
-Ü_á_ü_†_°_¢_£_§_Duke Sucellus2 ∏(¨0Ÿ8ì@∂
-3
-Ü_á_ü_†_°_¢_£_§_Duke Sucellus3 ∏(¨0Ÿ8ì@∂
+=
+Ü_á_ü_†_°_¢_£_§_Duke Sucellus1 ∏(¨0Ÿ8ì@∂P»X&`ñh 
+=
+Ü_á_ü_†_°_¢_£_§_Duke Sucellus2 ∏(¨0Ÿ8ì@∂P»X&`ñh 
+=
+Ü_á_ü_†_°_¢_£_§_Duke Sucellus3 ∏(¨0Ÿ8ì@∂P»X&`ñh 
 !
 óòôDungeon rat (
 0
@@ -3708,21 +3709,18 @@ X
 4
 ŸScarabs (ˇ08
 @HÄàêò†™kalphite
-$
-≈`Scarred black demon	Level 172
-$
-›`Scarred black demon	Level 176
+=
+‚`Scarred black demon ù(ë0†8ò@Hòˆˇˇˇˇˇˇˇˇ™demon
 
 ”`Scarred demonLevel 18
 
 –`Scarred demon	Level 113
 
 ’`Scarred demon	Level 127
-F
-«`Scarred greater demonLevel 92 ¥(Z0Z8(@Hòˆˇˇˇˇˇˇˇˇ™Demon
-F
-ﬂ`Scarred greater demonLevel 95 ¥(Z0Z8(@Hòˆˇˇˇˇˇˇˇˇ™Demon
-CScarred greater demon	Level 113 ¥(Z0Z8(@Hòˆˇˇˇˇˇˇˇˇ™Demon
+E
+‰`Scarred greater demonLevel 95 W(L0X8Q@Hòˆˇˇˇˇˇˇˇˇ™Demon
+G
+’`Scarred greater demon	Level 113 ¥(Z0Z8(@Hòˆˇˇˇˇˇˇˇˇ™Demon
 6
 ÷`Scarred hellhound	Level 101 (i0h82@H™Demon
 ,
