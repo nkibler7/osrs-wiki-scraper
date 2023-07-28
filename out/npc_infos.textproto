@@ -1537,25 +1537,6 @@ npcs {
   drange: 50
 }
 npcs {
-  ids: 12328
-  name: "The Forsaken Assassin"
-  hitpoints: 200
-  att: 160
-  str: 140
-  def: 160
-  mage: 140
-  range: 160
-  attbns: 66
-  strbns: 12
-  arange: 66
-  rngbns: 12
-  dstab: 60
-  dslash: 30
-  dcrush: 80
-  dmagic: 200
-  drange: 50
-}
-npcs {
   ids: 10940
   name: "Assassin"
   hitpoints: 120
@@ -7560,6 +7541,7 @@ npcs {
   name: "Duke Sucellus"
   version: "1"
   hitpoints: 440
+  att: 300
   str: 345
   def: 275
   mage: 310
@@ -7576,6 +7558,7 @@ npcs {
   name: "Duke Sucellus"
   version: "2"
   hitpoints: 440
+  att: 300
   str: 345
   def: 275
   mage: 310
@@ -7592,6 +7575,7 @@ npcs {
   name: "Duke Sucellus"
   version: "3"
   hitpoints: 440
+  att: 300
   str: 345
   def: 275
   mage: 310
@@ -26619,6 +26603,19 @@ npcs {
   def: 250
   mage: 160
   range: 160
+  attbns: 200
+  strbns: 22
+  amagic: 160
+  mbns: 58
+  arange: 300
+  rngbns: 26
+}
+npcs {
+  ids: 12214
+  ids: 12215
+  ids: 12219
+  name: "The Leviathan"
+  version: "Level 3"
   attbns: 200
   strbns: 22
   amagic: 160
