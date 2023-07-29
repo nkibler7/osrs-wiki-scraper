@@ -7548,7 +7548,7 @@ npcs {
   ids: 12195
   ids: 12196
   name: "Duke Sucellus"
-  version: "1"
+  version: "Awake"
   hitpoints: 440
   att: 300
   str: 345
@@ -7569,7 +7569,7 @@ npcs {
   ids: 12195
   ids: 12196
   name: "Duke Sucellus"
-  version: "2"
+  version: "Dead"
   hitpoints: 440
   att: 300
   str: 345
@@ -7590,12 +7590,114 @@ npcs {
   ids: 12195
   ids: 12196
   name: "Duke Sucellus"
-  version: "3"
+  version: "Asleep"
   hitpoints: 440
   att: 300
   str: 345
   def: 275
   mage: 310
+  attbns: 200
+  strbns: 38
+  amagic: 150
+  mbns: 32
+}
+npcs {
+  ids: 12166
+  ids: 12167
+  ids: 12191
+  ids: 12192
+  ids: 12193
+  ids: 12194
+  ids: 12195
+  ids: 12196
+  name: "Duke Sucellus"
+  version: "Awake"
+  hitpoints: 1540
+}
+npcs {
+  ids: 12166
+  ids: 12167
+  ids: 12191
+  ids: 12192
+  ids: 12193
+  ids: 12194
+  ids: 12195
+  ids: 12196
+  name: "Duke Sucellus"
+  version: "Dead"
+  hitpoints: 1540
+}
+npcs {
+  ids: 12166
+  ids: 12167
+  ids: 12191
+  ids: 12192
+  ids: 12193
+  ids: 12194
+  ids: 12195
+  ids: 12196
+  name: "Duke Sucellus"
+  version: "Asleep"
+  hitpoints: 1540
+}
+npcs {
+  ids: 12166
+  ids: 12167
+  ids: 12191
+  ids: 12192
+  ids: 12193
+  ids: 12194
+  ids: 12195
+  ids: 12196
+  name: "Duke Sucellus"
+  version: "Awake"
+  hitpoints: 360
+  att: 250
+  str: 280
+  def: 215
+  mage: 230
+  attbns: 200
+  strbns: 38
+  amagic: 150
+  mbns: 32
+}
+npcs {
+  ids: 12166
+  ids: 12167
+  ids: 12191
+  ids: 12192
+  ids: 12193
+  ids: 12194
+  ids: 12195
+  ids: 12196
+  name: "Duke Sucellus"
+  version: "Dead"
+  hitpoints: 360
+  att: 250
+  str: 280
+  def: 215
+  mage: 230
+  attbns: 200
+  strbns: 38
+  amagic: 150
+  mbns: 32
+}
+npcs {
+  ids: 12166
+  ids: 12167
+  ids: 12191
+  ids: 12192
+  ids: 12193
+  ids: 12194
+  ids: 12195
+  ids: 12196
+  name: "Duke Sucellus"
+  version: "Asleep"
+  hitpoints: 360
+  att: 250
+  str: 280
+  def: 215
+  mage: 230
   attbns: 200
   strbns: 38
   amagic: 150
