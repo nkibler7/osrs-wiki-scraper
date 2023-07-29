@@ -15530,6 +15530,7 @@ npcs {
   dcrush: 30
   dmagic: 250
   drange: 50
+  attributes: "spectral"
 }
 npcs {
   ids: 1494
@@ -15611,6 +15612,7 @@ npcs {
   dcrush: 80
   dmagic: 200
   drange: 70
+  attributes: "spectral"
 }
 npcs {
   ids: 12330
@@ -15627,6 +15629,7 @@ npcs {
   dcrush: 80
   dmagic: 200
   drange: 70
+  attributes: "spectral"
 }
 npcs {
   ids: 4972
@@ -19879,6 +19882,7 @@ npcs {
   dcrush: 70
   dmagic: 200
   drange: 20
+  attributes: "spectral"
 }
 npcs {
   ids: 10812
@@ -26623,6 +26627,7 @@ npcs {
   dcrush: 80
   dmagic: 200
   drange: 50
+  attributes: "spectral"
 }
 npcs {
   ids: 3476
