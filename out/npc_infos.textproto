@@ -7613,7 +7613,10 @@ npcs {
   name: "Duke Sucellus"
   version: "Awake"
   hitpoints: 1540
-  def: 800
+  att: 435
+  str: 500
+  def: 316
+  mage: 465
 }
 npcs {
   ids: 12166
@@ -7627,7 +7630,10 @@ npcs {
   name: "Duke Sucellus"
   version: "Dead"
   hitpoints: 1540
-  def: 800
+  att: 435
+  str: 500
+  def: 316
+  mage: 465
 }
 npcs {
   ids: 12166
@@ -7641,7 +7647,10 @@ npcs {
   name: "Duke Sucellus"
   version: "Asleep"
   hitpoints: 1540
-  def: 800
+  att: 435
+  str: 500
+  def: 316
+  mage: 465
 }
 npcs {
   ids: 12166
@@ -22371,10 +22380,6 @@ npcs {
   mage: 1
   range: 1
   attributes: "Demon"
-}
-npcs {
-  ids: 12361
-  name: "Scarred leech"
 }
 npcs {
   ids: 12390
