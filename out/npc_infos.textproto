@@ -7613,6 +7613,7 @@ npcs {
   name: "Duke Sucellus"
   version: "Awake"
   hitpoints: 1540
+  def: 800
 }
 npcs {
   ids: 12166
@@ -7626,6 +7627,7 @@ npcs {
   name: "Duke Sucellus"
   version: "Dead"
   hitpoints: 1540
+  def: 800
 }
 npcs {
   ids: 12166
@@ -7639,6 +7641,7 @@ npcs {
   name: "Duke Sucellus"
   version: "Asleep"
   hitpoints: 1540
+  def: 800
 }
 npcs {
   ids: 12166
