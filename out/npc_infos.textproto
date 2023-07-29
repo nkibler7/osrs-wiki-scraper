@@ -26686,6 +26686,7 @@ npcs {
   ids: 12215
   ids: 12219
   name: "The Leviathan"
+  version: "Post-Quest"
   hitpoints: 900
   att: 300
   str: 360
@@ -26704,6 +26705,7 @@ npcs {
   ids: 12215
   ids: 12219
   name: "The Leviathan"
+  version: "Awakened"
   hitpoints: 2700
 }
 npcs {
@@ -26711,6 +26713,7 @@ npcs {
   ids: 12215
   ids: 12219
   name: "The Leviathan"
+  version: "Quest"
   hitpoints: 720
   att: 250
   str: 270
@@ -26856,26 +26859,6 @@ npcs {
   ids: 12206
   ids: 12207
   name: "The Whisperer"
-  version: "Quest"
-  hitpoints: 660
-  att: 240
-  str: 250
-  def: 200
-  mage: 130
-  range: 130
-  attbns: 100
-  strbns: 10
-  amagic: 180
-  mbns: 54
-  arange: 140
-  rngbns: 66
-}
-npcs {
-  ids: 12204
-  ids: 12205
-  ids: 12206
-  ids: 12207
-  name: "The Whisperer"
   version: "Post-Quest"
   hitpoints: 900
   att: 280
@@ -26898,6 +26881,26 @@ npcs {
   name: "The Whisperer"
   version: "Awakened"
   hitpoints: 2700
+}
+npcs {
+  ids: 12204
+  ids: 12205
+  ids: 12206
+  ids: 12207
+  name: "The Whisperer"
+  version: "Quest"
+  hitpoints: 660
+  att: 240
+  str: 250
+  def: 200
+  mage: 130
+  range: 130
+  attbns: 100
+  strbns: 10
+  amagic: 180
+  mbns: 54
+  arange: 140
+  rngbns: 66
 }
 npcs {
   ids: 499
