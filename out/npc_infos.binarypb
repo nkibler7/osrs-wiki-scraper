@@ -3739,16 +3739,16 @@ G
 Ù`Scarred imp (082@HªDemon
 
 É`Scarred leech
-,
-Ã`Scarred lesser demonLevel 82ªDemon
-,
-á`Scarred lesser demonLevel 85ªDemon
+8
+æ`Scarred lesser demonLevel 85 O(D0P8G@HªDemon
 F
 È`Scarred lesser demonLevel 121 (mage) d(n0n8n@nHnPd`dpdªDemon
-H
-Ì`Scarred lesser demonLevel 121 (ranged) d(n0n8n@nHnPd`dpdªDemon
 G
 Ê`Scarred lesser demonLevel 121 (melee) d(n0n8n@nHnPd`dpdªDemon
+H
+Ì`Scarred lesser demonLevel 121 (ranged) d(n0n8n@nHnPd`dpdªDemon
+Q
+Ú`Scarred lesser demonLevel 121 (summoning circle) F(x0”8Z@HPBXªDemon
 4
 ü:Scavenger beastNormal (x0x8-@Hªxerician
 >
@@ -4440,13 +4440,12 @@ D
 ˆ
 
 ˜öÿÿÿÿÿÿÿÿ 
-?
-¶_·_»_The LeviathanQuest Ğ(ú08È@‚H‚PÈX` h:p¬x
-D
-¶_·_»_The Leviathan
-Post-Quest „(¬0è8ú@ H PÈX` h:p¬x
-/
-¶_·_»_The LeviathanLevel 3PÈX` h:p¬x
+8
+¶_·_»_The Leviathan „(¬0è8ú@ H PÈX` h:p¬x
+
+¶_·_»_The Leviathan Œ
+8
+¶_·_»_The Leviathan Ğ(ú08È@‚H‚PÈX` h:p¬x
 ?
 ¾TThe Maiden of Sugadinti
 Entry Mode Ğ(Œ0Œ8P@ŒHŒ`–h
@@ -4477,6 +4476,8 @@ Entry Mode Ğ(Œ0Œ8P@ŒHŒ`–h
 F
 ¬_­_®_¯_The Whisperer
 Post-Quest „(˜0˜8ú@´H´PŒX`¾h:p xF
+&
+¬_­_®_¯_The WhispererAwakened Œ
 A
 óThermonuclear smoke devil ğ(æ0Ü8è@H¶€ˆ	˜  „
 !

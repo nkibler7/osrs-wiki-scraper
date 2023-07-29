@@ -22374,21 +22374,36 @@ npcs {
   name: "Scarred leech"
 }
 npcs {
-  ids: 12355
-  name: "Scarred lesser demon"
-  version: "Level 82"
-  attributes: "Demon"
-}
-npcs {
-  ids: 12385
+  ids: 12390
   name: "Scarred lesser demon"
   version: "Level 85"
+  hitpoints: 79
+  att: 68
+  str: 80
+  def: 71
+  mage: 1
+  range: 1
   attributes: "Demon"
 }
 npcs {
   ids: 12360
   name: "Scarred lesser demon"
   version: "Level 121 (mage)"
+  hitpoints: 100
+  att: 110
+  str: 110
+  def: 110
+  mage: 110
+  range: 110
+  attbns: 100
+  amagic: 100
+  arange: 100
+  attributes: "Demon"
+}
+npcs {
+  ids: 12362
+  name: "Scarred lesser demon"
+  version: "Level 121 (melee)"
   hitpoints: 100
   att: 110
   str: 110
@@ -22416,18 +22431,17 @@ npcs {
   attributes: "Demon"
 }
 npcs {
-  ids: 12362
+  ids: 12378
   name: "Scarred lesser demon"
-  version: "Level 121 (melee)"
-  hitpoints: 100
-  att: 110
-  str: 110
-  def: 110
-  mage: 110
-  range: 110
-  attbns: 100
-  amagic: 100
-  arange: 100
+  version: "Level 121 (summoning circle)"
+  hitpoints: 70
+  att: 120
+  str: 148
+  def: 90
+  mage: 1
+  range: 1
+  attbns: 66
+  strbns: 12
   attributes: "Demon"
 }
 npcs {
@@ -26669,26 +26683,6 @@ npcs {
   ids: 12215
   ids: 12219
   name: "The Leviathan"
-  version: "Quest"
-  hitpoints: 720
-  att: 250
-  str: 270
-  def: 200
-  mage: 130
-  range: 130
-  attbns: 200
-  strbns: 22
-  amagic: 160
-  mbns: 58
-  arange: 300
-  rngbns: 26
-}
-npcs {
-  ids: 12214
-  ids: 12215
-  ids: 12219
-  name: "The Leviathan"
-  version: "Post-Quest"
   hitpoints: 900
   att: 300
   str: 360
@@ -26707,7 +26701,19 @@ npcs {
   ids: 12215
   ids: 12219
   name: "The Leviathan"
-  version: "Level 3"
+  hitpoints: 2700
+}
+npcs {
+  ids: 12214
+  ids: 12215
+  ids: 12219
+  name: "The Leviathan"
+  hitpoints: 720
+  att: 250
+  str: 270
+  def: 200
+  mage: 130
+  range: 130
   attbns: 200
   strbns: 22
   amagic: 160
@@ -26880,6 +26886,15 @@ npcs {
   mbns: 58
   arange: 160
   rngbns: 70
+}
+npcs {
+  ids: 12204
+  ids: 12205
+  ids: 12206
+  ids: 12207
+  name: "The Whisperer"
+  version: "Awakened"
+  hitpoints: 2700
 }
 npcs {
   ids: 499
