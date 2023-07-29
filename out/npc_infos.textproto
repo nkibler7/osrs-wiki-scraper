@@ -22248,7 +22248,6 @@ npcs {
 npcs {
   ids: 12374
   name: "Scarred hellhound"
-  version: "Level 101"
   hitpoints: 25
   att: 105
   str: 104
@@ -22256,26 +22255,6 @@ npcs {
   mage: 1
   range: 1
   attributes: "Demon"
-}
-npcs {
-  ids: 12369
-  name: "Scarred hellhound"
-  version: "Level 172"
-  att: 105
-  str: 104
-  def: 50
-  mage: 1
-  range: 1
-}
-npcs {
-  ids: 12374
-  name: "Scarred hellhound"
-  version: "Level 176"
-  att: 105
-  str: 104
-  def: 50
-  mage: 1
-  range: 1
 }
 npcs {
   ids: 12377
