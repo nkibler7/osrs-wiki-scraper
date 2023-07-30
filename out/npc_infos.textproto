@@ -11133,13 +11133,13 @@ npcs {
   dcrush: 6
 }
 npcs {
+  ids: 2836
+  name: "Golem"
+}
+npcs {
   ids: 9051
   name: "Golem"
   hitpoints: 14
-}
-npcs {
-  ids: 2836
-  name: "Golem"
 }
 npcs {
   ids: 4367
