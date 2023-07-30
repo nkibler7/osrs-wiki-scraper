@@ -29028,15 +29028,6 @@ npcs {
   attributes: "vampyre3"
 }
 npcs {
-  ids: 12224
-  ids: 12228
-  ids: 12425
-  ids: 12426
-  name: "Vardorvis"
-  version: "Awakened"
-  hitpoints: 1400
-}
-npcs {
   ids: 7566
   ids: 7567
   name: "Vasa Nistirio"
