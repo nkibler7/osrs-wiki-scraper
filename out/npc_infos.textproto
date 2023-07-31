@@ -26695,6 +26695,7 @@ npcs {
   ids: 12214
   ids: 12215
   ids: 12219
+  ids: 12217
   name: "The Leviathan"
   version: "Post-Quest"
   hitpoints: 900
@@ -26714,6 +26715,7 @@ npcs {
   ids: 12214
   ids: 12215
   ids: 12219
+  ids: 12217
   name: "The Leviathan"
   version: "Awakened"
   hitpoints: 2700
@@ -26722,6 +26724,7 @@ npcs {
   ids: 12214
   ids: 12215
   ids: 12219
+  ids: 12217
   name: "The Leviathan"
   version: "Quest"
   hitpoints: 720
