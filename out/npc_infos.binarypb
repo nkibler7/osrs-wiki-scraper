@@ -1290,24 +1290,20 @@ l
 *
 Š)Duke ‚(‚0‚8‚@‚HP2ª
 (Optional)
-A
-†_‡_Ÿ_ _¡_¢_£_¤_Duke SucellusAwake ¸(¬0Ù8“@¶PÈX&`–h 
-@
-†_‡_Ÿ_ _¡_¢_£_¤_Duke SucellusDead ¸(¬0Ù8“@¶PÈX&`–h 
-B
-†_‡_Ÿ_ _¡_¢_£_¤_Duke SucellusAsleep ¸(¬0Ù8“@¶PÈX&`–h 
-7
-†_‡_Ÿ_ _¡_¢_£_¤_Duke SucellusAwake „(³0ô8¼@Ñ
+3
+Ÿ_Duke SucellusAwake ¸(¬0Ù8“@¶PÈX&`–h 
+4
+ _¤_Duke SucellusDead ¸(¬0Ù8“@¶PÈX&`–h 
 6
-†_‡_Ÿ_ _¡_¢_£_¤_Duke SucellusDead „(³0ô8¼@Ñ
-8
-†_‡_Ÿ_ _¡_¢_£_¤_Duke SucellusAsleep „(³0ô8¼@Ñ
-A
-†_‡_Ÿ_ _¡_¢_£_¤_Duke SucellusAwake è(ú0˜8×@æPÈX&`–h 
-@
-†_‡_Ÿ_ _¡_¢_£_¤_Duke SucellusDead è(ú0˜8×@æPÈX&`–h 
-B
-†_‡_Ÿ_ _¡_¢_£_¤_Duke SucellusAsleep è(ú0˜8×@æPÈX&`–h 
+†_‡_Duke SucellusAsleep ¸(¬0Ù8“@¶PÈX&`–h 
+%Duke SucellusAwake „(³0ô8¼@Ñ
+$Duke SucellusDead „(³0ô8¼@Ñ
+&Duke SucellusAsleep „(³0ô8¼@Ñ
+3
+£_Duke SucellusAwake è(ú0˜8×@æPÈX&`–h 
+.Duke SucellusDead è(ú0˜8×@æPÈX&`–h 
+6
+¡_¢_Duke SucellusAsleep è(ú0˜8×@æPÈX&`–h 
 !
 —˜™Dungeon rat (
 0
@@ -4438,13 +4434,12 @@ D
 ˆ
 
 ˜öÿÿÿÿÿÿÿÿ 
-F
-¶_·_»_¹_The Leviathan
+@
+¶_The Leviathan
 Post-Quest „(¬0è8ú@ H PÈX` h:p¬x
-&
-¶_·_»_¹_The LeviathanAwakened Œ
-A
-¶_·_»_¹_The LeviathanQuest Ğ(ú08È@‚H‚PÈX` h:p¬x
+The LeviathanAwakened Œ
+=
+·_»_The LeviathanQuest Ğ(ú08È@‚H‚PÈX` h:p¬x
 ?
 ¾TThe Maiden of Sugadinti
 Entry Mode Ğ(Œ0Œ8P@ŒHŒ`–h
@@ -4469,13 +4464,12 @@ Entry Mode Ğ(Œ0Œ8P@ŒHŒ`–h
 “Ğ1The UntouchableNormal Z(»0ÿ8²@H
 2
 é/The Untouchable (hard)Hard ´(ö0ş8²@H
-F
-¬_­_®_¯_The Whisperer
+B
+¬_­_The Whisperer
 Post-Quest „(˜0˜8ú@´H´PŒX`¾h:p xF
-&
-¬_­_®_¯_The WhispererAwakened Œ
-@
-¬_­_®_¯_The WhispererQuest ”(ğ0ú8È@‚H‚PdX
+The WhispererAwakened Œ
+<
+®_¯_The WhispererQuest ”(ğ0ú8È@‚H‚PdX
 `´h6pŒxB
 A
 óThermonuclear smoke devil ğ(æ0Ü8è@H¶€ˆ	˜  „
@@ -4824,6 +4818,8 @@ Y
 –—˜™š›¯@°@Vanstrom Klause ›(–0ˆ8–@–H–ªvampyre3
 <
 ßJVanstrom Klause î8´@´`h€"ˆ""˜" "ªvampyre3
+,
+À_Ä_‰a	VardorvisQuest ô(„0Ò8´@´P¹
 L
 ;;Vasa NistirioNormal ¬(08¯@æHæpd€ªˆ¾2˜ <ªxerician
 T

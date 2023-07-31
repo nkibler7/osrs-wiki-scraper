@@ -7539,14 +7539,7 @@ npcs {
   attributes: "(Optional)"
 }
 npcs {
-  ids: 12166
-  ids: 12167
   ids: 12191
-  ids: 12192
-  ids: 12193
-  ids: 12194
-  ids: 12195
-  ids: 12196
   name: "Duke Sucellus"
   version: "Awake"
   hitpoints: 440
@@ -7560,13 +7553,7 @@ npcs {
   mbns: 32
 }
 npcs {
-  ids: 12166
-  ids: 12167
-  ids: 12191
   ids: 12192
-  ids: 12193
-  ids: 12194
-  ids: 12195
   ids: 12196
   name: "Duke Sucellus"
   version: "Dead"
@@ -7583,12 +7570,6 @@ npcs {
 npcs {
   ids: 12166
   ids: 12167
-  ids: 12191
-  ids: 12192
-  ids: 12193
-  ids: 12194
-  ids: 12195
-  ids: 12196
   name: "Duke Sucellus"
   version: "Asleep"
   hitpoints: 440
@@ -7602,14 +7583,6 @@ npcs {
   mbns: 32
 }
 npcs {
-  ids: 12166
-  ids: 12167
-  ids: 12191
-  ids: 12192
-  ids: 12193
-  ids: 12194
-  ids: 12195
-  ids: 12196
   name: "Duke Sucellus"
   version: "Awake"
   hitpoints: 1540
@@ -7619,14 +7592,6 @@ npcs {
   mage: 465
 }
 npcs {
-  ids: 12166
-  ids: 12167
-  ids: 12191
-  ids: 12192
-  ids: 12193
-  ids: 12194
-  ids: 12195
-  ids: 12196
   name: "Duke Sucellus"
   version: "Dead"
   hitpoints: 1540
@@ -7636,14 +7601,6 @@ npcs {
   mage: 465
 }
 npcs {
-  ids: 12166
-  ids: 12167
-  ids: 12191
-  ids: 12192
-  ids: 12193
-  ids: 12194
-  ids: 12195
-  ids: 12196
   name: "Duke Sucellus"
   version: "Asleep"
   hitpoints: 1540
@@ -7653,14 +7610,7 @@ npcs {
   mage: 465
 }
 npcs {
-  ids: 12166
-  ids: 12167
-  ids: 12191
-  ids: 12192
-  ids: 12193
-  ids: 12194
   ids: 12195
-  ids: 12196
   name: "Duke Sucellus"
   version: "Awake"
   hitpoints: 360
@@ -7674,14 +7624,6 @@ npcs {
   mbns: 32
 }
 npcs {
-  ids: 12166
-  ids: 12167
-  ids: 12191
-  ids: 12192
-  ids: 12193
-  ids: 12194
-  ids: 12195
-  ids: 12196
   name: "Duke Sucellus"
   version: "Dead"
   hitpoints: 360
@@ -7695,14 +7637,8 @@ npcs {
   mbns: 32
 }
 npcs {
-  ids: 12166
-  ids: 12167
-  ids: 12191
-  ids: 12192
   ids: 12193
   ids: 12194
-  ids: 12195
-  ids: 12196
   name: "Duke Sucellus"
   version: "Asleep"
   hitpoints: 360
@@ -26693,9 +26629,6 @@ npcs {
 }
 npcs {
   ids: 12214
-  ids: 12215
-  ids: 12219
-  ids: 12217
   name: "The Leviathan"
   version: "Post-Quest"
   hitpoints: 900
@@ -26712,19 +26645,13 @@ npcs {
   rngbns: 26
 }
 npcs {
-  ids: 12214
-  ids: 12215
-  ids: 12219
-  ids: 12217
   name: "The Leviathan"
   version: "Awakened"
   hitpoints: 2700
 }
 npcs {
-  ids: 12214
   ids: 12215
   ids: 12219
-  ids: 12217
   name: "The Leviathan"
   version: "Quest"
   hitpoints: 720
@@ -26869,8 +26796,6 @@ npcs {
 npcs {
   ids: 12204
   ids: 12205
-  ids: 12206
-  ids: 12207
   name: "The Whisperer"
   version: "Post-Quest"
   hitpoints: 900
@@ -26887,17 +26812,11 @@ npcs {
   rngbns: 70
 }
 npcs {
-  ids: 12204
-  ids: 12205
-  ids: 12206
-  ids: 12207
   name: "The Whisperer"
   version: "Awakened"
   hitpoints: 2700
 }
 npcs {
-  ids: 12204
-  ids: 12205
   ids: 12206
   ids: 12207
   name: "The Whisperer"
@@ -29029,6 +28948,19 @@ npcs {
   dmagic: 34
   drange: 34
   attributes: "vampyre3"
+}
+npcs {
+  ids: 12224
+  ids: 12228
+  ids: 12425
+  name: "Vardorvis"
+  version: "Quest"
+  hitpoints: 500
+  att: 260
+  str: 210
+  def: 180
+  mage: 180
+  attbns: 185
 }
 npcs {
   ids: 7566
