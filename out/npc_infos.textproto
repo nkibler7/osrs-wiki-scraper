@@ -18239,7 +18239,7 @@ npcs {
 npcs {
   ids: 12300
   name: "Mysterious Figure"
-  hitpoints: 333
+  hitpoints: 450
   att: 120
   str: 120
   def: 120
