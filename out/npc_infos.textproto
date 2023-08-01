@@ -26666,7 +26666,7 @@ npcs {
   hitpoints: 720
   att: 250
   str: 270
-  def: 200
+  def: 150
   mage: 130
   range: 130
   attbns: 200
