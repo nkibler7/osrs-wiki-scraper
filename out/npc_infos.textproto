@@ -9816,10 +9816,6 @@ npcs {
   attributes: "undead, spectral"
 }
 npcs {
-  ids: 12252
-  name: "Ghost"
-}
-npcs {
   ids: 5370
   name: "Ghost"
   hitpoints: 20
@@ -9829,6 +9825,16 @@ npcs {
   mage: 1
   range: 1
   attributes: "undead, spectral"
+}
+npcs {
+  ids: 12254
+  name: "Ghost"
+  hitpoints: 25
+  att: 100
+  str: 90
+  def: 150
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 3975
