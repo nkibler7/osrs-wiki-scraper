@@ -5935,7 +5935,6 @@ npcs {
   drange: 250
 }
 npcs {
-  ids: 12364
   ids: 12369
   name: "Crimson sanguisphera"
   hitpoints: 20
@@ -20623,7 +20622,6 @@ npcs {
   drange: 20
 }
 npcs {
-  ids: 12365
   ids: 12370
   name: "Radiant sanguisphera"
   hitpoints: 20
