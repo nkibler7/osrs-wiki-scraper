@@ -813,6 +813,7 @@ npcs {
   dcrush: 20
   dmagic: 10
   drange: 50
+  attributes: "golem"
 }
 npcs {
   ids: 7307
