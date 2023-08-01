@@ -7590,6 +7590,9 @@ npcs {
   str: 500
   def: 316
   mage: 465
+  attbns: 200
+  strbns: 38
+  mbns: 150
 }
 npcs {
   name: "Duke Sucellus"
@@ -7599,6 +7602,9 @@ npcs {
   str: 500
   def: 316
   mage: 465
+  attbns: 200
+  strbns: 38
+  mbns: 150
 }
 npcs {
   name: "Duke Sucellus"
@@ -7608,6 +7614,9 @@ npcs {
   str: 500
   def: 316
   mage: 465
+  attbns: 200
+  strbns: 38
+  mbns: 150
 }
 npcs {
   ids: 12195
