@@ -1292,18 +1292,18 @@ l
 (Optional)
 3
 Ÿ_Duke SucellusAwake ¸(¬0Ù8“@¶PÈX&`–h 
-4
- _¤_Duke SucellusDead ¸(¬0Ù8“@¶PÈX&`–h 
 6
 †_‡_Duke SucellusAsleep ¸(¬0Ù8“@¶PÈX&`–h 
+8
+ _¤_Duke SucellusDefeated ¸(¬0Ù8“@¶PÈX&`–h 
 -Duke SucellusAwake „(³0ô8¼@ÑPÈX&h–
-,Duke SucellusDead „(³0ô8¼@ÑPÈX&h–
 .Duke SucellusAsleep „(³0ô8¼@ÑPÈX&h–
+0Duke SucellusDefeated „(³0ô8¼@ÑPÈX&h–
 3
 £_Duke SucellusAwake è(ú0˜8×@æPÈX&`–h 
-.Duke SucellusDead è(ú0˜8×@æPÈX&`–h 
-6
-¡_¢_Duke SucellusAsleep è(ú0˜8×@æPÈX&`–h 
+4
+¡_Duke SucellusAsleep è(ú0˜8×@æPÈX&`–h 
+2Duke SucellusDefeated è(ú0˜8×@æPÈX&`–h 
 !
 —˜™Dungeon rat (
 0
@@ -4437,7 +4437,7 @@ D
 @
 ¶_The Leviathan
 Post-Quest „(¬0è8ú@ H PÈX` h:p¬x
-The LeviathanAwakened Œ
+The LeviathanAwakened Œx¼
 =
 ·_»_The LeviathanQuest Ð(ú0Ž8È@‚H‚PÈX` h:p¬x
 ?

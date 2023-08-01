@@ -7553,10 +7553,10 @@ npcs {
   mbns: 32
 }
 npcs {
-  ids: 12192
-  ids: 12196
+  ids: 12166
+  ids: 12167
   name: "Duke Sucellus"
-  version: "Dead"
+  version: "Asleep"
   hitpoints: 440
   att: 300
   str: 345
@@ -7568,10 +7568,10 @@ npcs {
   mbns: 32
 }
 npcs {
-  ids: 12166
-  ids: 12167
+  ids: 12192
+  ids: 12196
   name: "Duke Sucellus"
-  version: "Asleep"
+  version: "Defeated"
   hitpoints: 440
   att: 300
   str: 345
@@ -7596,7 +7596,7 @@ npcs {
 }
 npcs {
   name: "Duke Sucellus"
-  version: "Dead"
+  version: "Asleep"
   hitpoints: 1540
   att: 435
   str: 500
@@ -7608,7 +7608,7 @@ npcs {
 }
 npcs {
   name: "Duke Sucellus"
-  version: "Asleep"
+  version: "Defeated"
   hitpoints: 1540
   att: 435
   str: 500
@@ -7633,8 +7633,9 @@ npcs {
   mbns: 32
 }
 npcs {
+  ids: 12193
   name: "Duke Sucellus"
-  version: "Dead"
+  version: "Asleep"
   hitpoints: 360
   att: 250
   str: 280
@@ -7646,10 +7647,8 @@ npcs {
   mbns: 32
 }
 npcs {
-  ids: 12193
-  ids: 12194
   name: "Duke Sucellus"
-  version: "Asleep"
+  version: "Defeated"
   hitpoints: 360
   att: 250
   str: 280
@@ -26657,6 +26656,7 @@ npcs {
   name: "The Leviathan"
   version: "Awakened"
   hitpoints: 2700
+  rngbns: 444
 }
 npcs {
   ids: 12215
