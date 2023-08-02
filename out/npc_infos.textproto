@@ -22272,21 +22272,6 @@ npcs {
   attributes: "demon"
 }
 npcs {
-  ids: 12371
-  name: "Scarred demon"
-  version: "Level 18"
-}
-npcs {
-  ids: 12368
-  name: "Scarred demon"
-  version: "Level 113"
-}
-npcs {
-  ids: 12373
-  name: "Scarred demon"
-  version: "Level 127"
-}
-npcs {
   ids: 12388
   name: "Scarred greater demon"
   version: "Level 95"
