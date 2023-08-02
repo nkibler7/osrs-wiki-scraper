@@ -26829,6 +26829,17 @@ npcs {
   name: "The Whisperer"
   version: "Awakened"
   hitpoints: 2700
+  att: 378
+  str: 378
+  def: 300
+  mage: 225
+  range: 243
+  attbns: 140
+  strbns: 30
+  amagic: 190
+  mbns: 58
+  arange: 160
+  rngbns: 70
 }
 npcs {
   ids: 12206
