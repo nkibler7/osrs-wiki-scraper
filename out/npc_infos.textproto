@@ -786,21 +786,6 @@ npcs {
   drange: 30
 }
 npcs {
-  ids: 12336
-  name: "Ancient Guardian"
-  hitpoints: 100
-  att: 180
-  str: 110
-  def: 100
-  mage: 100
-  dstab: 50
-  dslash: 40
-  dcrush: 20
-  dmagic: 10
-  drange: 50
-  attributes: "Golem"
-}
-npcs {
   ids: 12236
   name: "Ancient Guardian"
   hitpoints: 100
