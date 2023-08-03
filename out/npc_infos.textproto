@@ -16388,6 +16388,42 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  ids: 12376
+  name: "Lesser demon"
+  version: "Level 39"
+  hitpoints: 40
+  att: 1
+  str: 1
+  def: 30
+  mage: 1
+  range: 1
+  attributes: "Demon"
+}
+npcs {
+  name: "Lesser demon"
+  version: "Level 94 (mage)"
+  attributes: "Demon"
+}
+npcs {
+  name: "Lesser demon"
+  version: "Level 94 (melee)"
+  attributes: "Demon"
+}
+npcs {
+  name: "Lesser demon"
+  version: "Level 94 (ranged)"
+  hitpoints: 80
+  att: 110
+  str: 110
+  def: 110
+  mage: 110
+  range: 110
+  attbns: 100
+  amagic: 100
+  arange: 100
+  attributes: "Demon"
+}
+npcs {
   ids: 3357
   name: "Lesser Demon Champion"
   hitpoints: 148
