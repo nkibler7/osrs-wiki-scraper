@@ -1287,12 +1287,12 @@ l
 *
 Š)Duke ‚(‚0‚8‚@‚HP2ª
 (Optional)
-3
-Ÿ_Duke SucellusAwake ¸(¬0Ù8“@¶PÈX&`–h 
-6
-†_‡_Duke SucellusAsleep ¸(¬0Ù8“@¶PÈX&`–h 
-8
- _¤_Duke SucellusDefeated ¸(¬0Ù8“@¶PÈX&`–h 
+F
+Ÿ_Duke SucellusAwake ¸(¬0Ù8“@¶PÈX&`–h €ÿˆA¾˜¸ À
+I
+†_‡_Duke SucellusAsleep ¸(¬0Ù8“@¶PÈX&`–h €ÿˆA¾˜¸ À
+K
+ _¤_Duke SucellusDefeated ¸(¬0Ù8“@¶PÈX&`–h €ÿˆA¾˜¸ À
 -Duke SucellusAwake „(³0ô8¼@ÑPÈX&h–
 .Duke SucellusAsleep „(³0ô8¼@ÑPÈX&h–
 0Duke SucellusDefeated „(³0ô8¼@ÑPÈX&h–
@@ -4425,12 +4425,12 @@ D
 ˆ
 
 ˜öÿÿÿÿÿÿÿÿ 
-@
+S
 ¶_The Leviathan
-Post-Quest „(¬0è8ú@ H PÈX` h:p¬x
-The LeviathanAwakened Œx¼
-=
-·_»_The LeviathanQuest Ğ(ú08–@‚H‚PÈX` h:p¬x
+Post-Quest „(¬0è8ú@ H PÈX` h:p¬x€„ˆ¾æ˜˜ 2
+2The LeviathanAwakened Œx¼€„ˆ¾æ˜˜ 2
+P
+·_»_The LeviathanQuest Ğ(ú08–@‚H‚PÈX` h:p¬x€„ˆ¾æ˜˜ 2
 ?
 ¾TThe Maiden of Sugadinti
 Entry Mode Ğ(Œ0Œ8P@ŒHŒ`–h
@@ -4455,13 +4455,16 @@ Entry Mode Ğ(Œ0Œ8P@ŒHŒ`–h
 “Ğ1The UntouchableNormal Z(»0ÿ8²@H
 2
 é/The Untouchable (hard)Hard ´(ö0ş8²@H
-B
+U
 ¬_­_The Whisperer
-Post-Quest „(˜0˜8ú@´H´PŒX`¾h:p xF
-:The WhispererAwakened Œ(ú0ú8¬@áHóPŒX`¾h:p xF
-<
+Post-Quest „(˜0˜8ú@´H´PŒX`¾h:p xF€´ˆ¬Ü˜
+ ¬
+MThe WhispererAwakened Œ(ú0ú8¬@áHóPŒX`¾h:p xF€´ˆ¬Ü˜
+ ¬
+O
 ®_¯_The WhispererQuest ”(ğ0ú8È@‚H‚PdX
-`´h6pŒxB
+`´h6pŒxB€´ˆ¬Ü˜
+ ¬
 A
 óThermonuclear smoke devil ğ(æ0Ü8è@H¶€ˆ	˜  „
 !
@@ -4809,8 +4812,8 @@ Y
 –—˜™š›¯@°@Vanstrom Klause ›(–0ˆ8–@–H–ªvampyre3
 <
 ßJVanstrom Klause î8´@´`h€"ˆ""˜" "ªvampyre3
-,
-À_Ä_‰a	VardorvisQuest ô(„0Ò8´@´P¹
+>
+À_Ä_‰a	VardorvisQuest ô(„0Ò8´@´P¹€×ˆAU˜Ä Ä
 L
 ;;Vasa NistirioNormal ¬(08¯@æHæpd€ªˆ¾2˜ <ªxerician
 T
