@@ -7541,6 +7541,7 @@ npcs {
   dcrush: 190
   dmagic: 440
   drange: 320
+  attributes: "Demon"
 }
 npcs {
   ids: 12166
@@ -7561,6 +7562,7 @@ npcs {
   dcrush: 190
   dmagic: 440
   drange: 320
+  attributes: "Demon"
 }
 npcs {
   ids: 12192
@@ -7581,6 +7583,7 @@ npcs {
   dcrush: 190
   dmagic: 440
   drange: 320
+  attributes: "Demon"
 }
 npcs {
   name: "Duke Sucellus"
@@ -7593,6 +7596,7 @@ npcs {
   attbns: 200
   strbns: 38
   mbns: 150
+  attributes: "Demon"
 }
 npcs {
   name: "Duke Sucellus"
@@ -7605,6 +7609,7 @@ npcs {
   attbns: 200
   strbns: 38
   mbns: 150
+  attributes: "Demon"
 }
 npcs {
   name: "Duke Sucellus"
@@ -7617,6 +7622,7 @@ npcs {
   attbns: 200
   strbns: 38
   mbns: 150
+  attributes: "Demon"
 }
 npcs {
   ids: 12195
@@ -7631,6 +7637,7 @@ npcs {
   strbns: 38
   amagic: 150
   mbns: 32
+  attributes: "Demon"
 }
 npcs {
   ids: 12193
@@ -7645,6 +7652,7 @@ npcs {
   strbns: 38
   amagic: 150
   mbns: 32
+  attributes: "Demon"
 }
 npcs {
   name: "Duke Sucellus"
@@ -7658,6 +7666,7 @@ npcs {
   strbns: 38
   amagic: 150
   mbns: 32
+  attributes: "Demon"
 }
 npcs {
   ids: 3607
@@ -16475,7 +16484,6 @@ npcs {
   name: "The Leviathan"
   version: "Awakened"
   hitpoints: 2700
-  rngbns: 444
   dstab: 260
   dslash: 190
   dcrush: 230
