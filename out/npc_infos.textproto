@@ -26028,80 +26028,80 @@ npcs {
   drange: 82
 }
 npcs {
-  ids: 12368
-  ids: 12369
-  ids: 12370
-  ids: 12371
-  ids: 12375
-  ids: 12376
-  ids: 12377
+  ids: 12268
+  ids: 12269
+  ids: 12270
+  ids: 12271
+  ids: 12275
+  ids: 12276
+  ids: 12277
   ids: 12279
   name: "Strangled"
   version: "Strangled 1"
 }
 npcs {
-  ids: 12368
-  ids: 12369
-  ids: 12370
-  ids: 12371
-  ids: 12375
-  ids: 12376
-  ids: 12377
+  ids: 12268
+  ids: 12269
+  ids: 12270
+  ids: 12271
+  ids: 12275
+  ids: 12276
+  ids: 12277
   ids: 12279
   name: "Strangled"
   version: "Strangled 2"
 }
 npcs {
-  ids: 12368
-  ids: 12369
-  ids: 12370
-  ids: 12371
-  ids: 12375
-  ids: 12376
-  ids: 12377
+  ids: 12268
+  ids: 12269
+  ids: 12270
+  ids: 12271
+  ids: 12275
+  ids: 12276
+  ids: 12277
   ids: 12279
   name: "Strangled"
   version: "Strangled 3"
 }
 npcs {
-  ids: 12368
-  ids: 12369
-  ids: 12370
-  ids: 12371
-  ids: 12375
-  ids: 12376
-  ids: 12377
+  ids: 12268
+  ids: 12269
+  ids: 12270
+  ids: 12271
+  ids: 12275
+  ids: 12276
+  ids: 12277
   ids: 12279
   name: "Strangled"
   version: "Strangled 4"
 }
 npcs {
-  ids: 12368
-  ids: 12369
-  ids: 12370
-  ids: 12371
-  ids: 12375
-  ids: 12376
-  ids: 12377
+  ids: 12268
+  ids: 12269
+  ids: 12270
+  ids: 12271
+  ids: 12275
+  ids: 12276
+  ids: 12277
   ids: 12279
   name: "Strangled"
   version: "Strangled 5"
 }
 npcs {
-  ids: 12372
-  ids: 12373
-  ids: 12374
-  ids: 12378
-  ids: 12380
+  ids: 12272
+  ids: 12273
+  ids: 12274
+  ids: 12278
+  ids: 12280
   name: "Strangled"
   version: "Strangled 1"
 }
 npcs {
-  ids: 12372
-  ids: 12373
-  ids: 12374
-  ids: 12378
-  ids: 12380
+  ids: 12272
+  ids: 12273
+  ids: 12274
+  ids: 12278
+  ids: 12280
   name: "Strangled"
   version: "Strangled 2"
 }
