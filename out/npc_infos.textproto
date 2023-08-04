@@ -16490,6 +16490,11 @@ npcs {
   name: "The Leviathan"
   version: "Awakened"
   hitpoints: 2700
+  att: 525
+  str: 630
+  def: 287
+  mage: 280
+  range: 280
   dstab: 260
   dslash: 190
   dcrush: 230
