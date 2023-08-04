@@ -2745,9 +2745,11 @@ Y
 Lesser demon O(D0F8G@H˜öÿÿÿÿÿÿÿÿªdemon
 0
 Ø`Lesser demonLevel 39 ((08@HªDemon
+$
+å`Lesser demonLevel 82ªDemon
 'Lesser demonLevel 94 (mage)ªDemon
-(Lesser demonLevel 94 (melee)ªDemon
-;Lesser demonLevel 94 (ranged) P(n0n8n@nHnPd`dpdªDemon
+*Lesser demonLevel 94 (melee) PªDemon
+9Lesser demonLevel 94 (ranged)(n0n8n@nHnPd`dpdªDemon
 4
 Lesser Demon Champion ”(ˆ0Œ8@ˆHªdemon
 Q
@@ -4292,22 +4294,20 @@ Z
 ¬^Strange CreaturePost-shield ¦(˜0˜8È@³HÏP<Xöÿÿÿÿÿÿÿÿ`ZhBxöÿÿÿÿÿÿÿÿ€nˆZP˜˜
 -
 ­Stranger P(Z0P8P@HX(`€Qˆ]b˜ R
-*
-ì_í_î_ï_ó_ô_õ_÷_	StrangledStrangled 1
-*
-ì_í_î_ï_ó_ô_õ_÷_	StrangledStrangled 2
-*
-ì_í_î_ï_ó_ô_õ_÷_	StrangledStrangled 3
-*
-ì_í_î_ï_ó_ô_õ_÷_	StrangledStrangled 4
-*
-ì_í_î_ï_ó_ô_õ_÷_	StrangledStrangled 5
-$
-
-ğ_ñ_ò_ö_ø_	StrangledStrangled 1
-$
-
-ğ_ñ_ò_ö_ø_	StrangledStrangled 2
+"
+ì_ó_ù_a	StrangledStrangled 1
+"
+í_ô_ú_a	StrangledStrangled 2
+"
+î_õ_û_a	StrangledStrangled 3
+"
+ï_÷_ü_a	StrangledStrangled 4
+"
+ğ_ø_ı_‘a	StrangledStrangled 1
+"
+ñ_ö_ş_’a	StrangledStrangled 2
+ 
+ò_ÿ_“a	StrangledStrangled 3
 
 €`Strangled Bear
 
@@ -5214,28 +5214,28 @@ R
 K
 123456789:;<=>?ZombieLevel 24 (08@HPX€	ˆ˜
  ªundead
+1
+ÅÆÇZombieLevel 30 (08@HPªundead
 4
-ÅÆÇZombieLevel 44 ((#0(8(@HPªundead
+ÈÉÊZombieLevel 44 ((#0(8(@HPªundead
 ?
-ÈÉÊZombieLevel 53 2(70(80@HPX€ˆ˜ ªundead
-<
-ËÌÍZombieLevel 56 2(2028/@HPX
+ËÌÍZombieLevel 53 2(70(80@HPX€ˆ˜ ªundead
+8
+¾:ZombieLevel 56 2(2028/@HPX
 €ˆ 
 ªundead
 8
-¾:ZombieLevel 70 A(=0<8=@HPX
+½:ZombieLevel 70 A(=0<8=@HPX
 €ˆ 
 ªundead
 8
-½:ZombieLevel 72 D(=0?8>@HPX
+À:ZombieLevel 72 D(=0?8>@HPX
 €ˆ 
 ªundead
 8
-À:ZombieLevel 76 G(E0A8>@HPX
+¿:ZombieLevel 76 G(E0A8>@HPX
 €ˆ 
 ªundead
-
-¿:Zombie@HPªundead
 6
 @Zombie1 (08@HPX€
 ˆ˜
