@@ -16580,11 +16580,6 @@ npcs {
   def: 287
   mage: 280
   range: 280
-  dstab: 260
-  dslash: 190
-  dcrush: 230
-  dmagic: 280
-  drange: 50
 }
 npcs {
   ids: 12215
@@ -16594,20 +16589,20 @@ npcs {
   hitpoints: 720
   att: 250
   str: 270
-  def: 150
+  def: 200
   mage: 130
   range: 130
-  attbns: 200
-  strbns: 22
-  amagic: 160
-  mbns: 58
-  arange: 300
-  rngbns: 26
-  dstab: 260
-  dslash: 190
-  dcrush: 230
-  dmagic: 280
-  drange: 50
+  attbns: 170
+  strbns: 14
+  amagic: 130
+  mbns: 36
+  arange: 230
+  rngbns: 10
+  dstab: 200
+  dslash: 150
+  dcrush: 180
+  dmagic: 220
+  drange: 30
 }
 npcs {
   ids: 2632
