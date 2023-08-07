@@ -70,6 +70,7 @@ npcs {
 }
 npcs {
   ids: 415
+  ids: 416
   name: "Abyssal demon"
   version: "Standard"
   hitpoints: 150
@@ -552,6 +553,13 @@ npcs {
 }
 npcs {
   ids: 11789
+  ids: 11790
+  ids: 11791
+  ids: 11792
+  ids: 11793
+  ids: 11794
+  ids: 11795
+  ids: 11796
   name: "Akkha"
   hitpoints: 400
   att: 100
@@ -573,6 +581,8 @@ npcs {
 }
 npcs {
   ids: 11797
+  ids: 11798
+  ids: 11799
   name: "Akkha\'s Shadow"
   hitpoints: 70
   att: 100
@@ -621,6 +631,7 @@ npcs {
 }
 npcs {
   ids: 8615
+  ids: 8616
   name: "Alchemical Hydra"
   version: "Serpentine"
   hitpoints: 1100
@@ -642,6 +653,7 @@ npcs {
 }
 npcs {
   ids: 8619
+  ids: 8617
   name: "Alchemical Hydra"
   version: "Electric"
   hitpoints: 1100
@@ -663,6 +675,7 @@ npcs {
 }
 npcs {
   ids: 8620
+  ids: 8618
   name: "Alchemical Hydra"
   version: "Fire"
   hitpoints: 1100
@@ -684,6 +697,7 @@ npcs {
 }
 npcs {
   ids: 8621
+  ids: 8622
   name: "Alchemical Hydra"
   version: "Extinguished"
   hitpoints: 1100
@@ -719,6 +733,9 @@ npcs {
   drange: -21
 }
 npcs {
+  ids: 12092
+  ids: 12093
+  ids: 12094
   name: "Alomone"
   hitpoints: 25
   att: 10
@@ -787,6 +804,7 @@ npcs {
 }
 npcs {
   ids: 12236
+  ids: 12237
   name: "Ancient Guardian"
   hitpoints: 100
   att: 180
@@ -1791,11 +1809,16 @@ npcs {
 }
 npcs {
   ids: 7288
+  ids: 7290
+  ids: 7292
+  ids: 7294
   name: "Awakened Altar"
   hitpoints: 100
 }
 npcs {
   ids: 11778
+  ids: 11779
+  ids: 11780
   name: "Ba-Ba"
   hitpoints: 380
   att: 150
@@ -3188,6 +3211,7 @@ npcs {
 }
 npcs {
   ids: 1432
+  ids: 6357
   name: "Black demon"
   version: "Normal"
   hitpoints: 157
@@ -4891,6 +4915,7 @@ npcs {
 }
 npcs {
   ids: 11482
+  ids: 11483
   name: "Champion of Scabaras"
   hitpoints: 600
   att: 160
@@ -7641,6 +7666,7 @@ npcs {
 }
 npcs {
   ids: 12193
+  ids: 12194
   name: "Duke Sucellus"
   version: "Asleep"
   hitpoints: 360
@@ -10916,6 +10942,12 @@ npcs {
 }
 npcs {
   ids: 655
+  ids: 656
+  ids: 657
+  ids: 658
+  ids: 659
+  ids: 660
+  ids: 661
   name: "Goblin"
   version: "Red"
   hitpoints: 12
@@ -10929,6 +10961,12 @@ npcs {
 }
 npcs {
   ids: 662
+  ids: 663
+  ids: 664
+  ids: 665
+  ids: 666
+  ids: 667
+  ids: 668
   name: "Goblin"
   version: "Green"
   hitpoints: 12
@@ -11039,6 +11077,7 @@ npcs {
 }
 npcs {
   ids: 2487
+  ids: 2489
   name: "Goblin"
   version: "Level 16"
   hitpoints: 22
@@ -12699,6 +12738,8 @@ npcs {
 }
 npcs {
   ids: 9186
+  ids: 9189
+  ids: 9190
   name: "Guard"
   version: "5"
   hitpoints: 105
@@ -12849,6 +12890,7 @@ npcs {
 }
 npcs {
   ids: 7569
+  ids: 7571
   name: "Guardian"
   version: "Normal"
   hitpoints: 250
@@ -12865,6 +12907,7 @@ npcs {
 }
 npcs {
   ids: 7570
+  ids: 7572
   name: "Guardian"
   version: "Challenge Mode"
   hitpoints: 375
@@ -13060,6 +13103,8 @@ npcs {
 }
 npcs {
   ids: 1207
+  ids: 12048
+  ids: 12097
   name: "Hazeel Cultist"
   version: "Male"
   hitpoints: 25
@@ -13074,6 +13119,7 @@ npcs {
 }
 npcs {
   ids: 12096
+  ids: 12098
   name: "Hazeel Cultist"
   version: "Female"
   hitpoints: 25
@@ -13099,6 +13145,13 @@ npcs {
 }
 npcs {
   ids: 11093
+  ids: 11095
+  ids: 11097
+  ids: 11099
+  ids: 11101
+  ids: 11103
+  ids: 11105
+  ids: 11107
   name: "Head Guard"
   hitpoints: 86
   att: 75
@@ -14968,6 +15021,7 @@ npcs {
 }
 npcs {
   ids: 10936
+  ids: 10938
   name: "Judge of Yama"
   hitpoints: 260
   att: 186
@@ -15437,6 +15491,7 @@ npcs {
 }
 npcs {
   ids: 1675
+  ids: 12325
   name: "Karil the Tainted"
   hitpoints: 100
   att: 1
@@ -15456,6 +15511,7 @@ npcs {
 }
 npcs {
   ids: 12262
+  ids: 12263
   name: "Kasonde"
   hitpoints: 240
   att: 190
@@ -15520,6 +15576,7 @@ npcs {
 }
 npcs {
   ids: 11719
+  ids: 11721
   name: "Kephri"
   hitpoints: 80
   def: 80
@@ -16594,6 +16651,7 @@ npcs {
 }
 npcs {
   ids: 6918
+  ids: 6919
   name: "Lizardman brute"
   version: "Standard"
   hitpoints: 60
@@ -16612,6 +16670,7 @@ npcs {
 }
 npcs {
   ids: 8564
+  ids: 10947
   name: "Lizardman brute"
   version: "Battlefront"
   hitpoints: 60
@@ -16748,6 +16807,7 @@ npcs {
 }
 npcs {
   ids: 11584
+  ids: 11585
   name: "Locust"
   hitpoints: 27
   att: 17
@@ -17932,6 +17992,7 @@ npcs {
 }
 npcs {
   ids: 11271
+  ids: 11298
   name: "Mosschin"
   hitpoints: 120
   att: 50
@@ -18364,6 +18425,7 @@ npcs {
 }
 npcs {
   ids: 12300
+  ids: 12301
   name: "Mysterious Figure"
   hitpoints: 450
   att: 120
@@ -18866,6 +18928,7 @@ npcs {
 }
 npcs {
   ids: 10803
+  ids: 10804
   name: "Nylocas Prinkipas"
   version: "Melee"
   hitpoints: 400
@@ -21401,6 +21464,7 @@ npcs {
 }
 npcs {
   ids: 11272
+  ids: 11299
   name: "Redeyes"
   hitpoints: 160
   att: 70
@@ -22411,6 +22475,7 @@ npcs {
 }
 npcs {
   ids: 12374
+  ids: 12379
   name: "Scarred hellhound"
   hitpoints: 25
   att: 105
@@ -22804,6 +22869,14 @@ npcs {
 }
 npcs {
   ids: 11073
+  ids: 11075
+  ids: 11077
+  ids: 11079
+  ids: 11081
+  ids: 11083
+  ids: 11085
+  ids: 11087
+  ids: 11198
   name: "Sergeant"
   hitpoints: 86
   att: 75
@@ -24721,6 +24794,7 @@ npcs {
 }
 npcs {
   ids: 11270
+  ids: 11275
   name: "Snailfeet"
   hitpoints: 80
   att: 30
@@ -24818,6 +24892,7 @@ npcs {
 }
 npcs {
   ids: 11269
+  ids: 11274
   name: "Snothead"
   hitpoints: 50
   att: 15
@@ -24866,6 +24941,13 @@ npcs {
 }
 npcs {
   ids: 11072
+  ids: 11074
+  ids: 11076
+  ids: 11078
+  ids: 11080
+  ids: 11082
+  ids: 11084
+  ids: 11086
   name: "Soldier"
   hitpoints: 22
   att: 19
@@ -26108,6 +26190,7 @@ npcs {
 }
 npcs {
   ids: 11273
+  ids: 11300
   name: "Strongbones"
   hitpoints: 200
   att: 90
@@ -30977,6 +31060,7 @@ npcs {
 }
 npcs {
   ids: 10954
+  ids: 10955
   name: "Xamphur"
   hitpoints: 450
   def: 100
@@ -30991,6 +31075,7 @@ npcs {
 }
 npcs {
   ids: 10953
+  ids: 10956
   name: "Xamphur"
   hitpoints: 450
   def: 100
