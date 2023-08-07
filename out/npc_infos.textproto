@@ -14864,6 +14864,7 @@ npcs {
 }
 npcs {
   ids: 12353
+  ids: 12354
   name: "Jhallan"
   hitpoints: 1500
   att: 250
@@ -28941,6 +28942,8 @@ npcs {
 }
 npcs {
   ids: 9567
+  ids: 9569
+  ids: 9570
   name: "Vanstrom Klause"
   hitpoints: 750
   def: 180
@@ -29085,6 +29088,8 @@ npcs {
 }
 npcs {
   ids: 10830
+  ids: 10831
+  ids: 10832
   name: "Verzik Vitur"
   version: "Phase 1"
   hitpoints: 1200
@@ -29105,6 +29110,7 @@ npcs {
 }
 npcs {
   ids: 10833
+  ids: 10834
   name: "Verzik Vitur"
   version: "Phase 2"
   hitpoints: 1600
@@ -29125,6 +29131,7 @@ npcs {
 }
 npcs {
   ids: 10835
+  ids: 10836
   name: "Verzik Vitur"
   version: "Phase 3"
   hitpoints: 2400
@@ -29147,6 +29154,8 @@ npcs {
 }
 npcs {
   ids: 8369
+  ids: 8370
+  ids: 8371
   name: "Verzik Vitur"
   version: "Phase 1"
   hitpoints: 2000
@@ -29167,6 +29176,7 @@ npcs {
 }
 npcs {
   ids: 8372
+  ids: 8373
   name: "Verzik Vitur"
   version: "Phase 2"
   hitpoints: 3250
@@ -29187,6 +29197,7 @@ npcs {
 }
 npcs {
   ids: 8374
+  ids: 8375
   name: "Verzik Vitur"
   version: "Phase 3"
   hitpoints: 3250
@@ -29209,6 +29220,8 @@ npcs {
 }
 npcs {
   ids: 10847
+  ids: 10848
+  ids: 10849
   name: "Verzik Vitur"
   version: "Phase 1"
   hitpoints: 2000
@@ -29229,6 +29242,7 @@ npcs {
 }
 npcs {
   ids: 10850
+  ids: 10851
   name: "Verzik Vitur"
   version: "Phase 2"
   hitpoints: 3250
@@ -29249,6 +29263,7 @@ npcs {
 }
 npcs {
   ids: 10852
+  ids: 10853
   name: "Verzik Vitur"
   version: "Phase 3"
   hitpoints: 3250
@@ -29472,7 +29487,6 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 8251
   ids: 8252
   ids: 8253
   ids: 8254
