@@ -16591,6 +16591,17 @@ npcs {
   def: 287
   mage: 280
   range: 280
+  attbns: 200
+  strbns: 22
+  amagic: 160
+  mbns: 58
+  arange: 300
+  rngbns: 26
+  dstab: 260
+  dslash: 190
+  dcrush: 230
+  dmagic: 280
+  drange: 50
 }
 npcs {
   ids: 12215
