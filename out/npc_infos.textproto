@@ -29052,11 +29052,11 @@ npcs {
   def: 180
   mage: 180
   attbns: 185
-  dstab: 215
-  dslash: 65
-  dcrush: 85
-  dmagic: 580
-  drange: 580
+  dstab: 150
+  dslash: 25
+  dcrush: 50
+  dmagic: 560
+  drange: 560
 }
 npcs {
   ids: 7566
