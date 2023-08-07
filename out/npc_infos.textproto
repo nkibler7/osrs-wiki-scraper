@@ -803,8 +803,8 @@ npcs {
   drange: 30
 }
 npcs {
-  ids: 12236
-  ids: 12237
+  ids: 12336
+  ids: 12337
   name: "Ancient Guardian"
   hitpoints: 100
   att: 180
@@ -5239,6 +5239,8 @@ npcs {
 }
 npcs {
   ids: 1206
+  ids: 12049
+  ids: 12095
   name: "Clivet"
   hitpoints: 25
   att: 10
@@ -9687,6 +9689,15 @@ npcs {
 }
 npcs {
   ids: 1213
+  ids: 12025
+  ids: 12026
+  ids: 12027
+  ids: 12054
+  ids: 12055
+  ids: 12056
+  ids: 12057
+  ids: 12058
+  ids: 12059
   name: "General Khazard"
   hitpoints: 170
   att: 75
