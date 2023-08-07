@@ -16509,6 +16509,7 @@ npcs {
   attributes: "Demon"
 }
 npcs {
+  ids: 12365
   name: "Lesser demon"
   version: "Level 94 (ranged)"
   hitpoints: 80
