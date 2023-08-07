@@ -16480,12 +16480,12 @@ npcs {
 npcs {
   name: "Lesser demon"
   version: "Level 94 (melee)"
-  hitpoints: 80
   attributes: "Demon"
 }
 npcs {
   name: "Lesser demon"
   version: "Level 94 (ranged)"
+  hitpoints: 80
   att: 110
   str: 110
   def: 110
