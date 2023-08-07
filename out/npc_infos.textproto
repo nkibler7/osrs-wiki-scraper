@@ -16464,22 +16464,48 @@ npcs {
   def: 30
   mage: 1
   range: 1
+  arange: 2
   attributes: "Demon"
 }
 npcs {
   ids: 12389
   name: "Lesser demon"
   version: "Level 82"
+  hitpoints: 79
+  att: 68
+  str: 70
+  def: 71
+  mage: 1
+  range: 1
+  arange: 100
   attributes: "Demon"
 }
 npcs {
   name: "Lesser demon"
   version: "Level 94 (mage)"
+  hitpoints: 80
+  att: 110
+  str: 110
+  def: 110
+  mage: 110
+  range: 110
+  attbns: 100
+  amagic: 100
+  arange: 100
   attributes: "Demon"
 }
 npcs {
   name: "Lesser demon"
   version: "Level 94 (melee)"
+  hitpoints: 80
+  att: 110
+  str: 110
+  def: 110
+  mage: 110
+  range: 110
+  attbns: 100
+  amagic: 100
+  arange: 100
   attributes: "Demon"
 }
 npcs {
