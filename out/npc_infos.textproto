@@ -7655,15 +7655,20 @@ npcs {
   ids: 12195
   name: "Duke Sucellus"
   version: "Awake"
-  hitpoints: 360
+  hitpoints: 200
   att: 250
   str: 280
   def: 215
   mage: 230
   attbns: 200
-  strbns: 38
+  strbns: 16
   amagic: 150
-  mbns: 32
+  mbns: 10
+  dstab: 210
+  dslash: 30
+  dcrush: 160
+  dmagic: 400
+  drange: 300
   attributes: "Demon"
 }
 npcs {
@@ -7671,29 +7676,39 @@ npcs {
   ids: 12194
   name: "Duke Sucellus"
   version: "Asleep"
-  hitpoints: 360
+  hitpoints: 200
   att: 250
   str: 280
   def: 215
   mage: 230
   attbns: 200
-  strbns: 38
+  strbns: 16
   amagic: 150
-  mbns: 32
+  mbns: 10
+  dstab: 210
+  dslash: 30
+  dcrush: 160
+  dmagic: 400
+  drange: 300
   attributes: "Demon"
 }
 npcs {
   name: "Duke Sucellus"
   version: "Defeated"
-  hitpoints: 360
+  hitpoints: 200
   att: 250
   str: 280
   def: 215
   mage: 230
   attbns: 200
-  strbns: 38
+  strbns: 16
   amagic: 150
-  mbns: 32
+  mbns: 10
+  dstab: 210
+  dslash: 30
+  dcrush: 160
+  dmagic: 400
+  drange: 300
   attributes: "Demon"
 }
 npcs {
