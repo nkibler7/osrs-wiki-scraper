@@ -29084,8 +29084,11 @@ npcs {
 }
 npcs {
   ids: 9567
+  ids: 9568
   ids: 9569
   ids: 9570
+  ids: 9571
+  ids: 9632
   name: "Vanstrom Klause"
   hitpoints: 750
   def: 180
