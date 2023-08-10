@@ -13178,8 +13178,19 @@ npcs {
 }
 npcs {
   ids: 5644
+  name: "Head"
+  version: "Visible"
+  hitpoints: 150
+  att: 73
+  str: 186
+  def: 75
+  mage: 50
+  range: 50
+}
+npcs {
   ids: 5645
   name: "Head"
+  version: "Submerged"
   hitpoints: 150
   att: 73
   str: 186
@@ -26705,8 +26716,19 @@ npcs {
 }
 npcs {
   ids: 5643
+  name: "Tentacle"
+  version: "Visible"
+  hitpoints: 75
+  att: 115
+  str: 76
+  def: 75
+  mage: 50
+  range: 115
+}
+npcs {
   ids: 5646
   name: "Tentacle"
+  version: "Submerged"
   hitpoints: 75
   att: 115
   str: 76
