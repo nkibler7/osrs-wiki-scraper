@@ -17599,6 +17599,24 @@ npcs {
   drange: -21
 }
 npcs {
+  ids: 8633
+  name: "The Mimic"
+  hitpoints: 230
+  att: 185
+  str: 120
+  def: 120
+  mage: 60
+  range: 1
+  attbns: 135
+  strbns: 48
+  amagic: 180
+  dstab: 160
+  dslash: 165
+  dcrush: 150
+  dmagic: 30
+  drange: 145
+}
+npcs {
   ids: 10693
   name: "Mind Golem"
   version: "Golem"
@@ -26928,24 +26946,6 @@ npcs {
   mage: 350
   range: 350
   amagic: 300
-}
-npcs {
-  ids: 8633
-  name: "The Mimic"
-  hitpoints: 230
-  att: 185
-  str: 120
-  def: 120
-  mage: 60
-  range: 1
-  attbns: 135
-  strbns: 48
-  amagic: 180
-  dstab: 160
-  dslash: 165
-  dcrush: 150
-  dmagic: 30
-  drange: 145
 }
 npcs {
   ids: 4708
