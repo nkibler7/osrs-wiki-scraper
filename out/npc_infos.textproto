@@ -7622,7 +7622,13 @@ npcs {
   mage: 465
   attbns: 200
   strbns: 38
-  mbns: 150
+  amagic: 150
+  mbns: 32
+  dstab: 255
+  dslash: 65
+  dcrush: 190
+  dmagic: 440
+  drange: 320
   attributes: "Demon"
 }
 npcs {
@@ -7635,7 +7641,13 @@ npcs {
   mage: 465
   attbns: 200
   strbns: 38
-  mbns: 150
+  amagic: 150
+  mbns: 32
+  dstab: 255
+  dslash: 65
+  dcrush: 190
+  dmagic: 440
+  drange: 320
   attributes: "Demon"
 }
 npcs {
@@ -7648,7 +7660,13 @@ npcs {
   mage: 465
   attbns: 200
   strbns: 38
-  mbns: 150
+  amagic: 150
+  mbns: 32
+  dstab: 255
+  dslash: 65
+  dcrush: 190
+  dmagic: 440
+  drange: 320
   attributes: "Demon"
 }
 npcs {
