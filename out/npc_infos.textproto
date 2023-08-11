@@ -16279,7 +16279,7 @@ npcs {
   drange: 200
 }
 npcs {
-  ids: 9773
+  ids: 9560
   name: "Kroy"
   hitpoints: 209
   att: 80
