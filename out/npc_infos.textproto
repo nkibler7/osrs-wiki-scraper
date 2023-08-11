@@ -6637,7 +6637,10 @@ npcs {
   drange: 550
 }
 npcs {
-  ids: 9774
+  ids: 9561
+  ids: 9562
+  ids: 9563
+  ids: 9564
   name: "Damien Leucurte"
   hitpoints: 217
   def: 160
