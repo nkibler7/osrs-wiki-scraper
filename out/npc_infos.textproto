@@ -15549,7 +15549,6 @@ npcs {
 }
 npcs {
   ids: 1675
-  ids: 12325
   name: "Karil the Tainted"
   hitpoints: 100
   att: 1
