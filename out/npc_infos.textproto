@@ -10116,6 +10116,11 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 12452
+  name: "Giant goblin"
+  hitpoints: 750
+}
+npcs {
   ids: 4799
   name: "Giant Lobster"
   hitpoints: 50
