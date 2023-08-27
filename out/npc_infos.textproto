@@ -4600,6 +4600,11 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 12454
+  name: "Cave abomination"
+  hitpoints: 750
+}
+npcs {
   ids: 481
   name: "Cave bug"
   version: "Level 6"
@@ -5341,6 +5346,11 @@ npcs {
   dcrush: 100
   dmagic: 100
   drange: 100
+}
+npcs {
+  ids: 12445
+  name: "Commander Zilyana"
+  hitpoints: 500
 }
 npcs {
   ids: 6493
@@ -7166,6 +7176,11 @@ npcs {
   drange: 200
 }
 npcs {
+  ids: 12450
+  name: "Derwen"
+  hitpoints: 320
+}
+npcs {
   ids: 459
   name: "Desert Lizard"
   version: "Green"
@@ -7339,6 +7354,11 @@ npcs {
   dmagic: -11
   drange: 249
   attributes: "spectral"
+}
+npcs {
+  ids: 12447
+  name: "Dharok the Wretched"
+  hitpoints: 200
 }
 npcs {
   ids: 3426
@@ -8961,6 +8981,11 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  ids: 12453
+  name: "Flaming pyrelord"
+  hitpoints: 750
+}
+npcs {
   ids: 10695
   name: "Flawed Golem"
   version: "Golem"
@@ -9718,6 +9743,11 @@ npcs {
   dcrush: 90
   dmagic: 298
   drange: 90
+}
+npcs {
+  ids: 12444
+  name: "General Graardor"
+  hitpoints: 1000
 }
 npcs {
   ids: 6494
@@ -11383,6 +11413,11 @@ npcs {
   dcrush: 50
   drange: 50
   attributes: "demon"
+}
+npcs {
+  ids: 12451
+  name: "Greater abyssal demon"
+  hitpoints: 750
 }
 npcs {
   ids: 2025
@@ -14768,6 +14803,11 @@ npcs {
   drange: 50
 }
 npcs {
+  ids: 12455
+  name: "Jal-ImKot"
+  hitpoints: 750
+}
+npcs {
   ids: 7708
   name: "Jal-MejJak"
   hitpoints: 75
@@ -15260,6 +15300,11 @@ npcs {
   drange: 200
 }
 npcs {
+  ids: 12449
+  name: "Justiciar Zachariah"
+  hitpoints: 320
+}
+npcs {
   ids: 3129
   name: "K\'ril Tsutsaroth"
   hitpoints: 255
@@ -15276,6 +15321,11 @@ npcs {
   dmagic: 130
   drange: 80
   attributes: "demon"
+}
+npcs {
+  ids: 12446
+  name: "K\'ril Tsutsaroth"
+  hitpoints: 1000
 }
 npcs {
   ids: 6495
@@ -17126,6 +17176,11 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 12456
+  name: "Malevolent Mage"
+  hitpoints: 500
+}
+npcs {
   ids: 6604
   name: "Mammoth"
   hitpoints: 130
@@ -18849,6 +18904,11 @@ npcs {
   dcrush: 200
   dmagic: 190
   drange: 200
+}
+npcs {
+  ids: 12459
+  name: "Night beast"
+  hitpoints: 500
 }
 npcs {
   ids: 9425
@@ -20672,6 +20732,11 @@ npcs {
   dmagic: -60
   drange: 200
   attributes: "demon"
+}
+npcs {
+  ids: 12448
+  name: "Porazdir"
+  hitpoints: 320
 }
 npcs {
   ids: 1739
@@ -26380,6 +26445,11 @@ npcs {
   drange: 15
 }
 npcs {
+  ids: 12458
+  name: "Sulphur Lizard"
+  hitpoints: 500
+}
+npcs {
   ids: 69
   name: "Summoned Zombie"
   hitpoints: 22
@@ -29591,6 +29661,11 @@ npcs {
   def: 250
   mage: 180
   range: 1
+}
+npcs {
+  ids: 12457
+  name: "Vitreous warped Jelly"
+  hitpoints: 500
 }
 npcs {
   ids: 3963

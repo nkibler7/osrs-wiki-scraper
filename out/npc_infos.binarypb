@@ -770,6 +770,8 @@ CatableponLevel 64 F(70282@-H€2ˆ(˜ 2
 CatableponLevel 68 2(A0<8<@<H€2ˆ(˜ 2
 '
 é9Cave abomination ‚(æ0Ã8@æH
+
+¦aCave abomination î
 2
 áCave bugLevel 6 (08@H€
 ˆ
@@ -927,6 +929,8 @@ CockatriceUnused %(0%8%@H€
 ¢QColossal Hydra î(08d@úHú€dˆÈÈ˜È ªdragon
 @
 Commander Zilyana ÿ(˜0Ä8¬@¬HúPÃX`È€dˆdd˜d d
+
+aCommander Zilyana ô
 @
 İ2Commander Zilyana ÿ(˜0Ä8¬@¬HúPÃX`È€dˆdd˜d d
 =
@@ -1232,6 +1236,8 @@ P
 ş<Deranged archaeologist È(˜0 8˜@HÀP˜XpZxöÿÿÿÿÿÿÿÿ€ˆ2˜¬ ¬
 >
 Ù:³=Derwen À(ú0–8d@PH`´hP€ÈˆÈÈ˜Äÿÿÿÿÿÿÿÿ È
+
+¢aDerwen À
 2
 ËDesert LizardGreen (08@H€ˆ 
 3
@@ -1260,6 +1266,8 @@ B
 ï8Deviant spectre ¾(08Z@ÍH€PˆPP Uªundead, spectral
 d
 ‰Dharok the Wretched d(d0d8d@HXi`Æÿÿÿÿÿÿÿÿpîÿÿÿÿÿÿÿÿ€üˆúô˜õÿÿÿÿÿÿÿÿ ùªspectral
+
+ŸaDharok the Wretched È
 %
 â	Dire WolfLevel 88 U(K0K8K@H
 %
@@ -1548,6 +1556,8 @@ Fiyr ShadeShade n(x0d8Uªshade,undead,spectral
 ¥1Flambeed (hard)Hard ÿ(ğ0ğ8K@HPd€2ˆ2˜ 2
 6
 â9Flaming pyrelord ~(b0A84@H€ˆ ªdemon
+
+¥aFlaming pyrelord î
 ;
 ÇSFlawed GolemGolem (08@HX€ˆ˜ 
 ªGolem
@@ -1681,6 +1691,8 @@ P
 ¨1©1ª1«1¬1­1Gelatinnoth Mother (hard)Hard ğ(º0º8Q@Hx€–ˆ––˜2 2
 ?
 §General Graardor ÿ(˜0Ş8ú@PHŞPxX+pdx(€ZˆZZ˜ª Z
+
+œaGeneral Graardor è
 ?
 Ş2General Graardor ÿ(˜0Ş8ú@PHŞPxX+pdx(€ZˆZZ˜ª Z
 4
@@ -1938,6 +1950,8 @@ t
 ;Great Olm (Right claw)Right claw (Challenge Mode) Ø(÷0÷8†@‚H÷`<p<€ÈˆÈÈ˜2 Èªdragon,xerician
 ?
 ò9Greater abyssal demon (¬0„8ğ@H€2ˆ22 2ªdemon
+
+£aGreater abyssal demon î
 K
 éêëìíîïğGreater demonLevel 92 W(L0N8Q@H˜öÿÿÿÿÿÿÿÿªdemon
 >
@@ -2461,6 +2475,8 @@ Jail guard4  (08@HP	X€ˆ	
 <Jal-AkRek-Xil (08_@Hxpx 
 /
 ‘<	Jal-ImKot K(Ò0¢8x@xHÜX(€AˆAA˜ 2
+
+§a	Jal-ImKot î
 
 œ<
 Jal-MejJak K(08d@H
@@ -2551,8 +2567,12 @@ HPdXd
 èJungle Wolf E(20784@H
 N
 Ù.²=Justiciar Zachariah À(ô0ú8d@´HPÈ`PhP€ÈˆÈÈ˜Äÿÿÿÿÿÿÿÿ È
+
+¡aJusticiar Zachariah À
 D
 ¹K'ril Tsutsaroth ÿ(Ô0¬8@ÈHP X€PˆPP˜‚ Pªdemon
+
+aK'ril Tsutsaroth è
 D
 ß2K'ril Tsutsaroth ÿ(Ô0¬8@ÈHP X€PˆPP˜‚ Pªdemon
 K
@@ -2849,6 +2869,8 @@ Lynx Tamer (08@HP	X€ˆ˜ 
 
 $
 ä9Malevolent Mage ¯(08‡@¯H
+
+¨aMalevolent Mage ô
 
 Ì3Mammoth ‚(70<82@H
 ]
@@ -3132,6 +3154,8 @@ C
 ®1Nezikchened (hard) –(Ê0Ğ8§@ÀHÀ
 4
 ñ9Night beast ¦(0¢8Ü@¬H€KˆPÈ˜¾ È
+
+«aNight beast ô
 Y
 ÑIÒIÓIÔIÕIÖI×IØIÙIôIThe Nightmare à(–0–8–@–H–PŒX€`Œh@pŒx@€xˆ´(˜Ø Ø
 T
@@ -3437,6 +3461,8 @@ $
 –%Poltenip (08@HPX€ˆ˜üÿÿÿÿÿÿÿÿ 
 H
 Û:´=Porazdir À(ú0–8d@´H`PhP€ÈˆÈÈ˜Äÿÿÿÿÿÿÿÿ Èªdemon
+
+ aPorazdir À
 (
 ËÏÓ×PortalPurple8x€dˆdd˜d
 %
@@ -4345,6 +4371,8 @@ Z
 €.ˆ2-˜ôÿÿÿÿÿÿÿÿ -
 ,
 ¦CSulphur Lizard 2(20-8@H€ˆ 
+
+ªaSulphur Lizard ô
 )
 ESummoned Zombie (0	8
 @Hªundead
@@ -4889,6 +4917,8 @@ L
 ç9Vitreous Jelly ¾(ª0–8Ü@–H
 ,
 è9Vitreous warped Jelly Ü(È0´8ú@´H
+
+©aVitreous warped Jelly ô
 
 ûViyeldi P(>0B8FPX
 K
