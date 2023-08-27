@@ -6555,6 +6555,11 @@ npcs {
   drange: 10
 }
 npcs {
+  ids: 12442
+  name: "Dagannoth Prime"
+  hitpoints: 750
+}
+npcs {
   ids: 6497
   name: "Dagannoth Prime"
   hitpoints: 255
@@ -6581,6 +6586,11 @@ npcs {
   dcrush: 255
   dmagic: 10
   drange: 255
+}
+npcs {
+  ids: 12439
+  name: "Dagannoth Rex"
+  hitpoints: 750
 }
 npcs {
   ids: 6498
@@ -6620,6 +6630,11 @@ npcs {
   dcrush: 10
   dmagic: 255
   drange: 550
+}
+npcs {
+  ids: 12441
+  name: "Dagannoth Supreme"
+  hitpoints: 750
 }
 npcs {
   ids: 6496
@@ -15876,6 +15891,11 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
+  ids: 12440
+  name: "King Black Dragon"
+  hitpoints: 250
+}
+npcs {
   ids: 6502
   name: "King Black Dragon"
   hitpoints: 240
@@ -16265,6 +16285,11 @@ npcs {
   dcrush: 180
   dmagic: 200
   drange: 200
+}
+npcs {
+  ids: 12443
+  name: "Kree\'arra"
+  hitpoints: 350
 }
 npcs {
   ids: 6492
