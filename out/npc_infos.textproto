@@ -9778,7 +9778,6 @@ npcs {
   ids: 12056
   ids: 12057
   ids: 12058
-  ids: 12059
   name: "General Khazard"
   hitpoints: 170
   att: 75
@@ -30983,9 +30982,6 @@ npcs {
 }
 npcs {
   ids: 110
-  ids: 116
-  ids: 117
-  ids: 231
   name: "Wolf"
   version: "Level 25"
   hitpoints: 34
