@@ -7376,6 +7376,20 @@ npcs {
   ids: 12447
   name: "Dharok the Wretched"
   hitpoints: 200
+  att: 100
+  str: 100
+  def: 100
+  mage: 1
+  range: 1
+  strbns: 105
+  amagic: -58
+  arange: -18
+  dstab: 252
+  dslash: 250
+  dcrush: 244
+  dmagic: -11
+  drange: 249
+  attributes: "spectral"
 }
 npcs {
   ids: 3426
@@ -9001,6 +9015,17 @@ npcs {
   ids: 12453
   name: "Flaming pyrelord"
   hitpoints: 750
+  att: 150
+  str: 200
+  def: 250
+  mage: 1
+  range: 1
+  dstab: 18
+  dslash: 18
+  dcrush: 18
+  dmagic: 150
+  drange: 18
+  attributes: "demon"
 }
 npcs {
   ids: 10695
@@ -15328,6 +15353,19 @@ npcs {
   ids: 12449
   name: "Justiciar Zachariah"
   hitpoints: 320
+  att: 500
+  str: 250
+  def: 100
+  mage: 180
+  range: 1
+  attbns: 200
+  amagic: 80
+  mbns: 80
+  dstab: 200
+  dslash: 200
+  dcrush: 200
+  dmagic: -60
+  drange: 200
 }
 npcs {
   ids: 3129
@@ -18948,6 +18986,16 @@ npcs {
   ids: 12459
   name: "Night beast"
   hitpoints: 500
+  att: 270
+  str: 290
+  def: 220
+  mage: 300
+  range: 1
+  dstab: 75
+  dslash: 80
+  dcrush: 200
+  dmagic: 190
+  drange: 100
 }
 npcs {
   ids: 9425
