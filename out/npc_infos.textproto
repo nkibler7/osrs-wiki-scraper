@@ -4615,6 +4615,11 @@ npcs {
   ids: 12454
   name: "Cave abomination"
   hitpoints: 750
+  att: 230
+  str: 195
+  def: 142
+  mage: 230
+  range: 1
 }
 npcs {
   ids: 481
@@ -16360,6 +16365,20 @@ npcs {
   ids: 12443
   name: "Kree\'arra"
   hitpoints: 350
+  att: 300
+  str: 200
+  def: 260
+  mage: 200
+  range: 380
+  attbns: 136
+  strbns: 12
+  arange: 120
+  rngbns: 50
+  dstab: 180
+  dslash: 180
+  dcrush: 180
+  dmagic: 200
+  drange: 200
 }
 npcs {
   ids: 6492
