@@ -10218,6 +10218,18 @@ npcs {
   ids: 12452
   name: "Giant goblin"
   hitpoints: 750
+  att: 150
+  str: 150
+  def: 250
+  mage: 1
+  range: 1
+  attbns: 120
+  strbns: 43
+  dstab: -15
+  dslash: -15
+  dcrush: -15
+  dmagic: -15
+  drange: -15
 }
 npcs {
   ids: 4799
@@ -11472,6 +11484,16 @@ npcs {
   ids: 12451
   name: "Greater abyssal demon"
   hitpoints: 750
+  att: 300
+  str: 260
+  def: 240
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  drange: 50
+  attributes: "demon"
 }
 npcs {
   ids: 2025
