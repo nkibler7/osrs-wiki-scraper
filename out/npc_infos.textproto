@@ -5368,6 +5368,19 @@ npcs {
   ids: 12445
   name: "Commander Zilyana"
   hitpoints: 500
+  att: 280
+  str: 196
+  def: 300
+  mage: 300
+  range: 250
+  attbns: 195
+  strbns: 20
+  amagic: 200
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 100
+  drange: 100
 }
 npcs {
   ids: 6493
