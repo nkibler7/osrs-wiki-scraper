@@ -6598,6 +6598,15 @@ npcs {
   ids: 12442
   name: "Dagannoth Prime"
   hitpoints: 750
+  att: 255
+  str: 255
+  def: 255
+  mage: 255
+  dstab: 255
+  dslash: 255
+  dcrush: 255
+  dmagic: 255
+  drange: 10
 }
 npcs {
   ids: 6497
@@ -15461,6 +15470,18 @@ npcs {
   ids: 12446
   name: "K\'ril Tsutsaroth"
   hitpoints: 1000
+  att: 340
+  str: 300
+  def: 270
+  mage: 200
+  range: 1
+  attbns: 160
+  strbns: 31
+  dstab: 80
+  dslash: 80
+  dcrush: 80
+  dmagic: 130
+  drange: 80
 }
 npcs {
   ids: 6495
