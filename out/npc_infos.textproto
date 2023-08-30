@@ -6684,6 +6684,16 @@ npcs {
   ids: 12441
   name: "Dagannoth Supreme"
   hitpoints: 750
+  att: 255
+  str: 255
+  def: 128
+  mage: 255
+  range: 255
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+  dmagic: 255
+  drange: 550
 }
 npcs {
   ids: 6496
