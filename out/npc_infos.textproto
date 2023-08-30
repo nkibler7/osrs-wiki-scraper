@@ -16042,6 +16042,17 @@ npcs {
   ids: 12440
   name: "King Black Dragon"
   hitpoints: 250
+  att: 240
+  str: 240
+  def: 240
+  mage: 240
+  range: 1
+  dstab: 70
+  dslash: 90
+  dcrush: 90
+  dmagic: 80
+  drange: 70
+  attributes: "dragon"
 }
 npcs {
   ids: 6502
@@ -17291,6 +17302,12 @@ npcs {
   ids: 12456
   name: "Malevolent Mage"
   hitpoints: 500
+  att: 1
+  str: 1
+  def: 150
+  mage: 255
+  range: 1
+  dmagic: 300
 }
 npcs {
   ids: 6604
@@ -26570,6 +26587,15 @@ npcs {
   ids: 12458
   name: "Sulphur Lizard"
   hitpoints: 500
+  att: 150
+  str: 200
+  def: 75
+  mage: 1
+  range: 1
+  dstab: 15
+  dslash: 25
+  dcrush: 25
+  drange: 15
 }
 npcs {
   ids: 69
@@ -29788,6 +29814,11 @@ npcs {
   ids: 12457
   name: "Vitreous warped Jelly"
   hitpoints: 500
+  att: 200
+  str: 250
+  def: 250
+  mage: 180
+  range: 1
 }
 npcs {
   ids: 3963
