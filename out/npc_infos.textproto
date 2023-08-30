@@ -7209,6 +7209,18 @@ npcs {
   ids: 12450
   name: "Derwen"
   hitpoints: 320
+  att: 250
+  str: 150
+  def: 100
+  mage: 180
+  range: 1
+  amagic: 80
+  mbns: 80
+  dstab: 200
+  dslash: 200
+  dcrush: 200
+  dmagic: -60
+  drange: 200
 }
 npcs {
   ids: 459
@@ -9803,6 +9815,20 @@ npcs {
   ids: 12444
   name: "General Graardor"
   hitpoints: 1000
+  att: 280
+  str: 350
+  def: 250
+  mage: 80
+  range: 350
+  attbns: 120
+  strbns: 43
+  arange: 100
+  rngbns: 40
+  dstab: 90
+  dslash: 90
+  dcrush: 90
+  dmagic: 201
+  drange: 90
 }
 npcs {
   ids: 6494
@@ -14891,6 +14917,17 @@ npcs {
   ids: 12455
   name: "Jal-ImKot"
   hitpoints: 750
+  att: 210
+  str: 290
+  def: 120
+  mage: 120
+  range: 220
+  strbns: 40
+  dstab: 65
+  dslash: 65
+  dcrush: 65
+  dmagic: 30
+  drange: 50
 }
 npcs {
   ids: 7708
@@ -20876,6 +20913,19 @@ npcs {
   ids: 12448
   name: "Porazdir"
   hitpoints: 320
+  att: 250
+  str: 150
+  def: 100
+  mage: 180
+  range: 1
+  amagic: 80
+  mbns: 80
+  dstab: 200
+  dslash: 200
+  dcrush: 200
+  dmagic: -60
+  drange: 200
+  attributes: "demon"
 }
 npcs {
   ids: 1739
