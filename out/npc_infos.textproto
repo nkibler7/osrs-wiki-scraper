@@ -6640,6 +6640,15 @@ npcs {
   ids: 12439
   name: "Dagannoth Rex"
   hitpoints: 750
+  att: 255
+  str: 255
+  def: 255
+  range: 255
+  dstab: 255
+  dslash: 255
+  dcrush: 255
+  dmagic: 10
+  drange: 255
 }
 npcs {
   ids: 6498
