@@ -26611,14 +26611,17 @@ npcs {
 npcs {
   ids: 12288
   name: "Strangled Bear"
+  hitpoints: 100
 }
 npcs {
   ids: 12289
   name: "Strangled Boar"
+  hitpoints: 40
 }
 npcs {
   ids: 12290
   name: "Strangled Lynx"
+  hitpoints: 50
 }
 npcs {
   ids: 11273
