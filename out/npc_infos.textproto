@@ -16801,7 +16801,6 @@ npcs {
   def: 30
   mage: 1
   range: 1
-  arange: 2
   attributes: "Demon"
 }
 npcs {
@@ -16828,7 +16827,7 @@ npcs {
   range: 110
   attbns: 100
   amagic: 100
-  arange: 100
+  arange: 2
   attributes: "Demon"
 }
 npcs {
