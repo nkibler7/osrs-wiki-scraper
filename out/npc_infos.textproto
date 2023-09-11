@@ -27054,6 +27054,11 @@ npcs {
 npcs {
   ids: 5912
   name: "Tentacle"
+  hitpoints: 255
+  att: 200
+  str: 200
+  attbns: 50
+  strbns: 30
   attributes: "Demon"
 }
 npcs {
