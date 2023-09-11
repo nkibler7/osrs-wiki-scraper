@@ -30290,6 +30290,12 @@ npcs {
   range: 1
 }
 npcs {
+  name: "Warped terrorbird"
+}
+npcs {
+  name: "Warped tortoise"
+}
+npcs {
   ids: 3950
   name: "Warrior"
   hitpoints: 50
