@@ -18708,6 +18708,14 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  ids: 12464
+  name: "Mutated Terrorbird"
+}
+npcs {
+  ids: 12465
+  name: "Mutated Tortoise"
+}
+npcs {
   ids: 7562
   name: "Muttadile"
   version: "Small"
@@ -30296,7 +30304,33 @@ npcs {
   name: "Warped terrorbird"
 }
 npcs {
+  ids: 12491
+  ids: 12492
+  ids: 12493
+  ids: 12494
+  ids: 12495
+  ids: 12496
+  ids: 12497
+  ids: 12498
+  name: "Warped Terrorbird"
+  version: "Level 96"
+}
+npcs {
+  ids: 12499
+  ids: 12500
+  ids: 12501
+  ids: 12502
+  ids: 12503
+  ids: 12504
+  name: "Warped Terrorbird"
+  version: "Level 138"
+}
+npcs {
   name: "Warped tortoise"
+}
+npcs {
+  ids: 12490
+  name: "Warped Tortoise"
 }
 npcs {
   ids: 3950
