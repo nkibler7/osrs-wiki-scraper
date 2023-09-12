@@ -27057,6 +27057,9 @@ npcs {
   hitpoints: 255
   att: 200
   str: 200
+  def: 1
+  mage: 1
+  range: 1
   attbns: 50
   strbns: 30
   attributes: "Demon"
