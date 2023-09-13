@@ -30331,13 +30331,13 @@ npcs {
   ids: 12504
   name: "Warped Terrorbird"
   version: "Level 138"
-  hitpoints: 150
-  att: 60
-  str: 90
-  def: 20
-  mage: 60
-  range: 40
-  arange: 240
+  hitpoints: 200
+  att: 80
+  str: 150
+  def: 60
+  mage: 160
+  range: 70
+  arange: 160
   dstab: 50
   dslash: 50
   drange: 62
