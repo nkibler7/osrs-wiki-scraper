@@ -26033,6 +26033,23 @@ npcs {
   attributes: "spectral"
 }
 npcs {
+  ids: 3168
+  name: "Spiritual mage"
+  version: "Armadyl"
+  hitpoints: 86
+  att: 1
+  str: 1
+  def: 111
+  mage: 150
+  range: 1
+  dstab: 9
+  dslash: 12
+  dcrush: 5
+  dmagic: 45
+  drange: 28
+  attributes: "spectral"
+}
+npcs {
   ids: 11292
   name: "Spiritual Mage"
   version: "Zaros"
