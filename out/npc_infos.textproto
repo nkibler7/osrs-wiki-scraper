@@ -18710,6 +18710,16 @@ npcs {
 npcs {
   ids: 12464
   name: "Mutated Terrorbird"
+  hitpoints: 320
+  att: 90
+  str: 150
+  def: 40
+  mage: 110
+  range: 75
+  arange: 400
+  dstab: 50
+  dslash: 50
+  drange: 62
 }
 npcs {
   ids: 12465
