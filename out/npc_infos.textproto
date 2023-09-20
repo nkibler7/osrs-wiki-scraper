@@ -8581,6 +8581,11 @@ npcs {
   name: "Evil Creature"
   version: "Izzie "
   hitpoints: 1
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 625
