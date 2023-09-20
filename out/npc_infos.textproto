@@ -1414,7 +1414,7 @@ npcs {
   att: 250
   str: 270
   def: 150
-  mage: 1
+  mage: 90
   range: 120
   arange: 60
   rngbns: 18
@@ -4425,7 +4425,7 @@ npcs {
   att: 350
   str: 300
   def: 225
-  mage: 1
+  mage: 140
   range: 200
   arange: 100
   rngbns: 30
