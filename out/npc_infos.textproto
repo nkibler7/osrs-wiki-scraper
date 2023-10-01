@@ -18729,6 +18729,14 @@ npcs {
 npcs {
   ids: 12465
   name: "Mutated Tortoise"
+  hitpoints: 440
+  att: 130
+  str: 170
+  def: 120
+  mage: 90
+  dstab: 50
+  dslash: 50
+  drange: 60
 }
 npcs {
   ids: 7562
