@@ -19619,7 +19619,6 @@ npcs {
 }
 npcs {
   ids: 4383
-  ids: 4384
   name: "Ogre shaman"
   version: "1"
   hitpoints: 1
