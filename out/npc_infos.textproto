@@ -736,6 +736,7 @@ npcs {
   ids: 12092
   ids: 12093
   ids: 12094
+  ids: 11976
   name: "Alomone"
   hitpoints: 25
   att: 10
@@ -2278,6 +2279,7 @@ npcs {
 npcs {
   ids: 736
   ids: 737
+  ids: 1975
   name: "Bandit"
   version: "Bearded"
   hitpoints: 30
@@ -2295,6 +2297,7 @@ npcs {
 npcs {
   ids: 734
   ids: 735
+  ids: 1976
   name: "Bandit"
   version: "No beard"
   hitpoints: 30
@@ -3410,6 +3413,7 @@ npcs {
 }
 npcs {
   ids: 517
+  ids: 4331
   name: "Black Knight"
   version: "Hostile, male"
   hitpoints: 42
@@ -5131,6 +5135,9 @@ npcs {
   ids: 1174
   ids: 10495
   ids: 10496
+  ids: 9488
+  ids: 10494
+  ids: 10497
   name: "Chicken"
   version: "Normal"
   hitpoints: 3
@@ -7254,6 +7261,7 @@ npcs {
 }
 npcs {
   ids: 459
+  ids: 12003
   name: "Desert Lizard"
   version: "Green"
   hitpoints: 25
@@ -10294,6 +10302,7 @@ npcs {
 }
 npcs {
   ids: 4799
+  ids: 4800
   name: "Giant Lobster"
   hitpoints: 50
   att: 40
@@ -10372,6 +10381,7 @@ npcs {
   ids: 2859
   ids: 2860
   ids: 2861
+  ids: 9483
   name: "Giant rat"
   version: "Level 3"
   hitpoints: 5
@@ -13863,6 +13873,7 @@ npcs {
 }
 npcs {
   ids: 3289
+  ids: 4805
   name: "Hobgoblin"
   version: "Hobgoblin (brown, armed)"
   hitpoints: 29
@@ -15972,6 +15983,9 @@ npcs {
   ids: 1208
   ids: 1210
   ids: 1211
+  ids: 12019
+  ids: 12020
+  ids: 12021
   name: "Khazard Guard"
   hitpoints: 25
   att: 20
@@ -17582,6 +17596,7 @@ npcs {
 }
 npcs {
   ids: 11058
+  ids: 11057
   name: "Man"
   version: "Shayzien"
   hitpoints: 7
@@ -25160,6 +25175,7 @@ npcs {
 }
 npcs {
   ids: 462
+  ids: 12004
   name: "Small Lizard"
   version: "Green"
   hitpoints: 15
@@ -25218,6 +25234,7 @@ npcs {
 }
 npcs {
   ids: 2845
+  ids: 12084
   name: "Snake"
   hitpoints: 6
   att: 4
@@ -31329,6 +31346,7 @@ npcs {
 npcs {
   ids: 3111
   ids: 6990
+  ids: 10728
   name: "Woman"
   version: "Purple"
   hitpoints: 7
