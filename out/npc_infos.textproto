@@ -2279,7 +2279,6 @@ npcs {
 npcs {
   ids: 736
   ids: 737
-  ids: 1975
   name: "Bandit"
   version: "Bearded"
   hitpoints: 30
@@ -2297,7 +2296,6 @@ npcs {
 npcs {
   ids: 734
   ids: 735
-  ids: 1976
   name: "Bandit"
   version: "No beard"
   hitpoints: 30
@@ -12640,6 +12638,24 @@ npcs {
   ids: 6595
   name: "Prifddinas guard"
   version: "Prifddinas"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
+  ids: 12460
+  ids: 12462
+  name: "Guard"
+  version: "Warriors\' guild"
   hitpoints: 800
   att: 800
   str: 400
