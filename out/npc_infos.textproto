@@ -5998,6 +5998,8 @@ npcs {
 }
 npcs {
   ids: 4184
+  ids: 11581
+  ids: 11582
   name: "Crocodile"
   hitpoints: 62
   att: 53
@@ -14767,6 +14769,7 @@ npcs {
 }
 npcs {
   ids: 4185
+  ids: 11583
   name: "Jackal"
   hitpoints: 27
   att: 17
@@ -20850,6 +20853,7 @@ npcs {
 }
 npcs {
   ids: 3023
+  ids: 11999
   name: "Poison spider"
   version: "Level 64"
   hitpoints: 64
