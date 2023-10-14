@@ -19684,6 +19684,16 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 4382
+  name: "Ogre shaman"
+  hitpoints: 1
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 7991
   ids: 7992
   name: "Ogress Shaman"
