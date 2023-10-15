@@ -438,6 +438,7 @@ npcs {
   mbns: 25
   arange: 150
   rngbns: 5
+  attributes: "kalphite"
 }
 npcs {
   ids: 911
@@ -1278,6 +1279,7 @@ npcs {
   dcrush: 30
   dmagic: 75
   drange: 50
+  attributes: "kalphite"
 }
 npcs {
   ids: 3301
@@ -10544,6 +10546,7 @@ npcs {
   dcrush: 99
   dmagic: 159
   drange: 149
+  attributes: "kalphite"
 }
 npcs {
   ids: 1127
@@ -10560,6 +10563,7 @@ npcs {
   dcrush: 99
   dmagic: 159
   drange: 149
+  attributes: "kalphite"
 }
 npcs {
   ids: 1101
@@ -17241,6 +17245,7 @@ npcs {
   dcrush: 50
   dmagic: 34
   drange: 66
+  attributes: "kalphite"
 }
 npcs {
   ids: 801
@@ -17259,6 +17264,7 @@ npcs {
   dcrush: 50
   dmagic: 34
   drange: 66
+  attributes: "kalphite"
 }
 npcs {
   ids: 795
@@ -17274,6 +17280,7 @@ npcs {
   dstab: 90
   dslash: 90
   dcrush: 40
+  attributes: "kalphite"
 }
 npcs {
   ids: 800
@@ -17288,6 +17295,7 @@ npcs {
   dstab: 90
   dslash: 90
   dcrush: 40
+  attributes: "kalphite"
 }
 npcs {
   ids: 7792
@@ -21732,6 +21740,7 @@ npcs {
   dcrush: 5
   dmagic: 50
   drange: 50
+  attributes: "kalphite"
 }
 npcs {
   ids: 7021
@@ -25515,6 +25524,7 @@ npcs {
   dcrush: 30
   dmagic: 10
   drange: 250
+  attributes: "kalphite"
 }
 npcs {
   ids: 4930
@@ -26255,6 +26265,7 @@ npcs {
   dcrush: 30
   dmagic: 250
   drange: 125
+  attributes: "kalphite"
 }
 npcs {
   ids: 7794
