@@ -12659,7 +12659,7 @@ npcs {
   ids: 12460
   ids: 12462
   name: "Guard"
-  version: "Warriors\' guild"
+  version: "Warriors\' Guild"
   hitpoints: 800
   att: 800
   str: 400
