@@ -3262,7 +3262,7 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 60
-  drange: 160
+  drange: 50
   attributes: "dragon,fiery"
 }
 npcs {
@@ -3281,7 +3281,7 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 60
-  drange: 160
+  drange: 50
   attributes: "dragon,fiery"
 }
 npcs {
