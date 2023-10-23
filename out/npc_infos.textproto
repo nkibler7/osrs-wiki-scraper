@@ -9528,6 +9528,7 @@ npcs {
   ids: 4483
   ids: 4484
   ids: 4485
+  ids: 9635
   name: "Gadderanks"
   hitpoints: 20
   att: 20
