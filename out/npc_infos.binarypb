@@ -1311,11 +1311,14 @@ N
 Ÿ_Duke SucellusAwake ¸(¬0Ù8“@¶PÈX&`–h €ÿˆA¾˜¸ ÀªDemon
 Q
 †_‡_Duke SucellusAsleep ¸(¬0Ù8“@¶PÈX&`–h €ÿˆA¾˜¸ ÀªDemon
-S
- _¤_Duke SucellusDefeated ¸(¬0Ù8“@¶PÈX&`–h €ÿˆA¾˜¸ ÀªDemon
-JDuke SucellusAwake „(³0ô8¼@ÑPÈX&`–h €ÿˆA¾˜¸ ÀªDemon
-KDuke SucellusAsleep „(³0ô8¼@ÑPÈX&`–h €ÿˆA¾˜¸ ÀªDemon
-MDuke SucellusDefeated „(³0ô8¼@ÑPÈX&`–h €ÿˆA¾˜¸ ÀªDemon
+Q
+ _Duke SucellusDefeated ¸(¬0Ù8“@¶PÈX&`–h €ÿˆA¾˜¸ ÀªDemon
+N
+Ÿ_Duke SucellusAwake „(³0ô8¼@ÑPÈX&`–h €ÿˆA¾˜¸ ÀªDemon
+Q
+†_‡_Duke SucellusAsleep „(³0ô8¼@ÑPÈX&`–h €ÿˆA¾˜¸ ÀªDemon
+Q
+ _Duke SucellusDefeated „(³0ô8¼@ÑPÈX&`–h €ÿˆA¾˜¸ ÀªDemon
 N
 £_Duke SucellusAwake È(ú0˜8×@æPÈX`–h
 €Òˆ ˜ ¬ªDemon
@@ -2806,7 +2809,8 @@ Q
 S
 ¶_The Leviathan
 Post-Quest „(¬0è8ú@ H PÈX` h:p¬x€„ˆ¾æ˜˜ 2
-MThe LeviathanAwakened Œ(0ö8Ÿ@˜H˜PÈX` h:p¬x€„ˆ¾æ˜˜ 2
+Q
+¶_The LeviathanAwakened Œ(0ö8Ÿ@˜H˜PÈX` h:p¬x€„ˆ¾æ˜˜ 2
 P
 ·_»_The LeviathanQuest Ğ(ú08È@‚H‚PªX`‚h$pæx
 €Èˆ–´˜Ü 
@@ -5071,7 +5075,8 @@ U
 ¬_­_The Whisperer
 Post-Quest „(˜0˜8ú@´H´PŒX`¾h:p xF€´ˆ¬Ü˜
  ¬
-MThe WhispererAwakened Œ(ú0ú8¬@áHóPŒX`¾h:p xF€´ˆ¬Ü˜
+S
+¬_­_The WhispererAwakened Œ(ú0ú8¬@áHóPŒX`¾h:p xF€´ˆ¬Ü˜
  ¬
 O
 ®_¯_The WhispererQuest ”(ğ0ú8È@‚H‚PdX

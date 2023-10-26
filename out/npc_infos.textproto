@@ -7725,7 +7725,6 @@ npcs {
 }
 npcs {
   ids: 12192
-  ids: 12196
   name: "Duke Sucellus"
   version: "Defeated"
   hitpoints: 440
@@ -7745,6 +7744,7 @@ npcs {
   attributes: "Demon"
 }
 npcs {
+  ids: 12191
   name: "Duke Sucellus"
   version: "Awake"
   hitpoints: 1540
@@ -7764,6 +7764,8 @@ npcs {
   attributes: "Demon"
 }
 npcs {
+  ids: 12166
+  ids: 12167
   name: "Duke Sucellus"
   version: "Asleep"
   hitpoints: 1540
@@ -7783,6 +7785,7 @@ npcs {
   attributes: "Demon"
 }
 npcs {
+  ids: 12192
   name: "Duke Sucellus"
   version: "Defeated"
   hitpoints: 1540
@@ -16952,6 +16955,7 @@ npcs {
   drange: 50
 }
 npcs {
+  ids: 12214
   name: "The Leviathan"
   version: "Awakened"
   hitpoints: 2700
@@ -30910,6 +30914,8 @@ npcs {
   drange: 300
 }
 npcs {
+  ids: 12204
+  ids: 12205
   name: "The Whisperer"
   version: "Awakened"
   hitpoints: 2700
