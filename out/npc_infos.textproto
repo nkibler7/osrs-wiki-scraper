@@ -3737,6 +3737,10 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 12539
+  name: "Bloodthirsty Crawler"
+}
+npcs {
   ids: 484
   ids: 485
   ids: 486
