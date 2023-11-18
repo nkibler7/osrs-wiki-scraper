@@ -3737,8 +3737,18 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 12568
+  name: "Bloodthirsty Bloodveld"
+  attributes: "demon"
+}
+npcs {
   ids: 12539
   name: "Bloodthirsty Crawler"
+}
+npcs {
+  ids: 12538
+  name: "Bloodthirsty hand"
+  attributes: "undead"
 }
 npcs {
   ids: 484
