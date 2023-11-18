@@ -3737,9 +3737,30 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 12561
+  name: "Bloodthirst rockslug"
+}
+npcs {
+  ids: 12540
+  name: "Bloodthirsty banshee"
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 12565
+  name: "Bloodthirsty basilisk"
+}
+npcs {
+  ids: 12566
+  name: "Basilisk Sentinel"
+}
+npcs {
   ids: 12568
   name: "Bloodthirsty Bloodveld"
   attributes: "demon"
+}
+npcs {
+  ids: 12562
+  name: "Bloodthirsty Cockathrice"
 }
 npcs {
   ids: 12539
@@ -3749,6 +3770,44 @@ npcs {
   ids: 12538
   name: "Bloodthirsty hand"
   attributes: "undead"
+}
+npcs {
+  ids: 12564
+  name: "Bloodthirsty Infernal pyrelord"
+  attributes: "demon"
+}
+npcs {
+  ids: 12570
+  name: "Bloodthirsty Jelly"
+}
+npcs {
+  ids: 12567
+  name: "Bloodthirsty Mage"
+}
+npcs {
+  ids: 12569
+  name: "Insatiable mutated Bloodveld"
+  attributes: "demon"
+}
+npcs {
+  ids: 12563
+  name: "Bloodthirsty pyrelord"
+  attributes: "demon"
+}
+npcs {
+  ids: 12542
+  name: "Screaming twisted banshee"
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 12571
+  name: "Bloodthirsty warped Jelly"
+  hitpoints: 220
+  att: 200
+  str: 180
+  def: 250
+  mage: 180
+  range: 1
 }
 npcs {
   ids: 484
