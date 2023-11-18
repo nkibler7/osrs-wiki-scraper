@@ -3741,6 +3741,15 @@ npcs {
   name: "Bloodthirst rockslug"
 }
 npcs {
+  ids: 12572
+  name: "Bloodthirsty abomination"
+}
+npcs {
+  ids: 12581
+  name: "Bloodthirsty abyssal demon"
+  attributes: "demon"
+}
+npcs {
   ids: 12540
   name: "Bloodthirsty banshee"
   attributes: "undead, spectral"
@@ -3759,12 +3768,21 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  ids: 12575
+  name: "Bloodthirsty choke devil"
+}
+npcs {
   ids: 12562
   name: "Bloodthirsty Cockathrice"
 }
 npcs {
   ids: 12539
   name: "Bloodthirsty Crawler"
+}
+npcs {
+  ids: 12578
+  ids: 12579
+  name: "Bloodthirsty gargoyle"
 }
 npcs {
   ids: 12538
@@ -3781,6 +3799,11 @@ npcs {
   name: "Bloodthirsty Jelly"
 }
 npcs {
+  ids: 12576
+  name: "Bloodthirsty kurask"
+  attributes: "leafy"
+}
+npcs {
   ids: 12567
   name: "Bloodthirsty Mage"
 }
@@ -3790,9 +3813,27 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  ids: 12580
+  name: "Bloodthirsty Night beast"
+}
+npcs {
   ids: 12563
   name: "Bloodthirsty pyrelord"
   attributes: "demon"
+}
+npcs {
+  ids: 12574
+  name: "Bloodthirsty Repugnant spectre"
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 12577
+  name: "Bloodthirsty smoke devil"
+}
+npcs {
+  ids: 12573
+  name: "Bloodthirsty spectre"
+  attributes: "undead, Spectral"
 }
 npcs {
   ids: 12542
