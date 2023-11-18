@@ -3757,6 +3757,15 @@ npcs {
 npcs {
   ids: 12565
   name: "Bloodthirsty basilisk"
+  hitpoints: 255
+  att: 132
+  str: 147
+  def: 130
+  mage: 1
+  range: 1
+  dstab: 35
+  dslash: 35
+  dmagic: 35
 }
 npcs {
   ids: 12566
