@@ -3780,6 +3780,11 @@ npcs {
   name: "Bloodthirsty Crawler"
 }
 npcs {
+  ids: 12586
+  name: "Bloodthirsty Drake"
+  attributes: "dragon"
+}
+npcs {
   ids: 12578
   ids: 12579
   name: "Bloodthirsty gargoyle"
@@ -3788,6 +3793,11 @@ npcs {
   ids: 12538
   name: "Bloodthirsty hand"
   attributes: "undead"
+}
+npcs {
+  ids: 12588
+  name: "Bloodthirsty Hydra"
+  attributes: "dragon"
 }
 npcs {
   ids: 12564
@@ -3813,6 +3823,11 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  ids: 12582
+  name: "Nechryarch"
+  attributes: "demon"
+}
+npcs {
   ids: 12580
   name: "Bloodthirsty Night beast"
 }
@@ -3827,6 +3842,18 @@ npcs {
   attributes: "undead, spectral"
 }
 npcs {
+  ids: 12584
+  name: "Bloodthirsty Shadow Wyrm"
+  version: "Idle"
+  attributes: "dragon"
+}
+npcs {
+  ids: 12585
+  name: "Bloodthirsty Shadow Wyrm"
+  version: "Attacking"
+  attributes: "dragon"
+}
+npcs {
   ids: 12577
   name: "Bloodthirsty smoke devil"
 }
@@ -3834,6 +3861,11 @@ npcs {
   ids: 12573
   name: "Bloodthirsty spectre"
   attributes: "undead, Spectral"
+}
+npcs {
+  ids: 12582
+  name: "Bloodthirsty Turoth"
+  attributes: "leafy"
 }
 npcs {
   ids: 12542
