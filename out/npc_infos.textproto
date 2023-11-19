@@ -3774,6 +3774,12 @@ npcs {
 npcs {
   ids: 12568
   name: "Bloodthirsty Bloodveld"
+  hitpoints: 435
+  att: 285
+  str: 217
+  def: 85
+  mage: 1
+  range: 1
   attributes: "demon"
 }
 npcs {
