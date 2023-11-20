@@ -3826,6 +3826,14 @@ npcs {
 npcs {
   ids: 12576
   name: "Bloodthirsty kurask"
+  hitpoints: 405
+  att: 285
+  str: 480
+  def: 250
+  mage: 1
+  range: 1
+  dslash: 50
+  dcrush: 5
   attributes: "leafy"
 }
 npcs {
