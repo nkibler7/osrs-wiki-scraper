@@ -3848,6 +3848,7 @@ npcs {
 npcs {
   ids: 12582
   name: "Nechryarch"
+  hitpoints: 480
   attributes: "demon"
 }
 npcs {
