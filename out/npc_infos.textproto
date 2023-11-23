@@ -3747,6 +3747,16 @@ npcs {
 npcs {
   ids: 12581
   name: "Bloodthirsty abyssal demon"
+  hitpoints: 600
+  att: 450
+  str: 390
+  def: 240
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  drange: 50
   attributes: "demon"
 }
 npcs {
