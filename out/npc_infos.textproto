@@ -3849,6 +3849,15 @@ npcs {
   ids: 12582
   name: "Nechryarch"
   hitpoints: 480
+  att: 465
+  str: 390
+  def: 140
+  mage: 1
+  range: 1
+  dstab: 30
+  dslash: 30
+  dcrush: 30
+  drange: 30
   attributes: "demon"
 }
 npcs {
