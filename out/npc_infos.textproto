@@ -3779,7 +3779,7 @@ npcs {
 }
 npcs {
   ids: 12566
-  name: "Basilisk Sentinel"
+  name: "Bloodthirsty Basilisk Sentinel"
 }
 npcs {
   ids: 12568
@@ -3863,7 +3863,7 @@ npcs {
 }
 npcs {
   ids: 12582
-  name: "Nechryarch"
+  name: "Bloodthirsty Nechryarch"
   hitpoints: 480
   att: 465
   str: 390
@@ -3918,7 +3918,7 @@ npcs {
 }
 npcs {
   ids: 12542
-  name: "Screaming twisted banshee"
+  name: "Bloodthirsty twisted banshee"
   attributes: "undead, spectral"
 }
 npcs {
