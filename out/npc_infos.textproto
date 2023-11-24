@@ -3879,6 +3879,17 @@ npcs {
 npcs {
   ids: 12580
   name: "Bloodthirsty Night beast"
+  hitpoints: 825
+  att: 405
+  str: 435
+  def: 220
+  mage: 450
+  range: 1
+  dstab: 75
+  dslash: 80
+  dcrush: 200
+  dmagic: 190
+  drange: 200
 }
 npcs {
   ids: 12563
