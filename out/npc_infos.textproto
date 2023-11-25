@@ -3925,6 +3925,14 @@ npcs {
 npcs {
   ids: 12582
   name: "Bloodthirsty Turoth"
+  hitpoints: 292
+  att: 306
+  str: 420
+  def: 154
+  mage: 1
+  range: 1
+  dslash: 40
+  dcrush: 40
   attributes: "leafy"
 }
 npcs {
