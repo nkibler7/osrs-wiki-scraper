@@ -3780,6 +3780,19 @@ npcs {
 npcs {
   ids: 12566
   name: "Bloodthirsty Basilisk Sentinel"
+  hitpoints: 780
+  att: 411
+  str: 411
+  def: 274
+  mage: 411
+  range: 1
+  attbns: 12
+  mbns: 12
+  dstab: 50
+  dslash: 50
+  dcrush: 10
+  dmagic: 50
+  drange: 10
 }
 npcs {
   ids: 12568
