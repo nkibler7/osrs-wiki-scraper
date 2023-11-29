@@ -14301,7 +14301,7 @@ npcs {
   dstab: 70
   dslash: 70
   dcrush: 110
-  dmagic: 60
+  dmagic: 40
   drange: 140
   attributes: "demon,xerician"
 }
@@ -14318,7 +14318,7 @@ npcs {
   dstab: 70
   dslash: 70
   dcrush: 110
-  dmagic: 60
+  dmagic: 40
   drange: 140
   attributes: "demon,xerician"
 }
