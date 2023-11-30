@@ -19023,9 +19023,10 @@ npcs {
   mage: 1
   range: 150
   attbns: 71
-  strbns: 64
+  strbns: 48
+  mbns: -8
   arange: 83
-  rngbns: 75
+  rngbns: 56
   dstab: -5
   dslash: 72
   dcrush: 50
@@ -19044,9 +19045,10 @@ npcs {
   mage: 250
   range: 250
   attbns: 88
-  strbns: 74
+  strbns: 55
+  mbns: -8
   arange: 82
-  rngbns: 63
+  rngbns: 47
   dstab: -5
   dslash: 82
   dcrush: 60
@@ -19064,9 +19066,10 @@ npcs {
   mage: 1
   range: 225
   attbns: 71
-  strbns: 64
+  strbns: 48
+  mbns: -8
   arange: 83
-  rngbns: 75
+  rngbns: 56
   dstab: -5
   dslash: 72
   dcrush: 50
@@ -19085,9 +19088,10 @@ npcs {
   mage: 375
   range: 375
   attbns: 88
-  strbns: 74
+  strbns: 55
+  mbns: -8
   arange: 82
-  rngbns: 63
+  rngbns: 47
   dstab: -5
   dslash: 82
   dcrush: 60
