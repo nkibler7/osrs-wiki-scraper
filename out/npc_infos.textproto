@@ -29888,7 +29888,7 @@ npcs {
   dslash: 190
   dcrush: 50
   dmagic: 400
-  drange: 60
+  drange: 40
   attributes: "xerician"
 }
 npcs {
@@ -29907,7 +29907,7 @@ npcs {
   dslash: 190
   dcrush: 50
   dmagic: 400
-  drange: 60
+  drange: 40
   attributes: "xerician"
 }
 npcs {
