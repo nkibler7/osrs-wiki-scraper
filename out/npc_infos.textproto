@@ -30192,6 +30192,8 @@ npcs {
   def: 40
   mage: 40
   range: 1
+  strbns: -8
+  rngbns: -8
   dmagic: 30
   attributes: "xerician"
 }
@@ -30200,7 +30202,14 @@ npcs {
   ids: 7539
   name: "Vespine soldier"
   version: "Challenge Mode"
+  hitpoints: 150
+  att: 225
+  str: 225
+  def: 60
+  mage: 60
   range: 1
+  strbns: -8
+  rngbns: -8
   dmagic: 30
   attributes: "xerician"
 }
@@ -30216,6 +30225,8 @@ npcs {
   def: 88
   mage: 88
   range: 150
+  strbns: -8
+  rngbns: -8
   dmagic: 70
   drange: 60
   attributes: "xerician"
@@ -30232,6 +30243,8 @@ npcs {
   def: 132
   mage: 132
   range: 225
+  strbns: -8
+  rngbns: -8
   dmagic: 70
   drange: 60
   attributes: "xerician"
