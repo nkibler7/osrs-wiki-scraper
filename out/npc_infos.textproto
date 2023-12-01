@@ -3854,6 +3854,12 @@ npcs {
 npcs {
   ids: 12570
   name: "Bloodthirsty Jelly"
+  hitpoints: 285
+  att: 255
+  str: 225
+  def: 220
+  mage: 225
+  range: 1
 }
 npcs {
   ids: 12576
