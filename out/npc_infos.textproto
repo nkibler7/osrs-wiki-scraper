@@ -3812,6 +3812,15 @@ npcs {
 npcs {
   ids: 12562
   name: "Bloodthirsty Cockathrice"
+  hitpoints: 142
+  att: 94
+  str: 117
+  def: 78
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  dmagic: 20
 }
 npcs {
   ids: 12539
