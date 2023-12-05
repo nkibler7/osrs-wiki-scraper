@@ -3849,6 +3849,16 @@ npcs {
 npcs {
   ids: 12564
   name: "Bloodthirsty Infernal pyrelord"
+  hitpoints: 276
+  att: 186
+  str: 144
+  def: 68
+  mage: 1
+  range: 1
+  dstab: 18
+  dslash: 18
+  dcrush: 18
+  drange: 18
   attributes: "demon"
 }
 npcs {
@@ -3922,6 +3932,16 @@ npcs {
 npcs {
   ids: 12563
   name: "Bloodthirsty pyrelord"
+  hitpoints: 187
+  att: 147
+  str: 97
+  def: 52
+  mage: 1
+  range: 1
+  dstab: 18
+  dslash: 18
+  dcrush: 18
+  drange: 18
   attributes: "demon"
 }
 npcs {
