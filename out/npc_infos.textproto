@@ -15331,6 +15331,7 @@ npcs {
 npcs {
   ids: 7700
   ids: 7704
+  ids: 10623
   name: "JalTok-Jad"
   hitpoints: 350
   att: 750
