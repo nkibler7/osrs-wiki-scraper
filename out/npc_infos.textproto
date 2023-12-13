@@ -120,7 +120,7 @@ npcs {
 npcs {
   ids: 2585
   name: "Abyssal guardian"
-  hitpoints: 55
+  hitpoints: 50
   att: 30
   str: 90
   def: 30
