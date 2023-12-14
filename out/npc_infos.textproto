@@ -3964,6 +3964,14 @@ npcs {
 npcs {
   ids: 12577
   name: "Bloodthirsty smoke devil"
+  hitpoints: 360
+  att: 360
+  str: 345
+  def: 390
+  mage: 1
+  range: 420
+  dmagic: 850
+  drange: 80
 }
 npcs {
   ids: 12573
