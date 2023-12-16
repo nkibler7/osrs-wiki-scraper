@@ -14806,7 +14806,7 @@ npcs {
 npcs {
   ids: 3134
   name: "Imp"
-  version: "GWD"
+  version: "God Wars"
   hitpoints: 10
   att: 5
   str: 5
