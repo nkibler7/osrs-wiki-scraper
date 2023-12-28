@@ -16798,6 +16798,7 @@ npcs {
   ids: 496
   name: "Whirlpool"
   version: "Whirlpool"
+  hitpoints: 255
   att: 1
   str: 1
   def: 1
