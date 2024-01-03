@@ -1532,8 +1532,6 @@ npcs {
   drange: 40
 }
 npcs {
-  ids: 4568
-  ids: 12061
   ids: 12062
   name: "Assassin"
   hitpoints: 400
