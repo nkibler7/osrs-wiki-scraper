@@ -3827,6 +3827,19 @@ npcs {
 npcs {
   ids: 12586
   name: "Bloodthirsty Drake"
+  hitpoints: 945
+  att: 405
+  str: 420
+  def: 200
+  mage: 450
+  range: 360
+  strbns: 12
+  rngbns: 40
+  dstab: 60
+  dslash: 100
+  dcrush: 100
+  dmagic: 20
+  drange: 150
   attributes: "dragon"
 }
 npcs {
@@ -3842,6 +3855,17 @@ npcs {
 npcs {
   ids: 12588
   name: "Bloodthirsty Hydra"
+  hitpoints: 1125
+  att: 1
+  str: 1
+  def: 100
+  mage: 375
+  range: 375
+  dstab: 100
+  dslash: 200
+  dcrush: 200
+  dmagic: 200
+  drange: 20
   attributes: "dragon"
 }
 npcs {
@@ -3951,12 +3975,38 @@ npcs {
   ids: 12584
   name: "Bloodthirsty Shadow Wyrm"
   version: "Idle"
+  hitpoints: 480
+  att: 450
+  str: 270
+  def: 125
+  mage: 240
+  range: 187
+  strbns: 30
+  mbns: 30
+  dstab: 20
+  dslash: 100
+  dcrush: 100
+  dmagic: 50
+  drange: 20
   attributes: "dragon"
 }
 npcs {
   ids: 12585
   name: "Bloodthirsty Shadow Wyrm"
   version: "Attacking"
+  hitpoints: 480
+  att: 450
+  str: 270
+  def: 125
+  mage: 240
+  range: 187
+  strbns: 30
+  mbns: 30
+  dstab: 20
+  dslash: 100
+  dcrush: 100
+  dmagic: 50
+  drange: 20
   attributes: "dragon"
 }
 npcs {
