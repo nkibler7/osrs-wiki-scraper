@@ -4047,11 +4047,11 @@ npcs {
 npcs {
   ids: 12571
   name: "Bloodthirsty warped Jelly"
-  hitpoints: 220
-  att: 200
-  str: 180
+  hitpoints: 330
+  att: 300
+  str: 270
   def: 250
-  mage: 180
+  mage: 270
   range: 1
 }
 npcs {
