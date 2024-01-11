@@ -29257,7 +29257,6 @@ npcs {
   drange: 25
 }
 npcs {
-  ids: 10623
   name: "Unbound JalTok-Jad"
   hitpoints: 700
   att: 1125
