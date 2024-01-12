@@ -29257,18 +29257,6 @@ npcs {
   drange: 25
 }
 npcs {
-  name: "Unbound JalTok-Jad"
-  hitpoints: 700
-  att: 1125
-  str: 1530
-  def: 600
-  mage: 637
-  range: 765
-  amagic: 100
-  mbns: 75
-  arange: 80
-}
-npcs {
   ids: 2993
   name: "Undead chicken"
   hitpoints: 3
