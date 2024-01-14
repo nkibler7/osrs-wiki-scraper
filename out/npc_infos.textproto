@@ -10515,7 +10515,6 @@ npcs {
 }
 npcs {
   ids: 2834
-  ids: 6824
   name: "Giant bat"
   version: "Normal"
   hitpoints: 32
@@ -10533,7 +10532,23 @@ npcs {
 npcs {
   ids: 4504
   name: "Giant bat"
-  version: "Sven\'s cave"
+  version: "Brine Rat Cavern"
+  hitpoints: 32
+  att: 22
+  str: 22
+  def: 22
+  mage: 1
+  range: 1
+  dstab: 10
+  dslash: 10
+  dcrush: 12
+  dmagic: 10
+  drange: 8
+}
+npcs {
+  ids: 6824
+  name: "Giant bat"
+  version: "Arceuus"
   hitpoints: 32
   att: 22
   str: 22
