@@ -3736,7 +3736,7 @@ npcs {
 }
 npcs {
   ids: 12561
-  name: "Bloodthirst rockslug"
+  name: "Bloodthirst rockslug{{Sic}}"
 }
 npcs {
   ids: 12572
