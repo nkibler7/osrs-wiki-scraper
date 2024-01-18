@@ -10530,9 +10530,9 @@ npcs {
   drange: 8
 }
 npcs {
-  ids: 4504
+  ids: 6824
   name: "Giant bat"
-  version: "Brine Rat Cavern"
+  version: "Arceuus"
   hitpoints: 32
   att: 22
   str: 22
@@ -10546,9 +10546,8 @@ npcs {
   drange: 8
 }
 npcs {
-  ids: 6824
+  ids: 4504
   name: "Giant bat"
-  version: "Arceuus"
   hitpoints: 32
   att: 22
   str: 22
