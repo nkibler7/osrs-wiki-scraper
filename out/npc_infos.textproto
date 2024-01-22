@@ -18386,7 +18386,7 @@ npcs {
   dstab: -10
   dslash: -10
   dcrush: -10
-  dmagic: 21
+  dmagic: -21
   drange: -10
 }
 npcs {
