@@ -23558,7 +23558,6 @@ npcs {
   attributes: "undead, spectral"
 }
 npcs {
-  ids: 7221
   ids: 7222
   name: "Scurrius"
   version: "Solo"
@@ -23583,7 +23582,6 @@ npcs {
 }
 npcs {
   ids: 7221
-  ids: 7222
   name: "Scurrius"
   version: "Group"
   hitpoints: 1500
