@@ -31882,22 +31882,6 @@ npcs {
   drange: -21
 }
 npcs {
-  ids: 3299
-  name: "Woman"
-  version: "East Ardougne"
-  hitpoints: 7
-  att: 1
-  str: 1
-  def: 1
-  mage: 1
-  range: 1
-  dstab: -21
-  dslash: -21
-  dcrush: -21
-  dmagic: -21
-  drange: -21
-}
-npcs {
   ids: 3015
   name: "Woman"
   version: "Varrock"
