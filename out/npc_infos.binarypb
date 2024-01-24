@@ -597,10 +597,10 @@ I
 ¡Black unicorn (08@H
 $
 ÇBlack unicorn Foal (08@H
-m
-¶#Blessed giant rat1 (08@HXèÿÿÿÿÿÿÿÿ€èÿÿÿÿÿÿÿÿˆèÿÿÿÿÿÿÿÿèÿÿÿÿÿÿÿÿ˜èÿÿÿÿÿÿÿÿ èÿÿÿÿÿÿÿÿ
-m
-·#Blessed giant rat2 (08@HXèÿÿÿÿÿÿÿÿ€èÿÿÿÿÿÿÿÿˆèÿÿÿÿÿÿÿÿèÿÿÿÿÿÿÿÿ˜èÿÿÿÿÿÿÿÿ èÿÿÿÿÿÿÿÿ
+s
+¶#Blessed giant rat1 (08@HXèÿÿÿÿÿÿÿÿ€èÿÿÿÿÿÿÿÿˆèÿÿÿÿÿÿÿÿèÿÿÿÿÿÿÿÿ˜èÿÿÿÿÿÿÿÿ èÿÿÿÿÿÿÿÿªrat
+s
+·#Blessed giant rat2 (08@HXèÿÿÿÿÿÿÿÿ€èÿÿÿÿÿÿÿÿˆèÿÿÿÿÿÿÿÿèÿÿÿÿÿÿÿÿ˜èÿÿÿÿÿÿÿÿ èÿÿÿÿÿÿÿÿªrat
 7
 µ#Blessed spiderNormal  (#0#8#@H€ˆ˜ 
 B
@@ -752,8 +752,8 @@ X€ˆ˜ 
 T
 ‹ Breoca 
 (08@H€ôÿÿÿÿÿÿÿÿˆôÿÿÿÿÿÿÿÿôÿÿÿÿÿÿÿÿ˜ôÿÿÿÿÿÿÿÿ ôÿÿÿÿÿÿÿÿ
-
-•#	Brine rat 2(F0O8(@H
+!
+•#	Brine rat 2(F0O8(@Hªrat
 T
 åBroddi (08@H€ôÿÿÿÿÿÿÿÿˆôÿÿÿÿÿÿÿÿôÿÿÿÿÿÿÿÿ˜ôÿÿÿÿÿÿÿÿ ôÿÿÿÿÿÿÿÿ
 I
@@ -1092,8 +1092,8 @@ L
 •XCruor ô(08È@ÈHh€dˆd˜– 2
 (
 Ü9Crushing hand 7(-0*8@Hªundead
-
-	Crypt rat #(F08@H
+!
+	Crypt rat #(F08@Hªrat
 -
 “Crypt spider <(-0/8-@H€ˆ
 ˜ 
@@ -1389,21 +1389,21 @@ Q
 €Òˆ ˜ ¬ªDemon
 MDuke SucellusDefeated È(ú0˜8×@æPÈX`–h
 €Òˆ ˜ ¬ªDemon
-!
+'
 —˜™Dungeon rat (
 0
 8
-@H
-0
+@Hªrat
+6
 ±Dungeon ratDoesn't drop tail (
 0
 8
-@H
-)
+@Hªrat
+/
 ²³Dungeon ratStandard (
 0
 8
-@H
+@Hªrat
 1
 «=®=¯=Ê=Ë=Î=Dusk
 First form Â(È0Œ8d@ŒHŒ
@@ -1823,8 +1823,8 @@ E
  
  
 Giant Champion F($0,84@H
-%
-‘’Giant crypt rat F(P028A@H
++
+‘’Giant crypt rat F(P028A@Hªrat
 3
 ”Giant crypt spider P(A0C8A@H€ˆ
 ˜ 
@@ -1849,13 +1849,13 @@ Giant Mole È(È0È8È@ÈH€<ˆPd˜P <
 Giant Mole È(È0È8È@ÈH€<ˆPd˜P <
 ,
 ‘Giant mosquito (08-@H€ˆ˜
-0
-¨©ª«¬­‹J	Giant ratLevel 3 (08@H
-(
+6
+¨©ª«¬­‹J	Giant ratLevel 3 (08@Hªrat
+.
 ®¯°	Giant ratLevel 6 
-(08@H
-)
-ÎÏĞ	Giant ratLevel 26 (08@H
+(08@Hªrat
+/
+ÎÏĞ	Giant ratLevel 26 (08@Hªrat
 Q
 ñ	Giant ratUsed (08@H€œÿÿÿÿÿÿÿÿˆœÿÿÿÿÿÿÿÿœÿÿÿÿÿÿÿÿ œÿÿÿÿÿÿÿÿ
 V
@@ -3894,7 +3894,7 @@ B
 K
 ß9Screaming twisted banshee Ü(g0n8P@H€ˆ ªundead, spectral
 B
-µ8¶8Scurrius ©(¬0d8d@dHdP–X
+µ8¶8Scurrius ô(¬0d8d@dHdP–X
 `–hp–x
 €ˆ˜
  ªrat
@@ -5565,15 +5565,15 @@ K
 ÕÖZombie pirate31 4(10282@Hªundead
 ,
 ×Zombie pirate32 4(10282@Hªundead
-
+-
 
-Zombie rat1 (08@H
-
+Zombie rat1 (08@Hªrat, undead
+-
 ‚
-Zombie rat2 (08@H
-
+Zombie rat2 (08@Hªrat, undead
+-
 ƒ
-Zombie rat3 (08@H
+Zombie rat3 (08@Hªrat, undead
 )
 ëZombie swab1 2(-0282@Hªundead
 )

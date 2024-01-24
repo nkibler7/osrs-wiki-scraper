@@ -3608,6 +3608,7 @@ npcs {
   dcrush: -24
   dmagic: -24
   drange: -24
+  attributes: "rat"
 }
 npcs {
   ids: 4535
@@ -3625,6 +3626,7 @@ npcs {
   dcrush: -24
   dmagic: -24
   drange: -24
+  attributes: "rat"
 }
 npcs {
   ids: 4533
@@ -4481,6 +4483,7 @@ npcs {
   def: 40
   mage: 1
   range: 1
+  attributes: "rat"
 }
 npcs {
   ids: 3685
@@ -6390,6 +6393,7 @@ npcs {
   def: 20
   mage: 1
   range: 1
+  attributes: "rat"
 }
 npcs {
   ids: 1683
@@ -8193,6 +8197,7 @@ npcs {
   def: 10
   mage: 1
   range: 1
+  attributes: "rat"
 }
 npcs {
   ids: 2865
@@ -8204,6 +8209,7 @@ npcs {
   def: 10
   mage: 1
   range: 1
+  attributes: "rat"
 }
 npcs {
   ids: 2866
@@ -8216,6 +8222,7 @@ npcs {
   def: 10
   mage: 1
   range: 1
+  attributes: "rat"
 }
 npcs {
   ids: 7851
@@ -10581,6 +10588,7 @@ npcs {
   def: 65
   mage: 1
   range: 1
+  attributes: "rat"
 }
 npcs {
   ids: 1684
@@ -10726,6 +10734,7 @@ npcs {
   def: 2
   mage: 1
   range: 1
+  attributes: "rat"
 }
 npcs {
   ids: 2862
@@ -10739,6 +10748,7 @@ npcs {
   def: 2
   mage: 1
   range: 1
+  attributes: "rat"
 }
 npcs {
   ids: 2510
@@ -10752,6 +10762,7 @@ npcs {
   def: 22
   mage: 1
   range: 1
+  attributes: "rat"
 }
 npcs {
   ids: 3313
@@ -23537,7 +23548,7 @@ npcs {
   ids: 7221
   ids: 7222
   name: "Scurrius"
-  hitpoints: 1065
+  hitpoints: 500
   att: 300
   str: 100
   def: 100
@@ -33548,6 +33559,7 @@ npcs {
   def: 2
   mage: 1
   range: 1
+  attributes: "rat, undead"
 }
 npcs {
   ids: 3970
@@ -33559,6 +33571,7 @@ npcs {
   def: 2
   mage: 1
   range: 1
+  attributes: "rat, undead"
 }
 npcs {
   ids: 3971
@@ -33570,6 +33583,7 @@ npcs {
   def: 2
   mage: 1
   range: 1
+  attributes: "rat, undead"
 }
 npcs {
   ids: 619
