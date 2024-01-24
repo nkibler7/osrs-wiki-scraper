@@ -23548,7 +23548,32 @@ npcs {
   ids: 7221
   ids: 7222
   name: "Scurrius"
+  version: "Solo"
   hitpoints: 500
+  att: 300
+  str: 100
+  def: 60
+  mage: 50
+  range: 50
+  attbns: 150
+  strbns: 10
+  amagic: 150
+  mbns: 20
+  arange: 150
+  rngbns: 10
+  dstab: 20
+  dslash: 20
+  dcrush: 20
+  dmagic: 10
+  drange: 20
+  attributes: "rat"
+}
+npcs {
+  ids: 7221
+  ids: 7222
+  name: "Scurrius"
+  version: "Group"
+  hitpoints: 1500
   att: 300
   str: 100
   def: 100
