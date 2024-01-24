@@ -21806,6 +21806,7 @@ npcs {
   dcrush: -42
   dmagic: -42
   drange: -42
+  attributes: "rat"
 }
 npcs {
   ids: 2492
@@ -21825,6 +21826,7 @@ npcs {
   dcrush: -42
   dmagic: -42
   drange: -42
+  attributes: "rat"
 }
 npcs {
   ids: 1704
@@ -23530,6 +23532,29 @@ npcs {
   dcrush: 25
   drange: 25
   attributes: "undead, spectral"
+}
+npcs {
+  ids: 7221
+  ids: 7222
+  name: "Scurrius"
+  hitpoints: 1065
+  att: 300
+  str: 100
+  def: 100
+  mage: 100
+  range: 100
+  attbns: 150
+  strbns: 10
+  amagic: 150
+  mbns: 20
+  arange: 150
+  rngbns: 10
+  dstab: 20
+  dslash: 20
+  dcrush: 20
+  dmagic: 10
+  drange: 20
+  attributes: "rat"
 }
 npcs {
   ids: 1098
