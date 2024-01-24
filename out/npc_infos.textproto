@@ -10765,6 +10765,19 @@ npcs {
   attributes: "rat"
 }
 npcs {
+  ids: 7223
+  name: "Giant rat"
+  hitpoints: 15
+  att: 100
+  str: 25
+  def: 10
+  mage: 1
+  range: 1
+  attbns: 68
+  strbns: 5
+  attributes: "rat"
+}
+npcs {
   ids: 3313
   name: "Giant rat"
   version: "Used"
