@@ -26501,7 +26501,7 @@ npcs {
   dslash: 400
   dcrush: 420
   dmagic: 200
-  attributes: "spectral"
+  attributes: "spectral,icy"
 }
 npcs {
   ids: 3160
