@@ -28462,10 +28462,22 @@ npcs {
 npcs {
   ids: 9435
   name: "Totem"
+  hitpoints: 200
 }
 npcs {
   ids: 9436
   name: "Totem"
+  hitpoints: 200
+}
+npcs {
+  ids: 9435
+  name: "Totem"
+  hitpoints: 300
+}
+npcs {
+  ids: 9436
+  name: "Totem"
+  hitpoints: 300
 }
 npcs {
   ids: 3551
