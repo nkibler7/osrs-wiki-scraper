@@ -28460,6 +28460,14 @@ npcs {
   attributes: "undead, spectral"
 }
 npcs {
+  ids: 9435
+  name: "Totem"
+}
+npcs {
+  ids: 9436
+  name: "Totem"
+}
+npcs {
   ids: 3551
   name: "Tough Guy"
   hitpoints: 75
