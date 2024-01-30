@@ -3707,7 +3707,7 @@ npcs {
   dcrush: 120
   dmagic: 300
   drange: 55
-  attributes: "Demon,Icy"
+  attributes: "Demon"
 }
 npcs {
   ids: 11294
@@ -3724,7 +3724,7 @@ npcs {
   dcrush: 120
   dmagic: 300
   drange: 55
-  attributes: "Demon,Icy"
+  attributes: "Demon"
 }
 npcs {
   ids: 8367
