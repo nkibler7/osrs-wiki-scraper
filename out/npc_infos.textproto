@@ -26592,6 +26592,7 @@ npcs {
   def: 100
   mage: 1
   range: 1
+  arange: 110
   attributes: "spectral"
 }
 npcs {
@@ -26606,6 +26607,7 @@ npcs {
   range: 1
   attbns: 9
   strbns: 6
+  arange: 110
   dstab: 12
   dslash: 14
   dcrush: 13
@@ -26625,6 +26627,7 @@ npcs {
   range: 1
   attbns: 29
   strbns: 13
+  arange: 110
   dstab: 12
   dslash: 14
   dcrush: 13
@@ -26642,6 +26645,7 @@ npcs {
   def: 120
   mage: 1
   range: 141
+  arange: 110
   dstab: 23
   dslash: 25
   dcrush: 13
@@ -26659,6 +26663,7 @@ npcs {
   def: 100
   mage: 50
   range: 1
+  arange: 110
   dstab: 100
   dslash: 100
   dcrush: 80
