@@ -1370,6 +1370,7 @@ npcs {
   dstab: 20
   dslash: 20
   drange: 10
+  attributes: "undead"
 }
 npcs {
   name: "Armoured zombie"
@@ -1383,6 +1384,7 @@ npcs {
   dstab: 20
   dslash: 20
   drange: 10
+  attributes: "undead"
 }
 npcs {
   ids: 643
