@@ -1360,6 +1360,7 @@ npcs {
 }
 npcs {
   name: "Armoured zombie"
+  version: "Melee"
   hitpoints: 85
   att: 73
   str: 72
@@ -1371,7 +1372,17 @@ npcs {
   drange: 10
 }
 npcs {
-  name: "Armoured Zombie"
+  name: "Armoured zombie"
+  version: "Ranged"
+  hitpoints: 85
+  att: 73
+  str: 72
+  def: 68
+  mage: 1
+  range: 72
+  dstab: 20
+  dslash: 20
+  drange: 10
 }
 npcs {
   ids: 643
