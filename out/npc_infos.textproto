@@ -1359,6 +1359,18 @@ npcs {
   name: "Armoured Foe"
 }
 npcs {
+  name: "Armoured zombie"
+  hitpoints: 85
+  att: 73
+  str: 72
+  def: 68
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  drange: 10
+}
+npcs {
   name: "Armoured Zombie"
 }
 npcs {
