@@ -1359,6 +1359,9 @@ npcs {
   name: "Armoured Foe"
 }
 npcs {
+  name: "Armoured Zombie"
+}
+npcs {
   ids: 643
   ids: 642
   name: "Arrg"
