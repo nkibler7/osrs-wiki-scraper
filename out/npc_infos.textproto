@@ -1364,6 +1364,21 @@ npcs {
   ids: 12722
   ids: 12723
   ids: 12724
+  ids: 12730
+  ids: 12731
+  ids: 12732
+  ids: 12733
+  ids: 12734
+  ids: 12740
+  ids: 12741
+  ids: 12742
+  ids: 12743
+  ids: 12744
+  ids: 12755
+  ids: 12756
+  ids: 12757
+  ids: 12758
+  ids: 12759
   name: "Armoured zombie"
   version: "Melee"
   hitpoints: 85
@@ -1378,11 +1393,26 @@ npcs {
   attributes: "undead"
 }
 npcs {
-  ids: 12720
-  ids: 12721
-  ids: 12722
-  ids: 12723
-  ids: 12724
+  ids: 12725
+  ids: 12726
+  ids: 12727
+  ids: 12728
+  ids: 12729
+  ids: 12735
+  ids: 12736
+  ids: 12737
+  ids: 12738
+  ids: 12739
+  ids: 12745
+  ids: 12746
+  ids: 12747
+  ids: 12748
+  ids: 12749
+  ids: 12760
+  ids: 12761
+  ids: 12762
+  ids: 12763
+  ids: 12764
   name: "Armoured zombie"
   version: "Ranged"
   hitpoints: 85
