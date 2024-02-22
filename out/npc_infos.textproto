@@ -1359,6 +1359,11 @@ npcs {
   name: "Armoured Foe"
 }
 npcs {
+  ids: 12720
+  ids: 12721
+  ids: 12722
+  ids: 12723
+  ids: 12724
   name: "Armoured zombie"
   version: "Melee"
   hitpoints: 85
@@ -1373,6 +1378,11 @@ npcs {
   attributes: "undead"
 }
 npcs {
+  ids: 12720
+  ids: 12721
+  ids: 12722
+  ids: 12723
+  ids: 12724
   name: "Armoured zombie"
   version: "Ranged"
   hitpoints: 85
