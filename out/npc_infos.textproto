@@ -8093,7 +8093,7 @@ npcs {
   ids: 1405
   name: "Dwarf"
   version: "Level 10"
-  hitpoints: 16
+  hitpoints: 12
   att: 8
   str: 8
   def: 6
