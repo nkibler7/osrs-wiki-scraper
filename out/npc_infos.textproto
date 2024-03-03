@@ -10512,7 +10512,7 @@ npcs {
   ids: 2860
   ids: 2861
   ids: 9483
-  name: "Giant Castilla"
+  name: "Giant rat"
   version: "Level 3"
   hitpoints: 5
   att: 2
@@ -10526,7 +10526,7 @@ npcs {
   ids: 2862
   ids: 2863
   ids: 2864
-  name: "Giant Castilla"
+  name: "Giant rat"
   version: "Level 6"
   hitpoints: 10
   att: 6
@@ -10540,7 +10540,7 @@ npcs {
   ids: 2510
   ids: 2511
   ids: 2512
-  name: "Giant Castilla"
+  name: "Giant rat"
   version: "Level 26"
   hitpoints: 25
   att: 22
@@ -21601,7 +21601,7 @@ npcs {
 npcs {
   ids: 2854
   ids: 2855
-  name: "Castilla"
+  name: "Rat"
   version: "Regular"
   hitpoints: 2
   att: 1
@@ -21616,12 +21616,12 @@ npcs {
   dcrush: -42
   dmagic: -42
   drange: -42
-  attributes: "Castilla"
+  attributes: "rat"
 }
 npcs {
   ids: 2492
   ids: 2513
-  name: "Castilla"
+  name: "Rat"
   version: "Stronghold of Security"
   hitpoints: 2
   att: 1
@@ -21636,7 +21636,7 @@ npcs {
   dcrush: -42
   dmagic: -42
   drange: -42
-  attributes: "Castilla"
+  attributes: "rat"
 }
 npcs {
   name: "Rat Boss Test NPC"
