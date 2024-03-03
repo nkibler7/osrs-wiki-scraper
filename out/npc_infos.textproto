@@ -18837,7 +18837,6 @@ npcs {
   dslash: 90
   dcrush: 30
   dmagic: 90
-  attributes: "undead"
 }
 npcs {
   ids: 717
@@ -18852,7 +18851,6 @@ npcs {
   dstab: 100
   dslash: 100
   dcrush: 100
-  attributes: "undead"
 }
 npcs {
   ids: 724
@@ -18867,7 +18865,6 @@ npcs {
   dstab: 100
   dslash: 100
   dcrush: 100
-  attributes: "undead"
 }
 npcs {
   ids: 720
@@ -18890,7 +18887,6 @@ npcs {
   dstab: 90
   dslash: 90
   dcrush: 90
-  attributes: "undead"
 }
 npcs {
   ids: 7276
