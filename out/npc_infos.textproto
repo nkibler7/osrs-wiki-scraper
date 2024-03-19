@@ -19236,6 +19236,16 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  ids: 1025
+  name: "Necromancer"
+  hitpoints: 40
+  att: 18
+  str: 18
+  def: 18
+  mage: 18
+  range: 1
+}
+npcs {
   ids: 11088
   name: "Necromancer"
   hitpoints: 80
@@ -19250,16 +19260,6 @@ npcs {
   dslash: 8
   dcrush: 8
   dmagic: 4
-}
-npcs {
-  ids: 1025
-  name: "Necromancer"
-  hitpoints: 40
-  att: 18
-  str: 18
-  def: 18
-  mage: 18
-  range: 1
 }
 npcs {
   ids: 3605
