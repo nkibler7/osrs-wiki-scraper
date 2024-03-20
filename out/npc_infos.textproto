@@ -4050,6 +4050,21 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
+  ids: 13013
+  name: "Blue Moon"
+  hitpoints: 500
+  att: 258
+  str: 100
+  def: 60
+  mage: 100
+  range: 1
+  attbns: 100
+  dstab: 100
+  dslash: 100
+  dmagic: 500
+  drange: 500
+}
+npcs {
   ids: 11066
   name: "Boar"
   version: "Level 5"
@@ -17917,6 +17932,14 @@ npcs {
 npcs {
   ids: 12818
   name: "Manticore"
+  hitpoints: 250
+  att: 300
+  str: 300
+  def: 250
+  mage: 300
+  range: 350
+  dmagic: 10
+  drange: 25
 }
 npcs {
   ids: 7407
@@ -20329,6 +20352,10 @@ npcs {
   dcrush: 20
   dmagic: 120
   drange: 120
+}
+npcs {
+  ids: 12833
+  name: "Passionate Supporter"
 }
 npcs {
   ids: 927
@@ -25715,6 +25742,7 @@ npcs {
 npcs {
   ids: 12821
   name: "Sol Heredit"
+  hitpoints: 1500
 }
 npcs {
   ids: 4088
