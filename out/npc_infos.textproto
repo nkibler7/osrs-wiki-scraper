@@ -3772,6 +3772,16 @@ npcs {
   drange: 50
 }
 npcs {
+  ids: 13021
+  name: "Blood jaguar"
+  hitpoints: 100
+  att: 40
+  str: 40
+  def: 28
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 13011
   name: "Blood Moon"
   hitpoints: 500
@@ -18686,6 +18696,19 @@ npcs {
   dmagic: 35
 }
 npcs {
+  ids: 13030
+  name: "Moonlight Cockatrice"
+  hitpoints: 52
+  att: 31
+  str: 52
+  def: 39
+  mage: 1
+  range: 1
+  dstab: 14
+  dslash: 14
+  dmagic: 14
+}
+npcs {
   ids: 6273
   name: "Mosquito swarm"
   version: "Level 17"
@@ -32226,6 +32249,24 @@ npcs {
   range: 80
   strbns: 30
   mbns: 30
+  dstab: 20
+  dslash: 50
+  dcrush: 50
+  dmagic: 50
+  drange: 20
+  attributes: "dragon"
+}
+npcs {
+  ids: 13032
+  name: "Wyrmling"
+  hitpoints: 65
+  att: 20
+  str: 30
+  def: 40
+  mage: 60
+  range: 15
+  strbns: 10
+  mbns: 10
   dstab: 20
   dslash: 50
   dcrush: 50
