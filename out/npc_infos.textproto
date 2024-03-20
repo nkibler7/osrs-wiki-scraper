@@ -9543,6 +9543,55 @@ npcs {
   strbns: 20
 }
 npcs {
+  ids: 12814
+  name: "Fremennik warband archer"
+  hitpoints: 50
+  att: 110
+  str: 110
+  def: 80
+  mage: 110
+  range: 3
+  attbns: 150
+  strbns: 150
+  amagic: 150
+  dmagic: 75
+  drange: 50
+}
+npcs {
+  ids: 12816
+  name: "Fremennik warband berserker"
+  hitpoints: 50
+  att: 110
+  str: 110
+  def: 80
+  mage: 110
+  range: 3
+  attbns: 150
+  strbns: 150
+  amagic: 150
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  drange: 75
+}
+npcs {
+  ids: 12815
+  name: "Fremennik warband seer"
+  hitpoints: 50
+  att: 110
+  str: 110
+  def: 80
+  mage: 110
+  range: 3
+  attbns: 150
+  strbns: 150
+  amagic: 150
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  dmagic: 30
+}
+npcs {
   ids: 5825
   name: "Frenzied ice troll female"
   hitpoints: 80
@@ -14959,6 +15008,18 @@ npcs {
 npcs {
   ids: 12810
   name: "Jaguar warrior"
+  hitpoints: 125
+  att: 200
+  str: 330
+  def: 125
+  mage: 100
+  range: 160
+  strbns: 25
+  dstab: 30
+  dslash: 30
+  dcrush: 30
+  dmagic: 15
+  drange: 45
 }
 npcs {
   ids: 4276
@@ -15226,6 +15287,23 @@ npcs {
   amagic: 100
   mbns: 75
   arange: 80
+}
+npcs {
+  ids: 12817
+  name: "Javelin Colossus"
+  hitpoints: 220
+  att: 200
+  str: 300
+  def: 190
+  mage: 225
+  range: 360
+  arange: 25
+  rngbns: 20
+  dstab: 15
+  dslash: 15
+  dcrush: 15
+  dmagic: 20
+  drange: 30
 }
 npcs {
   ids: 3282
@@ -17835,6 +17913,10 @@ npcs {
   def: 80
   mage: 1
   range: 200
+}
+npcs {
+  ids: 12818
+  name: "Manticore"
 }
 npcs {
   ids: 7407
@@ -23597,6 +23679,19 @@ npcs {
 npcs {
   ids: 12811
   name: "Serpent shaman"
+  hitpoints: 125
+  att: 100
+  str: 90
+  def: 90
+  mage: 220
+  range: 160
+  amagic: 50
+  mbns: 15
+  dstab: 30
+  dslash: 30
+  dcrush: 30
+  dmagic: 15
+  drange: 50
 }
 npcs {
   ids: 4104
@@ -23855,6 +23950,26 @@ npcs {
   def: 10
   attbns: 6
   strbns: 6
+}
+npcs {
+  name: "Shockwave colossus"
+  hitpoints: 125
+  att: 120
+  str: 190
+  def: 150
+  mage: 350
+  range: 220
+  amagic: 55
+  mbns: 35
+  dstab: 15
+  dslash: 15
+  dcrush: 15
+  dmagic: 5
+  drange: 35
+}
+npcs {
+  ids: 12819
+  name: "Shockwave Colossus"
 }
 npcs {
   ids: 990
@@ -25596,6 +25711,10 @@ npcs {
   dcrush: -21
   dmagic: -21
   drange: -21
+}
+npcs {
+  ids: 12821
+  name: "Sol Heredit"
 }
 npcs {
   ids: 4088
