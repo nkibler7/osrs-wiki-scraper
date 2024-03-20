@@ -15111,6 +15111,14 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 12976
+  name: "Jaguar"
+}
+npcs {
+  ids: 12977
+  name: "Jaguar cub"
+}
+npcs {
   ids: 12810
   name: "Jaguar warrior"
   hitpoints: 125
