@@ -14957,6 +14957,10 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 12810
+  name: "Jaguar warrior"
+}
+npcs {
   ids: 4276
   name: "Jail guard"
   version: "1"
@@ -18198,6 +18202,16 @@ npcs {
   dcrush: -10
   dmagic: -21
   drange: -10
+}
+npcs {
+  ids: 12812
+  name: "Minotaur"
+  version: "1"
+}
+npcs {
+  ids: 12813
+  name: "Minotaur"
+  version: "2"
 }
 npcs {
   ids: 2919
@@ -23579,6 +23593,10 @@ npcs {
   mage: 50
   range: 50
   strbns: 14
+}
+npcs {
+  ids: 12811
+  name: "Serpent shaman"
 }
 npcs {
   ids: 4104
