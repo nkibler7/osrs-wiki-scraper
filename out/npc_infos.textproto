@@ -27166,6 +27166,18 @@ npcs {
 npcs {
   ids: 12879
   name: "Sulphur Nagua"
+  hitpoints: 100
+  att: 90
+  str: 105
+  def: 40
+  mage: 50
+  range: 1
+  attbns: 90
+  dstab: 50
+  dslash: 50
+  dcrush: 10
+  dmagic: 200
+  drange: 200
 }
 npcs {
   ids: 69
