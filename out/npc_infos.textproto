@@ -3772,6 +3772,21 @@ npcs {
   drange: 50
 }
 npcs {
+  ids: 13011
+  name: "Blood Moon"
+  hitpoints: 500
+  att: 258
+  str: 100
+  def: 60
+  mage: 100
+  range: 1
+  attbns: 100
+  dstab: 100
+  dcrush: 100
+  dmagic: 500
+  drange: 500
+}
+npcs {
   ids: 11293
   name: "Blood Reaver"
   version: "Ancient Prison"
@@ -6383,6 +6398,36 @@ npcs {
   drange: -10
 }
 npcs {
+  ids: 12918
+  name: "Cultist"
+  version: "1"
+}
+npcs {
+  ids: 12919
+  name: "Cultist"
+  version: "2"
+}
+npcs {
+  ids: 12920
+  name: "Cultist"
+  version: "3"
+}
+npcs {
+  ids: 12921
+  name: "Cultist"
+  version: "4"
+}
+npcs {
+  ids: 12922
+  name: "Cultist"
+  version: "5"
+}
+npcs {
+  ids: 12923
+  name: "Cultist"
+  version: "6"
+}
+npcs {
   ids: 11717
   name: "Cursed Baboon"
   hitpoints: 10
@@ -8268,6 +8313,21 @@ npcs {
   def: 10
   mage: 10
   dmagic: 15
+}
+npcs {
+  ids: 13012
+  name: "Eclipse Moon"
+  hitpoints: 500
+  att: 258
+  str: 100
+  def: 60
+  mage: 100
+  range: 1
+  attbns: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 500
+  drange: 500
 }
 npcs {
   ids: 2618
@@ -27102,6 +27162,10 @@ npcs {
   dslash: 25
   dcrush: 25
   drange: 15
+}
+npcs {
+  ids: 12879
+  name: "Sulphur Nagua"
 }
 npcs {
   ids: 69
