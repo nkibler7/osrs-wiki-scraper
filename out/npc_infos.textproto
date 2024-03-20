@@ -12040,6 +12040,21 @@ npcs {
   attributes: "Golem"
 }
 npcs {
+  ids: 13029
+  name: "Grimy Lizard"
+  hitpoints: 75
+  att: 65
+  str: 25
+  def: 10
+  mage: 25
+  range: 1
+  dstab: 35
+  dslash: 15
+  dcrush: 50
+  dmagic: 50
+  drange: 35
+}
+npcs {
   ids: 4919
   name: "Grip"
   hitpoints: 25
@@ -18377,11 +18392,25 @@ npcs {
   ids: 12812
   name: "Minotaur"
   version: "1"
+  hitpoints: 225
+  att: 300
+  str: 360
+  def: 190
+  mage: 250
+  range: 120
+  drange: 12
 }
 npcs {
   ids: 12813
   name: "Minotaur"
   version: "2"
+  hitpoints: 225
+  att: 300
+  str: 360
+  def: 190
+  mage: 250
+  range: 120
+  drange: 12
 }
 npcs {
   ids: 2919
@@ -24062,6 +24091,19 @@ npcs {
 npcs {
   ids: 12819
   name: "Shockwave Colossus"
+  hitpoints: 125
+  att: 120
+  str: 190
+  def: 150
+  mage: 350
+  range: 220
+  amagic: 55
+  mbns: 35
+  dstab: 15
+  dslash: 15
+  dcrush: 15
+  dmagic: 5
+  drange: 35
 }
 npcs {
   ids: 990
