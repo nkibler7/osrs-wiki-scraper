@@ -6446,6 +6446,11 @@ npcs {
   drange: -50
 }
 npcs {
+  ids: 12957
+  name: "Cuthbert, Lord of Dread"
+  hitpoints: 1
+}
+npcs {
   ids: 2463
   ids: 2465
   ids: 2467
