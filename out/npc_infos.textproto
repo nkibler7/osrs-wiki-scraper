@@ -6411,31 +6411,97 @@ npcs {
   ids: 12918
   name: "Cultist"
   version: "1"
+  hitpoints: 25
+  att: 30
+  str: 35
+  def: 30
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  dcrush: 30
+  dmagic: 10
+  drange: 20
 }
 npcs {
   ids: 12919
   name: "Cultist"
   version: "2"
+  hitpoints: 25
+  att: 30
+  str: 35
+  def: 30
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  dcrush: 30
+  dmagic: 10
+  drange: 20
 }
 npcs {
   ids: 12920
   name: "Cultist"
   version: "3"
+  hitpoints: 25
+  att: 30
+  str: 35
+  def: 30
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  dcrush: 30
+  dmagic: 10
+  drange: 20
 }
 npcs {
   ids: 12921
   name: "Cultist"
   version: "4"
+  hitpoints: 25
+  att: 30
+  str: 35
+  def: 30
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  dcrush: 30
+  dmagic: 10
+  drange: 20
 }
 npcs {
   ids: 12922
   name: "Cultist"
   version: "5"
+  hitpoints: 25
+  att: 30
+  str: 35
+  def: 30
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  dcrush: 30
+  dmagic: 10
+  drange: 20
 }
 npcs {
   ids: 12923
   name: "Cultist"
   version: "6"
+  hitpoints: 25
+  att: 30
+  str: 35
+  def: 30
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  dcrush: 30
+  dmagic: 10
+  drange: 20
 }
 npcs {
   ids: 11717
@@ -8557,6 +8623,23 @@ npcs {
   dcrush: 40
   dmagic: 30
   drange: 20
+}
+npcs {
+  ids: 13139
+  name: "Embertailed jerboa"
+  hitpoints: 2
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  attbns: -47
+  strbns: -53
+  dstab: -42
+  dslash: -42
+  dcrush: -42
+  dmagic: -42
+  drange: -42
 }
 npcs {
   ids: 4381
