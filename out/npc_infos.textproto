@@ -16888,6 +16888,23 @@ npcs {
   drange: 13
 }
 npcs {
+  ids: 13115
+  name: "Knight of varlamore (monster)"
+  hitpoints: 52
+  att: 38
+  str: 40
+  def: 31
+  mage: 1
+  range: 1
+  attbns: 8
+  strbns: 10
+  dstab: 39
+  dslash: 40
+  dcrush: 36
+  dmagic: -11
+  drange: 36
+}
+npcs {
   ids: 7106
   ids: 7107
   name: "Kob"
