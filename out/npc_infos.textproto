@@ -2409,6 +2409,22 @@ npcs {
   drange: 4
 }
 npcs {
+  name: "Bandit"
+  hitpoints: 27
+  att: 17
+  str: 22
+  def: 17
+  mage: 1
+  range: 1
+  attbns: 11
+  strbns: 12
+  dstab: 4
+  dslash: 8
+  dcrush: 5
+  dmagic: 1
+  drange: 4
+}
+npcs {
   ids: 738
   name: "Bandit champion"
   hitpoints: 50
@@ -3489,6 +3505,16 @@ npcs {
   dcrush: 10
 }
 npcs {
+  ids: 12978
+  name: "Black jaguar"
+  hitpoints: 80
+  att: 55
+  str: 50
+  def: 55
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 517
   ids: 4331
   name: "Black Knight"
@@ -4510,6 +4536,21 @@ npcs {
   range: 1
   attbns: 33
   strbns: 31
+}
+npcs {
+  ids: 13004
+  name: "Buffalo"
+  hitpoints: 20
+  att: 6
+  str: 6
+  def: 1
+  mage: 1
+  range: 1
+  dstab: -21
+  dslash: -21
+  dcrush: -21
+  dmagic: -21
+  drange: -21
 }
 npcs {
   ids: 3902
@@ -6525,6 +6566,11 @@ npcs {
   ids: 12957
   name: "Cuthbert, Lord of Dread"
   hitpoints: 1
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 2463
@@ -15196,10 +15242,22 @@ npcs {
 npcs {
   ids: 12976
   name: "Jaguar"
+  hitpoints: 80
+  att: 55
+  str: 50
+  def: 55
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 12977
   name: "Jaguar cub"
+  hitpoints: 40
+  att: 25
+  str: 22
+  def: 25
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 12810
