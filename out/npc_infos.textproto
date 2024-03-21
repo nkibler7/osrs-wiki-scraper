@@ -26022,7 +26022,7 @@ npcs {
 npcs {
   ids: 12821
   name: "Sol Heredit"
-  hitpoints: 1485
+  hitpoints: 1500
   att: 350
   str: 400
   def: 200
@@ -26031,6 +26031,7 @@ npcs {
   attbns: 250
   strbns: 5
   amagic: 300
+  mbns: 69
   arange: 150
   rngbns: 5
   dstab: 65
