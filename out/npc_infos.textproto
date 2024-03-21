@@ -26030,8 +26030,6 @@ npcs {
   range: 350
   attbns: 250
   strbns: 5
-  amagic: 300
-  mbns: 69
   arange: 150
   rngbns: 5
   dstab: 65
