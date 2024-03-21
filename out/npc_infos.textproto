@@ -24104,22 +24104,6 @@ npcs {
   strbns: 6
 }
 npcs {
-  name: "Shockwave colossus"
-  hitpoints: 125
-  att: 120
-  str: 190
-  def: 150
-  mage: 350
-  range: 220
-  amagic: 55
-  mbns: 35
-  dstab: 15
-  dslash: 15
-  dcrush: 15
-  dmagic: 5
-  drange: 35
-}
-npcs {
   ids: 12819
   name: "Shockwave Colossus"
   hitpoints: 125
