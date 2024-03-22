@@ -18565,30 +18565,6 @@ npcs {
   drange: -10
 }
 npcs {
-  ids: 12812
-  name: "Minotaur"
-  version: "1"
-  hitpoints: 225
-  att: 300
-  str: 360
-  def: 190
-  mage: 250
-  range: 120
-  drange: 12
-}
-npcs {
-  ids: 12813
-  name: "Minotaur"
-  version: "2"
-  hitpoints: 225
-  att: 300
-  str: 360
-  def: 190
-  mage: 250
-  range: 120
-  drange: 12
-}
-npcs {
   ids: 2919
   ids: 8088
   ids: 8089
