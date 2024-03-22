@@ -25885,7 +25885,6 @@ npcs {
 }
 npcs {
   ids: 2845
-  ids: 12084
   name: "Snake"
   hitpoints: 6
   att: 4
@@ -25908,6 +25907,7 @@ npcs {
 }
 npcs {
   ids: 3544
+  ids: 12084
   name: "Snake"
   hitpoints: 6
   att: 4
@@ -25923,6 +25923,16 @@ npcs {
   att: 25
   str: 25
   def: 50
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 13002
+  name: "Snake (Varlamore)"
+  hitpoints: 6
+  att: 4
+  str: 5
+  def: 3
   mage: 1
   range: 1
 }
