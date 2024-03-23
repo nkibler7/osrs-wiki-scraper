@@ -14263,6 +14263,45 @@ npcs {
   strbns: 16
 }
 npcs {
+  ids: 12848
+  name: "Hill Giant"
+  version: "Shirtless"
+  hitpoints: 35
+  att: 18
+  str: 22
+  def: 26
+  mage: 1
+  range: 1
+  attbns: 18
+  strbns: 16
+}
+npcs {
+  ids: 12849
+  name: "Hill Giant"
+  version: "Clothed"
+  hitpoints: 35
+  att: 18
+  str: 22
+  def: 26
+  mage: 1
+  range: 1
+  attbns: 18
+  strbns: 16
+}
+npcs {
+  ids: 12850
+  name: "Hill Giant"
+  version: "Helmetless"
+  hitpoints: 35
+  att: 18
+  str: 22
+  def: 26
+  mage: 1
+  range: 1
+  attbns: 18
+  strbns: 16
+}
+npcs {
   ids: 3049
   name: "Hobgoblin"
   version: "Hobgoblin"
@@ -18923,6 +18962,22 @@ npcs {
   range: 1
   attbns: 66
   strbns: 62
+}
+npcs {
+  ids: 12844
+  ids: 12845
+  ids: 12846
+  ids: 12847
+  name: "Moss giant"
+  version: "Level 42 (Varlamore)"
+  hitpoints: 60
+  att: 30
+  str: 30
+  def: 30
+  mage: 1
+  range: 1
+  attbns: 33
+  strbns: 31
 }
 npcs {
   ids: 891
