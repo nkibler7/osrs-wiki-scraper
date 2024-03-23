@@ -2409,6 +2409,7 @@ npcs {
   drange: 4
 }
 npcs {
+  ids: 13283
   name: "Bandit"
   hitpoints: 27
   att: 17
