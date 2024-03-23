@@ -23693,6 +23693,7 @@ npcs {
 }
 npcs {
   ids: 3024
+  ids: 13001
   name: "Scorpion"
   version: "Level 14"
   hitpoints: 17
