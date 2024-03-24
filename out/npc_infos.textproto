@@ -16928,7 +16928,7 @@ npcs {
   drange: 13
 }
 npcs {
-  ids: 13115
+  ids: 13114
   name: "Knight of Varlamore"
   hitpoints: 52
   att: 38
@@ -16943,6 +16943,21 @@ npcs {
   dcrush: 36
   dmagic: -11
   drange: 36
+}
+npcs {
+  ids: 12916
+  name: "Knight of Varlamore (Twilight\'s Promise)"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 40
+  mage: 20
+  range: 1
+  dstab: 28
+  dslash: 26
+  dcrush: 10
+  dmagic: 5
+  drange: 20
 }
 npcs {
   ids: 7106
