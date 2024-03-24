@@ -16929,7 +16929,7 @@ npcs {
 }
 npcs {
   ids: 13115
-  name: "Knight of varlamore (monster)"
+  name: "Knight of Varlamore"
   hitpoints: 52
   att: 38
   str: 40
