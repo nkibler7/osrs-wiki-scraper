@@ -4539,21 +4539,6 @@ npcs {
   strbns: 31
 }
 npcs {
-  ids: 13425
-  name: "Buffalo"
-  hitpoints: 20
-  att: 6
-  str: 6
-  def: 1
-  mage: 1
-  range: 1
-  dstab: -21
-  dslash: -21
-  dcrush: -21
-  dmagic: -21
-  drange: -21
-}
-npcs {
   ids: 13004
   name: "Buffalo"
   hitpoints: 20
