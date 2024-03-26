@@ -17037,7 +17037,7 @@ npcs {
 }
 npcs {
   ids: 12916
-  name: "Knight of Varlamore (Twilight\'s Promise)"
+  name: "Knight of Varlamore"
   hitpoints: 100
   att: 70
   str: 70
