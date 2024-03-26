@@ -26091,7 +26091,7 @@ npcs {
 }
 npcs {
   ids: 13002
-  name: "Snake (Varlamore)"
+  name: "Snake"
   hitpoints: 6
   att: 4
   str: 5
