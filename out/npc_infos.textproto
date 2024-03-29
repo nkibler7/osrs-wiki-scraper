@@ -31924,10 +31924,6 @@ npcs {
   attributes: "Golem"
 }
 npcs {
-  ids: 12979
-  name: "White jaguar"
-}
-npcs {
   ids: 1798
   ids: 8149
   name: "White Knight"
