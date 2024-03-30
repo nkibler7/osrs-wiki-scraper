@@ -27553,7 +27553,7 @@ npcs {
   drange: 15
 }
 npcs {
-  ids: 12879
+  ids: 13033
   name: "Sulphur Nagua"
   hitpoints: 100
   att: 90
@@ -27567,6 +27567,10 @@ npcs {
   dcrush: 10
   dmagic: 200
   drange: 200
+}
+npcs {
+  ids: 12879
+  name: "Sulphur Nagua"
 }
 npcs {
   ids: 69
