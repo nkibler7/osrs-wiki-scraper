@@ -22185,9 +22185,6 @@ npcs {
   attributes: "rat"
 }
 npcs {
-  name: "Rat Boss Test NPC"
-}
-npcs {
   ids: 1704
   name: "Ravager"
   version: "Level 36"
