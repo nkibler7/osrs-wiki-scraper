@@ -13549,6 +13549,176 @@ npcs {
   drange: 16
 }
 npcs {
+  ids: 13100
+  name: "Guard (Varlamore)"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 13101
+  name: "Guard (Varlamore)"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 13102
+  name: "Guard (Varlamore)"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 13103
+  name: "Guard (Varlamore)"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 13104
+  name: "Guard (Varlamore)"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 13105
+  name: "Guard (Varlamore)"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 13106
+  name: "Guard (Varlamore)"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 13107
+  name: "Guard (Varlamore)"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 13108
+  name: "Guard (Varlamore)"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 13109
+  name: "Guard (Varlamore)"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
   ids: 1027
   name: "Guard Bandit"
   hitpoints: 27
