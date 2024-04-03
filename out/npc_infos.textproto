@@ -9770,10 +9770,12 @@ npcs {
   str: 110
   def: 80
   mage: 110
-  range: 3
+  range: 110
   attbns: 150
   strbns: 150
   amagic: 150
+  arange: 150
+  rngbns: 10
   dmagic: 75
   drange: 50
 }
