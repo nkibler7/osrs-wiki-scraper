@@ -7976,7 +7976,6 @@ npcs {
   mage: 130
   range: 1
   attbns: 50
-  attributes: "(Optional)"
 }
 npcs {
   ids: 12191
@@ -19096,6 +19095,7 @@ npcs {
   def: 130
   mage: 130
   range: 1
+  attbns: 50
 }
 npcs {
   ids: 5283
