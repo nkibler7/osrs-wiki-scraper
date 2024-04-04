@@ -4,7 +4,14 @@
 npcs {
   ids: 3477
   name: "A Doubt"
-  hitpoints: 50
+  hitpoints: 59
+  att: 72
+  str: 58
+  def: 85
+  mage: 1
+  range: 1
+  attbns: 18
+  strbns: 16
 }
 npcs {
   ids: 2
@@ -28378,7 +28385,12 @@ npcs {
 npcs {
   ids: 3476
   name: "The Illusive"
-  hitpoints: 140
+  hitpoints: 144
+  att: 72
+  str: 71
+  def: 105
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 3473
