@@ -20660,6 +20660,16 @@ npcs {
   drange: 13
 }
 npcs {
+  ids: 13006
+  name: "Oryx"
+  hitpoints: 19
+  att: 11
+  str: 13
+  def: 13
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 8994
   name: "Othainian"
   hitpoints: 87
