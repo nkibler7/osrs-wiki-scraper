@@ -27617,6 +27617,7 @@ npcs {
   ids: 12429
   name: "Strangled"
   version: "Strangled 1"
+  hitpoints: 40
 }
 npcs {
   ids: 12269
@@ -27625,6 +27626,7 @@ npcs {
   ids: 12430
   name: "Strangled"
   version: "Strangled 2"
+  hitpoints: 40
 }
 npcs {
   ids: 12270
@@ -27633,6 +27635,7 @@ npcs {
   ids: 12431
   name: "Strangled"
   version: "Strangled 3"
+  hitpoints: 40
 }
 npcs {
   ids: 12271
@@ -27641,6 +27644,7 @@ npcs {
   ids: 12432
   name: "Strangled"
   version: "Strangled 4"
+  hitpoints: 40
 }
 npcs {
   ids: 12272
@@ -27649,6 +27653,7 @@ npcs {
   ids: 12433
   name: "Strangled"
   version: "Strangled 1"
+  hitpoints: 50
 }
 npcs {
   ids: 12273
@@ -27657,6 +27662,7 @@ npcs {
   ids: 12434
   name: "Strangled"
   version: "Strangled 2"
+  hitpoints: 50
 }
 npcs {
   ids: 12274
@@ -27664,6 +27670,7 @@ npcs {
   ids: 12435
   name: "Strangled"
   version: "Strangled 3"
+  hitpoints: 50
 }
 npcs {
   ids: 12288
