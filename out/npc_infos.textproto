@@ -18255,6 +18255,7 @@ npcs {
   def: 135
   mage: 175
   range: 1
+  dmagic: 75
 }
 npcs {
   ids: 12456
