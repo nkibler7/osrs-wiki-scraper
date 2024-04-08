@@ -32921,8 +32921,7 @@ npcs {
   drange: 30
 }
 npcs {
-  ids: 10953
-  ids: 10956
+  ids: 10951
   name: "Xamphur"
   hitpoints: 450
   def: 100
