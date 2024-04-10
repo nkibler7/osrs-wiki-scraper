@@ -34362,7 +34362,23 @@ npcs {
   attributes: "undead"
 }
 npcs {
+  ids: 13489
   name: "Zombie"
+  version: "Level 22"
+  attributes: "undead"
+}
+npcs {
+  ids: 13490
+  ids: 13491
+  name: "Zombie"
+  version: "Level 28"
+  attributes: "undead"
+}
+npcs {
+  ids: 13492
+  ids: 13493
+  name: "Zombie"
+  version: "Level 34"
   attributes: "undead"
 }
 npcs {
