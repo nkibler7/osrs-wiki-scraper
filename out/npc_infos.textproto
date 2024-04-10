@@ -34365,6 +34365,12 @@ npcs {
   ids: 13489
   name: "Zombie"
   version: "Level 22"
+  hitpoints: 22
+  att: 20
+  str: 10
+  def: 20
+  mage: 1
+  range: 1
   attributes: "undead"
 }
 npcs {
@@ -34372,6 +34378,11 @@ npcs {
   ids: 13491
   name: "Zombie"
   version: "Level 28"
+  hitpoints: 35
+  att: 30
+  str: 15
+  mage: 1
+  range: 1
   attributes: "undead"
 }
 npcs {
@@ -34379,6 +34390,11 @@ npcs {
   ids: 13493
   name: "Zombie"
   version: "Level 34"
+  hitpoints: 40
+  att: 40
+  str: 20
+  mage: 1
+  range: 1
   attributes: "undead"
 }
 npcs {
