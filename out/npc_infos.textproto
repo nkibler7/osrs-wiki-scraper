@@ -11693,6 +11693,11 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 3047
+  name: "Goblin"
+  version: "Red (updated)"
+}
+npcs {
   ids: 2484
   name: "Goblin"
   version: "Level 5"
