@@ -34362,6 +34362,10 @@ npcs {
   attributes: "undead"
 }
 npcs {
+  name: "Zombie"
+  attributes: "undead"
+}
+npcs {
   ids: 3969
   name: "Zombie rat"
   version: "1"
