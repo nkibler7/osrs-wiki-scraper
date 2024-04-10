@@ -34363,7 +34363,7 @@ npcs {
 }
 npcs {
   ids: 13489
-  name: "Zombie"
+  name: "Zombie pirate"
   version: "Level 22"
   hitpoints: 22
   att: 20
@@ -34376,7 +34376,7 @@ npcs {
 npcs {
   ids: 13490
   ids: 13491
-  name: "Zombie"
+  name: "Zombie pirate"
   version: "Level 28"
   hitpoints: 35
   att: 30
@@ -34389,7 +34389,7 @@ npcs {
 npcs {
   ids: 13492
   ids: 13493
-  name: "Zombie"
+  name: "Zombie pirate"
   version: "Level 34"
   hitpoints: 40
   att: 40
