@@ -33967,6 +33967,44 @@ npcs {
   attributes: "undead"
 }
 npcs {
+  ids: 13489
+  name: "Zombie pirate"
+  version: "Level 22"
+  hitpoints: 22
+  att: 20
+  str: 10
+  def: 20
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 13490
+  ids: 13491
+  name: "Zombie pirate"
+  version: "Level 28"
+  hitpoints: 35
+  att: 30
+  str: 15
+  def: 20
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
+  ids: 13492
+  ids: 13493
+  name: "Zombie pirate"
+  version: "Level 34"
+  hitpoints: 40
+  att: 40
+  str: 20
+  def: 20
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
   ids: 613
   name: "Zombie pirate"
   version: "1"
@@ -34042,7 +34080,7 @@ npcs {
   ids: 563
   ids: 564
   name: "Zombie pirate"
-  version: "7"
+  version: "1"
   hitpoints: 52
   att: 49
   str: 50
@@ -34055,7 +34093,7 @@ npcs {
   ids: 565
   ids: 566
   name: "Zombie pirate"
-  version: "8"
+  version: "2"
   hitpoints: 52
   att: 49
   str: 50
@@ -34067,7 +34105,7 @@ npcs {
 npcs {
   ids: 567
   name: "Zombie pirate"
-  version: "9"
+  version: "3"
   hitpoints: 52
   att: 49
   str: 50
@@ -34079,7 +34117,7 @@ npcs {
 npcs {
   ids: 568
   name: "Zombie pirate"
-  version: "10"
+  version: "4"
   hitpoints: 52
   att: 49
   str: 50
@@ -34092,7 +34130,7 @@ npcs {
   ids: 569
   ids: 570
   name: "Zombie pirate"
-  version: "11"
+  version: "5"
   hitpoints: 52
   att: 49
   str: 50
@@ -34104,7 +34142,7 @@ npcs {
 npcs {
   ids: 571
   name: "Zombie pirate"
-  version: "12"
+  version: "6"
   hitpoints: 52
   att: 49
   str: 50
@@ -34116,7 +34154,7 @@ npcs {
 npcs {
   ids: 572
   name: "Zombie pirate"
-  version: "13"
+  version: "7"
   hitpoints: 52
   att: 49
   str: 50
@@ -34128,7 +34166,7 @@ npcs {
 npcs {
   ids: 573
   name: "Zombie pirate"
-  version: "14"
+  version: "8"
   hitpoints: 52
   att: 49
   str: 50
@@ -34140,7 +34178,7 @@ npcs {
 npcs {
   ids: 574
   name: "Zombie pirate"
-  version: "15"
+  version: "9"
   hitpoints: 52
   att: 49
   str: 50
@@ -34152,7 +34190,7 @@ npcs {
 npcs {
   ids: 575
   name: "Zombie pirate"
-  version: "16"
+  version: "10"
   hitpoints: 52
   att: 49
   str: 50
@@ -34164,7 +34202,7 @@ npcs {
 npcs {
   ids: 576
   name: "Zombie pirate"
-  version: "17"
+  version: "11"
   hitpoints: 52
   att: 49
   str: 50
@@ -34176,7 +34214,7 @@ npcs {
 npcs {
   ids: 577
   name: "Zombie pirate"
-  version: "18"
+  version: "12"
   hitpoints: 52
   att: 49
   str: 50
@@ -34188,7 +34226,7 @@ npcs {
 npcs {
   ids: 578
   name: "Zombie pirate"
-  version: "19"
+  version: "13"
   hitpoints: 52
   att: 49
   str: 50
@@ -34200,7 +34238,7 @@ npcs {
 npcs {
   ids: 579
   name: "Zombie pirate"
-  version: "20"
+  version: "14"
   hitpoints: 52
   att: 49
   str: 50
@@ -34212,7 +34250,7 @@ npcs {
 npcs {
   ids: 580
   name: "Zombie pirate"
-  version: "21"
+  version: "15"
   hitpoints: 52
   att: 49
   str: 50
@@ -34224,7 +34262,7 @@ npcs {
 npcs {
   ids: 581
   name: "Zombie pirate"
-  version: "22"
+  version: "16"
   hitpoints: 52
   att: 49
   str: 50
@@ -34237,7 +34275,7 @@ npcs {
   ids: 582
   ids: 583
   name: "Zombie pirate"
-  version: "23"
+  version: "17"
   hitpoints: 52
   att: 49
   str: 50
@@ -34250,7 +34288,7 @@ npcs {
   ids: 584
   ids: 585
   name: "Zombie pirate"
-  version: "24"
+  version: "18"
   hitpoints: 52
   att: 49
   str: 50
@@ -34263,7 +34301,7 @@ npcs {
   ids: 586
   ids: 587
   name: "Zombie pirate"
-  version: "25"
+  version: "19"
   hitpoints: 52
   att: 49
   str: 50
@@ -34276,7 +34314,7 @@ npcs {
   ids: 588
   ids: 589
   name: "Zombie pirate"
-  version: "26"
+  version: "20"
   hitpoints: 52
   att: 49
   str: 50
@@ -34289,7 +34327,7 @@ npcs {
   ids: 590
   ids: 591
   name: "Zombie pirate"
-  version: "27"
+  version: "21"
   hitpoints: 52
   att: 49
   str: 50
@@ -34301,7 +34339,7 @@ npcs {
 npcs {
   ids: 592
   name: "Zombie pirate"
-  version: "28"
+  version: "22"
   hitpoints: 52
   att: 49
   str: 50
@@ -34314,7 +34352,7 @@ npcs {
   ids: 593
   ids: 594
   name: "Zombie pirate"
-  version: "29"
+  version: "23"
   hitpoints: 52
   att: 49
   str: 50
@@ -34327,7 +34365,7 @@ npcs {
   ids: 595
   ids: 596
   name: "Zombie pirate"
-  version: "30"
+  version: "24"
   hitpoints: 52
   att: 49
   str: 50
@@ -34340,7 +34378,7 @@ npcs {
   ids: 597
   ids: 598
   name: "Zombie pirate"
-  version: "31"
+  version: "25"
   hitpoints: 52
   att: 49
   str: 50
@@ -34352,49 +34390,11 @@ npcs {
 npcs {
   ids: 599
   name: "Zombie pirate"
-  version: "32"
+  version: "26"
   hitpoints: 52
   att: 49
   str: 50
   def: 50
-  mage: 1
-  range: 1
-  attributes: "undead"
-}
-npcs {
-  ids: 13489
-  name: "Zombie pirate"
-  version: "Level 22"
-  hitpoints: 22
-  att: 20
-  str: 10
-  def: 20
-  mage: 1
-  range: 1
-  attributes: "undead"
-}
-npcs {
-  ids: 13490
-  ids: 13491
-  name: "Zombie pirate"
-  version: "Level 28"
-  hitpoints: 35
-  att: 30
-  str: 15
-  def: 20
-  mage: 1
-  range: 1
-  attributes: "undead"
-}
-npcs {
-  ids: 13492
-  ids: 13493
-  name: "Zombie pirate"
-  version: "Level 34"
-  hitpoints: 40
-  att: 40
-  str: 20
-  def: 20
   mage: 1
   range: 1
   attributes: "undead"
