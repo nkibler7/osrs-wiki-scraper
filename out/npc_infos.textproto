@@ -27777,7 +27777,6 @@ npcs {
   dcrush: 10
   dmagic: 200
   drange: 200
-  attributes: "spectral"
 }
 npcs {
   ids: 12879
