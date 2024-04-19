@@ -19471,16 +19471,49 @@ npcs {
   ids: 8844
   name: "Mourner"
   version: "Level 24"
+  hitpoints: 13
+  att: 12
+  str: 16
+  def: 12
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 25
+  dcrush: 25
+  dmagic: 15
+  drange: 5
 }
 npcs {
   ids: 8845
   name: "Mourner"
   version: "Level 51"
+  hitpoints: 29
+  att: 40
+  str: 50
+  def: 30
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 40
+  dcrush: 40
+  dmagic: 30
+  drange: 20
 }
 npcs {
   ids: 8846
   name: "Mourner"
   version: "Level 106"
+  hitpoints: 100
+  att: 95
+  str: 95
+  def: 80
+  mage: 1
+  range: 1
+  dstab: 40
+  dslash: 60
+  dcrush: 60
+  dmagic: 50
+  drange: 40
 }
 npcs {
   ids: 5127
