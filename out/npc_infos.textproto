@@ -3871,7 +3871,19 @@ npcs {
   ids: 10821
   ids: 10829
   name: "Blood spawn"
+  version: "Entry"
   hitpoints: 120
+  att: 1
+  str: 1
+  range: 1
+}
+npcs {
+  ids: 8367
+  ids: 10821
+  ids: 10829
+  name: "Blood spawn"
+  version: "Normal"
+  hitpoints: 7
   att: 1
   str: 1
   range: 1
@@ -20206,7 +20218,7 @@ npcs {
   ids: 10799
   ids: 10860
   name: "Nylocas Hagios"
-  version: "Level 162"
+  version: "Small"
   hitpoints: 11
   att: 200
   str: 160
@@ -20223,7 +20235,7 @@ npcs {
   ids: 10796
   ids: 10802
   name: "Nylocas Hagios"
-  version: "Level 260"
+  version: "Big"
   hitpoints: 22
   att: 250
   str: 230
@@ -20234,6 +20246,35 @@ npcs {
   mbns: 500
 }
 npcs {
+  ids: 10776
+  ids: 10782
+  name: "Nylocas Hagios"
+  version: "Small (Entry mode)"
+  hitpoints: 2
+  att: 80
+  str: 40
+  def: 1
+  mage: 1
+  range: 80
+  amagic: 505
+  mbns: 280
+  rngbns: -30
+}
+npcs {
+  ids: 10779
+  name: "Nylocas Hagios"
+  version: "Big (Entry mode)"
+  hitpoints: 3
+  att: 100
+  str: 90
+  def: 6
+  mage: 6
+  range: 100
+  amagic: 400
+  mbns: 360
+  rngbns: -6
+}
+npcs {
   ids: 8342
   ids: 8348
   ids: 8381
@@ -20241,7 +20282,7 @@ npcs {
   ids: 10797
   ids: 10858
   name: "Nylocas Ischyros"
-  version: "Level 162"
+  version: "Small"
   hitpoints: 11
   att: 200
   str: 160
@@ -20258,7 +20299,7 @@ npcs {
   ids: 10794
   ids: 10800
   name: "Nylocas Ischyros"
-  version: "Level 260"
+  version: "Big"
   hitpoints: 22
   att: 250
   str: 230
@@ -20267,6 +20308,36 @@ npcs {
   range: 250
   amagic: 500
   mbns: 500
+}
+npcs {
+  ids: 10774
+  ids: 10780
+  name: "Nylocas Ischyros"
+  version: "Small (Entry mode)"
+  hitpoints: 2
+  att: 80
+  str: 40
+  def: 1
+  mage: 1
+  range: 80
+  amagic: 505
+  mbns: 280
+  rngbns: -30
+}
+npcs {
+  ids: 10777
+  ids: 10783
+  name: "Nylocas Ischyros"
+  version: "Big (Entry mode)"
+  hitpoints: 3
+  att: 100
+  str: 90
+  def: 6
+  mage: 6
+  range: 100
+  amagic: 400
+  mbns: 360
+  rngbns: -6
 }
 npcs {
   ids: 10803
@@ -20322,7 +20393,7 @@ npcs {
   ids: 10798
   ids: 10859
   name: "Nylocas Toxobolos"
-  version: "Level 162"
+  version: "Small"
   hitpoints: 11
   att: 200
   str: 160
@@ -20339,7 +20410,7 @@ npcs {
   ids: 10795
   ids: 10801
   name: "Nylocas Toxobolos"
-  version: "Level 260"
+  version: "Big"
   hitpoints: 22
   att: 250
   str: 230
@@ -20348,6 +20419,36 @@ npcs {
   range: 250
   amagic: 500
   mbns: 500
+}
+npcs {
+  ids: 10775
+  ids: 10781
+  name: "Nylocas Toxobolos"
+  version: "Small (Entry mode)"
+  hitpoints: 2
+  att: 80
+  str: 40
+  def: 1
+  mage: 1
+  range: 80
+  amagic: 505
+  mbns: 280
+  rngbns: -30
+}
+npcs {
+  ids: 10778
+  ids: 10784
+  name: "Nylocas Toxobolos"
+  version: "Big (Entry mode)"
+  hitpoints: 3
+  att: 100
+  str: 90
+  def: 6
+  mage: 6
+  range: 100
+  amagic: 400
+  mbns: 360
+  rngbns: -6
 }
 npcs {
   ids: 10786

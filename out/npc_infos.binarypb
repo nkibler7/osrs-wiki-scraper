@@ -642,8 +642,10 @@ G
 XBlood ReaverAncient Prison }(08d@¾H€ˆPx˜¬ 7ªDemon
 G
 XBlood ReaverNex's chamber –(08d@¾H€ˆPx˜¬ 7ªDemon
-
-¯AÅTÍTBlood spawn x(0H
+$
+¯AÅTÍTBlood spawnEntry x(0H
+%
+¯AÅTÍTBlood spawnNormal (0H
 !
 ‘bBloodthirst rockslug{{Sic}}
 
@@ -3338,24 +3340,36 @@ U
 î9Nuclear smoke devil ğ(ğ0æ8†@H˜˜Ò P
 $
 ÀANylocas Athanatos ´(082@2H
+E
+˜AA¿A©T¯TìTNylocas HagiosSmall (È0 8@HÈ`±h xñÿÿÿÿÿÿÿÿ
+4
+›A¡A¬T²TNylocas HagiosBig (ú0æ8@Hú`ôhô
+G
+˜TTNylocas HagiosSmall (Entry mode) (P0(8@HP`ùh˜xâÿÿÿÿÿÿÿÿ
+C
+›TNylocas HagiosBig (Entry mode) (d0Z8@Hd`hèxúÿÿÿÿÿÿÿÿ
+G
+–AœA½A§T­TêTNylocas IschyrosSmall (È0 8@HÈ`±h xñÿÿÿÿÿÿÿÿ
+6
+™AŸAªT°TNylocas IschyrosBig (ú0æ8@Hú`ôhô
 I
-˜AA¿A©T¯TìTNylocas Hagios	Level 162 (È0 8@HÈ`±h xñÿÿÿÿÿÿÿÿ
-:
-›A¡A¬T²TNylocas Hagios	Level 260 (ú0æ8@Hú`ôhô
-K
-–AœA½A§T­TêTNylocas Ischyros	Level 162 (È0 8@HÈ`±h xñÿÿÿÿÿÿÿÿ
-<
-™AŸAªT°TNylocas Ischyros	Level 260 (ú0æ8@Hú`ôhô
+–TœTNylocas IschyrosSmall (Entry mode) (P0(8@HP`ùh˜xâÿÿÿÿÿÿÿÿ
+G
+™TŸTNylocas IschyrosBig (Entry mode) (d0Z8@Hd`hèxúÿÿÿÿÿÿÿÿ
 :
 ³T´TNylocas PrinkipasMelee (È0¯8@H¯X`¬h¬x
 8
 µTNylocas PrinkipasMagic (È0¯8@H¯X`¬h¬x
 9
 ¶TNylocas PrinkipasRanged (È0¯8@H¯X`¬h¬x
-L
-—AA¾A¨T®TëTNylocas Toxobolos	Level 162 (È0 8@HÈ`±h xñÿÿÿÿÿÿÿÿ
-=
-šA A«T±TNylocas Toxobolos	Level 260 (ú0æ8@Hú`ôhô
+H
+—AA¾A¨T®TëTNylocas ToxobolosSmall (È0 8@HÈ`±h xñÿÿÿÿÿÿÿÿ
+7
+šA A«T±TNylocas ToxobolosBig (ú0æ8@Hú`ôhô
+J
+—TTNylocas ToxobolosSmall (Entry mode) (P0(8@HP`ùh˜xâÿÿÿÿÿÿÿÿ
+H
+šT TNylocas ToxobolosBig (Entry mode) (d0Z8@Hd`hèxúÿÿÿÿÿÿÿÿ
 =
 ¢T£T¤T¥TNylocas VasiliasEntry  ( 0Œ82@HŒX(`ühÌx(
 >
