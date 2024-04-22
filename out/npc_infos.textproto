@@ -20201,8 +20201,20 @@ npcs {
   drange: 80
 }
 npcs {
+  ids: 10844
+  name: "Nylocas Athanatos"
+  version: "Entry"
+  hitpoints: 30
+  att: 1
+  str: 1
+  def: 40
+  mage: 40
+  range: 1
+}
+npcs {
   ids: 8384
   name: "Nylocas Athanatos"
+  version: "Normal"
   hitpoints: 180
   att: 1
   str: 1
