@@ -14661,9 +14661,6 @@ npcs {
   range: 1
 }
 npcs {
-  name: "Hueycoatl"
-}
-npcs {
   ids: 134
   name: "Huge spider"
   hitpoints: 90
