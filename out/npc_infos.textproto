@@ -16852,7 +16852,7 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: 20
-  drange: 20
+  drange: -10
 }
 npcs {
   ids: 469
@@ -16869,7 +16869,7 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: 20
-  drange: 20
+  drange: -10
 }
 npcs {
   ids: 239
