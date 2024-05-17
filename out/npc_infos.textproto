@@ -34113,7 +34113,7 @@ npcs {
   ids: 13489
   name: "Zombie pirate"
   version: "Level 22"
-  hitpoints: 22
+  hitpoints: 30
   att: 20
   str: 10
   def: 20
