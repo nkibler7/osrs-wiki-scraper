@@ -3872,7 +3872,7 @@ npcs {
   ids: 10829
   name: "Blood spawn"
   version: "Entry"
-  hitpoints: 120
+  hitpoints: 7
   att: 1
   str: 1
   range: 1
@@ -3883,7 +3883,7 @@ npcs {
   ids: 10829
   name: "Blood spawn"
   version: "Normal"
-  hitpoints: 7
+  hitpoints: 120
   att: 1
   str: 1
   range: 1
