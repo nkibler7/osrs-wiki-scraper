@@ -21533,7 +21533,7 @@ npcs {
   dstab: 185
   dslash: 134
   dcrush: 120
-  dmagic: 40
+  dmagic: 34
   drange: 261
   attributes: "spectral"
 }
