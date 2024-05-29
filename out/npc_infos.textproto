@@ -1935,7 +1935,7 @@ npcs {
   ids: 11709
   name: "Baboon Brawler"
   version: "Level 56"
-  hitpoints: 4
+  hitpoints: 25
   att: 40
   str: 40
   def: 12
@@ -1954,7 +1954,7 @@ npcs {
   ids: 11712
   name: "Baboon Brawler"
   version: "Level 68"
-  hitpoints: 6
+  hitpoints: 30
   att: 60
   str: 60
   def: 20
@@ -1973,7 +1973,7 @@ npcs {
   ids: 11711
   name: "Baboon Mage"
   version: "Level 56"
-  hitpoints: 4
+  hitpoints: 20
   att: 40
   str: 40
   def: 12
@@ -1992,7 +1992,7 @@ npcs {
   ids: 11714
   name: "Baboon Mage"
   version: "Level 68"
-  hitpoints: 6
+  hitpoints: 25
   att: 60
   str: 60
   def: 20
@@ -2042,7 +2042,7 @@ npcs {
   ids: 11710
   name: "Baboon Thrower"
   version: "Level 56"
-  hitpoints: 4
+  hitpoints: 30
   att: 40
   str: 40
   def: 12
@@ -2061,7 +2061,7 @@ npcs {
   ids: 11713
   name: "Baboon Thrower"
   version: "Level 68"
-  hitpoints: 6
+  hitpoints: 35
   att: 60
   str: 60
   def: 20
@@ -10731,7 +10731,6 @@ npcs {
   dslash: 80
   dcrush: 100
   dmagic: 80
-  drange: 60
 }
 npcs {
   ids: 1041
