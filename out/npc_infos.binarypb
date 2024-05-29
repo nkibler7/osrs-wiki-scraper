@@ -216,8 +216,8 @@ ApparitionScabaras 2(F0F8(@H€ˆ F
 4
 æ 
 ApparitionCrondis <(P0F8(@(H€ˆ˜F F
-D
-Î[Arcane Scarab ((K0P8P@dH_X7`úhApŞ€ˆú˜K 2ªkalphite
+A
+Î[Arcane Scarab ((K0P8P@dH_X7`úhApŞ€ˆú˜Kªkalphite
 +
 åArcher 2(08@H(px€ˆ˜
  
@@ -1919,18 +1919,17 @@ $
 ı+Giant snail	Level 109 –(08K@Hn
 *
 ş+Giant snail	Level 139  (08V@H 
-y
-ÉGiant spiderLevel 2 (08@HPöÿÿÿÿÿÿÿÿXöÿÿÿÿÿÿÿÿ€öÿÿÿÿÿÿÿÿˆöÿÿÿÿÿÿÿÿöÿÿÿÿÿÿÿÿ˜öÿÿÿÿÿÿÿÿ öÿÿÿÿÿÿÿÿ
+m
+ÉGiant spiderLevel 2 (08@HPöÿÿÿÿÿÿÿÿXöÿÿÿÿÿÿÿÿ€öÿÿÿÿÿÿÿÿˆöÿÿÿÿÿÿÿÿöÿÿÿÿÿÿÿÿ˜öÿÿÿÿÿÿÿÿ
 (
 ÊGiant spiderLevel 27  (08@H
-;
+8
 ­Giant spiderLevel 50 2()038@HP
 X
 €
 ˆ
 
 ˜
- 
 
 .
 –XGlacies ô(08È@ÈHh€dˆd˜– 2
@@ -2075,10 +2074,12 @@ R
 Ì^Greater Skeleton Hellhound (–0ª8n@H€_ˆe˜œ ¸
 K
 Ö3Greater Skeleton Hellhound (ä0§8´@H€–ˆ£˜Ò “ªundead
-T
-„…†‡ˆ‰?Œ?’?Green dragonLevel 79 K(D0D8D@DH€ˆ((˜ ªdragon,fiery
-J
-¼=½=¾=Green dragonLevel 88 d(D0K8D@KH€ˆ((˜ ªdragon,fiery
+Q
+„…†‡ˆ‰?Œ?’?Green dragonLevel 79 K(D0D8D@DH€
+ˆ((˜ªdragon,fiery
+G
+¼=½=¾=Green dragonLevel 88 d(D0K8D@KH€
+ˆ((˜ªdragon,fiery
 7
 ˆ%
 Grey golem P(P08P@H€¬ˆ¬˜¬ ¬ªGolem
@@ -2464,10 +2465,10 @@ Hoop Snake (0
 R
  Hygd 
 (08@H€ôÿÿÿÿÿÿÿÿˆôÿÿÿÿÿÿÿÿôÿÿÿÿÿÿÿÿ˜ôÿÿÿÿÿÿÿÿ ôÿÿÿÿÿÿÿÿ
-H
- ;	Ice demonNormal Œ(08 @†H†€FˆFn˜( Œªdemon,xerician
-P
-¡;	Ice demonChallenge Mode Ò(08ğ@ÉHÉ€FˆFn˜( Œªdemon,xerician
+D
+ ;	Ice demonNormal Œ(08 @†H†€FˆFn˜(ªdemon,xerician
+L
+¡;	Ice demonChallenge Mode Ò(08ğ@ÉHÉ€FˆFn˜(ªdemon,xerician
 7
 
 ¥¦§¨©	Ice giantLevel 53 F((0(8(@HPXˆ
@@ -2508,12 +2509,12 @@ E
 Ä-Ice troll runt	Variant 1 <(<0F8F@HP<X<€ˆ<
 8
 ÒIce troll runt	Variant 2 <(<0F8F@HP<X<€ˆ<
-4
+1
 ™Ice warriorNormal ;(/0/8/@H€ˆ(˜
- 
-B
+
+?
 šIce warriorAsgarnia Ice Dungeon ;(/0/8/@H€ˆ(˜
- 
+
 ,
 £Ice warrior ;(/0/8/@H€ˆ(˜
  
@@ -2716,8 +2717,8 @@ N
 Ù.²=Justiciar Zachariah À(ô0ú8d@´HPÈ`PhP€ÈˆÈÈ˜Äÿÿÿÿÿÿÿÿ È
 L
 ¡aJusticiar Zachariah À(ô0ú8d@´HPÈ`PhP€ÈˆÈÈ˜Äÿÿÿÿÿÿÿÿ È
-D
-¹K'ril Tsutsaroth ÿ(Ô0¬8@ÈHP X€PˆPP˜‚ Pªdemon
+A
+¹K'ril Tsutsaroth ÿ(Ô0¬8@ÈHP X€PˆPP˜‚ªdemon
 <
 aK'ril Tsutsaroth è(Ô0¬8@ÈHP X€PˆPP˜‚ P
 D
@@ -2772,8 +2773,8 @@ M
 ÖKebbit 2(08@H
 *
 À7Á7Keef ´(¥0x8¥@HP¾Xª€2ˆ22
-5
-Ç[É[Kephri P8P@}`}h2€<ˆ¬d˜È ¬ªkalphite
+1
+Ç[É[Kephri P8P@}`}h2€<ˆ¬d˜Èªkalphite
 +
 µKet-ZekStandard  (À0à8ğ@ğHà`<
 .
@@ -2813,8 +2814,8 @@ Killerwatt	Attacking 3(2028(@CHCP€
 ˆ
 
 ˜ öÿÿÿÿÿÿÿÿ
-F
-ïKing Black Dragon ğ(ğ0ğ8ğ@ğH€FˆZZ˜P Fªdragon,fiery
+C
+ïKing Black Dragon ğ(ğ0ğ8ğ@ğH€<ˆZZ˜Pªdragon,fiery
 @
 ˜aKing Black Dragon ú(ğ0ğ8ğ@ğH€FˆZZ˜P Fªdragon
 F
@@ -2931,8 +2932,8 @@ T
 
 ‰=
 Lava beast A
-?
-Á3Lava dragon æ(ğ0Ü8Ü@H€FˆZZ˜P Fªdragon,fiery
+<
+Á3Lava dragon æ(ğ0Ü8Ü@H€ˆZZ˜Pªdragon,fiery
 
 ¡Leech -(P08#@H
 
@@ -2964,14 +2965,14 @@ Q
 0
 8
 @H€ëÿÿÿÿÿÿÿÿˆëÿÿÿÿÿÿÿÿëÿÿÿÿÿÿÿÿ˜ëÿÿÿÿÿÿÿÿ ëÿÿÿÿÿÿÿÿ
-S
-¶_The Leviathan
-Post-Quest „(¬0è8ú@ H PÈX` h:p¬x€„ˆ¾æ˜˜ 2
-Q
-¶_The LeviathanAwakened Œ(0ö8Ÿ@˜H˜PÈX` h:p¬x€„ˆ¾æ˜˜ 2
 P
+¶_The Leviathan
+Post-Quest „(¬0è8ú@ H PÈX` h:p¬x€„ˆ¾æ˜˜
+N
+¶_The LeviathanAwakened Œ(0ö8Ÿ@˜H˜PÈX` h:p¬x€„ˆ¾æ˜˜
+M
 ·_»_The LeviathanQuest Ğ(ú08È@‚H‚PªX`‚h$pæx
-€Èˆ–´˜Ü 
+€Èˆ–´˜Ü
 T
 ÈLiliya <(
 0
@@ -2980,19 +2981,19 @@ T
 $
 ÊLizard ((&0$8#@H€ˆ 
 >
-‚6ƒ6	LizardmanLevel 53 <(+0+8+@H+PXpx€öÿÿÿÿÿÿÿÿˆ
+‚6ƒ6	LizardmanLevel 53 <(+0+8+@H+PXpx€ìÿÿÿÿÿÿÿÿˆ
 C
-„6…6óB	LizardmanLevel 62 <(50584@HPXpx€öÿÿÿÿÿÿÿÿˆ
+„6…6óB	LizardmanLevel 62 <(50584@HPXpx€ìÿÿÿÿÿÿÿÿˆ
 G
-†6‡6Lizardman bruteStandard <(A0A8A@HP"Xp"x€öÿÿÿÿÿÿÿÿˆ
+†6‡6Lizardman bruteStandard <(A0A8A@HP"Xp"x€ìÿÿÿÿÿÿÿÿˆ
 
 J
-ôBÃULizardman bruteBattlefront <(A0A8A@HP"Xp"x€öÿÿÿÿÿÿÿÿˆ
+ôBÃULizardman bruteBattlefront <(A0A8A@HP"Xp"x€ìÿÿÿÿÿÿÿÿˆ
 
 R
-î4ï4À<Á<Lizardman shamanStandard –(x0x8Œ@‚HxP-X&p-x&€öÿÿÿÿÿÿÿÿˆ(˜2
+î4ï4À<Á<Lizardman shamanStandard –(x0x8Œ@‚HxP-X&p-x&€ìÿÿÿÿÿÿÿÿˆ(˜2
 T
-õBLizardman shamanLizardman Temple –(x0x8Œ@‚HxP-X&p-x&€öÿÿÿÿÿÿÿÿˆ(˜2
+õBLizardman shamanLizardman Temple –(x0x8Œ@‚HxP-X&p-x&€ìÿÿÿÿÿÿÿÿˆ(˜2
 T
 •;–;Lizardman shamanNormal ¾(‚0‚8Ò@‚H‚P:X4p8x1€fˆ –˜ ªxerician
 \
@@ -3216,12 +3217,12 @@ Moss giantLevel 42 (Varlamore) <(08@HP!X
 ˜ 
 (
 ìAíAîAMother ë(–0–8ª@<HiP<X2˜È
-A
+=
 ¨©ª«¬­®Mountain trollLevel 69 Z((0K8(PX
-˜È È
-5
+˜È
+1
 ¯ Mountain trollLevel 71 Z((0Z8PX
-˜È È
+˜È
 C
 “Mounted terrorbird gnomeLevel 31 $(08@H€ˆ˜ 
 
@@ -3326,9 +3327,9 @@ h
 €ˆ˜
 
 •	Newtroost (08@H
-C
+?
 
-XXX‘X’XNex È(»0È8„@æHŞPÈX`dhp–x€(ˆŒ<˜¬ ¾
+XXX‘X’XNex È(»0È8„@æHŞPÈX`dhp–x€(ˆŒ<˜¬
 %
 úë1Nezikchened –(¥0¨8§@ H 
 *
@@ -3956,10 +3957,10 @@ D
 šScarab MageLevel 93 2(Z0Z8Z@FH`FhFxP€(ˆZZ˜"ªkalphite
 H
 ôYScarab MageLevel 119 (Quest) x(08<@dH`hˆ˜ªkalphite
-A
-à Scarab SwarmNormal (ÿ08@H€ZˆZ˜Z Zªkalphite
-J
-öScarab SwarmPyramid Plunder (ÿ08@H€ZˆZ˜Z Zªkalphite
+>
+à Scarab SwarmNormal (ÿ08@H€ZˆZ˜Zªkalphite
+G
+öScarab SwarmPyramid Plunder (ÿ08@H€ZˆZ˜Zªkalphite
 [
 ÜYScarab Swarm (ÿ08@H€œÿÿÿÿÿÿÿÿˆœÿÿÿÿÿÿÿÿœÿÿÿÿÿÿÿÿ˜œÿÿÿÿÿÿÿÿ œÿÿÿÿÿÿÿÿ
 X
@@ -4140,10 +4141,10 @@ Sir Gawain n(n0i8d@HP(X-€AˆZ¬
 ú!‡"Sir Tristram i(c0c8c@HPXá
 <
 ŸSkeletal miner '(#0%8&@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ 
-_
-´;µ;¶;Skeletal MysticNormal  (Œ0Œ8»@ŒHPUX2`(h&€›ˆ›s˜Œ sªundead, xerician
-g
-´;µ;¶;Skeletal MysticChallenge Mode ğ(Ò0Ò8˜@ÒHPUX2`(h&€›ˆ›s˜Œ sªundead, xerician
+\
+´;µ;¶;Skeletal MysticNormal  (Œ0Œ8»@ŒHPUX2`(h&€›ˆ›K˜Œªundead, xerician
+d
+´;µ;¶;Skeletal MysticChallenge Mode ğ(Ò0Ò8˜@ÒHPUX2`(h&€›ˆ›K˜Œªundead, xerician
 ?
 ÔSkeletal Wyvern1 È(}0t8x@}Hx€ŒˆZZ˜P Œªdragon
 ?
@@ -4152,14 +4153,14 @@ g
 ÒSkeletal Wyvern3 È(}0t8x@}Hx€ŒˆZZ˜P Œªdragon
 ?
 ÓSkeletal Wyvern4 È(}0t8x@}Hx€ŒˆZZ˜P Œªdragon
-C
-JKLSkeletonLevel 21 (08@H€ˆûÿÿÿÿÿÿÿÿ ªundead
-D
-FGHISkeletonLevel 22 (08@H€ˆûÿÿÿÿÿÿÿÿ ªundead
-L
-MNOPQSkeletonLevel 25 (08@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ ªundead
+@
+JKLSkeletonLevel 21 (08@H€ˆûÿÿÿÿÿÿÿÿªundead
+A
+FGHISkeletonLevel 22 (08@H€ˆûÿÿÿÿÿÿÿÿªundead
 I
-RSSkeletonLevel 45 ;( 0#8$@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ ªundead
+MNOPQSkeletonLevel 25 (08@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ªundead
+F
+RSSkeletonLevel 45 ;( 0#8$@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ªundead
 &
 õ(Skeleton M(´0Z8n@nHP2ªundead
 A
@@ -4384,9 +4385,9 @@ X€ˆ
 5
 ­*Soldier (08@HPX
 €ˆ˜üÿÿÿÿÿÿÿÿ 
-H
+D
 Ì[Soldier Scarab ((K0P8P@dH_PdX7`úhApŞ€ˆú˜
- úªkalphite
+ªkalphite
 
 Â&Å&â&Solus Dellagar (
 #
@@ -4498,8 +4499,8 @@ I
 ŞSpiritual warriorArmadyl b(08x@Hpn€ˆ˜# #ªspectral
 J
 šXSpiritual WarriorZaros d(¾0¾8d@2Hpn€dˆdP úªspectral,icy
-G
-Í[Spitting Scarab ((0P8P@dH_X7`úhApŞ€ˆú˜ú }ªkalphite
+D
+Í[Spitting Scarab ((0P8P@dH_X7`úhApŞ€ˆú˜úªkalphite
 ;
 ò<Spitting Wyvern È(}0P8Z@}H}€FˆFF˜Œ xªdragon
 "
@@ -5105,10 +5106,10 @@ Y
 –—˜™š›¯@°@Vanstrom Klause ›(–0ˆ8–@–H–ªvampyre3
 F
 ßJàJáJâJãJ KVanstrom Klause î8´@´`h€"ˆ""˜" "ªvampyre3
-L
-;;Vasa NistirioNormal ¬(08¯@æHæpd€ªˆ¾2˜ (ªxerician
-T
-;;Vasa NistirioChallenge Mode Â(08†@ÙHÙpd€ªˆ¾2˜ (ªxerician
+I
+;;Vasa NistirioNormal ¬(08¯@æHæpd€ªˆ¾(˜ªxerician
+Q
+;;Vasa NistirioChallenge Mode Â(08†@ÙHÙpd€ªˆ¾(˜ªxerician
 2
 Ò3	Venenatis Ò(¬0È8Á@¬HŞ€dˆd
 ˜¬ –
@@ -5153,10 +5154,10 @@ Q
 ò:ó:Vespine soldierNormal d(–0–8(@(HXøÿÿÿÿÿÿÿÿxøÿÿÿÿÿÿÿÿ˜ªxerician
 Z
 ò:ó:Vespine soldierChallenge Mode –(á0á8<@<HXøÿÿÿÿÿÿÿÿxøÿÿÿÿÿÿÿÿ˜ªxerician
-P
-ê:ë:ì:VespulaNormal È(–0–8X@XH–Xøÿÿÿÿÿÿÿÿxøÿÿÿÿÿÿÿÿ˜F <ªxerician
-Z
-ê:ë:ì:VespulaChallenge Mode  (á0á8„@„HáXøÿÿÿÿÿÿÿÿxøÿÿÿÿÿÿÿÿ˜F <ªxerician
+M
+ê:ë:ì:VespulaNormal È(–0–8X@XH–Xøÿÿÿÿÿÿÿÿxøÿÿÿÿÿÿÿÿ˜Fªxerician
+W
+ê:ë:ì:VespulaChallenge Mode  (á0á8„@„HáXøÿÿÿÿÿÿÿÿxøÿÿÿÿÿÿÿÿ˜Fªxerician
 K
 Ó3Vet'ionNormal ÿ(®0®8‹@¬H€ÉˆÈöÿÿÿÿÿÿÿÿ˜ú ªundead
 L
@@ -5255,14 +5256,14 @@ A
 •Water wizard (08
 @
 ˜
-9
+6
 ä
 WaterfiendNormal €8€@iHi€dˆd
-˜d dªdemon
->
+˜dªdemon
+;
 å
 WaterfiendSlayer task €8€@iHi€dˆd
-˜d dªdemon
+˜dªdemon
 ;
 Û(Weaponsmaster (08@HPX
 €ˆ˜úÿÿÿÿÿÿÿÿ 
@@ -5439,10 +5440,12 @@ $
 @H
 
 ´	Wormbrain (08@H
-9
-¢CWyrmIdle ‚(U0<8P@PHPXh€ˆ22˜2 ªdragon
->
-£CWyrm	Attacking ‚(U0<8P@PHPXh€ˆ22˜2 ªdragon
+6
+¢CWyrmIdle ‚(U0<8P@PHPXh€
+ˆ22˜2ªdragon
+;
+£CWyrm	Attacking ‚(U0<8P@PHPXh€
+ˆ22˜2ªdragon
 <
 çeWyrmlingIdle A(08(@<HX
 h
@@ -5765,11 +5768,11 @@ N
 Post-quest &(R0R8@H€ˆ˜œÿÿÿÿÿÿÿÿ ªundead
 T
 ş>Zombified SpawnDragon Slayer II (P0P8@H€ˆ˜œÿÿÿÿÿÿÿÿ ªundead
-?
+<
 úZulrah
-Serpentine ô(08¬@¬H¬`2hp2x˜Óÿÿÿÿÿÿÿÿ 2
-/
-ûZulrahMagma ô(08¬@¬H¬`2hp2x ¬
+Serpentine ô(08¬@¬H¬`2hp2x˜Óÿÿÿÿÿÿÿÿ
++
+ûZulrahMagma ô(08¬@¬H¬`2hp2x
 3
 üZulrah	Tanzanite ô(08¬@¬H¬`2hp2x˜¬
 +

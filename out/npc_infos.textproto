@@ -1282,7 +1282,6 @@ npcs {
   dslash: 250
   dcrush: 30
   dmagic: 75
-  drange: 50
   attributes: "kalphite"
 }
 npcs {
@@ -11064,7 +11063,6 @@ npcs {
   dslash: -10
   dcrush: -10
   dmagic: -10
-  drange: -10
 }
 npcs {
   ids: 3018
@@ -11093,7 +11091,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: 10
-  drange: 10
 }
 npcs {
   ids: 11286
@@ -12128,11 +12125,10 @@ npcs {
   def: 68
   mage: 68
   range: 1
-  dstab: 20
+  dstab: 10
   dslash: 40
   dcrush: 40
   dmagic: 30
-  drange: 20
   attributes: "dragon,fiery"
 }
 npcs {
@@ -12147,11 +12143,10 @@ npcs {
   def: 68
   mage: 75
   range: 1
-  dstab: 20
+  dstab: 10
   dslash: 40
   dcrush: 40
   dmagic: 30
-  drange: 20
   attributes: "dragon,fiery"
 }
 npcs {
@@ -14695,7 +14690,6 @@ npcs {
   dslash: 70
   dcrush: 110
   dmagic: 40
-  drange: 140
   attributes: "demon,xerician"
 }
 npcs {
@@ -14712,7 +14706,6 @@ npcs {
   dslash: 70
   dcrush: 110
   dmagic: 40
-  drange: 140
   attributes: "demon,xerician"
 }
 npcs {
@@ -15035,7 +15028,6 @@ npcs {
   dslash: 40
   dcrush: 20
   dmagic: 10
-  drange: 30
 }
 npcs {
   ids: 2842
@@ -15051,7 +15043,6 @@ npcs {
   dslash: 40
   dcrush: 20
   dmagic: 10
-  drange: 30
 }
 npcs {
   ids: 2851
@@ -16198,7 +16189,6 @@ npcs {
   dslash: 80
   dcrush: 80
   dmagic: 130
-  drange: 80
   attributes: "demon"
 }
 npcs {
@@ -16604,7 +16594,6 @@ npcs {
   dslash: 300
   dcrush: 100
   dmagic: 200
-  drange: 300
   attributes: "kalphite"
 }
 npcs {
@@ -16826,11 +16815,10 @@ npcs {
   def: 240
   mage: 240
   range: 1
-  dstab: 70
+  dstab: 60
   dslash: 90
   dcrush: 90
   dmagic: 80
-  drange: 70
   attributes: "dragon,fiery"
 }
 npcs {
@@ -17521,11 +17509,10 @@ npcs {
   def: 220
   mage: 1
   range: 1
-  dstab: 70
+  dstab: 20
   dslash: 90
   dcrush: 90
   dmagic: 80
-  drange: 70
   attributes: "dragon,fiery"
 }
 npcs {
@@ -17746,7 +17733,6 @@ npcs {
   dslash: 190
   dcrush: 230
   dmagic: 280
-  drange: 50
 }
 npcs {
   ids: 12214
@@ -17768,7 +17754,6 @@ npcs {
   dslash: 190
   dcrush: 230
   dmagic: 280
-  drange: 50
 }
 npcs {
   ids: 12215
@@ -17791,7 +17776,6 @@ npcs {
   dslash: 150
   dcrush: 180
   dmagic: 220
-  drange: 30
 }
 npcs {
   ids: 2632
@@ -17837,7 +17821,7 @@ npcs {
   strbns: 20
   arange: 22
   rngbns: 20
-  dstab: -10
+  dstab: -20
   dslash: 25
 }
 npcs {
@@ -17856,7 +17840,7 @@ npcs {
   strbns: 25
   arange: 28
   rngbns: 25
-  dstab: -10
+  dstab: -20
   dslash: 20
   dcrush: 5
 }
@@ -17875,7 +17859,7 @@ npcs {
   strbns: 30
   arange: 34
   rngbns: 30
-  dstab: -10
+  dstab: -20
   dslash: 30
   dcrush: 10
 }
@@ -17894,7 +17878,7 @@ npcs {
   strbns: 30
   arange: 34
   rngbns: 30
-  dstab: -10
+  dstab: -20
   dslash: 30
   dcrush: 10
 }
@@ -17915,7 +17899,7 @@ npcs {
   strbns: 38
   arange: 45
   rngbns: 38
-  dstab: -10
+  dstab: -20
   dslash: 40
   dcrush: 30
   dmagic: 50
@@ -17934,7 +17918,7 @@ npcs {
   strbns: 38
   arange: 45
   rngbns: 38
-  dstab: -10
+  dstab: -20
   dslash: 40
   dcrush: 30
   dmagic: 50
@@ -19329,7 +19313,6 @@ npcs {
   strbns: 20
   dcrush: 10
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 4143
@@ -19343,7 +19326,6 @@ npcs {
   strbns: 20
   dcrush: 10
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 2067
@@ -20019,7 +20001,6 @@ npcs {
   dslash: 140
   dcrush: 60
   dmagic: 300
-  drange: 190
 }
 npcs {
   ids: 3962
@@ -23813,7 +23794,6 @@ npcs {
   dslash: 90
   dcrush: 5
   dmagic: 90
-  drange: 90
   attributes: "kalphite"
 }
 npcs {
@@ -23830,7 +23810,6 @@ npcs {
   dslash: 90
   dcrush: 5
   dmagic: 90
-  drange: 90
   attributes: "kalphite"
 }
 npcs {
@@ -24977,9 +24956,8 @@ npcs {
   mbns: 38
   dstab: 155
   dslash: 155
-  dcrush: 115
+  dcrush: 75
   dmagic: 140
-  drange: 115
   attributes: "undead, xerician"
 }
 npcs {
@@ -25000,9 +24978,8 @@ npcs {
   mbns: 38
   dstab: 155
   dslash: 155
-  dcrush: 115
+  dcrush: 75
   dmagic: 140
-  drange: 115
   attributes: "undead, xerician"
 }
 npcs {
@@ -25088,7 +25065,6 @@ npcs {
   dstab: 5
   dslash: 5
   dcrush: -5
-  drange: 5
   attributes: "undead"
 }
 npcs {
@@ -25107,7 +25083,6 @@ npcs {
   dstab: 5
   dslash: 5
   dcrush: -5
-  drange: 5
   attributes: "undead"
 }
 npcs {
@@ -25130,7 +25105,6 @@ npcs {
   dslash: 11
   dcrush: -2
   dmagic: 1
-  drange: 4
   attributes: "undead"
 }
 npcs {
@@ -25150,7 +25124,6 @@ npcs {
   dslash: 11
   dcrush: -2
   dmagic: 1
-  drange: 4
   attributes: "undead"
 }
 npcs {
@@ -26619,7 +26592,6 @@ npcs {
   dslash: 250
   dcrush: 30
   dmagic: 10
-  drange: 250
   attributes: "kalphite"
 }
 npcs {
@@ -27351,7 +27323,6 @@ npcs {
   dslash: 250
   dcrush: 30
   dmagic: 250
-  drange: 125
   attributes: "kalphite"
 }
 npcs {
@@ -30855,9 +30826,8 @@ npcs {
   arange: 100
   dstab: 170
   dslash: 190
-  dcrush: 50
+  dcrush: 40
   dmagic: 400
-  drange: 40
   attributes: "xerician"
 }
 npcs {
@@ -30874,9 +30844,8 @@ npcs {
   arange: 100
   dstab: 170
   dslash: 190
-  dcrush: 50
+  dcrush: 40
   dmagic: 400
-  drange: 40
   attributes: "xerician"
 }
 npcs {
@@ -31197,7 +31166,6 @@ npcs {
   strbns: -8
   rngbns: -8
   dmagic: 70
-  drange: 60
   attributes: "xerician"
 }
 npcs {
@@ -31215,7 +31183,6 @@ npcs {
   strbns: -8
   rngbns: -8
   dmagic: 70
-  drange: 60
   attributes: "xerician"
 }
 npcs {
@@ -31892,7 +31859,6 @@ npcs {
   dslash: 100
   dcrush: 10
   dmagic: 100
-  drange: 100
   attributes: "demon"
 }
 npcs {
@@ -31907,7 +31873,6 @@ npcs {
   dslash: 100
   dcrush: 10
   dmagic: 100
-  drange: 100
   attributes: "demon"
 }
 npcs {
@@ -32908,11 +32873,10 @@ npcs {
   range: 80
   strbns: 30
   mbns: 30
-  dstab: 20
+  dstab: 10
   dslash: 50
   dcrush: 50
   dmagic: 50
-  drange: 20
   attributes: "dragon"
 }
 npcs {
@@ -32927,11 +32891,10 @@ npcs {
   range: 80
   strbns: 30
   mbns: 30
-  dstab: 20
+  dstab: 10
   dslash: 50
   dcrush: 50
   dmagic: 50
-  drange: 20
   attributes: "dragon"
 }
 npcs {
@@ -34627,7 +34590,6 @@ npcs {
   arange: 50
   rngbns: 20
   dmagic: -45
-  drange: 50
 }
 npcs {
   ids: 2043
@@ -34643,7 +34605,6 @@ npcs {
   mbns: 20
   arange: 50
   rngbns: 20
-  drange: 300
 }
 npcs {
   ids: 2044
