@@ -685,16 +685,21 @@ $
 ;
 Blue dragon5 i(_0_8_@H€
 ˆFF˜<ªdragon,fiery
-I
-ö-Blue dragonTask only, 1 i(_0_8_@H€2ˆFF˜< 2ªdragon,fiery
-I
-÷-Blue dragonTask only, 2 i(_0_8_@H€2ˆFF˜< 2ªdragon,fiery
-I
-ø-Blue dragonTask only, 3 i(_0_8_@H€2ˆFF˜< 2ªdragon,fiery
-I
-ù-Blue dragonTask only, 4 i(_0_8_@H€2ˆFF˜< 2ªdragon,fiery
-I
-ú-Blue dragonTask only, 5 i(_0_8_@H€2ˆFF˜< 2ªdragon,fiery
+F
+ö-Blue dragonTask only, 1 i(_0_8_@H€
+ˆFF˜<ªdragon,fiery
+F
+÷-Blue dragonTask only, 2 i(_0_8_@H€
+ˆFF˜<ªdragon,fiery
+F
+ø-Blue dragonTask only, 3 i(_0_8_@H€
+ˆFF˜<ªdragon,fiery
+F
+ù-Blue dragonTask only, 4 i(_0_8_@H€
+ˆFF˜<ªdragon,fiery
+F
+ú-Blue dragonTask only, 5 i(_0_8_@H€
+ˆFF˜<ªdragon,fiery
 -
 Õe	Blue Moon ô(‚0d8<@dHPd€dˆd˜ô ô
 
@@ -1389,20 +1394,20 @@ M
 †_‡_Duke SucellusAsleep ¸(¬0Ù8“@¶PÈX&`–h €ÿˆ-¾˜¸ªDemon
 M
  _Duke SucellusDefeated ¸(¬0Ù8“@¶PÈX&`–h €ÿˆ-¾˜¸ªDemon
-N
-Ÿ_Duke SucellusAwake „(³0ô8¼@ÑPÈX&`–h €ÿˆA¾˜¸ ÀªDemon
-Q
-†_‡_Duke SucellusAsleep „(³0ô8¼@ÑPÈX&`–h €ÿˆA¾˜¸ ÀªDemon
-Q
- _Duke SucellusDefeated „(³0ô8¼@ÑPÈX&`–h €ÿˆA¾˜¸ ÀªDemon
-N
+J
+Ÿ_Duke SucellusAwake „(³0ô8¼@ÑPÈX&`–h €ÿˆA¾˜¸ªDemon
+M
+†_‡_Duke SucellusAsleep „(³0ô8¼@ÑPÈX&`–h €ÿˆA¾˜¸ªDemon
+M
+ _Duke SucellusDefeated „(³0ô8¼@ÑPÈX&`–h €ÿˆA¾˜¸ªDemon
+J
 £_Duke SucellusAwake È(ú0˜8×@æPÈX`–h
-€Òˆ ˜ ¬ªDemon
-Q
+€Òˆ ˜ªDemon
+M
 ¡_¢_Duke SucellusAsleep È(ú0˜8×@æPÈX`–h
-€Òˆ ˜ ¬ªDemon
-MDuke SucellusDefeated È(ú0˜8×@æPÈX`–h
-€Òˆ ˜ ¬ªDemon
+€Òˆ ˜ªDemon
+IDuke SucellusDefeated È(ú0˜8×@æPÈX`–h
+€Òˆ ˜ªDemon
 '
 —˜™Dungeon rat (
 0
@@ -3923,8 +3928,8 @@ t
 š$Rowdy slave (08
 D
 ß>›?Rune dragon Ê(œ0œ8”@ÄHöhx€ˆsZ˜ªdragon,fiery
-4
-Û>Rune dragon Ê(œ0œ8”@ÄHöx€ˆsZ˜ _
+1
+Û>Rune dragon Ê(œ0œ8”@ÄHöx€ˆsZ˜
 *
 È3Runite Golem ª(Œ0–8¥@HªGolem
 S
@@ -4524,8 +4529,8 @@ T
 “Steel dragonLevel 246 (Task only) Ò(×0×8×@dH€ˆFF˜ªdragon,fiery
 I
 ×8Steel dragon	Level 274 ú(ë0ë8ë@‚H€ˆFF˜ªdragon,fiery
-1
-‹Steel dragon Ò(×0×8×@dH€2ˆFF˜ Z
+.
+‹Steel dragon Ò(×0×8×@dH€ˆFF˜
 )
 Stick ‡(<0n8<P2XP€ˆ2˜È È
 A

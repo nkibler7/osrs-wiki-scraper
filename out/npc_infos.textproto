@@ -4032,11 +4032,10 @@ npcs {
   def: 95
   mage: 1
   range: 1
-  dstab: 50
+  dstab: 10
   dslash: 70
   dcrush: 70
   dmagic: 60
-  drange: 50
   attributes: "dragon,fiery"
 }
 npcs {
@@ -4049,11 +4048,10 @@ npcs {
   def: 95
   mage: 1
   range: 1
-  dstab: 50
+  dstab: 10
   dslash: 70
   dcrush: 70
   dmagic: 60
-  drange: 50
   attributes: "dragon,fiery"
 }
 npcs {
@@ -4066,11 +4064,10 @@ npcs {
   def: 95
   mage: 1
   range: 1
-  dstab: 50
+  dstab: 10
   dslash: 70
   dcrush: 70
   dmagic: 60
-  drange: 50
   attributes: "dragon,fiery"
 }
 npcs {
@@ -4083,11 +4080,10 @@ npcs {
   def: 95
   mage: 1
   range: 1
-  dstab: 50
+  dstab: 10
   dslash: 70
   dcrush: 70
   dmagic: 60
-  drange: 50
   attributes: "dragon,fiery"
 }
 npcs {
@@ -4100,11 +4096,10 @@ npcs {
   def: 95
   mage: 1
   range: 1
-  dstab: 50
+  dstab: 10
   dslash: 70
   dcrush: 70
   dmagic: 60
-  drange: 50
   attributes: "dragon,fiery"
 }
 npcs {
@@ -8047,7 +8042,6 @@ npcs {
   dslash: 65
   dcrush: 190
   dmagic: 440
-  drange: 320
   attributes: "Demon"
 }
 npcs {
@@ -8068,7 +8062,6 @@ npcs {
   dslash: 65
   dcrush: 190
   dmagic: 440
-  drange: 320
   attributes: "Demon"
 }
 npcs {
@@ -8088,7 +8081,6 @@ npcs {
   dslash: 65
   dcrush: 190
   dmagic: 440
-  drange: 320
   attributes: "Demon"
 }
 npcs {
@@ -8108,7 +8100,6 @@ npcs {
   dslash: 30
   dcrush: 160
   dmagic: 400
-  drange: 300
   attributes: "Demon"
 }
 npcs {
@@ -8129,7 +8120,6 @@ npcs {
   dslash: 30
   dcrush: 160
   dmagic: 400
-  drange: 300
   attributes: "Demon"
 }
 npcs {
@@ -8148,7 +8138,6 @@ npcs {
   dslash: 30
   dcrush: 160
   dmagic: 400
-  drange: 300
   attributes: "Demon"
 }
 npcs {
@@ -23563,11 +23552,10 @@ npcs {
   mage: 196
   range: 246
   rngbns: 14
-  dstab: 30
+  dstab: 20
   dslash: 115
   dcrush: 90
   dmagic: 30
-  drange: 95
 }
 npcs {
   ids: 6600
@@ -27475,11 +27463,10 @@ npcs {
   def: 215
   mage: 100
   range: 1
-  dstab: 50
+  dstab: 20
   dslash: 70
   dcrush: 70
   dmagic: 30
-  drange: 90
 }
 npcs {
   ids: 926
