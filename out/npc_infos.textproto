@@ -27071,7 +27071,6 @@ npcs {
   dslash: 7
   dcrush: 3
   dmagic: 16
-  drange: 2
   attributes: "spectral"
 }
 npcs {
@@ -27088,7 +27087,6 @@ npcs {
   dslash: 14
   dcrush: 13
   dmagic: 35
-  drange: 13
   attributes: "spectral"
 }
 npcs {
@@ -27105,7 +27103,6 @@ npcs {
   dslash: 12
   dcrush: 5
   dmagic: 45
-  drange: 28
   attributes: "spectral"
 }
 npcs {
@@ -27124,7 +27121,7 @@ npcs {
   dslash: 400
   dcrush: 420
   dmagic: 200
-  attributes: "spectral,icy"
+  attributes: "spectral"
 }
 npcs {
   ids: 3160
