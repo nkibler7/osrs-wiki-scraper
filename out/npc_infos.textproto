@@ -27149,7 +27149,6 @@ npcs {
   dslash: 5
   dcrush: 13
   dmagic: 16
-  drange: 23
   attributes: "spectral"
 }
 npcs {
@@ -27166,7 +27165,6 @@ npcs {
   dslash: 14
   dcrush: 13
   dmagic: 5
-  drange: 13
   attributes: "spectral"
 }
 npcs {
@@ -27183,7 +27181,6 @@ npcs {
   dslash: 16
   dcrush: 8
   dmagic: 35
-  drange: 41
   attributes: "spectral"
 }
 npcs {
@@ -27199,8 +27196,7 @@ npcs {
   dstab: 20
   dcrush: 20
   dmagic: 300
-  drange: 50
-  attributes: "spectral,icy"
+  attributes: "spectral"
 }
 npcs {
   ids: 3159
@@ -27232,7 +27228,6 @@ npcs {
   dslash: 14
   dcrush: 13
   dmagic: 5
-  drange: 13
   attributes: "spectral"
 }
 npcs {
@@ -27252,7 +27247,6 @@ npcs {
   dslash: 14
   dcrush: 13
   dmagic: 5
-  drange: 13
   attributes: "spectral"
 }
 npcs {
@@ -27270,7 +27264,6 @@ npcs {
   dslash: 25
   dcrush: 13
   dmagic: 35
-  drange: 35
   attributes: "spectral"
 }
 npcs {
@@ -27287,8 +27280,7 @@ npcs {
   dstab: 100
   dslash: 100
   dcrush: 80
-  drange: 250
-  attributes: "spectral,icy"
+  attributes: "spectral"
 }
 npcs {
   ids: 11725
