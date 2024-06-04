@@ -1513,7 +1513,7 @@ Q
 é[ê[Elidinis' WardenActive Œ(¬0–8d@¾H¾X
 `ápá€FˆFF˜âÿÿÿÿÿÿÿÿ F
 U
-ë[Elidinis' WardenCore-ejected Œ(¬0–8d@¾H¾X
+ë[Elidinis' WardenCore-ejected ”#(¬0–8d@¾H¾X
 `ápá€FˆFF˜âÿÿÿÿÿÿÿÿ F
 L
 ñ[Elidinis' WardenDamaged ğ(–0–8–@–H–X(`æh(p¬x(€(ˆ(˜ 
@@ -2502,6 +2502,12 @@ Ice spiderSettlement Ruins A(2078+@H€ˆ˜ 
 ÔIce troll female	Variant 2 P(P0P8(@HP<X<€ˆ<
 0
 ÕÇ-Ice troll grunt P(d0d8<@HP<X<€ˆ<
+0
+ÕÇ-Ice troll grunt P(d0d8<@HP<X<€ˆ<
+0
+ÕÇ-Ice troll grunt P(d0d8<@HP<X<€ˆ<
+0
+ÕÇ-Ice troll grunt P(d0d8<@HP<X<€ˆ<
 @
 ¾-Ô1Ice Troll KingNormal –(d0d8P@HP<X<€-ˆ--˜Ğ Ğ
 E
@@ -2778,8 +2784,11 @@ M
 ÖKebbit 2(08@H
 *
 À7Á7Keef ´(¥0x8¥@HP¾Xª€2ˆ22
-1
-Ç[É[Kephri P8P@}`}h2€<ˆ¬d˜Èªkalphite
+;
+É[Kephri
+Aggressive P8P@}`}h2€<ˆ¬d˜Èªkalphite
+:
+Ç[KephriShielded –8P@}`}h2€<ˆ¬d˜Èªkalphite
 +
 µKet-ZekStandard  (À0à8ğ@ğHà`<
 .
@@ -4939,7 +4948,7 @@ B
 U
 ì[í[Tumeken's WardenActive Œ(¬0–8d@¾H¾X`áhpáx€FˆFF˜âÿÿÿÿÿÿÿÿ F
 Y
-î[Tumeken's WardenCore-ejected Œ(¬0–8d@¾H¾X`áhpáx€FˆFF˜âÿÿÿÿÿÿÿÿ F
+î[Tumeken's WardenCore-ejected ”#(¬0–8d@¾H¾X`áhpáx€FˆFF˜âÿÿÿÿÿÿÿÿ F
 L
 ò[Tumeken's WardenDamaged ğ(–0–8–@–H–X(`æh(p¬x(€(ˆ(˜ 
 Q

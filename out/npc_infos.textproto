@@ -8560,7 +8560,7 @@ npcs {
   ids: 11755
   name: "Elidinis\' Warden"
   version: "Core-ejected"
-  hitpoints: 140
+  hitpoints: 4500
   att: 300
   str: 150
   def: 100
@@ -14902,6 +14902,54 @@ npcs {
   dcrush: 30
 }
 npcs {
+  ids: 1877
+  ids: 5831
+  name: "Ice troll grunt"
+  hitpoints: 80
+  att: 100
+  str: 100
+  def: 60
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 60
+  dstab: 30
+  dslash: 60
+  dcrush: 30
+}
+npcs {
+  ids: 1877
+  ids: 5831
+  name: "Ice troll grunt"
+  hitpoints: 80
+  att: 100
+  str: 100
+  def: 60
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 60
+  dstab: 30
+  dslash: 60
+  dcrush: 30
+}
+npcs {
+  ids: 1877
+  ids: 5831
+  name: "Ice troll grunt"
+  hitpoints: 80
+  att: 100
+  str: 100
+  def: 60
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 60
+  dstab: 30
+  dslash: 60
+  dcrush: 30
+}
+npcs {
   ids: 5822
   ids: 6356
   name: "Ice Troll King"
@@ -16570,10 +16618,25 @@ npcs {
   dcrush: 50
 }
 npcs {
-  ids: 11719
   ids: 11721
   name: "Kephri"
+  version: "Aggressive"
   hitpoints: 80
+  def: 80
+  mage: 125
+  amagic: 125
+  mbns: 50
+  dstab: 60
+  dslash: 300
+  dcrush: 100
+  dmagic: 200
+  attributes: "kalphite"
+}
+npcs {
+  ids: 11719
+  name: "Kephri"
+  version: "Shielded"
+  hitpoints: 150
   def: 80
   mage: 125
   amagic: 125
@@ -29679,7 +29742,7 @@ npcs {
   ids: 11758
   name: "Tumeken\'s Warden"
   version: "Core-ejected"
-  hitpoints: 140
+  hitpoints: 4500
   att: 300
   str: 150
   def: 100
