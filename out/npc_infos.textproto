@@ -9773,7 +9773,6 @@ npcs {
   dstab: 50
   dslash: 50
   dcrush: 50
-  drange: 75
 }
 npcs {
   ids: 12815
