@@ -9761,7 +9761,7 @@ npcs {
 npcs {
   ids: 12816
   name: "Fremennik warband berserker"
-  hitpoints: 50
+  hitpoints: 48
   att: 110
   str: 110
   def: 80
