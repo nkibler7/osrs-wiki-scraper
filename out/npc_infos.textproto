@@ -9744,7 +9744,7 @@ npcs {
 npcs {
   ids: 12814
   name: "Fremennik warband archer"
-  hitpoints: 48
+  hitpoints: 50
   att: 110
   str: 110
   def: 80
@@ -9778,7 +9778,7 @@ npcs {
 npcs {
   ids: 12815
   name: "Fremennik warband seer"
-  hitpoints: 48
+  hitpoints: 50
   att: 110
   str: 110
   def: 80
