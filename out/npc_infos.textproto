@@ -31095,7 +31095,7 @@ npcs {
   ids: 8373
   name: "Verzik Vitur"
   version: "Phase 2"
-  hitpoints: 3250
+  hitpoints: 3500
   att: 400
   str: 400
   def: 200
@@ -31116,7 +31116,7 @@ npcs {
   ids: 8375
   name: "Verzik Vitur"
   version: "Phase 3"
-  hitpoints: 3250
+  hitpoints: 3500
   att: 400
   str: 400
   def: 150
@@ -31161,7 +31161,7 @@ npcs {
   ids: 10851
   name: "Verzik Vitur"
   version: "Phase 2"
-  hitpoints: 3250
+  hitpoints: 3500
   att: 400
   str: 400
   def: 200
@@ -31182,7 +31182,7 @@ npcs {
   ids: 10853
   name: "Verzik Vitur"
   version: "Phase 3"
-  hitpoints: 3250
+  hitpoints: 3500
   att: 400
   str: 400
   def: 150
