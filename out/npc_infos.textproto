@@ -1973,7 +1973,7 @@ npcs {
   ids: 11711
   name: "Baboon Mage"
   version: "Level 56"
-  hitpoints: 25
+  hitpoints: 20
   att: 40
   str: 40
   def: 12
@@ -1992,7 +1992,7 @@ npcs {
   ids: 11714
   name: "Baboon Mage"
   version: "Level 68"
-  hitpoints: 30
+  hitpoints: 25
   att: 60
   str: 60
   def: 20
