@@ -22059,9 +22059,19 @@ npcs {
 }
 npcs {
   ids: 1747
+  name: "Portal"
+  version: "Novice"
+  hitpoints: 200
+  def: 120
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 100
+}
+npcs {
   ids: 1751
   name: "Portal"
-  version: "Purple (Novice)"
+  version: "Novice (shielded)"
   hitpoints: 200
   def: 120
   dstab: 100
@@ -22071,9 +22081,19 @@ npcs {
 }
 npcs {
   ids: 1739
+  name: "Portal"
+  version: "Intermediate/veteran"
+  hitpoints: 250
+  def: 120
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 100
+}
+npcs {
   ids: 1743
   name: "Portal"
-  version: "Purple (Intermediate/Veteran)"
+  version: "Intermediate/veteran (shielded)"
   hitpoints: 250
   def: 120
   dstab: 100
@@ -22083,9 +22103,19 @@ npcs {
 }
 npcs {
   ids: 1750
+  name: "Portal"
+  version: "Novice"
+  hitpoints: 200
+  def: 120
+  dstab: 100
+  dslash: 100
+  dmagic: 100
+  drange: 100
+}
+npcs {
   ids: 1754
   name: "Portal"
-  version: "Red (Novice)"
+  version: "Novice (shielded)"
   hitpoints: 200
   def: 120
   dstab: 100
@@ -22095,9 +22125,19 @@ npcs {
 }
 npcs {
   ids: 1742
+  name: "Portal"
+  version: "Intermediate/veteran"
+  hitpoints: 250
+  def: 120
+  dstab: 100
+  dslash: 100
+  dmagic: 100
+  drange: 100
+}
+npcs {
   ids: 1746
   name: "Portal"
-  version: "Red (Intermediate/Veteran)"
+  version: "Intermediate/veteran (shielded)"
   hitpoints: 250
   def: 120
   dstab: 100
@@ -22107,9 +22147,18 @@ npcs {
 }
 npcs {
   ids: 1749
+  name: "Portal"
+  version: "Novice"
+  hitpoints: 200
+  def: 120
+  dcrush: 100
+  dmagic: 100
+  drange: 100
+}
+npcs {
   ids: 1753
   name: "Portal"
-  version: "Yellow (Novice)"
+  version: "Novice (shielded)"
   hitpoints: 200
   def: 120
   dcrush: 100
@@ -22118,9 +22167,18 @@ npcs {
 }
 npcs {
   ids: 1741
+  name: "Portal"
+  version: "Intermediate/veteran"
+  hitpoints: 250
+  def: 120
+  dcrush: 100
+  dmagic: 100
+  drange: 100
+}
+npcs {
   ids: 1745
   name: "Portal"
-  version: "Yellow (Intermediate/Veteran)"
+  version: "Intermediate/veteran (shielded)"
   hitpoints: 250
   def: 120
   dcrush: 100
@@ -22129,9 +22187,19 @@ npcs {
 }
 npcs {
   ids: 1748
+  name: "Portal"
+  version: "Novice"
+  hitpoints: 200
+  def: 120
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  drange: 100
+}
+npcs {
   ids: 1752
   name: "Portal"
-  version: "Blue (Novice)"
+  version: "Novice (shielded)"
   hitpoints: 200
   def: 120
   dstab: 100
@@ -22141,9 +22209,19 @@ npcs {
 }
 npcs {
   ids: 1740
+  name: "Portal"
+  version: "Intermediate/veteran"
+  hitpoints: 250
+  def: 120
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  drange: 100
+}
+npcs {
   ids: 1744
   name: "Portal"
-  version: "Blue (Intermediate/Veteran)"
+  version: "Intermediate/veteran (shielded)"
   hitpoints: 250
   def: 120
   dstab: 100
