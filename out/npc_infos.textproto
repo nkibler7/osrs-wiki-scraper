@@ -25341,6 +25341,20 @@ npcs {
   attributes: "undead"
 }
 npcs {
+  ids: 13495
+  ids: 13496
+  ids: 13497
+  ids: 13498
+  ids: 13499
+  ids: 13500
+  ids: 13501
+  name: "Skeleton"
+  version: "Level 18"
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
   ids: 5237
   name: "Skeleton"
   hitpoints: 77
