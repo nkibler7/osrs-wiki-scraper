@@ -3386,6 +3386,8 @@ I
 –TœTNylocas IschyrosSmall (Entry mode) (P0(8@HP`ùh˜xâÿÿÿÿÿÿÿÿ
 G
 ™TŸTNylocas IschyrosBig (Entry mode) (d0Z8@Hd`hèxúÿÿÿÿÿÿÿÿ
+6
+ÄTNylocas MatomenosEntry Mode Maiden @(d0d8d@dHd
 7
 ®ANylocas MatomenosNormal Mode Maiden d(d0d8d@dHd
 8
@@ -4207,8 +4209,6 @@ I
 MNOPQSkeletonLevel 25 (08@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ªundead
 F
 RSSkeletonLevel 45 ;( 0#8$@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ªundead
-R
-·i¸i¹iºi»i¼i½iSkeletonLevel 18 (08@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ªundead
 &
 õ(Skeleton M(´0Z8n@nHP2ªundead
 A
@@ -4285,6 +4285,20 @@ B
 8
 œSkeleton (
 08@H€ˆûÿÿÿÿÿÿÿÿ ªundead
+B
+·iSkeleton1 (08@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ ªundead
+B
+¸iSkeleton2 (08@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ ªundead
+B
+¹iSkeleton3 (08@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ ªundead
+B
+ºiSkeleton4 (08@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ ªundead
+B
+»iSkeleton5 (08@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ ªundead
+B
+¼iSkeleton6 (08@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ ªundead
+B
+½iSkeleton7 (08@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ ªundead
 B
 ‚Skeleton brute |(s0r8n@HP	Xˆ˜ıÿÿÿÿÿÿÿÿ ªundead
 ,
