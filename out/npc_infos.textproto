@@ -5393,7 +5393,7 @@ npcs {
 }
 npcs {
   ids: 7404
-  name: "Florida Panthers"
+  name: "Choke devil"
   hitpoints: 300
   att: 260
   str: 230
