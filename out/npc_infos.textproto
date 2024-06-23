@@ -7116,7 +7116,7 @@ npcs {
   def: 100
   mage: 1
   range: 1
-  attributes: "undead"
+  attributes: "undead, spectral"
 }
 npcs {
   ids: 4005
