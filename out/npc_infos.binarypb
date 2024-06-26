@@ -51,8 +51,8 @@ X
 öAbyssal walker _(0d8_@HPX
 ÄKàKê
 òK†K
-1
-Í`Abyssal walkerLevel 90@HÄKàKê
+:
+Í`Abyssal walkerLevel 90 x(0ñ8@HÄKàKê
 òK†K
 ?
 Ë`Abyssal walker	Level 109 x(0ñ8_@HPX
@@ -150,22 +150,22 @@ T
 ı<Ancient Zygomite ñ(P0P8P@PHPP2Äàêò†
 O
 ª+Angry barbarian spirit æ(ñ0å8d@HP	Xàêò˝ˇˇˇˇˇˇˇˇ†™spectral
-
+'
 §
-Angry bearLevel 40 »
+Angry bearLevel 40 »(%0&8&@H
 &
 ‘$
 Angry bearLevel 47 2(&0)8&@H
-"
-¶Angry giant ratLevel 45 »
+,
+¶Angry giant ratLevel 45 »(%0&8&@H
 -
 —$“$Angry giant ratLevel 47 2(&0)8&@H
-
-©Angry goblinLevel 45 »
+)
+©Angry goblinLevel 45 »(%0&8&@H
 (
 ”$Angry goblinLevel 47 2(&0)8&@H
- 
-•Angry unicornLevel 45 »
+*
+•Angry unicornLevel 45 »(%0&8&@H
 )
 –$Angry unicornLevel 47 2(&0)8&@H
 >
@@ -229,8 +229,8 @@ A
 ûHArianwyn (hard) ¨8f@fH®p~ÄPàPêPòÑ†¥
 &
 ª3Armadylean guard Ñ(08R@PHZò
-
-∆<Armoured Foe
+"
+∆<Armoured Foe ‹(Ù0§8Ù@H
 B
 
 ∞c±c≤c≥c¥cArmoured zombieMelee U(I0H8D@HÄà†
@@ -254,9 +254,10 @@ N
 ª1Arrg (hard)Hard ˇ(å0ò8(HåP<XdÄ#à<ê#ò»†»
 +
 ÿ]Artio ¬(˙0é8ñ@ZHxp<xÄ}ànên†(
-*
+7
 —	Arzinian Avatar of Magic
-Invincible
+Invincible »(
+0d8Ç@ñ
 B
 “	Arzinian Avatar of Magic	Level 125 d(
 0Z8x@xÄPàPêPò†
@@ -264,9 +265,9 @@ A
 ”	Arzinian Avatar of MagicLevel 75 F(
 028K@KÄ(à(ê(ò†
 
-,
+9
 Œ	Arzinian Avatar of Ranging
-Invincible
+Invincible »(0n8ÇHå
 F
 œ	Arzinian Avatar of Ranging	Level 125 d(
 0d8xHnx
@@ -277,9 +278,9 @@ E
 à
 ê
 ò(†
--
+8
 À	Arzinian Avatar of Strength
-Invincible
+Invincible »(ñ0Ç8x
 C
 Ã	Arzinian Avatar of Strength	Level 125 d(n0d8_Äàêò†P
 B
@@ -338,8 +339,8 @@ $
 ÁAviansie	Level 137 |(08†@Hà
 (
 ËAviansie	Level 148 ã(08†@Hó
-
-¯8˙8¸8˛8Awakened Altar d
+&
+¯8˙8¸8˛8Awakened Altar d(08@H
 -
 Ç\É\Ñ\Ba-Ba ¸(ñ0†8P@dXÄPà†êòò
 '
@@ -652,14 +653,14 @@ $
 ØA≈TÕTBlood spawnEntry (0H
 %
 ØA≈TÕTBlood spawnNormal x(0H
-!
-ëbBloodthirst rockslug{{Sic}}
-
-˚aBloodthirsty Crawler
- 
-˙aBloodthirsty hand™undead
-
-óbBloodthirsty Mage
+-
+ëbBloodthirst rockslug{{Sic}} M(H0M8M@H
+&
+˚aBloodthirsty Crawler <(@0;87@H
+,
+˙aBloodthirsty hand 7(-0*8@H™undead
+&
+óbBloodthirsty Mage Ø(08Ø@ØH
 7
 ûbBloodthirsty Repugnant spectre™undead, spectral
 -

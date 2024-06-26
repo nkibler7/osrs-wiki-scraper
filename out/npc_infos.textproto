@@ -327,6 +327,10 @@ npcs {
   ids: 12394
   name: "Abyssal walker"
   version: "Level 90"
+  hitpoints: 120
+  att: 20
+  str: 150
+  def: 20
   mage: 1
   range: 1
   dstab: 75
@@ -914,6 +918,11 @@ npcs {
   name: "Angry bear"
   version: "Level 40"
   hitpoints: 200
+  att: 37
+  str: 38
+  def: 38
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 4692
@@ -931,6 +940,11 @@ npcs {
   name: "Angry giant rat"
   version: "Level 45"
   hitpoints: 200
+  att: 37
+  str: 38
+  def: 38
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 4689
@@ -949,6 +963,11 @@ npcs {
   name: "Angry goblin"
   version: "Level 45"
   hitpoints: 200
+  att: 37
+  str: 38
+  def: 38
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 4691
@@ -966,6 +985,11 @@ npcs {
   name: "Angry unicorn"
   version: "Level 45"
   hitpoints: 200
+  att: 37
+  str: 38
+  def: 38
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 4688
@@ -1360,6 +1384,12 @@ npcs {
 npcs {
   ids: 7750
   name: "Armoured Foe"
+  hitpoints: 1500
+  att: 500
+  str: 420
+  def: 500
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 12720
@@ -1514,6 +1544,11 @@ npcs {
   ids: 1233
   name: "Arzinian Avatar of Magic"
   version: "Invincible"
+  hitpoints: 200
+  att: 10
+  str: 100
+  def: 130
+  mage: 150
 }
 npcs {
   ids: 1234
@@ -1549,6 +1584,11 @@ npcs {
   ids: 1230
   name: "Arzinian Avatar of Ranging"
   version: "Invincible"
+  hitpoints: 200
+  att: 20
+  str: 110
+  def: 130
+  range: 140
 }
 npcs {
   ids: 1231
@@ -1586,6 +1626,10 @@ npcs {
   ids: 1227
   name: "Arzinian Avatar of Strength"
   version: "Invincible"
+  hitpoints: 200
+  att: 150
+  str: 130
+  def: 120
 }
 npcs {
   ids: 1228
@@ -1899,6 +1943,11 @@ npcs {
   ids: 7294
   name: "Awakened Altar"
   hitpoints: 100
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 11778
@@ -3881,19 +3930,43 @@ npcs {
 npcs {
   ids: 12561
   name: "Bloodthirst rockslug{{Sic}}"
+  hitpoints: 77
+  att: 72
+  str: 77
+  def: 77
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 12539
   name: "Bloodthirsty Crawler"
+  hitpoints: 60
+  att: 64
+  str: 59
+  def: 55
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 12538
   name: "Bloodthirsty hand"
+  hitpoints: 55
+  att: 45
+  str: 42
+  def: 14
+  mage: 1
+  range: 1
   attributes: "undead"
 }
 npcs {
   ids: 12567
   name: "Bloodthirsty Mage"
+  hitpoints: 175
+  att: 1
+  str: 1
+  def: 175
+  mage: 175
+  range: 1
 }
 npcs {
   ids: 12574
