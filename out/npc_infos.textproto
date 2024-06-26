@@ -3971,11 +3971,23 @@ npcs {
 npcs {
   ids: 12574
   name: "Bloodthirsty Repugnant spectre"
+  hitpoints: 380
+  att: 1
+  str: 1
+  def: 220
+  mage: 380
+  range: 1
   attributes: "undead, spectral"
 }
 npcs {
   ids: 12573
   name: "Bloodthirsty spectre"
+  hitpoints: 250
+  att: 1
+  str: 1
+  def: 180
+  mage: 300
+  range: 1
   attributes: "undead, Spectral"
 }
 npcs {
@@ -4368,6 +4380,10 @@ npcs {
   ids: 1738
   name: "Brawler"
   version: "Level 158"
+  hitpoints: 173
+  att: 87
+  str: 157
+  def: 143
 }
 npcs {
   ids: 2208
@@ -5453,6 +5469,10 @@ npcs {
   ids: 3316
   name: "Chicken"
   hitpoints: 3
+  att: 1
+  def: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 2910
@@ -6176,6 +6196,10 @@ npcs {
   ids: 455
   name: "Crawling Hand"
   version: "Level 11 (unused)"
+  hitpoints: 18
+  att: 10
+  str: 6
+  def: 6
   mage: 1
   range: 1
   attributes: "undead"
@@ -9589,11 +9613,19 @@ npcs {
   ids: 8584
   name: "Flower"
   hitpoints: 10
+  att: 1
+  str: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 11193
   name: "Flower"
   hitpoints: 10
+  att: 1
+  str: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 1429
@@ -11832,11 +11864,22 @@ npcs {
 npcs {
   ids: 2836
   name: "Golem"
+  hitpoints: 70
+  att: 35
+  str: 60
+  def: 30
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 9051
   name: "Golem"
   hitpoints: 14
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 4367
@@ -12809,6 +12852,12 @@ npcs {
 npcs {
   ids: 5141
   name: "Guard"
+  hitpoints: 30
+  att: 16
+  str: 20
+  def: 12
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 4099
@@ -16093,6 +16142,16 @@ npcs {
   drange: -21
 }
 npcs {
+  ids: 4863
+  name: "Jubbly bird"
+  hitpoints: 20
+  att: 5
+  str: 5
+  def: 6
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 3604
   name: "Jubster"
   hitpoints: 60
@@ -17155,6 +17214,12 @@ npcs {
 npcs {
   ids: 3300
   name: "Knight of Ardougne"
+  hitpoints: 52
+  att: 38
+  str: 40
+  def: 31
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 2214
@@ -17336,24 +17401,44 @@ npcs {
   name: "Kolodion"
   version: "Human"
   hitpoints: 3
+  att: 15
+  str: 10
+  def: 20
+  mage: 15
+  range: 1
 }
 npcs {
   ids: 1606
   name: "Kolodion"
   version: "Ogre"
   hitpoints: 65
+  att: 55
+  str: 70
+  def: 72
+  mage: 50
+  range: 1
 }
 npcs {
   ids: 1607
   name: "Kolodion"
   version: "Spider"
-  hitpoints: 65
+  hitpoints: 78
+  att: 69
+  str: 78
+  def: 47
+  mage: 70
+  range: 1
 }
 npcs {
   ids: 1608
   name: "Kolodion"
   version: "Ghost"
   hitpoints: 78
+  att: 28
+  str: 23
+  def: 58
+  mage: 30
+  range: 1
 }
 npcs {
   ids: 1609
@@ -17373,6 +17458,8 @@ npcs {
   att: 20
   str: 20
   def: 20
+  mage: 1
+  range: 1
   dstab: 20
   dslash: 20
   dcrush: 20
@@ -17386,6 +17473,8 @@ npcs {
   att: 40
   str: 40
   def: 40
+  mage: 1
+  range: 1
   dstab: 40
   dslash: 40
   dcrush: 40
@@ -17399,6 +17488,8 @@ npcs {
   att: 60
   str: 60
   def: 60
+  mage: 1
+  range: 1
   dstab: 60
   dslash: 60
   dcrush: 60
@@ -17412,6 +17503,8 @@ npcs {
   att: 255
   str: 5
   def: 255
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 928
@@ -17621,7 +17714,12 @@ npcs {
 npcs {
   ids: 7817
   name: "Lava beast"
-  hitpoints: 65
+  hitpoints: 60
+  att: 1
+  str: 1
+  def: 70
+  mage: 20
+  range: 1
 }
 npcs {
   ids: 6593
@@ -20828,10 +20926,10 @@ npcs {
 npcs {
   ids: 4382
   name: "Ogre shaman"
-  hitpoints: 1
-  att: 1
-  str: 1
-  def: 1
+  hitpoints: 99
+  att: 99
+  str: 99
+  def: 99
   mage: 1
   range: 1
 }
@@ -21264,6 +21362,7 @@ npcs {
   str: 26
   def: 25
   mage: 1
+  range: 1
   attributes: "penance"
 }
 npcs {
@@ -21275,6 +21374,7 @@ npcs {
   str: 29
   def: 27
   mage: 1
+  range: 1
   attributes: "penance"
 }
 npcs {
@@ -21286,6 +21386,7 @@ npcs {
   str: 32
   def: 34
   mage: 1
+  range: 1
   attributes: "penance"
 }
 npcs {
@@ -21297,6 +21398,7 @@ npcs {
   str: 38
   def: 37
   mage: 1
+  range: 1
   attributes: "penance"
 }
 npcs {
@@ -21308,6 +21410,7 @@ npcs {
   str: 43
   def: 44
   mage: 1
+  range: 1
   attributes: "penance"
 }
 npcs {
@@ -21319,6 +21422,7 @@ npcs {
   str: 48
   def: 48
   mage: 1
+  range: 1
   attributes: "penance"
 }
 npcs {
@@ -21330,6 +21434,7 @@ npcs {
   str: 55
   def: 52
   mage: 1
+  range: 1
   attributes: "penance"
 }
 npcs {
@@ -21341,6 +21446,7 @@ npcs {
   str: 61
   def: 62
   mage: 1
+  range: 1
   attributes: "penance"
 }
 npcs {
@@ -21352,6 +21458,7 @@ npcs {
   str: 73
   def: 66
   mage: 1
+  range: 1
   attributes: "penance"
 }
 npcs {
@@ -21360,54 +21467,99 @@ npcs {
   name: "Penance Healer"
   version: "Wave 1"
   hitpoints: 27
+  att: 9
+  str: 8
+  def: 9
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 5767
   name: "Penance Healer"
   version: "Wave 2"
   hitpoints: 32
+  att: 13
+  str: 15
+  def: 14
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 5768
   name: "Penance Healer"
   version: "Wave 3"
   hitpoints: 37
+  att: 20
+  str: 18
+  def: 19
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 5769
   name: "Penance Healer"
   version: "Wave 4"
   hitpoints: 43
+  att: 22
+  str: 23
+  def: 21
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 5770
   name: "Penance Healer"
   version: "Wave 5"
   hitpoints: 49
+  att: 26
+  str: 27
+  def: 25
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 5771
   name: "Penance Healer"
   version: "Wave 6"
   hitpoints: 55
+  att: 30
+  str: 32
+  def: 28
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 5772
   name: "Penance Healer"
   version: "Wave 7/10"
   hitpoints: 60
+  att: 33
+  str: 36
+  def: 34
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 5773
   name: "Penance Healer"
   version: "Wave 8"
   hitpoints: 67
+  att: 40
+  str: 38
+  def: 36
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 5774
   name: "Penance Healer"
   version: "Wave 9"
   hitpoints: 76
+  att: 40
+  str: 44
+  def: 38
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 5775
@@ -21425,7 +21577,10 @@ npcs {
   name: "Penance Ranger"
   version: "Wave 1"
   hitpoints: 20
+  att: 22
+  str: 1
   def: 21
+  mage: 1
   range: 23
   attributes: "penance"
 }
@@ -21434,7 +21589,10 @@ npcs {
   name: "Penance Ranger"
   version: "Wave 2"
   hitpoints: 28
+  att: 27
+  str: 1
   def: 29
+  mage: 1
   range: 24
   attributes: "penance"
 }
@@ -21443,7 +21601,10 @@ npcs {
   name: "Penance Ranger"
   version: "Wave 3"
   hitpoints: 29
+  att: 32
+  str: 1
   def: 33
+  mage: 1
   range: 34
   attributes: "penance"
 }
@@ -21452,7 +21613,10 @@ npcs {
   name: "Penance Ranger"
   version: "Wave 4"
   hitpoints: 34
+  att: 41
+  str: 1
   def: 42
+  mage: 1
   range: 40
   attributes: "penance"
 }
@@ -21461,7 +21625,10 @@ npcs {
   name: "Penance Ranger"
   version: "Wave 5"
   hitpoints: 41
+  att: 44
+  str: 1
   def: 46
+  mage: 1
   range: 45
   attributes: "penance"
 }
@@ -21470,7 +21637,10 @@ npcs {
   name: "Penance Ranger"
   version: "Wave 6"
   hitpoints: 50
+  att: 51
+  str: 1
   def: 54
+  mage: 1
   range: 52
   attributes: "penance"
 }
@@ -21479,7 +21649,10 @@ npcs {
   name: "Penance Ranger"
   version: "Wave 7/10"
   hitpoints: 50
+  att: 63
+  str: 1
   def: 61
+  mage: 1
   range: 62
   attributes: "penance"
 }
@@ -21488,7 +21661,10 @@ npcs {
   name: "Penance Ranger"
   version: "Wave 8"
   hitpoints: 54
+  att: 69
+  str: 1
   def: 68
+  mage: 1
   range: 70
   attributes: "penance"
 }
@@ -21497,7 +21673,10 @@ npcs {
   name: "Penance Ranger"
   version: "Wave 9"
   hitpoints: 58
+  att: 79
+  str: 1
   def: 80
+  mage: 1
   range: 78
   attributes: "penance"
 }
@@ -21507,54 +21686,99 @@ npcs {
   name: "Penance Runner"
   version: "Wave 1"
   hitpoints: 5
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 5749
   name: "Penance Runner"
   version: "Wave 2"
   hitpoints: 5
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 5750
   name: "Penance Runner"
   version: "Wave 3"
   hitpoints: 5
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 5751
   name: "Penance Runner"
   version: "Wave 4"
   hitpoints: 5
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 5752
   name: "Penance Runner"
   version: "Wave 5"
   hitpoints: 5
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 5753
   name: "Penance Runner"
   version: "Wave 6"
   hitpoints: 5
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 5754
   name: "Penance Runner"
   version: "Wave 7/10"
   hitpoints: 5
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 5755
   name: "Penance Runner"
   version: "Wave 8"
   hitpoints: 5
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 5756
   name: "Penance Runner"
   version: "Wave 9"
   hitpoints: 5
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 4109
@@ -24800,6 +25024,11 @@ npcs {
   ids: 11485
   name: "Shadow Rift"
   hitpoints: 20
+  att: 1
+  str: 1
+  def: 10
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 3016
@@ -26162,6 +26391,16 @@ npcs {
   attributes: "undead"
 }
 npcs {
+  ids: 2847
+  name: "Skeleton"
+  hitpoints: 60
+  att: 30
+  str: 24
+  def: 24
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 1538
   name: "Skeleton brute"
   hitpoints: 124
@@ -27031,6 +27270,11 @@ npcs {
   ids: 4962
   name: "Solus Dellagar"
   hitpoints: 40
+  att: 25
+  str: 25
+  def: 25
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 561
@@ -27455,6 +27699,11 @@ npcs {
   name: "Suspicious water"
   version: "Suspicious water"
   hitpoints: 100
+  att: 10
+  str: 10
+  def: 10
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 5947
@@ -27466,7 +27715,7 @@ npcs {
   str: 10
   def: 10
   mage: 1
-  range: 1
+  range: 100
   dstab: 100
   dslash: 100
   dcrush: 100
@@ -28136,16 +28385,28 @@ npcs {
   ids: 12288
   name: "Strangled Bear"
   hitpoints: 100
+  att: 190
+  str: 70
+  def: 40
+  mage: 60
 }
 npcs {
   ids: 12289
   name: "Strangled Boar"
   hitpoints: 40
+  att: 190
+  str: 70
+  def: 40
+  mage: 60
 }
 npcs {
   ids: 12290
   name: "Strangled Lynx"
   hitpoints: 50
+  att: 190
+  str: 70
+  def: 40
+  mage: 60
 }
 npcs {
   ids: 11273
@@ -29629,21 +29890,37 @@ npcs {
   ids: 9435
   name: "Totem"
   hitpoints: 200
+  att: 1
+  str: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 9436
   name: "Totem"
   hitpoints: 200
+  att: 1
+  str: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 9435
   name: "Totem"
   hitpoints: 300
+  att: 1
+  str: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 9436
   name: "Totem"
   hitpoints: 300
+  att: 1
+  str: 1
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 3551
@@ -30616,7 +30893,10 @@ npcs {
   ids: 5663
   name: "Undead Lumberjack"
   version: "Level 35"
-  hitpoints: 12
+  hitpoints: 11
+  att: 87
+  str: 6
+  def: 11
   mage: 1
   range: 1
   attributes: "undead"
@@ -30689,7 +30969,10 @@ npcs {
   ids: 5696
   name: "Undead Lumberjack"
   version: "Level 55"
-  hitpoints: 12
+  hitpoints: 15
+  att: 133
+  str: 16
+  def: 15
   mage: 1
   range: 1
   attributes: "undead"
@@ -30705,7 +30988,7 @@ npcs {
   ids: 5704
   name: "Undead Lumberjack"
   version: "Level 60"
-  hitpoints: 12
+  hitpoints: 16
   att: 137
   str: 26
   def: 16
@@ -30724,7 +31007,10 @@ npcs {
   ids: 5712
   name: "Undead Lumberjack"
   version: "Level 64"
-  hitpoints: 12
+  hitpoints: 17
+  att: 147
+  str: 26
+  def: 17
   mage: 1
   range: 1
   attributes: "undead"
@@ -30740,7 +31026,10 @@ npcs {
   ids: 5720
   name: "Undead Lumberjack"
   version: "Level 70"
-  hitpoints: 12
+  hitpoints: 18
+  att: 163
+  str: 26
+  def: 18
   mage: 1
   range: 1
   attributes: "undead"
@@ -32314,6 +32603,12 @@ npcs {
 npcs {
   ids: 7751
   name: "Well-armed Foe"
+  hitpoints: 1500
+  att: 500
+  str: 420
+  def: 500
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 2593
@@ -33445,6 +33740,12 @@ npcs {
 npcs {
   ids: 2847
   name: "Yeti"
+  hitpoints: 55
+  att: 48
+  str: 60
+  def: 39
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 3679

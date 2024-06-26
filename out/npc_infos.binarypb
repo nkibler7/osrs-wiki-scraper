@@ -661,10 +661,10 @@ $
 úaBloodthirsty hand 7(-0*8@Hªundead
 &
 —bBloodthirsty Mage ¯(08¯@¯H
-7
-bBloodthirsty Repugnant spectreªundead, spectral
--
-bBloodthirsty spectreªundead, Spectral
+F
+bBloodthirsty Repugnant spectre ü(08Ü@üHªundead, spectral
+<
+bBloodthirsty spectre ú(08´@¬Hªundead, Spectral
 3
 äåæç	BloodveldStandard x(K0-8@Hªdemon
 .
@@ -739,8 +739,8 @@ S
 ÈBrawler	Level 101 q(/0k8]
 "
 ÉBrawler	Level 129 (C0„8v
-
-ÊBrawler	Level 158
+#
+ÊBrawler	Level 158 ­(W08
 ,
  Bree ¢(n0P8‚@PH–P
 X€ˆ˜ 
@@ -951,8 +951,8 @@ z
 ÍÎChickenMiscellania (08@HPÑÿÿÿÿÿÿÿÿXÖÿÿÿÿÿÿÿÿ€ÖÿÿÿÿÿÿÿÿˆÖÿÿÿÿÿÿÿÿÖÿÿÿÿÿÿÿÿ˜Öÿÿÿÿÿÿÿÿ Öÿÿÿÿÿÿÿÿ
 }
 ôõöChickenFalador Farm (08@HPÑÿÿÿÿÿÿÿÿXÖÿÿÿÿÿÿÿÿ€ÖÿÿÿÿÿÿÿÿˆÖÿÿÿÿÿÿÿÿÖÿÿÿÿÿÿÿÿ˜Öÿÿÿÿÿÿÿÿ Öÿÿÿÿÿÿÿÿ
-
-ôChicken 
+
+ôChicken (8@H
 
 Ş
 Chinchompa (08@H
@@ -1069,8 +1069,9 @@ v
 ÃCrawling HandLevel 8 (3) (08@Hªundead
 5
 ÄCrawling HandLevel 8 (4) (08@Hªundead
-3
-ÇCrawling HandLevel 11 (unused)@Hªundead
+;
+ÇCrawling HandLevel 11 (unused) (
+08@Hªundead
 6
 ÅCrawling HandLevel 12 (1) (08@Hªundead
 6
@@ -1671,12 +1672,12 @@ $
 İFlight Kilisa …(|0v8¯@2H©X
 +
 ÜFlockleader Geerin „(P0P8¯@2H–p<x#
-
+
 ˆCFlower 
-
-
+(0@H
+
 ¹WFlower 
-
+(0@H
 
 •Foreman (08ˆ
 +
@@ -2033,10 +2034,10 @@ X€
 ™Goblin Champion  (08@H
 +
 ù)Goblin guard +( 0%8%@HPX€ˆ
-
-”Golem
-
-ÛFGolem 
+
+”Golem F(#0<8@H
+
+ÛFGolem (08@H
 $
 "Gorad P(60686@HPX€ˆ
 %
@@ -2176,8 +2177,8 @@ Ardougne 3 (08@HP	X€ˆ˜ 
 6
 £]Guard
 Ardougne 4 (08@HP	X€ˆ˜ 
-
-•(Guard
+
+•(Guard (08@H
 >
 ƒ GuardBlack beard ((08@PX€$ˆ02˜üÿÿÿÿÿÿÿÿ &
 =
@@ -2697,6 +2698,8 @@ T
 0
 8
 @H€ëÿÿÿÿÿÿÿÿˆëÿÿÿÿÿÿÿÿëÿÿÿÿÿÿÿÿ˜ëÿÿÿÿÿÿÿÿ ëÿÿÿÿÿÿÿÿ
+
+ÿ%Jubbly bird (08@H
 
 ”Jubster <(R0N8Q@H
 :
@@ -2866,8 +2869,8 @@ N
 “EKnight of ArdougneLevel 27 ((08@H€ˆ˜ 
 =
 ”EKnight of ArdougneLevel 53 6(,048@H€ˆ((˜ 
-
-äKnight of Ardougne
+$
+äKnight of Ardougne 4(&0(8@H
 @
 ¦Knight of Saradomin	Level 101 l(K0Z8R@<HPX€ˆ 
 A
@@ -2897,24 +2900,25 @@ D
 ˜ 
 -
 Â7Ã7Kob È(´0¯8PPÈX‡€UˆUZ˜È È
-
-ÅÃÄKolodionHuman 
-
-ÆKolodionOgre A
-
-ÇKolodionSpider A
-
-ÈKolodionGhost N
+%
+ÅÃÄKolodionHuman (0
+8@H
+ 
+ÆKolodionOgre A(70F8H@2H
+"
+ÇKolodionSpider N(E0N8/@FH
+!
+ÈKolodionGhost N(08:@H
 !
 ÉKolodionDemon k(U0b8i@PH
-2
-¹Koschei the deathless (08€ˆ˜ 
-2
-ºKoschei the deathless 2((0(8(€(ˆ((˜( (
-2
-»Koschei the deathless F(<0<8<€<ˆ<<˜< <
-&
-¼Koschei the deathless ÿ(ÿ08ÿ
+6
+¹Koschei the deathless (08@H€ˆ˜ 
+6
+ºKoschei the deathless 2((0(8(@H€(ˆ((˜( (
+6
+»Koschei the deathless F(<0<8<@H€<ˆ<<˜< <
+*
+¼Koschei the deathless ÿ(ÿ08ÿ@H
 (
  Kraka x(20d82P(XF€ˆ(˜È È
 /
@@ -2944,9 +2948,9 @@ T
 äLanzig 2((0(8(@HX
 ,
 €1Large mosquito (08-@H€ˆ˜
-
+
 ‰=
-Lava beast A
+Lava beast <(08F@H
 <
 Á3Lava dragon æ(ğ0Ü8Ü@H€ˆZZ˜Pªdragon,fiery
 
@@ -3455,7 +3459,7 @@ $
  
 «"Ogre shaman6 (08@H
 
-"Ogre shaman (08@H
+"Ogre shaman c(c0c8c@H
 0
 ·>¸>Ogress Shaman R(D08R@DH€ˆ˜ 
 2
@@ -3515,80 +3519,80 @@ G
 (08@H
 *
 ŸPee Hat x(20d82P(XF€ˆ(˜È È
+5
+ƒë,Penance FighterWave 1 (08@Hªpenance
 3
-ƒë,Penance FighterWave 1 (08@ªpenance
-1
-ì,Penance FighterWave 2 (08@ªpenance
-1
-í,Penance FighterWave 3  (!0 8"@ªpenance
-1
-î,Penance FighterWave 4 %($0&8%@ªpenance
-1
-ï,Penance FighterWave 5 &()0+8,@ªpenance
-1
-ğ,Penance FighterWave 6 1(20080@ªpenance
-4
-ñ,Penance Fighter	Wave 7/10 2(80784@ªpenance
-1
-ò,Penance FighterWave 8 7(<0=8>@ªpenance
-1
-ó,Penance FighterWave 9 8(G0I8B@ªpenance
- 
-††-Penance HealerWave 1 
-
-‡-Penance HealerWave 2  
-
-ˆ-Penance HealerWave 3 %
-
-‰-Penance HealerWave 4 +
-
-Š-Penance HealerWave 5 1
-
-‹-Penance HealerWave 6 7
-!
-Œ-Penance Healer	Wave 7/10 <
-
--Penance HealerWave 8 C
-
--Penance HealerWave 9 L
+ì,Penance FighterWave 2 (08@Hªpenance
+3
+í,Penance FighterWave 3  (!0 8"@Hªpenance
+3
+î,Penance FighterWave 4 %($0&8%@Hªpenance
+3
+ï,Penance FighterWave 5 &()0+8,@Hªpenance
+3
+ğ,Penance FighterWave 6 1(20080@Hªpenance
+6
+ñ,Penance Fighter	Wave 7/10 2(80784@Hªpenance
+3
+ò,Penance FighterWave 8 7(<0=8>@Hªpenance
+3
+ó,Penance FighterWave 9 8(G0I8B@Hªpenance
+*
+††-Penance HealerWave 1 (	08	@H
+(
+‡-Penance HealerWave 2  (08@H
+(
+ˆ-Penance HealerWave 3 %(08@H
+(
+‰-Penance HealerWave 4 +(08@H
+(
+Š-Penance HealerWave 5 1(08@H
+(
+‹-Penance HealerWave 6 7(0 8@H
++
+Œ-Penance Healer	Wave 7/10 <(!0$8"@H
+(
+-Penance HealerWave 8 C((0&8$@H
+(
+-Penance HealerWave 9 L((0,8&@H
 "
 -Penance Queen ú(„0\8„@Ht
-.
-„ı,Penance RangerWave 1 8Hªpenance
-,
-ş,Penance RangerWave 2 8Hªpenance
-,
-ÿ,Penance RangerWave 3 8!H"ªpenance
-,
-€-Penance RangerWave 4 "8*H(ªpenance
-,
--Penance RangerWave 5 )8.H-ªpenance
-,
-‚-Penance RangerWave 6 286H4ªpenance
-/
-ƒ-Penance Ranger	Wave 7/10 28=H>ªpenance
-,
-„-Penance RangerWave 8 68DHFªpenance
-,
-…-Penance RangerWave 9 :8PHNªpenance
- 
-…ô,Penance RunnerWave 1 
-
-õ,Penance RunnerWave 2 
-
-ö,Penance RunnerWave 3 
-
-÷,Penance RunnerWave 4 
-
-ø,Penance RunnerWave 5 
-
-ù,Penance RunnerWave 6 
-!
-ú,Penance Runner	Wave 7/10 
-
-û,Penance RunnerWave 8 
-
-ü,Penance RunnerWave 9 
+4
+„ı,Penance RangerWave 1 (08@Hªpenance
+2
+ş,Penance RangerWave 2 (08@Hªpenance
+2
+ÿ,Penance RangerWave 3 ( 08!@H"ªpenance
+2
+€-Penance RangerWave 4 "()08*@H(ªpenance
+2
+-Penance RangerWave 5 )(,08.@H-ªpenance
+2
+‚-Penance RangerWave 6 2(3086@H4ªpenance
+5
+ƒ-Penance Ranger	Wave 7/10 2(?08=@H>ªpenance
+2
+„-Penance RangerWave 8 6(E08D@HFªpenance
+2
+…-Penance RangerWave 9 :(O08P@HNªpenance
+*
+…ô,Penance RunnerWave 1 (08@H
+(
+õ,Penance RunnerWave 2 (08@H
+(
+ö,Penance RunnerWave 3 (08@H
+(
+÷,Penance RunnerWave 4 (08@H
+(
+ø,Penance RunnerWave 5 (08@H
+(
+ù,Penance RunnerWave 6 (08@H
++
+ú,Penance Runner	Wave 7/10 (08@H
+(
+û,Penance RunnerWave 8 (08@H
+(
+ü,Penance RunnerWave 9 (08@H
 S
  Penda 
 (08@H€ôÿÿÿÿÿÿÿÿˆôÿÿÿÿÿÿÿÿôÿÿÿÿÿÿÿÿ˜ôÿÿÿÿÿÿÿÿ ôÿÿÿÿÿÿÿÿ
@@ -4123,8 +4127,9 @@ B
 ùShadow Hound >(50686@H
  
 Ø_Shadow Keeper d(Œ0n8d@dH
-
-İYShadow Rift 
+
+İYShadow Rift (08
+@H
 .
 ÈShadow spider 7(,0*8,@H€ˆ
 ˜ 
@@ -4300,6 +4305,8 @@ B
 ¼iSkeleton6 (08@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ ªundead
 B
 ½iSkeleton7 (08@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ ªundead
+
+ŸSkeleton <(08@H
 B
 ‚Skeleton brute |(s0r8n@HP	Xˆ˜ıÿÿÿÿÿÿÿÿ ªundead
 ,
@@ -4451,8 +4458,8 @@ X€ˆ
 D
 Ì[Soldier Scarab ((K0P8P@dH_PdX7`úhApŞ€ˆú˜
 ªkalphite
-
-Â&Å&â&Solus Dellagar (
+$
+Â&Å&â&Solus Dellagar ((08@H
 #
 ±	SorebonesJacket 4(10282@H
 "
@@ -4520,13 +4527,16 @@ H
 ±SpinnerLevel 88 ](%0%8@%
 !
 °SpinnerLevel 92 e( 0 8v@R
-.
-º.¼.Ê.Suspicious waterSuspicious water d
+8
+º.¼.Ê.Suspicious waterSuspicious water d(
+0
+8
+@H
 9
 ».Ë.SpinolypSpinolyp (1) d(
 0
 8
-@H€dˆdd˜2 2
+@Hd€dˆdd˜2 2
 7
 É.SpinolypSpinolyp (2) d(
 0
@@ -4630,12 +4640,12 @@ $
 ñ_ö_ş_’a	StrangledStrangled 2 2
 "
 ò_ÿ_“a	StrangledStrangled 3 2
-
-€`Strangled Bear d
-
-`Strangled Boar (
-
-‚`Strangled Lynx 2
+
+€`Strangled Bear d(¾0F8(@<
+
+`Strangled Boar ((¾0F8(@<
+
+‚`Strangled Lynx 2(¾0F8(@<
 ;
 ‰X¤XStrongbones È(Z0Z8Z@ZHZP&X2`&h2p&x2€
 ˆ
@@ -4904,14 +4914,14 @@ A
 ·7¸7¹7Tortured gorilla	Level 142 n(´0Z8n@nHPZX{
 2
 ·Tortured soul 3(40>8&@Hªundead, spectral
-
-ÛITotem È
-
-ÜITotem È
-
-ÛITotem ¬
-
-ÜITotem ¬
+
+ÛITotem È(0@H
+
+ÜITotem È(0@H
+
+ÛITotem ¬(0@H
+
+ÜITotem ¬(0@H
 &
 ß	Tough Guy K(U0282@PP	X	€	ˆ
 
@@ -5072,22 +5082,22 @@ D
 ,‘,’,“,”,•,–,—,Undead LumberjackLevel 30 
 (I08
 @Hªundead
->
-˜,™,š,›,œ,,,Ÿ,Undead LumberjackLevel 35 @Hªundead
+D
+˜,™,š,›,œ,,,Ÿ,Undead LumberjackLevel 35 (W08@Hªundead
 D
 ¡,¢,£,¤,¥,¦,§,¨,Undead LumberjackLevel 40 (e08@Hªundead
 D
 ©,ª,«,¬,­,®,¯,°,Undead LumberjackLevel 45 (i08@Hªundead
 D
 ±,²,³,´,µ,¶,·,¸,Undead LumberjackLevel 50 (u08@Hªundead
->
-¹,º,»,¼,½,¾,¿,À,Undead LumberjackLevel 55 @Hªundead
 E
-Á,Â,Ã,Ä,Å,Æ,Ç,È,Undead LumberjackLevel 60 (‰08@Hªundead
->
-É,Ê,Ë,Ì,Í,Î,Ï,Ğ,Undead LumberjackLevel 64 @Hªundead
->
-Ñ,Ò,Ó,Ô,Õ,Ö,×,Ø,Undead LumberjackLevel 70 @Hªundead
+¹,º,»,¼,½,¾,¿,À,Undead LumberjackLevel 55 (…08@Hªundead
+E
+Á,Â,Ã,Ä,Å,Æ,Ç,È,Undead LumberjackLevel 60 (‰08@Hªundead
+E
+É,Ê,Ë,Ì,Í,Î,Ï,Ğ,Undead LumberjackLevel 64 (“08@Hªundead
+E
+Ñ,Ò,Ó,Ô,Õ,Ö,×,Ø,Undead LumberjackLevel 70 (£08@Hªundead
 @
 à)á)
 Undead oneLevel 61 /(70787PX€ˆ˜ ªundead
@@ -5330,8 +5340,8 @@ WaterfiendSlayer task €8€@iHi€dˆd
 ;
 Û(Weaponsmaster (08@HPX
 €ˆ˜úÿÿÿÿÿÿÿÿ 
-
-Ç<Well-armed Foe
+$
+Ç<Well-armed Foe Ü(ô0¤8ô@H
 $
 ¡WerewolfBoris d(F0F8F@H˜<
 #
@@ -5535,9 +5545,8 @@ U
 
 ¸-Yak 2(0
 8@H
-
-
-ŸYeti
+
+ŸYeti 7(00<8'@H
 
 
 ßYrsa
