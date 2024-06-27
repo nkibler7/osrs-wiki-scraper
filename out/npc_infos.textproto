@@ -295,8 +295,8 @@ npcs {
   hitpoints: 400
   att: 180
   str: 136
-  def: 150
-  mage: 150
+  def: 250
+  mage: 200
   range: 1
   attbns: 65
   dstab: 20
@@ -25656,7 +25656,7 @@ npcs {
 npcs {
   ids: 5237
   name: "Skeleton"
-  hitpoints: 110
+  hitpoints: 77
   att: 180
   str: 90
   def: 110
@@ -28491,6 +28491,22 @@ npcs {
   dmagic: 200
   drange: 200
   attributes: "spectral"
+}
+npcs {
+  ids: 12879
+  name: "Sulphur Nagua"
+  hitpoints: 100
+  att: 90
+  str: 105
+  def: 40
+  mage: 50
+  range: 1
+  attbns: 90
+  dstab: 50
+  dslash: 50
+  dcrush: 10
+  dmagic: 200
+  drange: 200
 }
 npcs {
   ids: 69
