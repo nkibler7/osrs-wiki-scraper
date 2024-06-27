@@ -5470,6 +5470,7 @@ npcs {
   name: "Chicken"
   hitpoints: 3
   att: 1
+  str: 1
   def: 1
   mage: 1
   range: 1
