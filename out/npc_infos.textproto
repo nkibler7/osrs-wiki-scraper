@@ -17712,16 +17712,6 @@ npcs {
   dmagic: 2
 }
 npcs {
-  ids: 7817
-  name: "Lava beast"
-  hitpoints: 60
-  att: 1
-  str: 1
-  def: 70
-  mage: 20
-  range: 1
-}
-npcs {
   ids: 6593
   name: "Lava dragon"
   hitpoints: 230
