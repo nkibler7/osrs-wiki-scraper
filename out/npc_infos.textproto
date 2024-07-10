@@ -451,6 +451,12 @@ npcs {
 npcs {
   ids: 13483
   name: "Agile Warrior"
+  hitpoints: 30
+  att: 25
+  str: 25
+  def: 80
+  mage: 1
+  range: 80
 }
 npcs {
   ids: 911
@@ -8773,6 +8779,16 @@ npcs {
   name: "Elite Black Knight"
   version: "Male"
   hitpoints: 90
+  att: 90
+  str: 120
+  def: 90
+  mage: 70
+  range: 20
+  attbns: 85
+  dstab: 110
+  dslash: 130
+  dcrush: 40
+  dmagic: -5
 }
 npcs {
   ids: 13464
@@ -8780,36 +8796,88 @@ npcs {
   name: "Elite Black Knight"
   version: "Female"
   hitpoints: 90
+  att: 90
+  str: 120
+  def: 90
+  mage: 70
+  range: 20
+  attbns: 85
+  dstab: 110
+  dslash: 130
+  dcrush: 40
+  dmagic: -5
 }
 npcs {
   ids: 13469
   name: "Elite Dark Mage"
   version: "Male"
+  hitpoints: 80
+  att: 25
+  str: 25
+  def: 80
+  mage: 80
+  range: 25
+  amagic: 80
 }
 npcs {
   ids: 13470
   name: "Elite Dark Mage"
   version: "Female"
+  hitpoints: 80
+  att: 25
+  str: 25
+  def: 80
+  mage: 80
+  range: 25
+  amagic: 80
 }
 npcs {
   ids: 13467
   name: "Elite Dark Ranger"
   version: "Male"
+  hitpoints: 80
+  att: 25
+  str: 25
+  def: 80
+  mage: 40
+  range: 80
+  arange: 80
 }
 npcs {
   ids: 13468
   name: "Elite Dark Ranger"
   version: "Female"
+  hitpoints: 80
+  att: 25
+  str: 25
+  def: 80
+  mage: 40
+  range: 80
+  arange: 80
 }
 npcs {
   ids: 13465
   name: "Elite Dark Warrior"
   version: "Male"
+  hitpoints: 80
+  att: 80
+  str: 80
+  def: 80
+  mage: 40
+  range: 25
+  attbns: 80
 }
 npcs {
   ids: 13466
   name: "Elite Dark Warrior"
   version: "Female"
+  hitpoints: 80
+  att: 80
+  str: 80
+  def: 80
+  mage: 40
+  range: 25
+  attbns: 80
 }
 npcs {
   ids: 13531
@@ -28612,6 +28680,12 @@ npcs {
 npcs {
   ids: 13484
   name: "Strong Warrior"
+  hitpoints: 30
+  att: 25
+  str: 200
+  def: 80
+  mage: 1
+  range: 80
 }
 npcs {
   ids: 11273
