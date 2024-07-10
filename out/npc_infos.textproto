@@ -449,6 +449,10 @@ npcs {
   attributes: "kalphite"
 }
 npcs {
+  ids: 13483
+  name: "Agile Warrior"
+}
+npcs {
   ids: 911
   ids: 6388
   name: "Agrith Naar"
@@ -1709,6 +1713,16 @@ npcs {
   drange: 50
 }
 npcs {
+  ids: 13514
+  name: "Assassin"
+  version: "1"
+}
+npcs {
+  ids: 13515
+  name: "Assassin"
+  version: "2"
+}
+npcs {
   ids: 1284
   name: "Asyn Shade"
   version: "Shade"
@@ -2339,6 +2353,12 @@ npcs {
   def: 40
   mage: 1
   range: 1
+}
+npcs {
+  ids: 13528
+  ids: 13529
+  ids: 13530
+  name: "Balance Elemental"
 }
 npcs {
   ids: 3132
@@ -8714,6 +8734,69 @@ npcs {
   dcrush: 20
   dmagic: 20
   drange: 20
+}
+npcs {
+  ids: 13463
+  ids: 13480
+  ids: 13566
+  name: "Elite Black Knight"
+  version: "Male"
+}
+npcs {
+  ids: 13464
+  ids: 13481
+  name: "Elite Black Knight"
+  version: "Female"
+}
+npcs {
+  ids: 13469
+  name: "Elite Dark Mage"
+  version: "Male"
+}
+npcs {
+  ids: 13470
+  name: "Elite Dark Mage"
+  version: "Female"
+}
+npcs {
+  ids: 13467
+  name: "Elite Dark Ranger"
+  version: "Male"
+}
+npcs {
+  ids: 13468
+  name: "Elite Dark Ranger"
+  version: "Female"
+}
+npcs {
+  ids: 13465
+  name: "Elite Dark Warrior"
+  version: "Male"
+}
+npcs {
+  ids: 13466
+  name: "Elite Dark Warrior"
+  version: "Female"
+}
+npcs {
+  ids: 13531
+  name: "Elite Khazard Guard"
+  version: "1"
+}
+npcs {
+  ids: 13532
+  name: "Elite Khazard Guard"
+  version: "2"
+}
+npcs {
+  ids: 13533
+  name: "Elite Khazard Guard"
+  version: "3"
+}
+npcs {
+  ids: 13534
+  name: "Elite Khazard Guard"
+  version: "4"
 }
 npcs {
   ids: 817
@@ -18945,6 +19028,16 @@ npcs {
   drange: 19
 }
 npcs {
+  ids: 13535
+  name: "Mercenary axeman"
+  version: "1"
+}
+npcs {
+  ids: 13536
+  name: "Mercenary axeman"
+  version: "2"
+}
+npcs {
   ids: 4635
   name: "Mercenary Captain"
   hitpoints: 80
@@ -18958,6 +19051,10 @@ npcs {
   dcrush: 19
   dmagic: -3
   drange: 19
+}
+npcs {
+  ids: 13537
+  name: "Mercenary mage"
 }
 npcs {
   ids: 2624
@@ -28400,6 +28497,10 @@ npcs {
   mage: 60
 }
 npcs {
+  ids: 13484
+  name: "Strong Warrior"
+}
+npcs {
   ids: 11273
   ids: 11300
   name: "Strongbones"
@@ -29786,6 +29887,18 @@ npcs {
   hitpoints: 71
   def: 89
   mage: 107
+}
+npcs {
+  ids: 13599
+  ids: 13601
+  name: "Tormented Demon"
+  version: "1"
+}
+npcs {
+  ids: 13600
+  ids: 13602
+  name: "Tormented Demon"
+  version: "2"
 }
 npcs {
   ids: 8512

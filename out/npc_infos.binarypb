@@ -76,6 +76,8 @@ C
 	AfflictedLevel 37 (08(@H
 5
 œ[Agile Scarab (<08@H(X`ñhpñx™kalphite
+
+´iAgile Warrior
 '
 èÙ1Agrith NaarNormal _(S0Z8R@dHd
 /
@@ -292,6 +294,10 @@ B
 ºUAssassin x(p0p8\@\HpÄ2à2ê2ò†2
 )
 ΩUAssassin x(p0p8\@\HpÄ2à2ê2ò†2
+
+ iAssassin1
+
+ÀiAssassin2
 7
 Ñ
 
@@ -394,6 +400,8 @@ A
 ›-Baby tanglefootTan (((0&8(@H
 (
 ﬁ-Baby tanglefootBrown (((0&8(@H
+
+ÿiŸi⁄iBalance Elemental
 0
 ºBalfrug Kreeyath °(s0<8ô@ñHò
 ™demon
@@ -1521,6 +1529,30 @@ L
 Ò[Elidinis' WardenDamaged (ñ0ñ8ñ@ñHñX(`Êh(p¨x(Ä(à(êò†
 Q
 Û[Elidinis' WardenInvulnerable (ñ0ñ8ñ@ñHñX(`Êh(p¨x(Ä(à(êò†
+"
+ói®i˛iElite Black KnightMale
+"
+òi©iElite Black KnightFemale
+
+ùiElite Dark MageMale
+
+ûiElite Dark MageFemale
+
+õiElite Dark RangerMale
+
+úiElite Dark RangerFemale
+
+ôiElite Dark WarriorMale
+ 
+öiElite Dark WarriorFemale
+
+€iElite Khazard Guard1
+
+‹iElite Khazard Guard2
+
+›iElite Khazard Guard3
+
+ﬁiElite Khazard Guard4
 3
 ±·>Õ1ElvargNormal P(F0F8F@FHÄà(ê(ò†
 8
@@ -3133,8 +3165,14 @@ NMZ (hard) á(·0Í8J@H
 ≥$	MercenaryCoif <( 0 8'P	XÄàêò˝ˇˇˇˇˇˇˇˇ†
 =
 ±$	MercenaryFacemask <( 0 8'P	XÄàêò˝ˇˇˇˇˇˇˇˇ†
+
+ﬂiMercenary axeman1
+
+‡iMercenary axeman2
 ;
 õ$Mercenary Captain P( 08 P	XÄàêò˝ˇˇˇˇˇˇˇˇ†
+
+·iMercenary mage
 S
 ¿Milla <(
 0
@@ -4643,6 +4681,8 @@ $
 Å`Strangled Boar ((æ0F8(@<
 
 Ç`Strangled Lynx 2(æ0F8(@<
+
+¨iStrong Warrior
 ;
 âX§XStrongbones »(Z0Z8Z@ZHZP&X2`&h2p&x2Ä
 à
@@ -4895,6 +4935,10 @@ T
 ∫TorcherLevel 91 G8Y@k
 
 ªTorcherLevel 92 G8Y@k
+
+üj°jTormented Demon1
+
+†j¢jTormented Demon2
 +
 ¿B¡BTormented Soul (08
 @H™undead
