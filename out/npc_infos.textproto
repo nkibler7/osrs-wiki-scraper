@@ -2382,6 +2382,14 @@ npcs {
   ids: 13530
   name: "Balance Elemental"
   hitpoints: 750
+  att: 275
+  str: 286
+  def: 275
+  mage: 275
+  range: 275
+  dstab: 5
+  dcrush: -40
+  dmagic: -40
 }
 npcs {
   ids: 3132
@@ -8764,12 +8772,14 @@ npcs {
   ids: 13566
   name: "Elite Black Knight"
   version: "Male"
+  hitpoints: 90
 }
 npcs {
   ids: 13464
   ids: 13481
   name: "Elite Black Knight"
   version: "Female"
+  hitpoints: 90
 }
 npcs {
   ids: 13469
