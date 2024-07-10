@@ -8804,21 +8804,65 @@ npcs {
   ids: 13531
   name: "Elite Khazard Guard"
   version: "1"
+  hitpoints: 85
+  att: 80
+  str: 88
+  def: 80
+  mage: 30
+  range: 1
+  attbns: 10
+  strbns: 14
+  dstab: 44
+  dslash: 38
+  dcrush: 30
 }
 npcs {
   ids: 13532
   name: "Elite Khazard Guard"
   version: "2"
+  hitpoints: 85
+  att: 80
+  str: 88
+  def: 80
+  mage: 30
+  range: 1
+  attbns: 10
+  strbns: 14
+  dstab: 44
+  dslash: 38
+  dcrush: 30
 }
 npcs {
   ids: 13533
   name: "Elite Khazard Guard"
   version: "3"
+  hitpoints: 85
+  att: 80
+  str: 88
+  def: 80
+  mage: 30
+  range: 1
+  attbns: 10
+  strbns: 14
+  dstab: 44
+  dslash: 38
+  dcrush: 30
 }
 npcs {
   ids: 13534
   name: "Elite Khazard Guard"
   version: "4"
+  hitpoints: 85
+  att: 80
+  str: 88
+  def: 80
+  mage: 30
+  range: 1
+  attbns: 10
+  strbns: 14
+  dstab: 44
+  dslash: 38
+  dcrush: 30
 }
 npcs {
   ids: 817
@@ -29915,12 +29959,44 @@ npcs {
   ids: 13601
   name: "Tormented Demon"
   version: "1"
+  hitpoints: 600
+  att: 255
+  str: 255
+  def: 150
+  mage: 255
+  range: 255
+  attbns: 400
+  strbns: 10
+  amagic: 300
+  mbns: 5
+  arange: 300
+  rngbns: 5
+  dstab: 75
+  dslash: 175
+  dcrush: 68
+  dmagic: 5
 }
 npcs {
   ids: 13600
   ids: 13602
   name: "Tormented Demon"
   version: "2"
+  hitpoints: 600
+  att: 255
+  str: 255
+  def: 150
+  mage: 255
+  range: 255
+  attbns: 400
+  strbns: 10
+  amagic: 300
+  mbns: 5
+  arange: 300
+  rngbns: 5
+  dstab: 75
+  dslash: 175
+  dcrush: 68
+  dmagic: 5
 }
 npcs {
   ids: 8512
