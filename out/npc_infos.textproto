@@ -2381,6 +2381,7 @@ npcs {
   ids: 13529
   ids: 13530
   name: "Balance Elemental"
+  hitpoints: 750
 }
 npcs {
   ids: 3132
@@ -19097,11 +19098,35 @@ npcs {
   ids: 13535
   name: "Mercenary axeman"
   version: "1"
+  hitpoints: 110
+  att: 150
+  str: 150
+  def: 110
+  mage: 40
+  range: 1
+  attbns: 75
+  strbns: 25
+  dstab: 110
+  dslash: 80
+  dcrush: 80
+  dmagic: 10
 }
 npcs {
   ids: 13536
   name: "Mercenary axeman"
   version: "2"
+  hitpoints: 110
+  att: 150
+  str: 150
+  def: 110
+  mage: 40
+  range: 1
+  attbns: 75
+  strbns: 25
+  dstab: 110
+  dslash: 80
+  dcrush: 80
+  dmagic: 10
 }
 npcs {
   ids: 4635
@@ -19121,6 +19146,18 @@ npcs {
 npcs {
   ids: 13537
   name: "Mercenary mage"
+  hitpoints: 150
+  att: 40
+  str: 40
+  def: 90
+  mage: 150
+  range: 1
+  amagic: 150
+  mbns: 10
+  dstab: 50
+  dslash: 40
+  dcrush: 60
+  dmagic: 10
 }
 npcs {
   ids: 2624
@@ -29975,6 +30012,7 @@ npcs {
   dslash: 175
   dcrush: 68
   dmagic: 5
+  attributes: "demon"
 }
 npcs {
   ids: 13600
@@ -29997,6 +30035,7 @@ npcs {
   dslash: 175
   dcrush: 68
   dmagic: 5
+  attributes: "demon"
 }
 npcs {
   ids: 8512
