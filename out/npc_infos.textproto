@@ -1716,11 +1716,33 @@ npcs {
   ids: 13514
   name: "Assassin"
   version: "1"
+  hitpoints: 85
+  att: 50
+  str: 70
+  def: 70
+  mage: 30
+  range: 110
+  arange: 90
+  dstab: 10
+  dslash: 10
+  dcrush: 15
+  dmagic: 30
 }
 npcs {
   ids: 13515
   name: "Assassin"
   version: "2"
+  hitpoints: 85
+  att: 50
+  str: 70
+  def: 70
+  mage: 30
+  range: 110
+  arange: 90
+  dstab: 10
+  dslash: 10
+  dcrush: 15
+  dmagic: 30
 }
 npcs {
   ids: 1284
