@@ -28938,6 +28938,21 @@ npcs {
   drange: 50
 }
 npcs {
+  ids: 13482
+  name: "Surok Magis"
+  hitpoints: 450
+  att: 1
+  str: 1
+  def: 160
+  mage: 160
+  range: 1
+  amagic: 85
+  mbns: 105
+  dstab: 30
+  dslash: 20
+  dcrush: 40
+}
+npcs {
   ids: 2621
   name: "Svetlana"
   hitpoints: 60
