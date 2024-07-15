@@ -22956,8 +22956,6 @@ npcs {
 }
 npcs {
   ids: 3420
-  ids: 3421
-  ids: 3422
   name: "Rabbit"
   version: "Tirannwn"
   hitpoints: 5
@@ -22976,7 +22974,6 @@ npcs {
 }
 npcs {
   ids: 3664
-  ids: 3665
   name: "Rabbit"
   version: "Miscellania"
   hitpoints: 5
@@ -22995,7 +22992,6 @@ npcs {
 }
 npcs {
   ids: 1852
-  ids: 1853
   name: "Rabbit"
   version: "Enchanted Valley"
   hitpoints: 1
