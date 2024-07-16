@@ -23757,6 +23757,7 @@ npcs {
   name: "Respiratory system"
   hitpoints: 50
   def: 80
+  attributes: "demon"
 }
 npcs {
   ids: 7934
