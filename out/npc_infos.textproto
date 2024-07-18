@@ -2293,11 +2293,10 @@ npcs {
   def: 40
   mage: 1
   range: 1
-  dstab: 30
+  dstab: 10
   dslash: 50
   dcrush: 50
   dmagic: 40
-  drange: 30
   attributes: "dragon"
 }
 npcs {
@@ -2310,11 +2309,10 @@ npcs {
   def: 40
   mage: 1
   range: 1
-  dstab: 30
+  dstab: 10
   dslash: 50
   dcrush: 50
   dmagic: 40
-  drange: 30
   attributes: "dragon"
 }
 npcs {
@@ -2327,11 +2325,10 @@ npcs {
   def: 40
   mage: 1
   range: 1
-  dstab: 30
+  dstab: 10
   dslash: 50
   dcrush: 50
   dmagic: 40
-  drange: 30
   attributes: "dragon"
 }
 npcs {
