@@ -18656,6 +18656,15 @@ npcs {
   drange: 10
 }
 npcs {
+  ids: 13663
+  name: "Magic Mark"
+  hitpoints: 1500
+  att: 10
+  str: 30
+  def: 30
+  mage: 175
+}
+npcs {
   ids: 7396
   name: "Malevolent Mage"
   hitpoints: 175
@@ -23170,6 +23179,16 @@ npcs {
   dcrush: 36
   drange: 38
   attributes: "spectral"
+}
+npcs {
+  ids: 13664
+  name: "Ranging Ro"
+  hitpoints: 1500
+  att: 10
+  str: 30
+  def: 100
+  mage: 15
+  range: 150
 }
 npcs {
   ids: 8242
