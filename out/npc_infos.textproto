@@ -18106,6 +18106,7 @@ npcs {
   attributes: "Demon"
 }
 npcs {
+  ids: 12363
   name: "Lesser demon"
   version: "Level 94 (mage)"
   hitpoints: 80
@@ -18120,6 +18121,7 @@ npcs {
   attributes: "Demon"
 }
 npcs {
+  ids: 12361
   name: "Lesser demon"
   version: "Level 94 (melee)"
   hitpoints: 80
