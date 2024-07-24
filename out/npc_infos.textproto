@@ -5980,9 +5980,22 @@ npcs {
 npcs {
   ids: 3481
   ids: 3482
+  name: "Count Draynor"
+  hitpoints: 35
+  att: 30
+  str: 25
+  def: 30
+  mage: 1
+  range: 1
+  dstab: 2
+  dslash: 1
+  dcrush: 3
+  attributes: "vampyre1"
+}
+npcs {
   ids: 6393
   name: "Count Draynor"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 35
   att: 30
   str: 25
@@ -5997,7 +6010,7 @@ npcs {
 npcs {
   ids: 6332
   name: "Count Draynor (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 223
   att: 198
   str: 165
