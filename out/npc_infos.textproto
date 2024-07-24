@@ -8852,6 +8852,10 @@ npcs {
   mage: 80
   range: 25
   amagic: 80
+  dstab: 5
+  dslash: 10
+  dcrush: 15
+  dmagic: 50
 }
 npcs {
   ids: 13470
@@ -8864,6 +8868,10 @@ npcs {
   mage: 80
   range: 25
   amagic: 80
+  dstab: 5
+  dslash: 10
+  dcrush: 15
+  dmagic: 50
 }
 npcs {
   ids: 13467
@@ -8876,6 +8884,9 @@ npcs {
   mage: 40
   range: 80
   arange: 80
+  dstab: 5
+  dcrush: 20
+  dmagic: 60
 }
 npcs {
   ids: 13468
@@ -8888,6 +8899,9 @@ npcs {
   mage: 40
   range: 80
   arange: 80
+  dstab: 5
+  dcrush: 20
+  dmagic: 60
 }
 npcs {
   ids: 13465
@@ -8900,6 +8914,10 @@ npcs {
   mage: 40
   range: 25
   attbns: 80
+  dstab: 15
+  dslash: 20
+  dcrush: 10
+  dmagic: -10
 }
 npcs {
   ids: 13466
@@ -8912,6 +8930,10 @@ npcs {
   mage: 40
   range: 25
   attbns: 80
+  dstab: 15
+  dslash: 20
+  dcrush: 10
+  dmagic: -10
 }
 npcs {
   ids: 13531
