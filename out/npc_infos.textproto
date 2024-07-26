@@ -2389,6 +2389,9 @@ npcs {
   def: 275
   mage: 275
   range: 275
+  strbns: 22
+  mbns: 22
+  rngbns: 22
   dstab: 5
   dcrush: -40
   dmagic: -40
@@ -2403,6 +2406,9 @@ npcs {
   def: 275
   mage: 275
   range: 275
+  strbns: 22
+  mbns: 22
+  rngbns: 22
   dstab: 5
   dcrush: -40
   dmagic: -40
@@ -2417,6 +2423,9 @@ npcs {
   def: 275
   mage: 275
   range: 275
+  strbns: 22
+  mbns: 22
+  rngbns: 22
   dstab: 5
   dcrush: -40
   dmagic: -40
