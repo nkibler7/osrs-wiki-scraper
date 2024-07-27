@@ -23235,6 +23235,12 @@ npcs {
   def: 100
   mage: 15
   range: 150
+  amagic: 100
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 200
+  drange: 100
 }
 npcs {
   ids: 8242
