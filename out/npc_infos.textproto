@@ -33041,16 +33041,28 @@ npcs {
   ids: 10393
   name: "Warrior of Murahs"
   version: "Spear"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
 }
 npcs {
   ids: 10394
   name: "Warrior of Murahs"
   version: "Scimitar"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
 }
 npcs {
   ids: 10395
   name: "Warrior of Murahs"
   version: "Mace"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
 }
 npcs {
   ids: 5420
