@@ -33038,6 +33038,21 @@ npcs {
   drange: 38
 }
 npcs {
+  ids: 10393
+  name: "Warrior of Murahs"
+  version: "Spear"
+}
+npcs {
+  ids: 10394
+  name: "Warrior of Murahs"
+  version: "Scimitar"
+}
+npcs {
+  ids: 10395
+  name: "Warrior of Murahs"
+  version: "Mace"
+}
+npcs {
   ids: 5420
   name: "Watchman"
   hitpoints: 22
