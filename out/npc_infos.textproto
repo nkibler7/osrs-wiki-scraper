@@ -26216,6 +26216,74 @@ npcs {
   attributes: "undead"
 }
 npcs {
+  ids: 13476
+  name: "Skeleton"
+  version: "1"
+  hitpoints: 54
+  att: 160
+  str: 180
+  def: 62
+  mage: 1
+  range: 1
+  attbns: 30
+  dstab: 25
+  dslash: 20
+  dcrush: 25
+  dmagic: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 13477
+  name: "Skeleton"
+  version: "2"
+  hitpoints: 54
+  att: 160
+  str: 180
+  def: 62
+  mage: 1
+  range: 1
+  attbns: 30
+  dstab: 25
+  dslash: 20
+  dcrush: 25
+  dmagic: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 13478
+  name: "Skeleton"
+  version: "3"
+  hitpoints: 54
+  att: 160
+  str: 180
+  def: 62
+  mage: 1
+  range: 1
+  attbns: 30
+  dstab: 25
+  dslash: 20
+  dcrush: 25
+  dmagic: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 13479
+  name: "Skeleton"
+  version: "4"
+  hitpoints: 54
+  att: 160
+  str: 180
+  def: 62
+  mage: 1
+  range: 1
+  attbns: 30
+  dstab: 25
+  dslash: 20
+  dcrush: 25
+  dmagic: 10
+  attributes: "undead"
+}
+npcs {
   ids: 6441
   name: "Skeleton"
   hitpoints: 85
