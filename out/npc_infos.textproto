@@ -3208,6 +3208,20 @@ npcs {
   strbns: 14
 }
 npcs {
+  ids: 13658
+  name: "Bee Swarm"
+  hitpoints: 2000
+  att: 400
+  str: 100
+  def: 30
+  mage: 1
+  range: 1
+  attbns: 200
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+}
+npcs {
   ids: 4132
   name: "Berry"
   version: "Awake"
@@ -5297,6 +5311,25 @@ npcs {
   dcrush: 25
   dmagic: 100
   attributes: "demon"
+}
+npcs {
+  ids: 13657
+  name: "Cerberus"
+  hitpoints: 1000
+  att: 220
+  str: 220
+  def: 150
+  mage: 220
+  range: 220
+  attbns: 50
+  amagic: 50
+  arange: 50
+  dstab: 50
+  dslash: 100
+  dcrush: 25
+  dmagic: 100
+  drange: 100
+  attributes: "Demon"
 }
 npcs {
   ids: 11482
@@ -8375,6 +8408,24 @@ npcs {
   mage: 1
   range: 1
   attributes: "rat"
+}
+npcs {
+  ids: 13662
+  name: "Dural321"
+  hitpoints: 1000
+  att: 95
+  str: 98
+  def: 88
+  mage: 94
+  range: 80
+  strbns: 105
+  amagic: 47
+  arange: -12
+  dstab: 148
+  dslash: 134
+  dcrush: 162
+  dmagic: 69
+  drange: 88
 }
 npcs {
   ids: 7851
@@ -18725,6 +18776,12 @@ npcs {
   str: 30
   def: 30
   mage: 175
+  amagic: 100
+  dstab: 25
+  dslash: 25
+  dcrush: 25
+  dmagic: 150
+  drange: 10
 }
 npcs {
   ids: 7396
