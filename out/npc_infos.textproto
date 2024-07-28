@@ -8411,7 +8411,7 @@ npcs {
 }
 npcs {
   ids: 13662
-  name: "Dural321"
+  name: "Durial321"
   hitpoints: 1000
   att: 95
   str: 98
