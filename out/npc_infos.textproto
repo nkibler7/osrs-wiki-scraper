@@ -21708,7 +21708,7 @@ npcs {
 npcs {
   ids: 9453
   name: "Parasite"
-  version: "Level 57"
+  version: "Regular"
   hitpoints: 40
   att: 1
   str: 1
@@ -21728,7 +21728,7 @@ npcs {
 npcs {
   ids: 9452
   name: "Parasite"
-  version: "Level 86"
+  version: "Weakened"
   hitpoints: 80
   att: 1
   str: 1
