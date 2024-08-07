@@ -469,6 +469,7 @@ npcs {
   def: 82
   mage: 100
   range: 100
+  attributes: "demon"
 }
 npcs {
   ids: 6327
@@ -480,6 +481,7 @@ npcs {
   def: 82
   mage: 220
   range: 220
+  attributes: "demon"
 }
 npcs {
   ids: 4880
@@ -20651,6 +20653,7 @@ npcs {
   def: 167
   mage: 160
   range: 160
+  attributes: "demon"
 }
 npcs {
   ids: 6318
@@ -20661,6 +20664,7 @@ npcs {
   def: 167
   mage: 320
   range: 320
+  attributes: "demon"
 }
 npcs {
   ids: 7409
