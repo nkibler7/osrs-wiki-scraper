@@ -21712,7 +21712,7 @@ npcs {
 npcs {
   ids: 9453
   name: "Parasite"
-  version: "Regular"
+  version: "Weakened"
   hitpoints: 40
   att: 1
   str: 1
@@ -21732,7 +21732,7 @@ npcs {
 npcs {
   ids: 9452
   name: "Parasite"
-  version: "Weakened"
+  version: "Regular"
   hitpoints: 80
   att: 1
   str: 1
