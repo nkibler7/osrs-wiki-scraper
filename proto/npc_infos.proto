@@ -13,13 +13,13 @@ message NpcInfos {
 
 // A single NPC defined on the OSRS wiki.
 //
-// Note that NPCs with variants or "versions" may have multiple NpcInfo protos in the processed list. The set of IDs
-// should always be unique, though.
+// Note that NPCs with variants or "versions" may have multiple NpcInfo protos in the processed
+// list. The set of IDs should always be unique, though.
 //
-// These protos are parsed from the "Infobox Monster" templates found on the wiki pages associated with the "Monsters"
-// category. The field names listed here exactly match the key names used in the template. Multi-versioned key/value
-// pairs are identified with numeric suffixes (i.e. "version1") and cause multiple NpcInfos to be generated, one for
-// each unique number suffix.
+// These protos are parsed from the "Infobox Monster" templates found on the wiki pages associated
+// with the "Monsters" category. The field names listed here exactly match the key names used in the
+// template. Multi-versioned key/value pairs are identified with numeric suffixes (i.e. "version1")
+// and cause multiple NpcInfos to be generated, one for each unique number suffix.
 //
 // Next ID: 22
 message NpcInfo {
@@ -29,15 +29,16 @@ message NpcInfo {
   // The name of this NPC.
   string name = 2;
 
-  // The name of the version of this NPC, if one exists. This is set for NPCs that have multiple versions, yet are
-  // represented by the same wiki page. Example values for this field are "Phase 1", "Phase 2", etc. for phased NPCs,
-  // like the Abyssal Sire.
+  // The name of the version of this NPC, if one exists. This is set for NPCs that have multiple
+  // versions, yet are represented by the same wiki page. Example values for this field are
+  // "Phase 1", "Phase 2", etc. for phased NPCs, like the Abyssal Sire.
   string version = 3;
 
-  // The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead", "Spectral", etc.)
+  // The list of comma-separated monster attributes associated with this NPC. (e.g. "Undead",
+  // "Spectral", etc.)
   string attributes = 21;
 
-  // =============================================== Combat Stats Start ===============================================
+  // ===================================== Combat Stats Start =====================================
 
   // The max health of this NPC.
   int32 hitpoints = 4;
@@ -57,9 +58,9 @@ message NpcInfo {
   // The ranged stat of this NPC.
   int32 range = 9;
 
-  // ================================================ Combat Stats End ================================================
+  // ====================================== Combat Stats End ======================================
 
-  // ============================================= Aggressive Stats Start =============================================
+  // =================================== Aggressive Stats Start ===================================
 
   // The bonus attack stat of this NPC.
   int32 attbns = 10;
@@ -79,9 +80,9 @@ message NpcInfo {
   // The bonus ranged damage stat of this NPC.
   int32 rngbns = 15;
 
-  // ============================================== Aggressive Stats End ==============================================
+  // ==================================== Aggressive Stats End ====================================
 
-  // ============================================== Defensive Stats Start ==============================================
+  // ==================================== Defensive Stats Start ====================================
 
   // This NPC's resistance to stab attacks.
   int32 dstab = 16;
@@ -97,4 +98,6 @@ message NpcInfo {
 
   // This NPC's resistance to ranged attacks.
   int32 drange = 20;
+
+  // ===================================== Defensive Stats End =====================================
 }

@@ -1,0 +1,210 @@
+syntax = "proto3";
+
+package github.nkibler7.osrswikiscraper;
+
+import "stat_bonuses.proto";
+
+option java_multiple_files = true;
+option java_package = "com.github.nkibler7.osrswikiscraper";
+
+// A collection of Weapon protos scraped from the OSRS wiki.
+message Weapons {
+  // A map of all weapons scraped from the OSRS wiki, keyed by their item IDs.
+  map<int32, Weapon> weapons = 1;
+}
+
+// A weapon that can be equipped in the player's main hand.
+message Weapon {
+  // The name of this weapon.
+  string name = 1;
+
+  // The item ID of this weapon.
+  int32 id = 2;
+
+  // The base attack speed for this weapon (in ticks). This may be further modified by the selected
+  // CombatOption's modifiers.
+  int32 base_attack_speed = 3;
+
+  // The base attack range for this weapon (in tiles). This may be further modified by the selected
+  // CombatOption's modifiers.
+  int32 base_attack_range = 4;
+
+  // The set of unique stat bonuses applied by this weapon.
+  StatBonuses stat_bonuses = 5;
+
+  // The list of CombatOptions available for this weapon.
+  repeated CombatOption combat_options = 6;
+}
+
+// An option available to the user in the Combat Options interface to select their attack style.
+message CombatOption {
+  // The name associated with this attack option in the Combat Options interface.
+  string name = 1;
+
+  // The set of modifiers applied by a given CombatOption, like accuracy & attack speed modifiers.
+  // These values are primarily used in calculating combat attack & defence rolls.
+  message Modifiers {
+    // The modifier value to add to (or subtract from) the player's effective Attack level.
+    int32 attack_modifier = 1;
+
+    // The modifier value to add to (or subtract from) the player's effective Strength level.
+    int32 strength_modifier = 2;
+
+    // The modifier value to add to (or subtract from) the player's effective Defence level.
+    int32 defence_modifier = 3;
+
+    // The modifier value to add to (or subtract from) the player's effective Ranged level.
+    int32 ranged_modifier = 4;
+
+    // The modifier value to add to (or subtract from) the player's effective Magic level.
+    int32 magic_modifier = 5;
+
+    // The modifier value to add to (or subtract from) the weapon's base attack speed (in ticks).
+    int32 attack_speed_modifier = 6;
+
+    // The modifier value to add to (or subtract from) the weapon's base attack range (in tiles).
+    int32 attack_range_modifier = 7;
+  }
+
+  // The set of modifiers applied by this combat option.
+  Modifiers modifiers = 2;
+
+  oneof combat_type {
+    MeleeCombatOption melee = 3;
+    RangedCombatOption ranged = 4;
+    MagicCombatOption magic = 5;
+  }
+}
+
+// A combat option that represents a melee attack.
+message MeleeCombatOption {
+  // The style of a melee attack option. This primarily influences Modifiers and experience gained
+  // from resulting damage.
+  enum MeleeAttackStyle {
+    // The default (unspecified) value.
+    //
+    // This may be used in a valid case to represent a combat option where there is no attack style
+    // (e.g. Dinh's Bulwark's "block" option).
+    MELEE_ATTACK_STYLE_UNSPECIFIED = 0;
+
+    // When using the accurate melee style, for every point of damage a player deals, they gain 4
+    // experience in Attack and 1.33 experience in Hitpoints. Using the accurate style provides an
+    // invisible +3 boost to your Attack level.
+    MELEE_ATTACK_STYLE_ACCURATE = 1;
+
+    // When using the aggressive melee style, for every point of damage a player deals, they gain 4
+    // experience in Strength and 1.33 experience in Hitpoints. Using the aggressive style provides
+    // an invisible +3 boost to your Strength level.
+    MELEE_ATTACK_STYLE_AGGRESSIVE = 2;
+
+    // When using the defensive melee style, for every point of damage a player deals, they gain 4
+    // experience in Defence and 1.33 experience in Hitpoints. Using the defensive style provides an
+    // invisible +3 boost to your Defence level.
+    MELEE_ATTACK_STYLE_DEFENSIVE = 3;
+
+    // When using the controlled melee style, for every point of damage a player deals, they gain
+    // 1.33 experience each in Attack, Strength, Hitpoints, and Defence. Using the controlled style
+    // provides an invisible +1 boost to your Attack, Strength, and Defence levels.
+    MELEE_ATTACK_STYLE_CONTROLLED = 4;
+  }
+
+  // The style of this melee attack option (e.g. accurate, aggressive, defensive, etc.).
+  MeleeAttackStyle attack_style = 1;
+
+  // The type of a melee attack option. This primarily influences attack & defence roll calculations
+  // when associated with StatBonuses.
+  enum MeleeAttackType {
+    // The default (unspecified) value.
+    //
+    // This may be used in a valid case to represent a combat option where there is no attack type
+    // (e.g. Dinh's Bulwark's "block" option).
+    MELEE_ATTACK_TYPE_UNSPECIFIED = 0;
+
+    // The type that represents stab-based damage. If chosen, a combat option with this type will
+    // use `StatBonuses.stab_attack` in calculating the player's attack roll.
+    MELEE_ATTACK_TYPE_STAB = 1;
+
+    // The type that represents slash-based damage. If chosen, a combat option with this type will
+    // use `StatBonuses.slash_attack` in calculating the player's attack roll.
+    MELEE_ATTACK_TYPE_SLASH = 2;
+
+    // The type that represents crush-based damage. If chosen, a combat option with this type will
+    // use `StatBonuses.crush_attack` in calculating the player's attack roll.
+    MELEE_ATTACK_TYPE_CRUSH = 3;
+  }
+
+  // The type of this melee attack option (e.g. stab, slash, or crush).
+  MeleeAttackType attack_type = 2;
+}
+
+// A combat option that represents a ranged attack.
+message RangedCombatOption {
+  // The style of a ranged attack option. This primarily influences Modifiers, like accuracy and
+  // attack speed.
+  enum RangedAttackStyle {
+    // The default (unspecified) value.
+    RANGED_ATTACK_STYLE_UNSPECIFIED = 0;
+
+    // When using the accurate style, for every point of damage a player deals, they gain 4
+    // experience in Ranged and 1.33 experience in Hitpoints. The accurate style allows a player to
+    // shoot less often than in the rapid style, however they receive a +3 invisible bonus to their
+    // Ranged level, thereby increasing accuracy and damage.
+    RANGED_ATTACK_STYLE_ACCURATE = 1;
+
+    // When using the rapid style, for every point of damage a player deals, they gain 4 experience
+    // in Ranged and 1.33 experience in Hitpoints. The rapid style allows a player to shoot more
+    // often than in the accurate style, but a player is more likely to miss (i.e. dealing 0
+    // damage).
+    RANGED_ATTACK_STYLE_RAPID = 2;
+
+    // When using the longrange style, for every point of damage a player deals, they gain 2
+    // experience in Ranged, 2 experience in Defence, and 1.33 in Hitpoints. Attack range is
+    // increased with this attack style.
+    //
+    // Using the longrange style provides an invisible +3 boost to your Defence level.
+    RANGED_ATTACK_STYLE_LONGRANGE = 3;
+  }
+
+  // The style of this ranged attack option (e.g. accurate, rapid, or longrange).
+  RangedAttackStyle attack_style = 1;
+}
+
+message MagicCombatOption {
+  // The style of a magic attack option. This primarily influences Modifiers and experience gained
+  // from resulting damage.
+  enum MagicAttackStyle {
+    // The default (unspecified) value.
+    MAGIC_ATTACK_STYLE_UNSPECIFIED = 0;
+
+    // If a player chooses the standard style for autocasting, they perform a normal magical attack
+    // and for each point of damage the spell deals, they gain 2 experience in Magic and 1.33
+    // experience in Hitpoints, in addition to the Magic experience from casting the spell.
+    MAGIC_ATTACK_STYLE_AUTOCAST = 1;
+
+    // If a player chooses the defensive style for autocasting, they perform a normal magical attack
+    // and for each point of damage the spell deals, they gain 1.33 experience in Magic, 1
+    // experience in Defence, and 1.33 experience in Hitpoints. The experience from casting the
+    // spell is still given entirely to Magic.
+    MAGIC_ATTACK_STYLE_DEFENSIVE_AUTOCAST = 2;
+
+    // The accurate style allows a player to receive a +3 invisible bonus to their Magic level.
+    //
+    // This applies to powered staves only.
+    MAGIC_ATTACK_STYLE_ACCURATE = 3;
+
+    // The longrange style allows a player to receive a +1 invisible bonus to their Magic level and
+    // a +3 invisible bonus to their Defence level. Attack range is increased with this attack
+    // style.
+    //
+    // This applies to powered staves only.
+    MAGIC_ATTACK_STYLE_LONGRANGE = 4;
+
+    // The defensive style allows a player to receive a +3 invisible bonus to their Defence level.
+    //
+    // This applies to salamanders only.
+    MAGIC_ATTACK_STYLE_DEFENSIVE = 5;
+  }
+
+  // The style of this magic attack option (e.g. autocast, defensive autocast, etc.).
+  MagicAttackStyle attack_style = 1;
+}
