@@ -27,8 +27,8 @@ def write_proto(message: Message, filename: str):
     text_filename = filename + '.textproto'
     with open(text_filename, "w") as f:
         # These comments point to the proto to use as a schema for IDEs.
-        f.write("# proto-file: proto/npc_infos.proto\n")
-        f.write("# proto-message: NpcInfos\n\n")
+        f.write("# proto-file: proto/" + message.DESCRIPTOR.file.name + "\n")
+        f.write("# proto-message: " + message.DESCRIPTOR.name + "\n\n")
         PrintMessage(message, f)
 
 
@@ -90,20 +90,13 @@ def parse_bonuses(item: Dict[str, Any], bonuses: List[Dict[str, Any]]) -> weapon
     if bonus_params.get('speed') != 'N/A':
         weapon.base_attack_speed = int(bonus_params.get('speed'))
 
-    if bonus_params.get('attackrange') == 'staff':
+    range = bonus_params.get('attackrange')
+    if range == 'staff':
         weapon.base_attack_range = 1
-    else:
-        weapon.base_attack_range = int(bonus_params.get('attackrange'))
+    elif range is not None:
+        weapon.base_attack_range = int(range)
 
     return weapon
-
-
-def is_discontinued(page: Page) -> bool:
-    for cat in page.categories():
-        if cat.title() == 'Category:Discontinued content':
-            return True
-    else:
-        return False
 
 
 def is_valid(value: Any) -> bool:

@@ -7,7 +7,7 @@ import string
 import sys
 import util
 
-from google.protobuf.json_format import ParseDict, ParseError, MessageToJson
+from google.protobuf.json_format import ParseDict, ParseError
 from pywikibot import family, pagegenerators
 from warnings import warn
 from constants import WEAPON_TYPES
@@ -71,9 +71,6 @@ def parse_and_write_weapon_combat_styles(output_dir: str):
     category = pywikibot.Category(site, 'Category:Weapon slot items')
     gen = pagegenerators.PreloadingGenerator(category.articles())
     for page in gen:
-        if util.is_discontinued(page):
-            continue
-
         code = mwparserfromhell.parse(page.get(), skip_style_tags=True)
         combat_styles_box = code.filter_templates(matches=lambda t: t.name.matches('CombatStyles'))
         if len(combat_styles_box) != 1:
@@ -84,7 +81,12 @@ def parse_and_write_weapon_combat_styles(output_dir: str):
         style_category = combat_styles_box[0]
         # Capitalize words to roughly match the behavior in the Lua script backing the CombatStyles module. Note that we
         # don't use title() because it ignores non-alphabetic characters (e.g. "2h" becomes "2H").
-        combat_options = WEAPON_TYPES[string.capwords(str(style_category.params[0].value))]
+        weapon_type_key = string.capwords(str(style_category.params[0].value))
+        combat_options = WEAPON_TYPES.get(weapon_type_key)
+        if combat_options is None:
+            warn('Skipping weapon page (title: "{}") since we\'re missing its weapon type: {}'.format(
+                page.title(), weapon_type_key))
+            continue
 
         items = util.get_infobox_versions(code, 'Infobox Item')
         bonuses = util.get_infobox_versions(code, 'Infobox Bonuses')
@@ -113,7 +115,6 @@ def parse_and_write_weapon_combat_styles(output_dir: str):
             for id_str in ids_str.split(','):
                 weapon.id = int(id_str)
                 weapons.weapons[weapon.id].CopyFrom(weapon)
-                print(MessageToJson(weapon))
 
     output_filename = os.path.join(output_dir, 'weapons')
     util.write_proto(weapons, output_filename)
