@@ -1,5 +1,5 @@
-# proto-file: proto/npc_infos.proto
-# proto-message: NpcInfos
+# proto-file: proto/weapons.proto
+# proto-message: Weapons
 
 weapons {
   key: 35
@@ -92,6 +92,500 @@ weapons {
     }
     combat_options {
       name: "Slash"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 468
+  value {
+    name: "Broken pickaxe"
+    id: 468
+    base_attack_speed: 5
+    base_attack_range: 1
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Pound"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Pummel"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 470
+  value {
+    name: "Broken pickaxe"
+    id: 470
+    base_attack_speed: 5
+    base_attack_range: 1
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Pound"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Pummel"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 472
+  value {
+    name: "Broken pickaxe"
+    id: 472
+    base_attack_speed: 5
+    base_attack_range: 1
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Pound"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Pummel"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 474
+  value {
+    name: "Broken pickaxe"
+    id: 474
+    base_attack_speed: 5
+    base_attack_range: 1
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Pound"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Pummel"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 476
+  value {
+    name: "Broken pickaxe"
+    id: 476
+    base_attack_speed: 5
+    base_attack_range: 1
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Pound"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Pummel"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 478
+  value {
+    name: "Broken pickaxe"
+    id: 478
+    base_attack_speed: 5
+    base_attack_range: 1
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Pound"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Pummel"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 494
+  value {
+    name: "Broken axe"
+    id: 494
+    base_attack_speed: 5
+    base_attack_range: 1
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Pound"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Pummel"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 496
+  value {
+    name: "Broken axe"
+    id: 496
+    base_attack_speed: 5
+    base_attack_range: 1
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Pound"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Pummel"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 498
+  value {
+    name: "Broken axe"
+    id: 498
+    base_attack_speed: 5
+    base_attack_range: 1
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Pound"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Pummel"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 500
+  value {
+    name: "Broken axe"
+    id: 500
+    base_attack_speed: 5
+    base_attack_range: 1
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Pound"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Pummel"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 502
+  value {
+    name: "Broken axe"
+    id: 502
+    base_attack_speed: 5
+    base_attack_range: 1
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Pound"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Pummel"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 504
+  value {
+    name: "Broken axe"
+    id: 504
+    base_attack_speed: 5
+    base_attack_range: 1
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Pound"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Pummel"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 506
+  value {
+    name: "Broken axe"
+    id: 506
+    base_attack_speed: 5
+    base_attack_range: 1
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Pound"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Pummel"
       modifiers {
         strength_modifier: 3
       }
@@ -13191,6 +13685,44 @@ weapons {
   }
 }
 weapons {
+  key: 6741
+  value {
+    name: "Broken axe"
+    id: 6741
+    base_attack_speed: 5
+    base_attack_range: 1
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Pound"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Pummel"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
   key: 6745
   value {
     name: "Silverlight"
@@ -17124,6 +17656,258 @@ weapons {
     }
     combat_options {
       name: "Slash"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 9906
+  value {
+    name: "Ghost buster 500"
+    id: 9906
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Punch"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Kick"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 9907
+  value {
+    name: "Ghost buster 500"
+    id: 9907
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Punch"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Kick"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 9908
+  value {
+    name: "Ghost buster 500"
+    id: 9908
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Punch"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Kick"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 9909
+  value {
+    name: "Ghost buster 500"
+    id: 9909
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Punch"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Kick"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 9910
+  value {
+    name: "Ghost buster 500"
+    id: 9910
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Punch"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Kick"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 9911
+  value {
+    name: "Ghost buster 500"
+    id: 9911
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Punch"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Kick"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 9912
+  value {
+    name: "Ghost buster 500"
+    id: 9912
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Punch"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Kick"
       modifiers {
         strength_modifier: 3
       }
@@ -21124,6 +21908,44 @@ weapons {
   }
 }
 weapons {
+  key: 11923
+  value {
+    name: "Broken pickaxe"
+    id: 11923
+    base_attack_speed: 5
+    base_attack_range: 1
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Pound"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Pummel"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
   key: 11959
   value {
     name: "Black chinchompa"
@@ -21971,6 +22793,44 @@ weapons {
     }
     combat_options {
       name: "Pound"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 12594
+  value {
+    name: "Broken pickaxe"
+    id: 12594
+    base_attack_speed: 5
+    base_attack_range: 1
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Pound"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Pummel"
       modifiers {
         strength_modifier: 3
       }
@@ -25677,6 +26537,48 @@ weapons {
       ranged_attack: -1
       magic_attack: -3
       melee_strength: 56
+    }
+    combat_options {
+      name: "Pound"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Pummel"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 21865
+  value {
+    name: "Fine mesh net"
+    id: 21865
+    base_attack_speed: 4
+    base_attack_range: 1
+    stat_bonuses {
+      stab_attack: -100
+      slash_attack: -100
+      crush_attack: -50
+      melee_strength: -10
     }
     combat_options {
       name: "Pound"
@@ -31525,6 +32427,152 @@ weapons {
   }
 }
 weapons {
+  key: 25110
+  value {
+    name: "Trailblazer axe"
+    id: 25110
+    base_attack_speed: 5
+    base_attack_range: 1
+    stat_bonuses {
+      stab_attack: -2
+      slash_attack: 38
+      crush_attack: 32
+      slash_defence: 1
+      melee_strength: 42
+    }
+    combat_options {
+      name: "Chop"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Hack"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Smash"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 25112
+  value {
+    name: "Trailblazer pickaxe"
+    id: 25112
+    base_attack_speed: 5
+    base_attack_range: 1
+    stat_bonuses {
+      stab_attack: 38
+      slash_attack: -2
+      crush_attack: 32
+      slash_defence: 1
+      melee_strength: 42
+    }
+    combat_options {
+      name: "Spike"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Impale"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Smash"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 25114
+  value {
+    name: "Trailblazer harpoon"
+    id: 25114
+    base_attack_speed: 5
+    base_attack_range: 1
+    stat_bonuses {
+      stab_attack: 38
+      slash_attack: 32
+      slash_defence: 1
+      melee_strength: 42
+    }
+    combat_options {
+      name: "Punch"
+      modifiers {
+        attack_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Kick"
+      modifiers {
+        strength_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+      }
+    }
+    combat_options {
+      name: "Block"
+      modifiers {
+        defence_modifier: 3
+      }
+      melee {
+        attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
   key: 25367
   value {
     name: "Infernal harpoon (uncharged)"
@@ -36886,6 +37934,44 @@ weapons {
       }
       melee {
         attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+      }
+    }
+  }
+}
+weapons {
+  key: 28773
+  value {
+    name: "Sage\'s axe"
+    id: 28773
+    base_attack_speed: 3
+    base_attack_range: 5
+    stat_bonuses {
+    }
+    combat_options {
+      name: "Accurate"
+      modifiers {
+        ranged_modifier: 3
+      }
+      ranged {
+        attack_style: RANGED_ATTACK_STYLE_ACCURATE
+      }
+    }
+    combat_options {
+      name: "Rapid"
+      modifiers {
+        attack_speed_modifier: -1
+      }
+      ranged {
+        attack_style: RANGED_ATTACK_STYLE_RAPID
+      }
+    }
+    combat_options {
+      name: "Longrange"
+      modifiers {
+        defence_modifier: 3
+      }
+      ranged {
+        attack_style: RANGED_ATTACK_STYLE_LONGRANGE
       }
     }
   }
