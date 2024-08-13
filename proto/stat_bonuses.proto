@@ -1,0 +1,67 @@
+syntax = "proto3";
+
+package github.nkibler7.osrswikiscraper;
+
+option java_multiple_files = true;
+option java_package = "com.github.nkibler7.osrswikiscraper";
+
+// A set of unique stat bonuses applied by equipment. These values are used in damage calculations
+// between players & monsters.
+message StatBonuses {
+  // The accuracy bonus applied to melee attack calculations if a stab-based attack option is
+  // chosen.
+  int32 stab_attack = 1;
+
+  // The accuracy bonus applied to melee attack calculations if a slash-based attack option is
+  // chosen.
+  int32 slash_attack = 2;
+
+  // The accuracy bonus applied to melee attack calculations if a crush-based attack option is
+  // chosen.
+  int32 crush_attack = 3;
+
+  // The accuracy bonus applied to ranged attack calculations.
+  int32 ranged_attack = 4;
+
+  // The accuracy bonus applied to magic attack calculations.
+  int32 magic_attack = 5;
+
+  // The defensive bonus applied to melee defence calculations if a stab-based attack option is
+  // used by the attacker.
+  int32 stab_defence = 6;
+
+  // The defensive bonus applied to melee defence calculations if a slash-based attack option is
+  // used by the attacker.
+  int32 slash_defence = 7;
+
+  // The defensive bonus applied to melee defence calculations if a crush-based attack option is
+  // used by the attacker.
+  int32 crush_defence = 8;
+
+  // The defensive bonus applied to magic defence calculations if a ranged attack is used by the
+  // attacker.
+  int32 ranged_defence = 9;
+
+  // The defensive bonus applied to magic defence calculations if a magic attack is used by the
+  // attacker.
+  int32 magic_defence = 10;
+
+  // The strength bonus used to determine the player's maximum melee damage.
+  int32 melee_strength = 11;
+
+  // The strength bonus used to determine the player's maximum ranged damage.
+  int32 ranged_strength = 12;
+
+  // The strength bonus used to determine the player's maximum magic damage.
+  //
+  // Unlike the other additive strength bonuses, this is a damage multiplier. A value of 0.20
+  // corresponds to an additional 20% magic damage (applied according to standard calculations).
+  double magic_damage = 13;
+
+  // The prayer bonus lowers the drain rate of prayers. The drain rate of a prayer is the amount of
+  // time a prayer takes to drain 1 prayer point. A prayer bonus of +15 will make all prayers last
+  // 50% longer. Comparatively a bonus of +30 will double the length any prayer can be used. Each
+  // additional +1 prayer bonus provides a corresponding +3.333% increase in the duration of
+  // activated prayers.
+  int32 prayer = 14;
+}

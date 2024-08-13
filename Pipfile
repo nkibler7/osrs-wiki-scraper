@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 mwparserfromhell = "*"
-protobuf = "~=3.14.0"
+protobuf = "~=5.27.3"
 pywikibot = "*"
 
 [dev-packages]
