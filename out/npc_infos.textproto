@@ -31859,7 +31859,7 @@ npcs {
   ids: 4438
   ids: 4439
   name: "Vampyre Juvenile"
-  version: "Burgh de Rott"
+  version: "Burgh de Rott/Crombwick Manor"
   hitpoints: 60
   att: 40
   str: 30
