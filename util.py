@@ -20,7 +20,7 @@ def write_proto(message: Message, filename: str):
             if exc.errno != errno.EEXIST:
                 raise
 
-    binary_filename = filename + '.binarypb'
+    binary_filename = filename + '.bin'
     with open(binary_filename, "wb") as f:
         f.write(message.SerializeToString())
 

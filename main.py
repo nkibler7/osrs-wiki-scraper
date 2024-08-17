@@ -61,7 +61,7 @@ def parse_and_write_npcinfos(output_dir: str):
 
     output_filename = os.path.join(output_dir, 'npc_infos')
     util.write_proto(npc_infos, output_filename)
-    print('{0} NpcInfos written to: {1}.binarypb and {1}.textproto'.format(len(npc_infos.npcs), output_filename))
+    print('{0} NpcInfos written to: {1}.bin and {1}.textproto'.format(len(npc_infos.npcs), output_filename))
 
 
 def parse_and_write_weapon_combat_styles(output_dir: str):
@@ -118,7 +118,7 @@ def parse_and_write_weapon_combat_styles(output_dir: str):
 
     output_filename = os.path.join(output_dir, 'weapons')
     util.write_proto(weapons, output_filename)
-    print('{0} Weapons written to: {1}.binarypb and {1}.textproto'.format(len(weapons.weapons), output_filename))
+    print('{0} Weapons written to: {1}.bin and {1}.textproto'.format(len(weapons.weapons), output_filename))
 
 
 def main():
