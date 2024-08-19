@@ -1,16 +1,14 @@
 import mwparserfromhell
 import os
+import proto.gen.equipment_pb2 as equipment_pb2
 import proto.gen.npc_infos_pb2 as npc_infos_pb2
-import proto.gen.weapons_pb2 as weapons_pb2
 import pywikibot
-import string
 import sys
 import util
 
 from google.protobuf.json_format import ParseDict, ParseError
 from pywikibot import family, pagegenerators
 from warnings import warn
-from constants import WEAPON_TYPES
 
 
 class OSRSFamily(family.Family):
@@ -64,32 +62,17 @@ def parse_and_write_npcinfos(output_dir: str):
     print('{0} NpcInfos written to: {1}.bin and {1}.textproto'.format(len(npc_infos.npcs), output_filename))
 
 
-def parse_and_write_weapon_combat_styles(output_dir: str):
-    weapons = weapons_pb2.Weapons()
+def parse_and_write_equipment(output_dir: str):
+    equipment = equipment_pb2.Equipment()
 
     site = pywikibot.Site(fam=OSRSFamily(), code='en')
-    category = pywikibot.Category(site, 'Category:Weapon slot items')
+    category = pywikibot.Category(site, 'Category:Equipable items')
     gen = pagegenerators.PreloadingGenerator(category.articles())
     for page in gen:
         code = mwparserfromhell.parse(page.get(), skip_style_tags=True)
-        combat_styles_box = code.filter_templates(matches=lambda t: t.name.matches('CombatStyles'))
-        if len(combat_styles_box) != 1:
-            warn('Skipping weapon page (title: "{}") since it did not have exactly 1 CombatStyles box'.format(
-                page.title()))
-            continue
-
-        style_category = combat_styles_box[0]
-        # Capitalize words to roughly match the behavior in the Lua script backing the CombatStyles module. Note that we
-        # don't use title() because it ignores non-alphabetic characters (e.g. "2h" becomes "2H").
-        weapon_type_key = string.capwords(str(style_category.params[0].value))
-        combat_options = WEAPON_TYPES.get(weapon_type_key)
-        if combat_options is None:
-            warn('Skipping weapon page (title: "{}") since we\'re missing its weapon type: {}'.format(
-                page.title(), weapon_type_key))
-            continue
-
         items = util.get_infobox_versions(code, 'Infobox Item')
         bonuses = util.get_infobox_versions(code, 'Infobox Bonuses')
+        combat_options = util.get_combat_options(code)
 
         for i, item in enumerate(items):
             if 'id' not in item:
@@ -101,30 +84,36 @@ def parse_and_write_weapon_combat_styles(output_dir: str):
             if not ids_str or ids_str.startswith('beta') or ids_str.startswith('hist'):
                 continue
 
-            weapon = weapons_pb2.Weapon()
-            weapon.name = item.get('name')
-            weapon.MergeFrom(util.parse_bonuses(item, bonuses))
+            # Skips un-equippable items (and versions of items).
+            if item.get('equipable') != 'Yes':
+                continue
 
-            try:
-                weapon.combat_options.extend([ParseDict(o, weapons_pb2.CombatOption()) for o in combat_options])
-            except ParseError as err:
-                warn('Failed to parse JSON into CombatOption proto. Error: {}'.format(err))
+            equippable_item = equipment_pb2.EquippableItem()
+            equippable_item.name = item.get('name')
+            equippable_item.MergeFrom(util.parse_item(item, bonuses))
 
-            # Some versions of a weapon may have multiple IDs, like the Pharaoh's sceptre. To maintain a single map from
-            # ID to Weapon in the Weapons proto, this duplicates the built Weapon proto for each ID in this list.
+            if combat_options:
+                try:
+                    equippable_item.weapon_details.combat_options.extend(
+                        [ParseDict(o, equipment_pb2.CombatOption()) for o in combat_options])
+                except ParseError as err:
+                    warn('Failed to parse JSON into CombatOption proto. Error: {}'.format(err))
+
+            # Some versions of an item may have multiple IDs. To maintain a single map from ID to EquippableItem in the
+            # Equipment proto, this duplicates the built EquippableItem proto for each ID in this list.
             for id_str in ids_str.split(','):
-                weapon.id = int(id_str)
-                weapons.weapons[weapon.id].CopyFrom(weapon)
+                equippable_item.id = int(id_str)
+                equipment.items[equippable_item.id].CopyFrom(equippable_item)
 
-    output_filename = os.path.join(output_dir, 'weapons')
-    util.write_proto(weapons, output_filename)
-    print('{0} Weapons written to: {1}.bin and {1}.textproto'.format(len(weapons.weapons), output_filename))
+    output_filename = os.path.join(output_dir, 'equipment')
+    util.write_proto(equipment, output_filename)
+    print('{0} Equipment written to: {1}.bin and {1}.textproto'.format(len(equipment.items), output_filename))
 
 
 def main():
     output_dir = 'out' if len(sys.argv) == 1 else sys.argv[1]
     parse_and_write_npcinfos(output_dir)
-    parse_and_write_weapon_combat_styles(output_dir)
+    parse_and_write_equipment(output_dir)
 
 
 if __name__ == "__main__":

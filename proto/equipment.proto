@@ -7,33 +7,68 @@ import "stat_bonuses.proto";
 option java_multiple_files = true;
 option java_package = "com.github.nkibler7.osrswikiscraper";
 
-// A collection of Weapon protos scraped from the OSRS wiki.
-message Weapons {
-  // A map of all weapons scraped from the OSRS wiki, keyed by their item IDs.
-  map<int32, Weapon> weapons = 1;
+// A collection of items that can be equipped by a player, scraped from the OSRS wiki.
+message Equipment {
+  // A map of all equippable items scraped from the OSRS wiki, keyed by their item IDs.
+  //
+  // Items with multiple versions have separate entries for each version in this map, assuming that each item version
+  // has its own unique ID.
+  map<int32, EquippableItem> items = 1;
 }
 
-// A weapon that can be equipped in the player's main hand.
-message Weapon {
-  // The name of this weapon.
-  string name = 1;
+// An item that can be equipped by a player.
+message EquippableItem {
+  // The unique ID for this item.
+  int32 id = 1;
 
-  // The item ID of this weapon.
-  int32 id = 2;
+  // The name of this item.
+  string name = 2;
+
+  // The set of unique stat bonuses applied by this item when worn.
+  StatBonuses stat_bonuses = 3;
+
+  // A slot that can hold an equippable item in the player's equipment interface.
+  enum Slot {
+    SLOT_UNSPECIFIED = 0;
+    SLOT_HEAD = 1;
+    SLOT_CAPE = 2;
+    SLOT_NECK = 3;
+    SLOT_WEAPON = 4;
+    SLOT_BODY = 5;
+    SLOT_SHIELD = 6;
+    SLOT_LEGS = 7;
+    SLOT_HANDS = 8;
+    SLOT_FEET = 9;
+    SLOT_RING = 10;
+    SLOT_AMMO = 11;
+  }
+
+  // The slot that this item occupies in the player's equipment interface.
+  //
+  // Only one item can occupy a given slot at a time, and some weapons may occupy both the weapon & shield slots
+  // (indicated by the `WeaponDetails.is_two_handed` field).
+  Slot slot = 4;
+
+  // Details specific to a weapon. This field is only set if the `slot` is `SLOT_WEAPON`.
+  WeaponDetails weapon_details = 5;
+}
+
+// Details specific to a weapon that can be equipped in the player's weapon slot.
+message WeaponDetails {
+
+  // True if this weapon occupies both the weapon & shield slots of the player's equipment.
+  bool is_two_handed = 1;
 
   // The base attack speed for this weapon (in ticks). This may be further modified by the selected
   // CombatOption's modifiers.
-  int32 base_attack_speed = 3;
+  int32 base_attack_speed = 2;
 
   // The base attack range for this weapon (in tiles). This may be further modified by the selected
   // CombatOption's modifiers.
-  int32 base_attack_range = 4;
-
-  // The set of unique stat bonuses applied by this weapon.
-  StatBonuses stat_bonuses = 5;
+  int32 base_attack_range = 3;
 
   // The list of CombatOptions available for this weapon.
-  repeated CombatOption combat_options = 6;
+  repeated CombatOption combat_options = 4;
 }
 
 // An option available to the user in the Combat Options interface to select their attack style.
