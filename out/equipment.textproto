@@ -53267,7 +53267,7 @@ items {
   key: 12361
   value {
     id: 12361
-    name: "Cat h"
+    name: "Cat mask"
     stat_bonuses {
     }
   }
@@ -103039,7 +103039,7 @@ items {
   key: 29775
   value {
     id: 29775
-    name: "Imcando hammer (offhand)"
+    name: "Imcando hammer (off-hand)"
     stat_bonuses {
     }
   }
