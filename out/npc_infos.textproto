@@ -18547,7 +18547,7 @@ npcs {
   att: 45
   str: 30
   def: 26
-  attributes: "undead,spectral"
+  attributes: "shade,undead,spectral"
 }
 npcs {
   ids: 1276
@@ -18557,7 +18557,7 @@ npcs {
   att: 45
   str: 30
   def: 26
-  attributes: "shade,undead,spectral"
+  attributes: "undead,spectral"
 }
 npcs {
   ids: 7796
