@@ -360,6 +360,18 @@ npcs {
 npcs {
   ids: 13675
   name: "Acidic Araxyte"
+  att: 150
+  str: 120
+  def: 50
+  mage: 1
+  range: 60
+  attbns: 180
+  strbns: 12
+  rngbns: 450
+  dstab: 25
+  dslash: 25
+  dcrush: 25
+  dmagic: -10
 }
 npcs {
   ids: 9573
@@ -8138,6 +8150,11 @@ npcs {
 npcs {
   ids: 13680
   name: "Dreadborn Araxyte"
+  hitpoints: 350
+  att: 260
+  str: 260
+  def: 100
+  mage: 100
 }
 npcs {
   ids: 3258
@@ -19516,6 +19533,18 @@ npcs {
 npcs {
   ids: 13671
   name: "Mirrorback Araxyte"
+  att: 150
+  str: 120
+  def: 50
+  mage: 1
+  range: 60
+  attbns: 180
+  strbns: 12
+  rngbns: 450
+  dstab: 25
+  dslash: 25
+  dcrush: 25
+  dmagic: -10
 }
 npcs {
   ids: 2919
@@ -24570,6 +24599,19 @@ npcs {
 npcs {
   ids: 13673
   name: "Ruptura Araxyte"
+  hitpoints: 58
+  att: 150
+  str: 120
+  def: 50
+  mage: 1
+  range: 60
+  attbns: 180
+  strbns: 12
+  rngbns: 450
+  dstab: 25
+  dslash: 25
+  dcrush: 25
+  dmagic: -10
 }
 npcs {
   ids: 3281
