@@ -103142,6 +103142,7 @@ items {
       ranged_attack: 6
       magic_attack: 5
       melee_strength: 4
+      prayer: 1
     }
   }
 }
