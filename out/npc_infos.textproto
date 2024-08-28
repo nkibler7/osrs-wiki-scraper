@@ -360,6 +360,7 @@ npcs {
 npcs {
   ids: 13675
   name: "Acidic Araxyte"
+  hitpoints: 60
   att: 150
   str: 120
   def: 50
@@ -19533,6 +19534,7 @@ npcs {
 npcs {
   ids: 13671
   name: "Mirrorback Araxyte"
+  hitpoints: 60
   att: 150
   str: 120
   def: 50
@@ -24599,7 +24601,7 @@ npcs {
 npcs {
   ids: 13673
   name: "Ruptura Araxyte"
-  hitpoints: 58
+  hitpoints: 60
   att: 150
   str: 120
   def: 50
