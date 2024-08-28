@@ -358,6 +358,10 @@ npcs {
   drange: 75
 }
 npcs {
+  ids: 13675
+  name: "Acidic Araxyte"
+}
+npcs {
   ids: 9573
   name: "Acidic Bloodveld"
   hitpoints: 5
@@ -1300,6 +1304,10 @@ npcs {
   dcrush: 15
   dmagic: 70
   drange: 70
+}
+npcs {
+  ids: 13668
+  name: "Araxxor"
 }
 npcs {
   ids: 11726
@@ -8110,6 +8118,10 @@ npcs {
   dcrush: 60
   dmagic: 20
   attributes: "dragon"
+}
+npcs {
+  ids: 13680
+  name: "Dreadborn Araxyte"
 }
 npcs {
   ids: 3258
@@ -19486,6 +19498,10 @@ npcs {
   drange: -10
 }
 npcs {
+  ids: 13671
+  name: "Mirrorback Araxyte"
+}
+npcs {
   ids: 2919
   ids: 8088
   ids: 8089
@@ -24536,6 +24552,10 @@ npcs {
   attributes: "Golem"
 }
 npcs {
+  ids: 13673
+  name: "Ruptura Araxyte"
+}
+npcs {
   ids: 3281
   name: "Rusty"
   hitpoints: 7
@@ -28049,7 +28069,8 @@ npcs {
 }
 npcs {
   ids: 11175
-  name: "Spider"
+  ids: 13666
+  name: "Araxyte"
   version: "Level 87"
   hitpoints: 80
   att: 80
@@ -28065,7 +28086,8 @@ npcs {
 }
 npcs {
   ids: 11176
-  name: "Spider"
+  ids: 13667
+  name: "Araxyte"
   version: "Level 123"
   hitpoints: 100
   att: 120

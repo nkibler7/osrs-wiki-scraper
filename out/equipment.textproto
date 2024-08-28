@@ -103056,3 +103056,156 @@ items {
     }
   }
 }
+items {
+  key: 29796
+  value {
+    id: 29796
+    name: "Noxious halberd"
+    stat_bonuses {
+      stab_attack: 80
+      slash_attack: 132
+      melee_strength: 142
+    }
+    weapon_details {
+      base_attack_speed: 5
+      base_attack_range: 2
+      combat_options {
+        name: "Jab"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
+        }
+      }
+      combat_options {
+        name: "Swipe"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Fend"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 29801
+  value {
+    id: 29801
+    name: "Amulet of rancour"
+    stat_bonuses {
+      stab_attack: 25
+      slash_attack: 25
+      crush_attack: 25
+      ranged_attack: -8
+      magic_attack: -6
+      melee_strength: 12
+      prayer: 2
+    }
+  }
+}
+items {
+  key: 29804
+  value {
+    id: 29804
+    name: "Amulet of rancour (s)"
+    stat_bonuses {
+      stab_attack: 25
+      slash_attack: 25
+      crush_attack: 25
+      ranged_attack: -8
+      magic_attack: -6
+      melee_strength: 12
+      prayer: 2
+    }
+  }
+}
+items {
+  key: 29806
+  value {
+    id: 29806
+    name: "Aranea boots"
+    stat_bonuses {
+      ranged_attack: 6
+      magic_attack: 5
+      melee_strength: 4
+    }
+  }
+}
+items {
+  key: 29816
+  value {
+    id: 29816
+    name: "Araxyte slayer helmet"
+    stat_bonuses {
+      ranged_attack: -2
+      magic_attack: -6
+      stab_defence: 30
+      slash_defence: 32
+      crush_defence: 27
+      ranged_defence: 30
+      magic_defence: -1
+    }
+  }
+}
+items {
+  key: 29818
+  value {
+    id: 29818
+    name: "Araxyte slayer helmet (i)"
+    stat_bonuses {
+      ranged_attack: 3
+      magic_attack: 3
+      stab_defence: 30
+      slash_defence: 32
+      crush_defence: 27
+      ranged_defence: 30
+      magic_defence: 10
+    }
+  }
+}
+items {
+  key: 29820
+  value {
+    id: 29820
+    name: "Araxyte slayer helmet (i)"
+    stat_bonuses {
+      ranged_attack: 3
+      magic_attack: 3
+      stab_defence: 30
+      slash_defence: 32
+      crush_defence: 27
+      ranged_defence: 30
+      magic_defence: 10
+    }
+  }
+}
+items {
+  key: 29822
+  value {
+    id: 29822
+    name: "Araxyte slayer helmet (i)"
+    stat_bonuses {
+      ranged_attack: 3
+      magic_attack: 3
+      stab_defence: 30
+      slash_defence: 32
+      crush_defence: 27
+      ranged_defence: 30
+      magic_defence: 10
+    }
+  }
+}
