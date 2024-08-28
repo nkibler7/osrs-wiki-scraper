@@ -360,7 +360,7 @@ npcs {
 npcs {
   ids: 13675
   name: "Acidic Araxyte"
-  hitpoints: 60
+  hitpoints: 58
   att: 150
   str: 120
   def: 50
@@ -1325,26 +1325,6 @@ npcs {
   att: 320
   str: 320
   def: 135
-  mage: 190
-  range: 210
-  attbns: 218
-  strbns: 10
-  amagic: 260
-  mbns: 5
-  arange: 283
-  rngbns: 35
-  dstab: 160
-  dslash: 75
-  dcrush: 15
-  dmagic: 237
-}
-npcs {
-  ids: 13668
-  name: "Araxxor"
-  hitpoints: 1020
-  att: 320
-  str: 320
-  def: 170
   mage: 190
   range: 210
   attbns: 218
