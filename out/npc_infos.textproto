@@ -1308,6 +1308,22 @@ npcs {
 npcs {
   ids: 13668
   name: "Araxxor"
+  hitpoints: 1020
+  att: 320
+  str: 320
+  def: 135
+  mage: 190
+  range: 210
+  attbns: 218
+  strbns: 10
+  amagic: 260
+  mbns: 5
+  arange: 283
+  rngbns: 35
+  dstab: 160
+  dslash: 75
+  dcrush: 15
+  dmagic: 237
 }
 npcs {
   ids: 11726
@@ -28071,35 +28087,35 @@ npcs {
   ids: 11175
   ids: 13666
   name: "Araxyte"
-  version: "Level 87"
-  hitpoints: 80
+  version: "Level 96"
+  hitpoints: 60
   att: 80
-  str: 80
+  str: 125
   def: 60
   mage: 60
   range: 1
   dstab: 60
-  dslash: 60
+  dslash: 30
   dcrush: 20
   dmagic: 20
-  drange: 180
+  drange: 20
 }
 npcs {
   ids: 11176
   ids: 13667
   name: "Araxyte"
-  version: "Level 123"
+  version: "Level 146"
   hitpoints: 100
   att: 120
-  str: 120
-  def: 80
+  str: 160
+  def: 70
   mage: 80
   range: 1
   dstab: 60
-  dslash: 60
+  dslash: 30
   dcrush: 20
   dmagic: 20
-  drange: 180
+  drange: 20
 }
 npcs {
   ids: 8137
