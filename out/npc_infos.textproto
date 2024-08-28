@@ -1339,6 +1339,60 @@ npcs {
   dmagic: 237
 }
 npcs {
+  ids: 13668
+  name: "Araxxor"
+  hitpoints: 1020
+  att: 320
+  str: 320
+  def: 170
+  mage: 190
+  range: 210
+  attbns: 218
+  strbns: 10
+  amagic: 260
+  mbns: 5
+  arange: 283
+  rngbns: 35
+  dstab: 160
+  dslash: 75
+  dcrush: 15
+  dmagic: 237
+}
+npcs {
+  ids: 11175
+  ids: 13666
+  name: "Araxyte"
+  version: "Level 96"
+  hitpoints: 60
+  att: 80
+  str: 125
+  def: 60
+  mage: 60
+  range: 1
+  dstab: 60
+  dslash: 30
+  dcrush: 20
+  dmagic: 20
+  drange: 20
+}
+npcs {
+  ids: 11176
+  ids: 13667
+  name: "Araxyte"
+  version: "Level 146"
+  hitpoints: 100
+  att: 120
+  str: 160
+  def: 70
+  mage: 80
+  range: 1
+  dstab: 60
+  dslash: 30
+  dcrush: 20
+  dmagic: 20
+  drange: 20
+}
+npcs {
   ids: 11726
   name: "Arcane Scarab"
   hitpoints: 40
@@ -8156,6 +8210,13 @@ npcs {
   str: 260
   def: 100
   mage: 100
+  range: 1
+  attbns: 200
+  strbns: 10
+  dstab: 60
+  dslash: 30
+  dmagic: 10
+  drange: 100
 }
 npcs {
   ids: 3258
@@ -28126,40 +28187,6 @@ npcs {
   strbns: 1
   dslash: 1
   dmagic: 1
-}
-npcs {
-  ids: 11175
-  ids: 13666
-  name: "Araxyte"
-  version: "Level 96"
-  hitpoints: 60
-  att: 80
-  str: 125
-  def: 60
-  mage: 60
-  range: 1
-  dstab: 60
-  dslash: 30
-  dcrush: 20
-  dmagic: 20
-  drange: 20
-}
-npcs {
-  ids: 11176
-  ids: 13667
-  name: "Araxyte"
-  version: "Level 146"
-  hitpoints: 100
-  att: 120
-  str: 160
-  def: 70
-  mage: 80
-  range: 1
-  dstab: 60
-  dslash: 30
-  dcrush: 20
-  dmagic: 20
-  drange: 20
 }
 npcs {
   ids: 8137
