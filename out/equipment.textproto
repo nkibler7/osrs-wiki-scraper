@@ -92204,6 +92204,27 @@ items {
   }
 }
 items {
+  key: 27180
+  value {
+    id: 27180
+    name: "Guthix chaps"
+  }
+}
+items {
+  key: 27181
+  value {
+    id: 27181
+    name: "Zamorak chaps"
+  }
+}
+items {
+  key: 27182
+  value {
+    id: 27182
+    name: "Saradomin chaps"
+  }
+}
+items {
   key: 27188
   value {
     id: 27188
