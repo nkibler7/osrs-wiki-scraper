@@ -368,7 +368,7 @@ npcs {
   range: 60
   attbns: 180
   strbns: 12
-  rngbns: 450
+  arange: 450
   dstab: 25
   dslash: 25
   dcrush: 25
@@ -19575,7 +19575,7 @@ npcs {
 npcs {
   ids: 13671
   name: "Mirrorback Araxyte"
-  hitpoints: 60
+  hitpoints: 58
   att: 150
   str: 120
   def: 50
@@ -19583,7 +19583,7 @@ npcs {
   range: 60
   attbns: 180
   strbns: 12
-  rngbns: 450
+  arange: 450
   dstab: 25
   dslash: 25
   dcrush: 25
@@ -24650,7 +24650,7 @@ npcs {
   range: 60
   attbns: 180
   strbns: 12
-  rngbns: 450
+  arange: 450
   dstab: 25
   dslash: 25
   dcrush: 25
