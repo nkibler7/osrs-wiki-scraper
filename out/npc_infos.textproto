@@ -1339,6 +1339,26 @@ npcs {
   dmagic: 237
 }
 npcs {
+  ids: 13668
+  name: "Araxxor"
+  hitpoints: 1020
+  att: 320
+  str: 320
+  def: 170
+  mage: 218
+  range: 241
+  attbns: 218
+  strbns: 10
+  amagic: 260
+  mbns: 5
+  arange: 283
+  rngbns: 35
+  dstab: 160
+  dslash: 75
+  dcrush: 15
+  dmagic: 237
+}
+npcs {
   ids: 11175
   ids: 13666
   name: "Araxyte"
