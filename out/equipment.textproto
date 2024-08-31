@@ -92329,6 +92329,22 @@ items {
   }
 }
 items {
+  key: 27194
+  value {
+    id: 27194
+    name: "Ancestral robe bottom (Last Man Standing)"
+    stat_bonuses {
+      ranged_attack: -7
+      magic_attack: 26
+      stab_defence: 27
+      slash_defence: 24
+      crush_defence: 30
+      magic_defence: 20
+      magic_damage: 0.4
+    }
+  }
+}
+items {
   key: 27226
   value {
     id: 27226
