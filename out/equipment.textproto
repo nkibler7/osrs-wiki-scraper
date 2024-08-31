@@ -67023,8 +67023,6 @@ items {
     id: 21433
     name: "Wilderness champion amulet"
     stat_bonuses {
-      stab_attack: 5000
-      melee_strength: 100
     }
   }
 }
