@@ -24683,7 +24683,7 @@ npcs {
 npcs {
   ids: 13673
   name: "Ruptura Araxyte"
-  hitpoints: 60
+  hitpoints: 58
   att: 150
   str: 120
   def: 50
