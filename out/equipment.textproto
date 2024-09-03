@@ -16711,9 +16711,6 @@ items {
     id: 3843
     name: "Damaged book"
     stat_bonuses {
-      slash_attack: 4
-      crush_attack: 4
-      magic_attack: 4
       prayer: 5
     }
   }
