@@ -34370,6 +34370,10 @@ npcs {
   range: 1
 }
 npcs {
+  name: "Wrathmaw"
+  attributes: "(Optional)"
+}
+npcs {
   ids: 8610
   name: "Wyrm"
   version: "Idle"
