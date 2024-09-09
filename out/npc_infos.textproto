@@ -13110,6 +13110,24 @@ npcs {
   drange: 5
 }
 npcs {
+  ids: 11946
+  name: "Guard"
+  version: "Falador (unarmed)"
+  hitpoints: 22
+  att: 15
+  str: 15
+  def: 16
+  mage: 1
+  range: 1
+  attbns: 6
+  strbns: 10
+  dstab: 5
+  dslash: 5
+  dcrush: 5
+  dmagic: -4
+  drange: 5
+}
+npcs {
   ids: 11911
   name: "Guard"
   version: "Varrock 1"
