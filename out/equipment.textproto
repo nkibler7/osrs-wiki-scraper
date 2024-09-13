@@ -91344,7 +91344,7 @@ items {
       melee_strength: 32
     }
     weapon_details {
-      base_attack_speed: 4
+      base_attack_speed: 5
       base_attack_range: 1
       combat_options {
         name: "Bash"
@@ -91393,7 +91393,7 @@ items {
       melee_strength: 32
     }
     weapon_details {
-      base_attack_speed: 4
+      base_attack_speed: 5
       base_attack_range: 1
       combat_options {
         name: "Bash"
@@ -91442,7 +91442,7 @@ items {
       melee_strength: 32
     }
     weapon_details {
-      base_attack_speed: 4
+      base_attack_speed: 5
       base_attack_range: 1
       combat_options {
         name: "Bash"
