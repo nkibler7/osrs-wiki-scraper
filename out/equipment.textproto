@@ -101113,8 +101113,8 @@ items {
     id: 28902
     name: "Dizana\'s max cape"
     stat_bonuses {
-      ranged_attack: 18
-      ranged_strength: 3
+      ranged_attack: 28
+      ranged_strength: 4
     }
   }
 }
@@ -101133,8 +101133,8 @@ items {
     id: 28906
     name: "Dizana\'s max cape (l)"
     stat_bonuses {
-      ranged_attack: 18
-      ranged_strength: 3
+      ranged_attack: 28
+      ranged_strength: 4
     }
   }
 }
