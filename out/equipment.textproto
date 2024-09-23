@@ -61195,8 +61195,6 @@ items {
   value {
     id: 19556
     name: "Monkey"
-    stat_bonuses {
-    }
   }
 }
 items {
