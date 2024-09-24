@@ -15205,6 +15205,10 @@ npcs {
   range: 1
 }
 npcs {
+  name: "Hueycoatl"
+  attributes: "(Optional)"
+}
+npcs {
   ids: 134
   name: "Huge spider"
   hitpoints: 90
