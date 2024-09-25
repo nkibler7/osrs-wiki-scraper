@@ -9272,6 +9272,60 @@ npcs {
   drange: -42
 }
 npcs {
+  ids: 13732
+  ids: 13733
+  ids: 13734
+  ids: 13735
+  ids: 13736
+  ids: 13737
+  name: "Emissary acolyte"
+  hitpoints: 25
+  att: 30
+  str: 35
+  def: 30
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  dcrush: 30
+  dmagic: 10
+}
+npcs {
+  ids: 13744
+  ids: 13747
+  ids: 13749
+  name: "Emissary ascended"
+  hitpoints: 80
+  att: 120
+  str: 110
+  def: 90
+  mage: 40
+  range: 1
+  dstab: 30
+  dslash: 30
+  dcrush: 50
+  dmagic: 20
+}
+npcs {
+  ids: 13738
+  ids: 13739
+  ids: 13740
+  ids: 13741
+  ids: 13742
+  ids: 13743
+  name: "Emissary chosen"
+  hitpoints: 50
+  att: 80
+  str: 70
+  def: 60
+  mage: 20
+  range: 1
+  dstab: 25
+  dslash: 25
+  dcrush: 40
+  dmagic: 15
+}
+npcs {
   ids: 4381
   name: "Enclave guard"
   hitpoints: 80
@@ -33903,6 +33957,16 @@ npcs {
   dmagic: 300
   drange: 300
   attributes: "Golem"
+}
+npcs {
+  ids: 12979
+  name: "White jaguar"
+  hitpoints: 80
+  att: 55
+  str: 50
+  def: 55
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 1798
