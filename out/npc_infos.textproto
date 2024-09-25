@@ -8105,6 +8105,12 @@ npcs {
 }
 npcs {
   name: "Dire Wolf Alpha"
+  hitpoints: 100
+  att: 120
+  str: 110
+  def: 80
+  mage: 40
+  range: 1
 }
 npcs {
   ids: 8997
