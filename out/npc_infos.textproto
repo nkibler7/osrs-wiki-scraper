@@ -5703,6 +5703,12 @@ npcs {
 }
 npcs {
   name: "Chilled jelly"
+  hitpoints: 140
+  att: 95
+  str: 90
+  def: 70
+  mage: 95
+  range: 1
 }
 npcs {
   ids: 2910

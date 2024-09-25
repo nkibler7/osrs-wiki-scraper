@@ -103591,6 +103591,8 @@ items {
   value {
     id: 29870
     name: "Emissary robe top"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -103598,6 +103600,8 @@ items {
   value {
     id: 29872
     name: "Emissary robe bottom"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -103605,6 +103609,8 @@ items {
   value {
     id: 29874
     name: "Emissary sandals"
+    stat_bonuses {
+    }
   }
 }
 items {
