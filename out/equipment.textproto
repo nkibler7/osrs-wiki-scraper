@@ -103864,6 +103864,10 @@ items {
   value {
     id: 30064
     name: "Tome of earth"
+    stat_bonuses {
+      magic_attack: 8
+      magic_defence: 8
+    }
   }
 }
 items {
@@ -103871,6 +103875,10 @@ items {
   value {
     id: 30066
     name: "Tome of earth (empty)"
+    stat_bonuses {
+      magic_attack: 8
+      magic_defence: 8
+    }
   }
 }
 items {
