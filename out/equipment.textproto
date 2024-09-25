@@ -103586,3 +103586,372 @@ items {
     }
   }
 }
+items {
+  key: 29870
+  value {
+    id: 29870
+    name: "Emissary robe top"
+  }
+}
+items {
+  key: 29872
+  value {
+    id: 29872
+    name: "Emissary robe bottom"
+  }
+}
+items {
+  key: 29874
+  value {
+    id: 29874
+    name: "Emissary sandals"
+  }
+}
+items {
+  key: 29889
+  value {
+    id: 29889
+    name: "Glacial temotli"
+    stat_bonuses {
+      stab_attack: 11
+      crush_attack: 72
+      melee_strength: 64
+      prayer: 2
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Spike"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 29912
+  value {
+    id: 29912
+    name: "Butler\'s tray"
+  }
+}
+items {
+  key: 29913
+  value {
+    id: 29913
+    name: "Butler\'s tray"
+  }
+}
+items {
+  key: 29914
+  value {
+    id: 29914
+    name: "Butler\'s uniform"
+  }
+}
+items {
+  key: 29915
+  value {
+    id: 29915
+    name: "Butler\'s uniform"
+  }
+}
+items {
+  key: 29916
+  value {
+    id: 29916
+    name: "Butler\'s uniform"
+  }
+}
+items {
+  key: 29918
+  value {
+    id: 29918
+    name: "Butler\'s uniform"
+  }
+}
+items {
+  key: 29978
+  value {
+    id: 29978
+    name: "Alchemist labcoat"
+  }
+}
+items {
+  key: 29980
+  value {
+    id: 29980
+    name: "Alchemist labcoat"
+  }
+}
+items {
+  key: 29982
+  value {
+    id: 29982
+    name: "Alchemist pants"
+  }
+}
+items {
+  key: 29984
+  value {
+    id: 29984
+    name: "Alchemist pants"
+  }
+}
+items {
+  key: 29986
+  value {
+    id: 29986
+    name: "Alchemist gloves"
+  }
+}
+items {
+  key: 29988
+  value {
+    id: 29988
+    name: "Alchemist\'s amulet"
+  }
+}
+items {
+  key: 29990
+  value {
+    id: 29990
+    name: "Alchemist\'s amulet"
+  }
+}
+items {
+  key: 29992
+  value {
+    id: 29992
+    name: "Alchemist\'s amulet"
+  }
+}
+items {
+  key: 30048
+  value {
+    id: 30048
+    name: "Graceful cape"
+  }
+}
+items {
+  key: 30050
+  value {
+    id: 30050
+    name: "Graceful cape"
+  }
+}
+items {
+  key: 30051
+  value {
+    id: 30051
+    name: "Graceful top"
+  }
+}
+items {
+  key: 30053
+  value {
+    id: 30053
+    name: "Graceful top"
+  }
+}
+items {
+  key: 30054
+  value {
+    id: 30054
+    name: "Graceful legs"
+  }
+}
+items {
+  key: 30056
+  value {
+    id: 30056
+    name: "Graceful legs"
+  }
+}
+items {
+  key: 30057
+  value {
+    id: 30057
+    name: "Graceful gloves"
+  }
+}
+items {
+  key: 30059
+  value {
+    id: 30059
+    name: "Graceful gloves"
+  }
+}
+items {
+  key: 30060
+  value {
+    id: 30060
+    name: "Graceful boots"
+  }
+}
+items {
+  key: 30062
+  value {
+    id: 30062
+    name: "Graceful boots"
+  }
+}
+items {
+  key: 30070
+  value {
+    id: 30070
+    name: "Dragon hunter wand"
+    stat_bonuses {
+      magic_attack: 16
+      magic_defence: 16
+      magic_damage: 1.0
+    }
+    weapon_details {
+      base_attack_speed: 5
+      base_attack_range: 10
+      combat_options {
+        name: "Bash"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pound"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Focus"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_DEFENSIVE_AUTOCAST
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_AUTOCAST
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30076
+  value {
+    id: 30076
+    name: "Hueycoatl hide body"
+    stat_bonuses {
+      ranged_attack: 30
+      magic_attack: -15
+      stab_defence: 55
+      slash_defence: 47
+      crush_defence: 60
+      ranged_defence: 55
+      magic_defence: 56
+      prayer: 3
+    }
+  }
+}
+items {
+  key: 30079
+  value {
+    id: 30079
+    name: "Hueycoatl hide chaps"
+    stat_bonuses {
+      ranged_attack: 17
+      magic_attack: -10
+      stab_defence: 31
+      slash_defence: 25
+      crush_defence: 33
+      ranged_defence: 31
+      magic_defence: 30
+      prayer: 2
+    }
+  }
+}
+items {
+  key: 30082
+  value {
+    id: 30082
+    name: "Hueycoatl hide vambraces"
+    stat_bonuses {
+      ranged_attack: 11
+      magic_attack: -10
+      stab_defence: 6
+      slash_defence: 5
+      crush_defence: 7
+      magic_defence: 8
+      prayer: 1
+    }
+  }
+}
+items {
+  key: 30156
+  value {
+    id: 30156
+    name: "Butler\'s tray"
+  }
+}
+items {
+  key: 30157
+  value {
+    id: 30157
+    name: "Butler\'s tray"
+  }
+}
