@@ -103663,6 +103663,27 @@ items {
   }
 }
 items {
+  key: 29892
+  value {
+    id: 29892
+    name: "Pendant of ates (inert)"
+  }
+}
+items {
+  key: 29893
+  value {
+    id: 29893
+    name: "Pendant of ates"
+  }
+}
+items {
+  key: 29911
+  value {
+    id: 29911
+    name: "Prop sword"
+  }
+}
+items {
   key: 29912
   value {
     id: 29912
@@ -103831,6 +103852,20 @@ items {
   }
 }
 items {
+  key: 30064
+  value {
+    id: 30064
+    name: "Tome of earth"
+  }
+}
+items {
+  key: 30066
+  value {
+    id: 30066
+    name: "Tome of earth (empty)"
+  }
+}
+items {
   key: 30070
   value {
     id: 30070
@@ -103888,6 +103923,23 @@ items {
           attack_style: MAGIC_ATTACK_STYLE_AUTOCAST
         }
       }
+    }
+  }
+}
+items {
+  key: 30073
+  value {
+    id: 30073
+    name: "Hueycoatl hide coif"
+    stat_bonuses {
+      ranged_attack: 7
+      magic_attack: -1
+      stab_defence: 4
+      slash_defence: 7
+      crush_defence: 10
+      ranged_defence: 8
+      magic_defence: 5
+      prayer: 2
     }
   }
 }

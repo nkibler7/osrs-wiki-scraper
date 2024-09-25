@@ -29776,8 +29776,10 @@ npcs {
   attributes: "spectral"
 }
 npcs {
-  name: "Hueycoatl"
-  attributes: "(Optional)"
+  name: "The Hueycoatl"
+  dstab: 50
+  dslash: 50
+  dcrush: 350
 }
 npcs {
   ids: 3476
