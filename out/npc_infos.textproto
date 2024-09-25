@@ -817,7 +817,7 @@ npcs {
   dslash: 100
   dcrush: 40
   dmagic: 100
-  attributes: "Spectral"
+  attributes: "Mantém"
 }
 npcs {
   ids: 10654

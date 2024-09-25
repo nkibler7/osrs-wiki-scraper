@@ -103646,17 +103646,6 @@ items {
         }
       }
       combat_options {
-        name: "Spike"
-        modifiers {
-          attack_modifier: 1
-          strength_modifier: 1
-          defence_modifier: 1
-        }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
-        }
-      }
-      combat_options {
         name: "Block"
         modifiers {
           defence_modifier: 3
