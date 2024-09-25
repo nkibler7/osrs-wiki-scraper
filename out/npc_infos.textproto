@@ -8088,6 +8088,9 @@ npcs {
   range: 1
 }
 npcs {
+  name: "Dire Wolf Alpha"
+}
+npcs {
   ids: 8997
   name: "Disciple of Iban"
   hitpoints: 20
@@ -10453,6 +10456,21 @@ npcs {
   ids: 13789
   name: "Frost crab"
   hitpoints: 60
+}
+npcs {
+  name: "Frost Nagua"
+  hitpoints: 120
+  att: 1
+  str: 1
+  def: 40
+  mage: 90
+  range: 1
+  amagic: 70
+  mbns: 15
+  dstab: 50
+  dslash: 50
+  dcrush: 10
+  dmagic: 60
 }
 npcs {
   ids: 11283
