@@ -5702,6 +5702,9 @@ npcs {
   range: 1
 }
 npcs {
+  name: "Chilled jelly"
+}
+npcs {
   ids: 2910
   name: "Chinchompa"
   hitpoints: 1
