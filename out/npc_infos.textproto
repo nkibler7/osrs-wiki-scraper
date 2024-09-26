@@ -807,6 +807,7 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 13685
   name: "Amoxliatl"
   hitpoints: 520
   def: 80
@@ -8110,6 +8111,19 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 13813
+  name: "Dire Wolf"
+  version: "Meat and Greet"
+  hitpoints: 10
+  att: 75
+  str: 75
+  def: 70
+  mage: 1
+  range: 20
+  arange: 500
+}
+npcs {
+  ids: 13812
   name: "Dire Wolf Alpha"
   hitpoints: 100
   att: 120
@@ -9294,7 +9308,7 @@ npcs {
   ids: 13744
   ids: 13747
   ids: 13749
-  name: "Emissary ascended"
+  name: "Emissary Ascended"
   hitpoints: 80
   att: 120
   str: 110
