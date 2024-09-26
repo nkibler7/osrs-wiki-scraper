@@ -5710,6 +5710,7 @@ npcs {
   def: 70
   mage: 95
   range: 1
+  attributes: "fire"
 }
 npcs {
   ids: 2910
