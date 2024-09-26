@@ -19747,6 +19747,24 @@ npcs {
   drange: -10
 }
 npcs {
+  ids: 13814
+  ids: 13815
+  name: "Minotaur"
+  hitpoints: 240
+  att: 140
+  str: 110
+  def: 100
+  mage: 100
+  attbns: 60
+  strbns: 10
+  amagic: 300
+  mbns: 5
+  dstab: 30
+  dslash: 20
+  dcrush: 50
+  dmagic: 80
+}
+npcs {
   ids: 13671
   name: "Mirrorback Araxyte"
   hitpoints: 58
