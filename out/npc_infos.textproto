@@ -29955,7 +29955,7 @@ npcs {
   dstab: 100
   dslash: 100
   dmagic: 200
-  attributes: "Draconic"
+  attributes: "Dragon"
 }
 npcs {
   ids: 14017
@@ -29976,7 +29976,7 @@ npcs {
   dstab: 100
   dslash: 100
   dmagic: 200
-  attributes: "Draconic"
+  attributes: "Dragon"
 }
 npcs {
   ids: 14014
@@ -29997,7 +29997,7 @@ npcs {
   dstab: 100
   dslash: 100
   dmagic: 200
-  attributes: "Draconic"
+  attributes: "Dragon"
 }
 npcs {
   ids: 3476
