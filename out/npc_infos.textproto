@@ -5703,6 +5703,7 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 13799
   name: "Chilled jelly"
   hitpoints: 140
   att: 95
