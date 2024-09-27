@@ -23315,6 +23315,22 @@ npcs {
   dcrush: 90
 }
 npcs {
+  ids: 13784
+  ids: 13785
+  name: "Prince Itzla Arkan"
+  hitpoints: 250
+  att: 150
+  str: 110
+  def: 75
+  mage: 55
+  range: 1
+  attbns: 150
+  dstab: 30
+  dslash: 30
+  dcrush: 20
+  dmagic: 10
+}
+npcs {
   ids: 433
   ids: 434
   ids: 435
