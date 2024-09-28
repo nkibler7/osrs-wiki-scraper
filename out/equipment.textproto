@@ -103663,6 +103663,7 @@ items {
     id: 29892
     name: "Pendant of ates (inert)"
     stat_bonuses {
+      magic_attack: 2
       magic_defence: 3
       prayer: 2
     }
@@ -103674,6 +103675,7 @@ items {
     id: 29893
     name: "Pendant of ates"
     stat_bonuses {
+      magic_attack: 2
       magic_defence: 3
       prayer: 2
     }
