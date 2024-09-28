@@ -29971,7 +29971,7 @@ npcs {
   dstab: 100
   dslash: 100
   dmagic: 200
-  attributes: "draconic"
+  attributes: "dragon"
 }
 npcs {
   ids: 14011
@@ -29992,7 +29992,7 @@ npcs {
   dstab: 100
   dslash: 100
   dmagic: 200
-  attributes: "draconic"
+  attributes: "dragon"
 }
 npcs {
   ids: 14012
@@ -30013,7 +30013,7 @@ npcs {
   dstab: 100
   dslash: 100
   dmagic: 200
-  attributes: "draconic"
+  attributes: "dragon"
 }
 npcs {
   ids: 14017
@@ -30033,7 +30033,7 @@ npcs {
   dstab: 100
   dslash: 100
   dmagic: 200
-  attributes: "draconic"
+  attributes: "dragon"
 }
 npcs {
   ids: 14014
@@ -30054,7 +30054,7 @@ npcs {
   dstab: 100
   dslash: 100
   dmagic: 200
-  attributes: "draconic"
+  attributes: "dragon"
 }
 npcs {
   ids: 14015
@@ -30075,7 +30075,7 @@ npcs {
   dstab: 100
   dslash: 100
   dmagic: 200
-  attributes: "draconic"
+  attributes: "dragon"
 }
 npcs {
   ids: 3476
