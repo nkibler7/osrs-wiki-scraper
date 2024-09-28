@@ -103855,6 +103855,8 @@ items {
   value {
     id: 30048
     name: "Graceful cape"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -103862,6 +103864,8 @@ items {
   value {
     id: 30050
     name: "Graceful cape"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -103869,6 +103873,8 @@ items {
   value {
     id: 30051
     name: "Graceful top"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -103876,6 +103882,8 @@ items {
   value {
     id: 30053
     name: "Graceful top"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -103883,6 +103891,8 @@ items {
   value {
     id: 30054
     name: "Graceful legs"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -103890,6 +103900,8 @@ items {
   value {
     id: 30056
     name: "Graceful legs"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -103897,6 +103909,8 @@ items {
   value {
     id: 30057
     name: "Graceful gloves"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -103904,6 +103918,8 @@ items {
   value {
     id: 30059
     name: "Graceful gloves"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -103911,6 +103927,8 @@ items {
   value {
     id: 30060
     name: "Graceful boots"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -103918,6 +103936,8 @@ items {
   value {
     id: 30062
     name: "Graceful boots"
+    stat_bonuses {
+    }
   }
 }
 items {
