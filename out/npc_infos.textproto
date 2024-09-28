@@ -23316,7 +23316,6 @@ npcs {
 }
 npcs {
   ids: 13784
-  ids: 13785
   name: "Prince Itzla Arkan"
   hitpoints: 250
   att: 150
