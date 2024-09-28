@@ -29952,10 +29952,10 @@ npcs {
 }
 npcs {
   ids: 14009
-  ids: 14011
-  ids: 14012
+  ids: 14010
+  ids: 14013
   name: "The Hueycoatl"
-  version: "Head"
+  version: "Normal"
   hitpoints: 2500
   att: 150
   str: 50
@@ -29971,12 +29971,53 @@ npcs {
   dstab: 100
   dslash: 100
   dmagic: 200
-  attributes: "Dragon"
+  attributes: "draconic"
+}
+npcs {
+  ids: 14011
+  name: "The Hueycoatl"
+  version: "Shielded"
+  hitpoints: 2500
+  att: 150
+  str: 50
+  def: 125
+  mage: 50
+  range: 50
+  attbns: 100
+  strbns: 50
+  amagic: 200
+  mbns: 50
+  arange: 250
+  rngbns: 50
+  dstab: 100
+  dslash: 100
+  dmagic: 200
+  attributes: "draconic"
+}
+npcs {
+  ids: 14012
+  name: "The Hueycoatl"
+  version: "Defeated"
+  hitpoints: 2500
+  att: 150
+  str: 50
+  def: 125
+  mage: 50
+  range: 50
+  attbns: 100
+  strbns: 50
+  amagic: 200
+  mbns: 50
+  arange: 250
+  rngbns: 50
+  dstab: 100
+  dslash: 100
+  dmagic: 200
+  attributes: "draconic"
 }
 npcs {
   ids: 14017
   name: "Hueycoatl body"
-  version: "Body"
   hitpoints: 250
   att: 150
   str: 50
@@ -29992,13 +30033,13 @@ npcs {
   dstab: 100
   dslash: 100
   dmagic: 200
-  attributes: "Dragon"
+  attributes: "draconic"
 }
 npcs {
   ids: 14014
   name: "Hueycoatl tail"
-  version: "Tail"
-  hitpoints: 400
+  version: "Normal"
+  hitpoints: 2500
   att: 150
   str: 50
   def: 125
@@ -30013,7 +30054,28 @@ npcs {
   dstab: 100
   dslash: 100
   dmagic: 200
-  attributes: "Dragon"
+  attributes: "draconic"
+}
+npcs {
+  ids: 14015
+  name: "Hueycoatl tail (broken)"
+  version: "Broken"
+  hitpoints: 2500
+  att: 150
+  str: 50
+  def: 125
+  mage: 50
+  range: 50
+  attbns: 100
+  strbns: 50
+  amagic: 200
+  mbns: 50
+  arange: 250
+  rngbns: 50
+  dstab: 100
+  dslash: 100
+  dmagic: 200
+  attributes: "draconic"
 }
 npcs {
   ids: 3476
