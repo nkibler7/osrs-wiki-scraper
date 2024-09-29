@@ -4399,6 +4399,21 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
+  ids: 13793
+  name: "Blue dragon"
+  hitpoints: 105
+  att: 95
+  str: 95
+  def: 95
+  mage: 1
+  range: 1
+  dstab: 10
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  attributes: "dragon,fiery"
+}
+npcs {
   ids: 13013
   name: "Blue Moon"
   hitpoints: 500
