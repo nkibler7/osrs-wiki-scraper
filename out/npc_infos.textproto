@@ -9323,6 +9323,40 @@ npcs {
   dmagic: 20
 }
 npcs {
+  ids: 13773
+  name: "Emissary Brawler"
+  version: "Level 74"
+  hitpoints: 35
+  att: 90
+  str: 50
+  def: 70
+  mage: 15
+  range: 1
+  attbns: 40
+  dstab: 30
+  dslash: 30
+  dcrush: 20
+  dmagic: 5
+  drange: 30
+}
+npcs {
+  ids: 13775
+  name: "Emissary Brawler"
+  version: "Level 86"
+  hitpoints: 55
+  att: 90
+  str: 70
+  def: 70
+  mage: 15
+  range: 1
+  attbns: 40
+  dstab: 30
+  dslash: 30
+  dcrush: 20
+  dmagic: 5
+  drange: 30
+}
+npcs {
   ids: 13738
   ids: 13739
   ids: 13740
@@ -9340,6 +9374,40 @@ npcs {
   dslash: 25
   dcrush: 40
   dmagic: 15
+}
+npcs {
+  ids: 13777
+  name: "Emissary Conjurer"
+  version: "1"
+  hitpoints: 40
+  att: 60
+  str: 40
+  def: 70
+  mage: 70
+  range: 1
+  mbns: 40
+  dstab: 15
+  dslash: 15
+  dcrush: 10
+  dmagic: 15
+  drange: 5
+}
+npcs {
+  ids: 13778
+  name: "Emissary Conjurer"
+  version: "2"
+  hitpoints: 40
+  att: 60
+  str: 40
+  def: 70
+  mage: 70
+  range: 1
+  mbns: 40
+  dstab: 15
+  dslash: 15
+  dcrush: 10
+  dmagic: 15
+  drange: 5
 }
 npcs {
   ids: 4381
