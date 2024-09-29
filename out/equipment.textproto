@@ -103587,6 +103587,15 @@ items {
   }
 }
 items {
+  key: 29868
+  value {
+    id: 29868
+    name: "Emissary hood"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 29870
   value {
     id: 29870
