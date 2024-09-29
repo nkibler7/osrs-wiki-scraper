@@ -5140,11 +5140,56 @@ npcs {
 }
 npcs {
   ids: 406
+  name: "Cave crawler"
+  version: "Standard (1)"
+  hitpoints: 22
+  att: 22
+  str: 18
+  def: 18
+  mage: 1
+  range: 1
+  dstab: 10
+  dslash: 10
+  dcrush: 5
+  dmagic: 5
+  drange: 10
+}
+npcs {
   ids: 407
+  name: "Cave crawler"
+  version: "Standard (2)"
+  hitpoints: 22
+  att: 22
+  str: 18
+  def: 18
+  mage: 1
+  range: 1
+  dstab: 10
+  dslash: 10
+  dcrush: 5
+  dmagic: 5
+  drange: 10
+}
+npcs {
   ids: 408
+  name: "Cave crawler"
+  version: "Standard (3)"
+  hitpoints: 22
+  att: 22
+  str: 18
+  def: 18
+  mage: 1
+  range: 1
+  dstab: 10
+  dslash: 10
+  dcrush: 5
+  dmagic: 5
+  drange: 10
+}
+npcs {
   ids: 409
   name: "Cave crawler"
-  version: "Standard"
+  version: "Standard (4)"
   hitpoints: 22
   att: 22
   str: 18
@@ -5160,7 +5205,23 @@ npcs {
 npcs {
   ids: 13800
   name: "Cave crawler"
-  version: "Icy"
+  version: "Icy (1)"
+  hitpoints: 22
+  att: 22
+  str: 18
+  def: 18
+  mage: 1
+  range: 1
+  dstab: 10
+  dslash: 10
+  dcrush: 5
+  dmagic: 5
+  drange: 10
+}
+npcs {
+  ids: 13801
+  name: "Cave crawler"
+  version: "Icy (2)"
   hitpoints: 22
   att: 22
   str: 18
@@ -15929,6 +15990,21 @@ npcs {
   ids: 2851
   name: "Ice warrior"
   version: "Ice Queen\'s Lair"
+  hitpoints: 59
+  att: 47
+  str: 47
+  def: 47
+  mage: 1
+  range: 1
+  dstab: 30
+  dslash: 40
+  dcrush: 20
+  dmagic: 10
+}
+npcs {
+  ids: 13802
+  name: "Ice warrior"
+  version: "Varlamore"
   hitpoints: 59
   att: 47
   str: 47
