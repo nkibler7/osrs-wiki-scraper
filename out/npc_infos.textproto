@@ -9518,8 +9518,111 @@ npcs {
 }
 npcs {
   ids: 13744
+  name: "Emissary Ascended"
+  version: "1"
+  hitpoints: 80
+  att: 120
+  str: 110
+  def: 90
+  mage: 40
+  range: 1
+  dstab: 30
+  dslash: 30
+  dcrush: 50
+  dmagic: 20
+}
+npcs {
+  ids: 13745
+  name: "Emissary Ascended"
+  version: "2"
+  hitpoints: 80
+  att: 120
+  str: 110
+  def: 90
+  mage: 40
+  range: 1
+  dstab: 30
+  dslash: 30
+  dcrush: 50
+  dmagic: 20
+}
+npcs {
+  ids: 13746
+  name: "Emissary Ascended"
+  version: "3"
+  hitpoints: 80
+  att: 120
+  str: 110
+  def: 90
+  mage: 40
+  range: 1
+  dstab: 30
+  dslash: 30
+  dcrush: 50
+  dmagic: 20
+}
+npcs {
   ids: 13747
+  name: "Emissary Ascended"
+  version: "5"
+  hitpoints: 80
+  att: 120
+  str: 110
+  def: 90
+  mage: 40
+  range: 1
+  dstab: 30
+  dslash: 30
+  dcrush: 50
+  dmagic: 20
+}
+npcs {
+  ids: 13748
+  name: "Emissary Ascended"
+  version: "6"
+  hitpoints: 80
+  att: 120
+  str: 110
+  def: 90
+  mage: 40
+  range: 1
+  dstab: 30
+  dslash: 30
+  dcrush: 50
+  dmagic: 20
+}
+npcs {
   ids: 13749
+  name: "Emissary Ascended"
+  version: "7"
+  hitpoints: 80
+  att: 120
+  str: 110
+  def: 90
+  mage: 40
+  range: 1
+  dstab: 30
+  dslash: 30
+  dcrush: 50
+  dmagic: 20
+}
+npcs {
+  ids: 13750
+  name: "Emissary Ascended"
+  version: "8"
+  hitpoints: 80
+  att: 120
+  str: 110
+  def: 90
+  mage: 40
+  range: 1
+  dstab: 30
+  dslash: 30
+  dcrush: 50
+  dmagic: 20
+}
+npcs {
+  ids: 13751
   name: "Emissary Ascended"
   hitpoints: 80
   att: 120
