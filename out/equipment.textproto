@@ -103845,6 +103845,8 @@ items {
   value {
     id: 29988
     name: "Alchemist\'s amulet"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -103852,6 +103854,8 @@ items {
   value {
     id: 29990
     name: "Alchemist\'s amulet"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -103859,6 +103863,8 @@ items {
   value {
     id: 29992
     name: "Alchemist\'s amulet"
+    stat_bonuses {
+    }
   }
 }
 items {
