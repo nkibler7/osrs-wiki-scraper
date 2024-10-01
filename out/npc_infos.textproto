@@ -5997,10 +5997,30 @@ npcs {
 npcs {
   ids: 12445
   name: "Commander Zilyana"
+  version: "Apocalypse"
   hitpoints: 500
   att: 280
   str: 196
   def: 300
+  mage: 300
+  range: 250
+  attbns: 195
+  strbns: 20
+  amagic: 200
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 100
+  drange: 100
+}
+npcs {
+  ids: 12445
+  name: "Commander Zilyana"
+  version: "Armageddon"
+  hitpoints: 500
+  att: 280
+  str: 196
+  def: 150
   mage: 300
   range: 250
   attbns: 195
@@ -7394,7 +7414,23 @@ npcs {
 npcs {
   ids: 12439
   name: "Dagannoth Rex"
+  version: "Apocalypse"
   hitpoints: 750
+  att: 255
+  str: 255
+  def: 255
+  range: 255
+  dstab: 255
+  dslash: 255
+  dcrush: 255
+  dmagic: 10
+  drange: 255
+}
+npcs {
+  ids: 12439
+  name: "Dagannoth Rex"
+  version: "Armageddon"
+  hitpoints: 1000
   att: 255
   str: 255
   def: 255
@@ -7447,10 +7483,27 @@ npcs {
 npcs {
   ids: 12441
   name: "Dagannoth Supreme"
+  version: "Apocalypse"
   hitpoints: 750
   att: 255
   str: 255
   def: 128
+  mage: 255
+  range: 255
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+  dmagic: 255
+  drange: 550
+}
+npcs {
+  ids: 12441
+  name: "Dagannoth Supreme"
+  version: "Armageddon"
+  hitpoints: 1000
+  att: 255
+  str: 255
+  def: 84
   mage: 255
   range: 255
   dstab: 10
@@ -7991,7 +8044,26 @@ npcs {
 npcs {
   ids: 12450
   name: "Derwen"
+  version: "Apocalypse"
   hitpoints: 320
+  att: 250
+  str: 150
+  def: 100
+  mage: 180
+  range: 1
+  amagic: 80
+  mbns: 80
+  dstab: 200
+  dslash: 200
+  dcrush: 200
+  dmagic: -60
+  drange: 200
+}
+npcs {
+  ids: 12450
+  name: "Derwen"
+  version: "Armageddon"
+  hitpoints: 500
   att: 250
   str: 150
   def: 100
@@ -10550,10 +10622,28 @@ npcs {
 npcs {
   ids: 12453
   name: "Flaming pyrelord"
+  version: "Apocalypse"
   hitpoints: 750
   att: 150
   str: 200
   def: 250
+  mage: 1
+  range: 1
+  dstab: 18
+  dslash: 18
+  dcrush: 18
+  dmagic: 150
+  drange: 18
+  attributes: "demon"
+}
+npcs {
+  ids: 12453
+  name: "Flaming pyrelord"
+  version: "Armageddon"
+  hitpoints: 750
+  att: 150
+  str: 200
+  def: 150
   mage: 1
   range: 1
   dstab: 18
@@ -11425,7 +11515,28 @@ npcs {
 npcs {
   ids: 12444
   name: "General Graardor"
+  version: "Apocalypse"
   hitpoints: 1000
+  att: 280
+  str: 350
+  def: 250
+  mage: 80
+  range: 350
+  attbns: 120
+  strbns: 43
+  arange: 100
+  rngbns: 40
+  dstab: 90
+  dslash: 90
+  dcrush: 90
+  dmagic: 201
+  drange: 90
+}
+npcs {
+  ids: 12444
+  name: "General Graardor"
+  version: "Armageddon"
+  hitpoints: 1500
   att: 280
   str: 350
   def: 250
@@ -11848,10 +11959,29 @@ npcs {
 npcs {
   ids: 12452
   name: "Giant goblin"
+  version: "Apocalypse"
   hitpoints: 750
   att: 150
   str: 150
   def: 250
+  mage: 1
+  range: 1
+  attbns: 120
+  strbns: 43
+  dstab: -15
+  dslash: -15
+  dcrush: -15
+  dmagic: -15
+  drange: -15
+}
+npcs {
+  ids: 12452
+  name: "Giant goblin"
+  version: "Armageddon"
+  hitpoints: 1000
+  att: 150
+  str: 150
+  def: 200
   mage: 1
   range: 1
   attbns: 120
@@ -17068,7 +17198,25 @@ npcs {
 npcs {
   ids: 12455
   name: "Jal-ImKot"
+  version: "Apocalypse"
   hitpoints: 750
+  att: 210
+  str: 290
+  def: 120
+  mage: 120
+  range: 220
+  strbns: 40
+  dstab: 65
+  dslash: 65
+  dcrush: 65
+  dmagic: 30
+  drange: 50
+}
+npcs {
+  ids: 12455
+  name: "Jal-ImKot"
+  version: "Armageddon"
+  hitpoints: 1000
   att: 210
   str: 290
   def: 120
@@ -17639,6 +17787,25 @@ npcs {
 npcs {
   ids: 12446
   name: "K\'ril Tsutsaroth"
+  version: "Apocalypse"
+  hitpoints: 1000
+  att: 340
+  str: 300
+  def: 270
+  mage: 200
+  range: 1
+  attbns: 160
+  strbns: 31
+  dstab: 80
+  dslash: 80
+  dcrush: 80
+  dmagic: 130
+  drange: 80
+}
+npcs {
+  ids: 12446
+  name: "K\'ril Tsutsaroth"
+  version: "Armageddon"
   hitpoints: 1000
   att: 340
   str: 300
