@@ -13313,10 +13313,27 @@ npcs {
 npcs {
   ids: 12451
   name: "Greater abyssal demon"
+  version: "Apocalypse"
   hitpoints: 750
   att: 300
   str: 260
   def: 240
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  drange: 50
+  attributes: "demon"
+}
+npcs {
+  ids: 12451
+  name: "Greater abyssal demon"
+  version: "Armageddon"
+  hitpoints: 750
+  att: 300
+  str: 260
+  def: 150
   mage: 1
   range: 1
   dstab: 50
@@ -18508,10 +18525,28 @@ npcs {
 npcs {
   ids: 12440
   name: "King Black Dragon"
+  version: "Apocalypse"
   hitpoints: 250
   att: 240
   str: 240
   def: 240
+  mage: 240
+  range: 1
+  dstab: 70
+  dslash: 90
+  dcrush: 90
+  dmagic: 80
+  drange: 70
+  attributes: "dragon"
+}
+npcs {
+  ids: 12440
+  name: "King Black Dragon"
+  version: "Armageddon"
+  hitpoints: 250
+  att: 240
+  str: 240
+  def: 150
   mage: 240
   range: 1
   dstab: 70
