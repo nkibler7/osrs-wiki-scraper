@@ -9671,12 +9671,83 @@ npcs {
 }
 npcs {
   ids: 13738
+  name: "Emissary Chosen"
+  version: "1"
+  hitpoints: 50
+  att: 80
+  str: 70
+  def: 60
+  mage: 20
+  range: 1
+  dstab: 25
+  dslash: 25
+  dcrush: 40
+  dmagic: 15
+}
+npcs {
   ids: 13739
+  name: "Emissary Chosen"
+  version: "2"
+  hitpoints: 50
+  att: 80
+  str: 70
+  def: 60
+  mage: 20
+  range: 1
+  dstab: 25
+  dslash: 25
+  dcrush: 40
+  dmagic: 15
+}
+npcs {
   ids: 13740
+  name: "Emissary Chosen"
+  version: "3"
+  hitpoints: 50
+  att: 80
+  str: 70
+  def: 60
+  mage: 20
+  range: 1
+  dstab: 25
+  dslash: 25
+  dcrush: 40
+  dmagic: 15
+}
+npcs {
   ids: 13741
+  name: "Emissary Chosen"
+  version: "4"
+  hitpoints: 50
+  att: 80
+  str: 70
+  def: 60
+  mage: 20
+  range: 1
+  dstab: 25
+  dslash: 25
+  dcrush: 40
+  dmagic: 15
+}
+npcs {
   ids: 13742
+  name: "Emissary Chosen"
+  version: "5"
+  hitpoints: 50
+  att: 80
+  str: 70
+  def: 60
+  mage: 20
+  range: 1
+  dstab: 25
+  dslash: 25
+  dcrush: 40
+  dmagic: 15
+}
+npcs {
   ids: 13743
-  name: "Emissary chosen"
+  name: "Emissary Chosen"
+  version: "6"
   hitpoints: 50
   att: 80
   str: 70
@@ -10945,30 +11016,6 @@ npcs {
 }
 npcs {
   ids: 13790
-  name: "Ice block"
-  version: "Hidden"
-  hitpoints: 60
-  att: 1
-  str: 1
-  def: 1
-  mage: 1
-  range: 1
-  dmagic: -50
-}
-npcs {
-  ids: 13791
-  name: "Frost crab"
-  version: "Active"
-  hitpoints: 60
-  att: 1
-  str: 1
-  def: 1
-  mage: 1
-  range: 1
-  dmagic: -50
-}
-npcs {
-  ids: 13792
   name: "Ice block"
   version: "Hidden"
   hitpoints: 60
