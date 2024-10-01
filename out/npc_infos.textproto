@@ -10934,6 +10934,43 @@ npcs {
 npcs {
   ids: 13789
   name: "Frost crab"
+  version: "Active"
+  hitpoints: 60
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  dmagic: -50
+}
+npcs {
+  ids: 13790
+  name: "Ice block"
+  version: "Hidden"
+  hitpoints: 60
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  dmagic: -50
+}
+npcs {
+  ids: 13791
+  name: "Frost crab"
+  version: "Active"
+  hitpoints: 60
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  dmagic: -50
+}
+npcs {
+  ids: 13792
+  name: "Ice block"
+  version: "Hidden"
   hitpoints: 60
   att: 1
   str: 1
