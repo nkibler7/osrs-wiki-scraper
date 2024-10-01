@@ -9794,6 +9794,36 @@ npcs {
   drange: 5
 }
 npcs {
+  ids: 13752
+  name: "Emissary Forebearer"
+  version: "1"
+}
+npcs {
+  ids: 13753
+  name: "Emissary Forebearer"
+  version: "2"
+}
+npcs {
+  ids: 13754
+  name: "Emissary Forebearer"
+  version: "3"
+}
+npcs {
+  ids: 13755
+  name: "Emissary Forebearer"
+  version: "4"
+}
+npcs {
+  ids: 13756
+  name: "Emissary Forebearer"
+  version: "5"
+}
+npcs {
+  ids: 13757
+  name: "Emissary Forebearer"
+  version: "6"
+}
+npcs {
   ids: 4381
   name: "Enclave guard"
   hitpoints: 80
