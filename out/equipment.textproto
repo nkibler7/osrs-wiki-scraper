@@ -103782,6 +103782,8 @@ items {
   value {
     id: 29914
     name: "Butler\'s uniform"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -103789,6 +103791,8 @@ items {
   value {
     id: 29915
     name: "Butler\'s uniform"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -103796,6 +103800,8 @@ items {
   value {
     id: 29916
     name: "Butler\'s uniform"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -103803,6 +103809,8 @@ items {
   value {
     id: 29918
     name: "Butler\'s uniform"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -103810,6 +103818,8 @@ items {
   value {
     id: 29978
     name: "Alchemist labcoat"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -103817,6 +103827,8 @@ items {
   value {
     id: 29980
     name: "Alchemist labcoat"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -103824,6 +103836,8 @@ items {
   value {
     id: 29982
     name: "Alchemist pants"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -103831,6 +103845,8 @@ items {
   value {
     id: 29984
     name: "Alchemist pants"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -103838,6 +103854,8 @@ items {
   value {
     id: 29986
     name: "Alchemist gloves"
+    stat_bonuses {
+    }
   }
 }
 items {
