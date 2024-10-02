@@ -104159,6 +104159,22 @@ items {
   }
 }
 items {
+  key: 30111
+  value {
+    id: 30111
+    name: "Helmet of the moon"
+    stat_bonuses {
+      magic_attack: 3
+      stab_defence: 6
+      slash_defence: 7
+      crush_defence: 5
+      ranged_defence: 6
+      magic_defence: 3
+      prayer: 3
+    }
+  }
+}
+items {
   key: 30156
   value {
     id: 30156
