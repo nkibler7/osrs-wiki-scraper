@@ -390,6 +390,16 @@ npcs {
   drange: -100
 }
 npcs {
+  ids: 13824
+  name: "Adala"
+  hitpoints: 60
+  att: 50
+  str: 30
+  def: 10
+  mage: 5
+  range: 1
+}
+npcs {
   ids: 8030
   ids: 8090
   name: "Adamant dragon"
