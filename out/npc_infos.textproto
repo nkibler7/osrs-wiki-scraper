@@ -2340,6 +2340,22 @@ npcs {
   attributes: "dragon"
 }
 npcs {
+  ids: 13794
+  name: "Baby blue dragon"
+  version: "Ruins of Tapoyauik"
+  hitpoints: 50
+  att: 40
+  str: 40
+  def: 40
+  mage: 1
+  range: 1
+  dstab: 10
+  dslash: 50
+  dcrush: 50
+  dmagic: 40
+  attributes: "dragon"
+}
+npcs {
   ids: 5194
   name: "Baby green dragon"
   version: "1"
@@ -4793,6 +4809,22 @@ npcs {
 npcs {
   ids: 7273
   name: "Brutal blue dragon"
+  version: "Catacombs of Kourend"
+  hitpoints: 245
+  att: 298
+  str: 198
+  def: 198
+  mage: 198
+  dstab: 10
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 13795
+  name: "Brutal blue dragon"
+  version: "Ruins of Tapoyauik"
   hitpoints: 245
   att: 298
   str: 198
