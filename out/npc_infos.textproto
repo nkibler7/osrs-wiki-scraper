@@ -14178,6 +14178,186 @@ npcs {
   drange: 16
 }
 npcs {
+  ids: 13100
+  name: "Guard"
+  version: "1"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 13101
+  name: "Guard"
+  version: "2"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 13102
+  name: "Guard"
+  version: "3"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 13103
+  name: "Guard"
+  version: "4"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 13104
+  name: "Guard"
+  version: "5"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 13105
+  name: "Guard"
+  version: "6"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 13106
+  name: "Guard"
+  version: "7"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 13107
+  name: "Guard"
+  version: "8"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 13108
+  name: "Guard"
+  version: "9"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
+  ids: 13109
+  name: "Guard"
+  version: "10"
+  hitpoints: 22
+  att: 19
+  str: 18
+  def: 14
+  mage: 1
+  range: 1
+  attbns: 4
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+  drange: 20
+}
+npcs {
   ids: 5141
   name: "Guard"
   hitpoints: 30
