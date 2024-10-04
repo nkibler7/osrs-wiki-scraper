@@ -31243,7 +31243,7 @@ npcs {
   ids: 14014
   name: "Hueycoatl tail"
   version: "Normal"
-  hitpoints: 2500
+  hitpoints: 400
   att: 150
   str: 50
   def: 125
@@ -31264,7 +31264,7 @@ npcs {
   ids: 14015
   name: "Hueycoatl tail (broken)"
   version: "Broken"
-  hitpoints: 2500
+  hitpoints: 400
   att: 150
   str: 50
   def: 125
