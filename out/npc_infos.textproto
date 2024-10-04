@@ -10145,7 +10145,6 @@ npcs {
   drange: 120
 }
 npcs {
-  ids: 12046
   ids: 12047
   name: "Evelot"
   hitpoints: 160
