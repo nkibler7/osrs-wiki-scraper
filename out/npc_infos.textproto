@@ -9554,7 +9554,7 @@ npcs {
   ids: 13735
   ids: 13736
   ids: 13737
-  name: "Emissary Acolyte (Monster)"
+  name: "Emissary Acolyte"
   version: "1"
   hitpoints: 25
   att: 30
@@ -9574,7 +9574,7 @@ npcs {
   ids: 13735
   ids: 13736
   ids: 13737
-  name: "Emissary Acolyte (Monster)"
+  name: "Emissary Acolyte"
   version: "2"
   hitpoints: 25
   att: 30
@@ -9594,7 +9594,7 @@ npcs {
   ids: 13735
   ids: 13736
   ids: 13737
-  name: "Emissary Acolyte (Monster)"
+  name: "Emissary Acolyte"
   version: "3"
   hitpoints: 25
   att: 30
@@ -9614,7 +9614,7 @@ npcs {
   ids: 13735
   ids: 13736
   ids: 13737
-  name: "Emissary Acolyte (Monster)"
+  name: "Emissary Acolyte"
   version: "4"
   hitpoints: 25
   att: 30
@@ -9634,7 +9634,7 @@ npcs {
   ids: 13735
   ids: 13736
   ids: 13737
-  name: "Emissary Acolyte (Monster)"
+  name: "Emissary Acolyte"
   version: "5"
   hitpoints: 25
   att: 30
@@ -9654,7 +9654,7 @@ npcs {
   ids: 13735
   ids: 13736
   ids: 13737
-  name: "Emissary Acolyte (Monster)"
+  name: "Emissary Acolyte"
   version: "6"
   hitpoints: 25
   att: 30
@@ -14178,7 +14178,7 @@ npcs {
   drange: 16
 }
 npcs {
-  ids: 13100
+  ids: 13986
   name: "Guard"
   version: "1"
   hitpoints: 22
@@ -14196,7 +14196,7 @@ npcs {
   drange: 20
 }
 npcs {
-  ids: 13101
+  ids: 13987
   name: "Guard"
   version: "2"
   hitpoints: 22
@@ -14214,7 +14214,7 @@ npcs {
   drange: 20
 }
 npcs {
-  ids: 13102
+  ids: 13988
   name: "Guard"
   version: "3"
   hitpoints: 22
@@ -14232,7 +14232,7 @@ npcs {
   drange: 20
 }
 npcs {
-  ids: 13103
+  ids: 13989
   name: "Guard"
   version: "4"
   hitpoints: 22
@@ -14250,7 +14250,7 @@ npcs {
   drange: 20
 }
 npcs {
-  ids: 13104
+  ids: 13990
   name: "Guard"
   version: "5"
   hitpoints: 22
@@ -14268,7 +14268,7 @@ npcs {
   drange: 20
 }
 npcs {
-  ids: 13105
+  ids: 13991
   name: "Guard"
   version: "6"
   hitpoints: 22
@@ -14286,7 +14286,7 @@ npcs {
   drange: 20
 }
 npcs {
-  ids: 13106
+  ids: 13992
   name: "Guard"
   version: "7"
   hitpoints: 22
@@ -14304,7 +14304,7 @@ npcs {
   drange: 20
 }
 npcs {
-  ids: 13107
+  ids: 13993
   name: "Guard"
   version: "8"
   hitpoints: 22
@@ -14322,7 +14322,7 @@ npcs {
   drange: 20
 }
 npcs {
-  ids: 13108
+  ids: 13994
   name: "Guard"
   version: "9"
   hitpoints: 22
@@ -14340,7 +14340,7 @@ npcs {
   drange: 20
 }
 npcs {
-  ids: 13109
+  ids: 13995
   name: "Guard"
   version: "10"
   hitpoints: 22
