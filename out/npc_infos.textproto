@@ -35225,7 +35225,7 @@ npcs {
   ids: 12204
   ids: 12205
   name: "The Whisperer"
-  version: "Post-Quest"
+  version: "Post-quest"
   hitpoints: 900
   att: 280
   str: 280
