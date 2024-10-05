@@ -19708,7 +19708,7 @@ npcs {
 npcs {
   ids: 12214
   name: "The Leviathan"
-  version: "Post-Quest"
+  version: "Post-quest"
   hitpoints: 900
   att: 300
   str: 360
