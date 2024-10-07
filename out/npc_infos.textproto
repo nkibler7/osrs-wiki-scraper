@@ -33035,6 +33035,22 @@ npcs {
 npcs {
   ids: 13661
   name: "TzTok-Jad"
+  version: "Apocalypse"
+  hitpoints: 5000
+  att: 350
+  str: 350
+  def: 200
+  mage: 450
+  range: 450
+  amagic: 50
+  mbns: 20
+  arange: 50
+  rngbns: 20
+}
+npcs {
+  ids: 13661
+  name: "TzTok-Jad"
+  version: "Armageddon"
   hitpoints: 5000
   att: 350
   str: 350
