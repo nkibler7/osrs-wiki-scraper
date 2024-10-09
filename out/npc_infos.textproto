@@ -2350,9 +2350,25 @@ npcs {
   attributes: "dragon"
 }
 npcs {
-  ids: 13794
+  ids: 14105
   name: "Baby blue dragon"
-  version: "Ruins of Tapoyauik"
+  version: "Ruins of Tapoyauik, 1"
+  hitpoints: 50
+  att: 40
+  str: 40
+  def: 40
+  mage: 1
+  range: 1
+  dstab: 10
+  dslash: 50
+  dcrush: 50
+  dmagic: 40
+  attributes: "dragon"
+}
+npcs {
+  ids: 14106
+  name: "Baby blue dragon"
+  version: "Ruins of Tapoyauik, 2"
   hitpoints: 50
   att: 40
   str: 40
@@ -4425,8 +4441,25 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
-  ids: 13793
+  ids: 14103
   name: "Blue dragon"
+  version: "Ruins of Tapoyauik, 1"
+  hitpoints: 105
+  att: 95
+  str: 95
+  def: 95
+  mage: 1
+  range: 1
+  dstab: 10
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  attributes: "dragon,fiery"
+}
+npcs {
+  ids: 13104
+  name: "Blue dragon"
+  version: "Ruins of Tapoyauik, 2"
   hitpoints: 105
   att: 95
   str: 95
