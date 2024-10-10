@@ -9123,6 +9123,23 @@ npcs {
 npcs {
   ids: 13012
   name: "Eclipse Moon"
+  version: "Regular"
+  hitpoints: 500
+  att: 258
+  str: 100
+  def: 60
+  mage: 100
+  range: 1
+  attbns: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 500
+  drange: 500
+}
+npcs {
+  ids: 13012
+  name: "Eclipse Moon"
+  version: "Clone"
   hitpoints: 500
   att: 258
   str: 100
