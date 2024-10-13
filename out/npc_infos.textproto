@@ -17933,6 +17933,20 @@ npcs {
 }
 npcs {
   ids: 1443
+  version: "Quest"
+  hitpoints: 170
+  att: 170
+  str: 170
+  def: 170
+  mage: 170
+  range: 1
+  attbns: 50
+  strbns: 50
+  dslash: 50
+  dmagic: 50
+  attributes: "Demon"
+}
+npcs {
   ids: 6382
   name: "Jungle Demon"
   version: "Normal"
@@ -17946,7 +17960,7 @@ npcs {
   strbns: 50
   dslash: 50
   dmagic: 50
-  attributes: "demon"
+  attributes: "No"
 }
 npcs {
   ids: 6321
@@ -17962,7 +17976,7 @@ npcs {
   strbns: 50
   dslash: 50
   dmagic: 50
-  attributes: "demon"
+  attributes: "No"
 }
 npcs {
   ids: 1042
@@ -28634,6 +28648,7 @@ npcs {
   def: 100
   mage: 1
   range: 1
+  attributes: "Demon"
 }
 npcs {
   ids: 6387
@@ -28645,6 +28660,7 @@ npcs {
   def: 100
   mage: 1
   range: 1
+  attributes: "Demon"
 }
 npcs {
   ids: 6326
@@ -28656,6 +28672,7 @@ npcs {
   def: 100
   mage: 1
   range: 1
+  attributes: "No"
 }
 npcs {
   ids: 12107
