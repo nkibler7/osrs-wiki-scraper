@@ -100879,13 +100879,6 @@ items {
   }
 }
 items {
-  key: 28813
-  value {
-    id: 28813
-    name: "Broken zombie axe"
-  }
-}
-items {
   key: 28834
   value {
     id: 28834
