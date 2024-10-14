@@ -1345,6 +1345,7 @@ npcs {
 npcs {
   ids: 13668
   name: "Araxxor"
+  version: "In combat"
   hitpoints: 1020
   att: 320
   str: 320
@@ -1365,6 +1366,7 @@ npcs {
 npcs {
   ids: 13668
   name: "Araxxor"
+  version: "Enraged"
   hitpoints: 1020
   att: 320
   str: 320
