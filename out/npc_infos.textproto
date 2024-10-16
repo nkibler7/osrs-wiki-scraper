@@ -4459,7 +4459,7 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
-  ids: 13104
+  ids: 14104
   name: "Blue dragon"
   version: "Ruins of Tapoyauik, 2"
   hitpoints: 105
