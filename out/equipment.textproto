@@ -104248,34 +104248,6 @@ items {
   }
 }
 items {
-  key: 30165
-  value {
-    id: 30165
-    name: "Orange pumpkin"
-  }
-}
-items {
-  key: 30166
-  value {
-    id: 30166
-    name: "Red pumpkin"
-  }
-}
-items {
-  key: 30167
-  value {
-    id: 30167
-    name: "Dark green pumpkin"
-  }
-}
-items {
-  key: 30168
-  value {
-    id: 30168
-    name: "Powder grey pumpkin"
-  }
-}
-items {
   key: 30232
   value {
     id: 30232
