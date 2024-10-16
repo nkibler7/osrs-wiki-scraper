@@ -104247,3 +104247,12 @@ items {
     }
   }
 }
+items {
+  key: 30232
+  value {
+    id: 30232
+    name: "Scarecrow shirt"
+    stat_bonuses {
+    }
+  }
+}
