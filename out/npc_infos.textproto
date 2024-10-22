@@ -9770,7 +9770,7 @@ npcs {
 npcs {
   ids: 13747
   name: "Emissary Ascended"
-  version: "5"
+  version: "4"
   hitpoints: 80
   att: 120
   str: 110
@@ -9785,7 +9785,7 @@ npcs {
 npcs {
   ids: 13748
   name: "Emissary Ascended"
-  version: "6"
+  version: "5"
   hitpoints: 80
   att: 120
   str: 110
@@ -9800,7 +9800,7 @@ npcs {
 npcs {
   ids: 13749
   name: "Emissary Ascended"
-  version: "7"
+  version: "6"
   hitpoints: 80
   att: 120
   str: 110
@@ -9815,7 +9815,7 @@ npcs {
 npcs {
   ids: 13750
   name: "Emissary Ascended"
-  version: "8"
+  version: "7"
   hitpoints: 80
   att: 120
   str: 110
@@ -9830,6 +9830,7 @@ npcs {
 npcs {
   ids: 13751
   name: "Emissary Ascended"
+  version: "8"
   hitpoints: 80
   att: 120
   str: 110
