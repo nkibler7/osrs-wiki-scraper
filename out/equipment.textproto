@@ -104256,3 +104256,60 @@ items {
     }
   }
 }
+items {
+  key: 30305
+  value {
+    id: 30305
+    name: "Arclight (inactive)"
+    stat_bonuses {
+      stab_attack: 10
+      slash_attack: 38
+      slash_defence: 3
+      crush_defence: 2
+      magic_defence: 2
+      melee_strength: 8
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+      combat_options {
+        name: "Chop"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Slash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Lunge"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
