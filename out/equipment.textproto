@@ -104257,6 +104257,33 @@ items {
   }
 }
 items {
+  key: 30302
+  value {
+    id: 30302
+    name: "Torva full helm"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30303
+  value {
+    id: 30303
+    name: "Torva platebody"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30304
+  value {
+    id: 30304
+    name: "Torva platelegs"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 30305
   value {
     id: 30305
