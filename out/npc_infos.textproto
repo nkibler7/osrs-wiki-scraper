@@ -32459,7 +32459,7 @@ npcs {
   dcrush: 5
   dmagic: -5
   drange: 5
-  attributes: "spectral"
+  attributes: "spectral, undead"
 }
 npcs {
   ids: 6298
