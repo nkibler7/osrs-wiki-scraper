@@ -104290,11 +104290,12 @@ items {
     name: "Arclight (inactive)"
     stat_bonuses {
       stab_attack: 10
-      slash_attack: 38
+      slash_attack: 16
+      crush_attack: -2
       slash_defence: 3
       crush_defence: 2
       magic_defence: 2
-      melee_strength: 8
+      melee_strength: 13
     }
     weapon_details {
       base_attack_speed: 4
