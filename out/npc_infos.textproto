@@ -15636,7 +15636,6 @@ npcs {
 npcs {
   ids: 3625
   name: "Ghost"
-  version: "Ghost"
   hitpoints: 30
   att: 23
   str: 23
