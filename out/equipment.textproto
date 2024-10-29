@@ -64240,6 +64240,26 @@ items {
   }
 }
 items {
+  key: 20581
+  value {
+    id: 20581
+    name: "Mithril gloves"
+    stat_bonuses {
+      stab_attack: 6
+      slash_attack: 6
+      crush_attack: 6
+      ranged_attack: 6
+      magic_attack: 3
+      stab_defence: 6
+      slash_defence: 6
+      crush_defence: 6
+      ranged_defence: 6
+      magic_defence: 3
+      melee_strength: 6
+    }
+  }
+}
+items {
   key: 20582
   value {
     id: 20582
@@ -92407,6 +92427,65 @@ items {
   }
 }
 items {
+  key: 27158
+  value {
+    id: 27158
+    name: "Mystic robe top (dark)"
+    stat_bonuses {
+      magic_attack: 20
+      magic_defence: 20
+    }
+  }
+}
+items {
+  key: 27159
+  value {
+    id: 27159
+    name: "Mystic robe bottom (dark)"
+    stat_bonuses {
+      magic_attack: 15
+      magic_defence: 15
+    }
+  }
+}
+items {
+  key: 27160
+  value {
+    id: 27160
+    name: "Mystic robe top (light)"
+    stat_bonuses {
+      magic_attack: 20
+      magic_defence: 20
+    }
+  }
+}
+items {
+  key: 27161
+  value {
+    id: 27161
+    name: "Mystic robe bottom (light)"
+    stat_bonuses {
+      magic_attack: 15
+      magic_defence: 15
+    }
+  }
+}
+items {
+  key: 27163
+  value {
+    id: 27163
+    name: "Guthix halo"
+    stat_bonuses {
+      stab_defence: 11
+      slash_defence: 12
+      crush_defence: 10
+      ranged_defence: -1
+      magic_defence: 11
+      prayer: 3
+    }
+  }
+}
+items {
   key: 27166
   value {
     id: 27166
@@ -92452,6 +92531,29 @@ items {
       crush_defence: 33
       ranged_defence: 30
       melee_strength: 3
+    }
+  }
+}
+items {
+  key: 27170
+  value {
+    id: 27170
+    name: "Infinity boots"
+    stat_bonuses {
+      magic_attack: 5
+      magic_defence: 5
+    }
+  }
+}
+items {
+  key: 27172
+  value {
+    id: 27172
+    name: "Necklace of anguish"
+    stat_bonuses {
+      ranged_attack: 15
+      ranged_strength: 5
+      prayer: 2
     }
   }
 }
@@ -92527,6 +92629,16 @@ items {
   value {
     id: 27180
     name: "Guthix chaps"
+    stat_bonuses {
+      ranged_attack: 17
+      magic_attack: -10
+      stab_defence: 31
+      slash_defence: 25
+      crush_defence: 33
+      ranged_defence: 31
+      magic_defence: 28
+      prayer: 1
+    }
   }
 }
 items {
@@ -92741,6 +92853,122 @@ items {
       crush_defence: 30
       magic_defence: 20
       magic_damage: 0.3
+    }
+  }
+}
+items {
+  key: 27195
+  value {
+    id: 27195
+    name: "Inquisitor\'s great helm"
+    stat_bonuses {
+      stab_attack: -2
+      slash_attack: -2
+      crush_attack: 8
+      ranged_attack: -5
+      magic_attack: -5
+      stab_defence: 19
+      slash_defence: 10
+      crush_defence: 21
+      ranged_defence: 12
+      melee_strength: 4
+      prayer: 1
+    }
+  }
+}
+items {
+  key: 27196
+  value {
+    id: 27196
+    name: "Inquisitor\'s hauberk"
+    stat_bonuses {
+      stab_attack: -3
+      slash_attack: -3
+      crush_attack: 12
+      ranged_attack: -10
+      magic_attack: -11
+      stab_defence: 67
+      slash_defence: 55
+      crush_defence: 71
+      ranged_defence: 35
+      melee_strength: 4
+      prayer: 2
+    }
+  }
+}
+items {
+  key: 27197
+  value {
+    id: 27197
+    name: "Inquisitor\'s plateskirt"
+    stat_bonuses {
+      stab_attack: -3
+      slash_attack: -3
+      crush_attack: 12
+      ranged_attack: -5
+      magic_attack: -9
+      stab_defence: 42
+      slash_defence: 30
+      crush_defence: 49
+      ranged_defence: 22
+      melee_strength: 2
+      prayer: 2
+    }
+  }
+}
+items {
+  key: 27198
+  value {
+    id: 27198
+    name: "Inquisitor\'s mace"
+    stat_bonuses {
+      stab_attack: 52
+      slash_attack: -4
+      crush_attack: 95
+      melee_strength: 89
+      prayer: 2
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Spike"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
     }
   }
 }
