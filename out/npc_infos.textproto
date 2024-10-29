@@ -16504,7 +16504,7 @@ npcs {
 npcs {
   ids: 7878
   name: "Ice giant"
-  version: "1"
+  version: "Wilderness Slayer Cave 1"
   hitpoints: 100
   att: 40
   str: 60
@@ -16519,7 +16519,7 @@ npcs {
 npcs {
   ids: 7879
   name: "Ice giant"
-  version: "2"
+  version: "Wilderness Slayer Cave 2"
   hitpoints: 100
   att: 40
   str: 60
@@ -16534,7 +16534,7 @@ npcs {
 npcs {
   ids: 7880
   name: "Ice giant"
-  version: "3"
+  version: "Wilderness Slayer Cave 3"
   hitpoints: 100
   att: 40
   str: 60

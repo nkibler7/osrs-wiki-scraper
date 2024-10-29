@@ -92407,6 +92407,17 @@ items {
   }
 }
 items {
+  key: 27166
+  value {
+    id: 27166
+    name: "Ghostly hood"
+    stat_bonuses {
+      magic_attack: 3
+      magic_defence: 3
+    }
+  }
+}
+items {
   key: 27169
   value {
     id: 27169
