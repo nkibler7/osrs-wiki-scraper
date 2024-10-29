@@ -92418,6 +92418,17 @@ items {
   }
 }
 items {
+  key: 27167
+  value {
+    id: 27167
+    name: "Ghostly robe"
+    stat_bonuses {
+      magic_attack: 5
+      magic_defence: 5
+    }
+  }
+}
+items {
   key: 27168
   value {
     id: 27168
