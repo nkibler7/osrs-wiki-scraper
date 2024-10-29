@@ -63812,6 +63812,62 @@ items {
   }
 }
 items {
+  key: 20406
+  value {
+    id: 20406
+    name: "Dragon scimitar"
+    stat_bonuses {
+      stab_attack: 8
+      slash_attack: 67
+      crush_attack: -2
+      slash_defence: 1
+      melee_strength: 66
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+      combat_options {
+        name: "Chop"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Slash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Lunge"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
   key: 20407
   value {
     id: 20407
@@ -63940,6 +63996,22 @@ items {
   }
 }
 items {
+  key: 20424
+  value {
+    id: 20424
+    name: "Black d\'hide chaps"
+    stat_bonuses {
+      ranged_attack: 17
+      magic_attack: -10
+      stab_defence: 18
+      slash_defence: 20
+      crush_defence: 26
+      ranged_defence: 26
+      magic_defence: 23
+    }
+  }
+}
+items {
   key: 20425
   value {
     id: 20425
@@ -63958,6 +64030,74 @@ items {
     stat_bonuses {
       magic_attack: 15
       magic_defence: 15
+    }
+  }
+}
+items {
+  key: 20431
+  value {
+    id: 20431
+    name: "Ancient staff"
+    stat_bonuses {
+      stab_attack: 10
+      slash_attack: -1
+      crush_attack: 40
+      magic_attack: 15
+      stab_defence: 2
+      slash_defence: 3
+      crush_defence: 1
+      magic_defence: 15
+      melee_strength: 50
+      prayer: -1
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+      combat_options {
+        name: "Bash"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pound"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Focus"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_DEFENSIVE_AUTOCAST
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_AUTOCAST
+        }
+      }
     }
   }
 }
@@ -92225,6 +92365,64 @@ items {
   }
 }
 items {
+  key: 27157
+  value {
+    id: 27157
+    name: "Dragon knife"
+    stat_bonuses {
+      ranged_attack: 28
+      ranged_strength: 30
+    }
+    weapon_details {
+      base_attack_speed: 3
+      base_attack_range: 4
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          ranged_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Rapid"
+        modifiers {
+          attack_speed_modifier: -1
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_RAPID
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 27169
+  value {
+    id: 27169
+    name: "Berserker helm"
+    stat_bonuses {
+      ranged_attack: -5
+      magic_attack: -5
+      stab_defence: 31
+      slash_defence: 29
+      crush_defence: 33
+      ranged_defence: 30
+      melee_strength: 3
+    }
+  }
+}
+items {
   key: 27173
   value {
     id: 27173
@@ -92235,6 +92433,59 @@ items {
       crush_attack: 15
       melee_strength: 10
       prayer: 2
+    }
+  }
+}
+items {
+  key: 27174
+  value {
+    id: 27174
+    name: "Elder chaos top"
+    stat_bonuses {
+      magic_attack: 10
+      magic_defence: 8
+      magic_damage: 0.1
+    }
+  }
+}
+items {
+  key: 27175
+  value {
+    id: 27175
+    name: "Elder chaos robe"
+    stat_bonuses {
+      magic_attack: 6
+      magic_defence: 6
+      magic_damage: 0.1
+    }
+  }
+}
+items {
+  key: 27176
+  value {
+    id: 27176
+    name: "Elder chaos hood"
+    stat_bonuses {
+      magic_attack: 5
+      magic_defence: 4
+      magic_damage: 0.1
+    }
+  }
+}
+items {
+  key: 27177
+  value {
+    id: 27177
+    name: "Fremennik kilt"
+    stat_bonuses {
+      ranged_attack: -7
+      magic_attack: -21
+      stab_defence: 11
+      slash_defence: 10
+      crush_defence: 10
+      ranged_defence: 10
+      magic_defence: -4
+      melee_strength: 1
     }
   }
 }
@@ -92268,6 +92519,59 @@ items {
       magic_attack: 8
       magic_defence: 8
       magic_damage: 0.1
+    }
+  }
+}
+items {
+  key: 27184
+  value {
+    id: 27184
+    name: "Ancient godsword"
+    stat_bonuses {
+      slash_attack: 132
+      crush_attack: 80
+      melee_strength: 132
+      prayer: 8
+    }
+    weapon_details {
+      base_attack_speed: 6
+      base_attack_range: 1
+      combat_options {
+        name: "Chop"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Slash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Smash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
     }
   }
 }
