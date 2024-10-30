@@ -92471,10 +92471,51 @@ items {
   }
 }
 items {
+  key: 27162
+  value {
+    id: 27162
+    name: "Wizard boots"
+    stat_bonuses {
+      magic_attack: 4
+      magic_defence: 4
+    }
+  }
+}
+items {
   key: 27163
   value {
     id: 27163
     name: "Guthix halo"
+    stat_bonuses {
+      stab_defence: 11
+      slash_defence: 12
+      crush_defence: 10
+      ranged_defence: -1
+      magic_defence: 11
+      prayer: 3
+    }
+  }
+}
+items {
+  key: 27164
+  value {
+    id: 27164
+    name: "Zamorak halo"
+    stat_bonuses {
+      stab_defence: 11
+      slash_defence: 12
+      crush_defence: 10
+      ranged_defence: -1
+      magic_defence: 11
+      prayer: 3
+    }
+  }
+}
+items {
+  key: 27165
+  value {
+    id: 27165
+    name: "Saradomin halo"
     stat_bonuses {
       stab_defence: 11
       slash_defence: 12
@@ -92542,6 +92583,18 @@ items {
     stat_bonuses {
       magic_attack: 5
       magic_defence: 5
+    }
+  }
+}
+items {
+  key: 27171
+  value {
+    id: 27171
+    name: "Tormented bracelet"
+    stat_bonuses {
+      magic_attack: 10
+      magic_damage: 0.5
+      prayer: 2
     }
   }
 }
@@ -92625,6 +92678,35 @@ items {
   }
 }
 items {
+  key: 27178
+  value {
+    id: 27178
+    name: "Spiked manacles"
+    stat_bonuses {
+      ranged_attack: -1
+      magic_attack: -3
+      magic_defence: -4
+      melee_strength: 4
+    }
+  }
+}
+items {
+  key: 27179
+  value {
+    id: 27179
+    name: "Rangers\' tunic"
+    stat_bonuses {
+      ranged_attack: 15
+      magic_attack: -15
+      stab_defence: 6
+      slash_defence: 9
+      crush_defence: 12
+      ranged_defence: 6
+      magic_defence: 6
+    }
+  }
+}
+items {
   key: 27180
   value {
     id: 27180
@@ -92646,6 +92728,16 @@ items {
   value {
     id: 27181
     name: "Zamorak chaps"
+    stat_bonuses {
+      ranged_attack: 17
+      magic_attack: -10
+      stab_defence: 31
+      slash_defence: 25
+      crush_defence: 33
+      ranged_defence: 31
+      magic_defence: 28
+      prayer: 1
+    }
   }
 }
 items {
@@ -92653,6 +92745,16 @@ items {
   value {
     id: 27182
     name: "Saradomin chaps"
+    stat_bonuses {
+      ranged_attack: 17
+      magic_attack: -10
+      stab_defence: 31
+      slash_defence: 25
+      crush_defence: 33
+      ranged_defence: 31
+      magic_defence: 28
+      prayer: 1
+    }
   }
 }
 items {
@@ -92715,6 +92817,73 @@ items {
         }
         melee {
           attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 27185
+  value {
+    id: 27185
+    name: "Rune defender"
+    stat_bonuses {
+      stab_attack: 20
+      slash_attack: 19
+      crush_attack: 18
+      ranged_attack: -2
+      magic_attack: -3
+      stab_defence: 20
+      slash_defence: 19
+      crush_defence: 18
+      ranged_defence: -2
+      magic_defence: -3
+      melee_strength: 5
+    }
+  }
+}
+items {
+  key: 27186
+  value {
+    id: 27186
+    name: "Zaryte crossbow"
+    stat_bonuses {
+      ranged_attack: 110
+      stab_defence: 14
+      slash_defence: 14
+      crush_defence: 12
+      ranged_defence: 16
+      magic_defence: 15
+      prayer: 1
+    }
+    weapon_details {
+      base_attack_speed: 6
+      base_attack_range: 8
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          ranged_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Rapid"
+        modifiers {
+          attack_speed_modifier: -1
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_RAPID
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_LONGRANGE
         }
       }
     }
@@ -92822,6 +92991,31 @@ items {
   value {
     id: 27190
     name: "Verac\'s brassard"
+  }
+}
+items {
+  key: 27191
+  value {
+    id: 27191
+    name: "Unholy book"
+    stat_bonuses {
+      stab_attack: 8
+      slash_attack: 8
+      crush_attack: 8
+      ranged_attack: 8
+      magic_attack: 8
+      prayer: 5
+    }
+  }
+}
+items {
+  key: 27192
+  value {
+    id: 27192
+    name: "Opal dragon bolts (e)"
+    stat_bonuses {
+      ranged_strength: 122
+    }
   }
 }
 items {
@@ -93417,6 +93611,17 @@ items {
           attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
         }
       }
+    }
+  }
+}
+items {
+  key: 27358
+  value {
+    id: 27358
+    name: "Tome of fire"
+    stat_bonuses {
+      magic_attack: 8
+      magic_defence: 8
     }
   }
 }
