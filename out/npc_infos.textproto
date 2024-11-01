@@ -3281,6 +3281,7 @@ npcs {
 npcs {
   ids: 2827
   ids: 10888
+  ids: 14042
   name: "Bat"
   hitpoints: 8
   att: 5
