@@ -104578,7 +104578,7 @@ items {
       base_attack_speed: 4
       base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Chop"
         modifiers {
           attack_modifier: 3
         }
@@ -104587,12 +104587,23 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Slash"
         modifiers {
           strength_modifier: 3
         }
         melee {
           attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Lunge"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
         }
       }
       combat_options {
