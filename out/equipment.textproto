@@ -15734,7 +15734,7 @@ items {
   key: 3337
   value {
     id: 3337
-    name: "Myre snelm"
+    name: "Pointed myre snelm"
     stat_bonuses {
       ranged_attack: -1
       magic_attack: -3
