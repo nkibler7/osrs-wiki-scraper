@@ -15750,7 +15750,7 @@ items {
   key: 3339
   value {
     id: 3339
-    name: "Blood\'n\'tar snelm"
+    name: "Pointed blood\'n\'tar snelm"
     stat_bonuses {
       ranged_attack: -1
       magic_attack: -3
@@ -15766,7 +15766,7 @@ items {
   key: 3341
   value {
     id: 3341
-    name: "Ochre snelm"
+    name: "Pointed ochre snelm"
     stat_bonuses {
       ranged_attack: -1
       magic_attack: -3
@@ -15782,7 +15782,7 @@ items {
   key: 3343
   value {
     id: 3343
-    name: "Bruise blue snelm"
+    name: "Pointed bruise blue snelm"
     stat_bonuses {
       ranged_attack: -1
       magic_attack: -3
