@@ -1782,6 +1782,21 @@ npcs {
   attributes: "undead"
 }
 npcs {
+  ids: 14132
+  name: "Arrav"
+  hitpoints: 600
+  att: 220
+  str: 220
+  def: 150
+  mage: 150
+  attbns: 100
+  strbns: 20
+  dstab: 80
+  dslash: 80
+  dcrush: 40
+  dmagic: 160
+}
+npcs {
   ids: 643
   ids: 642
   name: "Arrg"
