@@ -1602,6 +1602,18 @@ npcs {
   attributes: "undead"
 }
 npcs {
+  name: "Armoured zombie"
+  hitpoints: 110
+  att: 106
+  str: 94
+  def: 68
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  drange: 10
+}
+npcs {
   ids: 643
   ids: 642
   name: "Arrg"
