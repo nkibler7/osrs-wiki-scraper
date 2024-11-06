@@ -105236,3 +105236,27 @@ items {
     }
   }
 }
+items {
+  key: 30320
+  value {
+    id: 30320
+    name: "Arrav\'s axe"
+  }
+}
+items {
+  key: 30321
+  value {
+    id: 30321
+    name: "Zombie helmet"
+    stat_bonuses {
+      crush_attack: 8
+      ranged_attack: -2
+      magic_attack: -4
+      stab_defence: 30
+      slash_defence: 32
+      crush_defence: 38
+      ranged_defence: 30
+      melee_strength: 2
+    }
+  }
+}

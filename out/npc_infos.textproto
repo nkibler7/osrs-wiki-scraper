@@ -13232,6 +13232,20 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 14125
+  name: "Golem guard"
+  hitpoints: 150
+  att: 170
+  str: 170
+  def: 100
+  mage: 170
+  dstab: 180
+  dslash: 200
+  dcrush: 20
+  dmagic: 40
+  attributes: "golem"
+}
+npcs {
   ids: 4367
   name: "Gorad"
   hitpoints: 80
@@ -17868,6 +17882,13 @@ npcs {
   def: 1
   mage: 1
   range: 1
+}
+npcs {
+  ids: 14139
+  name: "Jonny the Beard"
+  hitpoints: 8
+  att: 1
+  def: 1
 }
 npcs {
   ids: 9290
@@ -29067,6 +29088,17 @@ npcs {
   range: 1
   dslash: 5
   dcrush: 5
+}
+npcs {
+  ids: 14126
+  name: "Small scarab"
+  hitpoints: 40
+  att: 55
+  str: 1
+  def: 55
+  mage: 1
+  range: 1
+  attributes: "kalphite"
 }
 npcs {
   ids: 498
