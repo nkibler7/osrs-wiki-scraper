@@ -1602,6 +1602,16 @@ npcs {
   attributes: "undead"
 }
 npcs {
+  ids: 14113
+  ids: 14114
+  ids: 14115
+  ids: 14116
+  ids: 14117
+  ids: 14118
+  ids: 1419
+  ids: 14120
+  ids: 14121
+  ids: 14122
   name: "Armoured zombie"
   hitpoints: 110
   att: 106
