@@ -1602,6 +1602,40 @@ npcs {
   attributes: "undead"
 }
 npcs {
+  ids: 14135
+  name: "Armoured zombie"
+  version: "1"
+  hitpoints: 10
+  att: 106
+  str: 94
+  def: 10
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: 5
+  dmagic: -50
+  drange: -100
+  attributes: "undead"
+}
+npcs {
+  ids: 14136
+  name: "Armoured zombie"
+  version: "2"
+  hitpoints: 10
+  att: 106
+  str: 94
+  def: 10
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: 5
+  dmagic: -50
+  drange: -100
+  attributes: "undead"
+}
+npcs {
   ids: 14113
   name: "Armoured zombie"
   version: "1"
@@ -1740,36 +1774,6 @@ npcs {
   ids: 14122
   name: "Armoured zombie"
   version: "10"
-  hitpoints: 110
-  att: 106
-  str: 94
-  def: 68
-  mage: 1
-  range: 1
-  dstab: 20
-  dslash: 20
-  drange: 10
-  attributes: "undead"
-}
-npcs {
-  ids: 14135
-  name: "Armoured zombie"
-  version: "11"
-  hitpoints: 110
-  att: 106
-  str: 94
-  def: 68
-  mage: 1
-  range: 1
-  dstab: 20
-  dslash: 20
-  drange: 10
-  attributes: "undead"
-}
-npcs {
-  ids: 14136
-  name: "Armoured zombie"
-  version: "12"
   hitpoints: 110
   att: 106
   str: 94
