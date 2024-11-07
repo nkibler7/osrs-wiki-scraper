@@ -273,12 +273,26 @@ B
 ¸nArmoured zombie2 
 (j0^8
 @H€ˆ˜Îÿÿÿÿÿÿÿÿªundead
-?
-
-¡n¢n£n¤n¥nArmoured zombieMelee n(j0^8D@H€ˆªundead
-@
-
-¦n§n¨n©nªnArmoured zombieRanged n(j0^8D@H^€ˆªundead
+:
+¡nArmoured zombieMelee, 1 n(j0^8D@H€ˆªundead
+:
+¢nArmoured zombieMelee, 2 n(j0^8D@H€ˆªundead
+:
+£nArmoured zombieMelee, 3 n(j0^8D@H€ˆªundead
+:
+¤nArmoured zombieMelee, 4 n(j0^8D@H€ˆªundead
+:
+¥nArmoured zombieMelee, 5 n(j0^8D@H€ˆªundead
+;
+¦nArmoured zombie	Ranged, 1 n(j0^8D@H^€ˆªundead
+;
+§nArmoured zombie	Ranged, 2 n(j0^8D@H^€ˆªundead
+;
+¨nArmoured zombie	Ranged, 3 n(j0^8D@H^€ˆªundead
+;
+©nArmoured zombie	Ranged, 4 n(j0^8D@H^€ˆªundead
+;
+ªnArmoured zombie	Ranged, 5 n(j0^8D@H^€ˆªundead
 +
 ´nArrav Ø(Ü0Ü8–@–PdX€PˆP(˜ 
 5
@@ -3011,9 +3025,7 @@ $
  
 œJogre Champion x(V0V8V@H
 !
-İ(Jonny the beard (08@H
-
-»nJonny the Beard (8
+İ(Jonny the Beard (08@H
 7
 ÊHËHThe Jormungand Ø(Ö0Ö8Ö@ÖHÖ€2ˆ2
 ˜2 2
@@ -5776,7 +5788,7 @@ WaterfiendNormal €8€@iHi€dˆd
 WaterfiendSlayer task €8€@iHi€dˆd
 ˜dªdemon
 ;
-Û(Weaponsmaster (08@HPX
+¹nWeaponsmaster (08@HPX
 €ˆ˜úÿÿÿÿÿÿÿÿ 
 $
 Ç<Well-armed Foe Ü(ô0¤8ô@H

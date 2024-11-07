@@ -1635,12 +1635,64 @@ npcs {
 }
 npcs {
   ids: 14113
+  name: "Armoured zombie"
+  version: "Melee, 1"
+  hitpoints: 110
+  att: 106
+  str: 94
+  def: 68
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  attributes: "undead"
+}
+npcs {
   ids: 14114
+  name: "Armoured zombie"
+  version: "Melee, 2"
+  hitpoints: 110
+  att: 106
+  str: 94
+  def: 68
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  attributes: "undead"
+}
+npcs {
   ids: 14115
+  name: "Armoured zombie"
+  version: "Melee, 3"
+  hitpoints: 110
+  att: 106
+  str: 94
+  def: 68
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  attributes: "undead"
+}
+npcs {
   ids: 14116
+  name: "Armoured zombie"
+  version: "Melee, 4"
+  hitpoints: 110
+  att: 106
+  str: 94
+  def: 68
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  attributes: "undead"
+}
+npcs {
   ids: 14117
   name: "Armoured zombie"
-  version: "Melee"
+  version: "Melee, 5"
   hitpoints: 110
   att: 106
   str: 94
@@ -1653,12 +1705,64 @@ npcs {
 }
 npcs {
   ids: 14118
+  name: "Armoured zombie"
+  version: "Ranged, 1"
+  hitpoints: 110
+  att: 106
+  str: 94
+  def: 68
+  mage: 1
+  range: 94
+  dstab: 20
+  dslash: 20
+  attributes: "undead"
+}
+npcs {
   ids: 14119
+  name: "Armoured zombie"
+  version: "Ranged, 2"
+  hitpoints: 110
+  att: 106
+  str: 94
+  def: 68
+  mage: 1
+  range: 94
+  dstab: 20
+  dslash: 20
+  attributes: "undead"
+}
+npcs {
   ids: 14120
+  name: "Armoured zombie"
+  version: "Ranged, 3"
+  hitpoints: 110
+  att: 106
+  str: 94
+  def: 68
+  mage: 1
+  range: 94
+  dstab: 20
+  dslash: 20
+  attributes: "undead"
+}
+npcs {
   ids: 14121
+  name: "Armoured zombie"
+  version: "Ranged, 4"
+  hitpoints: 110
+  att: 106
+  str: 94
+  def: 68
+  mage: 1
+  range: 94
+  dstab: 20
+  dslash: 20
+  attributes: "undead"
+}
+npcs {
   ids: 14122
   name: "Armoured zombie"
-  version: "Ranged"
+  version: "Ranged, 5"
   hitpoints: 110
   att: 106
   str: 94
@@ -17958,20 +18062,13 @@ npcs {
 }
 npcs {
   ids: 5213
-  name: "Jonny the beard"
+  name: "Jonny the Beard"
   hitpoints: 8
   att: 1
   str: 1
   def: 1
   mage: 1
   range: 1
-}
-npcs {
-  ids: 14139
-  name: "Jonny the Beard"
-  hitpoints: 8
-  att: 1
-  def: 1
 }
 npcs {
   ids: 9290
@@ -35114,7 +35211,7 @@ npcs {
   attributes: "demon"
 }
 npcs {
-  ids: 5211
+  ids: 14137
   name: "Weaponsmaster"
   hitpoints: 20
   att: 21
