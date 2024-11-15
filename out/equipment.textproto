@@ -104925,7 +104925,6 @@ items {
     name: "Dragon hunter wand"
     stat_bonuses {
       magic_attack: 16
-      magic_defence: 16
       magic_damage: 1.0
     }
     weapon_details {
