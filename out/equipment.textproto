@@ -103424,6 +103424,7 @@ items {
       stab_attack: 63
       slash_attack: 70
       slash_defence: 3
+      crush_defence: 2
       magic_defence: 5
       melee_strength: 13
     }
