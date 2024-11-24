@@ -9315,6 +9315,39 @@ npcs {
   dmagic: 15
 }
 npcs {
+  name: "Echo Cerberus"
+}
+npcs {
+  name: "Echo Corrupted Hunllef"
+}
+npcs {
+  name: "Echo Dagannoth Prime"
+}
+npcs {
+  name: "Echo Dagannoth Rex"
+}
+npcs {
+  name: "Echo Dagannoth Supreme"
+}
+npcs {
+  name: "Echo Grotesque Guardians"
+}
+npcs {
+  name: "Echo Hespori"
+}
+npcs {
+  name: "Echo Kalphite Queen"
+}
+npcs {
+  name: "Echo King Black Dragon"
+}
+npcs {
+  name: "Echo Sol Heredit"
+}
+npcs {
+  name: "Echo Thermonuclear smoke devil"
+}
+npcs {
   ids: 13012
   name: "Eclipse Moon"
   version: "Regular"
