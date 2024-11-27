@@ -9337,6 +9337,7 @@ npcs {
 }
 npcs {
   name: "Echo Kalphite Queen"
+  hitpoints: 69
 }
 npcs {
   name: "Echo King Black Dragon"
