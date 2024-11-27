@@ -105261,3 +105261,782 @@ items {
     }
   }
 }
+items {
+  key: 30357
+  value {
+    id: 30357
+    name: "Forager\'s pouch"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30361
+  value {
+    id: 30361
+    name: "Banker\'s briefcase"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30363
+  value {
+    id: 30363
+    name: "Clue compass"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30369
+  value {
+    id: 30369
+    name: "Sunlight spear"
+    stat_bonuses {
+      stab_attack: 125
+      slash_attack: 75
+      stab_defence: 70
+      slash_defence: 70
+      crush_defence: 70
+      ranged_defence: 70
+      magic_defence: 28
+      melee_strength: 113
+    }
+    weapon_details {
+      base_attack_speed: 5
+      base_attack_range: 1
+      combat_options {
+        name: "Lunge"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
+        }
+      }
+      combat_options {
+        name: "Swipe"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
+        }
+      }
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30371
+  value {
+    id: 30371
+    name: "Devil\'s element"
+    stat_bonuses {
+      magic_attack: 20
+      magic_damage: 0.6
+      prayer: 3
+    }
+  }
+}
+items {
+  key: 30373
+  value {
+    id: 30373
+    name: "Drygore blowpipe (empty)"
+    weapon_details {
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          ranged_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Rapid"
+        modifiers {
+          attack_speed_modifier: -1
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_RAPID
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30374
+  value {
+    id: 30374
+    name: "Drygore blowpipe"
+    weapon_details {
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          ranged_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Rapid"
+        modifiers {
+          attack_speed_modifier: -1
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_RAPID
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30376
+  value {
+    id: 30376
+    name: "Amulet of the monarchs"
+    stat_bonuses {
+      stab_attack: 30
+      slash_attack: 30
+      crush_attack: 30
+      ranged_attack: 30
+      magic_attack: 30
+      stab_defence: 30
+      slash_defence: 30
+      crush_defence: 30
+      ranged_defence: 30
+      magic_defence: 30
+      melee_strength: 15
+      ranged_strength: 15
+      magic_damage: 1.0
+      prayer: 10
+    }
+  }
+}
+items {
+  key: 30378
+  value {
+    id: 30378
+    name: "Emperor ring"
+    stat_bonuses {
+      stab_attack: 30
+      slash_attack: 30
+      crush_attack: 30
+      ranged_attack: 30
+      magic_attack: 30
+      stab_defence: 30
+      slash_defence: 30
+      crush_defence: 30
+      ranged_defence: 30
+      magic_defence: 30
+      melee_strength: 15
+      ranged_strength: 15
+      magic_damage: 0.5
+      prayer: 10
+    }
+  }
+}
+items {
+  key: 30380
+  value {
+    id: 30380
+    name: "Gloves of the damned"
+    stat_bonuses {
+      stab_attack: 12
+      slash_attack: 12
+      crush_attack: 12
+      ranged_attack: 12
+      magic_attack: 6
+      stab_defence: 12
+      slash_defence: 12
+      crush_defence: 12
+      ranged_defence: 12
+      magic_defence: 6
+      melee_strength: 12
+    }
+  }
+}
+items {
+  key: 30382
+  value {
+    id: 30382
+    name: "Thousand-dragon ward"
+    stat_bonuses {
+      stab_attack: 35
+      slash_attack: 35
+      crush_attack: 35
+      ranged_attack: 25
+      magic_attack: 15
+      stab_defence: 50
+      slash_defence: 55
+      crush_defence: 53
+      ranged_defence: 52
+      magic_defence: 40
+      melee_strength: 12
+      prayer: 6
+    }
+  }
+}
+items {
+  key: 30384
+  value {
+    id: 30384
+    name: "Crystal blessing"
+    stat_bonuses {
+      prayer: 5
+    }
+  }
+}
+items {
+  key: 30386
+  value {
+    id: 30386
+    name: "Sunlit bracers"
+    stat_bonuses {
+      stab_attack: 10
+      slash_attack: 10
+      crush_attack: 10
+      ranged_attack: 18
+      magic_attack: 6
+      stab_defence: 12
+      slash_defence: 12
+      crush_defence: 12
+      ranged_defence: 12
+      magic_defence: 6
+      melee_strength: 8
+      ranged_strength: 4
+    }
+  }
+}
+items {
+  key: 30388
+  value {
+    id: 30388
+    name: "Thunder khopesh"
+    stat_bonuses {
+      stab_attack: 65
+      slash_attack: 110
+      melee_strength: 100
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+      combat_options {
+        name: "Chop"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Slash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Lunge"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30390
+  value {
+    id: 30390
+    name: "Nature\'s reprisal"
+    stat_bonuses {
+      stab_attack: 95
+      ranged_attack: 155
+      magic_attack: 45
+      melee_strength: 103
+      ranged_strength: 92
+      magic_damage: 1.2
+    }
+    weapon_details {
+      base_attack_speed: 5
+      base_attack_range: 7
+    }
+  }
+}
+items {
+  key: 30392
+  value {
+    id: 30392
+    name: "Nature\'s reprisal (uncharged)"
+    stat_bonuses {
+      stab_attack: 95
+      ranged_attack: 155
+      magic_attack: 45
+      melee_strength: 103
+      ranged_strength: 92
+      magic_damage: 1.2
+    }
+    weapon_details {
+      base_attack_speed: 5
+      base_attack_range: 7
+    }
+  }
+}
+items {
+  key: 30406
+  value {
+    id: 30406
+    name: "Raging echoes top (t1)"
+  }
+}
+items {
+  key: 30408
+  value {
+    id: 30408
+    name: "Raging echoes robeskirt (t1)"
+  }
+}
+items {
+  key: 30410
+  value {
+    id: 30410
+    name: "Raging echoes boots (t1)"
+  }
+}
+items {
+  key: 30414
+  value {
+    id: 30414
+    name: "Raging echoes top (t2)"
+  }
+}
+items {
+  key: 30416
+  value {
+    id: 30416
+    name: "Raging echoes robeskirt (t2)"
+  }
+}
+items {
+  key: 30418
+  value {
+    id: 30418
+    name: "Raging echoes boots (t2)"
+  }
+}
+items {
+  key: 30422
+  value {
+    id: 30422
+    name: "Raging echoes top (t3)"
+  }
+}
+items {
+  key: 30424
+  value {
+    id: 30424
+    name: "Raging echoes robeskirt (t3)"
+  }
+}
+items {
+  key: 30426
+  value {
+    id: 30426
+    name: "Raging echoes boots (t3)"
+  }
+}
+items {
+  key: 30428
+  value {
+    id: 30428
+    name: "Raging echoes cane"
+    stat_bonuses {
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Spike"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30430
+  value {
+    id: 30430
+    name: "Raging echoes banner"
+    stat_bonuses {
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+      combat_options {
+        name: "Lunge"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Swipe"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30434
+  value {
+    id: 30434
+    name: "Echo venator bow"
+  }
+}
+items {
+  key: 30439
+  value {
+    id: 30439
+    name: "Echo virtus robe top"
+    stat_bonuses {
+      ranged_attack: -11
+      magic_attack: 35
+      stab_defence: 47
+      slash_defence: 38
+      crush_defence: 56
+      magic_defence: 31
+      magic_damage: 0.2
+      prayer: 2
+    }
+  }
+}
+items {
+  key: 30441
+  value {
+    id: 30441
+    name: "Echo virtus robe bottom"
+    stat_bonuses {
+      ranged_attack: -9
+      magic_attack: 26
+      stab_defence: 31
+      slash_defence: 28
+      crush_defence: 34
+      magic_defence: 22
+      magic_damage: 0.2
+      prayer: 1
+    }
+  }
+}
+items {
+  key: 30447
+  value {
+    id: 30447
+    name: "Echo ahrim\'s robetop"
+  }
+}
+items {
+  key: 30449
+  value {
+    id: 30449
+    name: "Echo ahrim\'s robeskirt"
+  }
+}
+items {
+  key: 30453
+  value {
+    id: 30453
+    name: "Echo home teleport scroll"
+  }
+}
+items {
+  key: 30465
+  value {
+    id: 30465
+    name: "Raging echoes dragon trophy"
+    stat_bonuses {
+      stab_attack: -100
+      slash_attack: -100
+      crush_attack: -50
+      melee_strength: -10
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30467
+  value {
+    id: 30467
+    name: "Raging echoes rune trophy"
+    stat_bonuses {
+      stab_attack: -100
+      slash_attack: -100
+      crush_attack: -50
+      melee_strength: -10
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30469
+  value {
+    id: 30469
+    name: "Raging echoes adamant trophy"
+    stat_bonuses {
+      stab_attack: -100
+      slash_attack: -100
+      crush_attack: -50
+      melee_strength: -10
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30471
+  value {
+    id: 30471
+    name: "Raging echoes mithril trophy"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30473
+  value {
+    id: 30473
+    name: "Raging echoes steel trophy"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30475
+  value {
+    id: 30475
+    name: "Raging echoes iron trophy"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30477
+  value {
+    id: 30477
+    name: "Raging echoes bronze trophy"
+    stat_bonuses {
+    }
+  }
+}
