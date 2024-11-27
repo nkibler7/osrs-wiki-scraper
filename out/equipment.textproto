@@ -106206,6 +106206,8 @@ items {
   value {
     id: 30406
     name: "Raging echoes top (t1)"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -106213,6 +106215,8 @@ items {
   value {
     id: 30408
     name: "Raging echoes robeskirt (t1)"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -106220,6 +106224,8 @@ items {
   value {
     id: 30410
     name: "Raging echoes boots (t1)"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -106227,6 +106233,8 @@ items {
   value {
     id: 30414
     name: "Raging echoes top (t2)"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -106234,6 +106242,8 @@ items {
   value {
     id: 30416
     name: "Raging echoes robeskirt (t2)"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -106241,6 +106251,8 @@ items {
   value {
     id: 30418
     name: "Raging echoes boots (t2)"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -106248,6 +106260,8 @@ items {
   value {
     id: 30422
     name: "Raging echoes top (t3)"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -106255,6 +106269,8 @@ items {
   value {
     id: 30424
     name: "Raging echoes robeskirt (t3)"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -106262,6 +106278,8 @@ items {
   value {
     id: 30426
     name: "Raging echoes boots (t3)"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -106272,7 +106290,7 @@ items {
     stat_bonuses {
     }
     weapon_details {
-      base_attack_speed: 4
+      base_attack_speed: 5
       base_attack_range: 1
       combat_options {
         name: "Pound"
@@ -106371,6 +106389,41 @@ items {
   value {
     id: 30434
     name: "Echo venator bow"
+    stat_bonuses {
+      ranged_attack: 90
+      ranged_strength: 25
+    }
+    weapon_details {
+      base_attack_speed: 5
+      base_attack_range: 6
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          ranged_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Rapid"
+        modifiers {
+          attack_speed_modifier: -1
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_RAPID
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
   }
 }
 items {
