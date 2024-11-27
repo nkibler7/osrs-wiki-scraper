@@ -105262,6 +105262,15 @@ items {
   }
 }
 items {
+  key: 30340
+  value {
+    id: 30340
+    name: "Crystal dagger (perfected)"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 30357
   value {
     id: 30357
@@ -105285,6 +105294,59 @@ items {
     id: 30363
     name: "Clue compass"
     stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30367
+  value {
+    id: 30367
+    name: "The dogsword"
+    stat_bonuses {
+      slash_attack: 132
+      crush_attack: 80
+      melee_strength: 132
+      prayer: 8
+    }
+    weapon_details {
+      base_attack_speed: 6
+      base_attack_range: 1
+      combat_options {
+        name: "Chop"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Slash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Smash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
     }
   }
 }
