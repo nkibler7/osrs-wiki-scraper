@@ -105271,6 +105271,489 @@ items {
   }
 }
 items {
+  key: 30342
+  value {
+    id: 30342
+    name: "Infernal harpoon (or)"
+    stat_bonuses {
+      stab_attack: 38
+      slash_attack: 32
+      slash_defence: 1
+      melee_strength: 42
+    }
+    weapon_details {
+      base_attack_speed: 5
+      base_attack_range: 1
+      combat_options {
+        name: "Stab"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Lunge"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Slash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30343
+  value {
+    id: 30343
+    name: "Infernal harpoon (uncharged)"
+    stat_bonuses {
+      stab_attack: 38
+      slash_attack: 32
+      slash_defence: 1
+      melee_strength: 42
+    }
+    weapon_details {
+      base_attack_speed: 5
+      base_attack_range: 1
+      combat_options {
+        name: "Stab"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Lunge"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Slash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30345
+  value {
+    id: 30345
+    name: "Infernal pickaxe (or)"
+    stat_bonuses {
+      stab_attack: 38
+      slash_attack: -2
+      crush_attack: 32
+      slash_defence: 1
+      melee_strength: 42
+    }
+    weapon_details {
+      base_attack_speed: 5
+      base_attack_range: 1
+      combat_options {
+        name: "Spike"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Impale"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Smash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30346
+  value {
+    id: 30346
+    name: "Infernal pickaxe (uncharged)"
+    stat_bonuses {
+      stab_attack: 38
+      slash_attack: -2
+      crush_attack: 32
+      slash_defence: 1
+      melee_strength: 42
+    }
+    weapon_details {
+      base_attack_speed: 5
+      base_attack_range: 1
+      combat_options {
+        name: "Spike"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Impale"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Smash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30347
+  value {
+    id: 30347
+    name: "Infernal axe (or)"
+    stat_bonuses {
+      stab_attack: -2
+      slash_attack: 38
+      crush_attack: 32
+      slash_defence: 1
+      melee_strength: 42
+    }
+    weapon_details {
+      base_attack_speed: 5
+      base_attack_range: 1
+      combat_options {
+        name: "Chop"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Hack"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Smash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30348
+  value {
+    id: 30348
+    name: "Infernal axe (uncharged)"
+    stat_bonuses {
+      stab_attack: -2
+      slash_attack: 38
+      crush_attack: 32
+      slash_defence: 1
+      melee_strength: 42
+    }
+    weapon_details {
+      base_attack_speed: 5
+      base_attack_range: 1
+      combat_options {
+        name: "Chop"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Hack"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Smash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30349
+  value {
+    id: 30349
+    name: "Dragon harpoon (or)"
+    stat_bonuses {
+      stab_attack: 38
+      slash_attack: 32
+      slash_defence: 1
+      melee_strength: 42
+    }
+    weapon_details {
+      base_attack_speed: 5
+      base_attack_range: 1
+      combat_options {
+        name: "Stab"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Lunge"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Slash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30351
+  value {
+    id: 30351
+    name: "Dragon pickaxe (or)"
+    stat_bonuses {
+      stab_attack: 38
+      slash_attack: -2
+      crush_attack: 32
+      slash_defence: 1
+      melee_strength: 42
+    }
+    weapon_details {
+      base_attack_speed: 5
+      base_attack_range: 1
+      combat_options {
+        name: "Spike"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Impale"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Smash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30352
+  value {
+    id: 30352
+    name: "Dragon axe (or)"
+    stat_bonuses {
+      stab_attack: -2
+      slash_attack: 38
+      crush_attack: 32
+      slash_defence: 1
+      melee_strength: 42
+    }
+    weapon_details {
+      base_attack_speed: 5
+      base_attack_range: 1
+      combat_options {
+        name: "Chop"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Hack"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Smash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
   key: 30357
   value {
     id: 30357
@@ -105430,7 +105913,12 @@ items {
   value {
     id: 30373
     name: "Drygore blowpipe (empty)"
+    stat_bonuses {
+      ranged_attack: 50
+    }
     weapon_details {
+      base_attack_speed: 3
+      base_attack_range: 6
       combat_options {
         name: "Accurate"
         modifiers {
@@ -105466,7 +105954,13 @@ items {
   value {
     id: 30374
     name: "Drygore blowpipe"
+    stat_bonuses {
+      ranged_attack: 50
+      ranged_strength: 10
+    }
     weapon_details {
+      base_attack_speed: 3
+      base_attack_range: 6
       combat_options {
         name: "Accurate"
         modifiers {
