@@ -106465,6 +106465,15 @@ items {
   value {
     id: 30447
     name: "Echo ahrim\'s robetop"
+    stat_bonuses {
+      ranged_attack: -10
+      magic_attack: 30
+      stab_defence: 52
+      slash_defence: 37
+      crush_defence: 63
+      magic_defence: 30
+      magic_damage: 0.1
+    }
   }
 }
 items {
@@ -106472,6 +106481,15 @@ items {
   value {
     id: 30449
     name: "Echo ahrim\'s robeskirt"
+    stat_bonuses {
+      ranged_attack: -7
+      magic_attack: 22
+      stab_defence: 33
+      slash_defence: 30
+      crush_defence: 36
+      magic_defence: 22
+      magic_damage: 0.1
+    }
   }
 }
 items {
@@ -106620,6 +106638,35 @@ items {
     name: "Raging echoes mithril trophy"
     stat_bonuses {
     }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
   }
 }
 items {
@@ -106628,6 +106675,35 @@ items {
     id: 30473
     name: "Raging echoes steel trophy"
     stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
     }
   }
 }
@@ -106638,6 +106714,35 @@ items {
     name: "Raging echoes iron trophy"
     stat_bonuses {
     }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
   }
 }
 items {
@@ -106646,6 +106751,35 @@ items {
     id: 30477
     name: "Raging echoes bronze trophy"
     stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
     }
   }
 }
