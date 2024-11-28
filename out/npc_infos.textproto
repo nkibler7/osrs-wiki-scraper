@@ -9335,6 +9335,19 @@ npcs {
 }
 npcs {
   name: "Echo Hespori"
+  hitpoints: 900
+  att: 1
+  str: 1
+  def: 120
+  mage: 250
+  range: 200
+  amagic: 150
+  arange: 150
+  dstab: 60
+  dslash: 20
+  dcrush: 60
+  dmagic: 80
+  drange: 80
 }
 npcs {
   name: "Echo Kalphite Queen"
