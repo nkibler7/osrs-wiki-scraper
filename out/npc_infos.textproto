@@ -9319,6 +9319,7 @@ npcs {
 }
 npcs {
   name: "Echo Corrupted Hunllef"
+  hitpoints: 1100
 }
 npcs {
   name: "Echo Dagannoth Prime"
