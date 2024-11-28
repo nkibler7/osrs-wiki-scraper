@@ -105267,6 +105267,13 @@ items {
     id: 30340
     name: "Crystal dagger (perfected)"
     stat_bonuses {
+      stab_attack: 20
+      slash_attack: 140
+      crush_attack: -4
+      magic_attack: 1
+      magic_defence: 1
+      melee_strength: 40
+      prayer: 3
     }
   }
 }
