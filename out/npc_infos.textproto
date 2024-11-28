@@ -9358,6 +9358,7 @@ npcs {
 }
 npcs {
   name: "Echo Sol Heredit"
+  hitpoints: 1725
 }
 npcs {
   name: "Echo Thermonuclear smoke devil"
