@@ -19087,6 +19087,17 @@ npcs {
 }
 npcs {
   name: "Echo King Black Dragon"
+  hitpoints: 840
+  att: 300
+  str: 300
+  def: 300
+  mage: 252
+  range: 1
+  dstab: 60
+  dslash: 90
+  dcrush: 90
+  dmagic: 80
+  drange: 70
 }
 npcs {
   ids: 6502
