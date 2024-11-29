@@ -5801,6 +5801,9 @@ npcs {
   attributes: "Demon"
 }
 npcs {
+  name: "Echo Cerberus"
+}
+npcs {
   ids: 11482
   ids: 11483
   name: "Champion of Scabaras"
@@ -6489,6 +6492,10 @@ npcs {
   dcrush: 20
   dmagic: 20
   drange: 20
+}
+npcs {
+  name: "Echo Corrupted Hunllef"
+  hitpoints: 1100
 }
 npcs {
   ids: 9040
@@ -7669,6 +7676,10 @@ npcs {
   drange: 10
 }
 npcs {
+  name: "Echo Dagannoth Prime"
+  hitpoints: 1800
+}
+npcs {
   ids: 6497
   name: "Dagannoth Prime"
   hitpoints: 255
@@ -7725,6 +7736,10 @@ npcs {
   dcrush: 255
   dmagic: 10
   drange: 255
+}
+npcs {
+  name: "Echo Dagannoth Rex"
+  hitpoints: 1800
 }
 npcs {
   ids: 6498
@@ -9313,55 +9328,6 @@ npcs {
   def: 10
   mage: 10
   dmagic: 15
-}
-npcs {
-  name: "Echo Cerberus"
-}
-npcs {
-  name: "Echo Corrupted Hunllef"
-  hitpoints: 1100
-}
-npcs {
-  name: "Echo Dagannoth Prime"
-}
-npcs {
-  name: "Echo Dagannoth Rex"
-}
-npcs {
-  name: "Echo Dagannoth Supreme"
-}
-npcs {
-  name: "Echo Grotesque Guardians"
-}
-npcs {
-  name: "Echo Hespori"
-  hitpoints: 900
-  att: 1
-  str: 1
-  def: 120
-  mage: 250
-  range: 200
-  amagic: 150
-  arange: 150
-  dstab: 60
-  dslash: 20
-  dcrush: 60
-  dmagic: 80
-  drange: 80
-}
-npcs {
-  name: "Echo Kalphite Queen"
-  hitpoints: 69
-}
-npcs {
-  name: "Echo King Black Dragon"
-}
-npcs {
-  name: "Echo Sol Heredit"
-  hitpoints: 1725
-}
-npcs {
-  name: "Echo Thermonuclear smoke devil"
 }
 npcs {
   ids: 13012
@@ -13971,6 +13937,9 @@ npcs {
   range: 1
 }
 npcs {
+  name: "Echo Grotesque Guardians"
+}
+npcs {
   ids: 2207
   name: "Growler"
   hitpoints: 146
@@ -16184,6 +16153,22 @@ npcs {
   def: 120
   mage: 126
   range: 150
+  amagic: 150
+  arange: 150
+  dstab: 60
+  dslash: 20
+  dcrush: 60
+  dmagic: 80
+  drange: 80
+}
+npcs {
+  name: "Echo Hespori"
+  hitpoints: 900
+  att: 1
+  str: 1
+  def: 120
+  mage: 250
+  range: 200
   amagic: 150
   arange: 150
   dstab: 60
@@ -18543,6 +18528,10 @@ npcs {
   attributes: "kalphite"
 }
 npcs {
+  name: "Echo Kalphite Queen"
+  hitpoints: 69
+}
+npcs {
   ids: 6500
   name: "Kalphite Queen"
   version: "Crawling"
@@ -19099,6 +19088,9 @@ npcs {
   dmagic: 80
   drange: 70
   attributes: "dragon"
+}
+npcs {
+  name: "Echo King Black Dragon"
 }
 npcs {
   ids: 6502
@@ -29503,6 +29495,10 @@ npcs {
   drange: 825
 }
 npcs {
+  name: "Echo Sol Heredit"
+  hitpoints: 1725
+}
+npcs {
   ids: 4088
   name: "Soldier"
   hitpoints: 50
@@ -31820,6 +31816,9 @@ npcs {
   dcrush: 20
   dmagic: 200
   drange: 300
+}
+npcs {
+  name: "Echo Thermonuclear smoke devil"
 }
 npcs {
   ids: 3252
