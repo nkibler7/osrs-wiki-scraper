@@ -18528,10 +18528,6 @@ npcs {
   attributes: "kalphite"
 }
 npcs {
-  name: "Echo Kalphite Queen"
-  hitpoints: 69
-}
-npcs {
   ids: 6500
   name: "Kalphite Queen"
   version: "Crawling"
