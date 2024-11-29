@@ -16163,7 +16163,7 @@ npcs {
 }
 npcs {
   name: "Echo Hespori"
-  hitpoints: 300
+  hitpoints: 900
   att: 1
   str: 1
   def: 120
