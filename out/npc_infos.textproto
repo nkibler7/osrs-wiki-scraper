@@ -13316,6 +13316,14 @@ npcs {
   ids: 3047
   name: "Goblin"
   version: "Red (updated)"
+  hitpoints: 12
+  att: 3
+  str: 1
+  def: 4
+  mage: 1
+  range: 1
+  attbns: 12
+  strbns: 12
 }
 npcs {
   ids: 2484
@@ -19300,6 +19308,11 @@ npcs {
   def: 31
   mage: 1
   range: 1
+  strbns: 10
+  dstab: 39
+  dslash: 40
+  dcrush: 36
+  dmagic: -11
 }
 npcs {
   ids: 2214
