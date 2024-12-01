@@ -29519,6 +29519,20 @@ npcs {
 npcs {
   name: "Echo Sol Heredit"
   hitpoints: 1725
+  att: 350
+  str: 400
+  def: 220
+  mage: 300
+  range: 350
+  attbns: 250
+  strbns: 5
+  arange: 150
+  rngbns: 5
+  dstab: 65
+  dslash: 5
+  dcrush: 30
+  dmagic: 750
+  drange: 825
 }
 npcs {
   ids: 4088
