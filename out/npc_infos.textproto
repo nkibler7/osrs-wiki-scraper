@@ -13946,6 +13946,12 @@ npcs {
 }
 npcs {
   name: "Echo Grotesque Guardians"
+  hitpoints: 1080
+  att: 345
+  str: 287
+  def: 187
+  mage: 262
+  range: 387
 }
 npcs {
   ids: 2207
