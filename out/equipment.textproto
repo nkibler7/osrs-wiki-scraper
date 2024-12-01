@@ -105791,7 +105791,7 @@ items {
   key: 30367
   value {
     id: 30367
-    name: "The dogsword"
+    name: "The dogsword hi"
     stat_bonuses {
       slash_attack: 132
       crush_attack: 80
