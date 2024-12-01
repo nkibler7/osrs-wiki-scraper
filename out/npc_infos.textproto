@@ -18542,6 +18542,20 @@ npcs {
   attributes: "kalphite"
 }
 npcs {
+  name: "Echo Kalphite Queen"
+  hitpoints: 561
+  att: 375
+  str: 375
+  def: 300
+  mage: 165
+  range: 1
+  dstab: 50
+  dslash: 50
+  dcrush: 10
+  dmagic: 100
+  drange: 100
+}
+npcs {
   ids: 6500
   name: "Kalphite Queen"
   version: "Crawling"
