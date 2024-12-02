@@ -5801,7 +5801,7 @@ npcs {
   attributes: "Demon"
 }
 npcs {
-  name: "Echo Cerberus"
+  name: "Cerberus (Echo)"
 }
 npcs {
   ids: 11482
@@ -6494,7 +6494,7 @@ npcs {
   drange: 20
 }
 npcs {
-  name: "Echo Corrupted Hunllef"
+  name: "Corrupted Hunllef (Echo)"
   hitpoints: 1100
 }
 npcs {
@@ -7676,7 +7676,7 @@ npcs {
   drange: 10
 }
 npcs {
-  name: "Echo Dagannoth Prime"
+  name: "Dagannoth Prime (Echo)"
   hitpoints: 1800
 }
 npcs {
@@ -7738,7 +7738,7 @@ npcs {
   drange: 255
 }
 npcs {
-  name: "Echo Dagannoth Rex"
+  name: "Dagannoth Rex (Echo)"
   hitpoints: 1800
 }
 npcs {
@@ -16163,7 +16163,7 @@ npcs {
   drange: 80
 }
 npcs {
-  name: "Echo Hespori"
+  name: "Hespori (Echo)"
   hitpoints: 900
   att: 1
   str: 1
@@ -18529,7 +18529,7 @@ npcs {
   attributes: "kalphite"
 }
 npcs {
-  name: "Echo Kalphite Queen"
+  name: "Kalphite Queen (Echo)"
   hitpoints: 561
   att: 375
   str: 375
@@ -19101,7 +19101,7 @@ npcs {
   attributes: "dragon"
 }
 npcs {
-  name: "Echo King Black Dragon"
+  name: "King Black Dragon (Echo)"
   hitpoints: 840
   att: 300
   str: 300
@@ -29517,7 +29517,7 @@ npcs {
   drange: 825
 }
 npcs {
-  name: "Echo Sol Heredit"
+  name: "Sol Heredit (Echo)"
   hitpoints: 1725
   att: 350
   str: 400
@@ -31854,7 +31854,7 @@ npcs {
   drange: 300
 }
 npcs {
-  name: "Echo Thermonuclear smoke devil"
+  name: "Thermonuclear smoke devil (Echo)"
 }
 npcs {
   ids: 3252
