@@ -5802,6 +5802,7 @@ npcs {
 }
 npcs {
   name: "Cerberus (Echo)"
+  hitpoints: 600
 }
 npcs {
   ids: 11482
