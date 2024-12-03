@@ -5802,7 +5802,20 @@ npcs {
 }
 npcs {
   name: "Cerberus (Echo)"
-  hitpoints: 600
+  hitpoints: 1620
+  att: 275
+  str: 275
+  def: 115
+  mage: 275
+  range: 275
+  attbns: 50
+  mbns: 50
+  rngbns: 50
+  dstab: 50
+  dslash: 100
+  dcrush: 25
+  dmagic: 100
+  drange: 100
 }
 npcs {
   ids: 11482
