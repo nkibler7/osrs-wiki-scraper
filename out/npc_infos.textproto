@@ -31855,6 +31855,17 @@ npcs {
 }
 npcs {
   name: "Thermonuclear smoke devil (Echo)"
+  hitpoints: 602
+  att: 230
+  str: 220
+  def: 324
+  mage: 15
+  range: 387
+  dstab: 11
+  dslash: 4
+  dcrush: 9
+  dmagic: 800
+  drange: 900
 }
 npcs {
   ids: 3252
