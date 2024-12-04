@@ -5809,8 +5809,8 @@ npcs {
   mage: 275
   range: 275
   attbns: 50
-  mbns: 50
-  rngbns: 50
+  amagic: 50
+  arange: 50
   dstab: 50
   dslash: 100
   dcrush: 25
