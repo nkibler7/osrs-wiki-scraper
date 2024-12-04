@@ -5816,6 +5816,7 @@ npcs {
   dcrush: 25
   dmagic: 100
   drange: 100
+  attributes: "Demon"
 }
 npcs {
   ids: 11482
