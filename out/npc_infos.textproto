@@ -18557,15 +18557,23 @@ npcs {
   dcrush: 10
   dmagic: 100
   drange: 100
+  attributes: "Kalphite"
 }
 npcs {
   name: "Kalphite Queen (Echo)"
   version: "Airborne"
-  dstab: 50
-  dslash: 50
-  dcrush: 10
-  dmagic: 100
-  drange: 100
+  hitpoints: 561
+  att: 375
+  str: 375
+  def: 300
+  mage: 165
+  range: 1
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 10
+  drange: 10
+  attributes: "Kalphite"
 }
 npcs {
   ids: 6500
