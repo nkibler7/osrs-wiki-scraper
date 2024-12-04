@@ -18545,12 +18545,22 @@ npcs {
 }
 npcs {
   name: "Kalphite Queen (Echo)"
+  version: "Crawling"
   hitpoints: 561
   att: 375
   str: 375
   def: 300
   mage: 165
   range: 1
+  dstab: 50
+  dslash: 50
+  dcrush: 10
+  dmagic: 100
+  drange: 100
+}
+npcs {
+  name: "Kalphite Queen (Echo)"
+  version: "Airborne"
   dstab: 50
   dslash: 50
   dcrush: 10
