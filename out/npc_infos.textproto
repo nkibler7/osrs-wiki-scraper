@@ -7693,6 +7693,15 @@ npcs {
 npcs {
   name: "Dagannoth Prime (Echo)"
   hitpoints: 1800
+  att: 255
+  str: 255
+  def: 255
+  mage: 400
+  dstab: 255
+  dslash: 255
+  dcrush: 255
+  dmagic: 255
+  drange: 10
 }
 npcs {
   ids: 6497
@@ -7755,6 +7764,15 @@ npcs {
 npcs {
   name: "Dagannoth Rex (Echo)"
   hitpoints: 1800
+  att: 400
+  str: 400
+  def: 255
+  range: 255
+  dstab: 255
+  dslash: 255
+  dcrush: 255
+  dmagic: 10
+  drange: 255
 }
 npcs {
   ids: 6498
@@ -8129,6 +8147,15 @@ npcs {
   dmagic: 80
 }
 npcs {
+  name: "Dawn"
+  hitpoints: 450
+  att: 140
+  str: 140
+  def: 100
+  mage: 100
+  range: 140
+}
+npcs {
   ids: 3021
   name: "Deadly red spider"
   hitpoints: 35
@@ -8273,6 +8300,15 @@ npcs {
   hitpoints: 97
   def: 65
   range: 117
+}
+npcs {
+  name: "Definitely Not Dusk"
+  hitpoints: 450
+  att: 200
+  str: 140
+  def: 100
+  mage: 140
+  range: 140
 }
 npcs {
   ids: 5079
@@ -9128,6 +9164,15 @@ npcs {
   def: 150
   mage: 250
   range: 250
+}
+npcs {
+  name: "Dusk (Echo)"
+  hitpoints: 1080
+  att: 345
+  str: 287
+  def: 187
+  mage: 262
+  range: 387
 }
 npcs {
   ids: 423
