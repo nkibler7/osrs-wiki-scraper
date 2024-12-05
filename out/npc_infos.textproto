@@ -13993,7 +13993,7 @@ npcs {
 }
 npcs {
   name: "Echo Grotesque Guardians"
-  hitpoints: 450
+  hitpoints: 1080
   att: 345
   str: 287
   def: 187
