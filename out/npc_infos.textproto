@@ -31933,7 +31933,7 @@ npcs {
 }
 npcs {
   name: "Thermonuclear smoke devil (Echo)"
-  hitpoints: 602
+  hitpoints: 1200
   att: 230
   str: 220
   def: 324
