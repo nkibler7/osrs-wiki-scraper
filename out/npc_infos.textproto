@@ -8147,6 +8147,10 @@ npcs {
   dmagic: 80
 }
 npcs {
+  ids: 7850
+  ids: 7852
+  ids: 7884
+  ids: 7885
   name: "Dawn"
   hitpoints: 450
   att: 140
@@ -8302,6 +8306,9 @@ npcs {
   range: 117
 }
 npcs {
+  ids: 7849
+  ids: 7882
+  ids: 7889
   name: "Definitely Not Dusk"
   hitpoints: 450
   att: 200
@@ -9166,6 +9173,8 @@ npcs {
   range: 250
 }
 npcs {
+  ids: 7888
+  ids: 7889
   name: "Dusk (Echo)"
   hitpoints: 1080
   att: 345
