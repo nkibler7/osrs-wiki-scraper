@@ -6511,9 +6511,6 @@ npcs {
 npcs {
   name: "Corrupted Hunllef (Echo)"
   hitpoints: 1100
-  att: 1
-  str: 1
-  def: 1
 }
 npcs {
   ids: 9040
