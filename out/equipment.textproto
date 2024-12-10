@@ -106784,3 +106784,17 @@ items {
     }
   }
 }
+items {
+  key: 30489
+  value {
+    id: 30489
+    name: "Festive scarf"
+  }
+}
+items {
+  key: 30491
+  value {
+    id: 30491
+    name: "Dog boots"
+  }
+}
