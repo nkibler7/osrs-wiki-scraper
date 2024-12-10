@@ -106789,6 +106789,8 @@ items {
   value {
     id: 30489
     name: "Festive scarf"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -106796,5 +106798,7 @@ items {
   value {
     id: 30491
     name: "Dog boots"
+    stat_bonuses {
+    }
   }
 }
