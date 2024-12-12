@@ -8147,19 +8147,6 @@ npcs {
   dmagic: 80
 }
 npcs {
-  ids: 7850
-  ids: 7852
-  ids: 7884
-  ids: 7885
-  name: "Dawn"
-  hitpoints: 450
-  att: 140
-  str: 140
-  def: 100
-  mage: 100
-  range: 140
-}
-npcs {
   ids: 3021
   name: "Deadly red spider"
   hitpoints: 35
@@ -8307,8 +8294,6 @@ npcs {
 }
 npcs {
   ids: 7849
-  ids: 7882
-  ids: 7889
   name: "Definitely Not Dusk"
   hitpoints: 450
   att: 200
@@ -9171,17 +9156,6 @@ npcs {
   def: 150
   mage: 250
   range: 250
-}
-npcs {
-  ids: 7888
-  ids: 7889
-  name: "Dusk (Echo)"
-  hitpoints: 1080
-  att: 345
-  str: 287
-  def: 187
-  mage: 262
-  range: 387
 }
 npcs {
   ids: 423
