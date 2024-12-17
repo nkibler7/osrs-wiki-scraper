@@ -7691,6 +7691,7 @@ npcs {
   drange: 10
 }
 npcs {
+  ids: 2265
   name: "Dagannoth Prime (Echo)"
   hitpoints: 1800
   att: 255
@@ -7762,6 +7763,7 @@ npcs {
   drange: 255
 }
 npcs {
+  ids: 2267
   name: "Dagannoth Rex (Echo)"
   hitpoints: 1800
   att: 400
