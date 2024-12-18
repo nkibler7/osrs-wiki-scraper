@@ -88245,7 +88245,7 @@ items {
       ranged_attack: -11
       magic_attack: 35
       stab_defence: 47
-      slash_defence: 38
+      slash_defence: 36
       crush_defence: 56
       magic_defence: 31
       magic_damage: 0.2
