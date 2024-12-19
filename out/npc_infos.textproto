@@ -29578,6 +29578,7 @@ npcs {
   drange: 825
 }
 npcs {
+  ids: 12821
   name: "Sol Heredit (Echo)"
   hitpoints: 1725
   att: 350
