@@ -10473,7 +10473,6 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 1870
   ids: 6367
   name: "Evil Chicken"
   version: "Normal"
@@ -10491,6 +10490,26 @@ npcs {
   hitpoints: 240
   def: 126
   mage: 400
+  range: 1
+}
+npcs {
+  ids: 1870
+  name: "Evil Chicken"
+  hitpoints: 120
+  att: 1
+  str: 1
+  def: 126
+  mage: 200
+  range: 1
+}
+npcs {
+  ids: 1870
+  name: "Evil Chicken"
+  hitpoints: 120
+  att: 1
+  str: 1
+  def: 126
+  mage: 200
   range: 1
 }
 npcs {
