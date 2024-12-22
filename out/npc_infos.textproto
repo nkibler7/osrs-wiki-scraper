@@ -22071,31 +22071,6 @@ npcs {
   strbns: -21
 }
 npcs {
-  ids: 949
-  ids: 950
-  ids: 951
-  ids: 952
-  ids: 953
-  ids: 7658
-  ids: 7659
-  ids: 7660
-  ids: 7661
-  ids: 7662
-  name: "Mummy"
-  version: "Level 84"
-  hitpoints: 90
-  att: 90
-  str: 30
-  def: 90
-  mage: 1
-  range: 1
-  strbns: 30
-  dstab: 90
-  dslash: 90
-  dcrush: 30
-  dmagic: 90
-}
-npcs {
   ids: 717
   name: "Mummy"
   version: "Level 96"
@@ -22125,15 +22100,113 @@ npcs {
 }
 npcs {
   ids: 720
+  name: "Mummy"
+  version: "1"
+  hitpoints: 90
+  att: 90
+  str: 90
+  def: 90
+  mage: 1
+  range: 1
+  strbns: 90
+  dstab: 90
+  dslash: 90
+  dcrush: 90
+}
+npcs {
   ids: 721
+  name: "Mummy"
+  version: "2"
+  hitpoints: 90
+  att: 90
+  str: 90
+  def: 90
+  mage: 1
+  range: 1
+  strbns: 90
+  dstab: 90
+  dslash: 90
+  dcrush: 90
+}
+npcs {
   ids: 722
+  name: "Mummy"
+  version: "3"
+  hitpoints: 90
+  att: 90
+  str: 90
+  def: 90
+  mage: 1
+  range: 1
+  strbns: 90
+  dstab: 90
+  dslash: 90
+  dcrush: 90
+}
+npcs {
   ids: 723
+  name: "Mummy"
+  version: "4"
+  hitpoints: 90
+  att: 90
+  str: 90
+  def: 90
+  mage: 1
+  range: 1
+  strbns: 90
+  dstab: 90
+  dslash: 90
+  dcrush: 90
+}
+npcs {
   ids: 725
+  name: "Mummy"
+  version: "1 alight"
+  hitpoints: 90
+  att: 90
+  str: 90
+  def: 90
+  mage: 1
+  range: 1
+  strbns: 90
+  dstab: 90
+  dslash: 90
+  dcrush: 90
+}
+npcs {
   ids: 726
+  name: "Mummy"
+  version: "2 alight"
+  hitpoints: 90
+  att: 90
+  str: 90
+  def: 90
+  mage: 1
+  range: 1
+  strbns: 90
+  dstab: 90
+  dslash: 90
+  dcrush: 90
+}
+npcs {
   ids: 727
+  name: "Mummy"
+  version: "3 alight"
+  hitpoints: 90
+  att: 90
+  str: 90
+  def: 90
+  mage: 1
+  range: 1
+  strbns: 90
+  dstab: 90
+  dslash: 90
+  dcrush: 90
+}
+npcs {
   ids: 728
   name: "Mummy"
-  version: "Level 103"
+  version: "4 alight"
   hitpoints: 90
   att: 90
   str: 90
