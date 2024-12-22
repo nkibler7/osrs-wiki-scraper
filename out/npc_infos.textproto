@@ -17081,6 +17081,22 @@ npcs {
 }
 npcs {
   ids: 5822
+  name: "Ice Troll King"
+  hitpoints: 150
+  att: 100
+  str: 100
+  def: 80
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 60
+  dstab: 45
+  dslash: 45
+  dcrush: 45
+  dmagic: 2000
+  drange: 2000
+}
+npcs {
   ids: 6356
   name: "Ice Troll King"
   version: "Normal"
