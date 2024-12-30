@@ -82994,6 +82994,13 @@ items {
   }
 }
 items {
+  key: 25104
+  value {
+    id: 25104
+    name: "Crystal of echoes"
+  }
+}
+items {
   key: 25106
   value {
     id: 25106
