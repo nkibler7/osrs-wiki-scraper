@@ -3423,6 +3423,36 @@ npcs {
   dmagic: 20
 }
 npcs {
+  ids: 9283
+  ids: 9284
+  name: "Basilisk"
+  version: "1"
+  hitpoints: 75
+  att: 30
+  str: 45
+  def: 75
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  dmagic: 20
+}
+npcs {
+  ids: 9285
+  ids: 9286
+  name: "Basilisk"
+  version: "2"
+  hitpoints: 75
+  att: 30
+  str: 45
+  def: 75
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  dmagic: 20
+}
+npcs {
   ids: 9293
   name: "Basilisk Knight"
   hitpoints: 300
