@@ -33477,20 +33477,6 @@ npcs {
   attributes: "leafy"
 }
 npcs {
-  ids: 426
-  name: "Turoth"
-  version: "Level 86 (unused)"
-  hitpoints: 78
-  att: 55
-  str: 85
-  def: 85
-  mage: 1
-  range: 1
-  dslash: 20
-  dcrush: 20
-  attributes: "leafy"
-}
-npcs {
   ids: 428
   name: "Turoth"
   version: "Level 87"
@@ -33498,21 +33484,6 @@ npcs {
   att: 56
   str: 86
   def: 86
-  mage: 1
-  range: 1
-  dslash: 20
-  dcrush: 20
-  attributes: "leafy"
-}
-npcs {
-  ids: 431
-  ids: 432
-  name: "Turoth"
-  version: "Level 88 (unused)"
-  hitpoints: 80
-  att: 57
-  str: 87
-  def: 87
   mage: 1
   range: 1
   dslash: 20
