@@ -99123,14 +99123,14 @@ items {
     id: 28199
     name: "Iron felling axe"
     stat_bonuses {
-      stab_attack: -2
-      slash_attack: 5
-      crush_attack: 3
+      stab_attack: -3
+      slash_attack: 8
+      crush_attack: 4
       slash_defence: 1
-      melee_strength: 7
+      melee_strength: 11
     }
     weapon_details {
-      base_attack_speed: 5
+      base_attack_speed: 7
       base_attack_range: 1
       combat_options {
         name: "Chop"
@@ -99177,14 +99177,14 @@ items {
     id: 28202
     name: "Steel felling axe"
     stat_bonuses {
-      stab_attack: -2
-      slash_attack: 8
-      crush_attack: 6
+      stab_attack: -3
+      slash_attack: 12
+      crush_attack: 9
       slash_defence: 1
-      melee_strength: 9
+      melee_strength: 14
     }
     weapon_details {
-      base_attack_speed: 5
+      base_attack_speed: 7
       base_attack_range: 1
       combat_options {
         name: "Chop"
@@ -99285,14 +99285,14 @@ items {
     id: 28208
     name: "Mithril felling axe"
     stat_bonuses {
-      stab_attack: -2
-      slash_attack: 12
-      crush_attack: 10
+      stab_attack: -3
+      slash_attack: 19
+      crush_attack: 16
       slash_defence: 1
-      melee_strength: 13
+      melee_strength: 20
     }
     weapon_details {
-      base_attack_speed: 5
+      base_attack_speed: 7
       base_attack_range: 1
       combat_options {
         name: "Chop"
@@ -99339,14 +99339,14 @@ items {
     id: 28211
     name: "Adamant felling axe"
     stat_bonuses {
-      stab_attack: -2
-      slash_attack: 17
-      crush_attack: 15
+      stab_attack: -3
+      slash_attack: 27
+      crush_attack: 24
       slash_defence: 1
-      melee_strength: 19
+      melee_strength: 30
     }
     weapon_details {
-      base_attack_speed: 5
+      base_attack_speed: 7
       base_attack_range: 1
       combat_options {
         name: "Chop"
@@ -99400,7 +99400,7 @@ items {
       melee_strength: 46
     }
     weapon_details {
-      base_attack_speed: 5
+      base_attack_speed: 7
       base_attack_range: 1
       combat_options {
         name: "Chop"
