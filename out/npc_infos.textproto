@@ -7626,6 +7626,34 @@ npcs {
   range: 1
 }
 npcs {
+  name: "Dagannoth Prime (Echo)"
+  version: "Prime"
+  hitpoints: 1800
+  att: 255
+  str: 255
+  def: 255
+  mage: 400
+  dstab: 255
+  dslash: 255
+  dcrush: 255
+  dmagic: 255
+  drange: 10
+}
+npcs {
+  name: "Dagannoth Rex (Echo)"
+  version: "Rex"
+  hitpoints: 1800
+  att: 400
+  str: 400
+  def: 255
+  range: 255
+  dstab: 255
+  dslash: 255
+  dcrush: 255
+  dmagic: 10
+  drange: 255
+}
+npcs {
   ids: 980
   ids: 981
   ids: 982
