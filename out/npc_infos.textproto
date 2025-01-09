@@ -31868,6 +31868,9 @@ npcs {
   range: 1
 }
 npcs {
+  name: "The Doom of Mokhaiotl"
+}
+npcs {
   ids: 3922
   name: "The Draugen"
   hitpoints: 60
