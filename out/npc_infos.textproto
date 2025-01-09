@@ -7355,6 +7355,9 @@ npcs {
   drange: -50
 }
 npcs {
+  name: "Custodia Stalker"
+}
+npcs {
   ids: 12957
   name: "Cuthbert, Lord of Dread"
   hitpoints: 1
