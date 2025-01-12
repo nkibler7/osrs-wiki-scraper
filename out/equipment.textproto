@@ -68407,12 +68407,12 @@ items {
       slash_attack: 10
       crush_attack: 10
       ranged_attack: 10
-      magic_attack: 10
+      magic_attack: 7
       stab_defence: 2
       slash_defence: 2
       crush_defence: 2
       ranged_defence: 2
-      magic_defence: 2
+      magic_defence: 1
       melee_strength: 2
       prayer: 12
     }
