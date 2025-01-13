@@ -104435,41 +104435,8 @@ items {
   key: 29852
   value {
     id: 29852
-    name: "Eclipse atlatl"
+    name: "Atlatl dart"
     stat_bonuses {
-      ranged_attack: 87
-      melee_strength: 40
-    }
-    weapon_details {
-      base_attack_speed: 4
-      base_attack_range: 5
-      combat_options {
-        name: "Accurate"
-        modifiers {
-          ranged_modifier: 3
-        }
-        ranged {
-          attack_style: RANGED_ATTACK_STYLE_ACCURATE
-        }
-      }
-      combat_options {
-        name: "Rapid"
-        modifiers {
-          attack_speed_modifier: -1
-        }
-        ranged {
-          attack_style: RANGED_ATTACK_STYLE_RAPID
-        }
-      }
-      combat_options {
-        name: "Longrange"
-        modifiers {
-          defence_modifier: 3
-        }
-        ranged {
-          attack_style: RANGED_ATTACK_STYLE_LONGRANGE
-        }
-      }
     }
   }
 }
