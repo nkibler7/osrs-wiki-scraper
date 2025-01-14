@@ -9229,7 +9229,7 @@ npcs {
 }
 npcs {
   name: "Dusk (Echo)"
-  hitpoints: 1080
+  hitpoints: 450
   att: 345
   str: 287
   def: 187
@@ -14073,13 +14073,35 @@ npcs {
   range: 1
 }
 npcs {
-  name: "Echo Grotesque Guardians"
-  hitpoints: 1080
+  name: "Dusk (Echo)"
+  version: "Dusk"
+  hitpoints: 450
   att: 345
   str: 287
   def: 187
   mage: 262
   range: 387
+}
+npcs {
+  name: "Dawn"
+  version: "Dawn"
+  hitpoints: 450
+  att: 140
+  str: 140
+  def: 100
+  mage: 100
+  range: 140
+  dmagic: 80
+}
+npcs {
+  name: "Definitely Not Dusk"
+  version: "Definitely Not Dusk"
+  hitpoints: 450
+  att: 200
+  str: 140
+  def: 100
+  mage: 140
+  range: 140
 }
 npcs {
   ids: 2207
