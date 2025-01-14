@@ -16580,7 +16580,6 @@ npcs {
 }
 npcs {
   ids: 3289
-  ids: 4805
   name: "Hobgoblin"
   version: "Hobgoblin (brown, armed)"
   hitpoints: 29
@@ -16598,6 +16597,16 @@ npcs {
   att: 39
   str: 39
   def: 35
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 4805
+  name: "Hobgoblin"
+  hitpoints: 29
+  att: 22
+  str: 24
+  def: 24
   mage: 1
   range: 1
 }
