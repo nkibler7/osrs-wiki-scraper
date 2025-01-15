@@ -106778,3 +106778,149 @@ items {
     }
   }
 }
+items {
+  key: 30521
+  value {
+    id: 30521
+    name: "Echo ahrim\'s robetop 100"
+    stat_bonuses {
+      ranged_attack: -10
+      magic_attack: 30
+      stab_defence: 52
+      slash_defence: 37
+      crush_defence: 63
+      magic_defence: 30
+      magic_damage: 0.1
+    }
+  }
+}
+items {
+  key: 30523
+  value {
+    id: 30523
+    name: "Echo ahrim\'s robeskirt 100"
+    stat_bonuses {
+      ranged_attack: -7
+      magic_attack: 22
+      stab_defence: 33
+      slash_defence: 30
+      crush_defence: 36
+      magic_defence: 22
+      magic_damage: 0.1
+    }
+  }
+}
+items {
+  key: 30527
+  value {
+    id: 30527
+    name: "Echo ahrim\'s robetop 75"
+    stat_bonuses {
+      ranged_attack: -10
+      magic_attack: 30
+      stab_defence: 52
+      slash_defence: 37
+      crush_defence: 63
+      magic_defence: 30
+      magic_damage: 0.1
+    }
+  }
+}
+items {
+  key: 30529
+  value {
+    id: 30529
+    name: "Echo ahrim\'s robeskirt 75"
+    stat_bonuses {
+      ranged_attack: -7
+      magic_attack: 22
+      stab_defence: 33
+      slash_defence: 30
+      crush_defence: 36
+      magic_defence: 22
+      magic_damage: 0.1
+    }
+  }
+}
+items {
+  key: 30533
+  value {
+    id: 30533
+    name: "Echo ahrim\'s robetop 50"
+    stat_bonuses {
+      ranged_attack: -10
+      magic_attack: 30
+      stab_defence: 52
+      slash_defence: 37
+      crush_defence: 63
+      magic_defence: 30
+      magic_damage: 0.1
+    }
+  }
+}
+items {
+  key: 30535
+  value {
+    id: 30535
+    name: "Echo ahrim\'s robeskirt 50"
+    stat_bonuses {
+      ranged_attack: -7
+      magic_attack: 22
+      stab_defence: 33
+      slash_defence: 30
+      crush_defence: 36
+      magic_defence: 22
+      magic_damage: 0.1
+    }
+  }
+}
+items {
+  key: 30539
+  value {
+    id: 30539
+    name: "Echo ahrim\'s robetop 25"
+    stat_bonuses {
+      ranged_attack: -10
+      magic_attack: 30
+      stab_defence: 52
+      slash_defence: 37
+      crush_defence: 63
+      magic_defence: 30
+      magic_damage: 0.1
+    }
+  }
+}
+items {
+  key: 30541
+  value {
+    id: 30541
+    name: "Echo ahrim\'s robeskirt 25"
+    stat_bonuses {
+      ranged_attack: -7
+      magic_attack: 22
+      stab_defence: 33
+      slash_defence: 30
+      crush_defence: 36
+      magic_defence: 22
+      magic_damage: 0.1
+    }
+  }
+}
+items {
+  key: 30545
+  value {
+    id: 30545
+    name: "Echo ahrim\'s robetop 0"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30547
+  value {
+    id: 30547
+    name: "Echo ahrim\'s robeskirt 0"
+    stat_bonuses {
+    }
+  }
+}
