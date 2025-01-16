@@ -106179,6 +106179,15 @@ items {
   }
 }
 items {
+  key: 30404
+  value {
+    id: 30404
+    name: "Raging echoes hat (t1)"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 30406
   value {
     id: 30406
@@ -106206,6 +106215,15 @@ items {
   }
 }
 items {
+  key: 30412
+  value {
+    id: 30412
+    name: "Raging echoes hat (t2)"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 30414
   value {
     id: 30414
@@ -106228,6 +106246,15 @@ items {
   value {
     id: 30418
     name: "Raging echoes boots (t2)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30420
+  value {
+    id: 30420
+    name: "Raging echoes hat (t3)"
     stat_bonuses {
     }
   }
@@ -106467,13 +106494,6 @@ items {
       magic_defence: 22
       magic_damage: 0.1
     }
-  }
-}
-items {
-  key: 30453
-  value {
-    id: 30453
-    name: "Echo home teleport scroll"
   }
 }
 items {
