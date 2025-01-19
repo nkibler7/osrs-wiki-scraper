@@ -37826,10 +37826,34 @@ npcs {
 }
 npcs {
   ids: 2501
+  name: "Zombie"
+  version: "Level 30, 1"
+  hitpoints: 30
+  att: 25
+  str: 29
+  def: 20
+  mage: 1
+  range: 1
+  attbns: 5
+  attributes: "undead"
+}
+npcs {
   ids: 2502
+  name: "Zombie"
+  version: "Level 30, 2"
+  hitpoints: 30
+  att: 25
+  str: 29
+  def: 20
+  mage: 1
+  range: 1
+  attbns: 5
+  attributes: "undead"
+}
+npcs {
   ids: 2503
   name: "Zombie"
-  version: "Level 30"
+  version: "Level 30, 3"
   hitpoints: 30
   att: 25
   str: 29
@@ -37841,10 +37865,36 @@ npcs {
 }
 npcs {
   ids: 2504
+  name: "Zombie"
+  version: "Level 44, 1"
+  hitpoints: 40
+  att: 35
+  str: 40
+  def: 40
+  mage: 1
+  range: 1
+  attbns: 5
+  dcrush: 22
+  attributes: "undead"
+}
+npcs {
   ids: 2505
+  name: "Zombie"
+  version: "Level 44, 2"
+  hitpoints: 40
+  att: 35
+  str: 40
+  def: 40
+  mage: 1
+  range: 1
+  attbns: 5
+  dcrush: 22
+  attributes: "undead"
+}
+npcs {
   ids: 2506
   name: "Zombie"
-  version: "Level 44"
+  version: "Level 44, 3"
   hitpoints: 40
   att: 35
   str: 40
@@ -37857,10 +37907,44 @@ npcs {
 }
 npcs {
   ids: 2507
+  name: "Zombie"
+  version: "Level 53, 1"
+  hitpoints: 50
+  att: 55
+  str: 40
+  def: 48
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 7
+  dstab: 19
+  dslash: 18
+  dmagic: 20
+  drange: 21
+  attributes: "undead"
+}
+npcs {
   ids: 2508
+  name: "Zombie"
+  version: "Level 53, 2"
+  hitpoints: 50
+  att: 55
+  str: 40
+  def: 48
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 7
+  dstab: 19
+  dslash: 18
+  dmagic: 20
+  drange: 21
+  attributes: "undead"
+}
+npcs {
   ids: 2509
   name: "Zombie"
-  version: "Level 53"
+  version: "Level 53, 3"
   hitpoints: 50
   att: 55
   str: 40
