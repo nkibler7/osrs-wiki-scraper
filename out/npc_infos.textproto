@@ -14075,7 +14075,7 @@ npcs {
 npcs {
   name: "Dusk (Echo)"
   version: "Dusk"
-  hitpoints: 450
+  hitpoints: 1080
   att: 345
   str: 287
   def: 187
