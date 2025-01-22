@@ -5831,24 +5831,6 @@ npcs {
   attributes: "Demon"
 }
 npcs {
-  name: "Cerberus (Echo)"
-  hitpoints: 1620
-  att: 275
-  str: 275
-  def: 115
-  mage: 275
-  range: 275
-  attbns: 50
-  amagic: 50
-  arange: 50
-  dstab: 50
-  dslash: 100
-  dcrush: 25
-  dmagic: 100
-  drange: 100
-  attributes: "Demon"
-}
-npcs {
   ids: 11482
   ids: 11483
   name: "Champion of Scabaras"
@@ -6537,10 +6519,6 @@ npcs {
   dcrush: 20
   dmagic: 20
   drange: 20
-}
-npcs {
-  name: "Corrupted Hunllef (Echo)"
-  hitpoints: 1100
 }
 npcs {
   ids: 9040
@@ -7629,34 +7607,6 @@ npcs {
   range: 1
 }
 npcs {
-  name: "Dagannoth Prime (Echo)"
-  version: "Prime"
-  hitpoints: 1800
-  att: 255
-  str: 255
-  def: 255
-  mage: 400
-  dstab: 255
-  dslash: 255
-  dcrush: 255
-  dmagic: 255
-  drange: 10
-}
-npcs {
-  name: "Dagannoth Rex (Echo)"
-  version: "Rex"
-  hitpoints: 1800
-  att: 400
-  str: 400
-  def: 255
-  range: 255
-  dstab: 255
-  dslash: 255
-  dcrush: 255
-  dmagic: 10
-  drange: 255
-}
-npcs {
   ids: 980
   ids: 981
   ids: 982
@@ -7752,19 +7702,6 @@ npcs {
   drange: 10
 }
 npcs {
-  name: "Dagannoth Prime (Echo)"
-  hitpoints: 1800
-  att: 255
-  str: 255
-  def: 255
-  mage: 400
-  dstab: 255
-  dslash: 255
-  dcrush: 255
-  dmagic: 255
-  drange: 10
-}
-npcs {
   ids: 6497
   name: "Dagannoth Prime"
   hitpoints: 255
@@ -7814,19 +7751,6 @@ npcs {
   hitpoints: 1000
   att: 255
   str: 255
-  def: 255
-  range: 255
-  dstab: 255
-  dslash: 255
-  dcrush: 255
-  dmagic: 10
-  drange: 255
-}
-npcs {
-  name: "Dagannoth Rex (Echo)"
-  hitpoints: 1800
-  att: 400
-  str: 400
   def: 255
   range: 255
   dstab: 255
@@ -8208,16 +8132,6 @@ npcs {
   dmagic: 80
 }
 npcs {
-  name: "Dawn"
-  hitpoints: 450
-  att: 140
-  str: 140
-  def: 100
-  mage: 100
-  range: 140
-  dmagic: 80
-}
-npcs {
   ids: 3021
   name: "Deadly red spider"
   hitpoints: 35
@@ -8362,15 +8276,6 @@ npcs {
   hitpoints: 97
   def: 65
   range: 117
-}
-npcs {
-  name: "Definitely Not Dusk"
-  hitpoints: 450
-  att: 200
-  str: 140
-  def: 100
-  mage: 140
-  range: 140
 }
 npcs {
   ids: 5079
@@ -9226,15 +9131,6 @@ npcs {
   def: 150
   mage: 250
   range: 250
-}
-npcs {
-  name: "Dusk (Echo)"
-  hitpoints: 450
-  att: 345
-  str: 287
-  def: 187
-  mage: 262
-  range: 387
 }
 npcs {
   ids: 423
@@ -14073,37 +13969,6 @@ npcs {
   range: 1
 }
 npcs {
-  name: "Dusk (Echo)"
-  version: "Dusk"
-  hitpoints: 1080
-  att: 345
-  str: 287
-  def: 187
-  mage: 262
-  range: 387
-}
-npcs {
-  name: "Dawn"
-  version: "Dawn"
-  hitpoints: 450
-  att: 140
-  str: 140
-  def: 100
-  mage: 100
-  range: 140
-  dmagic: 80
-}
-npcs {
-  name: "Definitely Not Dusk"
-  version: "Definitely Not Dusk"
-  hitpoints: 450
-  att: 200
-  str: 140
-  def: 100
-  mage: 140
-  range: 140
-}
-npcs {
   ids: 2207
   name: "Growler"
   hitpoints: 146
@@ -16317,22 +16182,6 @@ npcs {
   def: 120
   mage: 126
   range: 150
-  amagic: 150
-  arange: 150
-  dstab: 60
-  dslash: 20
-  dcrush: 60
-  dmagic: 80
-  drange: 80
-}
-npcs {
-  name: "Hespori (Echo)"
-  hitpoints: 900
-  att: 1
-  str: 1
-  def: 120
-  mage: 250
-  range: 200
   amagic: 150
   arange: 150
   dstab: 60
@@ -18717,38 +18566,6 @@ npcs {
   attributes: "kalphite"
 }
 npcs {
-  name: "Kalphite Queen (Echo)"
-  version: "Crawling"
-  hitpoints: 561
-  att: 375
-  str: 375
-  def: 300
-  mage: 165
-  range: 1
-  dstab: 50
-  dslash: 50
-  dcrush: 10
-  dmagic: 100
-  drange: 100
-  attributes: "Kalphite"
-}
-npcs {
-  name: "Kalphite Queen (Echo)"
-  version: "Airborne"
-  hitpoints: 561
-  att: 375
-  str: 375
-  def: 300
-  mage: 165
-  range: 1
-  dstab: 100
-  dslash: 100
-  dcrush: 100
-  dmagic: 10
-  drange: 10
-  attributes: "Kalphite"
-}
-npcs {
   ids: 6500
   name: "Kalphite Queen"
   version: "Crawling"
@@ -19305,20 +19122,6 @@ npcs {
   dmagic: 80
   drange: 70
   attributes: "dragon"
-}
-npcs {
-  name: "King Black Dragon (Echo)"
-  hitpoints: 840
-  att: 300
-  str: 300
-  def: 300
-  mage: 252
-  range: 1
-  dstab: 60
-  dslash: 90
-  dcrush: 90
-  dmagic: 80
-  attributes: "Dragon, Fiery"
 }
 npcs {
   ids: 6502
@@ -29956,24 +29759,6 @@ npcs {
   drange: 825
 }
 npcs {
-  name: "Sol Heredit (Echo)"
-  hitpoints: 1725
-  att: 350
-  str: 400
-  def: 220
-  mage: 300
-  range: 350
-  attbns: 250
-  strbns: 5
-  arange: 150
-  rngbns: 5
-  dstab: 65
-  dslash: 5
-  dcrush: 30
-  dmagic: 750
-  drange: 825
-}
-npcs {
   ids: 4088
   name: "Soldier"
   hitpoints: 50
@@ -32294,20 +32079,6 @@ npcs {
   dcrush: 20
   dmagic: 200
   drange: 300
-}
-npcs {
-  name: "Thermonuclear smoke devil (Echo)"
-  hitpoints: 1200
-  att: 230
-  str: 220
-  def: 324
-  mage: 15
-  range: 387
-  dstab: 11
-  dslash: 4
-  dcrush: 9
-  dmagic: 800
-  drange: 900
 }
 npcs {
   ids: 3252
