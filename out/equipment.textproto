@@ -106505,6 +106505,22 @@ items {
   }
 }
 items {
+  key: 30445
+  value {
+    id: 30445
+    name: "Echo ahrim\'s hood"
+    stat_bonuses {
+      ranged_attack: -2
+      magic_attack: 6
+      stab_defence: 15
+      slash_defence: 13
+      crush_defence: 16
+      magic_defence: 6
+      magic_damage: 0.1
+    }
+  }
+}
+items {
   key: 30447
   value {
     id: 30447
@@ -106839,6 +106855,22 @@ items {
   }
 }
 items {
+  key: 30519
+  value {
+    id: 30519
+    name: "Echo ahrim\'s hood 100"
+    stat_bonuses {
+      ranged_attack: -2
+      magic_attack: 6
+      stab_defence: 15
+      slash_defence: 13
+      crush_defence: 16
+      magic_defence: 6
+      magic_damage: 0.1
+    }
+  }
+}
+items {
   key: 30521
   value {
     id: 30521
@@ -106866,6 +106898,22 @@ items {
       slash_defence: 30
       crush_defence: 36
       magic_defence: 22
+      magic_damage: 0.1
+    }
+  }
+}
+items {
+  key: 30525
+  value {
+    id: 30525
+    name: "Echo ahrim\'s hood 75"
+    stat_bonuses {
+      ranged_attack: -2
+      magic_attack: 6
+      stab_defence: 15
+      slash_defence: 13
+      crush_defence: 16
+      magic_defence: 6
       magic_damage: 0.1
     }
   }
@@ -106903,6 +106951,22 @@ items {
   }
 }
 items {
+  key: 30531
+  value {
+    id: 30531
+    name: "Echo ahrim\'s hood 50"
+    stat_bonuses {
+      ranged_attack: -2
+      magic_attack: 6
+      stab_defence: 15
+      slash_defence: 13
+      crush_defence: 16
+      magic_defence: 6
+      magic_damage: 0.1
+    }
+  }
+}
+items {
   key: 30533
   value {
     id: 30533
@@ -106930,6 +106994,22 @@ items {
       slash_defence: 30
       crush_defence: 36
       magic_defence: 22
+      magic_damage: 0.1
+    }
+  }
+}
+items {
+  key: 30537
+  value {
+    id: 30537
+    name: "Echo ahrim\'s hood 25"
+    stat_bonuses {
+      ranged_attack: -2
+      magic_attack: 6
+      stab_defence: 15
+      slash_defence: 13
+      crush_defence: 16
+      magic_defence: 6
       magic_damage: 0.1
     }
   }
@@ -106967,6 +107047,15 @@ items {
   }
 }
 items {
+  key: 30543
+  value {
+    id: 30543
+    name: "Echo ahrim\'s hood 0"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 30545
   value {
     id: 30545
@@ -106981,6 +107070,404 @@ items {
     id: 30547
     name: "Echo ahrim\'s robeskirt 0"
     stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30568
+  value {
+    id: 30568
+    name: "Echo ahrim\'s staff"
+    stat_bonuses {
+      stab_attack: 12
+      slash_attack: -1
+      crush_attack: 65
+      magic_attack: 15
+      stab_defence: 3
+      slash_defence: 5
+      crush_defence: 2
+      magic_defence: 15
+      melee_strength: 68
+      magic_damage: 0.5
+    }
+    weapon_details {
+      base_attack_speed: 6
+      base_attack_range: 1
+      combat_options {
+        name: "Bash"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pound"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Focus"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_DEFENSIVE_AUTOCAST
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_AUTOCAST
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30570
+  value {
+    id: 30570
+    name: "Echo ahrim\'s staff 100"
+    stat_bonuses {
+      stab_attack: 12
+      slash_attack: -1
+      crush_attack: 65
+      magic_attack: 15
+      stab_defence: 3
+      slash_defence: 5
+      crush_defence: 2
+      magic_defence: 15
+      melee_strength: 68
+      magic_damage: 0.5
+    }
+    weapon_details {
+      base_attack_speed: 6
+      base_attack_range: 1
+      combat_options {
+        name: "Bash"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pound"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Focus"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_DEFENSIVE_AUTOCAST
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_AUTOCAST
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30571
+  value {
+    id: 30571
+    name: "Echo ahrim\'s staff 75"
+    stat_bonuses {
+      stab_attack: 12
+      slash_attack: -1
+      crush_attack: 65
+      magic_attack: 15
+      stab_defence: 3
+      slash_defence: 5
+      crush_defence: 2
+      magic_defence: 15
+      melee_strength: 68
+      magic_damage: 0.5
+    }
+    weapon_details {
+      base_attack_speed: 6
+      base_attack_range: 1
+      combat_options {
+        name: "Bash"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pound"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Focus"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_DEFENSIVE_AUTOCAST
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_AUTOCAST
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30572
+  value {
+    id: 30572
+    name: "Echo ahrim\'s staff 50"
+    stat_bonuses {
+      stab_attack: 12
+      slash_attack: -1
+      crush_attack: 65
+      magic_attack: 15
+      stab_defence: 3
+      slash_defence: 5
+      crush_defence: 2
+      magic_defence: 15
+      melee_strength: 68
+      magic_damage: 0.5
+    }
+    weapon_details {
+      base_attack_speed: 6
+      base_attack_range: 1
+      combat_options {
+        name: "Bash"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pound"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Focus"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_DEFENSIVE_AUTOCAST
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_AUTOCAST
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30573
+  value {
+    id: 30573
+    name: "Echo ahrim\'s staff 25"
+    stat_bonuses {
+      stab_attack: 12
+      slash_attack: -1
+      crush_attack: 65
+      magic_attack: 15
+      stab_defence: 3
+      slash_defence: 5
+      crush_defence: 2
+      magic_defence: 15
+      melee_strength: 68
+      magic_damage: 0.5
+    }
+    weapon_details {
+      base_attack_speed: 6
+      base_attack_range: 1
+      combat_options {
+        name: "Bash"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pound"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Focus"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_DEFENSIVE_AUTOCAST
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_AUTOCAST
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30574
+  value {
+    id: 30574
+    name: "Echo ahrim\'s staff 0"
+    stat_bonuses {
+    }
+    weapon_details {
+      base_attack_speed: 6
+      base_attack_range: 1
+      combat_options {
+        name: "Bash"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pound"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Focus"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_DEFENSIVE_AUTOCAST
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_AUTOCAST
+        }
+      }
     }
   }
 }
