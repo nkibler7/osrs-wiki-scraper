@@ -29915,6 +29915,11 @@ npcs {
   def: 25
   mage: 1
   range: 1
+  strbns: 16
+  dstab: 5
+  dslash: 5
+  dcrush: 5
+  dmagic: 72
 }
 npcs {
   ids: 561
@@ -30935,6 +30940,14 @@ npcs {
   name: "Strangled"
   version: "Strangled 1"
   hitpoints: 40
+  att: 110
+  str: 50
+  def: 30
+  mage: 50
+  dstab: 30
+  dslash: 20
+  dcrush: 30
+  dmagic: 10
 }
 npcs {
   ids: 12269
@@ -30944,6 +30957,14 @@ npcs {
   name: "Strangled"
   version: "Strangled 2"
   hitpoints: 40
+  att: 110
+  str: 50
+  def: 30
+  mage: 50
+  dstab: 30
+  dslash: 20
+  dcrush: 30
+  dmagic: 10
 }
 npcs {
   ids: 12270
@@ -30953,6 +30974,14 @@ npcs {
   name: "Strangled"
   version: "Strangled 3"
   hitpoints: 40
+  att: 110
+  str: 50
+  def: 30
+  mage: 50
+  dstab: 30
+  dslash: 20
+  dcrush: 30
+  dmagic: 10
 }
 npcs {
   ids: 12271
@@ -30962,6 +30991,14 @@ npcs {
   name: "Strangled"
   version: "Strangled 4"
   hitpoints: 40
+  att: 110
+  str: 50
+  def: 30
+  mage: 50
+  dstab: 30
+  dslash: 20
+  dcrush: 30
+  dmagic: 10
 }
 npcs {
   ids: 12272
@@ -30971,6 +31008,14 @@ npcs {
   name: "Strangled"
   version: "Strangled 1"
   hitpoints: 50
+  att: 150
+  str: 60
+  def: 30
+  mage: 50
+  dstab: 30
+  dslash: 20
+  dcrush: 30
+  dmagic: 10
 }
 npcs {
   ids: 12273
@@ -30980,6 +31025,14 @@ npcs {
   name: "Strangled"
   version: "Strangled 2"
   hitpoints: 50
+  att: 150
+  str: 60
+  def: 30
+  mage: 50
+  dstab: 30
+  dslash: 20
+  dcrush: 30
+  dmagic: 10
 }
 npcs {
   ids: 12274
@@ -30988,6 +31041,14 @@ npcs {
   name: "Strangled"
   version: "Strangled 3"
   hitpoints: 50
+  att: 150
+  str: 60
+  def: 30
+  mage: 50
+  dstab: 30
+  dslash: 20
+  dcrush: 30
+  dmagic: 10
 }
 npcs {
   ids: 12288
@@ -30997,6 +31058,10 @@ npcs {
   str: 70
   def: 40
   mage: 60
+  dstab: 30
+  dslash: 20
+  dcrush: 30
+  dmagic: 10
 }
 npcs {
   ids: 12289
@@ -31006,6 +31071,10 @@ npcs {
   str: 70
   def: 40
   mage: 60
+  dstab: 30
+  dslash: 20
+  dcrush: 30
+  dmagic: 10
 }
 npcs {
   ids: 12290
@@ -31015,6 +31084,10 @@ npcs {
   str: 70
   def: 40
   mage: 60
+  dstab: 30
+  dslash: 20
+  dcrush: 30
+  dmagic: 10
 }
 npcs {
   ids: 13484
