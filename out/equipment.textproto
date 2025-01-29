@@ -96477,10 +96477,10 @@ items {
     stat_bonuses {
       ranged_attack: 36
       magic_attack: -15
-      stab_defence: 61
-      slash_defence: 53
-      crush_defence: 66
-      ranged_defence: 62
+      stab_defence: 35
+      slash_defence: 30
+      crush_defence: 40
+      ranged_defence: 37
       magic_defence: 75
       ranged_strength: 6
     }
