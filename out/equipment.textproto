@@ -96494,10 +96494,10 @@ items {
     stat_bonuses {
       ranged_attack: 23
       magic_attack: -10
-      stab_defence: 35
-      slash_defence: 29
-      crush_defence: 37
-      ranged_defence: 35
+      stab_defence: 18
+      slash_defence: 15
+      crush_defence: 20
+      ranged_defence: 22
       magic_defence: 46
       ranged_strength: 6
     }
@@ -96676,10 +96676,10 @@ items {
     stat_bonuses {
       ranged_attack: 36
       magic_attack: -13
-      stab_defence: 27
-      slash_defence: 20
-      crush_defence: 24
-      ranged_defence: 28
+      stab_defence: 14
+      slash_defence: 10
+      crush_defence: 12
+      ranged_defence: 15
       magic_defence: 30
       ranged_strength: 4
     }
@@ -96693,10 +96693,10 @@ items {
     stat_bonuses {
       ranged_attack: 23
       magic_attack: -8
-      stab_defence: 18
-      slash_defence: 15
-      crush_defence: 16
-      ranged_defence: 19
+      stab_defence: 9
+      slash_defence: 7
+      crush_defence: 8
+      ranged_defence: 11
       magic_defence: 20
       ranged_strength: 4
     }
