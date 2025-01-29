@@ -107472,6 +107472,87 @@ items {
   }
 }
 items {
+  key: 30579
+  value {
+    id: 30579
+    name: "Collection log"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30581
+  value {
+    id: 30581
+    name: "Collection log"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30583
+  value {
+    id: 30583
+    name: "Collection log"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30585
+  value {
+    id: 30585
+    name: "Collection log"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30587
+  value {
+    id: 30587
+    name: "Collection log"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30589
+  value {
+    id: 30589
+    name: "Collection log"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30591
+  value {
+    id: 30591
+    name: "Collection log"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30593
+  value {
+    id: 30593
+    name: "Collection log"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30595
+  value {
+    id: 30595
+    name: "Collection log"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 30597
   value {
     id: 30597
