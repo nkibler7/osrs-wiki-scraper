@@ -96370,10 +96370,10 @@ items {
       crush_attack: 4
       ranged_attack: -15
       magic_attack: -32
-      stab_defence: 74
-      slash_defence: 81
-      crush_defence: 89
-      ranged_defence: 95
+      stab_defence: 55
+      slash_defence: 59
+      crush_defence: 62
+      ranged_defence: 85
       magic_defence: -18
       melee_strength: 6
     }
@@ -96390,10 +96390,10 @@ items {
       crush_attack: 3
       ranged_attack: -12
       magic_attack: -30
-      stab_defence: 55
-      slash_defence: 64
-      crush_defence: 67
-      ranged_defence: 71
+      stab_defence: 39
+      slash_defence: 42
+      crush_defence: 45
+      ranged_defence: 59
       magic_defence: -15
       melee_strength: 3
     }
@@ -96571,10 +96571,10 @@ items {
       crush_attack: 4
       ranged_attack: -14
       magic_attack: -28
-      stab_defence: 25
-      slash_defence: 32
-      crush_defence: 34
-      ranged_defence: 30
+      stab_defence: 18
+      slash_defence: 21
+      crush_defence: 23
+      ranged_defence: 21
       magic_defence: -10
       melee_strength: 5
     }
