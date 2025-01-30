@@ -96519,7 +96519,7 @@ items {
     name: "Zuriel\'s hood (bh)"
     stat_bonuses {
       ranged_attack: -2
-      magic_attack: 8
+      magic_attack: 18
       stab_defence: 20
       slash_defence: 16
       crush_defence: 22
@@ -96535,7 +96535,7 @@ items {
     name: "Zuriel\'s robe top (bh)"
     stat_bonuses {
       ranged_attack: -10
-      magic_attack: 35
+      magic_attack: 58
       stab_defence: 63
       slash_defence: 45
       crush_defence: 74
@@ -96551,7 +96551,7 @@ items {
     name: "Zuriel\'s robe bottom (bh)"
     stat_bonuses {
       ranged_attack: -7
-      magic_attack: 25
+      magic_attack: 46
       stab_defence: 38
       slash_defence: 35
       crush_defence: 44
@@ -96718,7 +96718,7 @@ items {
     name: "Corrupted zuriel\'s hood (bh)"
     stat_bonuses {
       ranged_attack: -1
-      magic_attack: 5
+      magic_attack: 12
       stab_defence: 13
       slash_defence: 11
       crush_defence: 14
@@ -96734,7 +96734,7 @@ items {
     name: "Corrupted zuriel\'s robe top (bh)"
     stat_bonuses {
       ranged_attack: -8
-      magic_attack: 25
+      magic_attack: 46
       stab_defence: 43
       slash_defence: 39
       crush_defence: 47
@@ -96750,7 +96750,7 @@ items {
     name: "Corrupted zuriel\'s robe bottom (bh)"
     stat_bonuses {
       ranged_attack: -6
-      magic_attack: 18
+      magic_attack: 32
       stab_defence: 21
       slash_defence: 20
       crush_defence: 23
