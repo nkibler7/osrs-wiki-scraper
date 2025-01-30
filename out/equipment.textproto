@@ -71675,6 +71675,15 @@ items {
   }
 }
 items {
+  key: 22711
+  value {
+    id: 22711
+    name: "Collection log"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 22713
   value {
     id: 22713
