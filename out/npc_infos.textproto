@@ -4837,6 +4837,9 @@ npcs {
   range: 1
 }
 npcs {
+  name: "Brandr"
+}
+npcs {
   ids: 7310
   name: "Brassican Mage"
   hitpoints: 150
@@ -9413,6 +9416,9 @@ npcs {
   def: 65
   mage: 110
   range: 1
+}
+npcs {
+  name: "Eldric"
 }
 npcs {
   ids: 5295
