@@ -107849,7 +107849,7 @@ items {
   key: 30634
   value {
     id: 30634
-    name: "Twinflame Staff"
+    name: "Twinflame staff"
     stat_bonuses {
       stab_attack: 7
       slash_attack: -1
