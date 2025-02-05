@@ -107921,3 +107921,12 @@ items {
     }
   }
 }
+items {
+  key: 30638
+  value {
+    id: 30638
+    name: "Giantsoul amulet"
+    stat_bonuses {
+    }
+  }
+}
