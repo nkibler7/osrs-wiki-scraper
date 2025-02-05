@@ -10876,6 +10876,7 @@ npcs {
   attributes: "fiery"
 }
 npcs {
+  ids: 14150
   name: "Fire elemental"
   hitpoints: 40
   att: 35
@@ -16705,6 +16706,7 @@ npcs {
   name: "Ice elemental"
   hitpoints: 40
   att: 30
+  str: 30
   def: 30
   mage: 30
   range: 30
