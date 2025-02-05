@@ -107845,3 +107845,79 @@ items {
     }
   }
 }
+items {
+  key: 30634
+  value {
+    id: 30634
+    name: "Twinflame Staff"
+    stat_bonuses {
+      stab_attack: 7
+      slash_attack: -1
+      crush_attack: 28
+      magic_attack: 12
+      stab_defence: 2
+      slash_defence: 3
+      crush_defence: 1
+      magic_defence: 12
+      melee_strength: 22
+    }
+    weapon_details {
+      base_attack_speed: 6
+      base_attack_range: 1
+      combat_options {
+        name: "Bash"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pound"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Focus"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_DEFENSIVE_AUTOCAST
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_AUTOCAST
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30637
+  value {
+    id: 30637
+    name: "Giantsoul amulet (uncharged)"
+    stat_bonuses {
+    }
+  }
+}

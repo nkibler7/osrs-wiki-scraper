@@ -4837,7 +4837,19 @@ npcs {
   range: 1
 }
 npcs {
-  name: "Brandr"
+  name: "Branda the Fire Queen"
+  hitpoints: 600
+  att: 300
+  str: 250
+  def: 100
+  mage: 100
+  range: 150
+  attbns: 150
+  mbns: 100
+  rngbns: 100
+  dstab: 12
+  dslash: 12
+  dmagic: 700
 }
 npcs {
   ids: 7310
@@ -9418,7 +9430,19 @@ npcs {
   range: 1
 }
 npcs {
-  name: "Eldric"
+  name: "Eldric the Ice King"
+  hitpoints: 600
+  att: 300
+  str: 250
+  def: 100
+  mage: 100
+  range: 150
+  attbns: 150
+  mbns: 100
+  rngbns: 100
+  dstab: 12
+  dslash: 12
+  dmagic: 700
 }
 npcs {
   ids: 5295
@@ -10844,6 +10868,15 @@ npcs {
   mage: 20
   range: 20
   attributes: "fiery"
+}
+npcs {
+  name: "Fire elemental"
+  hitpoints: 40
+  att: 35
+  str: 35
+  def: 20
+  mage: 20
+  range: 20
 }
 npcs {
   ids: 2075
