@@ -4837,6 +4837,7 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 12596
   name: "Branda the Fire Queen"
   hitpoints: 600
   att: 300
@@ -4845,7 +4846,9 @@ npcs {
   mage: 100
   range: 150
   attbns: 150
+  amagic: 100
   mbns: 100
+  arange: 100
   rngbns: 100
   dstab: 12
   dslash: 12
@@ -9430,6 +9433,7 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 14147
   name: "Eldric the Ice King"
   hitpoints: 600
   att: 300
@@ -9438,7 +9442,9 @@ npcs {
   mage: 100
   range: 150
   attbns: 150
+  amagic: 100
   mbns: 100
+  arange: 100
   rngbns: 100
   dstab: 12
   dslash: 12
@@ -16693,6 +16699,15 @@ npcs {
   dcrush: 110
   dmagic: 40
   attributes: "demon,xerician"
+}
+npcs {
+  ids: 14151
+  name: "Ice elemental"
+  hitpoints: 40
+  att: 30
+  def: 30
+  mage: 30
+  range: 30
 }
 npcs {
   ids: 2085
