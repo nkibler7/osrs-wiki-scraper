@@ -4853,6 +4853,7 @@ npcs {
   dstab: 12
   dslash: 12
   dmagic: 700
+  attributes: "Fiery"
 }
 npcs {
   ids: 7310
