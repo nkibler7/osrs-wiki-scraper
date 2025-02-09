@@ -103082,6 +103082,42 @@ items {
   }
 }
 items {
+  key: 29472
+  value {
+    id: 29472
+    name: "Prospector helmet"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 29474
+  value {
+    id: 29474
+    name: "Prospector jacket"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 29476
+  value {
+    id: 29476
+    name: "Prospector legs"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 29478
+  value {
+    id: 29478
+    name: "Prospector boots"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 29486
   value {
     id: 29486
