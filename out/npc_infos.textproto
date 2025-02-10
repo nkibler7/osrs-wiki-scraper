@@ -29367,9 +29367,32 @@ npcs {
 }
 npcs {
   ids: 872
+  name: "Skogre"
+  version: "1"
+  hitpoints: 71
+  att: 20
+  str: 36
+  def: 35
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
   ids: 878
+  name: "Skogre"
+  version: "2"
+  hitpoints: 71
+  att: 20
+  str: 36
+  def: 35
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
   ids: 879
   name: "Skogre"
+  version: "3"
   hitpoints: 71
   att: 20
   str: 36
