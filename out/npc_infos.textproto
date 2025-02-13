@@ -11740,6 +11740,7 @@ npcs {
   mage: 1
   range: 80
   arange: 50
+  rngbns: 30
   dcrush: 10
 }
 npcs {
@@ -11748,12 +11749,13 @@ npcs {
   name: "Gang boss"
   version: "Female"
   hitpoints: 80
-  att: 1
-  str: 1
+  att: 70
+  str: 70
   def: 70
   mage: 1
-  range: 80
-  arange: 50
+  range: 1
+  attbns: 50
+  strbns: 30
   dcrush: 10
 }
 npcs {
@@ -11766,8 +11768,8 @@ npcs {
   def: 50
   mage: 1
   range: 1
-  attbns: 20
-  strbns: 30
+  attbns: 25
+  strbns: 20
   dcrush: 10
 }
 npcs {
@@ -11788,7 +11790,7 @@ npcs {
   ids: 6898
   name: "Gangster"
   version: "Level 50 (1)"
-  hitpoints: 50
+  hitpoints: 45
   att: 50
   str: 40
   def: 40
@@ -11802,14 +11804,12 @@ npcs {
   ids: 6899
   name: "Gangster"
   version: "Level 50 (2)"
-  hitpoints: 50
-  att: 50
-  str: 40
-  def: 40
+  hitpoints: 30
+  att: 40
+  str: 70
+  def: 30
   mage: 1
   range: 1
-  attbns: 35
-  strbns: 15
   dcrush: 10
 }
 npcs {
