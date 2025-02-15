@@ -19841,6 +19841,9 @@ npcs {
   drange: -21
 }
 npcs {
+  name: "Kuckaine"
+}
+npcs {
   ids: 410
   name: "Kurask"
   version: "Normal"
