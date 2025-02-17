@@ -20064,7 +20064,7 @@ npcs {
 npcs {
   ids: 12363
   name: "Lesser demon"
-  version: "Level 94 (mage)"
+  version: "Level 94 (melee)"
   hitpoints: 80
   att: 110
   str: 110
@@ -20079,7 +20079,7 @@ npcs {
 npcs {
   ids: 12361
   name: "Lesser demon"
-  version: "Level 94 (melee)"
+  version: "Level 94 (mage)"
   hitpoints: 80
   att: 110
   str: 110
