@@ -25712,6 +25712,7 @@ npcs {
   mage: 1
   range: 1
   dmagic: -10
+  attributes: "Demon"
 }
 npcs {
   ids: 7025
