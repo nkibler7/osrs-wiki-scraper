@@ -3858,6 +3858,18 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  ids: 12385
+  name: "Black demon"
+  hitpoints: 157
+  att: 145
+  str: 148
+  def: 152
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "Demon"
+}
+npcs {
   ids: 252
   ids: 253
   ids: 254
@@ -13812,6 +13824,18 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  ids: 12387
+  name: "Greater demon"
+  hitpoints: 87
+  att: 76
+  str: 78
+  def: 81
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "Demon"
+}
+npcs {
   ids: 7278
   name: "Greater Nechryael"
   version: "Regular"
@@ -20034,7 +20058,7 @@ npcs {
   def: 71
   mage: 1
   range: 1
-  arange: 100
+  dmagic: -10
   attributes: "Demon"
 }
 npcs {
@@ -27066,6 +27090,7 @@ npcs {
   def: 71
   mage: 1
   range: 1
+  dmagic: -10
   attributes: "Demon"
 }
 npcs {
