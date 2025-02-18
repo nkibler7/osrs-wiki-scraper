@@ -107966,3 +107966,21 @@ items {
     }
   }
 }
+items {
+  key: 30646
+  value {
+    id: 30646
+    name: "Classic imp tail"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30648
+  value {
+    id: 30648
+    name: "Classic imp hood"
+    stat_bonuses {
+    }
+  }
+}
