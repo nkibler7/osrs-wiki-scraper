@@ -29442,7 +29442,6 @@ npcs {
   dslash: 80
   dcrush: 80
   dmagic: 130
-  drange: 130
   attributes: "demon"
 }
 npcs {
