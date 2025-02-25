@@ -33141,6 +33141,17 @@ npcs {
 }
 npcs {
   ids: 1163
+  name: "Tree spirit"
+  version: "Quest"
+  hitpoints: 85
+  att: 90
+  str: 95
+  def: 80
+  mage: 1
+  range: 1
+  attributes: "undead, spectral"
+}
+npcs {
   ids: 6380
   name: "Tree spirit"
   version: "Normal"
@@ -33150,7 +33161,7 @@ npcs {
   def: 80
   mage: 1
   range: 1
-  attributes: "undead, spectral"
+  attributes: "spectral"
 }
 npcs {
   ids: 6319
@@ -33162,7 +33173,7 @@ npcs {
   def: 80
   mage: 1
   range: 1
-  attributes: "undead, spectral"
+  attributes: "spectral"
 }
 npcs {
   ids: 6359
