@@ -17350,11 +17350,42 @@ npcs {
   attributes: "demon"
 }
 npcs {
-  ids: 852
-  ids: 853
-  ids: 854
   ids: 855
   name: "Icelord"
+  version: "Melee, 1"
+  hitpoints: 60
+  att: 40
+  str: 40
+  def: 40
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 854
+  name: "Icelord"
+  version: "Melee, 2"
+  hitpoints: 60
+  att: 40
+  str: 40
+  def: 40
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 853
+  name: "Icelord"
+  version: "Melee, 3"
+  hitpoints: 60
+  att: 40
+  str: 40
+  def: 40
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 852
+  name: "Icelord"
+  version: "Ranged"
   hitpoints: 60
   att: 40
   str: 40
