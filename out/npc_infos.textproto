@@ -32310,7 +32310,7 @@ npcs {
 npcs {
   ids: 1448
   name: "Thief"
-  version: "Port Sarim Jail"
+  version: "Port Sarim jail"
   hitpoints: 17
   att: 14
   str: 13
