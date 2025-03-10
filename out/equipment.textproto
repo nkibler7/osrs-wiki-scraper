@@ -95334,7 +95334,7 @@ items {
   key: 27690
   value {
     id: 27690
-    name: "Voidwaker"
+    name: "Voidwalker"
     stat_bonuses {
       stab_attack: 70
       slash_attack: 80
