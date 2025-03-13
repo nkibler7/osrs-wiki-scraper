@@ -19045,13 +19045,61 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 1208
-  ids: 1210
   ids: 1211
-  ids: 12019
-  ids: 12020
   ids: 12021
+  ids: 12022
+  ids: 12024
   name: "Khazard Guard"
+  version: "Khazard 1"
+  hitpoints: 25
+  att: 20
+  str: 18
+  def: 20
+  mage: 1
+  range: 1
+  attbns: 10
+  strbns: 14
+  dstab: 44
+  dslash: 38
+  dcrush: 30
+}
+npcs {
+  ids: 1208
+  name: "Khazard Guard"
+  version: "Khazard 2"
+  hitpoints: 25
+  att: 20
+  str: 18
+  def: 20
+  mage: 1
+  range: 1
+  attbns: 10
+  strbns: 14
+  dstab: 44
+  dslash: 38
+  dcrush: 30
+}
+npcs {
+  ids: 12019
+  ids: 12023
+  name: "Khazard Guard"
+  version: "Khazard 3"
+  hitpoints: 25
+  att: 20
+  str: 18
+  def: 20
+  mage: 1
+  range: 1
+  attbns: 10
+  strbns: 14
+  dstab: 44
+  dslash: 38
+  dcrush: 30
+}
+npcs {
+  ids: 12020
+  name: "Khazard Guard"
+  version: "Khazard 4"
   hitpoints: 25
   att: 20
   str: 18
