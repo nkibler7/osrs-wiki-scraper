@@ -14828,9 +14828,43 @@ npcs {
   drange: 8
 }
 npcs {
+  ids: 11210
+  name: "Guard"
+  version: "Kourend Castle (ranged)"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
   ids: 6574
   name: "Gnome guard"
-  version: "Gnome guard"
+  version: "Gnome Stronghold"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
+  ids: 11199
+  name: "Gnome guard"
+  version: "Gnome Stronghold (ranged)"
   hitpoints: 800
   att: 800
   str: 400
@@ -14847,7 +14881,7 @@ npcs {
 npcs {
   ids: 6575
   name: "Guard"
-  version: "Seers\' Village"
+  version: "Seers\' Village (ranged)"
   hitpoints: 800
   att: 800
   str: 400
@@ -14864,7 +14898,7 @@ npcs {
 npcs {
   ids: 6576
   name: "Guard"
-  version: "Catherby"
+  version: "Catherby (ranged)"
   hitpoints: 800
   att: 800
   str: 400
@@ -14896,9 +14930,43 @@ npcs {
   drange: 8
 }
 npcs {
+  ids: 11200
+  name: "Guard"
+  version: "East Ardougne (ranged)"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
   ids: 6580
   name: "Guard"
   version: "Yanille"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
+  ids: 11201
+  name: "Guard"
+  version: "Yanille (ranged)"
   hitpoints: 800
   att: 800
   str: 400
@@ -14930,9 +14998,43 @@ npcs {
   drange: 8
 }
 npcs {
+  ids: 11202
+  name: "Guard"
+  version: "Falador (ranged)"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
   ids: 6582
   name: "Guard"
   version: "Varrock"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
+  ids: 11203
+  name: "Guard"
+  version: "Varrock (ranged)"
   hitpoints: 800
   att: 800
   str: 400
@@ -14964,9 +15066,43 @@ npcs {
   drange: 8
 }
 npcs {
+  ids: 11204
+  name: "Guard"
+  version: "Lumbridge (ranged)"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
   ids: 6698
   name: "Ghost guard"
   version: "Port Phasmatys"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
+  ids: 11205
+  name: "Ghost guard"
+  version: "Port Phasmatys (ranged)"
   hitpoints: 800
   att: 800
   str: 400
@@ -14998,9 +15134,43 @@ npcs {
   drange: 8
 }
 npcs {
+  ids: 11206
+  name: "Guard"
+  version: "Sophanem (ranged)"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
   ids: 6700
   name: "Guard"
   version: "Fremennik Isles"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
+  ids: 11207
+  name: "Guard"
+  version: "Fremennik Isles (ranged)"
   hitpoints: 800
   att: 800
   str: 400
@@ -15032,9 +15202,43 @@ npcs {
   drange: 8
 }
 npcs {
+  ids: 11208
+  name: "Guard"
+  version: "Void Knights\' Outpost (ranged)"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
   ids: 6702
   name: "Guard"
   version: "Rellekka"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
+  ids: 11209
+  name: "Guard"
+  version: "Rellekka (ranged)"
   hitpoints: 800
   att: 800
   str: 400
@@ -15066,8 +15270,24 @@ npcs {
   drange: 8
 }
 npcs {
+  ids: 11211
+  name: "Prifddinas guard"
+  version: "Prifddinas (ranged)"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
   ids: 12460
-  ids: 12462
   name: "Guard"
   version: "Warriors\' Guild"
   hitpoints: 800
