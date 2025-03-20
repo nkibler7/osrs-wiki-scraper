@@ -114,6 +114,7 @@ B
 ÜAl Kharid warrior (08@HP
 X	€ˆ
 ˜ÿÿÿÿÿÿÿÿÿ 
+Albatros P(F
 
 
 Albino bat !(9098@H
@@ -444,6 +445,7 @@ N
 ğ-Baby green dragon2 2((0(8(@H€ˆ22˜( ªdragon
 >
 ñ-Baby green dragon3 2((0(8(@H€ˆ22˜( ªdragon
+Baby leviathan –87HP
 9
 ôBaby red dragon1 2((0(8(@H€
 ˆ22˜(ªdragon
@@ -457,6 +459,7 @@ N
 ‰Baby red dragon A(70787@H€ˆ22˜( 
 
 úBaby Roc 2(F0F8F@H˜–
+Baby sea kraken 28K@<
 &
 İ-Baby tanglefootTan (((0&8(@H
 (
@@ -926,6 +929,7 @@ CatableponLevel 64 F(70282@-H€2ˆ(˜ 2
 5
 ¬
 CatableponLevel 68 2(A0<8<@<H€2ˆ(˜ 2
+Catherby monodon (8H2
 '
 é9Cave abomination ‚(æ0Ã8@æH
 '
@@ -1188,6 +1192,7 @@ v
 Ö%CrabLevel 21 (08@H
  
 Ó%CrabLevel 23 (08@H
+Crandor shark #(2
 1
 ÂCrawling HandLevel 7 (08@Hªundead
 5
@@ -1449,6 +1454,7 @@ Death wing P(F0F8F@Hªspectral
 ‡;Deathly rangerNormal x(08›@›HÒpxxFªxerician
 C
 ‡;Deathly rangerChallenge Mode ´(08è@èH»pxxFªxerician
+Deep sea kraken ¹8s@¥
 
 ¼½DefilerLevel 33 8H.
 
@@ -1542,6 +1548,7 @@ Armageddon È(d0d8È@HXi`Æÿÿÿÿÿÿÿÿpîÿÿÿÿÿÿÿÿ€üˆúô˜õÿÿÿÿÿÿÿÿ ùªs
 ğjDreadborn Araxyte Ş(„0„8d@dHPÈX
 €<ˆ˜
  d
+Drink troll (8
 
 ºDruid (08 @H
 Y
@@ -1853,6 +1860,7 @@ ExperimentLevel 25 (spider) d(08@H
 ExperimentLevel 25 (sheep) d(08@H
 0
 †(Experiment No.2 _(h0\8Z@Hd€-ˆF<˜< 7
+Famished shark (
 0
 €Ì1FareedNormal ‚(¾0x8‡@HXx€dˆdd
 4
@@ -3181,6 +3189,7 @@ W
 ’&ã1KaramelNormal ú(08d@Hdp†x7€–ˆ––˜– –
 A
 ¦1Karamel (hard)Hard ÿ(08d@HÈpŒxn€–ˆ––˜– –
+Karamjan tiger shark ((
 J
 ‹Karil the Tainted d(08d@Hd`æÿÿÿÿÿÿÿÿp†x7€OˆGZ˜jªspectral
 3
@@ -3204,6 +3213,7 @@ L
 ©`Ketla the UnworthyRegular È8‚@‚H pPx€<ˆP˜È Fªspectral
 P
 ª`Ketla the UnworthyShadow Clone 8‚@‚H pPx€<ˆP˜È Fªspectral
+Kharazi monodon <8FHA
 #
 ì&Khazard commander (20-82@H
 =
@@ -3368,6 +3378,7 @@ T
 äLanzig 2((0(8(@HX
 ,
 €1Large mosquito (08-@H€ˆ˜
+Large reef shark H(2
 <
 Á3Lava dragon æ(ğ0Ü8Ü@H€ˆZZ˜Pªdragon,fiery
 
@@ -3416,6 +3427,7 @@ T
 0
 8
 @H€ëÿÿÿÿÿÿÿÿˆëÿÿÿÿÿÿÿÿëÿÿÿÿÿÿÿÿ˜ëÿÿÿÿÿÿÿÿ ëÿÿÿÿÿÿÿÿ
+Little monster }8–@x
 $
 ÊLizard ((&0$8#@H€ˆ 
 >
@@ -3925,6 +3937,7 @@ $
 -
 Š"Ogre chieftain <(K0G8K@HPX€
 ˆ
+Ogre monodon –8HF
  
 Ÿ"Ogre shaman1 (08@H
  
@@ -4213,6 +4226,7 @@ H
 5
 ØkPrince Itzla Arkan ú(–0n8K@7HP–€ˆ˜
 
+Pygmy kraken 8@(
 B
 ±²³´	PyrefiendRegular -(408@H€
 ˆ
@@ -4572,6 +4586,13 @@ G
 `–hp–x
 €ˆ˜
  ªrat
+Sea hawk P(F
+Sea kraken (Air) }(x8–
+Sea kraken (Earth) }(x8–
+Sea kraken (Fire) }(x8–
+Sea kraken (Water) }(x8–
+	Sea Mogre <((8(H<
+Sea monodon è(28dH
 %
 ÊSea Snake Hatchling 2(<0782@H
 !
@@ -5001,6 +5022,7 @@ $
 82@dH€2ˆ22˜–
 K
 ŠDSpawn of Sarachnis	Level 107 (–0x82@HP2€2ˆ2˜öÿÿÿÿÿÿÿÿ –
+Spawn sharhai È(¬8d@
 +
 ¯Speedy Keith %( 08@HP	X	€	ˆ
 
@@ -5950,6 +5972,7 @@ l
 ¿WerewolfGod Wars Dungeon (1) \(M0L8U@H€ëÿÿÿÿÿÿÿÿˆëÿÿÿÿÿÿÿÿëÿÿÿÿÿÿÿÿ˜ëÿÿÿÿÿÿÿÿ ëÿÿÿÿÿÿÿÿ
 l
 ÀWerewolfGod Wars Dungeon (2) \(M0L8U@H€ëÿÿÿÿÿÿÿÿˆëÿÿÿÿÿÿÿÿëÿÿÿÿÿÿÿÿ˜ëÿÿÿÿÿÿÿÿ ëÿÿÿÿÿÿÿÿ
+Whale è(28dH
 U
 ¬_­_The Whisperer
 Post-quest „(˜0˜8ú@´H´PŒX`¾h:p xF€´ˆ¬Ü˜

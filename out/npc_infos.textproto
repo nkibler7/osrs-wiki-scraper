@@ -669,6 +669,11 @@ npcs {
   drange: 12
 }
 npcs {
+  name: "Albatros"
+  hitpoints: 80
+  att: 70
+}
+npcs {
   ids: 1039
   name: "Albino bat"
   hitpoints: 33
@@ -2623,6 +2628,12 @@ npcs {
   attributes: "dragon"
 }
 npcs {
+  name: "Baby leviathan"
+  hitpoints: 150
+  def: 55
+  range: 80
+}
+npcs {
   ids: 244
   name: "Baby red dragon"
   version: "1"
@@ -2695,6 +2706,12 @@ npcs {
   mage: 1
   range: 1
   dmagic: 150
+}
+npcs {
+  name: "Baby sea kraken"
+  hitpoints: 50
+  def: 75
+  mage: 60
 }
 npcs {
   ids: 5853
@@ -5432,6 +5449,12 @@ npcs {
   drange: 50
 }
 npcs {
+  name: "Catherby monodon"
+  hitpoints: 40
+  def: 30
+  range: 50
+}
+npcs {
   ids: 7401
   name: "Cave abomination"
   hitpoints: 130
@@ -6842,6 +6865,11 @@ npcs {
   def: 26
   mage: 1
   range: 1
+}
+npcs {
+  name: "Crandor shark"
+  hitpoints: 35
+  att: 50
 }
 npcs {
   ids: 450
@@ -8257,6 +8285,12 @@ npcs {
   attributes: "xerician"
 }
 npcs {
+  name: "Deep sea kraken"
+  hitpoints: 185
+  def: 115
+  mage: 165
+}
+npcs {
   ids: 1724
   ids: 1725
   name: "Defiler"
@@ -8815,6 +8849,12 @@ npcs {
   dslash: 30
   dmagic: 10
   drange: 100
+}
+npcs {
+  name: "Drink troll"
+  hitpoints: 5
+  att: 1
+  def: 1
 }
 npcs {
   ids: 3258
@@ -10620,6 +10660,11 @@ npcs {
   dcrush: 60
   dmagic: 60
   drange: 55
+}
+npcs {
+  name: "Famished shark"
+  hitpoints: 15
+  att: 30
 }
 npcs {
   ids: 3456
@@ -19089,6 +19134,11 @@ npcs {
   drange: 150
 }
 npcs {
+  name: "Karamjan tiger shark"
+  hitpoints: 25
+  att: 40
+}
+npcs {
   ids: 1675
   name: "Karil the Tainted"
   hitpoints: 100
@@ -19258,6 +19308,12 @@ npcs {
   dmagic: 200
   drange: 70
   attributes: "spectral"
+}
+npcs {
+  name: "Kharazi monodon"
+  hitpoints: 60
+  def: 70
+  range: 65
 }
 npcs {
   ids: 4972
@@ -20222,6 +20278,11 @@ npcs {
   dmagic: 2
 }
 npcs {
+  name: "Large reef shark"
+  hitpoints: 72
+  att: 50
+}
+npcs {
   ids: 6593
   name: "Lava dragon"
   hitpoints: 230
@@ -20514,6 +20575,12 @@ npcs {
   dcrush: -21
   dmagic: -21
   drange: -21
+}
+npcs {
+  name: "Little monster"
+  hitpoints: 125
+  def: 150
+  mage: 120
 }
 npcs {
   ids: 458
@@ -23726,6 +23793,12 @@ npcs {
   dcrush: 16
 }
 npcs {
+  name: "Ogre monodon"
+  hitpoints: 150
+  def: 30
+  range: 70
+}
+npcs {
   ids: 4383
   name: "Ogre shaman"
   version: "1"
@@ -25495,6 +25568,12 @@ npcs {
   dslash: 30
   dcrush: 20
   dmagic: 10
+}
+npcs {
+  name: "Pygmy kraken"
+  hitpoints: 30
+  def: 30
+  mage: 40
 }
 npcs {
   ids: 433
@@ -27669,6 +27748,49 @@ npcs {
   dmagic: 10
   drange: 20
   attributes: "rat"
+}
+npcs {
+  name: "Sea hawk"
+  hitpoints: 80
+  att: 70
+}
+npcs {
+  name: "Sea kraken (Air)"
+  hitpoints: 125
+  att: 120
+  def: 150
+}
+npcs {
+  name: "Sea kraken (Earth)"
+  hitpoints: 125
+  att: 120
+  def: 150
+}
+npcs {
+  name: "Sea kraken (Fire)"
+  hitpoints: 125
+  att: 120
+  def: 150
+}
+npcs {
+  name: "Sea kraken (Water)"
+  hitpoints: 125
+  att: 120
+  def: 150
+}
+npcs {
+  name: "Sea Mogre"
+  hitpoints: 60
+  att: 40
+  def: 40
+  range: 60
+}
+npcs {
+  name: "Sea monodon"
+  hitpoints: 360
+  att: 50
+  def: 100
+  range: 25
 }
 npcs {
   ids: 1098
@@ -30515,6 +30637,13 @@ npcs {
   dcrush: 20
   dmagic: -10
   drange: 150
+}
+npcs {
+  name: "Spawn sharhai"
+  hitpoints: 200
+  att: 300
+  def: 100
+  mage: 20
 }
 npcs {
   ids: 303
@@ -36311,6 +36440,13 @@ npcs {
   dcrush: -21
   dmagic: -21
   drange: -21
+}
+npcs {
+  name: "Whale"
+  hitpoints: 360
+  att: 50
+  def: 100
+  range: 25
 }
 npcs {
   ids: 12204
