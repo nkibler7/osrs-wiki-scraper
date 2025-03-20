@@ -13703,6 +13703,11 @@ npcs {
   attributes: "dragon,xerician"
 }
 npcs {
+  name: "Great white shark"
+  hitpoints: 250
+  att: 100
+}
+npcs {
   ids: 7410
   name: "Greater abyssal demon"
   hitpoints: 400
