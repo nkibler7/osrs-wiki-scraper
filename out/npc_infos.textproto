@@ -10665,6 +10665,8 @@ npcs {
   name: "Famished shark"
   hitpoints: 15
   att: 30
+  str: 10
+  mage: 1
 }
 npcs {
   ids: 3456
