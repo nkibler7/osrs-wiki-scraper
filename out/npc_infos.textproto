@@ -19143,6 +19143,8 @@ npcs {
   name: "Karamjan tiger shark"
   hitpoints: 25
   att: 40
+  str: 20
+  mage: 1
 }
 npcs {
   ids: 1675
@@ -19318,8 +19320,12 @@ npcs {
 npcs {
   name: "Kharazi monodon"
   hitpoints: 60
+  att: 1
+  str: 1
   def: 70
+  mage: 1
   range: 65
+  dcrush: 50
 }
 npcs {
   ids: 4972
