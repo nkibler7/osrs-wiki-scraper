@@ -6871,6 +6871,8 @@ npcs {
   name: "Crandor shark"
   hitpoints: 35
   att: 50
+  str: 20
+  mage: 1
 }
 npcs {
   ids: 450
