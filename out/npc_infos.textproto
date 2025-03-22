@@ -27002,6 +27002,8 @@ npcs {
   att: 80
   str: 80
   def: 80
+  mage: 1
+  range: 1
   attbns: 22
   strbns: 20
 }
@@ -27103,8 +27105,9 @@ npcs {
   def: 276
   mage: 196
   range: 246
+  mbns: 16
   rngbns: 14
-  dstab: 20
+  dstab: 30
   dslash: 115
   dcrush: 90
   dmagic: 30
