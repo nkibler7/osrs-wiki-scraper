@@ -29648,6 +29648,8 @@ npcs {
   def: 17
   mage: 1
   range: 1
+  attbns: 15
+  strbns: 14
   dstab: 9
   dslash: 11
   dcrush: -2
