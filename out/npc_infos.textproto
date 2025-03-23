@@ -23813,8 +23813,12 @@ npcs {
 npcs {
   name: "Ogre monodon"
   hitpoints: 150
+  att: 1
+  str: 1
   def: 30
+  mage: 1
   range: 70
+  dcrush: 50
 }
 npcs {
   ids: 4383
