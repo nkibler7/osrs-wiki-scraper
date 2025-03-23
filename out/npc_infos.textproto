@@ -5452,8 +5452,12 @@ npcs {
 npcs {
   name: "Catherby monodon"
   hitpoints: 40
+  att: 1
+  str: 1
   def: 30
+  mage: 1
   range: 50
+  dcrush: 50
 }
 npcs {
   ids: 7401
