@@ -28224,6 +28224,13 @@ npcs {
   drange: 15
 }
 npcs {
+  name: "Shark"
+  hitpoints: 1
+  att: 100
+  str: 30
+  mage: 1
+}
+npcs {
   ids: 1694
   ids: 1695
   name: "Shifter"
