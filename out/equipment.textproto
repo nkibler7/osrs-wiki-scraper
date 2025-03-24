@@ -100014,7 +100014,7 @@ items {
       magic_attack: 5
       magic_defence: 5
       melee_strength: 2
-      prayer: 1
+      prayer: 2
     }
   }
 }
@@ -100031,7 +100031,7 @@ items {
       magic_attack: 5
       magic_defence: 5
       melee_strength: 2
-      prayer: 1
+      prayer: 2
     }
   }
 }
