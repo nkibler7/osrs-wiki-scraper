@@ -28225,6 +28225,7 @@ npcs {
 }
 npcs {
   name: "Shark"
+  hitpoints: 60
   att: 100
   str: 30
   mage: 1
