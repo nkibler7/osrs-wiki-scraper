@@ -42270,7 +42270,7 @@ items {
       stab_defence: 4
       slash_defence: 5
       crush_defence: 3
-      ranged_defence: 1
+      ranged_defence: 4
     }
   }
 }
@@ -65481,7 +65481,6 @@ items {
     name: "Elder maul"
     stat_bonuses {
       crush_attack: 135
-      magic_attack: -4
       melee_strength: 147
     }
     weapon_details {
@@ -92139,7 +92138,6 @@ items {
     name: "Elder maul (or)"
     stat_bonuses {
       crush_attack: 135
-      magic_attack: -4
       melee_strength: 147
     }
     weapon_details {
