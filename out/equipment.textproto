@@ -1862,7 +1862,7 @@ items {
     id: 829
     name: "Adamant javelin"
     stat_bonuses {
-      ranged_strength: 107
+      ranged_strength: 102
     }
   }
 }
@@ -1922,7 +1922,7 @@ items {
     id: 835
     name: "Adamant javelin(p)"
     stat_bonuses {
-      ranged_strength: 107
+      ranged_strength: 102
     }
   }
 }
@@ -12798,7 +12798,7 @@ items {
     id: 2589
     name: "Black kiteshield (t)"
     stat_bonuses {
-      ranged_attack: -3
+      ranged_attack: -2
       magic_attack: -8
       stab_defence: 17
       slash_defence: 19
@@ -12910,7 +12910,7 @@ items {
     id: 2603
     name: "Adamant kiteshield (t)"
     stat_bonuses {
-      ranged_attack: -3
+      ranged_attack: -2
       magic_attack: -8
       stab_defence: 27
       slash_defence: 31
@@ -25270,7 +25270,7 @@ items {
     id: 5646
     name: "Adamant javelin(p+)"
     stat_bonuses {
-      ranged_strength: 107
+      ranged_strength: 102
     }
   }
 }
@@ -25330,7 +25330,7 @@ items {
     id: 5652
     name: "Adamant javelin(p++)"
     stat_bonuses {
-      ranged_strength: 107
+      ranged_strength: 102
     }
   }
 }
@@ -52143,7 +52143,7 @@ items {
     id: 12213
     name: "Bronze kiteshield (g)"
     stat_bonuses {
-      ranged_attack: -3
+      ranged_attack: -2
       magic_attack: -8
       stab_defence: 5
       slash_defence: 7
@@ -52223,7 +52223,7 @@ items {
     id: 12223
     name: "Bronze kiteshield (t)"
     stat_bonuses {
-      ranged_attack: -3
+      ranged_attack: -2
       magic_attack: -8
       stab_defence: 5
       slash_defence: 7
@@ -52303,7 +52303,7 @@ items {
     id: 12233
     name: "Iron kiteshield (t)"
     stat_bonuses {
-      ranged_attack: -3
+      ranged_attack: -2
       magic_attack: -8
       stab_defence: 8
       slash_defence: 10
@@ -52383,7 +52383,7 @@ items {
     id: 12243
     name: "Iron kiteshield (g)"
     stat_bonuses {
-      ranged_attack: -3
+      ranged_attack: -2
       magic_attack: -8
       stab_defence: 8
       slash_defence: 10
@@ -52731,7 +52731,7 @@ items {
     id: 12281
     name: "Mithril kiteshield (g)"
     stat_bonuses {
-      ranged_attack: -3
+      ranged_attack: -2
       magic_attack: -8
       stab_defence: 18
       slash_defence: 22
@@ -52811,7 +52811,7 @@ items {
     id: 12291
     name: "Mithril kiteshield (t)"
     stat_bonuses {
-      ranged_attack: -3
+      ranged_attack: -2
       magic_attack: -8
       stab_defence: 18
       slash_defence: 22
@@ -62851,7 +62851,7 @@ items {
     id: 20181
     name: "Steel kiteshield (g)"
     stat_bonuses {
-      ranged_attack: -3
+      ranged_attack: -2
       magic_attack: -8
       stab_defence: 13
       slash_defence: 15
@@ -62931,7 +62931,7 @@ items {
     id: 20196
     name: "Steel kiteshield (t)"
     stat_bonuses {
-      ranged_attack: -3
+      ranged_attack: -2
       magic_attack: -8
       stab_defence: 13
       slash_defence: 15
@@ -68999,7 +68999,7 @@ items {
     id: 22244
     name: "Dragon kiteshield (g)"
     stat_bonuses {
-      ranged_attack: -3
+      ranged_attack: -2
       magic_attack: -8
       stab_defence: 56
       slash_defence: 60
