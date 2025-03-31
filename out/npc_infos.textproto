@@ -11098,7 +11098,7 @@ npcs {
 npcs {
   ids: 7394
   name: "Flaming pyrelord"
-  hitpoints: 126
+  hitpoints: 125
   att: 98
   str: 65
   def: 52
