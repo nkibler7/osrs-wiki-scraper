@@ -23462,6 +23462,17 @@ npcs {
   rngbns: -6
 }
 npcs {
+  ids: 10820
+  name: "Nylocas Matomenos"
+  version: "Entry Mode Maiden"
+  hitpoints: 64
+  att: 100
+  str: 100
+  def: 100
+  mage: 100
+  range: 100
+}
+npcs {
   ids: 8366
   name: "Nylocas Matomenos"
   version: "Normal Mode Maiden"
