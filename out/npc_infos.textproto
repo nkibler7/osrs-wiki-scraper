@@ -9142,9 +9142,10 @@ npcs {
   attributes: "rat"
 }
 npcs {
-  ids: 2865
+  ids: 2866
+  ids: 2867
   name: "Dungeon rat"
-  version: "Doesn\'t drop tail"
+  version: "Short tail"
   hitpoints: 12
   att: 10
   str: 10
@@ -9154,10 +9155,9 @@ npcs {
   attributes: "rat"
 }
 npcs {
-  ids: 2866
-  ids: 2867
+  ids: 2865
   name: "Dungeon rat"
-  version: "Standard"
+  version: "Full tail"
   hitpoints: 12
   att: 10
   str: 10
