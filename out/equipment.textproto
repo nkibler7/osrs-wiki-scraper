@@ -17261,7 +17261,7 @@ items {
   key: 4041
   value {
     id: 4041
-    name: "Hooded cloak"
+    name: "Saradomin cloak"
     stat_bonuses {
     }
   }
@@ -17270,7 +17270,7 @@ items {
   key: 4042
   value {
     id: 4042
-    name: "Hooded cloak"
+    name: "Zamorak cloak"
     stat_bonuses {
     }
   }
