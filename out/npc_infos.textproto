@@ -3387,9 +3387,20 @@ npcs {
 }
 npcs {
   ids: 600
+  name: "Barrelchest"
+  hitpoints: 134
+  att: 170
+  str: 145
+  def: 140
+  mage: 90
+  range: 1
+  attbns: 80
+  strbns: 80
+}
+npcs {
   ids: 6342
   name: "Barrelchest"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 134
   att: 170
   str: 145
@@ -3402,7 +3413,7 @@ npcs {
 npcs {
   ids: 1126
   name: "Barrelchest (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 255
   att: 306
   str: 261
