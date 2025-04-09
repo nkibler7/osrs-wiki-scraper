@@ -1527,44 +1527,6 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 12720
-  ids: 12721
-  ids: 12722
-  ids: 12723
-  ids: 12724
-  name: "Armoured zombie"
-  version: "Melee"
-  hitpoints: 85
-  att: 73
-  str: 72
-  def: 68
-  mage: 1
-  range: 1
-  dstab: 20
-  dslash: 20
-  drange: 10
-  attributes: "undead"
-}
-npcs {
-  ids: 12725
-  ids: 12726
-  ids: 12727
-  ids: 12728
-  ids: 12729
-  name: "Armoured zombie"
-  version: "Ranged"
-  hitpoints: 85
-  att: 73
-  str: 72
-  def: 68
-  mage: 1
-  range: 72
-  dstab: 20
-  dslash: 20
-  drange: 10
-  attributes: "undead"
-}
-npcs {
   ids: 12730
   ids: 12731
   ids: 12732
@@ -1637,6 +1599,44 @@ npcs {
   dslash: 5
   dcrush: 5
   dmagic: -50
+  attributes: "undead"
+}
+npcs {
+  ids: 12720
+  ids: 12721
+  ids: 12722
+  ids: 12723
+  ids: 12724
+  name: "Armoured zombie"
+  version: "Melee"
+  hitpoints: 85
+  att: 73
+  str: 72
+  def: 68
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 20
+  drange: 10
+  attributes: "undead"
+}
+npcs {
+  ids: 12725
+  ids: 12726
+  ids: 12727
+  ids: 12728
+  ids: 12729
+  name: "Armoured zombie"
+  version: "Ranged"
+  hitpoints: 85
+  att: 73
+  str: 72
+  def: 68
+  mage: 1
+  range: 72
+  dstab: 20
+  dslash: 20
+  drange: 10
   attributes: "undead"
 }
 npcs {
