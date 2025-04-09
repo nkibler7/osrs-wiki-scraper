@@ -107980,3 +107980,23 @@ items {
     }
   }
 }
+items {
+  key: 30694
+  value {
+    id: 30694
+    name: "Castle wars arrow"
+    stat_bonuses {
+      ranged_strength: 60
+    }
+  }
+}
+items {
+  key: 30696
+  value {
+    id: 30696
+    name: "Castle wars bolts"
+    stat_bonuses {
+      ranged_strength: 122
+    }
+  }
+}
