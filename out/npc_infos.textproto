@@ -5867,7 +5867,7 @@ npcs {
   dstab: 50
   dslash: 100
   dcrush: 25
-  dmagic: 100
+  dmagic: 65
   attributes: "demon"
 }
 npcs {
@@ -8391,7 +8391,7 @@ npcs {
   mbns: 29
   arange: 43
   rngbns: 29
-  dmagic: 50
+  dmagic: 20
   attributes: "demon"
 }
 npcs {
@@ -18816,7 +18816,7 @@ npcs {
   dstab: 80
   dslash: 80
   dcrush: 80
-  dmagic: 130
+  dmagic: 80
   attributes: "demon"
 }
 npcs {
@@ -29913,7 +29913,7 @@ npcs {
   dstab: 80
   dslash: 80
   dcrush: 80
-  dmagic: 130
+  dmagic: 80
   attributes: "demon"
 }
 npcs {
