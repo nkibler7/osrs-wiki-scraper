@@ -25373,7 +25373,7 @@ npcs {
 npcs {
   ids: 1747
   name: "Portal"
-  version: "Novice"
+  version: "Purple, Novice"
   hitpoints: 200
   def: 120
   dstab: 100
@@ -25384,7 +25384,7 @@ npcs {
 npcs {
   ids: 1751
   name: "Portal"
-  version: "Novice (shielded)"
+  version: "Purple, Novice (shielded)"
   hitpoints: 200
   def: 120
   dstab: 100
@@ -25395,7 +25395,7 @@ npcs {
 npcs {
   ids: 1739
   name: "Portal"
-  version: "Intermediate/veteran"
+  version: "Purple, Intermediate/veteran"
   hitpoints: 250
   def: 120
   dstab: 100
@@ -25406,7 +25406,7 @@ npcs {
 npcs {
   ids: 1743
   name: "Portal"
-  version: "Intermediate/veteran (shielded)"
+  version: "Purple, Intermediate/veteran (shielded)"
   hitpoints: 250
   def: 120
   dstab: 100
@@ -25417,7 +25417,7 @@ npcs {
 npcs {
   ids: 1750
   name: "Portal"
-  version: "Novice"
+  version: "Red, Novice"
   hitpoints: 200
   def: 120
   dstab: 100
@@ -25428,7 +25428,7 @@ npcs {
 npcs {
   ids: 1754
   name: "Portal"
-  version: "Novice (shielded)"
+  version: "Red, Novice (shielded)"
   hitpoints: 200
   def: 120
   dstab: 100
@@ -25439,7 +25439,7 @@ npcs {
 npcs {
   ids: 1742
   name: "Portal"
-  version: "Intermediate/veteran"
+  version: "Red, Intermediate/veteran"
   hitpoints: 250
   def: 120
   dstab: 100
@@ -25450,7 +25450,7 @@ npcs {
 npcs {
   ids: 1746
   name: "Portal"
-  version: "Intermediate/veteran (shielded)"
+  version: "Red, Intermediate/veteran (shielded)"
   hitpoints: 250
   def: 120
   dstab: 100
@@ -25461,7 +25461,7 @@ npcs {
 npcs {
   ids: 1749
   name: "Portal"
-  version: "Novice"
+  version: "Yellow, Novice"
   hitpoints: 200
   def: 120
   dcrush: 100
@@ -25471,7 +25471,7 @@ npcs {
 npcs {
   ids: 1753
   name: "Portal"
-  version: "Novice (shielded)"
+  version: "Yellow, Novice (shielded)"
   hitpoints: 200
   def: 120
   dcrush: 100
@@ -25481,7 +25481,7 @@ npcs {
 npcs {
   ids: 1741
   name: "Portal"
-  version: "Intermediate/veteran"
+  version: "Yellow, Intermediate/veteran"
   hitpoints: 250
   def: 120
   dcrush: 100
@@ -25491,7 +25491,7 @@ npcs {
 npcs {
   ids: 1745
   name: "Portal"
-  version: "Intermediate/veteran (shielded)"
+  version: "Yellow, Intermediate/veteran (shielded)"
   hitpoints: 250
   def: 120
   dcrush: 100
@@ -25501,7 +25501,7 @@ npcs {
 npcs {
   ids: 1748
   name: "Portal"
-  version: "Novice"
+  version: "Blue, Novice"
   hitpoints: 200
   def: 120
   dstab: 100
@@ -25512,7 +25512,7 @@ npcs {
 npcs {
   ids: 1752
   name: "Portal"
-  version: "Novice (shielded)"
+  version: "Blue, Novice (shielded)"
   hitpoints: 200
   def: 120
   dstab: 100
@@ -25523,7 +25523,7 @@ npcs {
 npcs {
   ids: 1740
   name: "Portal"
-  version: "Intermediate/veteran"
+  version: "Blue, Intermediate/veteran"
   hitpoints: 250
   def: 120
   dstab: 100
@@ -25534,7 +25534,7 @@ npcs {
 npcs {
   ids: 1744
   name: "Portal"
-  version: "Intermediate/veteran (shielded)"
+  version: "Blue, Intermediate/veteran (shielded)"
   hitpoints: 250
   def: 120
   dstab: 100
