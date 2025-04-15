@@ -4593,6 +4593,12 @@ G
 Sea kraken (Air) }(x8–
 Sea kraken (Earth) }(x8–
 Sea kraken (Fire) }(x8–
+
+Sea krakenEarth
+
+Sea krakenWater
+
+Sea krakenFire
 Sea kraken (Water) }(x8–
 	Sea MogreAlive <((8(H<
 	Sea MogreDead <((8(H<
@@ -4621,6 +4627,7 @@ t
 k
 ‰KSeagull 
 (08@HPÑÿÿÿÿÿÿÿÿXÖÿÿÿÿÿÿÿÿ€ÖÿÿÿÿÿÿÿÿˆÖÿÿÿÿÿÿÿÿÖÿÿÿÿÿÿÿÿ˜Öÿÿÿÿÿÿÿÿ Öÿÿÿÿÿÿÿÿ
+Seal
 F
 ÁVÃVÅVÇVÉVËVÍVÏV¾WSergeant V(K0I8=@HPX€ˆ˜ôÿÿÿÿÿÿÿÿ 
 +
@@ -4713,6 +4720,7 @@ Sir Gawain n(n0i8d@HP(X-€AˆZ¬
 û!ˆ"Sir Pelleas c(_0c8b@HPX€Èˆûÿÿÿÿÿÿÿÿ
 (
 ú!‡"Sir Tristram i(c0c8c@HPXá
+Siren
 <
 ŸSkeletal miner '(#0%8&@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ 
 \

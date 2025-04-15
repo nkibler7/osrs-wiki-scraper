@@ -27811,6 +27811,18 @@ npcs {
   def: 150
 }
 npcs {
+  name: "Sea kraken"
+  version: "Earth"
+}
+npcs {
+  name: "Sea kraken"
+  version: "Water"
+}
+npcs {
+  name: "Sea kraken"
+  version: "Fire"
+}
+npcs {
   name: "Sea kraken (Water)"
   hitpoints: 125
   att: 120
@@ -27971,6 +27983,9 @@ npcs {
   dcrush: -42
   dmagic: -42
   drange: -42
+}
+npcs {
+  name: "Seal"
 }
 npcs {
   ids: 11073
@@ -28568,6 +28583,9 @@ npcs {
   attbns: 25
   strbns: 25
   dcrush: 225
+}
+npcs {
+  name: "Siren"
 }
 npcs {
   ids: 3615
