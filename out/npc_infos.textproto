@@ -22287,6 +22287,7 @@ npcs {
 npcs {
   ids: 9013
   name: "Mourner"
+  version: "level 11"
   hitpoints: 19
   att: 8
   str: 8
@@ -22302,6 +22303,7 @@ npcs {
 npcs {
   ids: 9017
   name: "Mourner"
+  version: "level 108"
   hitpoints: 105
   att: 95
   str: 95
