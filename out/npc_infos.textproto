@@ -39469,7 +39469,7 @@ npcs {
 }
 npcs {
   ids: 3359
-  name: "Zombies Champion"
+  name: "Zombies{{sic}} Champion"
   hitpoints: 60
   att: 38
   str: 42
