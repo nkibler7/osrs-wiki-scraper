@@ -108000,3 +108000,30 @@ items {
     }
   }
 }
+items {
+  key: 30722
+  value {
+    id: 30722
+    name: "Carrot costume body"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30724
+  value {
+    id: 30724
+    name: "Carrot costume tights"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30726
+  value {
+    id: 30726
+    name: "Carrot costume gloves"
+    stat_bonuses {
+    }
+  }
+}
