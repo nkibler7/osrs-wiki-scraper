@@ -4443,47 +4443,6 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 12561
-  name: "Bloodthirst rockslug{{Sic}}"
-  hitpoints: 77
-  att: 72
-  str: 77
-  def: 77
-  mage: 1
-  range: 1
-}
-npcs {
-  ids: 12539
-  name: "Bloodthirsty Crawler"
-  hitpoints: 60
-  att: 64
-  str: 59
-  def: 55
-  mage: 1
-  range: 1
-}
-npcs {
-  ids: 12538
-  name: "Bloodthirsty hand"
-  hitpoints: 55
-  att: 45
-  str: 42
-  def: 14
-  mage: 1
-  range: 1
-  attributes: "undead"
-}
-npcs {
-  ids: 12567
-  name: "Bloodthirsty Mage"
-  hitpoints: 175
-  att: 1
-  str: 1
-  def: 175
-  mage: 175
-  range: 1
-}
-npcs {
   ids: 12574
   name: "Bloodthirsty Repugnant spectre"
   hitpoints: 380
