@@ -13880,6 +13880,7 @@ npcs {
   dcrush: 15
   dmagic: 156
   drange: 184
+  attributes: "undead"
 }
 npcs {
   ids: 6614
