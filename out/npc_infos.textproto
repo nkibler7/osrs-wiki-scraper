@@ -4443,28 +4443,6 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 12574
-  name: "Bloodthirsty Repugnant spectre"
-  hitpoints: 380
-  att: 1
-  str: 1
-  def: 220
-  mage: 380
-  range: 1
-  attributes: "undead, spectral"
-}
-npcs {
-  ids: 12573
-  name: "Bloodthirsty spectre"
-  hitpoints: 250
-  att: 1
-  str: 1
-  def: 180
-  mage: 300
-  range: 1
-  attributes: "undead, Spectral"
-}
-npcs {
   ids: 484
   ids: 485
   ids: 486
