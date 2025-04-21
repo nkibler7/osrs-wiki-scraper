@@ -25483,6 +25483,16 @@ npcs {
   drange: 100
 }
 npcs {
+  ids: 12334
+  name: "Portal"
+  hitpoints: 30
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 3612
   ids: 6469
   name: "Possessed pickaxe"
