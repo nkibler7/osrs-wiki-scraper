@@ -237,7 +237,7 @@ npcs {
   ids: 5888
   name: "Abyssal Sire"
   version: "Phase 1"
-  hitpoints: 400
+  hitpoints: 425
   att: 180
   str: 136
   def: 250
@@ -256,7 +256,7 @@ npcs {
   ids: 5890
   name: "Abyssal Sire"
   version: "Phase 2"
-  hitpoints: 400
+  hitpoints: 425
   att: 180
   str: 136
   def: 250
@@ -274,7 +274,7 @@ npcs {
   ids: 5891
   name: "Abyssal Sire"
   version: "Phase 3 (stage 1)"
-  hitpoints: 400
+  hitpoints: 425
   att: 180
   str: 136
   def: 250
@@ -292,7 +292,7 @@ npcs {
   ids: 5908
   name: "Abyssal Sire"
   version: "Phase 3 (stage 2)"
-  hitpoints: 400
+  hitpoints: 425
   att: 180
   str: 136
   def: 250
