@@ -8768,7 +8768,6 @@ npcs {
   def: 120
   mage: 112
   range: 140
-  attbns: 40
   strbns: 12
   arange: 40
   rngbns: 40
