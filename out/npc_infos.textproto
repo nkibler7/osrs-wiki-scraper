@@ -16591,45 +16591,6 @@ npcs {
   strbns: 16
 }
 npcs {
-  ids: 10374
-  name: "Hill Giant"
-  version: "Brassard"
-  hitpoints: 35
-  att: 18
-  str: 22
-  def: 26
-  mage: 1
-  range: 1
-  attbns: 18
-  strbns: 16
-}
-npcs {
-  ids: 10375
-  name: "Hill Giant"
-  version: "Hammer"
-  hitpoints: 35
-  att: 18
-  str: 22
-  def: 26
-  mage: 1
-  range: 1
-  attbns: 18
-  strbns: 16
-}
-npcs {
-  ids: 10376
-  name: "Hill Giant"
-  version: "Singlet"
-  hitpoints: 35
-  att: 18
-  str: 22
-  def: 26
-  mage: 1
-  range: 1
-  attbns: 18
-  strbns: 16
-}
-npcs {
   ids: 7261
   name: "Hill Giant"
   hitpoints: 35
@@ -16671,6 +16632,45 @@ npcs {
   ids: 12850
   name: "Hill Giant"
   version: "Helmetless"
+  hitpoints: 35
+  att: 18
+  str: 22
+  def: 26
+  mage: 1
+  range: 1
+  attbns: 18
+  strbns: 16
+}
+npcs {
+  ids: 10374
+  name: "Hill Giant"
+  version: "Brassard"
+  hitpoints: 35
+  att: 18
+  str: 22
+  def: 26
+  mage: 1
+  range: 1
+  attbns: 18
+  strbns: 16
+}
+npcs {
+  ids: 10375
+  name: "Hill Giant"
+  version: "Hammer"
+  hitpoints: 35
+  att: 18
+  str: 22
+  def: 26
+  mage: 1
+  range: 1
+  attbns: 18
+  strbns: 16
+}
+npcs {
+  ids: 10376
+  name: "Hill Giant"
+  version: "Singlet"
   hitpoints: 35
   att: 18
   str: 22
