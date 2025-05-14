@@ -18543,6 +18543,10 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  name: "Judge of Yama"
+  attributes: "demon"
+}
+npcs {
   ids: 1443
   version: "Quest"
   hitpoints: 170
