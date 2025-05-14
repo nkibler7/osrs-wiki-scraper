@@ -108027,3 +108027,113 @@ items {
     }
   }
 }
+items {
+  key: 30750
+  value {
+    id: 30750
+    name: "Oathplate helm"
+    stat_bonuses {
+      slash_attack: 10
+      ranged_attack: -7
+      magic_attack: -2
+      stab_defence: 50
+      slash_defence: 72
+      crush_defence: 45
+      ranged_defence: 50
+      melee_strength: 6
+    }
+  }
+}
+items {
+  key: 30753
+  value {
+    id: 30753
+    name: "Oathplate chest"
+    stat_bonuses {
+      slash_attack: 16
+      ranged_attack: -18
+      magic_attack: -16
+      stab_defence: 105
+      slash_defence: 128
+      crush_defence: 100
+      ranged_defence: 112
+      magic_defence: -5
+      melee_strength: 4
+    }
+  }
+}
+items {
+  key: 30756
+  value {
+    id: 30756
+    name: "Oathplate legs"
+    stat_bonuses {
+      slash_attack: 12
+      ranged_attack: -14
+      magic_attack: -12
+      stab_defence: 75
+      slash_defence: 100
+      crush_defence: 73
+      ranged_defence: 81
+      magic_defence: -5
+      melee_strength: 2
+    }
+  }
+}
+items {
+  key: 30759
+  value {
+    id: 30759
+    name: "Soulflame horn"
+    stat_bonuses {
+      stab_attack: 2
+      crush_attack: 21
+      magic_attack: 7
+      slash_defence: 7
+      crush_defence: 3
+      magic_defence: 11
+      melee_strength: 23
+      magic_damage: 0.1
+    }
+    weapon_details {
+      base_attack_speed: 5
+      base_attack_range: 1
+    }
+  }
+}
+items {
+  key: 30779
+  value {
+    id: 30779
+    name: "Radiant oathplate chest"
+    stat_bonuses {
+      slash_attack: 16
+      ranged_attack: -18
+      magic_attack: -16
+      stab_defence: 105
+      slash_defence: 128
+      crush_defence: 100
+      ranged_defence: 112
+      magic_defence: -5
+      melee_strength: 4
+    }
+  }
+}
+items {
+  key: 30781
+  value {
+    id: 30781
+    name: "Radiant oathplate legs"
+    stat_bonuses {
+      slash_attack: 12
+      ranged_attack: -14
+      magic_attack: -12
+      stab_defence: 75
+      slash_defence: 100
+      crush_defence: 73
+      ranged_defence: 81
+      magic_defence: -3
+      melee_strength: 2
+    }
+  }
+}

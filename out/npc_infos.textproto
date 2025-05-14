@@ -35524,6 +35524,18 @@ npcs {
   strbns: 3
 }
 npcs {
+  ids: 14176
+  ids: 14179
+  name: "Void Flare"
+  hitpoints: 140
+  att: 1
+  str: 1
+  def: 100
+  mage: 200
+  range: 1
+  attributes: "demon"
+}
+npcs {
   ids: 11716
   name: "Volatile Baboon"
   hitpoints: 8
@@ -37336,6 +37348,50 @@ npcs {
   def: 1
   mage: 1
   range: 1
+}
+npcs {
+  ids: 14176
+  name: "Yama"
+  version: "Normal"
+  hitpoints: 2500
+  att: 320
+  str: 350
+  def: 225
+  mage: 250
+  range: 210
+  attbns: 50
+  strbns: 15
+  amagic: 100
+  mbns: 65
+  arange: 100
+  rngbns: 80
+  dstab: 100
+  dslash: 80
+  dcrush: 333
+  dmagic: -30
+  attributes: "demon"
+}
+npcs {
+  ids: 14176
+  name: "Yama"
+  version: "Enraged"
+  hitpoints: 2500
+  att: 320
+  str: 350
+  def: 225
+  mage: 250
+  range: 210
+  attbns: 50
+  strbns: 15
+  amagic: 100
+  mbns: 65
+  arange: 100
+  rngbns: 80
+  dstab: 135
+  dslash: 108
+  dcrush: 449
+  dmagic: 81
+  attributes: "demon"
 }
 npcs {
   ids: 2847
