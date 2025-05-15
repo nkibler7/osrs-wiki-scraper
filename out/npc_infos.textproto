@@ -18529,7 +18529,7 @@ npcs {
 npcs {
   ids: 14180
   name: "Judge of Yama"
-  hitpoints: 180
+  hitpoints: 400
   att: 200
   str: 200
   def: 150
