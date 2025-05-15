@@ -37372,7 +37372,7 @@ npcs {
   dstab: 100
   dslash: 80
   dcrush: 333
-  dmagic: -30
+  dmagic: 60
   attributes: "demon"
 }
 npcs {
