@@ -35528,7 +35528,6 @@ npcs {
   strbns: 3
 }
 npcs {
-  ids: 14176
   ids: 14179
   name: "Void Flare"
   hitpoints: 140
