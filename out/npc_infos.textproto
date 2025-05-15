@@ -18544,6 +18544,12 @@ npcs {
 }
 npcs {
   name: "Judge of Yama"
+  att: 200
+  str: 200
+  def: 150
+  mage: 250
+  range: 200
+  mbns: 50
   attributes: "demon"
 }
 npcs {
