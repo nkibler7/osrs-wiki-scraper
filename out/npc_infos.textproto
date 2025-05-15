@@ -18527,6 +18527,18 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 14180
+  name: "Judge of Yama"
+  hitpoints: 180
+  att: 200
+  str: 200
+  def: 150
+  mage: 250
+  range: 200
+  mbns: 50
+  attributes: "demon"
+}
+npcs {
   ids: 10936
   ids: 10938
   name: "Judge of Yama"
@@ -18540,18 +18552,6 @@ npcs {
   dcrush: 40
   dmagic: 600
   drange: 600
-  attributes: "demon"
-}
-npcs {
-  ids: 14180
-  name: "Judge of Yama"
-  hitpoints: 180
-  att: 200
-  str: 200
-  def: 150
-  mage: 250
-  range: 200
-  mbns: 50
   attributes: "demon"
 }
 npcs {
