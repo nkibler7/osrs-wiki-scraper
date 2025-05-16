@@ -35538,6 +35538,19 @@ npcs {
 npcs {
   ids: 14179
   name: "Void Flare"
+  version: "Fire"
+  hitpoints: 140
+  att: 1
+  str: 1
+  def: 100
+  mage: 200
+  range: 1
+  attributes: "demon"
+}
+npcs {
+  ids: 14179
+  name: "Void Flare"
+  version: "Shadow"
   hitpoints: 140
   att: 1
   str: 1
