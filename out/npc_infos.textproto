@@ -37376,28 +37376,6 @@ npcs {
 npcs {
   ids: 14176
   name: "Yama"
-  version: "Normal"
-  hitpoints: 2500
-  att: 320
-  str: 350
-  def: 225
-  mage: 250
-  range: 210
-  attbns: 50
-  strbns: 15
-  amagic: 100
-  mbns: 65
-  arange: 100
-  rngbns: 80
-  dstab: 100
-  dslash: 80
-  dcrush: 333
-  dmagic: -30
-  attributes: "demon"
-}
-npcs {
-  ids: 14176
-  name: "Yama"
   version: "Phase 3"
   hitpoints: 2500
   att: 320
