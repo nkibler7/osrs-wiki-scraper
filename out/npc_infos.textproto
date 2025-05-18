@@ -16670,7 +16670,7 @@ npcs {
 npcs {
   ids: 10376
   name: "Hill Giant"
-  version: "Singlet"
+  version: "Scimitar and singlet"
   hitpoints: 35
   att: 18
   str: 22
