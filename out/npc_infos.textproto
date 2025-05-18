@@ -37398,7 +37398,7 @@ npcs {
 npcs {
   ids: 14176
   name: "Yama"
-  version: "Enraged"
+  version: "Phase 3"
   hitpoints: 2500
   att: 320
   str: 350
