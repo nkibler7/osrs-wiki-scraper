@@ -28679,10 +28679,38 @@ npcs {
 }
 npcs {
   ids: 74
+  name: "Skeleton"
+  version: "1"
+  hitpoints: 24
+  att: 17
+  str: 17
+  def: 17
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: -5
+  attributes: "undead"
+}
+npcs {
   ids: 75
+  name: "Skeleton"
+  version: "2"
+  hitpoints: 24
+  att: 17
+  str: 17
+  def: 17
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: -5
+  attributes: "undead"
+}
+npcs {
   ids: 76
   name: "Skeleton"
-  version: "Level 21"
+  version: "3"
   hitpoints: 24
   att: 17
   str: 17
@@ -28696,11 +28724,53 @@ npcs {
 }
 npcs {
   ids: 70
+  name: "Skeleton"
+  version: "1"
+  hitpoints: 29
+  att: 15
+  str: 18
+  def: 17
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: -5
+  attributes: "undead"
+}
+npcs {
   ids: 71
+  name: "Skeleton"
+  version: "2"
+  hitpoints: 29
+  att: 15
+  str: 18
+  def: 17
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: -5
+  attributes: "undead"
+}
+npcs {
   ids: 72
+  name: "Skeleton"
+  version: "3"
+  hitpoints: 29
+  att: 15
+  str: 18
+  def: 17
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: -5
+  attributes: "undead"
+}
+npcs {
   ids: 73
   name: "Skeleton"
-  version: "Level 22"
+  version: "4"
   hitpoints: 29
   att: 15
   str: 18
@@ -28714,12 +28784,80 @@ npcs {
 }
 npcs {
   ids: 77
+  name: "Skeleton"
+  version: "1"
+  hitpoints: 17
+  att: 24
+  str: 24
+  def: 24
+  mage: 1
+  range: 1
+  attbns: 15
+  strbns: 14
+  dstab: 9
+  dslash: 11
+  dcrush: -2
+  dmagic: 1
+  attributes: "undead"
+}
+npcs {
   ids: 78
+  name: "Skeleton"
+  version: "2"
+  hitpoints: 17
+  att: 24
+  str: 24
+  def: 24
+  mage: 1
+  range: 1
+  attbns: 15
+  strbns: 14
+  dstab: 9
+  dslash: 11
+  dcrush: -2
+  dmagic: 1
+  attributes: "undead"
+}
+npcs {
   ids: 79
+  name: "Skeleton"
+  version: "3"
+  hitpoints: 17
+  att: 24
+  str: 24
+  def: 24
+  mage: 1
+  range: 1
+  attbns: 15
+  strbns: 14
+  dstab: 9
+  dslash: 11
+  dcrush: -2
+  dmagic: 1
+  attributes: "undead"
+}
+npcs {
   ids: 80
+  name: "Skeleton"
+  version: "4"
+  hitpoints: 17
+  att: 24
+  str: 24
+  def: 24
+  mage: 1
+  range: 1
+  attbns: 15
+  strbns: 14
+  dstab: 9
+  dslash: 11
+  dcrush: -2
+  dmagic: 1
+  attributes: "undead"
+}
+npcs {
   ids: 81
   name: "Skeleton"
-  version: "Level 25"
+  version: "5"
   hitpoints: 17
   att: 24
   str: 24
@@ -28736,9 +28874,26 @@ npcs {
 }
 npcs {
   ids: 82
+  name: "Skeleton"
+  version: "1"
+  hitpoints: 59
+  att: 32
+  str: 35
+  def: 36
+  mage: 1
+  range: 1
+  attbns: 15
+  strbns: 14
+  dstab: 9
+  dslash: 11
+  dcrush: -2
+  dmagic: 1
+  attributes: "undead"
+}
+npcs {
   ids: 83
   name: "Skeleton"
-  version: "Level 45"
+  version: "2"
   hitpoints: 59
   att: 32
   str: 35
