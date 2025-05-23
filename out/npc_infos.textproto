@@ -34433,7 +34433,7 @@ npcs {
 npcs {
   ids: 13661
   name: "TzTok-Jad"
-  hitpoints: 5000
+  hitpoints: 1000
   att: 350
   str: 350
   def: 200
