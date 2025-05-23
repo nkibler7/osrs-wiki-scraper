@@ -37551,6 +37551,23 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  name: "Yama"
+  version: "Phase 3"
+  hitpoints: 4125
+  att: 400
+  str: 402
+  def: 258
+  mage: 287
+  range: 241
+  attbns: 50
+  strbns: 15
+  amagic: 100
+  mbns: 65
+  arange: 100
+  rngbns: 80
+  attributes: "demon"
+}
+npcs {
   ids: 2847
   name: "Yeti"
   hitpoints: 55
