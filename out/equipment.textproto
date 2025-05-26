@@ -108075,7 +108075,7 @@ items {
       slash_defence: 100
       crush_defence: 73
       ranged_defence: 81
-      magic_defence: -5
+      magic_defence: -3
       melee_strength: 2
     }
   }
