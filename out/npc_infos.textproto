@@ -37565,6 +37565,10 @@ npcs {
   mbns: 65
   arange: 100
   rngbns: 80
+  dstab: 135
+  dslash: 108
+  dcrush: 449
+  dmagic: 81
   attributes: "demon"
 }
 npcs {
