@@ -11551,7 +11551,7 @@ npcs {
 }
 npcs {
   ids: 13789
-  name: "Frost crab"
+  name: "Frost Crab"
   version: "Active"
   hitpoints: 60
   att: 1
