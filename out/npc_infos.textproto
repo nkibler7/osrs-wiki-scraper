@@ -37553,7 +37553,7 @@ npcs {
 npcs {
   name: "Yama"
   version: "Phase 3"
-  hitpoints: 4125
+  hitpoints: 3000
   att: 400
   str: 402
   def: 258
