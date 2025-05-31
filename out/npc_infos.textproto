@@ -10531,9 +10531,27 @@ npcs {
   drange: 120
 }
 npcs {
-  ids: 9247
   ids: 9249
+  name: "Essyllt"
+  version: "Normal Mode"
+  hitpoints: 320
+  att: 268
+  str: 268
+  def: 104
+  mage: 104
+  range: 342
+  strbns: 28
+  rngbns: 28
+  dstab: 40
+  dslash: 40
+  dcrush: 20
+  dmagic: 30
+  drange: 120
+}
+npcs {
+  ids: 9247
   name: "Essyllt (hard)"
+  version: "Hard Mode"
   hitpoints: 320
   att: 408
   str: 408
