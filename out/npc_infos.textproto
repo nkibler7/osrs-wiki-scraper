@@ -4209,7 +4209,6 @@ npcs {
 npcs {
   ids: 4067
   name: "Black Knight Titan"
-  version: "Normal"
   hitpoints: 142
   att: 91
   str: 100
@@ -4227,7 +4226,7 @@ npcs {
 npcs {
   ids: 6360
   name: "Black Knight Titan"
-  version: "Nightmare Zone"
+  version: "Normal"
   hitpoints: 142
   att: 91
   str: 100
@@ -4789,7 +4788,6 @@ npcs {
 npcs {
   ids: 1224
   name: "Bouncer"
-  version: "Quest"
   hitpoints: 116
   att: 120
   str: 120
@@ -4797,30 +4795,6 @@ npcs {
   mage: 1
   range: 1
   attributes: "demon"
-}
-npcs {
-  ids: 6355
-  name: "Bouncer"
-  version: "Normal"
-  hitpoints: 116
-  att: 120
-  str: 120
-  def: 120
-  mage: 1
-  range: 1
-  attributes: "No"
-}
-npcs {
-  ids: 6293
-  name: "Bouncer (hard)"
-  version: "Hard"
-  hitpoints: 232
-  att: 240
-  str: 240
-  def: 120
-  mage: 1
-  range: 1
-  attributes: "No"
 }
 npcs {
   ids: 3508
@@ -4832,6 +4806,30 @@ npcs {
   def: 145
   mage: 1
   range: 1
+}
+npcs {
+  ids: 6355
+  name: "Bouncer"
+  version: "Normal Mode"
+  hitpoints: 116
+  att: 120
+  str: 120
+  def: 120
+  mage: 1
+  range: 1
+  attributes: "No"
+}
+npcs {
+  ids: 6293
+  name: "Bouncer (hard)"
+  version: "Hard Mode"
+  hitpoints: 232
+  att: 240
+  str: 240
+  def: 120
+  mage: 1
+  range: 1
+  attributes: "No"
 }
 npcs {
   ids: 12596
@@ -6166,9 +6164,19 @@ npcs {
 }
 npcs {
   ids: 4987
+  name: "Chronozon"
+  hitpoints: 60
+  att: 173
+  str: 172
+  def: 173
+  mage: 1
+  range: 1
+  attributes: "demon"
+}
+npcs {
   ids: 6354
   name: "Chronozon"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 60
   att: 173
   str: 172
@@ -6180,7 +6188,7 @@ npcs {
 npcs {
   ids: 6292
   name: "Chronozon (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 120
   att: 346
   str: 344
@@ -9829,10 +9837,38 @@ npcs {
 }
 npcs {
   ids: 817
-  ids: 8033
+  name: "Elvarg"
+  hitpoints: 80
+  att: 70
+  str: 70
+  def: 70
+  mage: 70
+  range: 1
+  dstab: 20
+  dslash: 40
+  dcrush: 40
+  dmagic: 30
+  drange: 20
+}
+npcs {
+  ids: 817
+  name: "Elvarg"
+  hitpoints: 80
+  att: 70
+  str: 70
+  def: 70
+  mage: 70
+  range: 1
+  dstab: 20
+  dslash: 40
+  dcrush: 40
+  dmagic: 30
+  drange: 20
+}
+npcs {
   ids: 6349
   name: "Elvarg"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 80
   att: 70
   str: 70
@@ -9848,7 +9884,7 @@ npcs {
 npcs {
   ids: 6118
   name: "Elvarg (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 240
   att: 210
   str: 210
