@@ -84,16 +84,18 @@ C
 Ï[Agile Scarab (<08@H(X`–hp–xªkalphite
 
 «iAgile Warrior (08P@HP
-/
-ô1Agrith NaarNormal _(S0Z8R@dHdªdemon
-7
-·1Agrith Naar (hard)Hard Ñ(¶0Æ8R@ÜHÜªdemon
-9
-&Agrith-Na-NaNormal È(S0–8R@dHdPd€dˆdd˜d d
-A
-á1Agrith-Na-NaNightmare Zone È(S0–8R@dHdPd€dˆdd˜d d
-A
-¤1Agrith-Na-Na (hard)Hard ÿ(¦0¬8R@ÈHÈPd€dˆdd˜d d
+%
+Agrith Naar _(S0Z8R@dHdªdemon
+2
+ô1Agrith NaarNormal Mode _(S0Z8R@dHdªdemon
+<
+·1Agrith Naar (hard)	Hard Mode Ñ(¶0Æ8R@ÜHÜªdemon
+1
+&Agrith-Na-Na È(S0–8R@dHdPd€dˆdd˜d d
+>
+á1Agrith-Na-NaNormal Mode È(S0–8R@dHdPd€dˆdd˜d d
+F
+¤1Agrith-Na-Na (hard)	Hard Mode ÿ(¦0¬8R@ÈHÈPd€dˆdd˜d d
 J
 ˆAhrim the Blighted d(08d@dHXD`Ipíÿÿÿÿÿÿÿÿ€gˆUu˜Iªspectral
 
@@ -297,12 +299,12 @@ C
 ªnArmoured zombie	Ranged, 5 n(j0^8D@H^€ˆªundead
 +
 ´nArrav Ø(Ü0Ü8–@–PdX€PˆP(˜ 
-5
-ƒ‚ArrgNormal Œ(F0Œ8(HFP<Xd€#ˆ<#˜È È
-;
-ø1ArrgNightmare Zone Œ(F0Œ8(HFP<Xd€#ˆ<#˜È È
-:
-»1Arrg (hard)Hard ÿ(Œ0˜8(HŒP<Xd€#ˆ<#˜È È
+-
+ƒ‚Arrg Œ(F0Œ8(HFP<Xd€#ˆ<#˜È È
+8
+ø1ArrgNormal Mode Œ(F0Œ8(HFP<Xd€#ˆ<#˜È È
+?
+»1Arrg (hard)	Hard Mode ÿ(Œ0˜8(HŒP<Xd€#ˆ<#˜È È
 +
 Ø]Artio Â(ú08–@ZHxp<x€}ˆnn (
 7
@@ -661,10 +663,12 @@ R
 Ê8Black demon	Level 184 ª(›08¢@H˜öÿÿÿÿÿÿÿÿªdemon
 D
 Â=Ã=Ä=Black demon	Level 188 È(‘0¥8˜@H˜öÿÿÿÿÿÿÿÿªdemon
-?
-˜Õ1Black demonNormal (‘0”8˜@H˜öÿÿÿÿÿÿÿÿªdemon
 B
-—1Black demon (hard)Hard ÿ(¢0¨8˜@H˜öÿÿÿÿÿÿÿÿªdemon
+Õ1Black demonNormal Mode (‘0”8˜@H˜öÿÿÿÿÿÿÿÿªdemon
+G
+—1Black demon (hard)	Hard Mode ÿ(¢0¨8˜@H˜öÿÿÿÿÿÿÿÿªdemon
+5
+˜Black demon (‘0”8˜@H˜öÿÿÿÿÿÿÿÿªdemon
 5
 á`Black demon (‘0”8˜@H˜öÿÿÿÿÿÿÿÿªDemon
 Z

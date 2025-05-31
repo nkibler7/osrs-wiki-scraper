@@ -488,9 +488,19 @@ npcs {
 }
 npcs {
   ids: 911
+  name: "Agrith Naar"
+  hitpoints: 95
+  att: 83
+  str: 90
+  def: 82
+  mage: 100
+  range: 100
+  attributes: "demon"
+}
+npcs {
   ids: 6388
   name: "Agrith Naar"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 95
   att: 83
   str: 90
@@ -502,7 +512,7 @@ npcs {
 npcs {
   ids: 6327
   name: "Agrith Naar (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 209
   att: 182
   str: 198
@@ -514,7 +524,6 @@ npcs {
 npcs {
   ids: 4880
   name: "Agrith-Na-Na"
-  version: "Normal"
   hitpoints: 200
   att: 83
   str: 150
@@ -531,7 +540,7 @@ npcs {
 npcs {
   ids: 6369
   name: "Agrith-Na-Na"
-  version: "Nightmare Zone"
+  version: "Normal Mode"
   hitpoints: 200
   att: 83
   str: 150
@@ -548,7 +557,7 @@ npcs {
 npcs {
   ids: 6308
   name: "Agrith-Na-Na (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 255
   att: 166
   str: 300
@@ -1798,7 +1807,6 @@ npcs {
   ids: 643
   ids: 642
   name: "Arrg"
-  version: "Normal"
   hitpoints: 140
   att: 70
   str: 140
@@ -1815,7 +1823,7 @@ npcs {
 npcs {
   ids: 6392
   name: "Arrg"
-  version: "Nightmare Zone"
+  version: "Normal Mode"
   hitpoints: 140
   att: 70
   str: 140
@@ -1832,7 +1840,7 @@ npcs {
 npcs {
   ids: 6331
   name: "Arrg (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 255
   att: 140
   str: 280
@@ -3860,10 +3868,9 @@ npcs {
   attributes: "demon"
 }
 npcs {
-  ids: 1432
   ids: 6357
   name: "Black demon"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 157
   att: 145
   str: 148
@@ -3876,10 +3883,22 @@ npcs {
 npcs {
   ids: 6295
   name: "Black demon (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 255
   att: 290
   str: 296
+  def: 152
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
+}
+npcs {
+  ids: 1432
+  name: "Black demon"
+  hitpoints: 157
+  att: 145
+  str: 148
   def: 152
   mage: 1
   range: 1
