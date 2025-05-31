@@ -1501,8 +1501,24 @@ npcs {
   drange: 180
 }
 npcs {
+  ids: 9248
+  name: "Arianwyn"
+  version: "Normal Mode"
+  hitpoints: 300
+  def: 102
+  mage: 102
+  range: 368
+  arange: 84
+  dstab: 80
+  dslash: 80
+  dcrush: 80
+  dmagic: 260
+  drange: 180
+}
+npcs {
   ids: 9246
   name: "Arianwyn (hard)"
+  version: "Hard Mode"
   hitpoints: 300
   def: 102
   mage: 102
@@ -6587,6 +6603,28 @@ npcs {
   str: 99
   def: 22
   mage: 22
+}
+npcs {
+  ids: 7949
+  name: "Corsair Traitor"
+  version: "Normal Mode"
+  hitpoints: 55
+  att: 1
+  str: 1
+  def: 30
+  mage: 30
+  range: 1
+}
+npcs {
+  ids: 7948
+  name: "Corsair Traitor (hard)"
+  version: "Hard Mode"
+  hitpoints: 160
+  att: 1
+  str: 1
+  def: 80
+  mage: 90
+  range: 1
 }
 npcs {
   ids: 3481
@@ -17935,26 +17973,6 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 7949
-  name: "Corsair Traitor"
-  hitpoints: 55
-  att: 1
-  str: 1
-  def: 30
-  mage: 30
-  range: 1
-}
-npcs {
-  ids: 7948
-  name: "Corsair Traitor (hard)"
-  hitpoints: 160
-  att: 1
-  str: 1
-  def: 80
-  mage: 90
-  range: 1
-}
-npcs {
   ids: 4185
   ids: 11583
   name: "Jackal"
@@ -18611,7 +18629,7 @@ npcs {
 }
 npcs {
   ids: 1443
-  version: "Quest"
+  name: "Jungle Demon"
   hitpoints: 170
   att: 170
   str: 170
@@ -18627,7 +18645,7 @@ npcs {
 npcs {
   ids: 6382
   name: "Jungle Demon"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 170
   att: 170
   str: 170
@@ -18643,7 +18661,7 @@ npcs {
 npcs {
   ids: 6321
   name: "Jungle Demon (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 255
   att: 340
   str: 340
@@ -23188,8 +23206,21 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  ids: 6379
+  name: "Nezikchened"
+  version: "Normal Mode"
+  hitpoints: 150
+  att: 165
+  str: 168
+  def: 167
+  mage: 160
+  range: 160
+  attributes: "demon"
+}
+npcs {
   ids: 6318
-  name: "Nezikchened (hard)"
+  name: "Nezikchened"
+  version: "Hard Mode"
   hitpoints: 150
   att: 330
   str: 336
@@ -29906,7 +29937,6 @@ npcs {
 npcs {
   ids: 5054
   name: "Skeleton Hellhound"
-  version: "Quest"
   hitpoints: 55
   att: 70
   str: 110
@@ -29914,30 +29944,6 @@ npcs {
   mage: 1
   range: 1
   attributes: "Demon"
-}
-npcs {
-  ids: 6387
-  name: "Skeleton Hellhound"
-  version: "Normal"
-  hitpoints: 55
-  att: 70
-  str: 110
-  def: 100
-  mage: 1
-  range: 1
-  attributes: "Demon"
-}
-npcs {
-  ids: 6326
-  name: "Skeleton Hellhound (hard)"
-  version: "Hard"
-  hitpoints: 132
-  att: 168
-  str: 264
-  def: 100
-  mage: 1
-  range: 1
-  attributes: "No"
 }
 npcs {
   ids: 12107
@@ -29954,6 +29960,30 @@ npcs {
   dmagic: 126
   drange: 155
   attributes: "undead"
+}
+npcs {
+  ids: 6387
+  name: "Skeleton Hellhound"
+  version: "Normal Mode"
+  hitpoints: 55
+  att: 70
+  str: 110
+  def: 100
+  mage: 1
+  range: 1
+  attributes: "Demon"
+}
+npcs {
+  ids: 6326
+  name: "Skeleton Hellhound (hard)"
+  version: "Hard Mode"
+  hitpoints: 55
+  att: 70
+  str: 110
+  def: 100
+  mage: 1
+  range: 1
+  attributes: "No"
 }
 npcs {
   ids: 6613

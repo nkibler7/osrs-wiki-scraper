@@ -248,8 +248,10 @@ A
 €  ‚ Archer 28(@H(P"€'ˆ21˜ -
 -
 ¡E HArianwyn ¬8f@fHğpT€PˆPP˜„ ´
-2
-HArianwyn (hard) ¬8f@fH¨p~€PˆPP˜„ ´
+8
+ HArianwynNormal Mode ¬8f@fHğpT€PˆPP˜„ ´
+=
+HArianwyn (hard)	Hard Mode ¬8f@fH¨p~€PˆPP˜„ ´
 &
 »3Armadylean guard „(08R@PHZ˜
 "
@@ -1154,6 +1156,10 @@ J
 ÓFCorrupted Unicorn ,(K0H8@
 
 ÕFCorrupted Wolf 4(Ÿ0c8@
+.
+>Corsair TraitorNormal Mode 7(08@H
+4
+Œ>Corsair Traitor (hard)	Hard Mode  (08P@ZH
 5
 ™šCount Draynor #(08@H€ˆªvampyre1
 @
@@ -2985,10 +2991,6 @@ R
 ıIrvig Senay }(L0J8QPX€ˆ˜ÿÿÿÿÿÿÿÿÿ ªspectral
 %
 œ>Ithoi the Navigator 7(08@H
-!
->Corsair Traitor 7(08@H
-)
-Œ>Corsair Traitor (hard)  (08P@ZH
 
 Ù ¿ZJackal (08@H
 
@@ -3106,12 +3108,12 @@ T
 änJudge of Yama (È0È8–@úHÈh2ªdemon
 :
 ¸UºUJudge of Yama „(º0p8T@T€(ˆ((˜Ø Øªdemon
-.
-£Quest ª(ª0ª8ª@ªHP2X2ˆ2˜2ªDemon
-:
-î1Jungle DemonNormal ª(ª0ª8ª@ªHP2X2ˆ2˜2ªNo
+5
+£Jungle Demon ª(ª0ª8ª@ªHP2X2ˆ2˜2ªDemon
 ?
-±1Jungle Demon (hard)Hard ÿ(Ô0Ô8ª@ÔHP2X2ˆ2˜2ªNo
+î1Jungle DemonNormal Mode ª(ª0ª8ª@ªHP2X2ˆ2˜2ªNo
+D
+±1Jungle Demon (hard)	Hard Mode ÿ(Ô0Ô8ª@ÔHP2X2ˆ2˜2ªNo
 )
 ’Jungle horrorRed eyes -(F0F87@H
 ,
@@ -3841,8 +3843,10 @@ h
 XXX‘X’XNex È(»0È8„@æHŞPÈX`dhp–x€(ˆŒ<˜¬
 -
 úë1Nezikchened –(¥0¨8§@ H ªdemon
-2
-®1Nezikchened (hard) –(Ê0Ğ8§@ÀHÀªdemon
+8
+ë1NezikchenedNormal Mode –(¥0¨8§@ H ªdemon
+6
+®1Nezikchened	Hard Mode –(Ê0Ğ8§@ÀHÀªdemon
 4
 ñ9Night beast ¦(0¢8Ü@¬H€KˆPÈ˜¾ È
 ?
@@ -4883,15 +4887,15 @@ W
 ‚Skeleton (08@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ 
 B
 „Skeleton heavy |(s0r8n@HP	Xˆ˜ıÿÿÿÿÿÿÿÿ ªundead
-3
-¾'Skeleton HellhoundQuest 7(F0n8d@HªDemon
-4
-ó1Skeleton HellhoundNormal 7(F0n8d@HªDemon
-9
-¶1Skeleton Hellhound (hard)Hard „(¨0ˆ8d@HªNo
+,
+¾'Skeleton Hellhound 7(F0n8d@HªDemon
 >
 Ë^Skeleton Hellhound (n0–8_@H€LˆI
 ˜~ ›ªundead
+9
+ó1Skeleton HellhoundNormal Mode 7(F0n8d@HªDemon
+;
+¶1Skeleton Hellhound (hard)	Hard Mode 7(F0n8d@HªNo
 A
 Õ3Skeleton Hellhound (Ò0ú8–@H€eˆg
 ˜´ Šªundead
