@@ -1132,10 +1132,12 @@ Armageddon ô(˜0Ä8–@¬HúPÃX`È€dˆdd˜d d
 Ö$Confusion beastLevel 63 @(40784@H
 7
 ¿Corporeal Beast Ğ(À0À8¶@ŞH–P2€ˆÈd˜–
-D
-½>À>Corrupt LizardmanNormal 2(&0&8&@H&PXpx€öÿÿÿÿÿÿÿÿˆ
-K
-¼>Corrupt Lizardman (hard)Hard –(¢0¢8&@H¢PXpx€öÿÿÿÿÿÿÿÿˆ
+:
+À>Corrupt Lizardman 2(&0&8&@H&PXpx€öÿÿÿÿÿÿÿÿˆ
+G
+½>Corrupt LizardmanNormal Mode 2(&0&8&@H&PXpx€öÿÿÿÿÿÿÿÿˆ
+P
+¼>Corrupt Lizardman (hard)	Hard Mode –(¢0¢8&@H¢PXpx€öÿÿÿÿÿÿÿÿˆ
 
 ÒFCorrupted Bat ($0f8@
 (
@@ -1254,8 +1256,12 @@ $
 ÇFCrystalline Wolf 4(j0B8@
 &
 ÏCuffs (08@H€ˆ˜ 
-y
-Èñ%ˆ&‰&Š&‹&Œ&&&&à1CulinaromancerNormal –(
+o
+Èñ%ˆ&‰&Š&‹&Œ&&&&Culinaromancer –(
+0d8
+@H€öÿÿÿÿÿÿÿÿˆöÿÿÿÿÿÿÿÿöÿÿÿÿÿÿÿÿ˜öÿÿÿÿÿÿÿÿ öÿÿÿÿÿÿÿÿ
+e
+à1CulinaromancerNormal –(
 0d8
 @H€öÿÿÿÿÿÿÿÿˆöÿÿÿÿÿÿÿÿöÿÿÿÿÿÿÿÿ˜öÿÿÿÿÿÿÿÿ öÿÿÿÿÿÿÿÿ
 k
@@ -1328,10 +1334,12 @@ Dad (hard)Hard ğ(„0ˆ82P(XF€ˆ(˜È È
 ñ·.	DagannothLevel 90 _(L0N8A@HP2X2€2ˆ22˜2 2
 &
 ØDagannoth fledgeling d(20282@H
-X
-ÔÕÖ×ØÙÚÛÜÙ1Ú1Û1Ü1İ1Ş1Dagannoth motherNormal x(N0N8Q@H2€–ˆ––˜2 2
-N
-œ111Ÿ1 1¡1Dagannoth mother (hard)Hard ğ(º0º8Q@Hx€–ˆ––˜2 2
+D
+ÔÕÖ×ØÙÚÛÜDagannoth mother x(N0N8Q@H2€–ˆ––˜2 2
+K
+Ù1Ú1Û1Ü1İ1Ş1Dagannoth motherNormal Mode x(N0N8Q@H2€–ˆ––˜2 2
+S
+œ111Ÿ1 1¡1Dagannoth mother (hard)	Hard Mode ğ(º0º8Q@Hx€–ˆ––˜2 2
 7
 ÚDagannoth Prime ÿ(ÿ0ÿ8ÿ@ÿ€ÿˆÿÿ˜ÿ 
 
@@ -1495,11 +1503,14 @@ Armageddon ô(ú0–8d@´H`PhP€ÈˆÈÈ˜Äÿÿÿÿÿÿÿÿ È
 ª$Desert Wolf2 "(08
 
 «$Desert Wolf3 "(08
-4
-“&ä1DessourtNormal ‚(c0c8c@HP2X2€
+*
+“&Dessourt ‚(c0c8c@HP2X2€
 ˆ––
-9
-§1Dessourt (hard)Hard ÿ(Æ0Æ8c@HP2X2€
+7
+ä1DessourtNormal Mode ‚(c0c8c@HP2X2€
+ˆ––
+>
+§1Dessourt (hard)	Hard Mode ÿ(Æ0Æ8c@HP2X2€
 ˆ––
 @
 ƒ„È1DessousNormal È(c0c8c@HP2X2€
@@ -1938,8 +1949,10 @@ Fiyr ShadeShade n(x0d8Uªshade,undead,spectral
 3
 …
 Fiyr ShadowShadow n(x0d8Uªundead,spectral
-6
-‘&â1FlambeedNormal Ò(x0x8K@HPd€2ˆ2˜ 2
+,
+‘&Flambeed Ò(x0x8K@HPd€2ˆ2˜ 2
+4
+â1FlambeedNormal Ò(x0x8K@HPd€2ˆ2˜ 2
 ;
 ¥1Flambeed (hard)Hard ÿ(ğ0ğ8K@HPd€2ˆ2˜ 2
 6
@@ -2092,10 +2105,12 @@ V
 œGargoyleUpstairs i(K0i8k@H€2ˆ<ìÿÿÿÿÿÿÿÿ˜
 9
 ‡GargoyleBasement i(K0i8k@H€2ˆ<ìÿÿÿÿÿÿÿÿ˜
+A
+”&•&–&—&˜&™&Gelatinnoth Mother ğ(N0N8Q@H2€–ˆ––˜2 2
+N
+å1æ1ç1è1é1ê1Gelatinnoth MotherNormal Mode ğ(N0N8Q@H2€–ˆ––˜2 2
 U
-”&•&–&—&˜&™&å1æ1ç1è1é1ê1Gelatinnoth MotherNormal ğ(N0N8Q@H2€–ˆ––˜2 2
-P
-¨1©1ª1«1¬1­1Gelatinnoth Mother (hard)Hard ğ(º0º8Q@Hx€–ˆ––˜2 2
+¨1©1ª1«1¬1­1Gelatinnoth Mother (hard)	Hard Mode ğ(º0º8Q@Hx€–ˆ––˜2 2
 ?
 §General Graardor ÿ(˜0Ş8ú@PHŞPxX+pdx(€ZˆZZ˜ª Z
 K
@@ -3190,10 +3205,14 @@ W
 ‚É1KamilNormal ‚(¾0P8‡@HP<Xd€#ˆ<#
 5
 éKamil (hard)Hard ÿ(ü0 8‡@HP<Xd€#ˆ<#
-=
-’&ã1KaramelNormal ú(08d@Hdp†x7€–ˆ––˜– –
-A
-¦1Karamel (hard)Hard ÿ(08d@HÈpŒxn€–ˆ––˜– –
+3
+’&Karamel ú(08d@Hdp†x7€–ˆ––˜– –
+3
+’&Karamel ú(08d@HdpŒxn€–ˆ––˜– –
+@
+ã1KaramelNormal Mode ú(08d@Hdp†x7€–ˆ––˜– –
+F
+¦1Karamel (hard)	Hard Mode ÿ(08d@HÈpŒxn€–ˆ––˜– –
 Karamjan tiger shark ((0@
 J
 ‹Karil the Tainted d(08d@Hd`æÿÿÿÿÿÿÿÿp†x7€OˆGZ˜jªspectral

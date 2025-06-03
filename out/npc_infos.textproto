@@ -6456,10 +6456,25 @@ npcs {
   dmagic: 150
 }
 npcs {
-  ids: 7997
   ids: 8000
   name: "Corrupt Lizardman"
-  version: "Normal"
+  hitpoints: 50
+  att: 38
+  str: 38
+  def: 38
+  mage: 1
+  range: 38
+  attbns: 22
+  strbns: 20
+  arange: 22
+  rngbns: 20
+  dstab: -10
+  dslash: 25
+}
+npcs {
+  ids: 7997
+  name: "Corrupt Lizardman"
+  version: "Normal Mode"
   hitpoints: 50
   att: 38
   str: 38
@@ -6476,7 +6491,7 @@ npcs {
 npcs {
   ids: 7996
   name: "Corrupt Lizardman (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 150
   att: 162
   str: 162
@@ -7255,6 +7270,20 @@ npcs {
   ids: 4877
   ids: 4878
   ids: 4879
+  name: "Culinaromancer"
+  hitpoints: 150
+  att: 10
+  str: 100
+  def: 10
+  mage: 1
+  range: 1
+  dstab: -10
+  dslash: -10
+  dcrush: -10
+  dmagic: -10
+  drange: -10
+}
+npcs {
   ids: 6368
   name: "Culinaromancer"
   version: "Normal"
@@ -7684,6 +7713,20 @@ npcs {
   ids: 986
   ids: 987
   ids: 988
+  name: "Dagannoth mother"
+  hitpoints: 120
+  att: 78
+  str: 78
+  def: 81
+  mage: 1
+  range: 50
+  dstab: 150
+  dslash: 150
+  dcrush: 150
+  dmagic: 50
+  drange: 50
+}
+npcs {
   ids: 6361
   ids: 6362
   ids: 6363
@@ -7691,7 +7734,7 @@ npcs {
   ids: 6365
   ids: 6366
   name: "Dagannoth mother"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 120
   att: 78
   str: 78
@@ -7712,7 +7755,7 @@ npcs {
   ids: 6304
   ids: 6305
   name: "Dagannoth mother (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 240
   att: 186
   str: 186
@@ -8544,9 +8587,23 @@ npcs {
 }
 npcs {
   ids: 4883
+  name: "Dessourt"
+  hitpoints: 130
+  att: 99
+  str: 99
+  def: 99
+  mage: 1
+  range: 1
+  attbns: 50
+  strbns: 50
+  dstab: 10
+  dslash: 150
+  dcrush: 150
+}
+npcs {
   ids: 6372
   name: "Dessourt"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 130
   att: 99
   str: 99
@@ -8562,7 +8619,7 @@ npcs {
 npcs {
   ids: 6311
   name: "Dessourt (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 255
   att: 198
   str: 198
@@ -11109,6 +11166,21 @@ npcs {
 }
 npcs {
   ids: 4881
+  name: "Flambeed"
+  hitpoints: 210
+  att: 120
+  str: 120
+  def: 75
+  mage: 1
+  range: 1
+  attbns: 100
+  dstab: 50
+  dslash: 50
+  dcrush: 5
+  dmagic: 5
+  drange: 50
+}
+npcs {
   ids: 6370
   name: "Flambeed"
   version: "Normal"
@@ -11990,6 +12062,20 @@ npcs {
   ids: 4887
   ids: 4888
   ids: 4889
+  name: "Gelatinnoth Mother"
+  hitpoints: 240
+  att: 78
+  str: 78
+  def: 81
+  mage: 1
+  range: 50
+  dstab: 150
+  dslash: 150
+  dcrush: 150
+  dmagic: 50
+  drange: 50
+}
+npcs {
   ids: 6373
   ids: 6374
   ids: 6375
@@ -11997,7 +12083,7 @@ npcs {
   ids: 6377
   ids: 6378
   name: "Gelatinnoth Mother"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 240
   att: 78
   str: 78
@@ -12018,7 +12104,7 @@ npcs {
   ids: 6316
   ids: 6317
   name: "Gelatinnoth Mother (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 240
   att: 186
   str: 186
@@ -19151,9 +19237,42 @@ npcs {
 }
 npcs {
   ids: 4882
+  name: "Karamel"
+  hitpoints: 250
+  att: 1
+  str: 1
+  def: 100
+  mage: 1
+  range: 100
+  arange: 134
+  rngbns: 55
+  dstab: 150
+  dslash: 150
+  dcrush: 150
+  dmagic: 150
+  drange: 150
+}
+npcs {
+  ids: 4882
+  name: "Karamel"
+  hitpoints: 250
+  att: 1
+  str: 1
+  def: 100
+  mage: 1
+  range: 100
+  arange: 268
+  rngbns: 110
+  dstab: 150
+  dslash: 150
+  dcrush: 150
+  dmagic: 150
+  drange: 150
+}
+npcs {
   ids: 6371
   name: "Karamel"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 250
   att: 1
   str: 1
@@ -19171,7 +19290,7 @@ npcs {
 npcs {
   ids: 6310
   name: "Karamel (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 255
   att: 1
   str: 1
