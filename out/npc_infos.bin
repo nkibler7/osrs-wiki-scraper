@@ -1307,11 +1307,13 @@ I
 »CyclopsTeal n(<0F80@HPX
 #
 ¼CyclopsGrey n(<0F80@HPX
-0
-¢ ÷1DadNormal x(<0x82P(XF€ˆ(˜È È
-6
+&
+¢ Dad x(<0x82P(XF€ˆ(˜È È
+3
+÷1DadNormal Mode x(<0x82P(XF€ˆ(˜È È
+;
 º1
-Dad (hard)Hard ğ(„0ˆ82P(XF€ˆ(˜È È
+Dad (hard)	Hard Mode ğ(„0ˆ82P(XF€ˆ(˜È È
 -
 ÊËÌ	DagannothLevel 74 (1) F(D0F82@H
 3
@@ -1394,15 +1396,19 @@ Armageddon è(ÿ0ÿ8T@ÿHÿ€
 ˜ÿ ¦
 I
 ÙJÚJÛJÜJDamien Leucurte Ù8 @ H `hpx€ˆ˜ ªvampyre3
-6
-ªÊ1Damis
+4
+ªDamis
 First form Z(Z0Z8Z@HXP€<ˆ<<˜< <
-:
-«Ë1DamisSecond form È( 0d8 @HXd€dˆdd˜P x
-E
-îDamis (hard)First form (hard) Æ(Æ0Æ8Z@HXP€<ˆ<<˜< <
-G
-ïDamis (hard)Second form (hard) ÿ(À0È8 @HXd€dˆdd˜P x
+8
+«DamisSecond form È( 0d8 @HXd€dˆdd˜P x
+B
+Ê1DamisFirst form (Normal Mode) Z(Z0Z8Z@HXP€<ˆ<<˜< <
+F
+Ë1DamisSecond form (Normal Mode) È( 0d8 @HXd€dˆdd˜P x
+J
+îDamis (hard)First form (Hard Mode) Æ(Æ0Æ8Z@HXP€<ˆ<<˜< <
+L
+ïDamis (hard)Second form (Hard Mode) ÿ(À0È8 @HXd€dˆdd˜P x
 /
 €9
 Dark Ankou <(d0F8d@Hªundead, spectral
@@ -1512,11 +1518,14 @@ Armageddon ô(ú0–8d@´H`PhP€ÈˆÈÈ˜Äÿÿÿÿÿÿÿÿ È
 >
 §1Dessourt (hard)	Hard Mode ÿ(Æ0Æ8c@HP2X2€
 ˆ––
-@
-ƒ„È1DessousNormal È(c0c8c@HP2X2€
+6
+ƒ„Dessous È(c0c8c@HP2X2€
 ˆ––ªvampyre1
-C
-èDessous (hard)Hard ÿ(Æ0Æ8c@HP2X2€
+A
+È1DessousNormal Mode È(c0c8c@HP2X2€
+ˆ––ªvampyre1
+H
+èDessous (hard)	Hard Mode ÿ(Æ0Æ8c@HP2X2€
 ˆ––ªvampyre1
 B
 ï8Deviant spectre ¾(08Z@ÍH€PˆPP Uªundead, spectral
