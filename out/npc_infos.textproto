@@ -1892,9 +1892,9 @@ npcs {
   version: "Invincible"
   hitpoints: 200
   att: 10
-  str: 100
+  str: 1
   def: 130
-  mage: 150
+  mage: 1
 }
 npcs {
   ids: 1234
@@ -1902,9 +1902,9 @@ npcs {
   version: "Level 125"
   hitpoints: 100
   att: 10
-  str: 90
-  def: 120
-  mage: 120
+  str: 1
+  def: 1
+  mage: 1
   dstab: 80
   dslash: 80
   dcrush: 80
@@ -1917,9 +1917,9 @@ npcs {
   version: "Level 75"
   hitpoints: 70
   att: 10
-  str: 50
-  def: 75
-  mage: 75
+  str: 1
+  def: 1
+  mage: 1
   dstab: 40
   dslash: 40
   dcrush: 40
