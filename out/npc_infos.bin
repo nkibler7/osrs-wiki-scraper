@@ -3580,15 +3580,14 @@ Q
 ä,Market GuardNormal (08@HP	X€ˆ˜ 
 G
 ÈMarket GuardDraynor Bank Robbery (08@HP	X€ˆ˜ 
-
-‘MeMale -(K0N8J@H
 
-’MeFemale -(K0N8J@H
-
-í1MeNMZ -(K0N8J@H
-*
-°1	Me (hard)
-NMZ (hard) ‡(á0ê8J@H
+‘MeType A -(K0N8J@H
+
+’MeType B -(K0N8J@H
+!
+í1MeNormal Mode -(K0N8J@H
+)
+°1	Me (hard)	Hard Mode ‡(á0ê8J@H
  
 ·Melzar the Mad ,(%0%8"@(H
 >
@@ -5610,9 +5609,11 @@ A
 8
 ¯1Tree spirit (hard)Hard »(È0Ñ8P@Hªspectral
 H
-×1Treus Dayth d(F0F8d@H€ˆ˜ûÿÿÿÿÿÿÿÿ ªspectral, undead
-J
-š1Treus Dayth (hard) ğ(¨0¨8d@H€ˆ˜ûÿÿÿÿÿÿÿÿ ªspectral
+ Treus Dayth d(F0F8d@H€ˆ˜ûÿÿÿÿÿÿÿÿ ªspectral, undead
+U
+×1Treus DaythNormal Mode d(F0F8d@H€ˆ˜ûÿÿÿÿÿÿÿÿ ªspectral, undead
+U
+š1Treus Dayth (hard)	Hard Mode ğ(¨0¨8d@H€ˆ˜ûÿÿÿÿÿÿÿÿ ªspectral
 4
 ’	Tribesman
 Dark brown '(08@HPX€ˆ
@@ -6098,23 +6099,32 @@ White wolfLevel 38 ,(08 @H
 ™Wilson 2(08@H
 %
 ÛWingman Skree y(P028 @–HdP-X
-.
-œú1Witch's experimentSkavid (0
+,
+œWitch's experimentSkavid (0
 8@H
-<
-û1 Witch's experiment (second form)Spider (08@H
-9
-ü1Witch's experiment (third form)Bear )(&08'@H
 :
-Ÿı1 Witch's experiment (fourth form)Wolf 3(00(81@H
+ Witch's experiment (second form)Spider (08@H
+7
+Witch's experiment (third form)Bear )(&08'@H
+8
+Ÿ Witch's experiment (fourth form)Wolf 3(00(81@H
 :
-½1Witch's experiment (hard)Skavid (hard) ?(608@H
+ú1Witch's experimentSkavid (Normal Mode) (0
+8@H
 H
-¾1'Witch's experiment (second form) (hard)Spider (hard) ](T0<8@H
+û1 Witch's experiment (second form)Spider (Normal Mode) (08@H
 E
-¿1&Witch's experiment (third form) (hard)Bear (hard) g(_0K8'@H
+ü1Witch's experiment (third form)Bear (Normal Mode) )(&08'@H
 F
-À1'Witch's experiment (fourth form) (hard)Wolf (hard) q(i0X81@H
+ı1 Witch's experiment (fourth form)Wolf (Normal Mode) 3(00(81@H
+?
+½1Witch's experiment (hard)Skavid (Hard Mode) ?(608@H
+M
+¾1'Witch's experiment (second form) (hard)Spider (Hard Mode) ](T0<8@H
+J
+¿1&Witch's experiment (third form) (hard)Bear (Hard Mode) g(_0K8'@H
+K
+À1'Witch's experiment (fourth form) (hard)Wolf (Hard Mode) q(i0X81@H
 
 ¹Wizard (08@
 H˜

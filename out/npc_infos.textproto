@@ -21608,7 +21608,7 @@ npcs {
 npcs {
   ids: 785
   name: "Me"
-  version: "Male"
+  version: "Type A"
   hitpoints: 45
   att: 75
   str: 78
@@ -21619,7 +21619,7 @@ npcs {
 npcs {
   ids: 786
   name: "Me"
-  version: "Female"
+  version: "Type B"
   hitpoints: 45
   att: 75
   str: 78
@@ -21630,7 +21630,7 @@ npcs {
 npcs {
   ids: 6381
   name: "Me"
-  version: "NMZ"
+  version: "Normal Mode"
   hitpoints: 45
   att: 75
   str: 78
@@ -21641,7 +21641,7 @@ npcs {
 npcs {
   ids: 6320
   name: "Me (hard)"
-  version: "NMZ (hard)"
+  version: "Hard Mode"
   hitpoints: 135
   att: 225
   str: 234
@@ -34083,8 +34083,25 @@ npcs {
   attributes: "spectral"
 }
 npcs {
+  ids: 3616
+  name: "Treus Dayth"
+  hitpoints: 100
+  att: 70
+  str: 70
+  def: 100
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 5
+  dcrush: 5
+  dmagic: -5
+  drange: 5
+  attributes: "spectral, undead"
+}
+npcs {
   ids: 6359
   name: "Treus Dayth"
+  version: "Normal Mode"
   hitpoints: 100
   att: 70
   str: 70
@@ -34101,6 +34118,7 @@ npcs {
 npcs {
   ids: 6298
   name: "Treus Dayth (hard)"
+  version: "Hard Mode"
   hitpoints: 240
   att: 168
   str: 168
@@ -37282,7 +37300,6 @@ npcs {
 }
 npcs {
   ids: 3996
-  ids: 6394
   name: "Witch\'s experiment"
   version: "Skavid"
   hitpoints: 21
@@ -37294,7 +37311,6 @@ npcs {
 }
 npcs {
   ids: 3997
-  ids: 6395
   name: "Witch\'s experiment (second form)"
   version: "Spider"
   hitpoints: 31
@@ -37306,7 +37322,6 @@ npcs {
 }
 npcs {
   ids: 3998
-  ids: 6396
   name: "Witch\'s experiment (third form)"
   version: "Bear"
   hitpoints: 41
@@ -37318,7 +37333,6 @@ npcs {
 }
 npcs {
   ids: 3999
-  ids: 6397
   name: "Witch\'s experiment (fourth form)"
   version: "Wolf"
   hitpoints: 51
@@ -37329,9 +37343,53 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 6394
+  name: "Witch\'s experiment"
+  version: "Skavid (Normal Mode)"
+  hitpoints: 21
+  att: 18
+  str: 10
+  def: 19
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 6395
+  name: "Witch\'s experiment (second form)"
+  version: "Spider (Normal Mode)"
+  hitpoints: 31
+  att: 28
+  str: 20
+  def: 29
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 6396
+  name: "Witch\'s experiment (third form)"
+  version: "Bear (Normal Mode)"
+  hitpoints: 41
+  att: 38
+  str: 30
+  def: 39
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 6397
+  name: "Witch\'s experiment (fourth form)"
+  version: "Wolf (Normal Mode)"
+  hitpoints: 51
+  att: 48
+  str: 40
+  def: 49
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 6333
   name: "Witch\'s experiment (hard)"
-  version: "Skavid (hard)"
+  version: "Skavid (Hard Mode)"
   hitpoints: 63
   att: 54
   str: 30
@@ -37342,7 +37400,7 @@ npcs {
 npcs {
   ids: 6334
   name: "Witch\'s experiment (second form) (hard)"
-  version: "Spider (hard)"
+  version: "Spider (Hard Mode)"
   hitpoints: 93
   att: 84
   str: 60
@@ -37353,7 +37411,7 @@ npcs {
 npcs {
   ids: 6335
   name: "Witch\'s experiment (third form) (hard)"
-  version: "Bear (hard)"
+  version: "Bear (Hard Mode)"
   hitpoints: 103
   att: 95
   str: 75
@@ -37364,7 +37422,7 @@ npcs {
 npcs {
   ids: 6336
   name: "Witch\'s experiment (fourth form) (hard)"
-  version: "Wolf (hard)"
+  version: "Wolf (Hard Mode)"
   hitpoints: 113
   att: 105
   str: 88
