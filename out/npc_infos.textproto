@@ -19834,7 +19834,6 @@ npcs {
 }
 npcs {
   ids: 4163
-  ids: 6389
   name: "King Roald"
   hitpoints: 75
   att: 35
@@ -19845,8 +19844,21 @@ npcs {
   strbns: -21
 }
 npcs {
-  ids: 6328
+  ids: 6389
   name: "King Roald"
+  version: "Normal Mode"
+  hitpoints: 75
+  att: 35
+  str: 30
+  def: 30
+  mage: 1
+  range: 1
+  strbns: -21
+}
+npcs {
+  ids: 6328
+  name: "King Roald (hard)"
+  version: "Hard Mode"
   hitpoints: 150
   att: 140
   str: 120
@@ -23213,7 +23225,6 @@ npcs {
 }
 npcs {
   ids: 5353
-  ids: 6398
   name: "Nazastarool"
   version: "Zombie"
   hitpoints: 70
@@ -23223,7 +23234,6 @@ npcs {
 }
 npcs {
   ids: 5354
-  ids: 6399
   name: "Nazastarool"
   version: "Skeleton"
   hitpoints: 70
@@ -23240,7 +23250,6 @@ npcs {
 }
 npcs {
   ids: 5355
-  ids: 6400
   name: "Nazastarool"
   version: "Ghost"
   hitpoints: 80
@@ -23250,9 +23259,44 @@ npcs {
   attributes: "spectral"
 }
 npcs {
+  ids: 6398
+  name: "Nazastarool"
+  version: "Zombie (Normal Mode)"
+  hitpoints: 70
+  att: 85
+  str: 80
+  def: 80
+}
+npcs {
+  ids: 6399
+  name: "Nazastarool"
+  version: "Skeleton (Normal Mode)"
+  hitpoints: 70
+  att: 58
+  str: 54
+  def: 58
+  attbns: 15
+  strbns: 15
+  dstab: 5
+  dslash: 5
+  dcrush: 5
+  dmagic: 5
+  drange: 5
+}
+npcs {
+  ids: 6400
+  name: "Nazastarool"
+  version: "Ghost (Normal Mode)"
+  hitpoints: 80
+  att: 85
+  str: 80
+  def: 80
+  attributes: "spectral"
+}
+npcs {
   ids: 6337
   name: "Nazastarool (hard)"
-  version: "Zombie (hard)"
+  version: "Zombie (Hard Mode)"
   hitpoints: 154
   att: 187
   str: 176
@@ -23261,7 +23305,7 @@ npcs {
 npcs {
   ids: 6338
   name: "Nazastarool (hard)"
-  version: "Skeleton (hard)"
+  version: "Skeleton (Hard Mode)"
   hitpoints: 180
   att: 150
   str: 140
@@ -23277,7 +23321,7 @@ npcs {
 npcs {
   ids: 6339
   name: "Nazastarool (hard)"
-  version: "Ghost (hard)"
+  version: "Ghost (Hard Mode)"
   hitpoints: 176
   att: 187
   str: 176
@@ -30411,9 +30455,24 @@ npcs {
 npcs {
   ids: 1362
   ids: 1364
+  name: "Slagilith"
+  hitpoints: 60
+  att: 60
+  str: 120
+  def: 75
+  mage: 1
+  range: 1
+  attbns: 10
+  dstab: 50
+  dslash: 50
+  dcrush: 5
+  dmagic: 5
+  drange: 50
+}
+npcs {
   ids: 6385
   name: "Slagilith"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 60
   att: 60
   str: 120
@@ -30430,7 +30489,7 @@ npcs {
 npcs {
   ids: 6324
   name: "Slagilith (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 150
   att: 150
   str: 300
@@ -34049,7 +34108,6 @@ npcs {
 npcs {
   ids: 1163
   name: "Tree spirit"
-  version: "Quest"
   hitpoints: 85
   att: 90
   str: 95
@@ -34061,7 +34119,7 @@ npcs {
 npcs {
   ids: 6380
   name: "Tree spirit"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 85
   att: 90
   str: 95
@@ -34073,7 +34131,7 @@ npcs {
 npcs {
   ids: 6319
   name: "Tree spirit (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 187
   att: 200
   str: 209

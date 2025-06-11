@@ -3299,12 +3299,14 @@ F
 æ2King Black Dragon ğ(ğ0ğ8ğ@ğH€FˆZZ˜P Fªdragon,fiery
 /
 í9King kurask ¤(¾0À8ú@Hˆ22ªleafy
-)
-Ã õ1
+'
+Ã 
 King Roald K(#08@HXëÿÿÿÿÿÿÿÿ
-)
-¸1
-King Roald –(Œ0x8@HXëÿÿÿÿÿÿÿÿ
+4
+õ1
+King RoaldNormal Mode K(#08@HXëÿÿÿÿÿÿÿÿ
+;
+¸1King Roald (hard)	Hard Mode –(Œ0x8@HXëÿÿÿÿÿÿÿÿ
 )
 â8King Sand CrabActive È(2028d@H
 (
@@ -3840,18 +3842,24 @@ Nail beastLevel 98 A(×08@H
 Nail beast	Level 141 K(À08(@H
 R
 ĞNarf (08@H€ûÿÿÿÿÿÿÿÿˆûÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿ˜ûÿÿÿÿÿÿÿÿ ûÿÿÿÿÿÿÿÿ
-#
-é)ş1NazastaroolZombie F(U0P8P
-8
-ê)ÿ1NazastaroolSkeleton F(:068:PX€ˆ˜ 
--
-ë)€2NazastaroolGhost P(U0P8Pªspectral
-2
-Á1Nazastarool (hard)Zombie (hard) š(»0°8P
-G
-Â1Nazastarool (hard)Skeleton (hard) ´(–0Œ8:PX€ˆ˜ 
-<
-Ã1Nazastarool (hard)Ghost (hard) °(»0°8Pªspectral
+!
+é)NazastaroolZombie F(U0P8P
+6
+ê)NazastaroolSkeleton F(:068:PX€ˆ˜ 
++
+ë)NazastaroolGhost P(U0P8Pªspectral
+/
+ş1NazastaroolZombie (Normal Mode) F(U0P8P
+D
+ÿ1NazastaroolSkeleton (Normal Mode) F(:068:PX€ˆ˜ 
+9
+€2NazastaroolGhost (Normal Mode) P(U0P8Pªspectral
+7
+Á1Nazastarool (hard)Zombie (Hard Mode) š(»0°8P
+L
+Â1Nazastarool (hard)Skeleton (Hard Mode) ´(–0Œ8:PX€ˆ˜ 
+A
+Ã1Nazastarool (hard)Ghost (Hard Mode) °(»0°8Pªspectral
 6
 	NechryaelNormal i(a0a8i@H€ˆ ªdemon
 ;
@@ -4962,13 +4970,16 @@ d
 ä	SkraelingBrown shirt (08@H€ôÿÿÿÿÿÿÿÿˆôÿÿÿÿÿÿÿÿôÿÿÿÿÿÿÿÿ˜ôÿÿÿÿÿÿÿÿ ôÿÿÿÿÿÿÿÿ
 d
 æ	SkraelingGreen shirt (08@H€ôÿÿÿÿÿÿÿÿˆôÿÿÿÿÿÿÿÿôÿÿÿÿÿÿÿÿ˜ôÿÿÿÿÿÿÿÿ ôÿÿÿÿÿÿÿÿ
-8
-Ò
+.
+Ò
 Ô
-ñ1	SlagilithNormal <(<0x8K@HP
+	Slagilith <(<0x8K@HP
 €2ˆ2˜ 2
-<
-´1Slagilith (hard)Hard –(–0¬8K@HP
+9
+ñ1	SlagilithNormal Mode <(<0x8K@HP
+€2ˆ2˜ 2
+A
+´1Slagilith (hard)	Hard Mode –(–0¬8K@HP
 €2ˆ2˜ 2
 0
 ò
@@ -5602,12 +5613,12 @@ A
 ÉTree spirit	Level 120 x(d0d8d@H
 ,
 ÊTree spirit	Level 159 ª(‚0‚8‚@H
-7
-‹	Tree spiritQuest U(Z0_8P@Hªundead, spectral
 0
-ì1Tree spiritNormal U(Z0_8P@Hªspectral
-8
-¯1Tree spirit (hard)Hard »(È0Ñ8P@Hªspectral
+‹	Tree spirit U(Z0_8P@Hªundead, spectral
+5
+ì1Tree spiritNormal Mode U(Z0_8P@Hªspectral
+=
+¯1Tree spirit (hard)	Hard Mode »(È0Ñ8P@Hªspectral
 H
  Treus Dayth d(F0F8d@H€ˆ˜ûÿÿÿÿÿÿÿÿ ªspectral, undead
 U
