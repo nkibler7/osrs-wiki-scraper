@@ -10845,9 +10845,22 @@ npcs {
 }
 npcs {
   ids: 3456
+  name: "Fareed"
+  hitpoints: 130
+  att: 190
+  str: 120
+  def: 135
+  mage: 1
+  range: 1
+  strbns: 120
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+}
+npcs {
   ids: 6348
   name: "Fareed"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 130
   att: 190
   str: 120
@@ -10862,7 +10875,7 @@ npcs {
 npcs {
   ids: 4115
   name: "Fareed (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 255
   att: 380
   str: 240
@@ -17616,7 +17629,7 @@ npcs {
 npcs {
   ids: 6356
   name: "Ice Troll King"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 150
   att: 100
   str: 100
@@ -17634,7 +17647,7 @@ npcs {
 npcs {
   ids: 6294
   name: "Ice Troll King (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 240
   att: 200
   str: 200
@@ -32848,9 +32861,18 @@ npcs {
 }
 npcs {
   ids: 3474
+  name: "The Everlasting"
+  hitpoints: 230
+  att: 187
+  str: 231
+  def: 120
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 6351
   name: "The Everlasting"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 230
   att: 187
   str: 231
@@ -32861,7 +32883,7 @@ npcs {
 npcs {
   ids: 6120
   name: "The Everlasting (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 255
   att: 374
   str: 462
@@ -33028,9 +33050,18 @@ npcs {
 }
 npcs {
   ids: 3473
+  name: "The Inadequacy"
+  hitpoints: 180
+  att: 564
+  str: 170
+  def: 240
+  mage: 1
+  range: 170
+}
+npcs {
   ids: 6350
   name: "The Inadequacy"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 180
   att: 564
   str: 170
@@ -33041,7 +33072,7 @@ npcs {
 npcs {
   ids: 6119
   name: "The Inadequacy (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 255
   att: 1128
   str: 340
@@ -33170,9 +33201,18 @@ npcs {
 }
 npcs {
   ids: 3475
+  name: "The Untouchable"
+  hitpoints: 90
+  att: 187
+  str: 255
+  def: 434
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 6352
   name: "The Untouchable"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 90
   att: 187
   str: 255
@@ -33183,7 +33223,7 @@ npcs {
 npcs {
   ids: 6121
   name: "The Untouchable (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 180
   att: 374
   str: 510

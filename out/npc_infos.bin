@@ -1888,10 +1888,12 @@ ExperimentLevel 25 (sheep) d(08@H
 Ü(Experiment No.2 _(h0\8Z@HdÄ-àFê<ò<†7
 Famished shark (0
 @
-0
-ÄÃ1FareedNormal Ç(æ0x8á@HXxÄdàdêd
-4
-ì Fareed (hard)Hard ˇ(¸08á@HXxÄdàdêd
+&
+ÄFareed Ç(æ0x8á@HXxÄdàdêd
+3
+Ã1FareedNormal Mode Ç(æ0x8á@HXxÄdàdêd
+9
+ì Fareed (hard)	Hard Mode ˇ(¸08á@HXxÄdàdêd
 3
 ™FarmerStraw hat, brown hair (08@HPX
 8
@@ -2927,10 +2929,10 @@ Ice spiderRuins of Tapoyauik A(2078+@HÄàêò†
 ’«-Ice troll grunt P(d0d8<@HP<X<Äà<ê
 6
 æ-Ice Troll King ñ(d0d8P@HP<X<Ä-à-ê-ò–†–
->
-‘1Ice Troll KingNormal ñ(d0d8P@HP<X<Ä-à-ê-ò–†–
-E
-ñ1Ice Troll King (hard)Hard (»0»8P@HP<X<Ä-à-ê-ò–†–
+C
+‘1Ice Troll KingNormal Mode ñ(d0d8P@HP<X<Ä-à-ê-ò–†–
+J
+ñ1Ice Troll King (hard)	Hard Mode (»0»8P@HP<X<Ä-à-ê-ò–†–
 8
 ≈-Ice troll male	Variant 1 P(P0P8(@HP<X<Äà<ê
 8
@@ -5387,10 +5389,12 @@ Terrorbird2 "(08@H
 Terrorbird3 "(08@H
 7
 “The Draugen <(<0<8<@HÄdàdêdòÙ†Ù™undead
-.
-íœ1The EverlastingNormal Ê(ª0Á8x@H
+$
+íThe Everlasting Ê(ª0Á8x@H
 1
-Ë/The Everlasting (hard)Hard ˇ(ˆ0Œ8x@H
+œ1The EverlastingNormal Mode Ê(ª0Á8x@H
+6
+Ë/The Everlasting (hard)	Hard Mode ˇ(ˆ0Œ8x@H
 P
 ®`The Forsaken Assassin »(†0å8†@åH†PBXpBxÄ<àêPò»†2™spectral
 N
@@ -5407,10 +5411,12 @@ T
 ømHueycoatl tail (broken)Broken ê(ñ028}@2H2PdX2`»h2p˙x2Ädàdò»™dragon
 
 îThe Illusive ê(H0G8i@H
-/
-ëŒ1The InadequacyNormal ¥(¥0™8@H™
+%
+ëThe Inadequacy ¥(¥0™8@H™
 2
-Á/The Inadequacy (hard)Hard ˇ(Ë0‘8@H‘
+Œ1The InadequacyNormal Mode ¥(¥0™8@H™
+7
+Á/The Inadequacy (hard)	Hard Mode ˇ(Ë0‘8@H‘
 @
 ·
 ‚
@@ -5444,10 +5450,12 @@ Entry Mode –(å0å8P@åHå`ñh
 30% Health ö(ﬁ0ﬁ8»@ﬁHﬁ`¨
 '
 ‰$The Shaikahan d(P0P8@HòêN†êN
-.
-ì–1The UntouchableNormal Z(ª0ˇ8≤@H
-2
-È/The Untouchable (hard)Hard ¥(ˆ0˛8≤@H
+$
+ìThe Untouchable Z(ª0ˇ8≤@H
+1
+–1The UntouchableNormal Mode Z(ª0ˇ8≤@H
+7
+È/The Untouchable (hard)	Hard Mode ¥(ˆ0˛8≤@H
 A
 ÛThermonuclear smoke devil (Ê0‹8Ë@H∂Äàê	ò††Ñ
 A
