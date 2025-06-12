@@ -12893,6 +12893,30 @@ npcs {
   dmagic: 150
 }
 npcs {
+  ids: 6384
+  name: "Giant Roc"
+  version: "Normal Mode"
+  hitpoints: 250
+  att: 130
+  str: 130
+  def: 100
+  mage: 1
+  range: 130
+  dmagic: 150
+}
+npcs {
+  ids: 6323
+  name: "Giant Roc (hard)"
+  version: "Hard Mode"
+  hitpoints: 255
+  att: 260
+  str: 260
+  def: 100
+  mage: 1
+  range: 260
+  dmagic: 150
+}
+npcs {
   ids: 2261
   name: "Giant Rock Crab"
   version: "1"
@@ -12937,9 +12961,24 @@ npcs {
 npcs {
   ids: 797
   ids: 798
+  name: "Giant Scarab"
+  hitpoints: 130
+  att: 169
+  str: 190
+  def: 169
+  mage: 1
+  range: 190
+  dstab: 70
+  dslash: 99
+  dcrush: 99
+  dmagic: 159
+  drange: 149
+  attributes: "kalphite"
+}
+npcs {
   ids: 6343
   name: "Giant Scarab"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 130
   att: 169
   str: 190
@@ -12956,7 +12995,7 @@ npcs {
 npcs {
   ids: 1127
   name: "Giant Scarab (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 255
   att: 305
   str: 342
@@ -13115,9 +13154,23 @@ npcs {
 }
 npcs {
   ids: 5129
+  name: "Glod"
+  hitpoints: 160
+  att: 115
+  str: 120
+  def: 110
+  mage: 1
+  range: 1
+  dstab: 105
+  dslash: 110
+  dcrush: 130
+  dmagic: 125
+  drange: 100
+}
+npcs {
   ids: 6358
   name: "Glod"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 160
   att: 115
   str: 120
@@ -13133,7 +13186,7 @@ npcs {
 npcs {
   ids: 6297
   name: "Glod (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 255
   att: 230
   str: 240
@@ -16566,10 +16619,25 @@ npcs {
   drange: 9
 }
 npcs {
-  ids: 10493
   ids: 10506
   name: "Headless Beast"
-  version: "Normal"
+  hitpoints: 100
+  att: 60
+  str: 86
+  def: 42
+  mage: 42
+  range: 1
+  dstab: 18
+  dslash: 18
+  dcrush: 18
+  dmagic: 6
+  drange: 52
+  attributes: "undead"
+}
+npcs {
+  ids: 10493
+  name: "Headless Beast"
+  version: "Normal Mode"
   hitpoints: 100
   att: 60
   str: 86
@@ -16586,7 +16654,7 @@ npcs {
 npcs {
   ids: 10492
   name: "Headless Beast (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 320
   att: 200
   str: 240
@@ -19278,9 +19346,23 @@ npcs {
 }
 npcs {
   ids: 3458
+  name: "Kamil"
+  hitpoints: 130
+  att: 190
+  str: 80
+  def: 135
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 100
+  dstab: 35
+  dslash: 60
+  dcrush: 35
+}
+npcs {
   ids: 6345
   name: "Kamil"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 130
   att: 190
   str: 80
@@ -19296,7 +19378,7 @@ npcs {
 npcs {
   ids: 1129
   name: "Kamil (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 255
   att: 380
   str: 160
@@ -19710,11 +19792,20 @@ npcs {
   drange: 33
 }
 npcs {
-  ids: 6390
   ids: 7621
   ids: 7622
   name: "Khazard warlord"
-  version: "Normal"
+  hitpoints: 170
+  att: 75
+  str: 78
+  def: 80
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 6390
+  name: "Khazard warlord"
+  version: "Normal Mode"
   hitpoints: 170
   att: 75
   str: 78
@@ -19725,7 +19816,7 @@ npcs {
 npcs {
   ids: 6329
   name: "Khazard warlord (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 255
   att: 165
   str: 170
@@ -27531,8 +27622,17 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 7895
   ids: 7903
+  name: "Sand Snake"
+  hitpoints: 60
+  att: 30
+  str: 20
+  def: 20
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 7895
   name: "Sand Snake"
   version: "Normal"
   hitpoints: 60
@@ -32555,9 +32655,18 @@ npcs {
 }
 npcs {
   ids: 5848
+  name: "Tanglefoot"
+  hitpoints: 102
+  att: 97
+  str: 97
+  def: 91
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 6353
   name: "Tanglefoot"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 102
   att: 97
   str: 97
@@ -32568,7 +32677,7 @@ npcs {
 npcs {
   ids: 6291
   name: "Tanglefoot (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 204
   att: 194
   str: 194
@@ -33083,9 +33192,23 @@ npcs {
 npcs {
   ids: 1377
   ids: 1378
+  name: "The Kendal"
+  hitpoints: 50
+  att: 65
+  str: 65
+  def: 60
+  attbns: 5
+  strbns: 10
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+  dmagic: -10
+  drange: 20
+}
+npcs {
   ids: 6383
   name: "The Kendal"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 50
   att: 65
   str: 65
@@ -33101,7 +33224,7 @@ npcs {
 npcs {
   ids: 6322
   name: "The Kendal (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 150
   att: 195
   str: 195
@@ -34056,9 +34179,19 @@ npcs {
 }
 npcs {
   ids: 8514
+  name: "Trapped Soul"
+  hitpoints: 30
+  att: 25
+  str: 29
+  def: 20
+  mage: 1
+  range: 1
+  attributes: "undead"
+}
+npcs {
   ids: 8528
   name: "Trapped Soul"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 30
   att: 25
   str: 29
@@ -34070,7 +34203,7 @@ npcs {
 npcs {
   ids: 8529
   name: "Trapped Soul (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 100
   att: 100
   str: 120

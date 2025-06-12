@@ -2238,6 +2238,10 @@ V
 ûğ1	Giant RocNormal ú(‚0‚8d@H‚˜–
 0
 ³1Giant Roc (hard)Hard ÿ(„0„8d@H„˜–
+0
+ğ1	Giant RocNormal Mode ú(‚0‚8d@H‚˜–
+5
+³1Giant Roc (hard)	Hard Mode ÿ(„0„8d@H„˜–
 B
 ÕGiant Rock Crab1 ´(20P8È@H€áˆÈ¯˜öÿÿÿÿÿÿÿÿ ú
 9
@@ -2245,10 +2249,12 @@ B
  ú
  
 à9Giant rockslug M(H0M8M@H
-K
-Ç1Giant ScarabNormal ‚(©0¾8©@H¾€Fˆcc˜Ÿ •ªkalphite
+A
+Giant Scarab ‚(©0¾8©@H¾€Fˆcc˜Ÿ •ªkalphite
 L
-çGiant Scarab (hard)Hard ÿ(±0Ö8©@HÖ€Fˆcc˜Ÿ •ªkalphite
+Ç1Giant ScarabNormal Mode ‚(©0¾8©@H¾€Fˆcc˜Ÿ •ªkalphite
+Q
+çGiant Scarab (hard)	Hard Mode ÿ(±0Ö8©@HÖ€Fˆcc˜Ÿ •ªkalphite
 $
 ÍGiant Sea Snake d(ª0Z8 @H‚
 ,
@@ -2277,10 +2283,12 @@ X
 
 .
 –XGlacies ô(08È@ÈHh€dˆd˜– 2
-1
-‰(Ö1GlodNormal  (s0x8n@H€iˆn‚˜} d
-6
-™1Glod (hard)Hard ÿ(æ0ğ8n@H€iˆn‚˜} d
+'
+‰(Glod  (s0x8n@H€iˆn‚˜} d
+4
+Ö1GlodNormal Mode  (s0x8n@H€iˆn‚˜} d
+;
+™1Glod (hard)	Hard Mode ÿ(æ0ğ8n@H€iˆn‚˜} d
 .
 ½7¾7¿7Glough ¿(„08ø@úH†PzXK`Ph(pdx(
 H
@@ -2756,10 +2764,12 @@ Head Guard V(K0I8=@HPX€ˆ˜ôÿÿÿÿÿÿÿÿ 
 ˜!
 Head Thief %(08HX
 €ˆ˜ 	
-B
-ıQŠRHeadless BeastNormal d(<0V8*@*H€ˆ˜ 4ªundead
-H
-üQHeadless Beast (hard)Hard À(È0ğ8*@*H€ˆ˜ 4ªundead
+8
+ŠRHeadless Beast d(<0V8*@*H€ˆ˜ 4ªundead
+E
+ıQHeadless BeastNormal Mode d(<0V8*@*H€ˆ˜ 4ªundead
+M
+üQHeadless Beast (hard)	Hard Mode À(È0ğ8*@*H€ˆ˜ 4ªundead
 0
 hiØ8	Hellhound	Level 122 t(i0h8f@Hªdemon
 .
@@ -3212,10 +3222,12 @@ W
 ªkalphite
 '
 ¡FKalrag N(N0N8N@H€ˆ˜ 
-1
-‚É1KamilNormal ‚(¾0P8‡@HP<Xd€#ˆ<#
-5
-éKamil (hard)Hard ÿ(ü0 8‡@HP<Xd€#ˆ<#
+'
+‚Kamil ‚(¾0P8‡@HP<Xd€#ˆ<#
+4
+É1KamilNormal Mode ‚(¾0P8‡@HP<Xd€#ˆ<#
+:
+éKamil (hard)	Hard Mode ÿ(ü0 8‡@HP<Xd€#ˆ<#
 3
 ’&Karamel ú(08d@Hdp†x7€–ˆ––˜– –
 3
@@ -3273,10 +3285,12 @@ E
 F
 ê&Í.Khazard trooperSpear (08@HPX
 €!ˆ"˜ùÿÿÿÿÿÿÿÿ !
-.
-ö1Å;Æ;Khazard warlordNormal ª(K0N8P@H
-1
-¹1Khazard warlord (hard)Hard ÿ(¥0ª8P@H
+$
+Å;Æ;Khazard warlord ª(K0N8P@H
+/
+ö1Khazard warlordNormal Mode ª(K0N8P@H
+6
+¹1Khazard warlord (hard)	Hard Mode ÿ(¥0ª8P@H
 <
 Ö
 KillerwattIdle 3(2028(@CHCP€
@@ -4546,8 +4560,11 @@ S
 ¯.¦8	Sand CrabActive <(08@H
 '
 °.§8Sandy rocksHidden <(08@H
-&
-×=ß=
+
+ß=
+Sand Snake <(08@H
+$
+×=
 Sand SnakeNormal <(08@H
 ,
 Ö=Sand Snake (hard)Hard ´(´0Œ8@H
@@ -5334,11 +5351,14 @@ Swamp frog (08@H
 Swordchick #()0*8-@H
 :
 ñ<Taloned Wyvern È(x0n8Z@ZHZ€FˆFF˜Œ xªdragon
-&
-Ø-Ñ1
-TanglefootNormal f(a0a8[@H
-,
-“1Tanglefoot (hard)Hard Ì(Â0Â8[@H
+
+Ø-
+Tanglefoot f(a0a8[@H
+)
+Ñ1
+TanglefootNormal Mode f(a0a8[@H
+1
+“1Tanglefoot (hard)	Hard Mode Ì(Â0Â8[@H
 
 ü<Tar Monster È(x0P8F@Hd
 "
@@ -5417,17 +5437,24 @@ T
 Î1The InadequacyNormal Mode ´(´0ª8ğ@Hª
 7
 ç/The Inadequacy (hard)	Hard Mode ÿ(è0Ô8ğ@HÔ
-@
-á
+6
+á
 â
-ï1
-The KendalNormal 2(A0A8<PX
+
+The Kendal 2(A0A8<PX
 €
 ˆ
 
 ˜öÿÿÿÿÿÿÿÿ 
-D
-²1The Kendal (hard)Hard –(Ã0Ã8<PX
+A
+ï1
+The KendalNormal Mode 2(A0A8<PX
+€
+ˆ
+
+˜öÿÿÿÿÿÿÿÿ 
+I
+²1The Kendal (hard)	Hard Mode –(Ã0Ã8<PX
 €
 ˆ
 
@@ -5605,10 +5632,12 @@ A
 @HPx1˜" B
 *
 µ"Tower guard (08@HPX€ˆ#
-1
-ÂBĞBTrapped SoulNormal (08@Hªundead
+'
+ÂBTrapped Soul (08@Hªundead
 4
-ÑBTrapped Soul (hard)Hard d(d0x8@Hªundead
+ĞBTrapped SoulNormal Mode (08@Hªundead
+9
+ÑBTrapped Soul (hard)	Hard Mode d(d0x8@Hªundead
 '
 ÅTree spiritLevel 14 (	0	8	@H
 '
