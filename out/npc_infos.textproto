@@ -7286,7 +7286,7 @@ npcs {
 npcs {
   ids: 6368
   name: "Culinaromancer"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 150
   att: 10
   str: 100
@@ -7302,7 +7302,7 @@ npcs {
 npcs {
   ids: 6307
   name: "Culinaromancer (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 255
   att: 40
   str: 400
@@ -12869,27 +12869,13 @@ npcs {
 }
 npcs {
   ids: 763
-  ids: 6384
   name: "Giant Roc"
-  version: "Normal"
   hitpoints: 250
   att: 130
   str: 130
   def: 100
   mage: 1
   range: 130
-  dmagic: 150
-}
-npcs {
-  ids: 6323
-  name: "Giant Roc (hard)"
-  version: "Hard"
-  hitpoints: 255
-  att: 260
-  str: 260
-  def: 100
-  mage: 1
-  range: 260
   dmagic: 150
 }
 npcs {
