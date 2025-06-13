@@ -6779,7 +6779,7 @@ npcs {
 npcs {
   ids: 6401
   name: "Cow"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 8
   att: 1
   str: 1
@@ -6797,7 +6797,7 @@ npcs {
 npcs {
   ids: 6340
   name: "Cow (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 160
   att: 200
   str: 200
@@ -11257,7 +11257,7 @@ npcs {
 npcs {
   ids: 6370
   name: "Flambeed"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 210
   att: 120
   str: 120
@@ -11274,7 +11274,7 @@ npcs {
 npcs {
   ids: 6309
   name: "Flambeed (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 255
   att: 240
   str: 240
