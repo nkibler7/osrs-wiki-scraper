@@ -10714,7 +10714,7 @@ npcs {
 npcs {
   ids: 6367
   name: "Evil Chicken"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 120
   att: 1
   str: 1
@@ -10725,7 +10725,7 @@ npcs {
 npcs {
   ids: 6306
   name: "Evil Chicken (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 240
   def: 126
   mage: 400
