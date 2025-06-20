@@ -17702,7 +17702,7 @@ npcs {
   ids: 6294
   name: "Ice Troll King (hard)"
   version: "Hard Mode"
-  hitpoints: 240
+  hitpoints: 255
   att: 200
   str: 200
   def: 80
