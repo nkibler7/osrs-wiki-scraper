@@ -6675,7 +6675,7 @@ npcs {
   ids: 6332
   name: "Count Draynor (hard)"
   version: "Hard Mode"
-  hitpoints: 223
+  hitpoints: 210
   att: 198
   str: 165
   def: 30
@@ -34190,7 +34190,7 @@ npcs {
   ids: 8529
   name: "Trapped Soul (hard)"
   version: "Hard Mode"
-  hitpoints: 100
+  hitpoints: 98
   att: 100
   str: 120
   def: 20
@@ -37629,7 +37629,7 @@ npcs {
   ids: 6335
   name: "Witch\'s experiment (third form) (hard)"
   version: "Bear (Hard Mode)"
-  hitpoints: 103
+  hitpoints: 102
   att: 95
   str: 75
   def: 39
