@@ -4242,7 +4242,7 @@ npcs {
 npcs {
   ids: 6360
   name: "Black Knight Titan"
-  version: "Normal"
+  version: "Normal Mode"
   hitpoints: 142
   att: 91
   str: 100
@@ -4260,7 +4260,7 @@ npcs {
 npcs {
   ids: 6299
   name: "Black Knight Titan (hard)"
-  version: "Hard"
+  version: "Hard Mode"
   hitpoints: 255
   att: 182
   str: 200
