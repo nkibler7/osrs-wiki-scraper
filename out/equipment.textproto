@@ -106436,6 +106436,48 @@ items {
   }
 }
 items {
+  key: 30436
+  value {
+    id: 30436
+    name: "Echo venator bow"
+    stat_bonuses {
+      ranged_attack: 90
+      ranged_strength: 25
+    }
+    weapon_details {
+      base_attack_speed: 5
+      base_attack_range: 6
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          ranged_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Rapid"
+        modifiers {
+          attack_speed_modifier: -1
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_RAPID
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
+  }
+}
+items {
   key: 30439
   value {
     id: 30439
