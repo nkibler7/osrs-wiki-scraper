@@ -92,10 +92,10 @@ C
 ·1Agrith Naar (hard)	Hard Mode Ñ(¶0Æ8R@ÜHÜªdemon
 1
 &Agrith-Na-Na È(S0–8R@dHdPd€dˆdd˜d d
->
-á1Agrith-Na-NaNormal Mode È(S0–8R@dHdPd€dˆdd˜d d
-F
-¤1Agrith-Na-Na (hard)	Hard Mode ÿ(¦0¬8R@ÈHÈPd€dˆdd˜d d
+;
+á1Agrith-Na-NaNormal Mode È(S0–8R@dHdPd€dˆd<˜d
+C
+¤1Agrith-Na-Na (hard)	Hard Mode ÿ(¦0¬8R@ÈHÈPd€dˆd<˜d
 J
 ˆAhrim the Blighted d(08d@dHXD`Ipíÿÿÿÿÿÿÿÿ€gˆUu˜Iªspectral
 
@@ -257,11 +257,11 @@ A
 "
 Æ<Armoured Foe Ü(ô0¤8ô@H
 W
-ºc»c¼c½c¾cÀcÂcÓcÕcÖcArmoured zombieMelee (invasion) U(I0H8D@H€ˆ 
+ºc»c¼c½c¾cÀcÂcÓcÕcÖcArmoured zombieMelee (invasion) K(I0H8D@H€ˆ 
 ªundead
 N
 
-¿cÂcÃcÙcÛcArmoured zombieRanged (invasion) U(I0H8D@HH€ˆ 
+¿cÂcÃcÙcÛcArmoured zombieRanged (invasion) K(I0H8D@HH€ˆ 
 ªundead
 B
 ·nArmoured zombie1 
@@ -280,15 +280,15 @@ C
 µc¶c·c¸c¹cArmoured zombieRanged K(I0H8D@HH€ˆ 
 ªundead
 :
-¡nArmoured zombieMelee, 1 n(j0^8D@H€ˆªundead
+¡nArmoured zombieMelee, 1 _(j0^8D@H€ˆªundead
 :
-¢nArmoured zombieMelee, 2 n(j0^8D@H€ˆªundead
+¢nArmoured zombieMelee, 2 _(j0^8D@H€ˆªundead
 :
-£nArmoured zombieMelee, 3 n(j0^8D@H€ˆªundead
+£nArmoured zombieMelee, 3 _(j0^8D@H€ˆªundead
 :
-¤nArmoured zombieMelee, 4 n(j0^8D@H€ˆªundead
+¤nArmoured zombieMelee, 4 _(j0^8D@H€ˆªundead
 :
-¥nArmoured zombieMelee, 5 n(j0^8D@H€ˆªundead
+¥nArmoured zombieMelee, 5 _(j0^8D@H€ˆªundead
 ;
 ¦nArmoured zombie	Ranged, 1 n(j0^8D@H^€ˆªundead
 ;
@@ -1959,10 +1959,10 @@ Fiyr ShadeShade n(x0d8Uªshade,undead,spectral
 Fiyr ShadowShadow n(x0d8Uªundead,spectral
 ,
 ‘&Flambeed Ò(x0x8K@HPd€2ˆ2˜ 2
-9
-â1FlambeedNormal Mode Ò(x0x8K@HPd€2ˆ2˜ 2
-@
-¥1Flambeed (hard)	Hard Mode ÿ(ğ0ğ8K@HPd€2ˆ2˜ 2
+6
+â1FlambeedNormal Mode Ò(x0x8K@HPd€2ˆ2˜
+=
+¥1Flambeed (hard)	Hard Mode ÿ(ğ0ğ8K@HPd€2ˆ2˜
 6
 â9Flaming pyrelord }(b0A84@H€ˆ ªdemon
 J

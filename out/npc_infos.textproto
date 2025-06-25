@@ -550,9 +550,8 @@ npcs {
   attbns: 100
   dstab: 100
   dslash: 100
-  dcrush: 100
+  dcrush: 60
   dmagic: 100
-  drange: 100
 }
 npcs {
   ids: 6308
@@ -567,9 +566,8 @@ npcs {
   attbns: 100
   dstab: 100
   dslash: 100
-  dcrush: 100
+  dcrush: 60
   dmagic: 100
-  drange: 100
 }
 npcs {
   ids: 1672
@@ -1564,7 +1562,7 @@ npcs {
   ids: 12758
   name: "Armoured zombie"
   version: "Melee (invasion)"
-  hitpoints: 85
+  hitpoints: 75
   att: 73
   str: 72
   def: 68
@@ -1583,7 +1581,7 @@ npcs {
   ids: 12763
   name: "Armoured zombie"
   version: "Ranged (invasion)"
-  hitpoints: 85
+  hitpoints: 75
   att: 73
   str: 72
   def: 68
@@ -1668,7 +1666,7 @@ npcs {
   ids: 14113
   name: "Armoured zombie"
   version: "Melee, 1"
-  hitpoints: 110
+  hitpoints: 95
   att: 106
   str: 94
   def: 68
@@ -1682,7 +1680,7 @@ npcs {
   ids: 14114
   name: "Armoured zombie"
   version: "Melee, 2"
-  hitpoints: 110
+  hitpoints: 95
   att: 106
   str: 94
   def: 68
@@ -1696,7 +1694,7 @@ npcs {
   ids: 14115
   name: "Armoured zombie"
   version: "Melee, 3"
-  hitpoints: 110
+  hitpoints: 95
   att: 106
   str: 94
   def: 68
@@ -1710,7 +1708,7 @@ npcs {
   ids: 14116
   name: "Armoured zombie"
   version: "Melee, 4"
-  hitpoints: 110
+  hitpoints: 95
   att: 106
   str: 94
   def: 68
@@ -1724,7 +1722,7 @@ npcs {
   ids: 14117
   name: "Armoured zombie"
   version: "Melee, 5"
-  hitpoints: 110
+  hitpoints: 95
   att: 106
   str: 94
   def: 68
@@ -11266,7 +11264,6 @@ npcs {
   dslash: 50
   dcrush: 5
   dmagic: 5
-  drange: 50
 }
 npcs {
   ids: 6309
@@ -11283,7 +11280,6 @@ npcs {
   dslash: 50
   dcrush: 5
   dmagic: 5
-  drange: 50
 }
 npcs {
   ids: 7394
