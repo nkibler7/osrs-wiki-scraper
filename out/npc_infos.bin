@@ -158,7 +158,7 @@ T
 ,
 ç9Ancient WizardMelee P(x0ñ8@PHPPXP
 =
-Û<Ancient Wyvern ¨(ñ0ñ8ñ@ZHZÄFàFêFò™†x™dragon
+Û<Ancient Wyvern ¨(ñ0ñ8ñ@ZHZÄ2àFêFò™†x™dragon
 4
 ı<Ancient Zygomite ñ(P0P8P@PHPP2Äàêò†
 O
@@ -372,36 +372,36 @@ P†X*Äàêò†
 §RAvatar of Destruction ‹(†0¿8
 @
 P†X*Äàêò†
-$
-·AviansieLevel 69 F(08F@HG
-$
-ÈAviansieLevel 71 ?(087@HV
-$
-ÍAviansieLevel 73 C(087@HY
-(
-‚AviansieLevel 79 (1) S(08F@HU
-(
-ÎAviansieLevel 79 (2) M(087@H`
-$
-‰AviansieLevel 83 V(08d@HL
-$
-„AviansieLevel 84 V(08F@H]
-$
-ÏAviansieLevel 89 E(08s@HY
-$
-ÂAviansieLevel 92 _(08d@HZ
-$
-ÌAviansieLevel 94 K(08s@H`
-(
-ÊAviansieLevel 97 (1) b(08d@Hc
-(
-ÓAviansieLevel 97 (2) O(08s@He
-'
-ÔAviansie	Level 131 s(08Ø@Hè
-'
-ÁAviansie	Level 137 |(08†@Hà
-(
-ËAviansie	Level 148 ã(08†@Hó
+-
+·AviansieLevel 69 F(08F@HG™flying
+-
+ÈAviansieLevel 71 ?(087@HV™flying
+-
+ÍAviansieLevel 73 C(087@HY™flying
+1
+‚AviansieLevel 79 (1) S(08F@HU™flying
+1
+ÎAviansieLevel 79 (2) M(087@H`™flying
+-
+‰AviansieLevel 83 V(08d@HL™flying
+-
+„AviansieLevel 84 V(08F@H]™flying
+-
+ÏAviansieLevel 89 E(08s@HY™flying
+-
+ÂAviansieLevel 92 _(08d@HZ™flying
+-
+ÌAviansieLevel 94 K(08s@H`™flying
+1
+ÊAviansieLevel 97 (1) b(08d@Hc™flying
+1
+ÓAviansieLevel 97 (2) O(08s@He™flying
+0
+ÔAviansie	Level 131 s(08Ø@Hè™flying
+0
+ÁAviansie	Level 137 |(08†@Hà™flying
+1
+ËAviansie	Level 148 ã(08†@Hó™flying
 &
 ¯8˙8¸8˛8Awakened Altar d(08@H
 -
@@ -1970,10 +1970,10 @@ Armageddon Ó(ñ0»8ñ@HÄàêòñ†™demon
 8
 ƒFlesh CrawlerLevel 41 (d08
 @HÄàêò†
-$
-›Flight Kilisa Ö(|0v8Ø@2H©X
-+
-‹Flockleader Geerin Ñ(P0P8Ø@2Hñp<x#
+-
+›Flight Kilisa Ö(|0v8Ø@2H©X™flying
+4
+‹Flockleader Geerin Ñ(P0P8Ø@2Hñp<x#™flying
 
 àCFlower 
 (0@H
@@ -4419,8 +4419,8 @@ E
 Î9Repugnant spectre Ü(08‹@¸HÄxàxêx†s™undead, spectral
 $
 ö.Respiratory system 28P™demon
-L
-˛=Revenant cyclops n(<0I81@AHFP5X@ÄåàÇêáò
+K
+˛=Revenant cyclops n(<0I81@AHFP5X@ÄnàÇêáò
 †á™undead, spectral
 V
 Ç>Revenant dark beast å(]0n8P@ÇHáPAX<p-x-ÄôàòêõòF†û™undead, spectral
@@ -5175,7 +5175,7 @@ B
 D
 Õ[Spitting Scarab ((0P8P@dH_X7`˙hApﬁÄà˙êò˙™kalphite
 ;
-Ú<Spitting Wyvern »(}0P8Z@}H}ÄFàFêFòå†x™dragon
+Ú<Spitting Wyvern »(}0P8Z@}H}Ä2àFêFòå†x™dragon
 "
 ôSplatterLevel 22 (08!@
 "
@@ -5321,7 +5321,7 @@ Swamp frog (08@H
 ì
 Swordchick #()0*8-@H
 :
-Ò<Taloned Wyvern »(x0n8Z@ZHZÄFàFêFòå†x™dragon
+Ò<Taloned Wyvern »(x0n8Z@ZHZÄ2àFêFòå†x™dragon
 
 ÿ-
 Tanglefoot f(a0a8[@H
@@ -6116,8 +6116,8 @@ White wolfLevel 38 ,(08 @H
 qWild dogUnused >(50686@H
 
 ôWilson 2(08@H
-%
-€Wingman Skree y(P028†@ñHdP-X
+.
+€Wingman Skree y(P028†@ñHdP-X™flying
 ,
 úWitch's experimentSkavid (0
 8@H

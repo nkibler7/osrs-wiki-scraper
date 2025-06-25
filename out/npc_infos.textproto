@@ -939,7 +939,7 @@ npcs {
   def: 150
   mage: 90
   range: 90
-  dstab: 70
+  dstab: 50
   dslash: 70
   dcrush: 70
   dmagic: 170
@@ -2157,6 +2157,7 @@ npcs {
   def: 70
   mage: 1
   range: 71
+  attributes: "flying"
 }
 npcs {
   ids: 3177
@@ -2168,6 +2169,7 @@ npcs {
   def: 55
   mage: 1
   range: 86
+  attributes: "flying"
 }
 npcs {
   ids: 3178
@@ -2179,6 +2181,7 @@ npcs {
   def: 55
   mage: 1
   range: 89
+  attributes: "flying"
 }
 npcs {
   ids: 3170
@@ -2190,6 +2193,7 @@ npcs {
   def: 70
   mage: 1
   range: 85
+  attributes: "flying"
 }
 npcs {
   ids: 3179
@@ -2201,6 +2205,7 @@ npcs {
   def: 55
   mage: 1
   range: 96
+  attributes: "flying"
 }
 npcs {
   ids: 3172
@@ -2212,6 +2217,7 @@ npcs {
   def: 100
   mage: 1
   range: 76
+  attributes: "flying"
 }
 npcs {
   ids: 3171
@@ -2223,6 +2229,7 @@ npcs {
   def: 70
   mage: 1
   range: 93
+  attributes: "flying"
 }
 npcs {
   ids: 3180
@@ -2234,6 +2241,7 @@ npcs {
   def: 115
   mage: 1
   range: 89
+  attributes: "flying"
 }
 npcs {
   ids: 3173
@@ -2245,6 +2253,7 @@ npcs {
   def: 100
   mage: 1
   range: 90
+  attributes: "flying"
 }
 npcs {
   ids: 3181
@@ -2256,6 +2265,7 @@ npcs {
   def: 115
   mage: 1
   range: 96
+  attributes: "flying"
 }
 npcs {
   ids: 3174
@@ -2267,6 +2277,7 @@ npcs {
   def: 100
   mage: 1
   range: 99
+  attributes: "flying"
 }
 npcs {
   ids: 3182
@@ -2278,6 +2289,7 @@ npcs {
   def: 115
   mage: 1
   range: 101
+  attributes: "flying"
 }
 npcs {
   ids: 3183
@@ -2289,6 +2301,7 @@ npcs {
   def: 175
   mage: 1
   range: 143
+  attributes: "flying"
 }
 npcs {
   ids: 3175
@@ -2300,6 +2313,7 @@ npcs {
   def: 160
   mage: 1
   range: 136
+  attributes: "flying"
 }
 npcs {
   ids: 3176
@@ -2311,6 +2325,7 @@ npcs {
   def: 160
   mage: 1
   range: 151
+  attributes: "flying"
 }
 npcs {
   ids: 7288
@@ -11418,6 +11433,7 @@ npcs {
   mage: 50
   range: 169
   strbns: 14
+  attributes: "flying"
 }
 npcs {
   ids: 3164
@@ -11430,6 +11446,7 @@ npcs {
   range: 150
   arange: 60
   rngbns: 35
+  attributes: "flying"
 }
 npcs {
   ids: 8584
@@ -26875,7 +26892,7 @@ npcs {
   range: 70
   attbns: 53
   strbns: 64
-  dstab: 140
+  dstab: 110
   dslash: 130
   dcrush: 135
   dmagic: 10
@@ -31765,7 +31782,7 @@ npcs {
   def: 90
   mage: 125
   range: 125
-  dstab: 70
+  dstab: 50
   dslash: 70
   dcrush: 70
   dmagic: 140
@@ -32608,7 +32625,7 @@ npcs {
   def: 90
   mage: 90
   range: 90
-  dstab: 70
+  dstab: 50
   dslash: 70
   dcrush: 70
   dmagic: 140
@@ -37490,6 +37507,7 @@ npcs {
   range: 100
   attbns: 45
   strbns: 25
+  attributes: "flying"
 }
 npcs {
   ids: 3996
