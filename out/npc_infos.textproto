@@ -20254,7 +20254,7 @@ npcs {
   def: 80
   attbns: 200
   strbns: 135
-  dstab: 85
+  dstab: 60
   dslash: 85
   dcrush: 90
   dmagic: 200
