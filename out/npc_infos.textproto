@@ -533,7 +533,7 @@ npcs {
   attbns: 100
   dstab: 100
   dslash: 100
-  dcrush: 100
+  dcrush: 60
   dmagic: 100
   drange: 100
 }
@@ -2435,7 +2435,7 @@ npcs {
 npcs {
   ids: 11715
   name: "Baboon Shaman"
-  hitpoints: 16
+  hitpoints: 50
   att: 60
   str: 60
   def: 20
@@ -8278,6 +8278,7 @@ npcs {
   mage: 100
   range: 140
   dmagic: 80
+  attributes: "flying"
 }
 npcs {
   ids: 3021
@@ -20431,6 +20432,7 @@ npcs {
   dslash: 180
   dcrush: 180
   dmagic: 200
+  attributes: "flying"
 }
 npcs {
   ids: 12443
@@ -27494,7 +27496,7 @@ npcs {
 npcs {
   ids: 6600
   name: "Runite Golem"
-  hitpoints: 170
+  hitpoints: 120
   att: 140
   str: 150
   def: 165
