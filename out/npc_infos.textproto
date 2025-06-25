@@ -36632,7 +36632,6 @@ npcs {
   ids: 12490
   name: "Warped Tortoise"
   hitpoints: 200
-  att: 78
   str: 106
   def: 78
   mage: 50
