@@ -9078,7 +9078,7 @@ npcs {
   ids: 12191
   name: "Duke Sucellus"
   version: "Awake"
-  hitpoints: 440
+  hitpoints: 485
   att: 300
   str: 345
   def: 275
@@ -9098,7 +9098,7 @@ npcs {
   ids: 12167
   name: "Duke Sucellus"
   version: "Asleep"
-  hitpoints: 440
+  hitpoints: 485
   att: 300
   str: 345
   def: 275
@@ -9117,7 +9117,7 @@ npcs {
   ids: 12192
   name: "Duke Sucellus"
   version: "Defeated"
-  hitpoints: 440
+  hitpoints: 485
   att: 300
   str: 345
   def: 275
@@ -33099,7 +33099,7 @@ npcs {
   ids: 14014
   name: "Hueycoatl tail"
   version: "Normal"
-  hitpoints: 400
+  hitpoints: 300
   att: 150
   str: 50
   def: 125
@@ -33120,7 +33120,7 @@ npcs {
   ids: 14015
   name: "Hueycoatl tail (broken)"
   version: "Broken"
-  hitpoints: 400
+  hitpoints: 300
   att: 150
   str: 50
   def: 125

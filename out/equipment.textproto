@@ -67545,7 +67545,7 @@ items {
       stab_defence: 2
       slash_defence: 2
       crush_defence: 2
-      ranged_defence: 8
+      ranged_defence: 12
       magic_defence: -2
     }
   }
@@ -67603,7 +67603,7 @@ items {
       stab_defence: 4
       slash_defence: 4
       crush_defence: 4
-      ranged_defence: 16
+      ranged_defence: 24
       magic_defence: -4
     }
   }
@@ -83461,7 +83461,7 @@ items {
       stab_defence: 4
       slash_defence: 4
       crush_defence: 4
-      ranged_defence: 16
+      ranged_defence: 24
       magic_defence: -4
     }
   }
@@ -89536,7 +89536,7 @@ items {
       stab_defence: 4
       slash_defence: 4
       crush_defence: 4
-      ranged_defence: 16
+      ranged_defence: 24
       magic_defence: -4
     }
   }
@@ -102005,7 +102005,7 @@ items {
     }
     weapon_details {
       base_attack_speed: 7
-      base_attack_range: 5
+      base_attack_range: 6
       combat_options {
         name: "Accurate"
         modifiers {
@@ -102048,7 +102048,7 @@ items {
     }
     weapon_details {
       base_attack_speed: 7
-      base_attack_range: 5
+      base_attack_range: 6
       combat_options {
         name: "Accurate"
         modifiers {
@@ -108214,6 +108214,72 @@ items {
       ranged_defence: 81
       magic_defence: -3
       melee_strength: 2
+    }
+  }
+}
+items {
+  key: 30891
+  value {
+    id: 30891
+    name: "Keris partisan of amascut"
+    stat_bonuses {
+      stab_attack: 58
+      slash_attack: -2
+      crush_attack: 57
+      magic_attack: 2
+      melee_strength: 45
+      prayer: 3
+    }
+    weapon_details {
+      base_attack_speed: 4
+      combat_options {
+        name: "Stab"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Lunge"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Pound"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 30895
+  value {
+    id: 30895
+    name: "Steel ring"
+    stat_bonuses {
+      stab_defence: 24
+      slash_defence: 24
+      crush_defence: 24
     }
   }
 }
