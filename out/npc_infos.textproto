@@ -30244,7 +30244,7 @@ npcs {
 npcs {
   ids: 1540
   name: "Skeleton heavy"
-  hitpoints: 124
+  hitpoints: 114
   att: 115
   str: 114
   def: 110
@@ -30369,7 +30369,7 @@ npcs {
 npcs {
   ids: 1541
   name: "Skeleton thug"
-  hitpoints: 124
+  hitpoints: 114
   att: 115
   str: 114
   def: 110
