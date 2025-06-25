@@ -8748,7 +8748,6 @@ npcs {
   dstab: 80
   dslash: 80
   dcrush: 80
-  drange: 85
   attributes: "undead, spectral"
 }
 npcs {
