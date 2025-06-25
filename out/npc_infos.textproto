@@ -19747,7 +19747,7 @@ npcs {
   ids: 5965
   name: "Khazard trooper"
   version: "Spear"
-  hitpoints: 21
+  hitpoints: 22
   att: 17
   str: 16
   def: 13
@@ -30328,7 +30328,7 @@ npcs {
 npcs {
   ids: 1537
   name: "Skeleton hero"
-  hitpoints: 124
+  hitpoints: 114
   att: 145
   str: 134
   def: 110
