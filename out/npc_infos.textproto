@@ -12968,7 +12968,6 @@ npcs {
   dslash: 99
   dcrush: 99
   dmagic: 159
-  drange: 149
   attributes: "kalphite"
 }
 npcs {
@@ -12985,7 +12984,6 @@ npcs {
   dslash: 99
   dcrush: 99
   dmagic: 159
-  drange: 149
   attributes: "kalphite"
 }
 npcs {
@@ -13160,7 +13158,6 @@ npcs {
   dslash: 110
   dcrush: 130
   dmagic: 125
-  drange: 100
 }
 npcs {
   ids: 6297
@@ -13176,7 +13173,6 @@ npcs {
   dslash: 110
   dcrush: 130
   dmagic: 125
-  drange: 100
 }
 npcs {
   ids: 7101
@@ -16627,7 +16623,6 @@ npcs {
   dslash: 18
   dcrush: 18
   dmagic: 6
-  drange: 52
   attributes: "undead"
 }
 npcs {
@@ -16644,7 +16639,6 @@ npcs {
   dslash: 18
   dcrush: 18
   dmagic: 6
-  drange: 52
   attributes: "undead"
 }
 npcs {
@@ -19653,9 +19647,9 @@ npcs {
   range: 1
   attbns: 10
   strbns: 14
-  dstab: 44
-  dslash: 38
-  dcrush: 30
+  dstab: 35
+  dslash: 29
+  dcrush: 21
 }
 npcs {
   ids: 1208
@@ -19669,9 +19663,9 @@ npcs {
   range: 1
   attbns: 10
   strbns: 14
-  dstab: 44
-  dslash: 38
-  dcrush: 30
+  dstab: 35
+  dslash: 29
+  dcrush: 21
 }
 npcs {
   ids: 12019
@@ -19686,9 +19680,9 @@ npcs {
   range: 1
   attbns: 10
   strbns: 14
-  dstab: 44
-  dslash: 38
-  dcrush: 30
+  dstab: 35
+  dslash: 29
+  dcrush: 21
 }
 npcs {
   ids: 12020
@@ -19702,9 +19696,9 @@ npcs {
   range: 1
   attbns: 10
   strbns: 14
-  dstab: 44
-  dslash: 38
-  dcrush: 30
+  dstab: 35
+  dslash: 29
+  dcrush: 21
 }
 npcs {
   ids: 1225
@@ -19743,32 +19737,32 @@ npcs {
   def: 12
   mage: 1
   range: 1
-  attbns: 8
-  strbns: 10
+  attbns: 9
+  strbns: 5
   dstab: 33
   dslash: 34
   dcrush: 29
   dmagic: -7
-  drange: 33
+  drange: -33
 }
 npcs {
   ids: 4970
   ids: 5965
   name: "Khazard trooper"
   version: "Spear"
-  hitpoints: 22
+  hitpoints: 21
   att: 17
-  str: 18
-  def: 12
+  str: 16
+  def: 13
   mage: 1
   range: 1
   attbns: 8
   strbns: 10
-  dstab: 33
-  dslash: 34
-  dcrush: 29
+  dstab: 25
+  dslash: 25
+  dcrush: 22
   dmagic: -7
-  drange: 33
+  drange: -25
 }
 npcs {
   ids: 7621
@@ -38418,7 +38412,6 @@ npcs {
   def: 10
   mage: 1
   range: 1
-  attbns: 5
   attributes: "undead"
 }
 npcs {
@@ -38431,7 +38424,6 @@ npcs {
   def: 10
   mage: 1
   range: 1
-  attbns: 5
   attributes: "undead"
 }
 npcs {
@@ -38444,7 +38436,6 @@ npcs {
   def: 10
   mage: 1
   range: 1
-  attbns: 5
   attributes: "undead"
 }
 npcs {
@@ -38457,7 +38448,6 @@ npcs {
   def: 10
   mage: 1
   range: 1
-  attbns: 5
   attributes: "undead"
 }
 npcs {
@@ -38470,7 +38460,6 @@ npcs {
   def: 10
   mage: 1
   range: 1
-  attbns: 5
   attributes: "undead"
 }
 npcs {
@@ -38483,7 +38472,6 @@ npcs {
   def: 10
   mage: 1
   range: 1
-  attbns: 5
   attributes: "undead"
 }
 npcs {
@@ -38496,7 +38484,6 @@ npcs {
   def: 10
   mage: 1
   range: 1
-  attbns: 5
   attributes: "undead"
 }
 npcs {
@@ -38509,7 +38496,6 @@ npcs {
   def: 10
   mage: 1
   range: 1
-  attbns: 5
   attributes: "undead"
 }
 npcs {
@@ -38522,7 +38508,6 @@ npcs {
   def: 10
   mage: 1
   range: 1
-  attbns: 5
   attributes: "undead"
 }
 npcs {
@@ -38535,7 +38520,6 @@ npcs {
   def: 10
   mage: 1
   range: 1
-  attbns: 5
   attributes: "undead"
 }
 npcs {
@@ -38548,7 +38532,6 @@ npcs {
   def: 10
   mage: 1
   range: 1
-  attbns: 5
   attributes: "undead"
 }
 npcs {
@@ -38561,7 +38544,6 @@ npcs {
   def: 10
   mage: 1
   range: 1
-  attbns: 5
   attributes: "undead"
 }
 npcs {
@@ -38574,7 +38556,6 @@ npcs {
   def: 10
   mage: 1
   range: 1
-  attbns: 5
   attributes: "undead"
 }
 npcs {

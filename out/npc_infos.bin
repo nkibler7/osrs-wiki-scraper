@@ -2246,10 +2246,10 @@ B
 à9Giant rockslug M(H0M8M@H
 A
 Giant Scarab ‚(©0¾8©@H¾€Fˆcc˜Ÿ •ªkalphite
-L
-Ç1Giant ScarabNormal Mode ‚(©0¾8©@H¾€Fˆcc˜Ÿ •ªkalphite
-Q
-çGiant Scarab (hard)	Hard Mode ÿ(±0Ö8©@HÖ€Fˆcc˜Ÿ •ªkalphite
+H
+Ç1Giant ScarabNormal Mode ‚(©0¾8©@H¾€Fˆcc˜Ÿªkalphite
+M
+çGiant Scarab (hard)	Hard Mode ÿ(±0Ö8©@HÖ€Fˆcc˜Ÿªkalphite
 $
 ÍGiant Sea Snake d(ª0Z8 @H‚
 ,
@@ -2280,10 +2280,10 @@ X
 –XGlacies ô(08È@ÈHh€dˆd˜– 2
 '
 ‰(Glod  (s0x8n@H€iˆn‚˜} d
-4
-Ö1GlodNormal Mode  (s0x8n@H€iˆn‚˜} d
-;
-™1Glod (hard)	Hard Mode ÿ(æ0ğ8n@H€iˆn‚˜} d
+1
+Ö1GlodNormal Mode  (s0x8n@H€iˆn‚˜}
+8
+™1Glod (hard)	Hard Mode ÿ(æ0ğ8n@H€iˆn‚˜}
 .
 ½7¾7¿7Glough ¿(„08ø@úH†PzXK`Ph(pdx(
 H
@@ -2761,10 +2761,10 @@ Head Thief %(08HX
 €ˆ˜ 	
 8
 ŠRHeadless Beast d(<0V8*@*H€ˆ˜ 4ªundead
-E
-ıQHeadless BeastNormal Mode d(<0V8*@*H€ˆ˜ 4ªundead
-M
-üQHeadless Beast (hard)	Hard Mode À(È0ğ8*@*H€ˆ˜ 4ªundead
+B
+ıQHeadless BeastNormal Mode d(<0V8*@*H€ˆ˜ªundead
+J
+üQHeadless Beast (hard)	Hard Mode À(È0ğ8*@*H€ˆ˜ªundead
 0
 hiØ8	Hellhound	Level 122 t(i0h8f@Hªdemon
 .
@@ -3260,26 +3260,25 @@ P
 ì&Khazard commander (20-82@H
 =
 »	õ]ö]ø]Khazard Guard	Khazard 1 (08@HP
-X€,ˆ&
+X€#ˆ
 7
 ¸	Khazard Guard	Khazard 2 (08@HP
-X€,ˆ&
+X€#ˆ
 9
 ó]÷]Khazard Guard	Khazard 3 (08@HP
-X€,ˆ&
+X€#ˆ
 7
 ô]Khazard Guard	Khazard 4 (08@HP
-X€,ˆ&
+X€#ˆ
 "
 É	Khazard Ogre <(60585@HPX
 .
 Ê	Khazard Scorpion (((0'8"@H€ˆ 
-E
-é&Ì.Khazard trooperMace (08@HPX
-€!ˆ"˜ùÿÿÿÿÿÿÿÿ !
-F
-ê&Í.Khazard trooperSpear (08@HPX
-€!ˆ"˜ùÿÿÿÿÿÿÿÿ !
+N
+é&Ì.Khazard trooperMace (08@HP	X€!ˆ"˜ùÿÿÿÿÿÿÿÿ ßÿÿÿÿÿÿÿÿ
+O
+ê&Í.Khazard trooperSpear (08@HPX
+€ˆ˜ùÿÿÿÿÿÿÿÿ çÿÿÿÿÿÿÿÿ
 $
 Å;Æ;Khazard warlord ª(K0N8P@H
 /
@@ -6317,45 +6316,45 @@ R
 0
 8
 @H€ëÿÿÿÿÿÿÿÿˆëÿÿÿÿÿÿÿÿëÿÿÿÿÿÿÿÿ˜ëÿÿÿÿÿÿÿÿ ëÿÿÿÿÿÿÿÿ
-/
+-
 ZombieLevel 13, 1 (0	8
-@HPªundead
-/
+@Hªundead
+-
 ZombieLevel 13, 2 (0	8
-@HPªundead
-/
+@Hªundead
+-
 ZombieLevel 13, 3 (0	8
-@HPªundead
-/
+@Hªundead
+-
 ZombieLevel 13, 4 (0	8
-@HPªundead
-/
+@Hªundead
+-
 ZombieLevel 13, 5 (0	8
-@HPªundead
-/
+@Hªundead
+-
 ZombieLevel 13, 6 (0	8
-@HPªundead
-/
+@Hªundead
+-
  ZombieLevel 13, 7 (0	8
-@HPªundead
-/
+@Hªundead
+-
 "ZombieLevel 13, 8 (0	8
-@HPªundead
-/
+@Hªundead
+-
 %ZombieLevel 13, 9 (0	8
-@HPªundead
-0
+@Hªundead
+.
 &ZombieLevel 13, 10 (0	8
-@HPªundead
-0
+@Hªundead
+.
 'ZombieLevel 13, 11 (0	8
-@HPªundead
-0
+@Hªundead
+.
 (ZombieLevel 13, 12 (0	8
-@HPªundead
-0
+@Hªundead
+.
 )ZombieLevel 13, 13 (0	8
-@HPªundead
+@Hªundead
 /
 *ZombieLevel 18, 1 (08@HPªundead
 /
