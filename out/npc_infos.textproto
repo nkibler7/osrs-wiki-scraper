@@ -33700,7 +33700,6 @@ npcs {
   def: 15
   range: 60
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 525
