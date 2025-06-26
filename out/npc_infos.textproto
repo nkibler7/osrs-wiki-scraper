@@ -7421,7 +7421,7 @@ npcs {
 npcs {
   ids: 11717
   name: "Cursed Baboon"
-  hitpoints: 10
+  hitpoints: 30
   att: 60
   str: 60
   def: 20
