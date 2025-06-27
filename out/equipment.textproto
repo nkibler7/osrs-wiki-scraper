@@ -108222,16 +108222,7 @@ items {
   value {
     id: 30891
     name: "Keris partisan of amascut"
-    stat_bonuses {
-      stab_attack: 108
-      slash_attack: -2
-      crush_attack: 57
-      magic_attack: 2
-      melee_strength: 67
-      prayer: 3
-    }
     weapon_details {
-      base_attack_speed: 4
       combat_options {
         name: "Stab"
         modifiers {

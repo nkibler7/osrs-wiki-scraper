@@ -3992,6 +3992,13 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
+  name: "Black Eye Bethel"
+  hitpoints: 180
+  att: 170
+  def: 100
+  mage: 80
+}
+npcs {
   ids: 4742
   name: "Black golem"
   hitpoints: 80
@@ -9621,6 +9628,20 @@ npcs {
   def: 65
   mage: 110
   range: 1
+}
+npcs {
+  name: "Elder Hubber"
+  hitpoints: 60
+  att: 90
+  def: 50
+  mage: 40
+}
+npcs {
+  name: "Elder Root"
+  hitpoints: 60
+  att: 90
+  def: 50
+  mage: 40
 }
 npcs {
   ids: 14147
@@ -34720,6 +34741,13 @@ npcs {
   dcrush: 15
   drange: 15
   attributes: "undead, spectral"
+}
+npcs {
+  name: "Two-headed Gryphon"
+  hitpoints: 350
+  att: 160
+  def: 100
+  mage: 60
 }
 npcs {
   ids: 9295
