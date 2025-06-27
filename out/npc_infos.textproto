@@ -31060,7 +31060,7 @@ npcs {
   dstab: 15
   dslash: 250
   dcrush: 30
-  dmagic: 10
+  dmagic: -15
   attributes: "kalphite"
 }
 npcs {
