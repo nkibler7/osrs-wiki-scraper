@@ -16863,6 +16863,7 @@ npcs {
 }
 npcs {
   ids: 2098
+  ids: 13502
   name: "Hill Giant"
   version: "1"
   hitpoints: 35
@@ -16876,6 +16877,7 @@ npcs {
 }
 npcs {
   ids: 2099
+  ids: 13503
   name: "Hill Giant"
   version: "2"
   hitpoints: 35
@@ -16889,6 +16891,7 @@ npcs {
 }
 npcs {
   ids: 2100
+  ids: 13504
   name: "Hill Giant"
   version: "3"
   hitpoints: 35
