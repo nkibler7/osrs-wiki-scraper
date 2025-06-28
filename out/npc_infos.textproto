@@ -17643,54 +17643,6 @@ npcs {
   dcrush: 30
 }
 npcs {
-  ids: 1877
-  ids: 5831
-  name: "Ice troll grunt"
-  hitpoints: 80
-  att: 100
-  str: 100
-  def: 60
-  mage: 1
-  range: 1
-  attbns: 60
-  strbns: 60
-  dstab: 30
-  dslash: 60
-  dcrush: 30
-}
-npcs {
-  ids: 1877
-  ids: 5831
-  name: "Ice troll grunt"
-  hitpoints: 80
-  att: 100
-  str: 100
-  def: 60
-  mage: 1
-  range: 1
-  attbns: 60
-  strbns: 60
-  dstab: 30
-  dslash: 60
-  dcrush: 30
-}
-npcs {
-  ids: 1877
-  ids: 5831
-  name: "Ice troll grunt"
-  hitpoints: 80
-  att: 100
-  str: 100
-  def: 60
-  mage: 1
-  range: 1
-  attbns: 60
-  strbns: 60
-  dstab: 30
-  dslash: 60
-  dcrush: 30
-}
-npcs {
   ids: 5822
   name: "Ice Troll King"
   hitpoints: 150
