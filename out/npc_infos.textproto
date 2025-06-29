@@ -37923,7 +37923,7 @@ npcs {
   ids: 8610
   name: "Wyrm"
   version: "Idle"
-  hitpoints: 130
+  hitpoints: 120
   att: 85
   str: 60
   def: 80
@@ -37941,7 +37941,7 @@ npcs {
   ids: 8611
   name: "Wyrm"
   version: "Attacking"
-  hitpoints: 130
+  hitpoints: 120
   att: 85
   str: 60
   def: 80
