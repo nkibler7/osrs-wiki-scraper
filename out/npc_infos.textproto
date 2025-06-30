@@ -5988,7 +5988,7 @@ npcs {
   ids: 10689
   name: "Chaos Golem"
   version: "Golem"
-  hitpoints: 94
+  hitpoints: 71
   att: 45
   str: 55
   def: 59
@@ -6005,7 +6005,7 @@ npcs {
   ids: 10690
   name: "Rubble"
   version: "Rubble"
-  hitpoints: 94
+  hitpoints: 71
   att: 45
   str: 55
   def: 59
@@ -16330,7 +16330,7 @@ npcs {
 npcs {
   ids: 10400
   name: "Guardian Drake"
-  hitpoints: 630
+  hitpoints: 590
   att: 270
   str: 280
   def: 200
