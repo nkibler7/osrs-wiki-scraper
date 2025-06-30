@@ -8960,7 +8960,7 @@ npcs {
   ids: 8612
   ids: 8613
   name: "Drake"
-  hitpoints: 250
+  hitpoints: 225
   att: 140
   str: 118
   def: 120
@@ -8969,7 +8969,7 @@ npcs {
   strbns: 12
   arange: 40
   rngbns: 40
-  dstab: 20
+  dstab: 5
   dslash: 60
   dcrush: 60
   dmagic: 20
@@ -26935,7 +26935,7 @@ npcs {
   mbns: 35
   arange: 60
   rngbns: 51
-  dstab: 201
+  dstab: 143
   dslash: 206
   dcrush: 188
   dmagic: 101
@@ -28556,7 +28556,7 @@ npcs {
   ids: 10398
   name: "Shadow Wyrm"
   version: "Idle"
-  hitpoints: 320
+  hitpoints: 290
   att: 300
   str: 180
   def: 125
@@ -28575,7 +28575,7 @@ npcs {
   ids: 10399
   name: "Shadow Wyrm"
   version: "Attacking"
-  hitpoints: 320
+  hitpoints: 290
   att: 300
   str: 180
   def: 125
