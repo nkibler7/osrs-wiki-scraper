@@ -27031,7 +27031,7 @@ npcs {
   mbns: 30
   arange: 55
   rngbns: 45
-  dstab: 195
+  dstab: 145
   dslash: 200
   dcrush: 180
   dmagic: 95
