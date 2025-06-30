@@ -26891,7 +26891,7 @@ npcs {
   strbns: 60
   arange: 45
   rngbns: 45
-  dstab: 153
+  dstab: 113
   dslash: 152
   dcrush: 155
   dmagic: 70
@@ -27072,7 +27072,7 @@ npcs {
   attbns: 60
   strbns: 55
   arange: 50
-  dstab: 148
+  dstab: 118
   dslash: 150
   dcrush: 146
   dmagic: 50
