@@ -28153,6 +28153,8 @@ npcs {
   name: "Sea hawk"
   hitpoints: 80
   att: 70
+  str: 50
+  mage: 1
 }
 npcs {
   name: "Sea kraken (Air)"
