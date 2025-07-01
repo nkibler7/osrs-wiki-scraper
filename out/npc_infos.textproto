@@ -11123,7 +11123,6 @@ npcs {
   dslash: 73
   dcrush: 72
   dmagic: -3
-  drange: 72
   attributes: "spectral"
 }
 npcs {
