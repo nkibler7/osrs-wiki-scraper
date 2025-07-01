@@ -2750,8 +2750,12 @@ npcs {
 npcs {
   name: "Baby sea kraken"
   hitpoints: 50
+  att: 1
+  str: 1
   def: 75
   mage: 60
+  range: 1
+  dmagic: -63
 }
 npcs {
   ids: 5853
