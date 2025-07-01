@@ -25963,8 +25963,12 @@ npcs {
 npcs {
   name: "Pygmy kraken"
   hitpoints: 30
+  att: 1
+  str: 1
   def: 30
   mage: 40
+  range: 1
+  dmagic: -63
 }
 npcs {
   ids: 433
