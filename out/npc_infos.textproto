@@ -10866,7 +10866,6 @@ npcs {
   dslash: 70
   dcrush: 60
   dmagic: 60
-  drange: 55
 }
 npcs {
   name: "Famished shark"
