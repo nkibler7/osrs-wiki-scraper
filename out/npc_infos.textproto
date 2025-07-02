@@ -2452,7 +2452,7 @@ npcs {
 npcs {
   ids: 11715
   name: "Baboon Shaman"
-  hitpoints: 50
+  hitpoints: 40
   att: 60
   str: 60
   def: 20
@@ -7432,7 +7432,7 @@ npcs {
 npcs {
   ids: 11717
   name: "Cursed Baboon"
-  hitpoints: 30
+  hitpoints: 20
   att: 60
   str: 60
   def: 20
