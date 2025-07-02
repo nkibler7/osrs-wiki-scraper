@@ -108270,7 +108270,7 @@ items {
     stat_bonuses {
       stab_defence: 24
       slash_defence: 24
-      crush_defence: 2
+      crush_defence: 24
     }
   }
 }
