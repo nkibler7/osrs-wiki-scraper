@@ -681,6 +681,12 @@ npcs {
   att: 70
 }
 npcs {
+  hitpoints: 80
+  att: 70
+  str: 50
+  mage: 1
+}
+npcs {
   ids: 1039
   name: "Albino bat"
   hitpoints: 33
