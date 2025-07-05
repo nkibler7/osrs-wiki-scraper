@@ -16343,7 +16343,7 @@ npcs {
   range: 240
   strbns: 12
   arange: 40
-  dstab: 60
+  dstab: 20
   dslash: 100
   dcrush: 100
   dmagic: 20
