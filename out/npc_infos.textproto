@@ -19124,7 +19124,6 @@ npcs {
   dslash: 25
   dcrush: 5
   dmagic: 50
-  drange: 50
   attributes: "kalphite"
 }
 npcs {
@@ -19141,7 +19140,6 @@ npcs {
   dslash: 25
   dcrush: 5
   dmagic: 50
-  drange: 50
   attributes: "kalphite"
 }
 npcs {
@@ -19157,7 +19155,6 @@ npcs {
   dslash: 25
   dcrush: 5
   dmagic: 50
-  drange: 50
   attributes: "kalphite"
 }
 npcs {
@@ -19244,7 +19241,6 @@ npcs {
   dslash: 25
   dcrush: 5
   dmagic: 50
-  drange: 50
   attributes: "kalphite"
 }
 npcs {
@@ -19261,7 +19257,6 @@ npcs {
   dslash: 25
   dcrush: 5
   dmagic: 50
-  drange: 50
   attributes: "kalphite"
 }
 npcs {
