@@ -21202,7 +21202,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 140
-  drange: 120
   attributes: "dragon"
 }
 npcs {
