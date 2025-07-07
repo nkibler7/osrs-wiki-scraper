@@ -36636,12 +36636,12 @@ npcs {
   ids: 12490
   name: "Warped Tortoise"
   hitpoints: 200
+  att: 78
   str: 106
   def: 78
   mage: 50
   dstab: 50
   dslash: 50
-  drange: 60
 }
 npcs {
   ids: 3950
