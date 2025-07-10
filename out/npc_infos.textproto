@@ -8311,7 +8311,7 @@ npcs {
   mage: 100
   range: 140
   dmagic: 80
-  attributes: "flying"
+  attributes: "Flying"
 }
 npcs {
   ids: 3021
