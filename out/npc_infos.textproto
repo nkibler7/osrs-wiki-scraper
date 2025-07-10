@@ -12228,6 +12228,9 @@ npcs {
   drange: 50
 }
 npcs {
+  name: "Gemstone Crab"
+}
+npcs {
   ids: 2215
   name: "General Graardor"
   hitpoints: 255
