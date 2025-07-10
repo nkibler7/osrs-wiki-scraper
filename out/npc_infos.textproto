@@ -1743,7 +1743,7 @@ npcs {
   ids: 14118
   name: "Armoured zombie"
   version: "Ranged, 1"
-  hitpoints: 110
+  hitpoints: 95
   att: 106
   str: 94
   def: 68
@@ -1757,7 +1757,7 @@ npcs {
   ids: 14119
   name: "Armoured zombie"
   version: "Ranged, 2"
-  hitpoints: 110
+  hitpoints: 95
   att: 106
   str: 94
   def: 68
@@ -1771,7 +1771,7 @@ npcs {
   ids: 14120
   name: "Armoured zombie"
   version: "Ranged, 3"
-  hitpoints: 110
+  hitpoints: 95
   att: 106
   str: 94
   def: 68
@@ -1785,7 +1785,7 @@ npcs {
   ids: 14121
   name: "Armoured zombie"
   version: "Ranged, 4"
-  hitpoints: 110
+  hitpoints: 95
   att: 106
   str: 94
   def: 68
@@ -1799,7 +1799,7 @@ npcs {
   ids: 14122
   name: "Armoured zombie"
   version: "Ranged, 5"
-  hitpoints: 110
+  hitpoints: 95
   att: 106
   str: 94
   def: 68
