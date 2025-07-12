@@ -4026,11 +4026,62 @@ npcs {
 }
 npcs {
   ids: 1409
+  name: "Black Guard"
+  version: "Level 25, 1"
+  hitpoints: 30
+  att: 20
+  str: 20
+  def: 20
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 7
+  dstab: 3
+  dslash: 4
+  dcrush: 4
+  dmagic: 2
+  drange: 3
+}
+npcs {
   ids: 1410
+  name: "Black Guard"
+  version: "Level 25, 2"
+  hitpoints: 30
+  att: 20
+  str: 20
+  def: 20
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 7
+  dstab: 3
+  dslash: 4
+  dcrush: 4
+  dmagic: 2
+  drange: 3
+}
+npcs {
   ids: 1411
+  name: "Black Guard"
+  version: "Level 25, 3"
+  hitpoints: 30
+  att: 20
+  str: 20
+  def: 20
+  mage: 1
+  range: 1
+  attbns: 5
+  strbns: 7
+  dstab: 3
+  dslash: 4
+  dcrush: 4
+  dmagic: 2
+  drange: 3
+}
+npcs {
   ids: 1412
   name: "Black Guard"
-  version: "Level 25"
+  version: "Level 25, 4"
   hitpoints: 30
   att: 20
   str: 20
@@ -4047,14 +4098,59 @@ npcs {
 }
 npcs {
   ids: 6046
-  ids: 6047
-  ids: 6048
-  ids: 6049
-  ids: 8474
-  ids: 8475
-  ids: 8476
   name: "Black Guard"
-  version: "Level 48"
+  version: "Level 48, 1"
+  hitpoints: 40
+  att: 40
+  str: 45
+  def: 45
+  mage: 1
+  range: 1
+  attbns: 30
+  strbns: 30
+  dstab: 40
+  dslash: 40
+  dcrush: 40
+  drange: 40
+}
+npcs {
+  ids: 6047
+  name: "Black Guard"
+  version: "Level 48, 2"
+  hitpoints: 40
+  att: 40
+  str: 45
+  def: 45
+  mage: 1
+  range: 1
+  attbns: 30
+  strbns: 30
+  dstab: 40
+  dslash: 40
+  dcrush: 40
+  drange: 40
+}
+npcs {
+  ids: 6048
+  name: "Black Guard"
+  version: "Level 48, 3"
+  hitpoints: 40
+  att: 40
+  str: 45
+  def: 45
+  mage: 1
+  range: 1
+  attbns: 30
+  strbns: 30
+  dstab: 40
+  dslash: 40
+  dcrush: 40
+  drange: 40
+}
+npcs {
+  ids: 6049
+  name: "Black Guard"
+  version: "Level 48, 4"
   hitpoints: 40
   att: 40
   str: 45
