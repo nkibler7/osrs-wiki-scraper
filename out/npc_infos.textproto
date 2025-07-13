@@ -11680,7 +11680,7 @@ npcs {
   ids: 10537
   name: "Forgotten Soul"
   version: "Level 76"
-  hitpoints: 77
+  hitpoints: 80
   att: 80
   str: 70
   def: 30
@@ -29256,7 +29256,7 @@ npcs {
 npcs {
   ids: 74
   name: "Skeleton"
-  version: "1"
+  version: "1 (Unarmed)"
   hitpoints: 24
   att: 17
   str: 17
@@ -29271,7 +29271,7 @@ npcs {
 npcs {
   ids: 75
   name: "Skeleton"
-  version: "2"
+  version: "2 (Plain)"
   hitpoints: 24
   att: 17
   str: 17
@@ -29286,7 +29286,7 @@ npcs {
 npcs {
   ids: 76
   name: "Skeleton"
-  version: "3"
+  version: "3 (Plain)"
   hitpoints: 24
   att: 17
   str: 17
@@ -29301,7 +29301,7 @@ npcs {
 npcs {
   ids: 70
   name: "Skeleton"
-  version: "1"
+  version: "1 (Unarmed)"
   hitpoints: 29
   att: 15
   str: 18
@@ -29316,7 +29316,7 @@ npcs {
 npcs {
   ids: 71
   name: "Skeleton"
-  version: "2"
+  version: "2 (Plain)"
   hitpoints: 29
   att: 15
   str: 18
@@ -29331,7 +29331,7 @@ npcs {
 npcs {
   ids: 72
   name: "Skeleton"
-  version: "3"
+  version: "3 (Plain)"
   hitpoints: 29
   att: 15
   str: 18
@@ -29346,7 +29346,7 @@ npcs {
 npcs {
   ids: 73
   name: "Skeleton"
-  version: "4"
+  version: "4 (Plain)"
   hitpoints: 29
   att: 15
   str: 18
@@ -29361,7 +29361,7 @@ npcs {
 npcs {
   ids: 77
   name: "Skeleton"
-  version: "1"
+  version: "1 (Armed)"
   hitpoints: 17
   att: 24
   str: 24
@@ -29379,7 +29379,7 @@ npcs {
 npcs {
   ids: 78
   name: "Skeleton"
-  version: "2"
+  version: "2 (Plain)"
   hitpoints: 17
   att: 24
   str: 24
@@ -29397,7 +29397,7 @@ npcs {
 npcs {
   ids: 79
   name: "Skeleton"
-  version: "3"
+  version: "3 (Plain)"
   hitpoints: 17
   att: 24
   str: 24
@@ -29415,7 +29415,7 @@ npcs {
 npcs {
   ids: 80
   name: "Skeleton"
-  version: "4"
+  version: "4 (Plain)"
   hitpoints: 17
   att: 24
   str: 24
@@ -29433,7 +29433,7 @@ npcs {
 npcs {
   ids: 81
   name: "Skeleton"
-  version: "5"
+  version: "5 (Plain)"
   hitpoints: 17
   att: 24
   str: 24
@@ -29451,7 +29451,7 @@ npcs {
 npcs {
   ids: 82
   name: "Skeleton"
-  version: "1"
+  version: "1 (Armed)"
   hitpoints: 59
   att: 32
   str: 35
@@ -29469,7 +29469,7 @@ npcs {
 npcs {
   ids: 83
   name: "Skeleton"
-  version: "2"
+  version: "2 (Plain)"
   hitpoints: 59
   att: 32
   str: 35
