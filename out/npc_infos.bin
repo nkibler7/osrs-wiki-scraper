@@ -753,10 +753,10 @@ $
 ¯AÅTÍTBlood spawnEntry (0H
 %
 ¯AÅTÍTBlood spawnNormal x(0H
-3
-äåæç	BloodveldStandard x(K0-8@Hªdemon
-.
-Â	BloodveldGod Wars †(P0.8@Hªdemon
+1
+äåæç	BloodveldNormal x(K0-8@Hªdemon
+)
+Â	BloodveldGWD †(P0.8@Hªdemon
 
 Ž	Bloodworm -(P08#@H
 ;
@@ -2984,10 +2984,10 @@ J
 ÕIcelordMelee, 3 <((0(8(@H
 !
 ÔIcelordRanged <((0(8(@H
-x
-'ImpRegular (08@HPÖÿÿÿÿÿÿÿÿXÛÿÿÿÿÿÿÿÿ€ÖÿÿÿÿÿÿÿÿˆÖÿÿÿÿÿÿÿÿÖÿÿÿÿÿÿÿÿ˜Öÿÿÿÿÿÿÿÿ Öÿÿÿÿÿÿÿÿªdemon
-y
-¾ImpGod Wars 
+w
+'ImpNormal (08@HPÖÿÿÿÿÿÿÿÿXÛÿÿÿÿÿÿÿÿ€ÖÿÿÿÿÿÿÿÿˆÖÿÿÿÿÿÿÿÿÖÿÿÿÿÿÿÿÿ˜Öÿÿÿÿÿÿÿÿ Öÿÿÿÿÿÿÿÿªdemon
+t
+¾ImpGWD 
 (08@HPÖÿÿÿÿÿÿÿÿXÛÿÿÿÿÿÿÿÿ€ÖÿÿÿÿÿÿÿÿˆÖÿÿÿÿÿÿÿÿÖÿÿÿÿÿÿÿÿ˜Öÿÿÿÿÿÿÿÿ Öÿÿÿÿÿÿÿÿªdemon
 
 ›Imp Champion ((08@H
@@ -4291,13 +4291,13 @@ H
 ØkPrince Itzla Arkan ú(–0n8K@7HP–€ˆ˜
 
 &Pygmy kraken (08@(H˜Áÿÿÿÿÿÿÿÿ
-B
-±²³´	PyrefiendRegular -(408@H€
+C
+±²³´	PyrefiendLevel 43 -(408@H€
 ˆ
 
 ªfiery, demon
-8
-Ã	PyrefiendGWD 0(<0$8@H€
+=
+Ã	PyrefiendLevel 48 0(<0$8@H€
 ˆ
 
 ªfiery, demon

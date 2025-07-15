@@ -4610,7 +4610,7 @@ npcs {
   ids: 486
   ids: 487
   name: "Bloodveld"
-  version: "Standard"
+  version: "Normal"
   hitpoints: 120
   att: 75
   str: 45
@@ -4622,7 +4622,7 @@ npcs {
 npcs {
   ids: 3138
   name: "Bloodveld"
-  version: "God Wars"
+  version: "GWD"
   hitpoints: 134
   att: 80
   str: 46
@@ -18093,7 +18093,7 @@ npcs {
 npcs {
   ids: 5007
   name: "Imp"
-  version: "Regular"
+  version: "Normal"
   hitpoints: 8
   att: 1
   str: 1
@@ -18112,7 +18112,7 @@ npcs {
 npcs {
   ids: 3134
   name: "Imp"
-  version: "God Wars"
+  version: "GWD"
   hitpoints: 10
   att: 5
   str: 5
@@ -26146,7 +26146,7 @@ npcs {
   ids: 435
   ids: 436
   name: "Pyrefiend"
-  version: "Regular"
+  version: "Level 43"
   hitpoints: 45
   att: 52
   str: 30
@@ -26161,7 +26161,7 @@ npcs {
 npcs {
   ids: 3139
   name: "Pyrefiend"
-  version: "GWD"
+  version: "Level 48"
   hitpoints: 48
   att: 60
   str: 36
