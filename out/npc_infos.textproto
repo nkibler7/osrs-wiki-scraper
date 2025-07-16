@@ -12857,6 +12857,13 @@ npcs {
   drange: 5
 }
 npcs {
+  name: "Giant lobster"
+  hitpoints: 100
+  att: 80
+  def: 60
+  mage: 20
+}
+npcs {
   ids: 5779
   name: "Giant Mole"
   hitpoints: 200
@@ -25701,6 +25708,38 @@ npcs {
   attbns: 10
   strbns: 9
   dslash: 1
+}
+npcs {
+  name: "Pirate"
+  version: "1"
+  hitpoints: 38
+  att: 54
+  def: 35
+  mage: 10
+}
+npcs {
+  name: "Pirate"
+  version: "2"
+  hitpoints: 38
+  att: 54
+  def: 35
+  mage: 10
+}
+npcs {
+  name: "Pirate"
+  version: "3"
+  hitpoints: 38
+  att: 54
+  def: 35
+  mage: 10
+}
+npcs {
+  name: "Pirate"
+  version: "4"
+  hitpoints: 38
+  att: 54
+  def: 35
+  mage: 10
 }
 npcs {
   ids: 4926
