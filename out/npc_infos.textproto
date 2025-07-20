@@ -13098,7 +13098,6 @@ npcs {
   dslash: 99
   dcrush: 99
   dmagic: 159
-  drange: 149
   attributes: "kalphite"
 }
 npcs {
@@ -31454,7 +31453,6 @@ npcs {
   dslash: 50
   dcrush: 20
   dmagic: -10
-  drange: 150
 }
 npcs {
   name: "Spawn sharhai"
