@@ -9004,6 +9004,18 @@ npcs {
   dcrush: 10
 }
 npcs {
+  name: "Doom of Mokhaiotl"
+  version: "Normal"
+}
+npcs {
+  name: "Doom of Mokhaiotl"
+  version: "Delve 1"
+}
+npcs {
+  name: "Doom of Mokhaiotl"
+  version: "Delve 8"
+}
+npcs {
   ids: 8995
   name: "Doomion"
   hitpoints: 87
