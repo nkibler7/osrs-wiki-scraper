@@ -14579,6 +14579,13 @@ npcs {
   range: 1
 }
 npcs {
+  name: "Gryphon"
+  hitpoints: 150
+  att: 65
+  def: 50
+  mage: 50
+}
+npcs {
   ids: 3254
   name: "Guard"
   version: "Edgeville 1"
@@ -33866,6 +33873,14 @@ npcs {
   def: 80
   mage: 1
   range: 1
+}
+npcs {
+  name: "Three-headed Gryphon"
+  hitpoints: 400
+  att: 160
+  def: 120
+  mage: 100
+  range: 150
 }
 npcs {
   ids: 931
