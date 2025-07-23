@@ -9804,6 +9804,7 @@ npcs {
   def: 40
   mage: 40
   range: 1
+  attbns: 100
   dstab: 30
   dslash: 50
   dcrush: 50
@@ -9876,20 +9877,6 @@ npcs {
   def: 65
   mage: 110
   range: 1
-}
-npcs {
-  name: "Elder Custodia Stalker"
-  hitpoints: 170
-  att: 120
-  str: 90
-  def: 45
-  mage: 75
-  range: 1
-  mbns: 25
-  dstab: 30
-  dslash: -10
-  dcrush: 50
-  dmagic: 35
 }
 npcs {
   ids: 14704
@@ -32530,6 +32517,7 @@ npcs {
   dmagic: 280
 }
 npcs {
+  ids: 14706
   name: "Strange creature"
   hitpoints: 100
   att: 95
