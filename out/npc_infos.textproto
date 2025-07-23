@@ -7615,49 +7615,6 @@ npcs {
   drange: -50
 }
 npcs {
-  ids: 14702
-  name: "Juvenile custodian stalker"
-  version: "Juvenile"
-  hitpoints: 135
-  att: 95
-  str: 55
-  def: 45
-  mage: 25
-  range: 1
-  mbns: 25
-  dstab: 30
-  dslash: -10
-  dcrush: 50
-  dmagic: 35
-}
-npcs {
-  ids: 14703
-  name: "Mature custodian stalker"
-  version: "Mature"
-  range: 1
-  mbns: 25
-  dstab: 30
-  dslash: -10
-  dcrush: 50
-  dmagic: 35
-}
-npcs {
-  ids: 14704
-  name: "Elder custodian stalker"
-  version: "Elder"
-  hitpoints: 250
-  att: 120
-  str: 90
-  def: 45
-  mage: 75
-  range: 1
-  mbns: 25
-  dstab: 30
-  dslash: -10
-  dcrush: 50
-  dmagic: 35
-}
-npcs {
   ids: 12957
   name: "Cuthbert, Lord of Dread"
   hitpoints: 1
@@ -9940,7 +9897,7 @@ npcs {
   def: 45
   mage: 75
   range: 1
-  mbns: 25
+  amagic: 5
   dstab: 30
   dslash: -10
   dcrush: 50
@@ -19449,8 +19406,10 @@ npcs {
   name: "Juvenile custodian stalker"
   hitpoints: 135
   att: 95
+  str: 55
   def: 45
   mage: 25
+  range: 1
   amagic: 5
   dstab: 30
   dslash: -10
@@ -24525,7 +24484,10 @@ npcs {
   name: "Ocelot"
   hitpoints: 40
   att: 30
+  str: 25
   def: 30
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 4108

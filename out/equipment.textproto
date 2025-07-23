@@ -108504,11 +108504,11 @@ items {
       crush_attack: 15
       ranged_attack: 9
       magic_attack: 9
-      stab_defence: -15
-      slash_defence: -15
-      crush_defence: -15
-      ranged_defence: -15
-      magic_defence: -15
+      stab_defence: -25
+      slash_defence: -25
+      crush_defence: -25
+      ranged_defence: -25
+      magic_defence: -25
       melee_strength: 5
       ranged_strength: 2
       prayer: 4
