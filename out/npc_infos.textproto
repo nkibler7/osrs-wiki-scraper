@@ -9811,12 +9811,15 @@ npcs {
   name: "Earthen Nagua"
   hitpoints: 160
   att: 120
+  str: 120
   def: 40
   mage: 40
+  range: 1
   dstab: 30
   dslash: 50
   dcrush: 50
   dmagic: 60
+  attributes: "spectral"
 }
 npcs {
   ids: 13012
@@ -9900,7 +9903,7 @@ npcs {
   dmagic: 35
 }
 npcs {
-  ids: 13033
+  ids: 14704
   name: "Elder custodian stalker"
   hitpoints: 250
   att: 120
@@ -21629,6 +21632,7 @@ npcs {
   name: "Lucius"
   hitpoints: 180
   att: 70
+  str: 70
   def: 70
   mage: 200
   range: 60
