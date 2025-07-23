@@ -7615,7 +7615,7 @@ npcs {
   drange: -50
 }
 npcs {
-  name: "Elder custodia Stalker"
+  name: "Elder custodian Stalker"
   hitpoints: 250
   att: 120
   str: 90
@@ -10770,10 +10770,12 @@ npcs {
 npcs {
   ids: 14268
   name: "Emissary Enforcer"
-  hitpoints: 180
+  hitpoints: 126
   att: 220
+  str: 170
   def: 100
   mage: 80
+  range: 1
   dstab: 70
   dslash: 80
   dcrush: 50
@@ -19396,6 +19398,19 @@ npcs {
   drange: 200
 }
 npcs {
+  ids: 14702
+  name: "Juvenile custodian stalker"
+  hitpoints: 135
+  att: 95
+  def: 45
+  mage: 25
+  amagic: 5
+  dstab: 30
+  dslash: -10
+  dcrush: 50
+  dmagic: 35
+}
+npcs {
   ids: 3129
   name: "K\'ril Tsutsaroth"
   hitpoints: 255
@@ -22061,6 +22076,19 @@ npcs {
   dcrush: 19
   dmagic: 4
   drange: 16
+}
+npcs {
+  ids: 14703
+  name: "Mature custodian stalker"
+  hitpoints: 190
+  att: 105
+  def: 45
+  mage: 40
+  amagic: 15
+  dstab: 30
+  dslash: -10
+  dcrush: 50
+  dmagic: 35
 }
 npcs {
   ids: 785
