@@ -108274,6 +108274,20 @@ items {
   }
 }
 items {
+  key: 30947
+  value {
+    id: 30947
+    name: "Potato sack"
+    stat_bonuses {
+      stab_attack: -1
+      slash_attack: -1
+      crush_attack: -1
+      ranged_attack: -1
+      magic_attack: -1
+    }
+  }
+}
+items {
   key: 30955
   value {
     id: 30955
@@ -108476,6 +108490,68 @@ items {
           attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
         }
       }
+    }
+  }
+}
+items {
+  key: 31081
+  value {
+    id: 31081
+    name: "Antler guard"
+    stat_bonuses {
+      stab_attack: 15
+      slash_attack: 15
+      crush_attack: 15
+      ranged_attack: 9
+      magic_attack: 9
+      stab_defence: -15
+      slash_defence: -15
+      crush_defence: -15
+      ranged_defence: -15
+      magic_defence: -15
+      melee_strength: 5
+      ranged_strength: 2
+      prayer: 4
+    }
+  }
+}
+items {
+  key: 31088
+  value {
+    id: 31088
+    name: "Avernic treads"
+    stat_bonuses {
+      stab_attack: 5
+      slash_attack: 5
+      crush_attack: 5
+      ranged_attack: 15
+      magic_attack: 11
+      stab_defence: 21
+      slash_defence: 25
+      crush_defence: 25
+      ranged_defence: 10
+      magic_defence: 10
+      melee_strength: 6
+      ranged_strength: 3
+      magic_damage: 0.2
+    }
+  }
+}
+items {
+  key: 31106
+  value {
+    id: 31106
+    name: "Confliction gauntlets"
+    stat_bonuses {
+      ranged_attack: -4
+      magic_attack: 20
+      stab_defence: 15
+      slash_defence: 18
+      crush_defence: 7
+      ranged_defence: 5
+      magic_defence: 5
+      magic_damage: 0.7
+      prayer: 2
     }
   }
 }

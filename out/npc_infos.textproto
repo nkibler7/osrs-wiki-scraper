@@ -7615,7 +7615,36 @@ npcs {
   drange: -50
 }
 npcs {
-  name: "Elder custodian Stalker"
+  ids: 14702
+  name: "Juvenile custodian stalker"
+  version: "Juvenile"
+  hitpoints: 135
+  att: 95
+  str: 55
+  def: 45
+  mage: 25
+  range: 1
+  mbns: 25
+  dstab: 30
+  dslash: -10
+  dcrush: 50
+  dmagic: 35
+}
+npcs {
+  ids: 14703
+  name: "Mature custodian stalker"
+  version: "Mature"
+  range: 1
+  mbns: 25
+  dstab: 30
+  dslash: -10
+  dcrush: 50
+  dmagic: 35
+}
+npcs {
+  ids: 14704
+  name: "Elder custodian stalker"
+  version: "Elder"
   hitpoints: 250
   att: 120
   str: 90
@@ -32530,6 +32559,20 @@ npcs {
   dslash: 90
   dcrush: 80
   dmagic: 280
+}
+npcs {
+  name: "Strange creature"
+  hitpoints: 100
+  att: 95
+  str: 55
+  def: 45
+  mage: 25
+  range: 1
+  amagic: 5
+  dstab: 30
+  dslash: -10
+  dcrush: 50
+  dmagic: 35
 }
 npcs {
   ids: 685
