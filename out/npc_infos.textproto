@@ -6326,10 +6326,12 @@ npcs {
   name: "Chimalli"
   hitpoints: 180
   att: 70
+  str: 70
   def: 70
   mage: 60
   range: 200
   arange: 120
+  rngbns: 10
   dstab: 70
   dslash: 80
   dcrush: 80
@@ -9798,6 +9800,7 @@ npcs {
 npcs {
   ids: 14421
   name: "Earthen Nagua"
+  version: "Normal"
   hitpoints: 160
   att: 120
   str: 120
@@ -9808,6 +9811,23 @@ npcs {
   dstab: 30
   dslash: 50
   dcrush: 50
+  dmagic: 60
+  attributes: "spectral"
+}
+npcs {
+  ids: 14421
+  name: "Earthen Nagua"
+  version: "Shielded"
+  hitpoints: 160
+  att: 120
+  str: 120
+  def: 40
+  mage: 40
+  range: 1
+  attbns: 100
+  dstab: 50
+  dslash: 70
+  dcrush: 10
   dmagic: 60
   attributes: "spectral"
 }
@@ -27256,6 +27276,11 @@ npcs {
   dcrush: 70
   dmagic: 60
   attributes: "dragon,fiery"
+}
+npcs {
+  ids: 14511
+  name: "Red dragon"
+  hitpoints: 105
 }
 npcs {
   ids: 11272

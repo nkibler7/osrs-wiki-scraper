@@ -108531,6 +108531,160 @@ items {
       crush_defence: 25
       ranged_defence: 10
       magic_defence: 10
+      melee_strength: 4
+      ranged_strength: 2
+      magic_damage: 0.1
+    }
+  }
+}
+items {
+  key: 31091
+  value {
+    id: 31091
+    name: "Avernic treads (pr)"
+    stat_bonuses {
+      stab_attack: 5
+      slash_attack: 5
+      crush_attack: 5
+      ranged_attack: 15
+      magic_attack: 11
+      stab_defence: 21
+      slash_defence: 25
+      crush_defence: 25
+      ranged_defence: 10
+      magic_defence: 10
+      melee_strength: 6
+      ranged_strength: 2
+      magic_damage: 0.1
+    }
+  }
+}
+items {
+  key: 31092
+  value {
+    id: 31092
+    name: "Avernic treads (pe)"
+    stat_bonuses {
+      stab_attack: 5
+      slash_attack: 5
+      crush_attack: 5
+      ranged_attack: 15
+      magic_attack: 11
+      stab_defence: 21
+      slash_defence: 25
+      crush_defence: 25
+      ranged_defence: 10
+      magic_defence: 10
+      melee_strength: 4
+      ranged_strength: 3
+      magic_damage: 0.1
+    }
+  }
+}
+items {
+  key: 31093
+  value {
+    id: 31093
+    name: "Avernic treads (et)"
+    stat_bonuses {
+      stab_attack: 5
+      slash_attack: 5
+      crush_attack: 5
+      ranged_attack: 15
+      magic_attack: 11
+      stab_defence: 21
+      slash_defence: 25
+      crush_defence: 25
+      ranged_defence: 10
+      magic_defence: 10
+      melee_strength: 4
+      ranged_strength: 2
+      magic_damage: 0.2
+    }
+  }
+}
+items {
+  key: 31094
+  value {
+    id: 31094
+    name: "Avernic treads (pr)(pe)"
+    stat_bonuses {
+      stab_attack: 5
+      slash_attack: 5
+      crush_attack: 5
+      ranged_attack: 15
+      magic_attack: 11
+      stab_defence: 21
+      slash_defence: 25
+      crush_defence: 25
+      ranged_defence: 10
+      magic_defence: 10
+      melee_strength: 6
+      ranged_strength: 3
+      magic_damage: 0.1
+    }
+  }
+}
+items {
+  key: 31095
+  value {
+    id: 31095
+    name: "Avernic treads (pr)(et)"
+    stat_bonuses {
+      stab_attack: 5
+      slash_attack: 5
+      crush_attack: 5
+      ranged_attack: 15
+      magic_attack: 11
+      stab_defence: 21
+      slash_defence: 25
+      crush_defence: 25
+      ranged_defence: 10
+      magic_defence: 10
+      melee_strength: 6
+      ranged_strength: 2
+      magic_damage: 0.2
+    }
+  }
+}
+items {
+  key: 31096
+  value {
+    id: 31096
+    name: "Avernic treads (pe)(et)"
+    stat_bonuses {
+      stab_attack: 5
+      slash_attack: 5
+      crush_attack: 5
+      ranged_attack: 15
+      magic_attack: 11
+      stab_defence: 21
+      slash_defence: 25
+      crush_defence: 25
+      ranged_defence: 10
+      magic_defence: 10
+      melee_strength: 4
+      ranged_strength: 3
+      magic_damage: 0.2
+    }
+  }
+}
+items {
+  key: 31097
+  value {
+    id: 31097
+    name: "Avernic treads (max)"
+    stat_bonuses {
+      stab_attack: 5
+      slash_attack: 5
+      crush_attack: 5
+      ranged_attack: 15
+      magic_attack: 11
+      stab_defence: 21
+      slash_defence: 25
+      crush_defence: 25
+      ranged_defence: 10
+      magic_defence: 10
       melee_strength: 6
       ranged_strength: 3
       magic_damage: 0.2
