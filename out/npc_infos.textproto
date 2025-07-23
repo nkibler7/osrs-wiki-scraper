@@ -9085,6 +9085,7 @@ npcs {
   dslash: 300
   dcrush: 60
   dmagic: 160
+  attributes: "demon"
 }
 npcs {
   ids: 14707
@@ -9106,6 +9107,7 @@ npcs {
   dslash: 300
   dcrush: 60
   dmagic: 160
+  attributes: "demon"
 }
 npcs {
   ids: 14707
@@ -9127,6 +9129,7 @@ npcs {
   dslash: 300
   dcrush: 60
   dmagic: 160
+  attributes: "demon"
 }
 npcs {
   ids: 8995
