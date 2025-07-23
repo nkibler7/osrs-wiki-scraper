@@ -7550,7 +7550,17 @@ npcs {
   drange: -50
 }
 npcs {
-  name: "Custodia Stalker"
+  name: "Elder custodia Stalker"
+  hitpoints: 250
+  att: 120
+  str: 90
+  def: 45
+  mage: 75
+  range: 1
+  dstab: 30
+  dslash: -10
+  dcrush: 50
+  dmagic: 35
 }
 npcs {
   ids: 12957
@@ -9006,14 +9016,56 @@ npcs {
 npcs {
   name: "Doom of Mokhaiotl"
   version: "Normal"
+  hitpoints: 1200
+  att: 240
+  str: 220
+  def: 90
+  mage: 275
+  range: 180
+  attbns: 200
+  strbns: 220
+  amagic: 180
+  arange: 150
+  dstab: 280
+  dslash: 240
+  dcrush: 40
+  dmagic: 200
 }
 npcs {
   name: "Doom of Mokhaiotl"
   version: "Delve 1"
+  hitpoints: 1200
+  att: 240
+  str: 220
+  def: 90
+  mage: 275
+  range: 180
+  attbns: 200
+  strbns: 220
+  amagic: 180
+  arange: 150
+  dstab: 280
+  dslash: 240
+  dcrush: 40
+  dmagic: 200
 }
 npcs {
   name: "Doom of Mokhaiotl"
   version: "Delve 8"
+  hitpoints: 1200
+  att: 240
+  str: 220
+  def: 90
+  mage: 275
+  range: 180
+  attbns: 200
+  strbns: 220
+  amagic: 180
+  arange: 150
+  dstab: 280
+  dslash: 240
+  dcrush: 40
+  dmagic: 200
 }
 npcs {
   ids: 8995
@@ -9744,6 +9796,11 @@ npcs {
   str: 98
   def: 65
   mage: 110
+  range: 1
+}
+npcs {
+  ids: 13033
+  name: "Elder custodian stalker"
   range: 1
 }
 npcs {

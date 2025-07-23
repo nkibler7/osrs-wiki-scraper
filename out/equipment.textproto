@@ -108273,3 +108273,147 @@ items {
     }
   }
 }
+items {
+  key: 30955
+  value {
+    id: 30955
+    name: "Arkan blade"
+    stat_bonuses {
+      stab_attack: 55
+      slash_attack: 70
+      melee_strength: 64
+      prayer: 1
+    }
+    weapon_details {
+      base_attack_speed: 4
+      combat_options {
+        name: "Chop"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Slash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Lunge"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 31049
+  value {
+    id: 31049
+    name: "Redwood hiking staff"
+    stat_bonuses {
+      stab_attack: -4
+      slash_attack: -4
+      crush_attack: 10
+    }
+    weapon_details {
+      base_attack_speed: 5
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 31113
+  value {
+    id: 31113
+    name: "Eye of ayak"
+    stat_bonuses {
+      magic_attack: 30
+      stab_defence: 1
+      slash_defence: 5
+      crush_defence: 5
+      magic_defence: 10
+      prayer: 2
+    }
+    weapon_details {
+      base_attack_speed: 3
+      base_attack_range: 6
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+          magic_modifier: 1
+          attack_range_modifier: 2
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
+  }
+}
