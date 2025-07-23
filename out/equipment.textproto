@@ -108328,6 +108328,76 @@ items {
   }
 }
 items {
+  key: 30957
+  value {
+    id: 30957
+    name: "Earthbound tecpatl"
+    stat_bonuses {
+      stab_attack: 72
+      slash_attack: 11
+      melee_strength: 64
+      prayer: 2
+    }
+    weapon_details {
+      base_attack_speed: 4
+      combat_options {
+        name: "Stab"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Lunge"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Slash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 31034
+  value {
+    id: 31034
+    name: "Greenman mask"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31043
+  value {
+    id: 31043
+    name: "Fletching knife"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 31049
   value {
     id: 31049
@@ -108386,34 +108456,123 @@ items {
       base_attack_speed: 3
       base_attack_range: 6
       combat_options {
-        name: "Accurate"
+        name: "Bash"
         modifiers {
-          magic_modifier: 3
+          attack_modifier: 3
         }
-        magic {
-          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
         }
       }
       combat_options {
-        name: "Accurate"
+        name: "Pound"
         modifiers {
-          magic_modifier: 3
+          strength_modifier: 3
         }
-        magic {
-          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
         }
       }
       combat_options {
-        name: "Longrange"
+        name: "Focus"
         modifiers {
           defence_modifier: 3
-          magic_modifier: 1
-          attack_range_modifier: 2
         }
-        magic {
-          attack_style: MAGIC_ATTACK_STYLE_LONGRANGE
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
         }
       }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_DEFENSIVE_AUTOCAST
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_AUTOCAST
+        }
+      }
+    }
+  }
+}
+items {
+  key: 31115
+  value {
+    id: 31115
+    name: "Eye of ayak"
+    stat_bonuses {
+      magic_attack: 30
+      stab_defence: 1
+      slash_defence: 5
+      crush_defence: 5
+      magic_defence: 10
+      prayer: 2
+    }
+    weapon_details {
+      base_attack_speed: 3
+      base_attack_range: 6
+      combat_options {
+        name: "Bash"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pound"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Focus"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_DEFENSIVE_AUTOCAST
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_AUTOCAST
+        }
+      }
+    }
+  }
+}
+items {
+  key: 31117
+  value {
+    id: 31117
+    name: "Orange"
+    stat_bonuses {
     }
   }
 }

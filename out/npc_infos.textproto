@@ -850,6 +850,18 @@ npcs {
   attributes: "Spectral"
 }
 npcs {
+  ids: 14520
+  name: "Ancient Custodian"
+  hitpoints: 330
+  att: 240
+  def: 80
+  mage: 80
+  amagic: 45
+  dstab: 50
+  dslash: -30
+  dcrush: 80
+}
+npcs {
   ids: 10654
   ids: 10665
   name: "Ancient Guardian"
@@ -5483,6 +5495,45 @@ npcs {
   strbns: 20
 }
 npcs {
+  ids: 14390
+  name: "Captain Vibia"
+  version: "1"
+  hitpoints: 150
+  att: 80
+  def: 200
+  mage: 15
+  dstab: 30
+  dslash: 30
+  dcrush: 20
+  dmagic: 5
+}
+npcs {
+  ids: 14390
+  name: "Captain Vibia"
+  version: "2"
+  hitpoints: 150
+  att: 80
+  def: 90
+  mage: 15
+  dstab: 30
+  dslash: 30
+  dcrush: 20
+  dmagic: 5
+}
+npcs {
+  ids: 14390
+  name: "Captain Vibia"
+  version: "3"
+  hitpoints: 150
+  att: 80
+  def: 70
+  mage: 15
+  dstab: 30
+  dslash: 30
+  dcrush: 20
+  dmagic: 5
+}
+npcs {
   ids: 2911
   name: "Carnivorous chinchompa"
   hitpoints: 1
@@ -6269,6 +6320,20 @@ npcs {
   def: 70
   mage: 95
   range: 1
+}
+npcs {
+  ids: 14362
+  name: "Chimalli"
+  hitpoints: 180
+  att: 70
+  def: 70
+  mage: 60
+  range: 200
+  arange: 120
+  dstab: 70
+  dslash: 80
+  dcrush: 80
+  dmagic: 120
 }
 npcs {
   ids: 2910
@@ -7557,6 +7622,7 @@ npcs {
   def: 45
   mage: 75
   range: 1
+  mbns: 25
   dstab: 30
   dslash: -10
   dcrush: 50
@@ -9016,56 +9082,62 @@ npcs {
 npcs {
   name: "Doom of Mokhaiotl"
   version: "Normal"
-  hitpoints: 1200
-  att: 240
-  str: 220
+  hitpoints: 525
+  att: 300
+  str: 190
   def: 90
   mage: 275
-  range: 180
-  attbns: 200
-  strbns: 220
-  amagic: 180
-  arange: 150
-  dstab: 280
-  dslash: 240
-  dcrush: 40
-  dmagic: 200
+  range: 110
+  attbns: 210
+  strbns: 45
+  amagic: 125
+  mbns: 30
+  arange: 120
+  rngbns: 50
+  dstab: 300
+  dslash: 300
+  dcrush: 60
+  dmagic: 160
 }
 npcs {
   name: "Doom of Mokhaiotl"
   version: "Delve 1"
-  hitpoints: 1200
-  att: 240
-  str: 220
+  hitpoints: 600
+  att: 300
+  str: 190
   def: 90
   mage: 275
-  range: 180
-  attbns: 200
-  strbns: 220
-  amagic: 180
-  arange: 150
-  dstab: 280
-  dslash: 240
-  dcrush: 40
-  dmagic: 200
+  range: 110
+  attbns: 210
+  strbns: 45
+  amagic: 125
+  mbns: 30
+  arange: 120
+  rngbns: 50
+  dstab: 300
+  dslash: 300
+  dcrush: 60
+  dmagic: 160
 }
 npcs {
   name: "Doom of Mokhaiotl"
   version: "Delve 8"
-  hitpoints: 1200
-  att: 240
-  str: 220
+  hitpoints: 525
+  att: 300
+  str: 190
   def: 90
   mage: 275
-  range: 180
-  attbns: 200
-  strbns: 220
-  amagic: 180
-  arange: 150
-  dstab: 280
-  dslash: 240
-  dcrush: 40
-  dmagic: 200
+  range: 110
+  attbns: 210
+  strbns: 45
+  amagic: 125
+  mbns: 30
+  arange: 120
+  rngbns: 50
+  dstab: 300
+  dslash: 300
+  dcrush: 60
+  dmagic: 160
 }
 npcs {
   ids: 8995
@@ -9799,9 +9871,33 @@ npcs {
   range: 1
 }
 npcs {
+  name: "Elder Custodia Stalker"
+  hitpoints: 170
+  att: 120
+  str: 90
+  def: 45
+  mage: 75
+  range: 1
+  mbns: 25
+  dstab: 30
+  dslash: -10
+  dcrush: 50
+  dmagic: 35
+}
+npcs {
   ids: 13033
   name: "Elder custodian stalker"
+  hitpoints: 250
+  att: 120
+  str: 90
+  def: 45
+  mage: 75
   range: 1
+  mbns: 25
+  dstab: 30
+  dslash: -10
+  dcrush: 50
+  dmagic: 35
 }
 npcs {
   name: "Elder Hubber"
@@ -10670,6 +10766,18 @@ npcs {
   dcrush: 10
   dmagic: 15
   drange: 5
+}
+npcs {
+  ids: 14268
+  name: "Emissary Enforcer"
+  hitpoints: 180
+  att: 220
+  def: 100
+  mage: 80
+  dstab: 70
+  dslash: 80
+  dcrush: 50
+  dmagic: 180
 }
 npcs {
   ids: 13752
@@ -20831,6 +20939,13 @@ npcs {
   strbns: 20
 }
 npcs {
+  ids: 14510
+  name: "Large chicken"
+  hitpoints: 30
+  att: 10
+  def: 10
+}
+npcs {
   ids: 6272
   name: "Large mosquito"
   hitpoints: 3
@@ -21478,6 +21593,21 @@ npcs {
   dcrush: 7
   dmagic: -1
   drange: 4
+}
+npcs {
+  ids: 14363
+  name: "Lucius"
+  hitpoints: 180
+  att: 70
+  def: 70
+  mage: 200
+  range: 60
+  amagic: 120
+  mbns: 10
+  dstab: 90
+  dslash: 120
+  dcrush: 120
+  dmagic: 200
 }
 npcs {
   ids: 11068
@@ -24311,6 +24441,13 @@ npcs {
   dcrush: 45
   dmagic: 20
   drange: 20
+}
+npcs {
+  ids: 14547
+  name: "Ocelot"
+  hitpoints: 40
+  att: 30
+  def: 30
 }
 npcs {
   ids: 4108

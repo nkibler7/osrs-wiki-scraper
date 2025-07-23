@@ -145,6 +145,8 @@ T
 ÷<Ammonite Crab d(08@H
 3
 õj	Amoxliatl ˆ8P@ª` h€dˆd(˜dªSpectral
+5
+¸qAncient Custodian Ê(ð8P@P`-€2ˆâÿÿÿÿÿÿÿÿP
 ;
 žS©SAncient GuardianGolem ((0!8@HPX2€(ˆ(˜ 
 0
@@ -906,6 +908,12 @@ Calvar'ionEnraged –(ú0ú8á@²H€‚ˆ€öÿÿÿÿÿÿÿÿ˜Æ Óªundead
 .
 æ
 Camp dwellerLevel 31 (4) (08@HX
+,
+¶pCaptain Vibia1 –(P8È@€ˆ˜
++
+¶pCaptain Vibia2 –(P8Z@€ˆ˜
++
+¶pCaptain Vibia3 –(P8F@€ˆ˜
 (
 ßCarnivorous chinchompa (08@H
 5
@@ -1068,6 +1076,8 @@ z
 ôChicken (08@H
  
 çkChilled jelly Œ(_0Z8F@_H
+(
+špChimalli ´(F8F@<HÈpx€FˆPP˜x
 
 Þ
 Chinchompa (08@H
@@ -1282,7 +1292,7 @@ p
  
 I
 Å[Cursed Baboon (<0<8@<H<P`p€„ˆ„„˜Äÿÿÿÿÿÿÿÿ Îÿÿÿÿÿÿÿÿ
-:Elder custodia Stalker ú(x0Z8-@KH€ˆöÿÿÿÿÿÿÿÿ2˜#
+<Elder custodia Stalker ú(x0Z8-@KHh€ˆöÿÿÿÿÿÿÿÿ2˜#
 )
 eCuthbert, Lord of Dread (08@H
 '
@@ -1547,9 +1557,9 @@ Armageddon È(d0d8È@HXi`Æÿÿÿÿÿÿÿÿpîÿÿÿÿÿÿÿÿ€üˆúô˜õÿÿÿÿÿÿÿÿ ùªs
 ,
 ®Donny the lad %( 08@HP	X	€	ˆ
 
-GDoom of MokhaiotlNormal °	(ð0Ü8Z@“H´PÈXÜ`´p–€˜ˆð(˜È
-HDoom of MokhaiotlDelve 1 °	(ð0Ü8Z@“H´PÈXÜ`´p–€˜ˆð(˜È
-HDoom of MokhaiotlDelve 8 °	(ð0Ü8Z@“H´PÈXÜ`´p–€˜ˆð(˜È
+GDoom of MokhaiotlNormal (¬0¾8Z@“HnPÒX-`}hpxx2€¬ˆ¬<˜ 
+HDoom of MokhaiotlDelve 1 Ø(¬0¾8Z@“HnPÒX-`}hpxx2€¬ˆ¬<˜ 
+HDoom of MokhaiotlDelve 8 (¬0¾8Z@“HnPÒX-`}hpxx2€¬ˆ¬<˜ 
 -
 £FDoomion W(L0N8M@H˜öÿÿÿÿÿÿÿÿªdemon
 1
@@ -1689,8 +1699,9 @@ T
 ÛEinar (08@H
 $
 Ï3Elder Chaos druid –(b0b8A@nH
-
-éeElder custodian stalkerH
+<Elder Custodia Stalker ª(x0Z8-@KHh€ˆöÿÿÿÿÿÿÿÿ2˜#
+A
+éeElder custodian stalker ú(x0Z8-@KHh€ˆöÿÿÿÿÿÿÿÿ2˜#
 Elder Hubber <(Z82@(
 
 Elder Root <(Z82@(
@@ -1820,6 +1831,8 @@ v
 7
 ÒkEmissary Conjurer2 ((<0(8F@FHh(€ˆ
 ˜ 
+.
+¼oEmissary Enforcer ´(Ü8d@P€FˆP2˜´
 
 ¸kEmissary Forebearer1
 
@@ -3435,6 +3448,10 @@ T
 ›KuraskBig a(C0i8i@Hˆªleafy
 
 äLanzig 2((0(8(@HX
+
+®qLarge chicken (
+8
+
 ,
 €1Large mosquito (08-@H€ˆ˜
 Large reef shark H(2
@@ -3531,6 +3548,9 @@ B
 4
 óLucien (08
 @HPX€ˆ˜ÿÿÿÿÿÿÿÿÿ 
+)
+›pLucius ´(F8F@ÈH<`xh
+€Zˆxx˜È
  
 ¼VLynxLevel 21 (08@H
  
@@ -3984,6 +4004,8 @@ H
 ç[Obelisk „(È0–8d@dHd€FˆFF˜2
 -
 ø9Obor x(Z0d8<@HxPdXDpdxA€#ˆ(-˜ 
+
+ÓqOcelot ((8
 R
 Œ Ocga 
 (08@H€ôÿÿÿÿÿÿÿÿˆôÿÿÿÿÿÿÿÿôÿÿÿÿÿÿÿÿ˜ôÿÿÿÿÿÿÿÿ ôÿÿÿÿÿÿÿÿ
