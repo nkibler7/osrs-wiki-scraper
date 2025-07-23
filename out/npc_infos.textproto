@@ -9080,6 +9080,7 @@ npcs {
   dcrush: 10
 }
 npcs {
+  ids: 14707
   name: "Doom of Mokhaiotl"
   version: "Normal"
   hitpoints: 525
@@ -9100,6 +9101,7 @@ npcs {
   dmagic: 160
 }
 npcs {
+  ids: 14707
   name: "Doom of Mokhaiotl"
   version: "Delve 1"
   hitpoints: 600
@@ -9120,6 +9122,7 @@ npcs {
   dmagic: 160
 }
 npcs {
+  ids: 14707
   name: "Doom of Mokhaiotl"
   version: "Delve 8"
   hitpoints: 525
@@ -9802,6 +9805,18 @@ npcs {
   def: 10
   mage: 10
   dmagic: 15
+}
+npcs {
+  ids: 14421
+  name: "Earthen Nagua"
+  hitpoints: 160
+  att: 120
+  def: 40
+  mage: 40
+  dstab: 30
+  dslash: 50
+  dcrush: 50
+  dmagic: 60
 }
 npcs {
   ids: 13012
@@ -22082,8 +22097,10 @@ npcs {
   name: "Mature custodian stalker"
   hitpoints: 190
   att: 105
+  str: 75
   def: 45
   mage: 40
+  range: 1
   amagic: 15
   dstab: 30
   dslash: -10
