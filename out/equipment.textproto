@@ -108764,54 +108764,6 @@ items {
   }
 }
 items {
-  key: 31113
-  value {
-    id: 31113
-    name: "Eye of ayak"
-    stat_bonuses {
-      magic_attack: 30
-      stab_defence: 1
-      slash_defence: 5
-      crush_defence: 5
-      magic_defence: 10
-      prayer: 2
-    }
-    weapon_details {
-      base_attack_speed: 3
-      base_attack_range: 6
-      combat_options {
-        name: "Accurate"
-        modifiers {
-          magic_modifier: 3
-        }
-        magic {
-          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
-        }
-      }
-      combat_options {
-        name: "Accurate"
-        modifiers {
-          magic_modifier: 3
-        }
-        magic {
-          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
-        }
-      }
-      combat_options {
-        name: "Longrange"
-        modifiers {
-          defence_modifier: 3
-          magic_modifier: 1
-          attack_range_modifier: 2
-        }
-        magic {
-          attack_style: MAGIC_ATTACK_STYLE_LONGRANGE
-        }
-      }
-    }
-  }
-}
-items {
   key: 31115
   value {
     id: 31115
