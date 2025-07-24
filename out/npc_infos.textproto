@@ -4254,6 +4254,11 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 14512
+  name: "Black jaguar"
+  hitpoints: 86
+}
+npcs {
   ids: 517
   ids: 4331
   name: "Black Knight"
