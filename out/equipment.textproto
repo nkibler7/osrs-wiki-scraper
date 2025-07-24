@@ -108443,6 +108443,60 @@ items {
   }
 }
 items {
+  key: 31037
+  value {
+    id: 31037
+    name: "Greenman mask (normal)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31038
+  value {
+    id: 31038
+    name: "Greenman mask (oak)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31039
+  value {
+    id: 31039
+    name: "Greenman mask (willow)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31040
+  value {
+    id: 31040
+    name: "Greenman mask (maple)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31041
+  value {
+    id: 31041
+    name: "Greenman mask (yew)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31042
+  value {
+    id: 31042
+    name: "Greenman mask (magic)"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 31043
   value {
     id: 31043
