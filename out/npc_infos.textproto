@@ -9103,7 +9103,7 @@ npcs {
   ids: 14707
   name: "Doom of Mokhaiotl"
   version: "Delve 1"
-  hitpoints: 600
+  hitpoints: 525
   att: 300
   str: 190
   def: 90
@@ -9125,7 +9125,7 @@ npcs {
   ids: 14707
   name: "Doom of Mokhaiotl"
   version: "Delve 8"
-  hitpoints: 525
+  hitpoints: 675
   att: 300
   str: 190
   def: 90
