@@ -108397,7 +108397,7 @@ items {
   key: 30970
   value {
     id: 30970
-    name: "Egg (Scrambled!)"
+    name: "Egg"
     stat_bonuses {
     }
     weapon_details {
