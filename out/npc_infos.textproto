@@ -9912,11 +9912,12 @@ npcs {
   def: 45
   mage: 75
   range: 1
-  amagic: 5
+  amagic: 25
   dstab: 30
   dslash: -10
   dcrush: 50
   dmagic: 35
+  attributes: "Slayer"
 }
 npcs {
   name: "Elder Hubber"
