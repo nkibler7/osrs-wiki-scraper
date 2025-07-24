@@ -32563,6 +32563,9 @@ npcs {
   dmagic: 35
 }
 npcs {
+  name: "Strange creatures"
+}
+npcs {
   ids: 685
   name: "Stranger"
   hitpoints: 80
