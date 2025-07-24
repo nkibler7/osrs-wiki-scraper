@@ -4256,7 +4256,12 @@ npcs {
 npcs {
   ids: 14512
   name: "Black jaguar"
-  hitpoints: 86
+  hitpoints: 85
+  att: 75
+  str: 75
+  def: 75
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 517
@@ -27286,7 +27291,17 @@ npcs {
 npcs {
   ids: 14511
   name: "Red dragon"
-  hitpoints: 105
+  hitpoints: 100
+  att: 90
+  str: 90
+  def: 90
+  mage: 1
+  range: 1
+  dstab: 10
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  attributes: "Dragon, Fiery"
 }
 npcs {
   ids: 11272
