@@ -14692,8 +14692,7 @@ npcs {
 }
 npcs {
   ids: 7551
-  name: "Great Olm"
-  version: "Head"
+  version: "Normal"
   hitpoints: 800
   att: 250
   str: 250
@@ -14710,47 +14709,8 @@ npcs {
   attributes: "dragon,xerician"
 }
 npcs {
-  ids: 7552
-  name: "Great Olm (Left claw)"
-  version: "Left claw"
-  hitpoints: 600
-  att: 250
-  str: 250
-  def: 175
-  mage: 175
-  range: 250
-  amagic: 60
-  arange: 60
-  dstab: 50
-  dslash: 50
-  dcrush: 50
-  dmagic: 200
-  drange: 200
-  attributes: "dragon,xerician"
-}
-npcs {
-  ids: 7550
-  name: "Great Olm (Right claw)"
-  version: "Right claw"
-  hitpoints: 600
-  att: 250
-  str: 250
-  def: 175
-  mage: 87
-  range: 250
-  amagic: 60
-  arange: 60
-  dstab: 200
-  dslash: 200
-  dcrush: 200
-  dmagic: 50
-  drange: 200
-  attributes: "dragon,xerician"
-}
-npcs {
   ids: 7554
-  name: "Great Olm"
-  version: "Head (Challenge Mode)"
+  version: "Challenge Mode"
   hitpoints: 800
   att: 375
   str: 375
@@ -14767,9 +14727,26 @@ npcs {
   attributes: "dragon,xerician"
 }
 npcs {
+  ids: 7552
+  version: "Normal"
+  hitpoints: 600
+  att: 250
+  str: 250
+  def: 175
+  mage: 175
+  range: 250
+  amagic: 60
+  arange: 60
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  dmagic: 200
+  drange: 200
+  attributes: "dragon,xerician"
+}
+npcs {
   ids: 7555
-  name: "Great Olm (Left claw)"
-  version: "Left claw (Challenge Mode)"
+  version: "Challenge Mode"
   hitpoints: 600
   att: 375
   str: 375
@@ -14786,9 +14763,26 @@ npcs {
   attributes: "dragon,xerician"
 }
 npcs {
+  ids: 7550
+  version: "Normal"
+  hitpoints: 600
+  att: 250
+  str: 250
+  def: 175
+  mage: 87
+  range: 250
+  amagic: 60
+  arange: 60
+  dstab: 200
+  dslash: 200
+  dcrush: 200
+  dmagic: 50
+  drange: 200
+  attributes: "dragon,xerician"
+}
+npcs {
   ids: 7553
-  name: "Great Olm (Right claw)"
-  version: "Right claw (Challenge Mode)"
+  version: "Challenge Mode"
   hitpoints: 600
   att: 375
   str: 375
