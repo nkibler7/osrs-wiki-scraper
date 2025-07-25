@@ -2135,6 +2135,24 @@ npcs {
   attributes: "undead, spectral"
 }
 npcs {
+  ids: 14318
+  name: "Augur Metzli"
+  hitpoints: 600
+  att: 1
+  str: 160
+  def: 1
+  mage: 180
+  range: 180
+  amagic: 110
+  mbns: 30
+  arange: 110
+  rngbns: 30
+  dstab: 60
+  dslash: 80
+  dcrush: 70
+  dmagic: 100
+}
+npcs {
   ids: 10531
   name: "Avatar of Creation"
   hitpoints: 1500
