@@ -9121,7 +9121,7 @@ npcs {
   ids: 14707
   name: "Doom of Mokhaiotl"
   version: "Delve 2"
-  hitpoints: 675
+  hitpoints: 550
   att: 300
   str: 190
   def: 90
@@ -9143,7 +9143,7 @@ npcs {
   ids: 14707
   name: "Doom of Mokhaiotl"
   version: "Delve 3"
-  hitpoints: 525
+  hitpoints: 575
   att: 300
   str: 190
   def: 90
@@ -9165,7 +9165,7 @@ npcs {
   ids: 14707
   name: "Doom of Mokhaiotl"
   version: "Delve 4"
-  hitpoints: 525
+  hitpoints: 600
   att: 300
   str: 190
   def: 90
@@ -9187,7 +9187,7 @@ npcs {
   ids: 14707
   name: "Doom of Mokhaiotl"
   version: "Delve 5"
-  hitpoints: 525
+  hitpoints: 625
   att: 300
   str: 190
   def: 90
@@ -9209,7 +9209,7 @@ npcs {
   ids: 14707
   name: "Doom of Mokhaiotl"
   version: "Delve 6"
-  hitpoints: 525
+  hitpoints: 650
   att: 300
   str: 190
   def: 90
@@ -9231,7 +9231,7 @@ npcs {
   ids: 14707
   name: "Doom of Mokhaiotl"
   version: "Delve 7"
-  hitpoints: 525
+  hitpoints: 650
   att: 300
   str: 190
   def: 90
@@ -9253,7 +9253,7 @@ npcs {
   ids: 14707
   name: "Doom of Mokhaiotl"
   version: "Delve 8"
-  hitpoints: 525
+  hitpoints: 675
   att: 300
   str: 190
   def: 90
