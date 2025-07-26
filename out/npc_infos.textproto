@@ -10200,7 +10200,7 @@ npcs {
   dmagic: 15
 }
 npcs {
-  ids: 14421
+  ids: 14420
   name: "Earthen Nagua"
   version: "Normal"
   hitpoints: 160
@@ -10219,7 +10219,7 @@ npcs {
 npcs {
   ids: 14421
   name: "Earthen Nagua"
-  version: "Shielded"
+  version: "Reinforced"
   hitpoints: 160
   att: 120
   str: 120
