@@ -10234,6 +10234,20 @@ npcs {
   attributes: "spectral"
 }
 npcs {
+  ids: 14420
+  name: "Earthen Nagua"
+  version: "Weakened"
+  hitpoints: 160
+  att: 120
+  str: 120
+  def: 40
+  mage: 40
+  range: 1
+  attbns: 100
+  dmagic: 60
+  attributes: "spectral"
+}
+npcs {
   ids: 13012
   name: "Eclipse Moon"
   version: "Regular"
