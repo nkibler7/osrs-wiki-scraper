@@ -9940,7 +9940,7 @@ npcs {
 npcs {
   ids: 13662
   name: "Durial321"
-  hitpoints: 1000
+  hitpoints: 500
   att: 95
   str: 98
   def: 88
@@ -19164,7 +19164,7 @@ npcs {
 npcs {
   ids: 13660
   name: "Jaguar warrior"
-  hitpoints: 1500
+  hitpoints: 750
   att: 200
   str: 165
   def: 100
@@ -22274,7 +22274,7 @@ npcs {
 npcs {
   ids: 13663
   name: "Magic Mark"
-  hitpoints: 1500
+  hitpoints: 500
   att: 10
   str: 30
   def: 30
@@ -27321,7 +27321,7 @@ npcs {
 npcs {
   ids: 13664
   name: "Ranging Ro"
-  hitpoints: 1500
+  hitpoints: 500
   att: 10
   str: 30
   def: 100
