@@ -9272,6 +9272,28 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  ids: 14707
+  name: "Doom of Mokhaiotl"
+  version: "Deep Delve"
+  hitpoints: 625
+  att: 300
+  str: 190
+  def: 90
+  mage: 275
+  range: 110
+  attbns: 210
+  strbns: 45
+  amagic: 125
+  mbns: 30
+  arange: 120
+  rngbns: 50
+  dstab: 300
+  dslash: 300
+  dcrush: 60
+  dmagic: 160
+  attributes: "demon"
+}
+npcs {
   ids: 14708
   name: "Doom of Mokhaiotl"
   version: "Delve 1"
@@ -9448,6 +9470,28 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  ids: 14708
+  name: "Doom of Mokhaiotl"
+  version: "Deep Delve"
+  hitpoints: 625
+  att: 300
+  str: 190
+  def: 90
+  mage: 275
+  range: 110
+  attbns: 210
+  strbns: 45
+  amagic: 125
+  mbns: 30
+  arange: 120
+  rngbns: 50
+  dstab: 300
+  dslash: 300
+  dcrush: 60
+  dmagic: 160
+  attributes: "demon"
+}
+npcs {
   ids: 14709
   name: "Doom of Mokhaiotl"
   version: "Delve 5"
@@ -9518,6 +9562,28 @@ npcs {
   name: "Doom of Mokhaiotl"
   version: "Delve 8"
   hitpoints: 675
+  att: 300
+  str: 190
+  def: 90
+  mage: 275
+  range: 110
+  attbns: 210
+  strbns: 45
+  amagic: 125
+  mbns: 30
+  arange: 120
+  rngbns: 50
+  dstab: 300
+  dslash: 300
+  dcrush: 60
+  dmagic: 160
+  attributes: "demon"
+}
+npcs {
+  ids: 14709
+  name: "Doom of Mokhaiotl"
+  version: "Deep Delve"
+  hitpoints: 625
   att: 300
   str: 190
   def: 90
