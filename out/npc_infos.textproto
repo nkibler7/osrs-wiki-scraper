@@ -11335,6 +11335,22 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 14331
+  ids: 14332
+  name: "Ennius Tullus"
+  hitpoints: 380
+  att: 280
+  str: 210
+  def: 75
+  mage: 75
+  range: 1
+  attbns: 90
+  dstab: 70
+  dslash: 60
+  dcrush: 50
+  dmagic: 100
+}
+npcs {
   ids: 5534
   name: "Whirlpool"
   version: "Whirlpool"
