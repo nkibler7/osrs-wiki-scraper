@@ -25275,7 +25275,7 @@ npcs {
   drange: 20
 }
 npcs {
-  ids: 14547
+  ids: 14545
   name: "Ocelot"
   version: "Brown"
   hitpoints: 40
@@ -25286,7 +25286,7 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 14547
+  ids: 14546
   name: "Ocelot"
   version: "Light brown"
   hitpoints: 40
@@ -33157,6 +33157,7 @@ npcs {
 }
 npcs {
   ids: 1845
+  ids: 14222
   name: "Stag"
   hitpoints: 19
   att: 11
