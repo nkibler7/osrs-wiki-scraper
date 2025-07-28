@@ -2139,8 +2139,8 @@ npcs {
   name: "Augur Metzli"
   hitpoints: 600
   att: 1
-  str: 160
-  def: 1
+  str: 1
+  def: 160
   mage: 180
   range: 180
   amagic: 110
