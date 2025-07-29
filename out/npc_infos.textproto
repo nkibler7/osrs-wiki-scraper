@@ -9295,7 +9295,7 @@ npcs {
 }
 npcs {
   ids: 14708
-  name: "Doom of Mokhaiotl"
+  name: "Doom of Mokhaiotl (Shielded)"
   version: "Delve 1"
   hitpoints: 525
   att: 300
@@ -9317,7 +9317,7 @@ npcs {
 }
 npcs {
   ids: 14708
-  name: "Doom of Mokhaiotl"
+  name: "Doom of Mokhaiotl (Shielded)"
   version: "Delve 2"
   hitpoints: 550
   att: 300
@@ -9339,7 +9339,7 @@ npcs {
 }
 npcs {
   ids: 14708
-  name: "Doom of Mokhaiotl"
+  name: "Doom of Mokhaiotl (Shielded)"
   version: "Delve 3"
   hitpoints: 575
   att: 300
@@ -9361,7 +9361,7 @@ npcs {
 }
 npcs {
   ids: 14708
-  name: "Doom of Mokhaiotl"
+  name: "Doom of Mokhaiotl (Shielded)"
   version: "Delve 4"
   hitpoints: 600
   att: 300
@@ -9383,7 +9383,7 @@ npcs {
 }
 npcs {
   ids: 14708
-  name: "Doom of Mokhaiotl"
+  name: "Doom of Mokhaiotl (Shielded)"
   version: "Delve 5"
   hitpoints: 625
   att: 300
@@ -9405,7 +9405,7 @@ npcs {
 }
 npcs {
   ids: 14708
-  name: "Doom of Mokhaiotl"
+  name: "Doom of Mokhaiotl (Shielded)"
   version: "Delve 6"
   hitpoints: 650
   att: 300
@@ -9427,7 +9427,7 @@ npcs {
 }
 npcs {
   ids: 14708
-  name: "Doom of Mokhaiotl"
+  name: "Doom of Mokhaiotl (Shielded)"
   version: "Delve 7"
   hitpoints: 650
   att: 300
@@ -9449,7 +9449,7 @@ npcs {
 }
 npcs {
   ids: 14708
-  name: "Doom of Mokhaiotl"
+  name: "Doom of Mokhaiotl (Shielded)"
   version: "Delve 8"
   hitpoints: 675
   att: 300
@@ -9471,7 +9471,7 @@ npcs {
 }
 npcs {
   ids: 14708
-  name: "Doom of Mokhaiotl"
+  name: "Doom of Mokhaiotl (Shielded)"
   version: "Deep Delve"
   hitpoints: 625
   att: 300
@@ -9493,7 +9493,7 @@ npcs {
 }
 npcs {
   ids: 14709
-  name: "Doom of Mokhaiotl"
+  name: "Doom of Mokhaiotl (Burrowed)"
   version: "Delve 5"
   hitpoints: 625
   att: 300
@@ -9515,7 +9515,7 @@ npcs {
 }
 npcs {
   ids: 14709
-  name: "Doom of Mokhaiotl"
+  name: "Doom of Mokhaiotl (Burrowed)"
   version: "Delve 6"
   hitpoints: 650
   att: 300
@@ -9537,7 +9537,7 @@ npcs {
 }
 npcs {
   ids: 14709
-  name: "Doom of Mokhaiotl"
+  name: "Doom of Mokhaiotl (Burrowed)"
   version: "Delve 7"
   hitpoints: 650
   att: 300
@@ -9559,7 +9559,7 @@ npcs {
 }
 npcs {
   ids: 14709
-  name: "Doom of Mokhaiotl"
+  name: "Doom of Mokhaiotl (Burrowed)"
   version: "Delve 8"
   hitpoints: 675
   att: 300
@@ -9581,7 +9581,7 @@ npcs {
 }
 npcs {
   ids: 14709
-  name: "Doom of Mokhaiotl"
+  name: "Doom of Mokhaiotl (Burrowed)"
   version: "Deep Delve"
   hitpoints: 625
   att: 300
