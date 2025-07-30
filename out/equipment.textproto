@@ -108764,9 +108764,9 @@ items {
   }
 }
 items {
-  key: 31115
+  key: 31113
   value {
-    id: 31115
+    id: 31113
     name: "Eye of ayak"
     stat_bonuses {
       magic_attack: 30
