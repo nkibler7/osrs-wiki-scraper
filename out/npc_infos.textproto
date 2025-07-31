@@ -15153,6 +15153,7 @@ npcs {
 }
 npcs {
   ids: 13029
+  ids: 14430
   name: "Grimy Lizard"
   hitpoints: 75
   att: 65
@@ -23598,6 +23599,7 @@ npcs {
   ids: 2092
   ids: 2093
   ids: 7262
+  ids: 14422
   name: "Moss giant"
   version: "Level 42"
   hitpoints: 60
@@ -28642,6 +28644,7 @@ npcs {
 }
 npcs {
   ids: 421
+  ids: 14423
   name: "Rockslug"
   version: "Cave"
   hitpoints: 27
