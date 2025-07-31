@@ -14997,7 +14997,7 @@ npcs {
   ids: 7872
   ids: 7873
   name: "Greater demon"
-  version: "Level 104"
+  version: "Level 104 (Wilderness Slayer Cave)"
   hitpoints: 120
   att: 76
   str: 90
