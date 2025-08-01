@@ -28295,7 +28295,6 @@ npcs {
   dslash: 60
   dcrush: 68
   dmagic: 30
-  drange: 50
   attributes: "undead, spectral"
 }
 npcs {
