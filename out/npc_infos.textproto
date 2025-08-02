@@ -36092,8 +36092,15 @@ npcs {
 }
 npcs {
   ids: 639
+  ids: 1327
   ids: 3433
   ids: 3434
+  ids: 3436
+  ids: 8945
+  ids: 8961
+  ids: 8962
+  ids: 8963
+  ids: 8964
   name: "Tyras guard"
   hitpoints: 110
   att: 85
