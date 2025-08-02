@@ -15989,13 +15989,15 @@ npcs {
   name: "Guard"
   version: "3"
   hitpoints: 22
-  att: 19
-  str: 18
+  att: 1
+  str: 1
   def: 14
   mage: 1
-  range: 1
+  range: 19
   attbns: 4
   strbns: 5
+  arange: 4
+  rngbns: 5
   dstab: 18
   dslash: 25
   dcrush: 19
@@ -16007,13 +16009,15 @@ npcs {
   name: "Guard"
   version: "4"
   hitpoints: 22
-  att: 19
-  str: 18
+  att: 1
+  str: 1
   def: 14
   mage: 1
-  range: 1
+  range: 19
   attbns: 4
   strbns: 5
+  arange: 4
+  rngbns: 5
   dstab: 18
   dslash: 25
   dcrush: 19
@@ -16061,13 +16065,15 @@ npcs {
   name: "Guard"
   version: "7"
   hitpoints: 22
-  att: 19
-  str: 18
+  att: 1
+  str: 1
   def: 14
   mage: 1
-  range: 1
+  range: 19
   attbns: 4
   strbns: 5
+  arange: 4
+  rngbns: 5
   dstab: 18
   dslash: 25
   dcrush: 19
@@ -16079,13 +16085,15 @@ npcs {
   name: "Guard"
   version: "8"
   hitpoints: 22
-  att: 19
-  str: 18
+  att: 1
+  str: 1
   def: 14
   mage: 1
-  range: 1
+  range: 19
   attbns: 4
   strbns: 5
+  arange: 4
+  rngbns: 5
   dstab: 18
   dslash: 25
   dcrush: 19
@@ -17121,13 +17129,15 @@ npcs {
   name: "Guard"
   version: "3"
   hitpoints: 22
-  att: 19
-  str: 18
+  att: 1
+  str: 1
   def: 14
   mage: 1
-  range: 1
+  range: 19
   attbns: 4
   strbns: 5
+  arange: 4
+  rngbns: 5
   dstab: 18
   dslash: 25
   dcrush: 19
@@ -17139,13 +17149,15 @@ npcs {
   name: "Guard"
   version: "4"
   hitpoints: 22
-  att: 19
-  str: 18
+  att: 1
+  str: 1
   def: 14
   mage: 1
-  range: 1
+  range: 19
   attbns: 4
   strbns: 5
+  arange: 4
+  rngbns: 5
   dstab: 18
   dslash: 25
   dcrush: 19
@@ -17193,13 +17205,15 @@ npcs {
   name: "Guard"
   version: "7"
   hitpoints: 22
-  att: 19
-  str: 18
+  att: 1
+  str: 1
   def: 14
   mage: 1
-  range: 1
+  range: 19
   attbns: 4
   strbns: 5
+  arange: 4
+  rngbns: 5
   dstab: 18
   dslash: 25
   dcrush: 19
@@ -17211,13 +17225,15 @@ npcs {
   name: "Guard"
   version: "8"
   hitpoints: 22
-  att: 19
-  str: 18
+  att: 1
+  str: 1
   def: 14
   mage: 1
-  range: 1
+  range: 19
   attbns: 4
   strbns: 5
+  arange: 4
+  rngbns: 5
   dstab: 18
   dslash: 25
   dcrush: 19
