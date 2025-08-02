@@ -101997,7 +101997,7 @@ items {
   key: 28919
   value {
     id: 28919
-    name: "Tonalztics of ralos (uncharged)"
+    name: "Tonalztics of Ralos (uncharged)"
     stat_bonuses {
       ranged_attack: 115
       ranged_strength: 55
@@ -102040,7 +102040,7 @@ items {
   key: 28922
   value {
     id: 28922
-    name: "Tonalztics of ralos"
+    name: "Tonalztics of Ralos"
     stat_bonuses {
       ranged_attack: 115
       ranged_strength: 55
