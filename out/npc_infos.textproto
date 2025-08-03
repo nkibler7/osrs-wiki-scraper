@@ -19285,7 +19285,7 @@ npcs {
   ids: 273
   ids: 8080
   name: "Iron dragon"
-  version: "Normal"
+  version: "Standard"
   hitpoints: 165
   att: 165
   str: 165
