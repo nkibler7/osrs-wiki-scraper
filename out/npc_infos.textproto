@@ -13978,7 +13978,6 @@ npcs {
   dslash: 110
   dcrush: 130
   dmagic: 125
-  drange: 100
 }
 npcs {
   ids: 6358
