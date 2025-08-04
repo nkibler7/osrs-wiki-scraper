@@ -11580,6 +11580,15 @@ items {
   }
 }
 items {
+  key: 1833
+  value {
+    id: 1833
+    name: "Desert shirt"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 1835
   value {
     id: 1835
