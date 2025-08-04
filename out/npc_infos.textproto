@@ -14787,7 +14787,7 @@ npcs {
 }
 npcs {
   ids: 7551
-  version: "Normal"
+  version: "Head (Normal)"
   hitpoints: 800
   att: 250
   str: 250
@@ -14805,7 +14805,7 @@ npcs {
 }
 npcs {
   ids: 7554
-  version: "Challenge Mode"
+  version: "Head (Challenge Mode)"
   hitpoints: 800
   att: 375
   str: 375
@@ -14823,7 +14823,7 @@ npcs {
 }
 npcs {
   ids: 7552
-  version: "Normal"
+  version: "Left claw (Normal)"
   hitpoints: 600
   att: 250
   str: 250
@@ -14841,7 +14841,7 @@ npcs {
 }
 npcs {
   ids: 7555
-  version: "Challenge Mode"
+  version: "Left claw (Challenge Mode)"
   hitpoints: 600
   att: 375
   str: 375
@@ -14859,7 +14859,7 @@ npcs {
 }
 npcs {
   ids: 7550
-  version: "Normal"
+  version: "Right claw (Normal)"
   hitpoints: 600
   att: 250
   str: 250
@@ -14877,7 +14877,7 @@ npcs {
 }
 npcs {
   ids: 7553
-  version: "Challenge Mode"
+  version: "Right claw (Challenge Mode)"
   hitpoints: 600
   att: 375
   str: 375
