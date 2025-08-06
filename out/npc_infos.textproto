@@ -27370,6 +27370,25 @@ npcs {
   strbns: -42
 }
 npcs {
+  ids: 12851
+  ids: 12852
+  ids: 12853
+  name: "Rabbit"
+  version: "Varlamore"
+  hitpoints: 5
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  attbns: -47
+  strbns: -42
+  dslash: -42
+  dcrush: -42
+  dmagic: -42
+  drange: -42
+}
+npcs {
   ids: 9118
   name: "Rabbit"
   hitpoints: 2000
