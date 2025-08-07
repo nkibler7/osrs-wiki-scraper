@@ -2137,6 +2137,26 @@ npcs {
 npcs {
   ids: 14318
   name: "Augur Metzli"
+  version: "Magic"
+  hitpoints: 600
+  att: 1
+  str: 1
+  def: 160
+  mage: 180
+  range: 180
+  amagic: 110
+  mbns: 30
+  arange: 110
+  rngbns: 30
+  dstab: 60
+  dslash: 80
+  dcrush: 70
+  dmagic: 100
+}
+npcs {
+  ids: 14313
+  name: "Augur Metzli"
+  version: "Ranged"
   hitpoints: 600
   att: 1
   str: 1
@@ -5521,45 +5541,6 @@ npcs {
   mage: 1
   range: 1
   strbns: 20
-}
-npcs {
-  ids: 14390
-  name: "Captain Vibia"
-  version: "1"
-  hitpoints: 150
-  att: 80
-  def: 200
-  mage: 15
-  dstab: 30
-  dslash: 30
-  dcrush: 20
-  dmagic: 5
-}
-npcs {
-  ids: 14390
-  name: "Captain Vibia"
-  version: "2"
-  hitpoints: 150
-  att: 80
-  def: 90
-  mage: 15
-  dstab: 30
-  dslash: 30
-  dcrush: 20
-  dmagic: 5
-}
-npcs {
-  ids: 14390
-  name: "Captain Vibia"
-  version: "3"
-  hitpoints: 150
-  att: 80
-  def: 70
-  mage: 15
-  dstab: 30
-  dslash: 30
-  dcrush: 20
-  dmagic: 5
 }
 npcs {
   ids: 2911
