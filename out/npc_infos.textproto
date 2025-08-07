@@ -10375,7 +10375,6 @@ npcs {
   dslash: -10
   dcrush: 50
   dmagic: 35
-  attributes: "Slayer"
 }
 npcs {
   name: "Elder Hubber"
