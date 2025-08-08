@@ -854,8 +854,10 @@ npcs {
   name: "Ancient Custodian"
   hitpoints: 330
   att: 240
+  str: 180
   def: 80
   mage: 80
+  range: 1
   amagic: 45
   dstab: 50
   dslash: -30
