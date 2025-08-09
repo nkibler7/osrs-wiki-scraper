@@ -5915,11 +5915,52 @@ npcs {
 }
 npcs {
   ids: 1047
+  name: "Cave horror"
+  version: "Worker"
+  hitpoints: 55
+  att: 80
+  str: 77
+  def: 62
+  mage: 80
+  range: 1
+}
+npcs {
   ids: 1048
+  name: "Cave horror"
+  version: "Young worker"
+  hitpoints: 55
+  att: 80
+  str: 77
+  def: 62
+  mage: 80
+  range: 1
+}
+npcs {
   ids: 1049
+  name: "Cave horror"
+  version: "Guard"
+  hitpoints: 55
+  att: 80
+  str: 77
+  def: 62
+  mage: 80
+  range: 1
+}
+npcs {
   ids: 1050
+  name: "Cave horror"
+  version: "Small guard"
+  hitpoints: 55
+  att: 80
+  str: 77
+  def: 62
+  mage: 80
+  range: 1
+}
+npcs {
   ids: 1051
   name: "Cave horror"
+  version: "Alpha"
   hitpoints: 55
   att: 80
   str: 77
