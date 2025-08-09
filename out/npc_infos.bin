@@ -777,27 +777,20 @@ $
 åBlue dragon4 i(_0_8_@HàFêFò<™dragon,fiery
 8
 çBlue dragon5 i(_0_8_@HàFêFò<™dragon,fiery
-F
-ˆ-Blue dragonTask only, 1 i(_0_8_@HÄ
-àFêFò<™dragon,fiery
-F
-˜-Blue dragonTask only, 2 i(_0_8_@HÄ
-àFêFò<™dragon,fiery
-F
-¯-Blue dragonTask only, 3 i(_0_8_@HÄ
-àFêFò<™dragon,fiery
-F
-˘-Blue dragonTask only, 4 i(_0_8_@HÄ
-àFêFò<™dragon,fiery
-F
-˙-Blue dragonTask only, 5 i(_0_8_@HÄ
-àFêFò<™dragon,fiery
-O
-ónBlue dragonRuins of Tapoyauik, 1 i(_0_8_@HÄ
-àFêFò<™dragon,fiery
-O
-ònBlue dragonRuins of Tapoyauik, 2 i(_0_8_@HÄ
-àFêFò<™dragon,fiery
+C
+ˆ-Blue dragonTask only, 1 i(_0_8_@HàFêFò<™dragon,fiery
+C
+˜-Blue dragonTask only, 2 i(_0_8_@HàFêFò<™dragon,fiery
+C
+¯-Blue dragonTask only, 3 i(_0_8_@HàFêFò<™dragon,fiery
+C
+˘-Blue dragonTask only, 4 i(_0_8_@HàFêFò<™dragon,fiery
+C
+˙-Blue dragonTask only, 5 i(_0_8_@HàFêFò<™dragon,fiery
+L
+ónBlue dragonRuins of Tapoyauik, 1 i(_0_8_@HàFêFò<™dragon,fiery
+L
+ònBlue dragonRuins of Tapoyauik, 2 i(_0_8_@HàFêFò<™dragon,fiery
 -
 ’e	Blue Moon Ù(Ç0d8<@dHPdÄdàdòÙ†Ù
 
@@ -4628,8 +4621,8 @@ Riyl ShadeShade L(X078<™shade,undead,spectral
 ˇ+Riyl shadow L(W088<@2H2™undead, spectral
 8
 ˘>Robert the Strong ò8å@ÄH»p~Äåà¥ê<ò¨†‹
-(
-ùRock å(F0n8FP<XdÄ#à<ê#ò»†»
+$
+ùRock å(F0n8FP<XdÄ#à<ê#ò»
 #
 df	Rock CrabActive 2(08@H
 
@@ -5676,9 +5669,9 @@ S
 %
 æThrantax the Mighty P(P0P8P@H
 #Three-headed Gryphon ê(†8x@dHñ
--
+)
 
-£§•¶ßThrower Troll _(0P8H<ò»†»
+£§•¶ßThrower Troll _(0P8H<ò»
 )
 
 ß ® © ™ ´ Thrower troll _(0_8H<ò»
