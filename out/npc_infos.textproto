@@ -33754,7 +33754,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 90
-  drange: 50
 }
 npcs {
   ids: 788
@@ -33770,7 +33769,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 90
-  drange: 50
 }
 npcs {
   ids: 789
@@ -33786,7 +33784,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 90
-  drange: 50
 }
 npcs {
   ids: 790
@@ -33802,7 +33799,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 90
-  drange: 50
 }
 npcs {
   ids: 791
@@ -33818,7 +33814,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 90
-  drange: 50
 }
 npcs {
   ids: 792
@@ -33834,7 +33829,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 90
-  drange: 50
 }
 npcs {
   ids: 793
@@ -33850,7 +33844,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 90
-  drange: 50
 }
 npcs {
   ids: 13482
