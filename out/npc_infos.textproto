@@ -25650,16 +25650,116 @@ npcs {
 }
 npcs {
   ids: 4167
+  name: "Outlaw"
+  version: "1"
+  hitpoints: 20
+  att: 35
+  str: 30
+  def: 25
+  mage: 1
+  range: 1
+  strbns: -21
+}
+npcs {
   ids: 4168
+  name: "Outlaw"
+  version: "2"
+  hitpoints: 20
+  att: 35
+  str: 30
+  def: 25
+  mage: 1
+  range: 1
+  strbns: -21
+}
+npcs {
   ids: 4169
+  name: "Outlaw"
+  version: "3"
+  hitpoints: 20
+  att: 35
+  str: 30
+  def: 25
+  mage: 1
+  range: 1
+  strbns: -21
+}
+npcs {
   ids: 4170
+  name: "Outlaw"
+  version: "4"
+  hitpoints: 20
+  att: 35
+  str: 30
+  def: 25
+  mage: 1
+  range: 1
+  strbns: -21
+}
+npcs {
   ids: 4171
+  name: "Outlaw"
+  version: "5"
+  hitpoints: 20
+  att: 35
+  str: 30
+  def: 25
+  mage: 1
+  range: 1
+  strbns: -21
+}
+npcs {
   ids: 4172
+  name: "Outlaw"
+  version: "6"
+  hitpoints: 20
+  att: 35
+  str: 30
+  def: 25
+  mage: 1
+  range: 1
+  strbns: -21
+}
+npcs {
   ids: 4173
+  name: "Outlaw"
+  version: "7"
+  hitpoints: 20
+  att: 35
+  str: 30
+  def: 25
+  mage: 1
+  range: 1
+  strbns: -21
+}
+npcs {
   ids: 4174
+  name: "Outlaw"
+  version: "8"
+  hitpoints: 20
+  att: 35
+  str: 30
+  def: 25
+  mage: 1
+  range: 1
+  strbns: -21
+}
+npcs {
   ids: 4175
+  name: "Outlaw"
+  version: "9"
+  hitpoints: 20
+  att: 35
+  str: 30
+  def: 25
+  mage: 1
+  range: 1
+  strbns: -21
+}
+npcs {
   ids: 4176
   name: "Outlaw"
+  version: "10"
   hitpoints: 20
   att: 35
   str: 30
