@@ -37546,7 +37546,7 @@ npcs {
   strbns: -8
   rngbns: -8
   dmagic: 30
-  attributes: "xerician"
+  attributes: "xerician, flying"
 }
 npcs {
   ids: 7538
@@ -37562,7 +37562,7 @@ npcs {
   strbns: -8
   rngbns: -8
   dmagic: 30
-  attributes: "xerician"
+  attributes: "xerician, flying"
 }
 npcs {
   ids: 7530
