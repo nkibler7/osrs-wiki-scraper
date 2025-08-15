@@ -108829,3 +108829,180 @@ items {
     }
   }
 }
+items {
+  key: 31235
+  value {
+    id: 31235
+    name: "Gleaming rapier"
+    stat_bonuses {
+      stab_attack: 100
+      slash_attack: 78
+      crush_attack: -3
+      stab_defence: 20
+      slash_defence: 15
+      crush_defence: -9
+      melee_strength: 102
+    }
+    weapon_details {
+      base_attack_speed: 5
+      combat_options {
+        name: "Stab"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Lunge"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Slash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 31770
+  value {
+    id: 31770
+    name: "Suave hat"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31772
+  value {
+    id: 31772
+    name: "Suave chest"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31780
+  value {
+    id: 31780
+    name: "Nifty hat"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31782
+  value {
+    id: 31782
+    name: "Nifty chest"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31784
+  value {
+    id: 31784
+    name: "Nifty legs"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31790
+  value {
+    id: 31790
+    name: "Sleek hat"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31792
+  value {
+    id: 31792
+    name: "Sleek chest"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31794
+  value {
+    id: 31794
+    name: "Sleek legs"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 32208
+  value {
+    id: 32208
+    name: "Crate of lovakengj coal"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 32210
+  value {
+    id: 32210
+    name: "Crate of suinlight furs"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 32212
+  value {
+    id: 32212
+    name: "Crate of firewood"
+  }
+}
+items {
+  key: 32213
+  value {
+    id: 32213
+    name: "Crate of armour parts"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 32215
+  value {
+    id: 32215
+    name: "Crate of sulphur"
+  }
+}
+items {
+  key: 32237
+  value {
+    id: 32237
+    name: "Crate of rations"
+    stat_bonuses {
+    }
+  }
+}
