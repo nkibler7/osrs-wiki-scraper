@@ -104723,6 +104723,24 @@ items {
   }
 }
 items {
+  key: 29974
+  value {
+    id: 29974
+    name: "Prescription goggles"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 29976
+  value {
+    id: 29976
+    name: "Prescription goggles"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 29978
   value {
     id: 29978
