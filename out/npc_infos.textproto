@@ -38090,7 +38090,6 @@ npcs {
   arange: 240
   dstab: 50
   dslash: 50
-  drange: 62
 }
 npcs {
   ids: 12499
@@ -38110,7 +38109,6 @@ npcs {
   arange: 160
   dstab: 50
   dslash: 50
-  drange: 62
 }
 npcs {
   ids: 12490
