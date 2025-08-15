@@ -5534,6 +5534,21 @@ npcs {
   strbns: 20
 }
 npcs {
+  name: "Captain Cotus"
+  hitpoints: 100
+  att: 85
+  def: 65
+  mage: 60
+  range: 90
+  strbns: 43
+  amagic: 13
+  arange: 100
+  dstab: 35
+  dslash: 11
+  dcrush: 40
+  dmagic: 70
+}
+npcs {
   ids: 2911
   name: "Carnivorous chinchompa"
   hitpoints: 1
@@ -12624,6 +12639,9 @@ npcs {
   dcrush: 30
 }
 npcs {
+  name: "Frigatebird"
+}
+npcs {
   ids: 8702
   name: "Frog"
   hitpoints: 8
@@ -15280,6 +15298,17 @@ npcs {
   att: 65
   def: 50
   mage: 50
+  dstab: 10
+  dslash: 20
+  dcrush: 40
+  dmagic: 100
+}
+npcs {
+  name: "Gryphon"
+  hitpoints: 150
+  att: 65
+  def: 50
+  mage: 50
 }
 npcs {
   ids: 3254
@@ -17909,6 +17938,11 @@ npcs {
   dcrush: -21
   dmagic: -21
   drange: -21
+}
+npcs {
+  name: "Hermit Crab"
+  hitpoints: 75
+  dcrush: -50
 }
 npcs {
   ids: 3295
@@ -25608,6 +25642,11 @@ npcs {
   def: 13
   mage: 1
   range: 1
+}
+npcs {
+  name: "Osprey"
+  hitpoints: 80
+  att: 70
 }
 npcs {
   ids: 8994
