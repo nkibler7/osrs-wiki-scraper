@@ -42303,10 +42303,6 @@ items {
     id: 10049
     name: "Graahk top"
     stat_bonuses {
-      stab_defence: 10
-      slash_defence: 15
-      crush_defence: 19
-      ranged_defence: 12
     }
   }
 }
