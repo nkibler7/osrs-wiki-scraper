@@ -39640,7 +39640,6 @@ npcs {
   attributes: "demon"
 }
 npcs {
-  ids: 2847
   name: "Yeti"
   hitpoints: 55
   att: 48
