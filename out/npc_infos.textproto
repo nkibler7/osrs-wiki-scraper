@@ -22873,6 +22873,7 @@ npcs {
   dslash: 50
   dmagic: 50
   drange: 50
+  attributes: "Golem"
 }
 npcs {
   ids: 3949
