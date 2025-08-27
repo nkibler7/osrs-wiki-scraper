@@ -8527,7 +8527,7 @@ npcs {
   mage: 100
   range: 140
   dmagic: 80
-  attributes: "Flying"
+  attributes: "Flying, Golem"
 }
 npcs {
   ids: 3021
@@ -10064,6 +10064,7 @@ npcs {
   def: 100
   mage: 140
   range: 140
+  attributes: "Golem"
 }
 npcs {
   ids: 7887
@@ -10077,6 +10078,7 @@ npcs {
   def: 150
   mage: 250
   range: 250
+  attributes: "Golem"
 }
 npcs {
   ids: 423
@@ -12968,6 +12970,7 @@ npcs {
   dslash: 60
   dcrush: -20
   dmagic: 20
+  attributes: "Golem"
 }
 npcs {
   ids: 1543
@@ -12983,6 +12986,7 @@ npcs {
   dslash: 60
   dcrush: -20
   dmagic: 20
+  attributes: "Golem"
 }
 npcs {
   ids: 4884
