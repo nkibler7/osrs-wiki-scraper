@@ -30152,9 +30152,19 @@ npcs {
 }
 npcs {
   ids: 5457
-  ids: 5729
-  ids: 1430
   name: "Shipyard worker"
+  version: "1"
+  hitpoints: 10
+  att: 10
+  str: 10
+  def: 10
+  attbns: 6
+  strbns: 6
+}
+npcs {
+  ids: 5729
+  name: "Shipyard worker"
+  version: "2"
   hitpoints: 10
   att: 10
   str: 10
