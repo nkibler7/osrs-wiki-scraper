@@ -104260,6 +104260,16 @@ items {
   value {
     id: 29847
     name: "Blood moon tassets"
+    stat_bonuses {
+      ranged_attack: -7
+      magic_attack: -21
+      stab_defence: 30
+      slash_defence: 50
+      crush_defence: 49
+      ranged_defence: 46
+      magic_defence: 32
+      melee_strength: 2
+    }
   }
 }
 items {
