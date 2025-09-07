@@ -29642,15 +29642,15 @@ npcs {
 }
 npcs {
   name: "Sea kraken"
-  version: "Earth"
+  version: "Ranged"
 }
 npcs {
   name: "Sea kraken"
-  version: "Water"
+  version: "Magic"
 }
 npcs {
   name: "Sea kraken"
-  version: "Fire"
+  version: "Melee"
 }
 npcs {
   name: "Sea kraken (Water)"

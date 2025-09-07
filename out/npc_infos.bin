@@ -4809,12 +4809,12 @@ G
 Sea kraken (Air) }(x8–
 Sea kraken (Earth) }(x8–
 Sea kraken (Fire) }(x8–
+
+Sea krakenRanged
 
-Sea krakenEarth
+Sea krakenMagic
 
-Sea krakenWater
-
-Sea krakenFire
+Sea krakenMelee
 Sea kraken (Water) }(x8–
 	Sea MogreAlive <((8(H<
 	Sea MogreDead <((8(H<
