@@ -29540,6 +29540,9 @@ npcs {
   drange: 55
 }
 npcs {
+  name: "Scorpion"
+}
+npcs {
   ids: 7390
   name: "Screaming banshee"
   hitpoints: 61
