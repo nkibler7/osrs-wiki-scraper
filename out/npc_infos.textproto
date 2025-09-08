@@ -10428,17 +10428,27 @@ npcs {
 }
 npcs {
   name: "Elder Hubber"
-  hitpoints: 60
-  att: 90
-  def: 50
-  mage: 40
+  version: "Standard"
+}
+npcs {
+  name: "Elder Hubber"
+  version: "Combat"
+}
+npcs {
+  name: "Elder Hubber"
+  version: "Combat, done"
 }
 npcs {
   name: "Elder Root"
-  hitpoints: 60
-  att: 90
-  def: 50
-  mage: 40
+  version: "Standard"
+}
+npcs {
+  name: "Elder Root"
+  version: "Combat"
+}
+npcs {
+  name: "Elder Root"
+  version: "Combat, done"
 }
 npcs {
   ids: 14147
@@ -35210,6 +35220,9 @@ npcs {
   def: 80
   mage: 1
   range: 1
+}
+npcs {
+  name: "Three-headed Gryphon"
 }
 npcs {
   name: "Three-headed Gryphon"
