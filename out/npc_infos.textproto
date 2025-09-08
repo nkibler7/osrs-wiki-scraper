@@ -26935,6 +26935,26 @@ npcs {
 npcs {
   name: "Pirate"
   version: "1"
+}
+npcs {
+  name: "Pirate"
+  version: "2"
+}
+npcs {
+  name: "Pirate"
+  version: "3"
+}
+npcs {
+  name: "Pirate"
+  version: "4"
+}
+npcs {
+  name: "Pirate"
+  version: "5"
+}
+npcs {
+  name: "Pirate"
+  version: "1"
   hitpoints: 38
   att: 54
   def: 35
