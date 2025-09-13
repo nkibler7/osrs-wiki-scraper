@@ -7289,10 +7289,41 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 4184
   ids: 11581
+  name: "Crocodile"
+  version: "Water"
+  hitpoints: 62
+  att: 53
+  str: 54
+  def: 54
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 12
+  dcrush: 22
+  dmagic: 10
+  drange: 20
+}
+npcs {
   ids: 11582
   name: "Crocodile"
+  version: "Land"
+  hitpoints: 62
+  att: 53
+  str: 54
+  def: 54
+  mage: 1
+  range: 1
+  dstab: 20
+  dslash: 12
+  dcrush: 22
+  dmagic: 10
+  drange: 20
+}
+npcs {
+  ids: 4184
+  name: "Crocodile"
+  version: "Water & land"
   hitpoints: 62
   att: 53
   str: 54
