@@ -2419,7 +2419,7 @@ npcs {
 npcs {
   ids: 11781
   name: "Baboon"
-  hitpoints: 35
+  hitpoints: 10
   def: 50
   mage: 50
   range: 80
