@@ -23334,6 +23334,34 @@ npcs {
   drange: -10
 }
 npcs {
+  ids: 12812
+  name: "Minotaur"
+  version: "Normal"
+  hitpoints: 225
+  att: 300
+  str: 360
+  def: 190
+  mage: 250
+  range: 120
+  attbns: 15
+  strbns: 64
+  drange: 12
+}
+npcs {
+  ids: 12813
+  name: "Minotaur"
+  version: "Red Flag"
+  hitpoints: 225
+  att: 300
+  str: 360
+  def: 190
+  mage: 250
+  range: 120
+  attbns: 15
+  strbns: 64
+  drange: 12
+}
+npcs {
   ids: 13814
   ids: 13815
   name: "Minotaur"
