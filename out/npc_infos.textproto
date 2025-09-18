@@ -17923,6 +17923,11 @@ npcs {
   attributes: "undead"
 }
 npcs {
+  ids: 12825
+  name: "Healing totem"
+  hitpoints: 1
+}
+npcs {
   ids: 104
   ids: 105
   ids: 7256
