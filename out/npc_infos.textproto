@@ -28402,7 +28402,7 @@ npcs {
 npcs {
   ids: 7403
   name: "Repugnant spectre"
-  hitpoints: 390
+  hitpoints: 380
   att: 1
   str: 1
   def: 220
