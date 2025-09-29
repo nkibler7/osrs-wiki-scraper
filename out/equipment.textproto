@@ -10411,11 +10411,11 @@ items {
       stab_attack: 10
       slash_attack: -1
       crush_attack: 40
-      magic_attack: 4
+      magic_attack: 14
       stab_defence: 2
       slash_defence: 3
       crush_defence: 1
-      magic_defence: 4
+      magic_defence: 14
       melee_strength: 50
     }
     weapon_details {
