@@ -10666,7 +10666,6 @@ npcs {
 npcs {
   ids: 13463
   ids: 13480
-  ids: 13566
   name: "Elite Black Knight"
   version: "Male"
   hitpoints: 90
