@@ -1376,6 +1376,9 @@ npcs {
   drange: 70
 }
 npcs {
+  name: "Aquanite"
+}
+npcs {
   ids: 13668
   name: "Araxxor"
   version: "In combat"
@@ -10429,6 +10432,9 @@ npcs {
   def: 1
   mage: 1
   range: 1
+}
+npcs {
+  name: "Elder Aquanite"
 }
 npcs {
   ids: 6607
