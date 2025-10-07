@@ -12733,6 +12733,9 @@ npcs {
   dmagic: -50
 }
 npcs {
+  name: "Frost dragon"
+}
+npcs {
   ids: 13728
   ids: 13787
   ids: 13788
@@ -22610,6 +22613,9 @@ npcs {
   dcrush: 25
   dmagic: 150
   drange: 10
+}
+npcs {
+  name: "Magma strykewyrm"
 }
 npcs {
   ids: 7396
