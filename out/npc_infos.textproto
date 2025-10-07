@@ -21892,6 +21892,9 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
+  name: "Lava strykewyrm"
+}
+npcs {
   ids: 3233
   name: "Leech"
   hitpoints: 45
