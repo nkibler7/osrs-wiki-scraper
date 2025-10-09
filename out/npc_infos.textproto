@@ -1840,6 +1840,7 @@ npcs {
   dslash: 80
   dcrush: 40
   dmagic: 160
+  attributes: "Undead"
 }
 npcs {
   ids: 643
