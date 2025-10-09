@@ -15345,14 +15345,6 @@ npcs {
 }
 npcs {
   name: "Gryphon"
-  hitpoints: 150
-  att: 65
-  def: 50
-  mage: 50
-  dstab: 10
-  dslash: 20
-  dcrush: 40
-  dmagic: 100
 }
 npcs {
   name: "Gryphon"
@@ -30205,6 +30197,9 @@ npcs {
   mage: 1
 }
 npcs {
+  name: "Shellbane Gryphon"
+}
+npcs {
   ids: 1694
   ids: 1695
   name: "Shifter"
@@ -34002,6 +33997,9 @@ npcs {
   mage: 1
   range: 1
   attributes: "undead"
+}
+npcs {
+  name: "Superior gryphon"
 }
 npcs {
   ids: 787
