@@ -2141,44 +2141,6 @@ npcs {
   attributes: "undead, spectral"
 }
 npcs {
-  ids: 14318
-  name: "Augur Metzli"
-  version: "Magic"
-  hitpoints: 600
-  att: 1
-  str: 1
-  def: 160
-  mage: 180
-  range: 180
-  amagic: 110
-  mbns: 30
-  arange: 110
-  rngbns: 30
-  dstab: 60
-  dslash: 80
-  dcrush: 70
-  dmagic: 100
-}
-npcs {
-  ids: 14313
-  name: "Augur Metzli"
-  version: "Ranged"
-  hitpoints: 600
-  att: 1
-  str: 1
-  def: 160
-  mage: 180
-  range: 180
-  amagic: 110
-  mbns: 30
-  arange: 110
-  rngbns: 30
-  dstab: 60
-  dslash: 80
-  dcrush: 70
-  dmagic: 100
-}
-npcs {
   ids: 10531
   name: "Avatar of Creation"
   hitpoints: 1500
@@ -23241,6 +23203,42 @@ npcs {
   dslash: 40
   dcrush: 60
   dmagic: 10
+}
+npcs {
+  ids: 14318
+  name: "Augur Metzli"
+  hitpoints: 600
+  att: 1
+  str: 1
+  def: 160
+  mage: 180
+  range: 180
+  amagic: 110
+  mbns: 30
+  arange: 110
+  rngbns: 30
+  dstab: 60
+  dslash: 80
+  dcrush: 70
+  dmagic: 100
+}
+npcs {
+  ids: 14313
+  name: "Augur Metzli"
+  hitpoints: 600
+  att: 1
+  str: 1
+  def: 160
+  mage: 180
+  range: 180
+  amagic: 110
+  mbns: 30
+  arange: 110
+  rngbns: 30
+  dstab: 60
+  dslash: 80
+  dcrush: 70
+  dmagic: 100
 }
 npcs {
   ids: 2624
