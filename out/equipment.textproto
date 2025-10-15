@@ -108931,6 +108931,29 @@ items {
   }
 }
 items {
+  key: 31172
+  value {
+    id: 31172
+    name: "Battlehat"
+    stat_bonuses {
+      stab_attack: 15
+      slash_attack: 15
+      crush_attack: 15
+      ranged_attack: 15
+      magic_attack: 15
+      stab_defence: 60
+      slash_defence: 60
+      crush_defence: 60
+      ranged_defence: 60
+      magic_defence: 60
+      melee_strength: 10
+      ranged_strength: 5
+      magic_damage: 0.5
+      prayer: 10
+    }
+  }
+}
+items {
   key: 31227
   value {
     id: 31227
