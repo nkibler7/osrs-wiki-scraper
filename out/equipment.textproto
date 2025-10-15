@@ -108954,6 +108954,51 @@ items {
   }
 }
 items {
+  key: 31187
+  value {
+    id: 31187
+    name: "Grid master tabard"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31193
+  value {
+    id: 31193
+    name: "Swords and emblem"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31196
+  value {
+    id: 31196
+    name: "Swords and emblem"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31199
+  value {
+    id: 31199
+    name: "Swords and emblem"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31202
+  value {
+    id: 31202
+    name: "Swords and emblem"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 31227
   value {
     id: 31227
