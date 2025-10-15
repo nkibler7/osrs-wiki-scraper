@@ -83003,13 +83003,8 @@ items {
   key: 25110
   value {
     id: 25110
-    name: "Trailblazer axe"
+    name: "Echo axe"
     stat_bonuses {
-      stab_attack: -2
-      slash_attack: 38
-      crush_attack: 32
-      slash_defence: 1
-      melee_strength: 42
     }
     weapon_details {
       base_attack_speed: 5
@@ -83057,13 +83052,8 @@ items {
   key: 25112
   value {
     id: 25112
-    name: "Trailblazer pickaxe"
+    name: "Echo pickaxe"
     stat_bonuses {
-      stab_attack: 38
-      slash_attack: -2
-      crush_attack: 32
-      slash_defence: 1
-      melee_strength: 42
     }
     weapon_details {
       base_attack_speed: 5
@@ -83111,18 +83101,14 @@ items {
   key: 25114
   value {
     id: 25114
-    name: "Trailblazer harpoon"
+    name: "Echo harpoon"
     stat_bonuses {
-      stab_attack: 38
-      slash_attack: 32
-      slash_defence: 1
-      melee_strength: 42
     }
     weapon_details {
       base_attack_speed: 5
       base_attack_range: 1
       combat_options {
-        name: "Punch"
+        name: "Stab"
         modifiers {
           attack_modifier: 3
         }
@@ -83131,7 +83117,16 @@ items {
         }
       }
       combat_options {
-        name: "Kick"
+        name: "Lunge"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Slash"
         modifiers {
           strength_modifier: 3
         }
@@ -108932,6 +108927,71 @@ items {
           attack_style: RANGED_ATTACK_STYLE_LONGRANGE
         }
       }
+    }
+  }
+}
+items {
+  key: 31227
+  value {
+    id: 31227
+    name: "Spooky pumpkin lantern"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 31229
+  value {
+    id: 31229
+    name: "Grim reaper top"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31231
+  value {
+    id: 31231
+    name: "Grim reaper bottoms"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31233
+  value {
+    id: 31233
+    name: "Grim reaper gloves"
+    stat_bonuses {
     }
   }
 }
