@@ -27633,6 +27633,7 @@ npcs {
   range: 1
   attbns: -47
   strbns: -42
+  dstab: -42
   dslash: -42
   dcrush: -42
   dmagic: -42
