@@ -24842,7 +24842,6 @@ npcs {
 }
 npcs {
   ids: 3962
-  ids: 6379
   name: "Nezikchened"
   hitpoints: 150
   att: 165
