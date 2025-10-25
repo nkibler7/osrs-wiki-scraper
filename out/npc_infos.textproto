@@ -45,8 +45,7 @@ npcs {
   dstab: 40
   dslash: 40
   dcrush: 40
-  drange: 30
-  attributes: "undead, Spectral"
+  attributes: "undead, spectral"
 }
 npcs {
   ids: 8260
