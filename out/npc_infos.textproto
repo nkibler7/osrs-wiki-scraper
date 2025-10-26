@@ -21110,7 +21110,7 @@ npcs {
 npcs {
   ids: 7405
   name: "King kurask"
-  hitpoints: 420
+  hitpoints: 270
   att: 190
   str: 320
   def: 250
