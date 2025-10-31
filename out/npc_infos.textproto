@@ -11042,6 +11042,30 @@ npcs {
   dmagic: 10
 }
 npcs {
+  ids: 14407
+  ids: 14408
+  name: "Emissary Archer"
+  version: "1"
+  hitpoints: 40
+  att: 60
+  str: 40
+  def: 70
+  mage: 15
+  range: 70
+}
+npcs {
+  ids: 14407
+  ids: 14408
+  name: "Emissary Archer"
+  version: "2"
+  hitpoints: 40
+  att: 60
+  str: 40
+  def: 70
+  mage: 15
+  range: 70
+}
+npcs {
   ids: 13744
   name: "Emissary Ascended"
   version: "1"
