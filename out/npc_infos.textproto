@@ -35513,7 +35513,7 @@ npcs {
   ids: 1722
   name: "Torcher"
   version: "Level 91"
-  hitpoints: 71
+  hitpoints: 70
   def: 89
   mage: 107
 }
