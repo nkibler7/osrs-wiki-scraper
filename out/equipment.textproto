@@ -102833,7 +102833,6 @@ items {
     stat_bonuses {
       stab_attack: 11
       slash_attack: 72
-      crush_attack: 1
       melee_strength: 64
     }
     weapon_details {
