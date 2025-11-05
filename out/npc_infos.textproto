@@ -6166,7 +6166,7 @@ npcs {
   ids: 10689
   name: "Chaos Golem"
   version: "Golem"
-  hitpoints: 71
+  hitpoints: 94
   att: 45
   str: 55
   def: 59
@@ -6183,7 +6183,7 @@ npcs {
   ids: 10690
   name: "Rubble"
   version: "Rubble"
-  hitpoints: 71
+  hitpoints: 94
   att: 45
   str: 55
   def: 59
