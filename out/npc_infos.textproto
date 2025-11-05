@@ -5327,6 +5327,13 @@ npcs {
   drange: -21
 }
 npcs {
+  name: "Bull shark"
+  hitpoints: 90
+  att: 80
+  str: 45
+  mage: 1
+}
+npcs {
   ids: 3902
   name: "Bunny"
   version: "1"
