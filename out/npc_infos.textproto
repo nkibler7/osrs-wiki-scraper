@@ -17743,7 +17743,12 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 15196
   name: "Hammerhead Shark"
+  hitpoints: 90
+  att: 80
+  str: 65
+  mage: 1
 }
 npcs {
   ids: 464
@@ -27534,12 +27539,13 @@ npcs {
   dmagic: 10
 }
 npcs {
+  ids: 15206
   name: "Pygmy kraken"
-  hitpoints: 30
+  hitpoints: 125
   att: 1
   str: 1
-  def: 30
-  mage: 40
+  def: 50
+  mage: 90
   range: 1
   dmagic: -63
 }
