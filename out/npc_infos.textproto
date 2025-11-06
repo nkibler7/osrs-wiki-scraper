@@ -33602,7 +33602,13 @@ npcs {
   drange: 200
 }
 npcs {
+  ids: 15218
   name: "Stringray"
+  hitpoints: 90
+  att: 130
+  str: 55
+  mage: 1
+  amagic: 1
 }
 npcs {
   ids: 8066
@@ -34550,7 +34556,13 @@ npcs {
   range: 115
 }
 npcs {
+  ids: 15228
   name: "Tern"
+  hitpoints: 30
+  att: 25
+  str: 20
+  mage: 1
+  amagic: 1
 }
 npcs {
   ids: 6474
@@ -35406,7 +35418,12 @@ npcs {
   dcrush: 3
 }
 npcs {
+  ids: 15198
   name: "Tiger shark"
+  hitpoints: 125
+  att: 120
+  str: 85
+  mage: 1
 }
 npcs {
   ids: 2193
