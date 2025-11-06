@@ -34541,6 +34541,9 @@ npcs {
   range: 115
 }
 npcs {
+  name: "Tern"
+}
+npcs {
   ids: 6474
   name: "Terror dog"
   version: "Level 100"
