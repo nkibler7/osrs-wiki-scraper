@@ -33596,6 +33596,9 @@ npcs {
   drange: 200
 }
 npcs {
+  name: "Stringray"
+}
+npcs {
   ids: 8066
   name: "Stone Guardian"
   version: "Magic"
@@ -35395,6 +35398,9 @@ npcs {
   dstab: 2
   dslash: 3
   dcrush: 3
+}
+npcs {
+  name: "Tiger shark"
 }
 npcs {
   ids: 2193
