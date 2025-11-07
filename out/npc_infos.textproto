@@ -5327,6 +5327,7 @@ npcs {
   drange: -21
 }
 npcs {
+  ids: 15194
   name: "Bull shark"
   hitpoints: 90
   att: 80

@@ -109091,6 +109091,35 @@ items {
   }
 }
 items {
+  key: 31288
+  value {
+    id: 31288
+    name: "Sailing cape"
+    stat_bonuses {
+      stab_defence: 9
+      slash_defence: 9
+      crush_defence: 9
+      ranged_defence: 9
+      magic_defence: 9
+    }
+  }
+}
+items {
+  key: 31290
+  value {
+    id: 31290
+    name: "Sailing cape(t)"
+    stat_bonuses {
+      stab_defence: 9
+      slash_defence: 9
+      crush_defence: 9
+      ranged_defence: 9
+      magic_defence: 9
+      prayer: 4
+    }
+  }
+}
+items {
   key: 31780
   value {
     id: 31780
