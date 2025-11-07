@@ -20015,6 +20015,7 @@ npcs {
 npcs {
   ids: 5213
   ids: 14138
+  ids: 14139
   name: "Jonny the Beard"
   hitpoints: 8
   att: 1
