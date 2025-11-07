@@ -109120,9 +109120,16 @@ items {
   }
 }
 items {
-  key: 31780
+  key: 31736
   value {
-    id: 31780
+    id: 31736
+    name: "Storm cruiser\'s hat"
+  }
+}
+items {
+  key: 31748
+  value {
+    id: 31748
     name: "Nifty hat"
     stat_bonuses {
     }
