@@ -25777,9 +25777,12 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 15222
   name: "Osprey"
   hitpoints: 80
-  att: 70
+  att: 60
+  str: 50
+  mage: 1
 }
 npcs {
   ids: 8994
