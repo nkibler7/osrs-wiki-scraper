@@ -33076,6 +33076,9 @@ npcs {
   range: 20
 }
 npcs {
+  name: "Spined Kraken"
+}
+npcs {
   ids: 1709
   name: "Spinner"
   version: "Level 36"
