@@ -34569,7 +34569,6 @@ npcs {
   att: 25
   str: 20
   mage: 1
-  amagic: 1
 }
 npcs {
   ids: 6474
