@@ -9065,6 +9065,9 @@ npcs {
   attributes: "spectral"
 }
 npcs {
+  name: "Superior gryphon"
+}
+npcs {
   ids: 3426
   name: "Dire Wolf"
   version: "Level 88"
@@ -34065,9 +34068,6 @@ npcs {
   mage: 1
   range: 1
   attributes: "undead"
-}
-npcs {
-  name: "Superior gryphon"
 }
 npcs {
   ids: 787
