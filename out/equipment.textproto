@@ -109156,3 +109156,17 @@ items {
     name: "Crate of medical supplies"
   }
 }
+items {
+  key: 32398
+  value {
+    id: 32398
+    name: "Sailors\' amulet (inert)"
+  }
+}
+items {
+  key: 32399
+  value {
+    id: 32399
+    name: "Sailors\' amulet"
+  }
+}
