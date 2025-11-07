@@ -109091,6 +109091,24 @@ items {
   }
 }
 items {
+  key: 31241
+  value {
+    id: 31241
+    name: "Horn of plenty"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31243
+  value {
+    id: 31243
+    name: "Horn of plenty (empty)"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 31288
   value {
     id: 31288
