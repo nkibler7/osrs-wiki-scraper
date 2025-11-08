@@ -24683,6 +24683,10 @@ npcs {
   drange: -5
 }
 npcs {
+  ids: 15202
+  name: "Narwhal"
+}
+npcs {
   ids: 5353
   name: "Nazastarool"
   version: "Zombie"
@@ -33084,6 +33088,7 @@ npcs {
   range: 20
 }
 npcs {
+  ids: 15208
   name: "Spined Kraken"
 }
 npcs {
