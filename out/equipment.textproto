@@ -109518,3 +109518,18 @@ items {
     }
   }
 }
+items {
+  key: 32879
+  value {
+    id: 32879
+    name: "Aquanite hopper"
+    stat_bonuses {
+      stab_attack: -5
+      slash_attack: -5
+      crush_attack: -3
+      ranged_attack: 12
+      magic_attack: -13
+      ranged_strength: 1
+    }
+  }
+}
