@@ -109142,6 +109142,17 @@ items {
   value {
     id: 31736
     name: "Storm cruiser\'s hat"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31738
+  value {
+    id: 31738
+    name: "Storm cruiser\'s coat"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -109149,6 +109160,33 @@ items {
   value {
     id: 31748
     name: "Nifty hat"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31750
+  value {
+    id: 31750
+    name: "Nifty jacket"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31752
+  value {
+    id: 31752
+    name: "Nifty trousers"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31764
+  value {
+    id: 31764
+    name: "Sleek trousers"
     stat_bonuses {
     }
   }
@@ -109186,5 +109224,45 @@ items {
   value {
     id: 32399
     name: "Sailors\' amulet"
+  }
+}
+items {
+  key: 32807
+  value {
+    id: 32807
+    name: "Crate of ship parts"
+    stat_bonuses {
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+      combat_options {
+        name: "Punch"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Kick"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
   }
 }
