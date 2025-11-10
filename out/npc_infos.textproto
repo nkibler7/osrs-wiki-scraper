@@ -9122,6 +9122,15 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 15234
+  name: "Dolphin"
+  hitpoints: 50
+  att: 25
+  str: 10
+  def: 5
+  mage: 1
+}
+npcs {
   ids: 8439
   name: "Don\'t Know What"
   hitpoints: 220
