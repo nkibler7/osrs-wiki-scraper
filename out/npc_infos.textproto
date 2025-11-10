@@ -23479,12 +23479,26 @@ npcs {
 npcs {
   ids: 2592
   name: "Mogre"
+  version: "Land"
   hitpoints: 48
   att: 58
   str: 55
   def: 48
   mage: 1
   range: 1
+  attbns: 22
+  strbns: 20
+}
+npcs {
+  ids: 2592
+  name: "Mogre"
+  version: "Sea"
+  hitpoints: 60
+  att: 40
+  str: 50
+  def: 40
+  mage: 1
+  range: 60
   attbns: 22
   strbns: 20
 }
