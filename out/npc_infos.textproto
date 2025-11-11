@@ -29845,22 +29845,6 @@ npcs {
   def: 150
 }
 npcs {
-  name: "Sea Mogre"
-  version: "Alive"
-  hitpoints: 60
-  att: 40
-  def: 40
-  range: 60
-}
-npcs {
-  name: "Sea Mogre"
-  version: "Dead"
-  hitpoints: 60
-  att: 40
-  def: 40
-  range: 60
-}
-npcs {
   name: "Sea monodon"
   hitpoints: 360
   att: 50
