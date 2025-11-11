@@ -9065,7 +9065,7 @@ npcs {
   attributes: "spectral"
 }
 npcs {
-  name: "Superior gryphon"
+  name: "Dire gryphon"
 }
 npcs {
   ids: 3426
