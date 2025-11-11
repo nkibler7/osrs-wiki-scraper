@@ -37909,6 +37909,16 @@ npcs {
   attributes: "undead"
 }
 npcs {
+  ids: 15501
+  name: "Vitreous Chilled Jelly"
+  hitpoints: 220
+  att: 200
+  str: 180
+  def: 250
+  mage: 180
+  range: 1
+}
+npcs {
   ids: 7399
   name: "Vitreous Jelly"
   hitpoints: 190
