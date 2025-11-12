@@ -10435,6 +10435,7 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 15502
   name: "Elder Aquanite"
 }
 npcs {
