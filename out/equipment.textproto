@@ -109465,20 +109465,6 @@ items {
   }
 }
 items {
-  key: 32398
-  value {
-    id: 32398
-    name: "Sailors\' amulet (inert)"
-  }
-}
-items {
-  key: 32399
-  value {
-    id: 32399
-    name: "Sailors\' amulet"
-  }
-}
-items {
   key: 32807
   value {
     id: 32807
