@@ -25779,6 +25779,9 @@ npcs {
   range: 1
 }
 npcs {
+  name: "Orca"
+}
+npcs {
   ids: 2237
   ids: 2238
   ids: 2239
