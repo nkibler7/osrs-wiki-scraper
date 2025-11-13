@@ -11073,6 +11073,11 @@ npcs {
   def: 70
   mage: 15
   range: 70
+  arange: 60
+  dstab: 10
+  dslash: 10
+  dcrush: 5
+  dmagic: 20
 }
 npcs {
   ids: 14407
@@ -11085,6 +11090,11 @@ npcs {
   def: 70
   mage: 15
   range: 70
+  arange: 60
+  dstab: 10
+  dslash: 10
+  dcrush: 5
+  dmagic: 20
 }
 npcs {
   ids: 13744
