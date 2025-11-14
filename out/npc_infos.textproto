@@ -675,11 +675,6 @@ npcs {
   drange: 12
 }
 npcs {
-  name: "Albatros"
-  hitpoints: 80
-  att: 70
-}
-npcs {
   hitpoints: 80
   att: 70
   str: 50
