@@ -24722,6 +24722,7 @@ npcs {
   att: 85
   str: 80
   def: 80
+  attributes: "undead"
 }
 npcs {
   ids: 5354
@@ -24738,6 +24739,7 @@ npcs {
   dcrush: 5
   dmagic: 5
   drange: 5
+  attributes: "undead"
 }
 npcs {
   ids: 5355
@@ -24747,7 +24749,7 @@ npcs {
   att: 85
   str: 80
   def: 80
-  attributes: "spectral"
+  attributes: "undead, spectral"
 }
 npcs {
   ids: 6398
