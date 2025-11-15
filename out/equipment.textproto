@@ -109109,6 +109109,61 @@ items {
   }
 }
 items {
+  key: 31248
+  value {
+    id: 31248
+    name: "Belle\'s folly"
+    stat_bonuses {
+      stab_attack: 100
+      slash_attack: 78
+      crush_attack: -3
+      stab_defence: 20
+      slash_defence: 15
+      crush_defence: -9
+      melee_strength: 102
+    }
+    weapon_details {
+      base_attack_speed: 5
+      combat_options {
+        name: "Stab"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Lunge"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Slash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
   key: 31288
   value {
     id: 31288
