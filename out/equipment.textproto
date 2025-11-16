@@ -109193,6 +109193,44 @@ items {
   }
 }
 items {
+  key: 31331
+  value {
+    id: 31331
+    name: "Mayor of catherby"
+  }
+}
+items {
+  key: 31398
+  value {
+    id: 31398
+    name: "Tortugan shield"
+    stat_bonuses {
+      stab_defence: 8
+      slash_defence: 8
+      crush_defence: 6
+      ranged_defence: 8
+    }
+  }
+}
+items {
+  key: 31401
+  value {
+    id: 31401
+    name: "Deep sea helmet"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31403
+  value {
+    id: 31403
+    name: "Deep sea apparatus"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 31575
   value {
     id: 31575
@@ -109490,6 +109528,15 @@ items {
   }
 }
 items {
+  key: 31760
+  value {
+    id: 31760
+    name: "Sleek hat"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 31764
   value {
     id: 31764
@@ -109551,5 +109598,12 @@ items {
       magic_attack: -13
       ranged_strength: 1
     }
+  }
+}
+items {
+  key: 32895
+  value {
+    id: 32895
+    name: "Coin pouch"
   }
 }
