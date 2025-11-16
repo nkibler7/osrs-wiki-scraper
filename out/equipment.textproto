@@ -109499,27 +109499,6 @@ items {
   }
 }
 items {
-  key: 32217
-  value {
-    id: 32217
-    name: "Crate of moonrise wine"
-  }
-}
-items {
-  key: 32218
-  value {
-    id: 32218
-    name: "Crate of bread"
-  }
-}
-items {
-  key: 32219
-  value {
-    id: 32219
-    name: "Crate of medical supplies"
-  }
-}
-items {
   key: 32807
   value {
     id: 32807
