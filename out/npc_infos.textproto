@@ -9755,6 +9755,7 @@ npcs {
   drange: 100
 }
 npcs {
+  ids: 15164
   name: "Drink troll"
   hitpoints: 5
   att: 1
@@ -15386,9 +15387,12 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 14857
+  ids: 14858
   name: "Gryphon"
 }
 npcs {
+  ids: 15009
   name: "Gryphon"
   hitpoints: 150
   att: 65
@@ -18035,6 +18039,7 @@ npcs {
   drange: -21
 }
 npcs {
+  ids: 14852
   name: "Hermit Crab"
   hitpoints: 75
   dcrush: -50
@@ -29755,6 +29760,7 @@ npcs {
   drange: 55
 }
 npcs {
+  ids: 14940
   name: "Scorpion"
 }
 npcs {
@@ -36480,6 +36486,7 @@ npcs {
   attributes: "undead, spectral"
 }
 npcs {
+  ids: 14859
   name: "Two-headed Gryphon"
   hitpoints: 350
   att: 160
