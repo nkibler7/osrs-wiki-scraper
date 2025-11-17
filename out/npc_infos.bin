@@ -116,7 +116,8 @@ B
 ÜAl Kharid warrior (08@HP
 X	€ˆ
 ˜ÿÿÿÿÿÿÿÿÿ 
- P(F02@
+
+øv P(F02@
 
 
 Albino bat !(9098@H
@@ -909,7 +910,8 @@ Calvar'ionEnraged –(ú0ú8á@²H€‚ˆ€öÿÿÿÿÿÿÿÿ˜Æ Óªundead
 .
 æ
 Camp dwellerLevel 31 (4) (08@HX
-+Captain Cotus d(U8A@<HZX+`pd€#ˆ(˜F
+/
+ÛxCaptain Cotus d(U8A@<HZX+`pd€#ˆ(˜F
 (
 ßCarnivorous chinchompa (08@H
 5
@@ -1772,14 +1774,20 @@ $
 Ï3Elder Chaos druid –(b0b8A@nH
 A
 ğrElder custodian stalker ú(x0Z8-@KH`€ˆöÿÿÿÿÿÿÿÿ2˜#
-Elder HubberStandard
-Elder HubberCombat
-Elder HubberCombat, done
-
+
+›uElder HubberStandard
+
+œuElder HubberCombat
+ 
+uElder HubberCombat, done
+
+u
 Elder RootStandard
-
+
+Ÿu
 Elder RootCombat
-
+
+ u
 Elder RootCombat, done
 >
 ÃnEldric the Ice King Ø(¬0ú8d@dH–P–`dhdpdxd€ˆ˜¼
@@ -2167,7 +2175,8 @@ H
 Frost CrabActive <(08@H˜Îÿÿÿÿÿÿÿÿ
 /
 Şk	Ice blockHidden <(08@H˜Îÿÿÿÿÿÿÿÿ
-Frost dragon
+
+ÊtFrost dragon
 9
  kÛkÜkFrost Nagua x(08(@ZH`Fhˆ2
 ˜<ªspectral
@@ -2314,7 +2323,8 @@ Armageddon è(–0–8È@HPxX+€ñÿÿÿÿÿÿÿÿˆñÿÿÿÿÿÿÿÿñÿÿÿÿÿÿÿÿ˜ñÿÿÿÿÿÿÿÿ 
 ¿%À%Giant Lobster 2((08(@H€ˆ˜c
 +
 ²Giant lobster  (08(@H€ˆ 
-Giant lobster d(P8<@
+
+ºuGiant lobster d(P8<@
 -
 “-
 Giant Mole È(È0È8È@ÈH€<ˆPd˜P
@@ -4405,11 +4415,16 @@ X	ˆ
 3
 ŒÓ6PiratePort Piscarilius (08@HP
 X	ˆ
-Pirate1
-Pirate2
-Pirate3
-Pirate4
-Pirate5
+
+ÕtPirate1
+
+ÖtPirate2
+
+×tPirate3
+
+ØtPirate4
+
+ÙtPirate5
 
 ­uPirate1 &(68#@
 
@@ -5773,7 +5788,8 @@ S
 İThorhild (08@H
 %
 ¾Thrantax the Mighty P(P0P8P@H
-Three-headed Gryphon
+
+ŒtThree-headed Gryphon
 '
 ¢uThree-headed Gryphon ( 8x@dH–
 )

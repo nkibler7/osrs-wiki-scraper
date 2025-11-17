@@ -675,6 +675,7 @@ npcs {
   drange: 12
 }
 npcs {
+  ids: 15224
   hitpoints: 80
   att: 70
   str: 50
@@ -5503,6 +5504,7 @@ npcs {
   strbns: 20
 }
 npcs {
+  ids: 15451
   name: "Captain Cotus"
   hitpoints: 100
   att: 85
@@ -10460,26 +10462,32 @@ npcs {
   dmagic: 35
 }
 npcs {
+  ids: 15003
   name: "Elder Hubber"
   version: "Standard"
 }
 npcs {
+  ids: 15004
   name: "Elder Hubber"
   version: "Combat"
 }
 npcs {
+  ids: 15005
   name: "Elder Hubber"
   version: "Combat, done"
 }
 npcs {
+  ids: 15006
   name: "Elder Root"
   version: "Standard"
 }
 npcs {
+  ids: 15007
   name: "Elder Root"
   version: "Combat"
 }
 npcs {
+  ids: 15008
   name: "Elder Root"
   version: "Combat, done"
 }
@@ -12766,6 +12774,7 @@ npcs {
   dmagic: -50
 }
 npcs {
+  ids: 14922
   name: "Frost dragon"
 }
 npcs {
@@ -13660,6 +13669,7 @@ npcs {
   drange: 5
 }
 npcs {
+  ids: 15034
   name: "Giant lobster"
   hitpoints: 100
   att: 80
@@ -27107,22 +27117,27 @@ npcs {
   dslash: 1
 }
 npcs {
+  ids: 14933
   name: "Pirate"
   version: "1"
 }
 npcs {
+  ids: 14934
   name: "Pirate"
   version: "2"
 }
 npcs {
+  ids: 14935
   name: "Pirate"
   version: "3"
 }
 npcs {
+  ids: 14936
   name: "Pirate"
   version: "4"
 }
 npcs {
+  ids: 14937
   name: "Pirate"
   version: "5"
 }
@@ -35400,6 +35415,7 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 14860
   name: "Three-headed Gryphon"
 }
 npcs {
