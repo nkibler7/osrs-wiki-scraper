@@ -109546,6 +109546,15 @@ items {
   }
 }
 items {
+  key: 32386
+  value {
+    id: 32386
+    name: "Medallion of the deep"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 32807
   value {
     id: 32807
@@ -109583,6 +109592,27 @@ items {
         }
       }
     }
+  }
+}
+items {
+  key: 32865
+  value {
+    id: 32865
+    name: "Dull knife"
+  }
+}
+items {
+  key: 32866
+  value {
+    id: 32866
+    name: "Broken compass"
+  }
+}
+items {
+  key: 32868
+  value {
+    id: 32868
+    name: "Broken sextant"
   }
 }
 items {
