@@ -4015,6 +4015,7 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
+  ids: 15025
   name: "Black Eye Bethel"
   hitpoints: 180
   att: 170
@@ -12717,6 +12718,7 @@ npcs {
   dcrush: 30
 }
 npcs {
+  ids: 15226
   name: "Frigatebird"
 }
 npcs {
@@ -15004,6 +15006,7 @@ npcs {
   attributes: "dragon,xerician"
 }
 npcs {
+  ids: 15200
   name: "Great white shark"
   hitpoints: 250
   att: 100
@@ -27124,6 +27127,7 @@ npcs {
   version: "5"
 }
 npcs {
+  ids: 15021
   name: "Pirate"
   version: "1"
   hitpoints: 38
@@ -27132,6 +27136,7 @@ npcs {
   mage: 10
 }
 npcs {
+  ids: 15022
   name: "Pirate"
   version: "2"
   hitpoints: 38
@@ -27140,6 +27145,7 @@ npcs {
   mage: 10
 }
 npcs {
+  ids: 15023
   name: "Pirate"
   version: "3"
   hitpoints: 38
@@ -27148,6 +27154,7 @@ npcs {
   mage: 10
 }
 npcs {
+  ids: 15024
   name: "Pirate"
   version: "4"
   hitpoints: 38
@@ -35396,6 +35403,7 @@ npcs {
   name: "Three-headed Gryphon"
 }
 npcs {
+  ids: 15010
   name: "Three-headed Gryphon"
   hitpoints: 400
   att: 160
