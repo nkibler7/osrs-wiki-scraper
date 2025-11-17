@@ -33134,7 +33134,7 @@ npcs {
 }
 npcs {
   ids: 15208
-  name: "Spined Kraken"
+  name: "Spined kraken"
 }
 npcs {
   ids: 1709
@@ -33664,7 +33664,7 @@ npcs {
 }
 npcs {
   ids: 15218
-  name: "Stringray"
+  name: "Stingray"
   hitpoints: 90
   att: 130
   str: 55
