@@ -1371,7 +1371,14 @@ npcs {
   drange: 70
 }
 npcs {
+  ids: 15497
   name: "Aquanite"
+  version: "Lure"
+}
+npcs {
+  ids: 15498
+  name: "Aquanite"
+  version: "No lure"
 }
 npcs {
   ids: 13668
@@ -10436,6 +10443,12 @@ npcs {
 npcs {
   ids: 15502
   name: "Elder Aquanite"
+  version: "Lure"
+}
+npcs {
+  ids: 15503
+  name: "Elder Aquanite"
+  version: "No lure"
 }
 npcs {
   ids: 6607
@@ -13707,6 +13720,7 @@ npcs {
 }
 npcs {
   ids: 1041
+  ids: 15440
   name: "Giant mosquito"
   hitpoints: 3
   att: 5
@@ -21941,10 +21955,12 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
+  ids: 15500
   name: "Lava strykewyrm"
 }
 npcs {
   ids: 3233
+  ids: 15441
   name: "Leech"
   hitpoints: 45
   att: 80
@@ -22661,6 +22677,7 @@ npcs {
   drange: 10
 }
 npcs {
+  ids: 15504
   name: "Magma strykewyrm"
 }
 npcs {
@@ -22712,9 +22729,8 @@ npcs {
   ids: 3106
   ids: 6818
   ids: 6987
-  ids: 8858
   name: "Man"
-  version: "Blue"
+  version: "1"
   hitpoints: 7
   att: 1
   str: 1
@@ -22731,7 +22747,7 @@ npcs {
   ids: 3107
   ids: 6988
   name: "Man"
-  version: "Red"
+  version: "2"
   hitpoints: 7
   att: 1
   str: 1
@@ -22748,7 +22764,7 @@ npcs {
   ids: 3108
   ids: 6989
   name: "Man"
-  version: "Green"
+  version: "3"
   hitpoints: 7
   att: 1
   str: 1
@@ -22765,7 +22781,7 @@ npcs {
   ids: 3109
   ids: 6815
   name: "Man"
-  version: "Backpack"
+  version: "4"
   hitpoints: 7
   att: 1
   str: 1
@@ -22781,7 +22797,7 @@ npcs {
 npcs {
   ids: 3110
   name: "Man"
-  version: "Backpack (Musa Point)"
+  version: "4, Musa Point"
   hitpoints: 7
   att: 1
   str: 1
@@ -22797,7 +22813,7 @@ npcs {
 npcs {
   ids: 3261
   name: "Man"
-  version: "Black"
+  version: "Al Kharid"
   hitpoints: 7
   att: 1
   str: 1
@@ -22808,7 +22824,7 @@ npcs {
 npcs {
   ids: 3264
   name: "Man"
-  version: "Light blue"
+  version: "Falador"
   hitpoints: 7
   att: 1
   str: 1
@@ -22824,7 +22840,7 @@ npcs {
 npcs {
   ids: 3265
   name: "Man"
-  version: "Pink"
+  version: "Falador, 2"
   hitpoints: 7
   att: 1
   str: 1
@@ -22856,7 +22872,23 @@ npcs {
 npcs {
   ids: 3014
   name: "Man"
-  version: "Blue Moon Inn"
+  version: "Varrock"
+  hitpoints: 7
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  dstab: -21
+  dslash: -21
+  dcrush: -21
+  dmagic: -21
+  drange: -21
+}
+npcs {
+  ids: 11057
+  name: "Man"
+  version: "Shayzien, 1"
   hitpoints: 7
   att: 1
   str: 1
@@ -22871,9 +22903,24 @@ npcs {
 }
 npcs {
   ids: 11058
-  ids: 11057
   name: "Man"
-  version: "Shayzien"
+  version: "Shayzien, 2"
+  hitpoints: 7
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  dstab: -21
+  dslash: -21
+  dcrush: -21
+  dmagic: -21
+  drange: -21
+}
+npcs {
+  ids: 14920
+  name: "Man"
+  version: "5"
   hitpoints: 7
   att: 1
   str: 1
@@ -25803,6 +25850,7 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 15204
   name: "Orca"
 }
 npcs {
@@ -39510,7 +39558,7 @@ npcs {
   ids: 6990
   ids: 10728
   name: "Woman"
-  version: "Purple"
+  version: "1"
   hitpoints: 7
   att: 1
   str: 1
@@ -39527,7 +39575,7 @@ npcs {
   ids: 3112
   ids: 6991
   name: "Woman"
-  version: "Brown"
+  version: "2"
   hitpoints: 7
   att: 1
   str: 1
@@ -39544,7 +39592,7 @@ npcs {
   ids: 3113
   ids: 6992
   name: "Woman"
-  version: "Red"
+  version: "3"
   hitpoints: 7
   att: 1
   str: 1
@@ -39575,9 +39623,40 @@ npcs {
 }
 npcs {
   ids: 11053
+  name: "Woman"
+  version: "Shayzien, 1"
+  hitpoints: 7
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  dstab: -21
+  dslash: -21
+  dcrush: -21
+  dmagic: -21
+  drange: -21
+}
+npcs {
   ids: 11054
   name: "Woman"
-  version: "Shayzien"
+  version: "Shayzien, 2"
+  hitpoints: 7
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  dstab: -21
+  dslash: -21
+  dcrush: -21
+  dmagic: -21
+  drange: -21
+}
+npcs {
+  ids: 14921
+  name: "Woman"
+  version: "4"
   hitpoints: 7
   att: 1
   str: 1

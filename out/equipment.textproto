@@ -109501,6 +109501,15 @@ items {
   }
 }
 items {
+  key: 31740
+  value {
+    id: 31740
+    name: "Storm cruiser\'s trousers"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 31748
   value {
     id: 31748
@@ -109552,6 +109561,20 @@ items {
     name: "Medallion of the deep"
     stat_bonuses {
     }
+  }
+}
+items {
+  key: 32398
+  value {
+    id: 32398
+    name: "Sailors\' amulet (inert)"
+  }
+}
+items {
+  key: 32399
+  value {
+    id: 32399
+    name: "Sailors\' amulet"
   }
 }
 items {
@@ -109616,6 +109639,13 @@ items {
   }
 }
 items {
+  key: 32867
+  value {
+    id: 32867
+    name: "Rusty coin"
+  }
+}
+items {
   key: 32868
   value {
     id: 32868
@@ -109627,6 +109657,13 @@ items {
   value {
     id: 32869
     name: "Mouldy doll"
+  }
+}
+items {
+  key: 32870
+  value {
+    id: 32870
+    name: "Smashed mirror"
   }
 }
 items {
