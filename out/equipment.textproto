@@ -109595,6 +109595,13 @@ items {
   }
 }
 items {
+  key: 32864
+  value {
+    id: 32864
+    name: "Mouldy block"
+  }
+}
+items {
   key: 32865
   value {
     id: 32865
@@ -109613,6 +109620,13 @@ items {
   value {
     id: 32868
     name: "Broken sextant"
+  }
+}
+items {
+  key: 32869
+  value {
+    id: 32869
+    name: "Mouldy doll"
   }
 }
 items {
