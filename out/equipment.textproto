@@ -109193,6 +109193,15 @@ items {
   }
 }
 items {
+  key: 31300
+  value {
+    id: 31300
+    name: "Deep sea apparatus"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 31331
   value {
     id: 31331
@@ -109541,6 +109550,15 @@ items {
   value {
     id: 31760
     name: "Sleek hat"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31762
+  value {
+    id: 31762
+    name: "Sleek jacket"
     stat_bonuses {
     }
   }
