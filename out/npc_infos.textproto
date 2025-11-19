@@ -15610,6 +15610,15 @@ npcs {
   ids: 14857
   ids: 14858
   name: "Gryphon"
+  hitpoints: 80
+  att: 65
+  def: 50
+  mage: 50
+  strbns: 75
+  dstab: 10
+  dslash: 20
+  dcrush: 40
+  dmagic: 100
 }
 npcs {
   ids: 15009

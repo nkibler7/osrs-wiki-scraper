@@ -106470,7 +106470,7 @@ items {
   key: 30436
   value {
     id: 30436
-    name: "Echo venator bow"
+    name: "Echo venator bow (uncharged)"
     stat_bonuses {
       ranged_attack: 90
       ranged_strength: 25
