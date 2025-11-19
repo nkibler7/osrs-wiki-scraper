@@ -30680,7 +30680,7 @@ npcs {
 }
 npcs {
   name: "Shellbane Gryphon"
-  hitpoints: 1200
+  hitpoints: 400
   att: 160
   def: 120
   mage: 100
