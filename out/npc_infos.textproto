@@ -5440,6 +5440,8 @@ npcs {
   version: "In combat"
   hitpoints: 70
   att: 100
+  str: 35
+  mage: 1
 }
 npcs {
   ids: 15217
@@ -5447,6 +5449,8 @@ npcs {
   version: "Defeated"
   hitpoints: 70
   att: 100
+  str: 35
+  mage: 1
 }
 npcs {
   ids: 6609
@@ -9861,10 +9865,10 @@ npcs {
 npcs {
   ids: 15164
   name: "Drink troll"
-  hitpoints: 5
-  att: 1
-  str: 1
-  def: 1
+  hitpoints: 25
+  att: 9
+  str: 9
+  def: 9
   mage: 1
   range: 1
 }
@@ -10399,6 +10403,8 @@ npcs {
   version: "In combat"
   hitpoints: 50
   att: 70
+  str: 1
+  mage: 1
 }
 npcs {
   ids: 15215
@@ -10406,6 +10412,8 @@ npcs {
   version: "Defeated"
   hitpoints: 50
   att: 70
+  str: 1
+  mage: 1
 }
 npcs {
   ids: 1366
@@ -12884,6 +12892,10 @@ npcs {
 npcs {
   ids: 15226
   name: "Frigatebird"
+  hitpoints: 85
+  att: 80
+  str: 70
+  mage: 1
 }
 npcs {
   ids: 8702
@@ -15223,6 +15235,11 @@ npcs {
 npcs {
   ids: 15200
   name: "Great white shark"
+  hitpoints: 175
+  att: 155
+  str: 145
+  range: 1
+  dmagic: 15
 }
 npcs {
   ids: 7410
@@ -18294,7 +18311,7 @@ npcs {
 }
 npcs {
   ids: 14852
-  name: "Hermit Crab"
+  name: "Hermit crab"
   hitpoints: 75
   dcrush: -50
 }
