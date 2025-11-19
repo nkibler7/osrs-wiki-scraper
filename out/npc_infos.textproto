@@ -22196,7 +22196,7 @@ npcs {
 }
 npcs {
   ids: 15500
-  name: "Lava strykewyrm"
+  name: "Lava Strykewyrm"
 }
 npcs {
   ids: 3233
