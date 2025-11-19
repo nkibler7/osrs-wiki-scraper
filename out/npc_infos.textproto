@@ -9171,6 +9171,10 @@ npcs {
   attributes: "spectral"
 }
 npcs {
+  ids: 15171
+  name: "Dinky the drink troll"
+}
+npcs {
   ids: 14859
   name: "Dire gryphon"
 }
