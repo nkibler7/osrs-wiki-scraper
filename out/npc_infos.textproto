@@ -12809,6 +12809,19 @@ npcs {
   dmagic: 30
 }
 npcs {
+  ids: 15458
+  name: "Fremennik warrior"
+  hitpoints: 45
+  att: 60
+  def: 30
+  mage: 1
+  range: 1
+  strbns: 33
+  dstab: 20
+  dslash: 21
+  dcrush: 1
+}
+npcs {
   ids: 5825
   name: "Frenzied ice troll female"
   hitpoints: 80

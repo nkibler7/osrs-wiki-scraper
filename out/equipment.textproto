@@ -110501,10 +110501,86 @@ items {
   }
 }
 items {
+  key: 32458
+  value {
+    id: 32458
+    name: "Crate of red coral"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
   key: 32459
   value {
     id: 32459
     name: "Crate of runes"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 32460
+  value {
+    id: 32460
+    name: "Crate of salamanders"
     stat_bonuses {
     }
     weapon_details {
@@ -111945,6 +112021,44 @@ items {
   }
 }
 items {
+  key: 32499
+  value {
+    id: 32499
+    name: "Crate of vials"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
   key: 32500
   value {
     id: 32500
@@ -112363,6 +112477,44 @@ items {
   }
 }
 items {
+  key: 32511
+  value {
+    id: 32511
+    name: "Crate of red coral"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
   key: 32512
   value {
     id: 32512
@@ -112519,6 +112671,44 @@ items {
   value {
     id: 32516
     name: "Crate of staffs"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 32517
+  value {
+    id: 32517
+    name: "Crate of tokens"
     stat_bonuses {
     }
     weapon_details {
@@ -113503,6 +113693,44 @@ items {
   }
 }
 items {
+  key: 32545
+  value {
+    id: 32545
+    name: "Crate of suqah hides"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
   key: 32546
   value {
     id: 32546
@@ -113963,6 +114191,44 @@ items {
   value {
     id: 32558
     name: "Crate of warhammers"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 32559
+  value {
+    id: 32559
+    name: "Crate of yak hair"
     stat_bonuses {
     }
     weapon_details {
@@ -114529,6 +114795,44 @@ items {
   }
 }
 items {
+  key: 32574
+  value {
+    id: 32574
+    name: "Crate of secret things"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
   key: 32575
   value {
     id: 32575
@@ -114985,6 +115289,44 @@ items {
   }
 }
 items {
+  key: 32587
+  value {
+    id: 32587
+    name: "Crate of red coral"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
   key: 32588
   value {
     id: 32588
@@ -115331,6 +115673,44 @@ items {
   value {
     id: 32598
     name: "Crate of meat"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 32599
+  value {
+    id: 32599
+    name: "Crate of rotten bananas"
     stat_bonuses {
     }
     weapon_details {
@@ -116315,6 +116695,44 @@ items {
   }
 }
 items {
+  key: 32626
+  value {
+    id: 32626
+    name: "Crate of red coral"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
   key: 32627
   value {
     id: 32627
@@ -117037,6 +117455,44 @@ items {
   }
 }
 items {
+  key: 32647
+  value {
+    id: 32647
+    name: "Crate of red coral"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
   key: 32648
   value {
     id: 32648
@@ -117649,6 +118105,44 @@ items {
   value {
     id: 32664
     name: "Crate of ores"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 32665
+  value {
+    id: 32665
+    name: "Crate of red coral"
     stat_bonuses {
     }
     weapon_details {
@@ -118481,6 +118975,44 @@ items {
   }
 }
 items {
+  key: 32687
+  value {
+    id: 32687
+    name: "Crate of red coral"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
   key: 32688
   value {
     id: 32688
@@ -118561,6 +119093,44 @@ items {
   value {
     id: 32690
     name: "Crate of spices"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 32691
+  value {
+    id: 32691
+    name: "Crate of sunbeam ale"
     stat_bonuses {
     }
     weapon_details {
@@ -119093,6 +119663,44 @@ items {
   value {
     id: 32705
     name: "Crate of shields"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 32706
+  value {
+    id: 32706
+    name: "Crate of snakeskin"
     stat_bonuses {
     }
     weapon_details {
@@ -120533,6 +121141,44 @@ items {
   }
 }
 items {
+  key: 32744
+  value {
+    id: 32744
+    name: "Crate of redwood logs"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
   key: 32745
   value {
     id: 32745
@@ -121635,6 +122281,44 @@ items {
   }
 }
 items {
+  key: 32775
+  value {
+    id: 32775
+    name: "Crate of sea shells"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
   key: 32776
   value {
     id: 32776
@@ -121673,10 +122357,86 @@ items {
   }
 }
 items {
+  key: 32777
+  value {
+    id: 32777
+    name: "Crate of steel bars"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
   key: 32778
   value {
     id: 32778
     name: "Crate of swamp paste"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 32779
+  value {
+    id: 32779
+    name: "Crate of wax"
     stat_bonuses {
     }
     weapon_details {
@@ -122665,6 +123425,44 @@ items {
   value {
     id: 32805
     name: "Crate of spears"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 32806
+  value {
+    id: 32806
+    name: "Crate of wrath runes"
     stat_bonuses {
     }
     weapon_details {
