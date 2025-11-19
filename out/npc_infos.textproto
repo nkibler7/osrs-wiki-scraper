@@ -15210,8 +15210,6 @@ npcs {
 npcs {
   ids: 15200
   name: "Great white shark"
-  hitpoints: 250
-  att: 100
 }
 npcs {
   ids: 7410
@@ -18023,7 +18021,7 @@ npcs {
 }
 npcs {
   ids: 15196
-  name: "Hammerhead Shark"
+  name: "Hammerhead shark"
   hitpoints: 90
   att: 80
   str: 65
