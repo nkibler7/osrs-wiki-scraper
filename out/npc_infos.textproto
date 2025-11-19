@@ -9171,6 +9171,7 @@ npcs {
   attributes: "spectral"
 }
 npcs {
+  ids: 14859
   name: "Dire gryphon"
 }
 npcs {
@@ -10579,12 +10580,12 @@ npcs {
 }
 npcs {
   ids: 15502
-  name: "Elder Aquanite"
+  name: "Elder aquanite"
   version: "Lure"
 }
 npcs {
   ids: 15503
-  name: "Elder Aquanite"
+  name: "Elder aquanite"
   version: "No lure"
 }
 npcs {
@@ -25293,7 +25294,7 @@ npcs {
 }
 npcs {
   ids: 6318
-  name: "Nezikchened"
+  name: "Nezikchened (hard)"
   version: "Hard Mode"
   hitpoints: 150
   att: 330
@@ -30682,6 +30683,15 @@ npcs {
   dmagic: 100
 }
 npcs {
+  ids: 15010
+  name: "Shellbane gryphon"
+  hitpoints: 400
+  att: 160
+  def: 120
+  mage: 100
+  range: 150
+}
+npcs {
   ids: 1694
   ids: 1695
   name: "Shifter"
@@ -32223,7 +32233,7 @@ npcs {
   attributes: "undead"
 }
 npcs {
-  ids: 2847
+  ids: 8139
   name: "Skeleton"
   hitpoints: 60
   att: 30
@@ -35806,19 +35816,6 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 14860
-  name: "Three-headed Gryphon"
-}
-npcs {
-  ids: 15010
-  name: "Three-headed Gryphon"
-  hitpoints: 400
-  att: 160
-  def: 120
-  mage: 100
-  range: 150
-}
-npcs {
   ids: 931
   ids: 932
   ids: 933
@@ -36869,14 +36866,6 @@ npcs {
   dcrush: 15
   drange: 15
   attributes: "undead, spectral"
-}
-npcs {
-  ids: 14859
-  name: "Two-headed Gryphon"
-  hitpoints: 350
-  att: 160
-  def: 100
-  mage: 60
 }
 npcs {
   ids: 9295
@@ -40325,6 +40314,7 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  ids: 2847
   name: "Yeti"
   hitpoints: 55
   att: 48

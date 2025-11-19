@@ -1576,7 +1576,8 @@ Apocalypse È(d0d8d@HXi`Æÿÿÿÿÿÿÿÿpîÿÿÿÿÿÿÿÿ€üˆúô˜õÿÿÿÿÿÿÿÿ ùªsp
 r
 ŸaDharok the Wretched
 Armageddon È(d0d8È@HXi`Æÿÿÿÿÿÿÿÿpîÿÿÿÿÿÿÿÿ€üˆúô˜õÿÿÿÿÿÿÿÿ ùªspectral
-Dire gryphon
+
+‹tDire gryphon
 %
 â	Dire WolfLevel 88 U(K0K8K@H
 %
@@ -1800,9 +1801,9 @@ T
 
 ÛEinar (08@H
 
-yElder AquaniteLure
+yElder aquaniteLure
 
-yElder AquaniteNo lure
+yElder aquaniteNo lure
 $
 Ï3Elder Chaos druid –(b0b8A@nH
 A
@@ -4143,8 +4144,8 @@ h
 úNezikchened –(¥0¨8§@ H ªdemon
 8
 ë1NezikchenedNormal Mode –(¥0¨8§@ H ªdemon
-6
-®1Nezikchened	Hard Mode –(Ê0Ğ8§@ÀHÀªdemon
+=
+®1Nezikchened (hard)	Hard Mode –(Ê0Ğ8§@ÀHÀªdemon
 4
 ñ9Night beast ¦(0¢8Ü@¬H€KˆPÈ˜¾ È
 ?
@@ -5048,6 +5049,8 @@ H
 Shark <(d0@
 /Shellbane Gryphon °	( 8x@dH–XÒ€
 ˆ(˜d
+$
+¢uShellbane gryphon ( 8x@dH–
 #
 ŸShifterLevel 38 (/0%8@
 #
@@ -5255,7 +5258,7 @@ B
 B
 ½iSkeleton7 (08@HPX€	ˆşÿÿÿÿÿÿÿÿ˜ ªundead
 
-ŸSkeleton <(08@H
+Ë?Skeleton <(08@H
 B
 ‚Skeleton brute |(s0r8n@HP	Xˆ˜ıÿÿÿÿÿÿÿÿ ªundead
 ,
@@ -5874,10 +5877,6 @@ S
 İThorhild (08@H
 %
 ¾Thrantax the Mighty P(P0P8P@H
-
-ŒtThree-headed Gryphon
-'
-¢uThree-headed Gryphon ( 8x@dH–
 )
 
 £¤¥¦§Thrower Troll _(0P8H<˜È
@@ -6056,8 +6055,6 @@ L
 ˜È È
 @
 è8Twisted Banshee d(K0U82@H€ˆ ªundead, spectral
-"
-‹tTwo-headed Gryphon Ş( 8d@<
 (
 ÏHĞHTyphor è(º0º8º@ºH€ˆ˜
 I
@@ -6628,7 +6625,8 @@ U
 8@H
 G
 ànYamaPhase 3 Ä(À0Ş8á@úHÒP2X`dhApdxP€‡ˆlÁ˜Qªdemon
-Yeti 7(00<8'@H
+
+ŸYeti 7(00<8'@H
 
 
 ßYrsa
