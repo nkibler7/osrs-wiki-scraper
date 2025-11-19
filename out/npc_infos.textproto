@@ -30670,6 +30670,16 @@ npcs {
 }
 npcs {
   name: "Shellbane Gryphon"
+  hitpoints: 1200
+  att: 160
+  def: 120
+  mage: 100
+  range: 150
+  strbns: 210
+  dstab: 10
+  dslash: 20
+  dcrush: 40
+  dmagic: 100
 }
 npcs {
   ids: 1694
