@@ -2,6 +2,13 @@
 # proto-message: NpcInfos
 
 npcs {
+  ids: 15165
+  name: "A corpse"
+  hitpoints: 90
+  att: 90
+  def: 90
+}
+npcs {
   ids: 3477
   name: "A Doubt"
   hitpoints: 59
@@ -1062,6 +1069,18 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 15170
+  name: "Angry tortugan"
+  hitpoints: 75
+  att: 90
+  def: 50
+  mage: 40
+  dstab: 80
+  dslash: 80
+  dcrush: 50
+  dmagic: 30
+}
+npcs {
   ids: 1061
   name: "Angry unicorn"
   version: "Level 45"
@@ -1574,6 +1593,24 @@ npcs {
   def: 500
   mage: 1
   range: 1
+}
+npcs {
+  ids: 15210
+  name: "Armoured kraken"
+  version: "In combat"
+  hitpoints: 175
+  def: 140
+  mage: 175
+  dmagic: -63
+}
+npcs {
+  ids: 15211
+  name: "Armoured kraken"
+  version: "Defeated"
+  hitpoints: 175
+  def: 140
+  mage: 175
+  dmagic: -63
 }
 npcs {
   ids: 12730
@@ -4674,6 +4711,18 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 15166
+  name: "Blue dagannoth"
+  hitpoints: 120
+  att: 78
+  def: 81
+  range: 50
+  dstab: 150
+  dslash: 150
+  dcrush: 150
+  dmagic: 50
+}
+npcs {
   ids: 265
   name: "Blue dragon"
   version: "1"
@@ -5386,6 +5435,20 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 15216
+  name: "Butterfly ray"
+  version: "In combat"
+  hitpoints: 70
+  att: 100
+}
+npcs {
+  ids: 15217
+  name: "Butterfly ray"
+  version: "Defeated"
+  hitpoints: 70
+  att: 100
+}
+npcs {
   ids: 6609
   name: "Callisto"
   hitpoints: 1000
@@ -5525,6 +5588,19 @@ npcs {
   dslash: 11
   dcrush: 40
   dmagic: 70
+}
+npcs {
+  ids: 15457
+  name: "Captain Darvald"
+  hitpoints: 150
+  att: 70
+  def: 200
+  mage: 1
+  range: 1
+  strbns: 45
+  dstab: 120
+  dslash: 140
+  dcrush: 137
 }
 npcs {
   ids: 2911
@@ -6432,6 +6508,15 @@ npcs {
   mage: 1
   range: 1
   attributes: "demon"
+}
+npcs {
+  ids: 15169
+  name: "Chuck up"
+  hitpoints: 110
+  att: 30
+  def: 90
+  range: 99
+  dmagic: 200
 }
 npcs {
   ids: 4373
@@ -7836,6 +7921,18 @@ npcs {
   dcrush: 40
   dmagic: 200
   drange: 200
+}
+npcs {
+  ids: 15167
+  name: "Daddy\'s special water"
+  hitpoints: 120
+  att: 99
+  def: 99
+  strbns: 70
+  dstab: 25
+  dslash: 25
+  dcrush: 40
+  dmagic: 200
 }
 npcs {
   ids: 970
@@ -9772,6 +9869,24 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 15175
+  name: "Drink troll queen"
+  version: "In combat"
+  hitpoints: 225
+  def: 155
+  mage: 205
+  dmagic: -63
+}
+npcs {
+  ids: 15176
+  name: "Drink troll queen"
+  version: "Defeated"
+  hitpoints: 225
+  def: 155
+  mage: 205
+  dmagic: -63
+}
+npcs {
   ids: 3258
   name: "Druid"
   hitpoints: 30
@@ -10277,6 +10392,20 @@ npcs {
   dcrush: -12
   dmagic: -12
   drange: -12
+}
+npcs {
+  ids: 15214
+  name: "Eagle ray"
+  version: "In combat"
+  hitpoints: 50
+  att: 70
+}
+npcs {
+  ids: 15215
+  name: "Eagle ray"
+  version: "Defeated"
+  hitpoints: 50
+  att: 70
 }
 npcs {
   ids: 1366
@@ -13511,6 +13640,30 @@ npcs {
   range: 60
 }
 npcs {
+  ids: 15436
+  name: "Giant ant"
+  version: "1"
+  hitpoints: 20
+  att: 16
+  def: 22
+  dstab: 24
+  dslash: 20
+  dcrush: 12
+  dmagic: 5
+}
+npcs {
+  ids: 15437
+  name: "Giant ant"
+  version: "2"
+  hitpoints: 30
+  att: 23
+  def: 24
+  dstab: 24
+  dslash: 20
+  dcrush: 12
+  dmagic: 7
+}
+npcs {
   ids: 2834
   name: "Giant bat"
   version: "Normal"
@@ -14086,6 +14239,30 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: 10
+}
+npcs {
+  ids: 15438
+  name: "Giant wasp"
+  version: "1"
+  hitpoints: 30
+  att: 20
+  def: 28
+  dstab: 24
+  dslash: 20
+  dcrush: 12
+  dmagic: 5
+}
+npcs {
+  ids: 15439
+  name: "Giant wasp"
+  version: "2"
+  hitpoints: 30
+  att: 20
+  def: 28
+  dstab: 24
+  dslash: 20
+  dcrush: 12
+  dmagic: 5
 }
 npcs {
   ids: 11286
@@ -16974,6 +17151,58 @@ npcs {
   dcrush: 5
   dmagic: -4
   drange: 5
+}
+npcs {
+  ids: 14887
+  name: "Guard"
+  version: "1"
+  hitpoints: 22
+  att: 19
+  def: 14
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+}
+npcs {
+  ids: 14888
+  name: "Guard"
+  version: "2"
+  hitpoints: 22
+  att: 19
+  def: 14
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+}
+npcs {
+  ids: 14889
+  name: "Guard"
+  version: "3"
+  hitpoints: 22
+  att: 19
+  def: 14
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
+}
+npcs {
+  ids: 14890
+  name: "Guard"
+  version: "4"
+  hitpoints: 22
+  att: 19
+  def: 14
+  strbns: 5
+  dstab: 18
+  dslash: 25
+  dcrush: 19
+  dmagic: -4
 }
 npcs {
   ids: 1546
@@ -22997,6 +23226,20 @@ npcs {
   range: 200
 }
 npcs {
+  ids: 15220
+  name: "Manta ray"
+  version: "In combat"
+  hitpoints: 160
+  att: 155
+}
+npcs {
+  ids: 15221
+  name: "Manta ray"
+  version: "Defeated"
+  hitpoints: 160
+  att: 155
+}
+npcs {
   ids: 12818
   name: "Manticore"
   hitpoints: 250
@@ -27644,6 +27887,39 @@ npcs {
   dcrush: 90
 }
 npcs {
+  ids: 15430
+  name: "Praying mantis"
+  version: "1"
+  hitpoints: 18
+  att: 12
+  def: 10
+  dstab: 10
+  dslash: 15
+  dcrush: 5
+}
+npcs {
+  ids: 15431
+  name: "Praying mantis"
+  version: "2"
+  hitpoints: 18
+  att: 12
+  def: 10
+  dstab: 10
+  dslash: 15
+  dcrush: 5
+}
+npcs {
+  ids: 15432
+  name: "Praying mantis"
+  version: "3"
+  hitpoints: 18
+  att: 12
+  def: 10
+  dstab: 10
+  dslash: 15
+  dcrush: 5
+}
+npcs {
   ids: 13784
   name: "Prince Itzla Arkan"
   hitpoints: 250
@@ -28558,6 +28834,18 @@ npcs {
   dcrush: 5
   dmagic: 5
   drange: 20
+}
+npcs {
+  ids: 15499
+  name: "Reef snake"
+  hitpoints: 160
+  def: 100
+  mage: 100
+  range: 170
+  dstab: 120
+  dslash: 120
+  dcrush: 120
+  dmagic: 100
 }
 npcs {
   ids: 3517
@@ -35085,6 +35373,17 @@ npcs {
   amagic: 300
 }
 npcs {
+  ids: 15168
+  name: "The rocks"
+  hitpoints: 130
+  att: 190
+  def: 135
+  strbns: 100
+  dstab: 35
+  dslash: 60
+  dcrush: 35
+}
+npcs {
   ids: 4708
   name: "The Shaikahan"
   hitpoints: 100
@@ -37399,6 +37698,24 @@ npcs {
   mage: 50
   range: 50
   attributes: "vampyre2"
+}
+npcs {
+  ids: 15212
+  name: "Vampyre kraken"
+  version: "In combat"
+  hitpoints: 225
+  def: 115
+  mage: 215
+  dmagic: -63
+}
+npcs {
+  ids: 15213
+  name: "Vampyre kraken"
+  version: "Defeated"
+  hitpoints: 225
+  def: 115
+  mage: 215
+  dmagic: -63
 }
 npcs {
   ids: 7529

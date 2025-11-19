@@ -1,4 +1,6 @@
 
+
+ΩvA corpse Z(Z8Z
 
 ïA Doubt ;(H0:8U@HPX
 E
@@ -180,6 +182,8 @@ Angry bearLevel 47 2(&0)8&@H
 ©Angry goblinLevel 45 »(%0&8&@H
 (
 ”$Angry goblinLevel 47 2(&0)8&@H
+(
+¬vAngry tortugan K(Z82@(ÄPàPê2ò
 *
 •Angry unicornLevel 45 »(%0&8&@H
 )
@@ -263,6 +267,10 @@ A
 ª3Armadylean guard Ñ(08R@PHZò™flying
 "
 ∆<Armoured Foe ‹(Ù0§8Ù@H
+5
+ÍvArmoured kraken	In combat Ø8å@Øò¡ˇˇˇˇˇˇˇˇ
+4
+ÎvArmoured krakenDefeated Ø8å@Øò¡ˇˇˇˇˇˇˇˇ
 W
 ∫cªcºcΩcæc¿c¬c”c’c÷cArmoured zombieMelee (invasion) K(I0H8D@HÄà†
 ™undead
@@ -769,6 +777,8 @@ $
 ¬	BloodveldGWD Ü(P0.8@H™demon
 
 é	Bloodworm -(P08#@H
++
+ævBlue dagannoth x(N8QH2Äñàñêñò2
 8
 âBlue dragon1 i(_0_8_@HàFêFò<™dragon,fiery
 8
@@ -887,6 +897,10 @@ l
 
 ÷/◊/
 Bush snake (082@H
+"
+vButterfly ray	In combat F(d
+!
+ÒvButterfly rayDefeated F(d
 2
 —3Callisto Ë(ﬁ0¨8·@åH»pdxÄñàÇê}†2
 1
@@ -914,6 +928,8 @@ Calvar'ionEnraged ñ(˙0˙8·@≤HÄÇàÄêˆˇˇˇˇˇˇˇˇò∆†”™undead
 Camp dwellerLevel 31 (4) (08@HX
 /
 €xCaptain Cotus d(U8A@<HZX+`pdÄ#àê(òF
+.
+·xCaptain Darvald ñ(F8»@HX-Äxàåêâ
 (
 ﬂCarnivorous chinchompa (08@H
 5
@@ -1100,6 +1116,8 @@ Chinchompa (08@H
 “1	ChronozonNormal Mode <(≠0¨8≠@H™demon
 8
 î1Chronozon (hard)	Hard Mode x(⁄0ÿ8≠@H™demon
+
+¡vChuck up n(8ZHcò»
 )
 ï"
 City guard P(F0F8F@HP	XÄàê
@@ -1331,6 +1349,8 @@ I
 ;
 ∫1
 Dad (hard)	Hard Mode (Ñ0à82P(XFÄàê(ò»†»
+0
+øvDaddy's special water x(c8cXFÄàê(ò»
 -
  ÀÃ	DagannothLevel 74 (1) F(D0F82@H
 3
@@ -1641,6 +1661,10 @@ Deep Delve Ò(¨0æ8Z@ìHnP“X-`}hpxx2Ä¨à¨ê<ò†™demon
 †d
 
 ºvDrink troll (08@H
+7
+«vDrink troll queen	In combat ·8õ@Õò¡ˇˇˇˇˇˇˇˇ
+6
+»vDrink troll queenDefeated ·8õ@Õò¡ˇˇˇˇˇˇˇˇ
 
 ∫Druid (08 @H
 Y
@@ -1735,6 +1759,10 @@ Dust devilCatacombs of Kourend Ç(x0Z8(@H
 U
 ˇEadburg 
 (08@HÄÙˇˇˇˇˇˇˇˇàÙˇˇˇˇˇˇˇˇêÙˇˇˇˇˇˇˇˇòÙˇˇˇˇˇˇˇˇ†Ùˇˇˇˇˇˇˇˇ
+
+Óv	Eagle ray	In combat 2(F
+
+Ôv	Eagle rayDefeated 2(F
 )
 ÷
 Earth elementalNormal #(0#8#@
@@ -2289,6 +2317,10 @@ E
 °Ghoul 2(0(8@H
  
 ÇGhoul Champion d(<0P8<@H<
+$
+Ãx	Giant ant1 (8Äàêò
+$
+Õx	Giant ant2 (8Äàêò
 2
 í	Giant batNormal  (08@HÄ
 à
@@ -2399,6 +2431,12 @@ X
 ê
 ò
 
+%
+Œx
+Giant wasp1 (8Äàêò
+%
+œx
+Giant wasp2 (8Äàêò
 .
 ñXGlacies Ù(08»@»HhÄdàdêòñ†2
 $
@@ -2798,6 +2836,14 @@ Brown hair <( 0 8'P	XÄàêò˝ˇˇˇˇˇˇˇˇ†
 <
 èêGuardStaff (08@HPX
 Äàêò¸ˇˇˇˇˇˇˇˇ†
++
+ßtGuard1 (8XÄàêò¸ˇˇˇˇˇˇˇˇ
++
+®tGuard2 (8XÄàêò¸ˇˇˇˇˇˇˇˇ
++
+©tGuard3 (8XÄàêò¸ˇˇˇˇˇˇˇˇ
++
+™tGuard4 (8XÄàêò¸ˇˇˇˇˇˇˇˇ
 6
 äGuard1 (08@HPXÄàêò¸ˇˇˇˇˇˇˇˇ†
 6
@@ -3767,6 +3813,10 @@ Q
 @H
 )
 œ7Maniacal Monkey Archer <(x0P8P@H»
+ 
+Ùv	Manta ray	In combat †(õ
+
+ıv	Manta rayDefeated †(õ
 '
 íd	Manticore ˙(¨0¨8˙@¨Hﬁò
 †
@@ -4529,6 +4579,18 @@ H
 
 *
 Ú Possessed Priest Z(Z0Z8(@<HXZÄZêZ
+&
+∆xPraying mantis1 (8
+Ä
+àê
+&
+«xPraying mantis2 (8
+Ä
+àê
+&
+»xPraying mantis3 (8
+Ä
+àê
 5
 ÿkPrince Itzla Arkan ˙(ñ0n8K@7HPñÄàêò
 
@@ -4688,6 +4750,9 @@ Red dragon d(Z0Z8Z@HÄ
 àX£XRedeyes †(F0F8F@FHP$X.`$h.Ä
 à
 êò†
+&
+ãy
+Reef snake †8d@dH™Äxàxêxòd
 .
 ΩRenegade knight 0(08@HPXÄcàRê>
 E
@@ -5742,6 +5807,8 @@ Entry Mode –(å0å8P@åHå`ñh
 >
 ´AThe Maiden of Sugadinti
 30% Health ö(ﬁ0ﬁ8»@ﬁHﬁ`¨
+#
+¿v	The rocks Ç(æ8áXdÄ#à<ê#
 '
 ‰$The Shaikahan d(P0P8@HòêN†êN
 $
@@ -6128,6 +6195,10 @@ A
 É,Ü,Vampyre JuvinateLevel 90 d(q0.87@2H2™vampyre2
 ;
 Ñ,á,Vampyre Juvinate	Level 119 ñ(0L8A@2H2™vampyre2
+3
+ÏvVampyre kraken	In combat ·8s@◊ò¡ˇˇˇˇˇˇˇˇ
+2
+ÌvVampyre krakenDefeated ·8s@◊ò¡ˇˇˇˇˇˇˇˇ
 H
 È:VanguardMagic ¥(ñ0ñ8†@ñHñ`(hÄªà‘êêòn†2™xerician
 I

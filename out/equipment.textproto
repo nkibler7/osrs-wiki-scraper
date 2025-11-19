@@ -109519,6 +109519,15 @@ items {
   }
 }
 items {
+  key: 31742
+  value {
+    id: 31742
+    name: "Storm cruiser\'s shoes"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 31748
   value {
     id: 31748
@@ -109546,6 +109555,15 @@ items {
   }
 }
 items {
+  key: 31754
+  value {
+    id: 31754
+    name: "Nifty shoes"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 31760
   value {
     id: 31760
@@ -109568,6 +109586,15 @@ items {
   value {
     id: 31764
     name: "Sleek trousers"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31766
+  value {
+    id: 31766
+    name: "Sleek shoes"
     stat_bonuses {
     }
   }
