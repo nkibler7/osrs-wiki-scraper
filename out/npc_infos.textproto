@@ -683,9 +683,9 @@ npcs {
 }
 npcs {
   ids: 15224
-  hitpoints: 80
-  att: 70
-  str: 50
+  hitpoints: 125
+  att: 100
+  str: 90
   mage: 1
 }
 npcs {
@@ -26142,6 +26142,11 @@ npcs {
 npcs {
   ids: 15204
   name: "Orca"
+  hitpoints: 265
+  att: 165
+  str: 125
+  def: 50
+  mage: 1
 }
 npcs {
   ids: 2237
@@ -34129,7 +34134,6 @@ npcs {
   att: 130
   str: 55
   mage: 1
-  amagic: 1
 }
 npcs {
   ids: 8066
