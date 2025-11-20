@@ -12955,6 +12955,11 @@ npcs {
 npcs {
   ids: 14922
   name: "Frost dragon"
+  hitpoints: 230
+  att: 180
+  str: 150
+  def: 150
+  mage: 150
 }
 npcs {
   ids: 13728
