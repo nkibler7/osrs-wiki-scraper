@@ -15637,6 +15637,10 @@ npcs {
   att: 65
   def: 50
   mage: 50
+  dstab: 10
+  dslash: 20
+  dcrush: 40
+  dmagic: 100
 }
 npcs {
   ids: 3254
