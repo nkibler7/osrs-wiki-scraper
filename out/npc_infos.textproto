@@ -13672,7 +13672,7 @@ npcs {
 npcs {
   ids: 15436
   name: "Giant ant"
-  version: "1"
+  version: "Worker"
   hitpoints: 20
   att: 16
   def: 22
@@ -13684,7 +13684,7 @@ npcs {
 npcs {
   ids: 15437
   name: "Giant ant"
-  version: "2"
+  version: "Soldier"
   hitpoints: 30
   att: 23
   def: 24
