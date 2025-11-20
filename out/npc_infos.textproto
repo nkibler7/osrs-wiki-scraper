@@ -23893,7 +23893,7 @@ npcs {
 npcs {
   ids: 15230
   ids: 15232
-  name: "Mogre"
+  name: "Mogrer"
   hitpoints: 60
   att: 40
   str: 50
