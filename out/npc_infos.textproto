@@ -4070,7 +4070,7 @@ npcs {
   name: "Black Eye Bethel"
   hitpoints: 180
   att: 170
-  def: 100
+  def: 180
   mage: 80
 }
 npcs {
