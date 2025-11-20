@@ -1599,8 +1599,11 @@ npcs {
   name: "Armoured kraken"
   version: "In combat"
   hitpoints: 175
+  att: 1
+  str: 1
   def: 140
   mage: 175
+  range: 1
   dmagic: -63
 }
 npcs {
@@ -1608,8 +1611,11 @@ npcs {
   name: "Armoured kraken"
   version: "Defeated"
   hitpoints: 175
+  att: 1
+  str: 1
   def: 140
   mage: 175
+  range: 1
   dmagic: -63
 }
 npcs {
@@ -22233,6 +22239,16 @@ npcs {
 npcs {
   ids: 15500
   name: "Lava Strykewyrm"
+  hitpoints: 150
+  att: 90
+  str: 90
+  def: 50
+  mage: 50
+  range: 110
+  dstab: 30
+  dslash: 60
+  dcrush: 70
+  dmagic: 40
 }
 npcs {
   ids: 3233
@@ -23278,6 +23294,8 @@ npcs {
   version: "In combat"
   hitpoints: 160
   att: 155
+  str: 75
+  mage: 1
 }
 npcs {
   ids: 15221
@@ -23285,6 +23303,8 @@ npcs {
   version: "Defeated"
   hitpoints: 160
   att: 155
+  str: 75
+  mage: 1
 }
 npcs {
   ids: 12818
