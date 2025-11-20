@@ -30771,6 +30771,7 @@ npcs {
   mage: 100
   range: 150
   strbns: 210
+  arange: 20
   dstab: 10
   dslash: 20
   dcrush: 40
