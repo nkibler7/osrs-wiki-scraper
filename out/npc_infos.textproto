@@ -22260,6 +22260,7 @@ npcs {
   dslash: 60
   dcrush: 70
   dmagic: 40
+  attributes: "dragon"
 }
 npcs {
   ids: 3233
@@ -30788,6 +30789,7 @@ npcs {
   mage: 100
   range: 150
   strbns: 210
+  amagic: 100
   arange: 20
   dstab: 10
   dslash: 20
