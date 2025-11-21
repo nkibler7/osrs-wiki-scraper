@@ -12987,6 +12987,10 @@ npcs {
   str: 150
   def: 150
   mage: 150
+  dstab: 25
+  dslash: 90
+  dcrush: 15
+  dmagic: 50
 }
 npcs {
   ids: 13728
