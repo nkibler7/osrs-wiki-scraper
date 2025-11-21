@@ -23011,6 +23011,18 @@ npcs {
 npcs {
   ids: 15504
   name: "Magma strykewyrm"
+  hitpoints: 340
+  att: 210
+  str: 210
+  def: 110
+  mage: 110
+  range: 250
+  attbns: 30
+  rngbns: 40
+  dstab: 60
+  dslash: 30
+  dcrush: 70
+  dmagic: 40
 }
 npcs {
   ids: 7396
