@@ -109524,7 +109524,6 @@ items {
     id: 31742
     name: "Storm cruiser\'s shoes"
     stat_bonuses {
-      magic_attack: 12
     }
   }
 }
