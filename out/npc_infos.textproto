@@ -15667,6 +15667,7 @@ npcs {
   name: "Gryphon"
   hitpoints: 150
   att: 65
+  str: 75
   def: 50
   mage: 50
   dstab: 10
@@ -30809,6 +30810,7 @@ npcs {
   mage: 1
 }
 npcs {
+  ids: 14860
   name: "Shellbane Gryphon"
   hitpoints: 400
   att: 160
