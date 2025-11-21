@@ -28068,7 +28068,6 @@ npcs {
   dstab: 10
   dslash: 15
   dcrush: 5
-  drange: 10
 }
 npcs {
   ids: 15431
@@ -28083,7 +28082,6 @@ npcs {
   dstab: 10
   dslash: 15
   dcrush: 5
-  drange: 10
 }
 npcs {
   ids: 15432
@@ -28098,7 +28096,6 @@ npcs {
   dstab: 10
   dslash: 15
   dcrush: 5
-  drange: 10
 }
 npcs {
   ids: 13784
