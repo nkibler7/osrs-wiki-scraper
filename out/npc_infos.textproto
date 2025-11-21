@@ -4743,6 +4743,7 @@ npcs {
   name: "Blue dagannoth"
   hitpoints: 120
   att: 78
+  str: 78
   def: 81
   range: 50
   dstab: 150
@@ -9201,6 +9202,10 @@ npcs {
 npcs {
   ids: 15171
   name: "Dinky the drink troll"
+  hitpoints: 140
+  att: 70
+  str: 140
+  def: 40
 }
 npcs {
   ids: 14859
