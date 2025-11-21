@@ -1393,11 +1393,33 @@ npcs {
   ids: 15497
   name: "Aquanite"
   version: "Lure"
+  hitpoints: 180
+  att: 1
+  str: 1
+  def: 70
+  mage: 170
+  range: 1
+  amagic: 50
+  dstab: 60
+  dslash: 80
+  dcrush: 80
+  dmagic: 140
 }
 npcs {
   ids: 15498
   name: "Aquanite"
   version: "No lure"
+  hitpoints: 180
+  att: 1
+  str: 1
+  def: 70
+  mage: 170
+  range: 1
+  amagic: 50
+  dstab: 10
+  dslash: 80
+  dcrush: 80
+  dmagic: 140
 }
 npcs {
   ids: 13668
@@ -23893,7 +23915,7 @@ npcs {
 npcs {
   ids: 15230
   ids: 15232
-  name: "Mogrer"
+  name: "Mogre"
   hitpoints: 60
   att: 40
   str: 50
