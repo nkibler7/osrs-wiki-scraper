@@ -123582,13 +123582,6 @@ items {
   }
 }
 items {
-  key: 32865
-  value {
-    id: 32865
-    name: "Dull knife"
-  }
-}
-items {
   key: 32866
   value {
     id: 32866

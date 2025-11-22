@@ -25144,6 +25144,12 @@ npcs {
 npcs {
   ids: 15202
   name: "Narwhal"
+  hitpoints: 155
+  att: 95
+  str: 65
+  def: 50
+  mage: 1
+  dmagic: 20
 }
 npcs {
   ids: 5353
@@ -37899,8 +37905,11 @@ npcs {
   name: "Vampyre kraken"
   version: "In combat"
   hitpoints: 225
+  att: 1
+  str: 1
   def: 115
   mage: 215
+  range: 1
   dmagic: -63
 }
 npcs {
@@ -37908,8 +37917,11 @@ npcs {
   name: "Vampyre kraken"
   version: "Defeated"
   hitpoints: 225
+  att: 1
+  str: 1
   def: 115
   mage: 215
+  range: 1
   dmagic: -63
 }
 npcs {
