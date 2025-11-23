@@ -15670,7 +15670,7 @@ npcs {
 npcs {
   ids: 15009
   name: "Gryphon"
-  hitpoints: 150
+  hitpoints: 110
   att: 65
   str: 75
   def: 50
@@ -30287,6 +30287,19 @@ npcs {
 npcs {
   ids: 14940
   name: "Scorpion"
+  hitpoints: 2
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  attbns: -35
+  strbns: -58
+  dstab: -53
+  dslash: -53
+  dcrush: -53
+  dmagic: -53
+  drange: -53
 }
 npcs {
   ids: 7390
