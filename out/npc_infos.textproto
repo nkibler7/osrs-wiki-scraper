@@ -13718,7 +13718,10 @@ npcs {
   version: "Worker"
   hitpoints: 20
   att: 16
+  str: 18
   def: 22
+  mage: 1
+  range: 1
   dstab: 24
   dslash: 20
   dcrush: 12
@@ -13730,7 +13733,10 @@ npcs {
   version: "Soldier"
   hitpoints: 30
   att: 23
+  str: 26
   def: 24
+  mage: 1
+  range: 1
   dstab: 24
   dslash: 20
   dcrush: 12
