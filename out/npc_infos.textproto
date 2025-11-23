@@ -1626,7 +1626,7 @@ npcs {
   def: 140
   mage: 175
   range: 1
-  dmagic: -63
+  dmagic: 963
 }
 npcs {
   ids: 15211
@@ -1638,7 +1638,7 @@ npcs {
   def: 140
   mage: 175
   range: 1
-  dmagic: -63
+  dmagic: 963
 }
 npcs {
   ids: 12730
