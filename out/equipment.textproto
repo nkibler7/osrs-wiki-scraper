@@ -123575,48 +123575,6 @@ items {
   }
 }
 items {
-  key: 32864
-  value {
-    id: 32864
-    name: "Mouldy block"
-  }
-}
-items {
-  key: 32866
-  value {
-    id: 32866
-    name: "Broken compass"
-  }
-}
-items {
-  key: 32867
-  value {
-    id: 32867
-    name: "Rusty coin"
-  }
-}
-items {
-  key: 32868
-  value {
-    id: 32868
-    name: "Broken sextant"
-  }
-}
-items {
-  key: 32869
-  value {
-    id: 32869
-    name: "Mouldy doll"
-  }
-}
-items {
-  key: 32870
-  value {
-    id: 32870
-    name: "Smashed mirror"
-  }
-}
-items {
   key: 32879
   value {
     id: 32879
