@@ -9919,8 +9919,11 @@ npcs {
   name: "Drink troll queen"
   version: "In combat"
   hitpoints: 225
+  att: 1
+  str: 1
   def: 155
   mage: 205
+  range: 1
   dmagic: -63
 }
 npcs {
@@ -9928,8 +9931,11 @@ npcs {
   name: "Drink troll queen"
   version: "Defeated"
   hitpoints: 225
+  att: 1
+  str: 1
   def: 155
   mage: 205
+  range: 1
   dmagic: -63
 }
 npcs {
