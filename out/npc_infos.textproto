@@ -1073,12 +1073,15 @@ npcs {
   name: "Angry tortugan"
   hitpoints: 75
   att: 90
+  str: 65
   def: 50
   mage: 40
+  range: 1
   dstab: 80
   dslash: 80
   dcrush: 50
   dmagic: 30
+  drange: 80
 }
 npcs {
   ids: 1061
