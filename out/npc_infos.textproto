@@ -6552,6 +6552,7 @@ npcs {
   name: "Chuck up"
   hitpoints: 110
   att: 30
+  str: 80
   def: 90
   range: 99
   dmagic: 200
