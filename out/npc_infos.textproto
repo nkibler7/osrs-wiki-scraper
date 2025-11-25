@@ -23054,6 +23054,7 @@ npcs {
   dslash: 30
   dcrush: 70
   dmagic: 40
+  attributes: "dragon"
 }
 npcs {
   ids: 7396
