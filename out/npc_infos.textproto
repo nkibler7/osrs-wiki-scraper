@@ -1077,6 +1077,7 @@ npcs {
   def: 50
   mage: 40
   range: 1
+  attbns: 20
   dstab: 80
   dslash: 80
   dcrush: 50
