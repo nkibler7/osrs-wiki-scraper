@@ -109531,7 +109531,7 @@ items {
   key: 31748
   value {
     id: 31748
-    name: "Nifty hat"
+    name: "Swamp cruiser\'s hat"
     stat_bonuses {
     }
   }
@@ -109540,7 +109540,7 @@ items {
   key: 31750
   value {
     id: 31750
-    name: "Nifty jacket"
+    name: "Swamp cruiser\'s jacket"
     stat_bonuses {
     }
   }
@@ -109549,7 +109549,7 @@ items {
   key: 31752
   value {
     id: 31752
-    name: "Nifty trousers"
+    name: "Swamp cruiser\'s trousers"
     stat_bonuses {
     }
   }
@@ -109558,7 +109558,7 @@ items {
   key: 31754
   value {
     id: 31754
-    name: "Nifty shoes"
+    name: "Swamp cruiser\'s shoes"
     stat_bonuses {
     }
   }
@@ -109567,7 +109567,7 @@ items {
   key: 31760
   value {
     id: 31760
-    name: "Sleek hat"
+    name: "Crystal glider\'s hat"
     stat_bonuses {
     }
   }
@@ -109576,7 +109576,7 @@ items {
   key: 31762
   value {
     id: 31762
-    name: "Sleek jacket"
+    name: "Crystal glider\'s jacket"
     stat_bonuses {
     }
   }
@@ -109585,7 +109585,7 @@ items {
   key: 31764
   value {
     id: 31764
-    name: "Sleek trousers"
+    name: "Crystal glider\'s trousers"
     stat_bonuses {
     }
   }
@@ -109594,7 +109594,7 @@ items {
   key: 31766
   value {
     id: 31766
-    name: "Sleek shoes"
+    name: "Crystal glider\'s shoes"
     stat_bonuses {
     }
   }
