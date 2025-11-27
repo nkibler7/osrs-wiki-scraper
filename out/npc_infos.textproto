@@ -27561,6 +27561,42 @@ npcs {
   dslash: 1
 }
 npcs {
+  ids: 15021
+  name: "Pirate"
+  version: "1"
+  hitpoints: 38
+  att: 54
+  def: 35
+  mage: 10
+}
+npcs {
+  ids: 15022
+  name: "Pirate"
+  version: "2"
+  hitpoints: 38
+  att: 54
+  def: 35
+  mage: 10
+}
+npcs {
+  ids: 15023
+  name: "Pirate"
+  version: "3"
+  hitpoints: 38
+  att: 54
+  def: 35
+  mage: 10
+}
+npcs {
+  ids: 15024
+  name: "Pirate"
+  version: "4"
+  hitpoints: 38
+  att: 54
+  def: 35
+  mage: 10
+}
+npcs {
   ids: 14933
   name: "Pirate"
   version: "1"
@@ -27629,42 +27665,6 @@ npcs {
   dstab: 10
   dslash: 20
   dcrush: 10
-}
-npcs {
-  ids: 15021
-  name: "Pirate"
-  version: "1"
-  hitpoints: 38
-  att: 54
-  def: 35
-  mage: 10
-}
-npcs {
-  ids: 15022
-  name: "Pirate"
-  version: "2"
-  hitpoints: 38
-  att: 54
-  def: 35
-  mage: 10
-}
-npcs {
-  ids: 15023
-  name: "Pirate"
-  version: "3"
-  hitpoints: 38
-  att: 54
-  def: 35
-  mage: 10
-}
-npcs {
-  ids: 15024
-  name: "Pirate"
-  version: "4"
-  hitpoints: 38
-  att: 54
-  def: 35
-  mage: 10
 }
 npcs {
   ids: 4926
