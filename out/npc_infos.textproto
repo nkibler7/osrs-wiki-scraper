@@ -30857,7 +30857,7 @@ npcs {
 }
 npcs {
   ids: 14860
-  name: "Shellbane Gryphon"
+  name: "Shellbane gryphon"
   hitpoints: 400
   att: 160
   str: 210
