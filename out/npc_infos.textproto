@@ -21975,7 +21975,7 @@ npcs {
   att: 85
   str: 98
   def: 105
-  mage: 80
+  mage: 400
   range: 1
 }
 npcs {
