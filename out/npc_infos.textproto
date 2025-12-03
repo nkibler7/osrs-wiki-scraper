@@ -10645,11 +10645,33 @@ npcs {
   ids: 15502
   name: "Elder aquanite"
   version: "Lure"
+  hitpoints: 365
+  att: 1
+  str: 1
+  def: 180
+  mage: 330
+  range: 1
+  mbns: 50
+  dstab: 60
+  dslash: 80
+  dcrush: 80
+  dmagic: 140
 }
 npcs {
   ids: 15503
   name: "Elder aquanite"
   version: "No lure"
+  hitpoints: 365
+  att: 1
+  str: 1
+  def: 180
+  mage: 330
+  range: 1
+  mbns: 10
+  dstab: 10
+  dslash: 80
+  dcrush: 80
+  dmagic: 140
 }
 npcs {
   ids: 6607
