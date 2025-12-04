@@ -20588,7 +20588,7 @@ npcs {
 npcs {
   ids: 1042
   name: "Jungle horror"
-  version: "Red eyes"
+  version: "Worker"
   hitpoints: 45
   att: 70
   str: 70
@@ -20599,7 +20599,7 @@ npcs {
 npcs {
   ids: 1043
   name: "Jungle horror"
-  version: "Yellow eyes"
+  version: "Young worker"
   hitpoints: 45
   att: 70
   str: 70
@@ -20610,7 +20610,7 @@ npcs {
 npcs {
   ids: 1044
   name: "Jungle horror"
-  version: "Green eyes"
+  version: "Warrior"
   hitpoints: 45
   att: 70
   str: 70
@@ -20621,7 +20621,7 @@ npcs {
 npcs {
   ids: 1045
   name: "Jungle horror"
-  version: "Blue eyes"
+  version: "Young warrior"
   hitpoints: 45
   att: 70
   str: 70
@@ -20632,7 +20632,7 @@ npcs {
 npcs {
   ids: 1046
   name: "Jungle horror"
-  version: "Pink eyes"
+  version: "Guard"
   hitpoints: 45
   att: 70
   str: 70
