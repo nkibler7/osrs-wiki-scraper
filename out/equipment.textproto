@@ -123590,10 +123590,3 @@ items {
     }
   }
 }
-items {
-  key: 32895
-  value {
-    id: 32895
-    name: "Coin pouch"
-  }
-}
