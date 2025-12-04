@@ -109114,13 +109114,17 @@ items {
     id: 31248
     name: "Belle\'s folly"
     stat_bonuses {
-      stab_attack: 100
-      slash_attack: 78
-      crush_attack: -3
-      stab_defence: 20
-      slash_defence: 15
-      crush_defence: -9
-      melee_strength: 102
+      stab_attack: 97
+      slash_attack: 76
+      crush_attack: -19
+      magic_attack: -13
+      stab_defence: 18
+      slash_defence: 12
+      crush_defence: -11
+      ranged_defence: -1
+      magic_defence: -13
+      melee_strength: 87
+      prayer: -3
     }
     weapon_details {
       base_attack_speed: 5
