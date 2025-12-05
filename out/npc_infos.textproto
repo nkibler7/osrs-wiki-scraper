@@ -9221,7 +9221,7 @@ npcs {
 npcs {
   ids: 14859
   name: "Dire gryphon"
-  hitpoints: 133
+  hitpoints: 280
   att: 160
   str: 190
   def: 100
