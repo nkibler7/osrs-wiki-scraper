@@ -10645,7 +10645,7 @@ npcs {
   ids: 15502
   name: "Elder aquanite"
   version: "Lure"
-  hitpoints: 365
+  hitpoints: 400
   att: 1
   str: 1
   def: 180
@@ -10661,7 +10661,7 @@ npcs {
   ids: 15503
   name: "Elder aquanite"
   version: "No lure"
-  hitpoints: 365
+  hitpoints: 400
   att: 1
   str: 1
   def: 180
