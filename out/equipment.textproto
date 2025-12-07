@@ -11186,6 +11186,7 @@ items {
     id: 1635
     name: "Gold ring"
     stat_bonuses {
+      prayer: -1
     }
   }
 }
