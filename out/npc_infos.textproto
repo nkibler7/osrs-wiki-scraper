@@ -20409,7 +20409,24 @@ npcs {
   dslash: 200
   dcrush: 200
   dmagic: 300
-  drange: 200
+  drange: 150
+}
+npcs {
+  ids: 12353
+  ids: 12354
+  name: "Jhallan"
+  hitpoints: 1
+  att: 250
+  str: 250
+  def: 83
+  mage: 83
+  attbns: 30
+  amagic: 30
+  dstab: 200
+  dslash: 200
+  dcrush: 200
+  dmagic: 300
+  drange: 150
 }
 npcs {
   ids: 2094
