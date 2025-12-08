@@ -35378,8 +35378,8 @@ npcs {
   name: "The Forsaken Assassin"
   hitpoints: 200
   att: 160
-  str: 140
-  def: 160
+  str: 160
+  def: 140
   mage: 140
   range: 160
   attbns: 66
