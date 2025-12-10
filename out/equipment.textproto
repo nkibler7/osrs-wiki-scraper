@@ -123933,3 +123933,68 @@ items {
     }
   }
 }
+items {
+  key: 32928
+  value {
+    id: 32928
+    name: "Lovley jubbly bib"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 32930
+  value {
+    id: 32930
+    name: "Beer belly sweater"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 32932
+  value {
+    id: 32932
+    name: "Jad jumper"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 32934
+  value {
+    id: 32934
+    name: "Christmas dinner"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
