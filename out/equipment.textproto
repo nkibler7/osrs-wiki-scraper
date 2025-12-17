@@ -38500,7 +38500,7 @@ items {
   key: 8925
   value {
     id: 8925
-    name: "Bandana eyepatch"
+    name: "Bandana eyepatch (red)"
     stat_bonuses {
     }
   }
@@ -38509,7 +38509,7 @@ items {
   key: 8926
   value {
     id: 8926
-    name: "Bandana eyepatch"
+    name: "Bandana eyepatch (blue)"
     stat_bonuses {
     }
   }
@@ -38518,7 +38518,7 @@ items {
   key: 8927
   value {
     id: 8927
-    name: "Bandana eyepatch"
+    name: "Bandana eyepatch (brown)"
     stat_bonuses {
     }
   }
