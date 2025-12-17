@@ -109084,15 +109084,6 @@ items {
   }
 }
 items {
-  key: 31243
-  value {
-    id: 31243
-    name: "Horn of plenty (empty)"
-    stat_bonuses {
-    }
-  }
-}
-items {
   key: 31248
   value {
     id: 31248
