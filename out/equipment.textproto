@@ -109168,6 +109168,15 @@ items {
   }
 }
 items {
+  key: 31292
+  value {
+    id: 31292
+    name: "Sailing hood"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 31300
   value {
     id: 31300
