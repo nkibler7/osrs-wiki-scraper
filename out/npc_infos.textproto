@@ -7894,7 +7894,7 @@ npcs {
 npcs {
   ids: 2235
   name: "Cyclops"
-  version: "Teal"
+  version: "Green"
   hitpoints: 110
   att: 60
   str: 70
@@ -15298,7 +15298,7 @@ npcs {
 npcs {
   ids: 3141
   name: "Gorak"
-  version: "Level 149"
+  version: "GWD"
   hitpoints: 128
   att: 133
   str: 126
@@ -26173,7 +26173,7 @@ npcs {
 npcs {
   ids: 2233
   name: "Ogre"
-  version: "Level 58"
+  version: "GWD"
   hitpoints: 70
   att: 46
   str: 48
