@@ -10343,7 +10343,7 @@ npcs {
   hitpoints: 16
   att: 8
   str: 8
-  def: 8
+  def: 6
   mage: 1
   range: 1
   attbns: 5
@@ -10368,26 +10368,39 @@ npcs {
   ids: 294
   name: "Dwarf"
   version: "Mining Guild (1)"
+  hitpoints: 16
+  att: 12
+  str: 5
+  def: 8
   mage: 1
   range: 1
   attbns: 5
   strbns: 7
   dmagic: 5
+  drange: 10
 }
 npcs {
   ids: 295
   name: "Dwarf"
   version: "Mining Guild (2)"
+  hitpoints: 16
+  att: 8
+  str: 5
+  def: 8
   mage: 1
   range: 1
   attbns: 5
   strbns: 7
-  dmagic: 5
+  dmagic: 10
 }
 npcs {
   ids: 296
   name: "Dwarf"
   version: "Mining Guild (3)"
+  hitpoints: 12
+  att: 8
+  str: 8
+  def: 10
   mage: 1
   range: 1
   attbns: 5
@@ -10398,72 +10411,108 @@ npcs {
   ids: 1401
   name: "Dwarf"
   version: "Worker (1)"
+  hitpoints: 16
+  att: 8
+  str: 8
+  def: 8
   mage: 1
   range: 1
   attbns: 5
   strbns: 7
   dmagic: 5
+  drange: 10
 }
 npcs {
   ids: 1402
   name: "Dwarf"
   version: "Worker (2)"
+  hitpoints: 16
+  att: 8
+  str: 8
+  def: 8
   mage: 1
   range: 1
   attbns: 5
   strbns: 7
   dmagic: 5
+  drange: 10
 }
 npcs {
   ids: 1403
   name: "Dwarf"
   version: "Worker (3)"
+  hitpoints: 16
+  att: 8
+  str: 8
+  def: 8
   mage: 1
   range: 1
   attbns: 5
   strbns: 7
-  dmagic: 5
+  dslash: 10
+  dcrush: 10
+  dmagic: 10
+  drange: 20
 }
 npcs {
   ids: 1404
   name: "Dwarf"
   version: "Worker (4)"
+  hitpoints: 16
+  att: 8
+  str: 8
+  def: 8
   mage: 1
   range: 1
   attbns: 5
   strbns: 7
   dmagic: 5
+  drange: 10
 }
 npcs {
   ids: 1405
   name: "Dwarf"
   version: "Worker (5)"
   hitpoints: 12
+  att: 8
+  str: 8
+  def: 8
   mage: 1
   range: 1
   attbns: 5
   strbns: 7
   dmagic: 5
+  drange: 10
 }
 npcs {
   ids: 1406
   name: "Dwarf"
   version: "Worker (6)"
+  hitpoints: 18
+  att: 8
+  str: 6
+  def: 10
   mage: 1
   range: 1
   attbns: 5
   strbns: 7
   dmagic: 5
+  drange: 10
 }
 npcs {
   ids: 1407
   name: "Dwarf"
   version: "Worker (7)"
+  hitpoints: 13
+  att: 10
+  str: 8
+  def: 8
   mage: 1
   range: 1
   attbns: 5
   strbns: 7
   dmagic: 5
+  drange: 10
 }
 npcs {
   ids: 1408
@@ -10484,11 +10533,16 @@ npcs {
   ids: 8496
   name: "Dwarf"
   version: "Worker (9)"
+  hitpoints: 18
+  att: 8
+  str: 6
+  def: 10
   mage: 1
   range: 1
   attbns: 5
   strbns: 7
   dmagic: 5
+  drange: 10
 }
 npcs {
   ids: 1354
