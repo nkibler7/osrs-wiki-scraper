@@ -21675,6 +21675,7 @@ npcs {
 }
 npcs {
   ids: 239
+  ids: 2642
   name: "King Black Dragon"
   hitpoints: 240
   att: 240
