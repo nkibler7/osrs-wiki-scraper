@@ -109186,13 +109186,6 @@ items {
   }
 }
 items {
-  key: 31331
-  value {
-    id: 31331
-    name: "Mayor of catherby"
-  }
-}
-items {
   key: 31398
   value {
     id: 31398
