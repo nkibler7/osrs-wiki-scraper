@@ -12465,7 +12465,7 @@ items {
       slash_defence: 30
       crush_defence: 30
       ranged_defence: 40
-      magic_defence: 28
+      magic_defence: 26
     }
   }
 }
