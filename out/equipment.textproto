@@ -123984,6 +123984,15 @@ items {
   }
 }
 items {
+  key: 33018
+  value {
+    id: 33018
+    name: "Annihilation teleport scroll"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 33021
   value {
     id: 33021
