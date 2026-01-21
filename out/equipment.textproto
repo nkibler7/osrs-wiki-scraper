@@ -124035,6 +124035,216 @@ items {
   }
 }
 items {
+  key: 33023
+  value {
+    id: 33023
+    name: "Crystal body"
+    stat_bonuses {
+      ranged_attack: 31
+      magic_attack: -18
+      stab_defence: 46
+      slash_defence: 38
+      crush_defence: 48
+      ranged_defence: 68
+      magic_defence: 44
+      prayer: 3
+    }
+  }
+}
+items {
+  key: 33025
+  value {
+    id: 33025
+    name: "Crystal body (inactive)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33027
+  value {
+    id: 33027
+    name: "Crystal legs"
+    stat_bonuses {
+      ranged_attack: 18
+      magic_attack: -12
+      stab_defence: 26
+      slash_defence: 21
+      crush_defence: 30
+      ranged_defence: 38
+      magic_defence: 34
+      prayer: 2
+    }
+  }
+}
+items {
+  key: 33029
+  value {
+    id: 33029
+    name: "Crystal legs (inactive)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33031
+  value {
+    id: 33031
+    name: "Crystal helm"
+    stat_bonuses {
+      ranged_attack: 9
+      magic_attack: -10
+      stab_defence: 12
+      slash_defence: 8
+      crush_defence: 14
+      ranged_defence: 18
+      magic_defence: 10
+      prayer: 2
+    }
+  }
+}
+items {
+  key: 33033
+  value {
+    id: 33033
+    name: "Crystal helm (inactive)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33035
+  value {
+    id: 33035
+    name: "Toxic staff (uncharged)"
+    stat_bonuses {
+      stab_attack: 55
+      slash_attack: 70
+      magic_attack: 17
+      slash_defence: 3
+      crush_defence: 3
+      magic_defence: 17
+      melee_strength: 72
+      magic_damage: 1.5
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+      combat_options {
+        name: "Jab"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Swipe"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Fend"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_DEFENSIVE_AUTOCAST
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_AUTOCAST
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33036
+  value {
+    id: 33036
+    name: "Toxic staff (deadman)"
+    stat_bonuses {
+      stab_attack: 55
+      slash_attack: 70
+      magic_attack: 25
+      slash_defence: 3
+      crush_defence: 3
+      magic_defence: 17
+      melee_strength: 72
+      magic_damage: 1.5
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+      combat_options {
+        name: "Jab"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Swipe"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Fend"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_DEFENSIVE_AUTOCAST
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_AUTOCAST
+        }
+      }
+    }
+  }
+}
+items {
   key: 33066
   value {
     id: 33066
