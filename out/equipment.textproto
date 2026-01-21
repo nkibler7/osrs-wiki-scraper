@@ -123973,3 +123973,13 @@ items {
     }
   }
 }
+items {
+  key: 33002
+  value {
+    id: 33002
+    name: "Holy Moleys"
+    stat_bonuses {
+      prayer: 3
+    }
+  }
+}
