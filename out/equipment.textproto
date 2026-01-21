@@ -123977,9 +123977,73 @@ items {
   key: 33002
   value {
     id: 33002
-    name: "Holy Moleys"
+    name: "Holy moleys"
     stat_bonuses {
       prayer: 3
+    }
+  }
+}
+items {
+  key: 33066
+  value {
+    id: 33066
+    name: "Hooded slayer helmet"
+    stat_bonuses {
+      ranged_attack: -2
+      magic_attack: -6
+      stab_defence: 30
+      slash_defence: 32
+      crush_defence: 27
+      ranged_defence: 30
+      magic_defence: -1
+    }
+  }
+}
+items {
+  key: 33068
+  value {
+    id: 33068
+    name: "Hooded slayer helmet (i)"
+    stat_bonuses {
+      ranged_attack: 3
+      magic_attack: 3
+      stab_defence: 30
+      slash_defence: 32
+      crush_defence: 27
+      ranged_defence: 30
+      magic_defence: 10
+    }
+  }
+}
+items {
+  key: 33070
+  value {
+    id: 33070
+    name: "Hooded slayer helmet (i)"
+    stat_bonuses {
+      ranged_attack: 3
+      magic_attack: 3
+      stab_defence: 30
+      slash_defence: 32
+      crush_defence: 27
+      ranged_defence: 30
+      magic_defence: 10
+    }
+  }
+}
+items {
+  key: 33072
+  value {
+    id: 33072
+    name: "Hooded slayer helmet (i)"
+    stat_bonuses {
+      ranged_attack: 3
+      magic_attack: 3
+      stab_defence: 30
+      slash_defence: 32
+      crush_defence: 27
+      ranged_defence: 30
+      magic_defence: 10
     }
   }
 }
