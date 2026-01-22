@@ -124245,6 +124245,20 @@ items {
   }
 }
 items {
+  key: 33063
+  value {
+    id: 33063
+    name: "Starter cape"
+    stat_bonuses {
+      stab_attack: 5
+      slash_attack: 5
+      crush_attack: 5
+      ranged_attack: 5
+      magic_attack: 5
+    }
+  }
+}
+items {
   key: 33066
   value {
     id: 33066
