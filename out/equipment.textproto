@@ -123988,8 +123988,6 @@ items {
   value {
     id: 33018
     name: "Annihilation teleport scroll"
-    stat_bonuses {
-    }
   }
 }
 items {
