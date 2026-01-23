@@ -39258,7 +39258,7 @@ npcs {
 npcs {
   ids: 3260
   name: "Warrior"
-  version: "Blond"
+  version: "Blonde"
   hitpoints: 20
   att: 22
   str: 22
