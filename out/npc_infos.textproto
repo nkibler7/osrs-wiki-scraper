@@ -6751,6 +6751,24 @@ npcs {
   drange: 100
 }
 npcs {
+  ids: 12445
+  name: "Commander Zilyana"
+  version: "Annihilation"
+  hitpoints: 1000
+  att: 280
+  str: 196
+  mage: 300
+  range: 250
+  attbns: 195
+  strbns: 20
+  amagic: 200
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 100
+  drange: 100
+}
+npcs {
   ids: 6493
   name: "Commander Zilyana"
   hitpoints: 255
@@ -8249,6 +8267,20 @@ npcs {
   drange: 10
 }
 npcs {
+  ids: 12442
+  name: "Dagannoth Prime"
+  version: "Annihilation"
+  hitpoints: 1500
+  att: 255
+  str: 255
+  mage: 255
+  dstab: 255
+  dslash: 255
+  dcrush: 255
+  dmagic: 255
+  drange: 10
+}
+npcs {
   ids: 6497
   name: "Dagannoth Prime"
   hitpoints: 255
@@ -8310,7 +8342,7 @@ npcs {
   ids: 12439
   name: "Dagannoth Rex"
   version: "Annihilation"
-  hitpoints: 1000
+  hitpoints: 1500
   att: 255
   str: 255
   def: 255
@@ -8384,6 +8416,21 @@ npcs {
   att: 255
   str: 255
   def: 84
+  mage: 255
+  range: 255
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+  dmagic: 255
+  drange: 550
+}
+npcs {
+  ids: 12441
+  name: "Dagannoth Supreme"
+  version: "Annihilation"
+  hitpoints: 1500
+  att: 255
+  str: 255
   mage: 255
   range: 255
   dstab: 10
@@ -9002,6 +9049,24 @@ npcs {
   name: "Derwen"
   version: "Armageddon"
   hitpoints: 500
+  att: 250
+  str: 150
+  def: 100
+  mage: 180
+  range: 1
+  amagic: 80
+  mbns: 80
+  dstab: 200
+  dslash: 200
+  dcrush: 200
+  dmagic: -60
+  drange: 200
+}
+npcs {
+  ids: 12450
+  name: "Derwen"
+  version: "Annihilation"
+  hitpoints: 750
   att: 250
   str: 150
   def: 100
@@ -21068,6 +21133,25 @@ npcs {
   drange: 200
 }
 npcs {
+  ids: 12449
+  name: "Justiciar Zachariah"
+  version: "Annihilation"
+  hitpoints: 750
+  att: 500
+  str: 250
+  def: 100
+  mage: 180
+  range: 1
+  attbns: 200
+  amagic: 80
+  mbns: 80
+  dstab: 200
+  dslash: 200
+  dcrush: 200
+  dmagic: -60
+  drange: 200
+}
+npcs {
   ids: 14702
   name: "Juvenile custodian stalker"
   hitpoints: 135
@@ -28190,6 +28274,25 @@ npcs {
   name: "Porazdir"
   version: "Armageddon"
   hitpoints: 500
+  att: 250
+  str: 150
+  def: 100
+  mage: 180
+  range: 1
+  amagic: 80
+  mbns: 80
+  dstab: 200
+  dslash: 200
+  dcrush: 200
+  dmagic: -60
+  drange: 200
+  attributes: "demon"
+}
+npcs {
+  ids: 12448
+  name: "Porazdir"
+  version: "Annihilation"
+  hitpoints: 750
   att: 250
   str: 150
   def: 100
@@ -37702,7 +37805,7 @@ npcs {
   ids: 13661
   name: "TzTok-Jad"
   version: "Annihilation"
-  hitpoints: 1000
+  hitpoints: 3500
   att: 640
   str: 770
   def: 200
@@ -38513,10 +38616,44 @@ npcs {
 npcs {
   ids: 13656
   name: "Vardorvis"
+  version: "Armageddon"
+  hitpoints: 1500
+  att: 200
+  str: 250
+  def: 150
+  mage: 300
+  attbns: 200
+  strbns: 10
+  dstab: 200
+  dslash: 65
+  dcrush: 85
+  dmagic: 400
+  drange: 300
+}
+npcs {
+  ids: 13656
+  name: "Vardorvis"
+  version: "All-Stars"
   hitpoints: 500
   att: 200
   str: 250
   def: 100
+  mage: 300
+  attbns: 200
+  strbns: 10
+  dstab: 200
+  dslash: 65
+  dcrush: 85
+  dmagic: 400
+  drange: 300
+}
+npcs {
+  ids: 13656
+  name: "Vardorvis"
+  version: "Annihilation"
+  att: 200
+  str: 250
+  def: 25
   mage: 300
   attbns: 200
   strbns: 10
