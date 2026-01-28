@@ -3753,7 +3753,38 @@ npcs {
 npcs {
   ids: 13658
   name: "Bee Swarm"
+  version: "Armageddon"
+  hitpoints: 2000
+  att: 400
+  str: 100
+  def: 30
+  mage: 1
+  range: 1
+  attbns: 200
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+}
+npcs {
+  ids: 13658
+  name: "Bee Swarm"
+  version: "All-Stars"
   hitpoints: 750
+  att: 400
+  str: 100
+  def: 30
+  mage: 1
+  range: 1
+  attbns: 200
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+}
+npcs {
+  ids: 13658
+  name: "Bee Swarm"
+  version: "Annihilation"
+  hitpoints: 3000
   att: 400
   str: 100
   def: 30
@@ -3808,6 +3839,18 @@ npcs {
   dmagic: -3
   drange: 2
   attributes: "spectral"
+}
+npcs {
+  ids: 15547
+  name: "Big Evil Chicken"
+  version: "Factions"
+  hitpoints: 1000
+}
+npcs {
+  ids: 15547
+  name: "Big Evil Chicken"
+  version: "Annihilation"
+  hitpoints: 1500
 }
 npcs {
   ids: 8701
@@ -5736,7 +5779,7 @@ npcs {
   ids: 12454
   name: "Cave abomination"
   version: "Annihilation"
-  hitpoints: 750
+  hitpoints: 1000
   att: 280
   str: 250
   def: 142
@@ -10409,7 +10452,7 @@ npcs {
   ids: 13662
   name: "Durial321"
   version: "Annihilation"
-  hitpoints: 500
+  hitpoints: 1500
   att: 150
   str: 98
   def: 88
@@ -12791,6 +12834,23 @@ npcs {
   name: "Flaming pyrelord"
   version: "Armageddon"
   hitpoints: 750
+  att: 150
+  str: 200
+  def: 150
+  mage: 1
+  range: 1
+  dstab: 18
+  dslash: 18
+  dcrush: 18
+  dmagic: 150
+  drange: 18
+  attributes: "demon"
+}
+npcs {
+  ids: 12453
+  name: "Flaming pyrelord"
+  version: "Annihilation"
+  hitpoints: 1000
   att: 150
   str: 200
   def: 150
@@ -15695,6 +15755,22 @@ npcs {
   name: "Greater abyssal demon"
   version: "Armageddon"
   hitpoints: 750
+  att: 300
+  str: 260
+  def: 150
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  drange: 50
+  attributes: "demon"
+}
+npcs {
+  ids: 12451
+  name: "Greater abyssal demon"
+  version: "Annihilation"
+  hitpoints: 1250
   att: 300
   str: 260
   def: 150
@@ -19329,6 +19405,10 @@ npcs {
   drange: -12
 }
 npcs {
+  ids: 15553
+  name: "I DSCIM YOU"
+}
+npcs {
   ids: 7584
   name: "Ice demon"
   version: "Normal"
@@ -20294,7 +20374,42 @@ npcs {
 npcs {
   ids: 13660
   name: "Jaguar warrior"
+  version: "Armageddon"
+  hitpoints: 1500
+  att: 200
+  str: 165
+  def: 100
+  mage: 100
+  range: 160
+  strbns: 15
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  dmagic: 100
+  drange: 50
+}
+npcs {
+  ids: 13660
+  name: "Jaguar warrior"
+  version: "All-Stars"
   hitpoints: 750
+  att: 200
+  str: 165
+  def: 100
+  mage: 100
+  range: 160
+  strbns: 15
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  dmagic: 100
+  drange: 50
+}
+npcs {
+  ids: 13660
+  name: "Jaguar warrior"
+  version: "Annihilation"
+  hitpoints: 2000
   att: 200
   str: 165
   def: 100
@@ -23460,6 +23575,23 @@ npcs {
 npcs {
   ids: 13663
   name: "Magic Mark"
+  version: "Armageddon"
+  hitpoints: 1500
+  att: 10
+  str: 30
+  def: 30
+  mage: 175
+  amagic: 100
+  dstab: 25
+  dslash: 25
+  dcrush: 25
+  dmagic: 150
+  drange: 10
+}
+npcs {
+  ids: 13663
+  name: "Magic Mark"
+  version: "All-Stars"
   hitpoints: 500
   att: 10
   str: 30
@@ -27818,6 +27950,16 @@ npcs {
   attributes: "spectral"
 }
 npcs {
+  name: "Phantom Muspah"
+  version: "Factions"
+  hitpoints: 850
+}
+npcs {
+  name: "Phantom Muspah"
+  version: "Annihilation"
+  hitpoints: 1000
+}
+npcs {
   ids: 373
   name: "Pheasant"
   version: "1 tail"
@@ -28934,6 +29076,24 @@ npcs {
 npcs {
   ids: 13664
   name: "Ranging Ro"
+  version: "Armageddon"
+  hitpoints: 1500
+  att: 10
+  str: 30
+  def: 100
+  mage: 15
+  range: 150
+  amagic: 100
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 200
+  drange: 100
+}
+npcs {
+  ids: 13664
+  name: "Ranging Ro"
+  version: "All-Stars"
   hitpoints: 500
   att: 10
   str: 30
@@ -30855,6 +31015,18 @@ npcs {
   dmagic: 10
   drange: 20
   attributes: "rat"
+}
+npcs {
+  ids: 15548
+  name: "Scurrius"
+  version: "Factions"
+  hitpoints: 1000
+}
+npcs {
+  ids: 15548
+  name: "Scurrius"
+  version: "Annihilation"
+  hitpoints: 3000
 }
 npcs {
   name: "Sea hawk"
@@ -34606,6 +34778,10 @@ npcs {
   mage: 37
 }
 npcs {
+  ids: 15550
+  name: "Splatter"
+}
+npcs {
   ids: 1845
   ids: 14222
   name: "Stag"
@@ -37822,6 +37998,10 @@ npcs {
   mage: 480
   range: 960
   amagic: 60
+}
+npcs {
+  ids: 15557
+  name: "TzTok-Jad-Rek"
 }
 npcs {
   ids: 4652
@@ -41305,6 +41485,44 @@ npcs {
   dcrush: 260
   dmagic: 200
   drange: 110
+}
+npcs {
+  ids: 15564
+  name: "Zemouregal"
+}
+npcs {
+  ids: 15237
+  name: "Zemouregal"
+}
+npcs {
+  ids: 15558
+  name: "Zemouregal Summon"
+  version: "Mummy"
+}
+npcs {
+  ids: 15559
+  name: "Zemouregal Summon"
+  version: "Shade"
+}
+npcs {
+  ids: 15560
+  name: "Zemouregal Summon"
+  version: "Undead One"
+}
+npcs {
+  ids: 15561
+  name: "Zemouregal Summon"
+  version: "Pirate"
+}
+npcs {
+  ids: 15562
+  name: "Zemouregal Summon"
+  version: "Ulfric"
+}
+npcs {
+  ids: 15563
+  name: "Zemouregal Summon"
+  version: "Khazard"
 }
 npcs {
   ids: 866
