@@ -59340,13 +59340,11 @@ items {
     id: 13317
     name: "Deadman\'s chest"
     stat_bonuses {
-      ranged_attack: -10
-      magic_attack: -30
       stab_defence: 21
       slash_defence: 20
       crush_defence: 12
       ranged_defence: 20
-      magic_defence: -6
+      magic_defence: 3
     }
   }
 }
@@ -59356,13 +59354,11 @@ items {
     id: 13318
     name: "Deadman\'s legs"
     stat_bonuses {
-      ranged_attack: -7
-      magic_attack: -21
       stab_defence: 11
       slash_defence: 10
       crush_defence: 10
       ranged_defence: 10
-      magic_defence: -4
+      magic_defence: -2
     }
   }
 }

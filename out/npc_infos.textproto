@@ -17252,6 +17252,58 @@ npcs {
   drange: 8
 }
 npcs {
+  ids: 12461
+  name: "Guard"
+  version: "Warriors\' Guild (ranged)"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
+  ids: 15567
+  ids: 15568
+  name: "Guard"
+  version: "Ruins of Unkah"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
+  ids: 15565
+  ids: 15566
+  version: "Wintertodt"
+  hitpoints: 800
+  att: 800
+  str: 400
+  def: 300
+  mage: 1
+  range: 1
+  attbns: 60
+  strbns: 7
+  dstab: 8
+  dslash: 9
+  dcrush: 7
+  drange: 8
+}
+npcs {
   ids: 995
   name: "Guard"
   hitpoints: 30
