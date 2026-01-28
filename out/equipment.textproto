@@ -71143,16 +71143,17 @@ items {
     id: 22616
     name: "Vesta\'s chainbody"
     stat_bonuses {
-      stab_attack: 5
-      slash_attack: 7
-      crush_attack: 7
-      magic_attack: -15
-      stab_defence: 120
-      slash_defence: 131
-      crush_defence: 145
-      ranged_defence: 140
-      magic_defence: -3
-      melee_strength: 6
+      stab_attack: 35
+      slash_attack: 35
+      crush_attack: 6
+      ranged_attack: -2
+      magic_attack: -6
+      stab_defence: 35
+      slash_defence: 38
+      crush_defence: 36
+      ranged_defence: 40
+      magic_defence: -10
+      melee_strength: 5
     }
   }
 }
@@ -71162,16 +71163,16 @@ items {
     id: 22619
     name: "Vesta\'s plateskirt"
     stat_bonuses {
-      stab_attack: 3
-      slash_attack: 5
-      crush_attack: 5
-      ranged_attack: -4
-      magic_attack: -17
-      stab_defence: 86
-      slash_defence: 100
-      crush_defence: 112
-      ranged_defence: 118
-      magic_defence: -4
+      stab_attack: 30
+      slash_attack: 30
+      crush_attack: 6
+      ranged_attack: -2
+      magic_attack: -6
+      stab_defence: 27
+      slash_defence: 30
+      crush_defence: 28
+      ranged_defence: 34
+      magic_defence: -7
       melee_strength: 3
     }
   }
@@ -71226,17 +71227,17 @@ items {
     id: 22625
     name: "Statius\'s full helm"
     stat_bonuses {
-      stab_attack: 3
-      slash_attack: 3
-      crush_attack: 4
+      stab_attack: 15
+      slash_attack: 15
+      crush_attack: 15
       ranged_attack: -2
       magic_attack: -6
-      stab_defence: 65
-      slash_defence: 70
-      crush_defence: 63
-      ranged_defence: 71
+      stab_defence: 20
+      slash_defence: 25
+      crush_defence: 23
+      ranged_defence: 28
       magic_defence: -1
-      melee_strength: 3
+      melee_strength: 5
     }
   }
 }
@@ -71246,16 +71247,16 @@ items {
     id: 22628
     name: "Statius\'s platebody"
     stat_bonuses {
-      stab_attack: 5
-      slash_attack: 5
-      crush_attack: 7
-      ranged_attack: -10
-      magic_attack: -30
-      stab_defence: 154
-      slash_defence: 145
-      crush_defence: 121
-      ranged_defence: 157
-      magic_defence: -6
+      stab_attack: 6
+      slash_attack: 6
+      crush_attack: 35
+      ranged_attack: -2
+      magic_attack: -6
+      stab_defence: 35
+      slash_defence: 38
+      crush_defence: 36
+      ranged_defence: 40
+      magic_defence: -10
       melee_strength: 5
     }
   }
@@ -71266,16 +71267,16 @@ items {
     id: 22631
     name: "Statius\'s platelegs"
     stat_bonuses {
-      stab_attack: 3
-      slash_attack: 3
-      crush_attack: 5
-      ranged_attack: -7
-      magic_attack: -21
-      stab_defence: 110
-      slash_defence: 106
-      crush_defence: 97
-      ranged_defence: 121
-      magic_defence: -4
+      stab_attack: 6
+      slash_attack: 6
+      crush_attack: 30
+      ranged_attack: -2
+      magic_attack: -6
+      stab_defence: 27
+      slash_defence: 30
+      crush_defence: 28
+      ranged_defence: 34
+      magic_defence: -7
       melee_strength: 3
     }
   }
@@ -71370,13 +71371,14 @@ items {
     id: 22638
     name: "Morrigan\'s coif"
     stat_bonuses {
-      ranged_attack: 13
+      ranged_attack: 10
       magic_attack: -5
-      stab_defence: 8
-      slash_defence: 11
-      crush_defence: 14
-      ranged_defence: 12
-      magic_defence: 8
+      stab_defence: 3
+      slash_defence: 6
+      crush_defence: 8
+      ranged_defence: 7
+      magic_defence: 20
+      ranged_strength: 2
     }
   }
 }
@@ -71386,13 +71388,14 @@ items {
     id: 22641
     name: "Morrigan\'s leather body"
     stat_bonuses {
-      ranged_attack: 36
+      ranged_attack: 40
       magic_attack: -15
-      stab_defence: 61
-      slash_defence: 53
-      crush_defence: 66
-      ranged_defence: 62
-      magic_defence: 75
+      stab_defence: 11
+      slash_defence: 13
+      crush_defence: 16
+      ranged_defence: 20
+      magic_defence: 50
+      ranged_strength: 2
     }
   }
 }
@@ -71402,13 +71405,14 @@ items {
     id: 22644
     name: "Morrigan\'s leather chaps"
     stat_bonuses {
-      ranged_attack: 23
+      ranged_attack: 24
       magic_attack: -10
-      stab_defence: 35
-      slash_defence: 29
-      crush_defence: 37
-      ranged_defence: 35
-      magic_defence: 46
+      stab_defence: 7
+      slash_defence: 9
+      crush_defence: 11
+      ranged_defence: 13
+      magic_defence: 30
+      ranged_strength: 2
     }
   }
 }
@@ -71487,11 +71491,12 @@ items {
     name: "Zuriel\'s hood"
     stat_bonuses {
       ranged_attack: -2
-      magic_attack: 8
-      stab_defence: 20
-      slash_defence: 16
-      crush_defence: 22
-      magic_defence: 8
+      magic_attack: 7
+      stab_defence: 3
+      slash_defence: 2
+      crush_defence: 6
+      magic_defence: 4
+      magic_damage: 0.3
     }
   }
 }
@@ -71502,11 +71507,12 @@ items {
     name: "Zuriel\'s robe top"
     stat_bonuses {
       ranged_attack: -10
-      magic_attack: 35
-      stab_defence: 63
-      slash_defence: 45
-      crush_defence: 74
-      magic_defence: 35
+      magic_attack: 33
+      stab_defence: 11
+      slash_defence: 7
+      crush_defence: 13
+      magic_defence: 12
+      magic_damage: 0.3
     }
   }
 }
@@ -71517,11 +71523,12 @@ items {
     name: "Zuriel\'s robe bottom"
     stat_bonuses {
       ranged_attack: -7
-      magic_attack: 25
-      stab_defence: 38
-      slash_defence: 35
-      crush_defence: 44
-      magic_defence: 25
+      magic_attack: 24
+      stab_defence: 7
+      slash_defence: 5
+      crush_defence: 11
+      magic_defence: 8
+      magic_damage: 0.3
     }
   }
 }
