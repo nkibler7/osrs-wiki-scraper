@@ -19457,6 +19457,16 @@ npcs {
 npcs {
   ids: 15553
   name: "I DSCIM YOU"
+  hitpoints: 1000
+  att: 150
+  str: 200
+  def: 25
+  mage: 100
+  range: 25
+  dstab: 25
+  dslash: 25
+  dcrush: 25
+  dmagic: 50
 }
 npcs {
   ids: 7584
@@ -27865,6 +27875,17 @@ npcs {
 npcs {
   ids: 15556
   name: "Pestilent Bloat"
+  hitpoints: 2000
+  att: 250
+  str: 340
+  def: 100
+  mage: 150
+  range: 180
+  arange: 180
+  dstab: 40
+  dslash: 20
+  dcrush: 40
+  dmagic: 600
 }
 npcs {
   ids: 10957
@@ -33963,6 +33984,17 @@ npcs {
 npcs {
   ids: 15554
   name: "Sol Heredit"
+  hitpoints: 1500
+  att: 350
+  str: 400
+  def: 200
+  mage: 300
+  range: 350
+  arange: 150
+  dstab: 65
+  dslash: 5
+  dcrush: 30
+  dmagic: 750
 }
 npcs {
   ids: 4088
@@ -38145,6 +38177,12 @@ npcs {
 npcs {
   ids: 15557
   name: "TzTok-Jad-Rek"
+  hitpoints: 200
+  att: 160
+  str: 240
+  def: 25
+  mage: 250
+  range: 250
 }
 npcs {
   ids: 4652
@@ -41386,12 +41424,34 @@ npcs {
   name: "Yama"
   version: "Factions"
   hitpoints: 2500
+  att: 320
+  str: 350
+  def: 225
+  mage: 250
+  range: 210
+  amagic: 100
+  arange: 100
+  dstab: 100
+  dslash: 80
+  dcrush: 333
+  dmagic: 60
 }
 npcs {
   ids: 15555
   name: "Yama"
   version: "Annihilation"
   hitpoints: 3000
+  att: 320
+  str: 350
+  def: 225
+  mage: 250
+  range: 210
+  amagic: 100
+  arange: 100
+  dstab: 100
+  dslash: 80
+  dcrush: 333
+  dmagic: 60
 }
 npcs {
   ids: 2847
