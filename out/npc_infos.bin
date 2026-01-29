@@ -1940,6 +1940,10 @@ Q
 ó[Elidinis' WardenInvulnerable ğ(–0–8–@–H–X(`æh(p¬x(€(ˆ(˜ 
 L
 ñ[Elidinis' WardenEnraged ğ(–0–8´@–H–X(`æh(p¬x(€(ˆ(˜ 
+#
+ÀyElidinis' WardenFactions Œ
+'
+ÀyElidinis' WardenAnnihilation Ğ
 D
 —i¨iElite Black KnightMale Z(Z0x8Z@FHPU€nˆ‚(˜ûÿÿÿÿÿÿÿÿ
 F
@@ -4555,6 +4559,8 @@ R
 §APestilent BloatNormal Ğ(ú0Ô8d@–H´P–XRp´x€(ˆ(˜Ø  ªundead
 P
 ½TPestilent BloatHard à(ú0Ô8d@–H´P–XRp´x€(ˆ(˜Ø  ªundead
+
+ÄyPestilent Bloat
 )
 ÍUPhantom Hand	Left Hand (d028@H
 *
@@ -4570,8 +4576,10 @@ _
 ¯^Phantom MuspahShielded K(˜0˜8È@´HĞP‰X`˜h´p@x€¹ˆ†x˜µ 8ªspectral
 _
 °^Phantom MuspahPost-shield Ò(˜0˜8È@³HÏP‰X`˜h´p@x€¹ˆ†x˜µ 8ªspectral
-Phantom MuspahFactions Ò
-!Phantom MuspahAnnihilation è
+!
+½yPhantom MuspahFactions Ò
+%
+½yPhantom MuspahAnnihilation è
 "
 õPheasant1 tail (08@H
 #
@@ -5549,6 +5557,8 @@ T
 @H€ëÿÿÿÿÿÿÿÿˆëÿÿÿÿÿÿÿÿëÿÿÿÿÿÿÿÿ˜ëÿÿÿÿÿÿÿÿ ëÿÿÿÿÿÿÿÿ
 >
 •dSol Heredit Ü(Ş08È@¬HŞPúXp–x€Aˆ˜î ¹
+
+ÂySol Heredit
 *
 øSoldier 2((0(8(@PX€ˆ˜ 
 :
@@ -6189,6 +6199,10 @@ Q
 ô[Tumeken's WardenInvulnerable ğ(–0–8–@–H–X(`æh(p¬x(€(ˆ(˜ 
 L
 ò[Tumeken's WardenEnraged ğ(–0–8´@–H–X(`æh(p¬x(€(ˆ(˜ 
+#
+¿yTumeken's WardenFactions è
+'
+¿yTumeken's WardenAnnihilation Ğ
 0
 ®TurothLevel 83 L(50S8S@Hˆªleafy
 0
@@ -6789,6 +6803,10 @@ U
 8@H
 G
 ànYamaPhase 3 Ä(À0Ş8á@úHÒP2X`dhApdxP€‡ˆlÁ˜Qªdemon
+
+ÃyYamaFactions Ä
+
+ÃyYamaAnnihilation ¸
 
 ŸYeti 7(00<8'@H
 

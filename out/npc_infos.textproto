@@ -11248,6 +11248,18 @@ npcs {
   drange: 20
 }
 npcs {
+  ids: 15552
+  name: "Elidinis\' Warden"
+  version: "Factions"
+  hitpoints: 140
+}
+npcs {
+  ids: 15552
+  name: "Elidinis\' Warden"
+  version: "Annihilation"
+  hitpoints: 2000
+}
+npcs {
   ids: 13463
   ids: 13480
   name: "Elite Black Knight"
@@ -27813,6 +27825,10 @@ npcs {
   attributes: "undead"
 }
 npcs {
+  ids: 15556
+  name: "Pestilent Bloat"
+}
+npcs {
   ids: 10957
   name: "Phantom Hand"
   version: "Left Hand"
@@ -27950,11 +27966,13 @@ npcs {
   attributes: "spectral"
 }
 npcs {
+  ids: 15549
   name: "Phantom Muspah"
   version: "Factions"
   hitpoints: 850
 }
 npcs {
+  ids: 15549
   name: "Phantom Muspah"
   version: "Annihilation"
   hitpoints: 1000
@@ -33861,6 +33879,10 @@ npcs {
   drange: 825
 }
 npcs {
+  ids: 15554
+  name: "Sol Heredit"
+}
+npcs {
   ids: 4088
   name: "Soldier"
   hitpoints: 50
@@ -37631,6 +37653,18 @@ npcs {
   drange: 20
 }
 npcs {
+  ids: 15551
+  name: "Tumeken\'s Warden"
+  version: "Factions"
+  hitpoints: 1000
+}
+npcs {
+  ids: 15551
+  name: "Tumeken\'s Warden"
+  version: "Annihilation"
+  hitpoints: 2000
+}
+npcs {
   ids: 430
   name: "Turoth"
   version: "Level 83"
@@ -41237,6 +41271,18 @@ npcs {
   dcrush: 449
   dmagic: 81
   attributes: "demon"
+}
+npcs {
+  ids: 15555
+  name: "Yama"
+  version: "Factions"
+  hitpoints: 2500
+}
+npcs {
+  ids: 15555
+  name: "Yama"
+  version: "Annihilation"
+  hitpoints: 3000
 }
 npcs {
   ids: 2847
