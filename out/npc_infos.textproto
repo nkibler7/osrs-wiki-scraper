@@ -3845,12 +3845,28 @@ npcs {
   name: "Big Evil Chicken"
   version: "Factions"
   hitpoints: 1000
+  att: 255
+  str: 255
+  def: 25
+  mage: 300
+  dstab: 25
+  dslash: 25
+  dcrush: 25
+  dmagic: 255
 }
 npcs {
   ids: 15547
   name: "Big Evil Chicken"
   version: "Annihilation"
   hitpoints: 1500
+  att: 255
+  str: 255
+  def: 25
+  mage: 300
+  dstab: 25
+  dslash: 25
+  dcrush: 25
+  dmagic: 255
 }
 npcs {
   ids: 8701
@@ -11252,12 +11268,34 @@ npcs {
   name: "Elidinis\' Warden"
   version: "Factions"
   hitpoints: 140
+  att: 300
+  str: 150
+  def: 100
+  mage: 400
+  range: 190
+  amagic: 225
+  arange: 225
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: -30
 }
 npcs {
   ids: 15552
   name: "Elidinis\' Warden"
   version: "Annihilation"
   hitpoints: 2000
+  att: 300
+  str: 150
+  def: 100
+  mage: 400
+  range: 190
+  amagic: 225
+  arange: 225
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: -30
 }
 npcs {
   ids: 13463
@@ -27970,12 +28008,34 @@ npcs {
   name: "Phantom Muspah"
   version: "Factions"
   hitpoints: 850
+  att: 280
+  str: 280
+  def: 200
+  mage: 100
+  range: 280
+  amagic: 280
+  arange: 64
+  dstab: 185
+  dslash: 134
+  dcrush: 120
+  dmagic: 34
 }
 npcs {
   ids: 15549
   name: "Phantom Muspah"
   version: "Annihilation"
   hitpoints: 1000
+  att: 280
+  str: 280
+  def: 200
+  mage: 100
+  range: 280
+  amagic: 280
+  arange: 64
+  dstab: 185
+  dslash: 134
+  dcrush: 120
+  dmagic: 34
 }
 npcs {
   ids: 373
@@ -31039,12 +31099,34 @@ npcs {
   name: "Scurrius"
   version: "Factions"
   hitpoints: 1000
+  att: 300
+  str: 300
+  def: 100
+  mage: 100
+  range: 100
+  amagic: 150
+  arange: 150
+  dstab: 20
+  dslash: 20
+  dcrush: 20
+  dmagic: 10
 }
 npcs {
   ids: 15548
   name: "Scurrius"
   version: "Annihilation"
   hitpoints: 3000
+  att: 300
+  str: 300
+  def: 100
+  mage: 100
+  range: 100
+  amagic: 150
+  arange: 150
+  dstab: 20
+  dslash: 20
+  dcrush: 20
+  dmagic: 10
 }
 npcs {
   name: "Sea hawk"
@@ -34802,6 +34884,11 @@ npcs {
 npcs {
   ids: 15550
   name: "Splatter"
+  hitpoints: 100
+  att: 200
+  str: 250
+  def: 10
+  mage: 300
 }
 npcs {
   ids: 1845
@@ -37657,12 +37744,34 @@ npcs {
   name: "Tumeken\'s Warden"
   version: "Factions"
   hitpoints: 1000
+  att: 300
+  str: 150
+  def: 100
+  mage: 190
+  range: 350
+  amagic: 225
+  arange: 225
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: -30
 }
 npcs {
   ids: 15551
   name: "Tumeken\'s Warden"
   version: "Annihilation"
   hitpoints: 2000
+  att: 300
+  str: 150
+  def: 100
+  mage: 190
+  range: 350
+  amagic: 225
+  arange: 225
+  dstab: 70
+  dslash: 70
+  dcrush: 70
+  dmagic: -30
 }
 npcs {
   ids: 430
@@ -41535,40 +41644,79 @@ npcs {
 npcs {
   ids: 15564
   name: "Zemouregal"
+  hitpoints: 500
+  def: 125
+  mage: 255
+  dstab: 30
+  dslash: 30
+  dcrush: 30
+  dmagic: 255
 }
 npcs {
   ids: 15237
   name: "Zemouregal"
+  hitpoints: 1500
+  def: 125
+  mage: 255
+  dstab: 30
+  dslash: 30
+  dcrush: 30
+  dmagic: 255
 }
 npcs {
   ids: 15558
   name: "Zemouregal Summon"
   version: "Mummy"
+  hitpoints: 35
+  att: 250
+  str: 300
+  def: 150
 }
 npcs {
   ids: 15559
   name: "Zemouregal Summon"
   version: "Shade"
+  hitpoints: 35
+  att: 250
+  str: 300
+  def: 10
+  mage: 50
 }
 npcs {
   ids: 15560
   name: "Zemouregal Summon"
   version: "Undead One"
+  hitpoints: 35
+  att: 200
+  str: 200
+  def: 100
 }
 npcs {
   ids: 15561
   name: "Zemouregal Summon"
   version: "Pirate"
+  hitpoints: 35
+  att: 75
+  str: 100
+  def: 100
 }
 npcs {
   ids: 15562
   name: "Zemouregal Summon"
   version: "Ulfric"
+  hitpoints: 35
+  att: 250
+  str: 250
+  def: 50
 }
 npcs {
   ids: 15563
   name: "Zemouregal Summon"
   version: "Khazard"
+  hitpoints: 35
+  att: 250
+  str: 350
+  def: 100
 }
 npcs {
   ids: 866

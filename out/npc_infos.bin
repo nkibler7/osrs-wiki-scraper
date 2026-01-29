@@ -642,10 +642,10 @@ Armageddon Ğ(0d8@HPÈ€
 ˜È È
 Q
 ½+Berserk barbarian spirit ¾(–0Œ8d@HP	Xˆ˜ıÿÿÿÿÿÿÿÿ ªspectral
-#
-»yBig Evil ChickenFactions è
-'
-»yBig Evil ChickenAnnihilation Ü
+;
+»yBig Evil ChickenFactions è(ÿ0ÿ8@¬€ˆ˜ÿ
+?
+»yBig Evil ChickenAnnihilation Ü(ÿ0ÿ8@¬€ˆ˜ÿ
 $
 ıCBig frogLevel 10 (08@H
 $
@@ -1940,10 +1940,10 @@ Q
 ó[Elidinis' WardenInvulnerable ğ(–0–8–@–H–X(`æh(p¬x(€(ˆ(˜ 
 L
 ñ[Elidinis' WardenEnraged ğ(–0–8´@–H–X(`æh(p¬x(€(ˆ(˜ 
-#
-ÀyElidinis' WardenFactions Œ
-'
-ÀyElidinis' WardenAnnihilation Ğ
+L
+ÀyElidinis' WardenFactions Œ(¬0–8d@H¾`ápá€FˆFF˜âÿÿÿÿÿÿÿÿ
+P
+ÀyElidinis' WardenAnnihilation Ğ(¬0–8d@H¾`ápá€FˆFF˜âÿÿÿÿÿÿÿÿ
 D
 —i¨iElite Black KnightMale Z(Z0x8Z@FHPU€nˆ‚(˜ûÿÿÿÿÿÿÿÿ
 F
@@ -4576,10 +4576,10 @@ _
 ¯^Phantom MuspahShielded K(˜0˜8È@´HĞP‰X`˜h´p@x€¹ˆ†x˜µ 8ªspectral
 _
 °^Phantom MuspahPost-shield Ò(˜0˜8È@³HÏP‰X`˜h´p@x€¹ˆ†x˜µ 8ªspectral
-!
-½yPhantom MuspahFactions Ò
-%
-½yPhantom MuspahAnnihilation è
+B
+½yPhantom MuspahFactions Ò(˜0˜8È@dH˜`˜p@€¹ˆ†x˜"
+F
+½yPhantom MuspahAnnihilation è(˜0˜8È@dH˜`˜p@€¹ˆ†x˜"
 "
 õPheasant1 tail (08@H
 #
@@ -5118,10 +5118,12 @@ G
 `–hp–x
 €ˆ˜
  ªrat
-
-¼yScurriusFactions è
-
-¼yScurriusAnnihilation ¸
+9
+¼yScurriusFactions è(¬0¬8d@dHd`–p–€ˆ˜
+
+=
+¼yScurriusAnnihilation ¸(¬0¬8d@dHd`–p–€ˆ˜
+
 Sea hawk P(F02@
 Sea kraken (Air) }(x8–
 Sea kraken (Earth) }(x8–
@@ -5702,8 +5704,9 @@ D
 œSplatterLevel 54 +( 0 8]@ 
 "
 SplatterLevel 65 5(%0%8q@%
-
-¾ySplatter
+
+¾ySplatter d(È0ú8
+@¬
 
 µoStag (08@H
 /
@@ -6199,10 +6202,10 @@ Q
 ô[Tumeken's WardenInvulnerable ğ(–0–8–@–H–X(`æh(p¬x(€(ˆ(˜ 
 L
 ò[Tumeken's WardenEnraged ğ(–0–8´@–H–X(`æh(p¬x(€(ˆ(˜ 
-#
-¿yTumeken's WardenFactions è
-'
-¿yTumeken's WardenAnnihilation Ğ
+L
+¿yTumeken's WardenFactions è(¬0–8d@¾HŞ`ápá€FˆFF˜âÿÿÿÿÿÿÿÿ
+P
+¿yTumeken's WardenAnnihilation Ğ(¬0–8d@¾HŞ`ápá€FˆFF˜âÿÿÿÿÿÿÿÿ
 0
 ®TurothLevel 83 L(50S8S@Hˆªleafy
 0
@@ -6851,25 +6854,26 @@ D
 Ò[ZebakNormal Ä(ú0Œ8F@dHxP Xd`×hpÜx€ ˆ „˜È n
 E
 Ô[ZebakEnraged Ä(ú0Œ8F@dHxP Xd`×hpÜx€ ˆ „˜È n
-
+%
 Ìy
-Zemouregal
-
+Zemouregal ô8}@ÿ€ˆ˜ÿ
+%
 …w
-Zemouregal
-
-ÆyZemouregal SummonMummy
-
-ÇyZemouregal SummonShade
-#
+Zemouregal Ü8}@ÿ€ˆ˜ÿ
+)
+ÆyZemouregal SummonMummy #(ú0¬8–
+*
+ÇyZemouregal SummonShade #(ú0¬8
+@2
+-
 ÈyZemouregal Summon
-Undead One
-
-ÉyZemouregal SummonPirate
-
-ÊyZemouregal SummonUlfric
- 
-ËyZemouregal SummonKhazard
+Undead One #(È0È8d
+'
+ÉyZemouregal SummonPirate #(K0d8d
+)
+ÊyZemouregal SummonUlfric #(ú0ú82
+*
+ËyZemouregal SummonKhazard #(ú0Ş8d
 4
 âãäåæçéêëìíZogre G(0$8#@HªUndead
 R
