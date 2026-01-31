@@ -41737,6 +41737,8 @@ npcs {
   name: "Zemouregal"
   version: "Deadman\'s chest"
   hitpoints: 500
+  att: 1
+  str: 1
   def: 125
   mage: 255
   range: 1
