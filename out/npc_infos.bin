@@ -4559,8 +4559,8 @@ R
 §APestilent BloatNormal Ğ(ú0Ô8d@–H´P–XRp´x€(ˆ(˜Ø  ªundead
 P
 ½TPestilent BloatHard à(ú0Ô8d@–H´P–XRp´x€(ˆ(˜Ø  ªundead
-6
-ÄyPestilent Bloat Ğ(ú0Ô8d@–H´p´€(ˆ(˜Ø
+=
+ÄyPestilent Bloat Ğ(ú0Ô8d@–H´P–XRp´x€(ˆ(˜Ø
 )
 ÍUPhantom Hand	Left Hand (d028@H
 *
@@ -4576,10 +4576,10 @@ _
 ¯^Phantom MuspahShielded K(˜0˜8È@´HĞP‰X`˜h´p@x€¹ˆ†x˜µ 8ªspectral
 _
 °^Phantom MuspahPost-shield Ò(˜0˜8È@³HÏP‰X`˜h´p@x€¹ˆ†x˜µ 8ªspectral
-B
-½yPhantom MuspahFactions Ò(˜0˜8È@dH˜`˜p@€¹ˆ†x˜"
-F
-½yPhantom MuspahAnnihilation è(˜0˜8È@dH˜`˜p@€¹ˆ†x˜"
+D
+½yPhantom MuspahFactions Ò(˜0˜8È@dH˜X`˜p@€¹ˆ†x˜"
+P
+½yPhantom MuspahAnnihilation è(˜0˜8È@dH˜P‰X`˜h´p@x€¹ˆ†x˜"
 "
 õPheasant1 tail (08@H
 #
@@ -5704,9 +5704,9 @@ D
 œSplatterLevel 54 +( 0 8]@ 
 "
 SplatterLevel 65 5(%0%8q@%
-
+
 ¾ySplatter d(È0ú8
-@¬
+@¬H
 
 µoStag (08@H
 /
@@ -6202,10 +6202,10 @@ Q
 ô[Tumeken's WardenInvulnerable ğ(–0–8–@–H–X(`æh(p¬x(€(ˆ(˜ 
 L
 ò[Tumeken's WardenEnraged ğ(–0–8´@–H–X(`æh(p¬x(€(ˆ(˜ 
-L
-¿yTumeken's WardenFactions è(¬0–8d@¾HŞ`ápá€FˆFF˜âÿÿÿÿÿÿÿÿ
 P
-¿yTumeken's WardenAnnihilation Ğ(¬0–8d@¾HŞ`ápá€FˆFF˜âÿÿÿÿÿÿÿÿ
+¿yTumeken's WardenFactions è(¬0–8d@¾HŞ`áhpáx€FˆFF˜âÿÿÿÿÿÿÿÿ
+T
+¿yTumeken's WardenAnnihilation Ğ(¬0–8d@¾HŞ`áhpáx€FˆFF˜âÿÿÿÿÿÿÿÿ
 0
 ®TurothLevel 83 L(50S8S@Hˆªleafy
 0
@@ -6854,12 +6854,12 @@ D
 Ò[ZebakNormal Ä(ú0Œ8F@dHxP Xd`×hpÜx€ ˆ „˜È n
 E
 Ô[ZebakEnraged Ä(ú0Œ8F@dHxP Xd`×hpÜx€ ˆ „˜È n
--
+3
 …w
-ZemouregalBreach Ü8}@ÿ€ˆ˜ÿ
-6
+ZemouregalBreach Ü(08}@ÿH€ˆ˜ÿ
+8
 Ìy
-ZemouregalDeadman's chest ô8}@ÿ€ˆ˜ÿ
+ZemouregalDeadman's chest ô8}@ÿH€ˆ˜ÿ
 )
 ÆyZemouregal SummonMummy #(ú0¬8–
 *

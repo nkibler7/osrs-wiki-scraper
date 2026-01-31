@@ -27881,7 +27881,10 @@ npcs {
   def: 100
   mage: 150
   range: 180
+  attbns: 150
+  strbns: 82
   arange: 180
+  rngbns: 4
   dstab: 40
   dslash: 20
   dcrush: 40
@@ -28034,6 +28037,7 @@ npcs {
   def: 200
   mage: 100
   range: 280
+  strbns: 11
   amagic: 280
   arange: 64
   dstab: 185
@@ -28051,8 +28055,12 @@ npcs {
   def: 200
   mage: 100
   range: 280
+  attbns: 393
+  strbns: 11
   amagic: 280
+  mbns: 180
   arange: 64
+  rngbns: 6
   dstab: 185
   dslash: 134
   dcrush: 120
@@ -34921,6 +34929,7 @@ npcs {
   str: 250
   def: 10
   mage: 300
+  range: 1
 }
 npcs {
   ids: 1845
@@ -37782,7 +37791,9 @@ npcs {
   mage: 190
   range: 350
   amagic: 225
+  mbns: 12
   arange: 225
+  rngbns: 12
   dstab: 70
   dslash: 70
   dcrush: 70
@@ -37799,7 +37810,9 @@ npcs {
   mage: 190
   range: 350
   amagic: 225
+  mbns: 12
   arange: 225
+  rngbns: 12
   dstab: 70
   dslash: 70
   dcrush: 70
@@ -41706,8 +41719,11 @@ npcs {
   name: "Zemouregal"
   version: "Breach"
   hitpoints: 1500
+  att: 1
+  str: 1
   def: 125
   mage: 255
+  range: 1
   dstab: 30
   dslash: 30
   dcrush: 30
@@ -41720,6 +41736,7 @@ npcs {
   hitpoints: 500
   def: 125
   mage: 255
+  range: 1
   dstab: 30
   dslash: 30
   dcrush: 30
