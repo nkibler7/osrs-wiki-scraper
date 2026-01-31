@@ -41702,9 +41702,10 @@ npcs {
   drange: 110
 }
 npcs {
-  ids: 15564
+  ids: 15237
   name: "Zemouregal"
-  hitpoints: 500
+  version: "Breach"
+  hitpoints: 1500
   def: 125
   mage: 255
   dstab: 30
@@ -41713,9 +41714,10 @@ npcs {
   dmagic: 255
 }
 npcs {
-  ids: 15237
+  ids: 15564
   name: "Zemouregal"
-  hitpoints: 1500
+  version: "Deadman\'s chest"
+  hitpoints: 500
   def: 125
   mage: 255
   dstab: 30
