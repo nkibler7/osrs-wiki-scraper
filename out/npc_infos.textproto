@@ -10469,7 +10469,7 @@ npcs {
   name: "Durial321"
   version: "Annihilation"
   hitpoints: 1500
-  att: 150
+  att: 95
   str: 98
   def: 88
   mage: 94
@@ -33998,7 +33998,10 @@ npcs {
   def: 200
   mage: 300
   range: 350
+  attbns: 250
+  strbns: 5
   arange: 150
+  rngbns: 5
   dstab: 65
   dslash: 5
   dcrush: 30
