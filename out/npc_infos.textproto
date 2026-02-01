@@ -22138,7 +22138,6 @@ npcs {
   dslash: 90
   dcrush: 90
   dmagic: 80
-  drange: 70
   attributes: "dragon"
 }
 npcs {
@@ -22155,7 +22154,6 @@ npcs {
   dslash: 90
   dcrush: 90
   dmagic: 80
-  drange: 70
   attributes: "dragon"
 }
 npcs {
