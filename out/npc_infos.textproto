@@ -11273,6 +11273,7 @@ npcs {
   def: 100
   mage: 400
   range: 190
+  strbns: 10
   amagic: 225
   arange: 225
   dstab: 70
@@ -11290,6 +11291,7 @@ npcs {
   def: 100
   mage: 400
   range: 190
+  strbns: 10
   amagic: 225
   arange: 225
   dstab: 70
