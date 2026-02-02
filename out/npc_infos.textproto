@@ -41755,6 +41755,8 @@ npcs {
   att: 250
   str: 300
   def: 150
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 15559
@@ -41765,6 +41767,7 @@ npcs {
   str: 300
   def: 10
   mage: 50
+  range: 1
 }
 npcs {
   ids: 15560
@@ -41774,6 +41777,8 @@ npcs {
   att: 200
   str: 200
   def: 100
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 15561
@@ -41783,6 +41788,8 @@ npcs {
   att: 75
   str: 100
   def: 100
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 15562
@@ -41792,6 +41799,8 @@ npcs {
   att: 250
   str: 250
   def: 50
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 15563
@@ -41801,6 +41810,8 @@ npcs {
   att: 250
   str: 350
   def: 100
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 866
