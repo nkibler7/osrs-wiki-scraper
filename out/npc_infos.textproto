@@ -41818,7 +41818,7 @@ npcs {
 npcs {
   ids: 15562
   name: "Zemouregal Summon"
-  version: "Ulfric"
+  version: "Fremennik"
   hitpoints: 35
   att: 250
   str: 250
