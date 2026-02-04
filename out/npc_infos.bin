@@ -645,7 +645,7 @@ Q
 ;
 »yBig Evil ChickenFactions è(ÿ0ÿ8@¬€ˆ˜ÿ
 ?
-»yBig Evil ChickenAnnihilation Ü(ÿ0ÿ8@¬€ˆ˜ÿ
+»yBig Evil ChickenAnnihilation ¬(ÿ0ÿ8@¬€ˆ˜ÿ
 $
 ıCBig frogLevel 10 (08@H
 $
@@ -1946,7 +1946,7 @@ N
 ÀyElidinis' WardenFactions Œ(¬0–8d@H¾X
 `ápá€FˆFF˜âÿÿÿÿÿÿÿÿ
 R
-ÀyElidinis' WardenAnnihilation Ğ(¬0–8d@H¾X
+ÀyElidinis' WardenAnnihilation ¸(¬0–8d@H¾X
 `ápá€FˆFF˜âÿÿÿÿÿÿÿÿ
 D
 —i¨iElite Black KnightMale Z(Z0x8Z@FHPU€nˆ‚(˜ûÿÿÿÿÿÿÿÿ
@@ -3212,7 +3212,7 @@ R
  Hygd 
 (08@H€ôÿÿÿÿÿÿÿÿˆôÿÿÿÿÿÿÿÿôÿÿÿÿÿÿÿÿ˜ôÿÿÿÿÿÿÿÿ ôÿÿÿÿÿÿÿÿ
 ,
-ÁyI DSCIM YOU è(–0È8@dH€ˆ˜2
+ÁyI DSCIM YOU Ü(–0È8@dH€ˆ˜2
 D
  ;	Ice demonNormal Œ(08 @†H†€FˆFn˜(ªdemon,xerician
 L
@@ -3898,6 +3898,11 @@ Armageddon Ü(
 9
 ßj
 Magic Mark	All-Stars ô(
+08@¯`d€ˆ˜– 
+
+<
+ßj
+Magic MarkAnnihilation ¬(
 08@¯`d€ˆ˜– 
 
 ?
@@ -4593,7 +4598,7 @@ _
 D
 ½yPhantom MuspahFactions Ò(˜0˜8È@dH˜X`˜p@€¹ˆ†x˜"
 P
-½yPhantom MuspahAnnihilation è(˜0˜8È@dH˜P‰X`˜h´p@x€¹ˆ†x˜"
+½yPhantom MuspahAnnihilation Ğ(˜0˜8È@dH˜P‰X`˜h´p@x€¹ˆ†x˜"
 "
 õPheasant1 tail (08@H
 #
@@ -4821,6 +4826,10 @@ Armageddon Ü(
 ;
 àj
 Ranging Ro	All-Stars ô(
+08d@H–`d€dˆdd˜È d
+>
+àj
+Ranging RoAnnihilation ¬(
 08d@H–`d€dˆdd˜È d
 G
 ²@³@´@µ@¶@·@Ranis Drakan (x0x8x@xHX"h"€<ˆ<<˜< <ªvampyre3
@@ -5136,7 +5145,7 @@ G
 ¼yScurriusFactions è(¬0¬8d@dHd`–p–€ˆ˜
 
 =
-¼yScurriusAnnihilation ¸(¬0¬8d@dHd`–p–€ˆ˜
+¼yScurriusAnnihilation ˆ'(¬0¬8d@dHd`–p–€ˆ˜
 
 Sea hawk P(F02@
 Sea kraken (Air) }(x8–
@@ -5718,8 +5727,8 @@ D
 œSplatterLevel 54 +( 0 8]@ 
 "
 SplatterLevel 65 5(%0%8q@%
-
-¾ySplatter d(È0ú8
+
+¾ySplatter Ğ(È0ú8
 @¬H
 
 µoStag (08@H
@@ -6222,7 +6231,7 @@ L
 P
 ¿yTumeken's WardenFactions è(¬0–8d@¾HŞ`áhpáx€FˆFF˜âÿÿÿÿÿÿÿÿ
 T
-¿yTumeken's WardenAnnihilation Ğ(¬0–8d@¾HŞ`áhpáx€FˆFF˜âÿÿÿÿÿÿÿÿ
+¿yTumeken's WardenAnnihilation ¸(¬0–8d@¾HŞ`áhpáx€FˆFF˜âÿÿÿÿÿÿÿÿ
 0
 ®TurothLevel 83 L(50S8S@Hˆªleafy
 0
@@ -6485,10 +6494,11 @@ L
 8
 ©aVitreous warped Jelly
 Apocalypse ô(È0ú8ú@´H
+7
+©aVitreous warped Jelly
+Armageddon è(È0ú82@´H
 9
-©aVitreous warped JellyAnnihilation è(È0ú82@´H
-+
-©aVitreous warped Jelly ¸(È0ú82@´H
+©aVitreous warped JellyAnnihilation ¸(È0ú82@´H
 
 ûViyeldi P(>0B8FPX
 ,
@@ -6874,7 +6884,7 @@ E
 Ô[ZebakEnraged Ä(ú0Œ8F@dHxP Xd`×hpÜx€ ˆ „˜È n
 3
 …w
-ZemouregalBreach Ü(08}@ÿH€ˆ˜ÿ
+ZemouregalBreach Ä(08}@ÿH€ˆ˜ÿ
 <
 Ìy
 ZemouregalDeadman's chest ô(08}@ÿH€ˆ˜ÿ

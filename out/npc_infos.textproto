@@ -3858,7 +3858,7 @@ npcs {
   ids: 15547
   name: "Big Evil Chicken"
   version: "Annihilation"
-  hitpoints: 1500
+  hitpoints: 3500
   att: 255
   str: 255
   def: 25
@@ -11308,7 +11308,7 @@ npcs {
   ids: 15552
   name: "Elidinis\' Warden"
   version: "Annihilation"
-  hitpoints: 2000
+  hitpoints: 3000
   att: 300
   str: 150
   def: 100
@@ -19502,7 +19502,7 @@ npcs {
 npcs {
   ids: 15553
   name: "I DSCIM YOU"
-  hitpoints: 1000
+  hitpoints: 1500
   att: 150
   str: 200
   def: 25
@@ -23729,6 +23729,22 @@ npcs {
   name: "Magic Mark"
   version: "All-Stars"
   hitpoints: 500
+  att: 10
+  str: 30
+  def: 30
+  mage: 175
+  amagic: 100
+  dstab: 25
+  dslash: 25
+  dcrush: 25
+  dmagic: 150
+  drange: 10
+}
+npcs {
+  ids: 13663
+  name: "Magic Mark"
+  version: "Annihilation"
+  hitpoints: 3500
   att: 10
   str: 30
   def: 30
@@ -28153,7 +28169,7 @@ npcs {
   ids: 15549
   name: "Phantom Muspah"
   version: "Annihilation"
-  hitpoints: 1000
+  hitpoints: 2000
   att: 280
   str: 280
   def: 200
@@ -29306,6 +29322,23 @@ npcs {
   name: "Ranging Ro"
   version: "All-Stars"
   hitpoints: 500
+  att: 10
+  str: 30
+  def: 100
+  mage: 15
+  range: 150
+  amagic: 100
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 200
+  drange: 100
+}
+npcs {
+  ids: 13664
+  name: "Ranging Ro"
+  version: "Annihilation"
+  hitpoints: 3500
   att: 10
   str: 30
   def: 100
@@ -31248,7 +31281,7 @@ npcs {
   ids: 15548
   name: "Scurrius"
   version: "Annihilation"
-  hitpoints: 3000
+  hitpoints: 5000
   att: 300
   str: 300
   def: 100
@@ -35031,7 +35064,7 @@ npcs {
 npcs {
   ids: 15550
   name: "Splatter"
-  hitpoints: 100
+  hitpoints: 2000
   att: 200
   str: 250
   def: 10
@@ -37927,7 +37960,7 @@ npcs {
   ids: 15551
   name: "Tumeken\'s Warden"
   version: "Annihilation"
-  hitpoints: 2000
+  hitpoints: 3000
   att: 300
   str: 150
   def: 100
@@ -39613,7 +39646,7 @@ npcs {
 npcs {
   ids: 12457
   name: "Vitreous warped Jelly"
-  version: "Annihilation"
+  version: "Armageddon"
   hitpoints: 1000
   att: 200
   str: 250
@@ -39624,6 +39657,7 @@ npcs {
 npcs {
   ids: 12457
   name: "Vitreous warped Jelly"
+  version: "Annihilation"
   hitpoints: 3000
   att: 200
   str: 250
@@ -41853,7 +41887,7 @@ npcs {
   ids: 15237
   name: "Zemouregal"
   version: "Breach"
-  hitpoints: 1500
+  hitpoints: 2500
   att: 1
   str: 1
   def: 125
