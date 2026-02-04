@@ -3784,7 +3784,7 @@ npcs {
   ids: 13658
   name: "Bee Swarm"
   version: "Annihilation"
-  hitpoints: 3000
+  hitpoints: 5000
   att: 400
   str: 100
   def: 30
@@ -5795,7 +5795,7 @@ npcs {
   ids: 12454
   name: "Cave abomination"
   version: "Annihilation"
-  hitpoints: 1000
+  hitpoints: 3000
   att: 280
   str: 250
   def: 142
@@ -6258,7 +6258,7 @@ npcs {
   ids: 13657
   name: "Cerberus"
   version: "Annihilation"
-  hitpoints: 1000
+  hitpoints: 2000
   att: 300
   str: 280
   def: 150
@@ -6813,7 +6813,7 @@ npcs {
   ids: 12445
   name: "Commander Zilyana"
   version: "Annihilation"
-  hitpoints: 1000
+  hitpoints: 1500
   att: 280
   str: 196
   def: 150
@@ -8330,7 +8330,7 @@ npcs {
   ids: 12442
   name: "Dagannoth Prime"
   version: "Annihilation"
-  hitpoints: 1500
+  hitpoints: 3000
   att: 255
   str: 255
   def: 125
@@ -8403,7 +8403,7 @@ npcs {
   ids: 12439
   name: "Dagannoth Rex"
   version: "Annihilation"
-  hitpoints: 1500
+  hitpoints: 3500
   att: 255
   str: 255
   def: 255
@@ -8489,7 +8489,7 @@ npcs {
   ids: 12441
   name: "Dagannoth Supreme"
   version: "Annihilation"
-  hitpoints: 1500
+  hitpoints: 3000
   att: 255
   str: 255
   def: 84
@@ -9128,7 +9128,7 @@ npcs {
   ids: 12450
   name: "Derwen"
   version: "Annihilation"
-  hitpoints: 750
+  hitpoints: 2000
   att: 250
   str: 150
   def: 100
@@ -10491,7 +10491,7 @@ npcs {
   ids: 13662
   name: "Durial321"
   version: "Annihilation"
-  hitpoints: 1500
+  hitpoints: 2500
   att: 95
   str: 98
   def: 88
@@ -12925,7 +12925,7 @@ npcs {
   ids: 12453
   name: "Flaming pyrelord"
   version: "Annihilation"
-  hitpoints: 1000
+  hitpoints: 3500
   att: 150
   str: 200
   def: 150
@@ -13890,6 +13890,26 @@ npcs {
   drange: 90
 }
 npcs {
+  ids: 12444
+  name: "General Graardor"
+  version: "Annihilation"
+  hitpoints: 2000
+  att: 280
+  str: 350
+  def: 250
+  mage: 80
+  range: 350
+  attbns: 120
+  strbns: 43
+  arange: 100
+  rngbns: 40
+  dstab: 90
+  dslash: 90
+  dcrush: 90
+  dmagic: 201
+  drange: 90
+}
+npcs {
   ids: 6494
   name: "General Graardor"
   hitpoints: 255
@@ -14364,7 +14384,7 @@ npcs {
   ids: 12452
   name: "Giant goblin"
   version: "Annihilation"
-  hitpoints: 1000
+  hitpoints: 3500
   att: 150
   str: 150
   def: 200
@@ -15845,7 +15865,7 @@ npcs {
   ids: 12451
   name: "Greater abyssal demon"
   version: "Annihilation"
-  hitpoints: 1250
+  hitpoints: 2000
   att: 300
   str: 260
   def: 150
@@ -20494,7 +20514,7 @@ npcs {
   ids: 13660
   name: "Jaguar warrior"
   version: "Annihilation"
-  hitpoints: 2000
+  hitpoints: 3000
   att: 200
   str: 165
   def: 100
@@ -20716,7 +20736,7 @@ npcs {
   ids: 12455
   name: "Jal-ImKot"
   version: "Annihilation"
-  hitpoints: 1000
+  hitpoints: 3000
   att: 210
   str: 290
   def: 120
@@ -21336,7 +21356,7 @@ npcs {
   ids: 12449
   name: "Justiciar Zachariah"
   version: "Annihilation"
-  hitpoints: 750
+  hitpoints: 2000
   att: 500
   str: 250
   def: 100
@@ -21406,6 +21426,24 @@ npcs {
   name: "K\'ril Tsutsaroth"
   version: "Armageddon"
   hitpoints: 1000
+  att: 340
+  str: 300
+  def: 270
+  mage: 200
+  range: 1
+  attbns: 160
+  strbns: 31
+  dstab: 80
+  dslash: 80
+  dcrush: 80
+  dmagic: 130
+  drange: 80
+}
+npcs {
+  ids: 12446
+  name: "K\'ril Tsutsaroth"
+  version: "Annihilation"
+  hitpoints: 1500
   att: 340
   str: 300
   def: 270
@@ -22171,6 +22209,21 @@ npcs {
   att: 240
   str: 240
   def: 150
+  mage: 240
+  range: 1
+  dstab: 70
+  dslash: 90
+  dcrush: 90
+  dmagic: 80
+  attributes: "dragon"
+}
+npcs {
+  ids: 12440
+  name: "King Black Dragon"
+  version: "Annihilation"
+  hitpoints: 500
+  att: 240
+  str: 240
   mage: 240
   range: 1
   dstab: 70
@@ -23732,6 +23785,18 @@ npcs {
   name: "Malevolent Mage"
   version: "Armageddon"
   hitpoints: 500
+  att: 1
+  str: 1
+  def: 150
+  mage: 255
+  range: 1
+  dmagic: 300
+}
+npcs {
+  ids: 12456
+  name: "Malevolent Mage"
+  version: "Annihilation"
+  hitpoints: 2000
   att: 1
   str: 1
   def: 150
@@ -26116,6 +26181,22 @@ npcs {
   name: "Night beast"
   version: "Armageddon"
   hitpoints: 500
+  att: 270
+  str: 290
+  def: 100
+  mage: 300
+  range: 1
+  dstab: 75
+  dslash: 80
+  dcrush: 120
+  dmagic: 100
+  drange: 100
+}
+npcs {
+  ids: 12459
+  name: "Night beast"
+  version: "Annihilation"
+  hitpoints: 1000
   att: 270
   str: 290
   def: 100
@@ -28564,7 +28645,7 @@ npcs {
   ids: 12448
   name: "Porazdir"
   version: "Annihilation"
-  hitpoints: 750
+  hitpoints: 2000
   att: 250
   str: 150
   def: 100
@@ -35482,7 +35563,7 @@ npcs {
   ids: 12458
   name: "Sulphur Lizard"
   version: "Annihilation"
-  hitpoints: 500
+  hitpoints: 2500
   att: 150
   str: 200
   def: 75
@@ -36531,7 +36612,24 @@ npcs {
 npcs {
   ids: 13659
   name: "Thermonuclear smoke devil"
+  version: "Armageddon"
   hitpoints: 500
+  att: 230
+  str: 220
+  def: 150
+  mage: 1
+  range: 310
+  dstab: 30
+  dslash: 12
+  dcrush: 20
+  dmagic: 200
+  drange: 300
+}
+npcs {
+  ids: 13659
+  name: "Thermonuclear smoke devil"
+  version: "Annihilation"
+  hitpoints: 1500
   att: 230
   str: 220
   def: 150
@@ -38195,7 +38293,7 @@ npcs {
   ids: 13661
   name: "TzTok-Jad"
   version: "Annihilation"
-  hitpoints: 3500
+  hitpoints: 5000
   att: 640
   str: 770
   def: 200
@@ -39051,7 +39149,7 @@ npcs {
   ids: 13656
   name: "Vardorvis"
   version: "Annihilation"
-  hitpoints: 1500
+  hitpoints: 2500
   att: 200
   str: 250
   def: 25
@@ -39515,8 +39613,18 @@ npcs {
 npcs {
   ids: 12457
   name: "Vitreous warped Jelly"
-  version: "Armageddon"
+  version: "Annihilation"
   hitpoints: 1000
+  att: 200
+  str: 250
+  def: 50
+  mage: 180
+  range: 1
+}
+npcs {
+  ids: 12457
+  name: "Vitreous warped Jelly"
+  hitpoints: 3000
   att: 200
   str: 250
   def: 50
@@ -41777,7 +41885,7 @@ npcs {
   version: "Mummy"
   hitpoints: 35
   att: 250
-  str: 300
+  str: 150
   def: 150
   mage: 1
   range: 1
@@ -41788,7 +41896,7 @@ npcs {
   version: "Shade"
   hitpoints: 35
   att: 250
-  str: 300
+  str: 150
   def: 10
   mage: 50
   range: 1
@@ -41799,7 +41907,7 @@ npcs {
   version: "Undead One"
   hitpoints: 35
   att: 200
-  str: 200
+  str: 150
   def: 100
   mage: 1
   range: 1
@@ -41821,7 +41929,7 @@ npcs {
   version: "Fremennik"
   hitpoints: 35
   att: 250
-  str: 250
+  str: 150
   def: 50
   mage: 1
   range: 1
@@ -41832,7 +41940,7 @@ npcs {
   version: "Khazard"
   hitpoints: 35
   att: 250
-  str: 350
+  str: 150
   def: 100
   mage: 1
   range: 1
