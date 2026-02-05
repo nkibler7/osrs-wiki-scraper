@@ -31783,7 +31783,7 @@ npcs {
   def: 120
   mage: 100
   range: 150
-  rngbns: 20
+  arange: 20
   dstab: 10
   dslash: 20
   dcrush: 40
