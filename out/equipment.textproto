@@ -109602,8 +109602,6 @@ items {
   value {
     id: 32399
     name: "Sailors\' amulet"
-    stat_bonuses {
-    }
   }
 }
 items {
