@@ -17630,6 +17630,7 @@ npcs {
 npcs {
   ids: 15565
   ids: 15566
+  name: "Guard"
   version: "Wintertodt"
   hitpoints: 800
   att: 800
