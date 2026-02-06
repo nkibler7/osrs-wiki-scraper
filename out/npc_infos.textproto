@@ -28158,9 +28158,12 @@ npcs {
   def: 200
   mage: 100
   range: 280
+  attbns: 393
   strbns: 11
   amagic: 280
+  mbns: 180
   arange: 64
+  rngbns: 6
   dstab: 185
   dslash: 134
   dcrush: 120
@@ -31271,12 +31274,17 @@ npcs {
   def: 100
   mage: 100
   range: 100
+  attbns: 150
+  strbns: 10
   amagic: 150
+  mbns: 20
   arange: 150
+  rngbns: 10
   dstab: 20
   dslash: 20
   dcrush: 20
   dmagic: 10
+  attributes: "rat"
 }
 npcs {
   ids: 15548
@@ -31288,12 +31296,17 @@ npcs {
   def: 100
   mage: 100
   range: 100
+  attbns: 150
+  strbns: 10
   amagic: 150
+  mbns: 20
   arange: 150
+  rngbns: 10
   dstab: 20
   dslash: 20
   dcrush: 20
   dmagic: 10
+  attributes: "rat"
 }
 npcs {
   name: "Sea hawk"
