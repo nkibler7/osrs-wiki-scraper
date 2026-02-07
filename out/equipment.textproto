@@ -109812,8 +109812,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -109822,7 +109824,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -110274,8 +110276,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -110284,7 +110288,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -110312,6 +110316,8 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
         name: "Pound"
         modifiers {
@@ -110350,8 +110356,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -110360,7 +110368,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -110968,8 +110976,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -110978,7 +110988,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -111006,8 +111016,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -111016,7 +111028,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -111348,8 +111360,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -111358,7 +111372,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -111624,8 +111638,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -111634,45 +111650,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
-        modifiers {
-          strength_modifier: 3
-        }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
-        }
-      }
-      combat_options {
-        name: "Block"
-        modifiers {
-          defence_modifier: 3
-        }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
-        }
-      }
-    }
-  }
-}
-items {
-  key: 32488
-  value {
-    id: 32488
-    name: "Crate of glassmaking supplies"
-    stat_bonuses {
-    }
-    weapon_details {
-      combat_options {
-        name: "Pound"
-        modifiers {
-          attack_modifier: 3
-        }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_ACCURATE
-        }
-      }
-      combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -111700,6 +111678,8 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
         name: "Pound"
         modifiers {
@@ -111738,8 +111718,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -111748,7 +111730,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -112274,8 +112256,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -112284,7 +112268,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -112312,8 +112296,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -112322,7 +112308,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -112350,8 +112336,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -112360,7 +112348,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -113042,8 +113030,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -113052,7 +113042,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -113466,8 +113456,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -113476,7 +113468,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -113504,8 +113496,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -113514,7 +113508,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -113542,8 +113536,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -113552,7 +113548,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -114118,8 +114114,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -114128,7 +114126,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -114766,8 +114764,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -114776,7 +114776,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -114804,8 +114804,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -114814,7 +114816,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -115306,8 +115308,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -115316,7 +115320,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -115694,8 +115698,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -115704,7 +115710,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -115732,8 +115738,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -115742,7 +115750,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -116306,8 +116314,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -116316,7 +116326,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -116700,8 +116710,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -116710,7 +116722,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -116738,8 +116750,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -116748,7 +116762,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -116776,8 +116790,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -116786,7 +116802,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -116814,8 +116830,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -116824,7 +116842,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -117432,8 +117450,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -117442,7 +117462,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -117470,8 +117490,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -117480,7 +117502,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -117504,12 +117526,14 @@ items {
   key: 32640
   value {
     id: 32640
-    name: "Crate of gin"
+    name: "Crate of glassmaking supplies"
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -117518,7 +117542,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -117546,8 +117570,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -117556,7 +117582,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -118164,8 +118190,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -118174,7 +118202,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -118202,8 +118230,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -118212,7 +118242,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -118240,8 +118270,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -118250,7 +118282,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -119086,8 +119118,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -119096,7 +119130,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -119740,8 +119774,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -119750,7 +119786,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -119778,8 +119814,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -119788,7 +119826,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -119816,8 +119854,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -119826,7 +119866,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -120314,8 +120354,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -120324,7 +120366,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -120352,8 +120394,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -120362,7 +120406,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -120776,8 +120820,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -120786,7 +120832,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -120814,8 +120860,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -120824,7 +120872,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -120852,8 +120900,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -120862,7 +120912,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -121316,8 +121366,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -121326,7 +121378,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -122478,8 +122530,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -122488,7 +122542,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -122516,8 +122570,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -122526,7 +122582,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -122976,8 +123032,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -122986,7 +123044,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -123512,8 +123570,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -123522,7 +123582,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -123550,8 +123610,10 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -123560,7 +123622,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -124161,6 +124223,46 @@ items {
   }
 }
 items {
+  key: 32936
+  value {
+    id: 32936
+    name: "Crate of furs"
+    stat_bonuses {
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+      combat_options {
+        name: "Punch"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Kick"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
   key: 32937
   value {
     id: 32937
@@ -124589,6 +124691,46 @@ items {
   }
 }
 items {
+  key: 32960
+  value {
+    id: 32960
+    name: "Crate of gems"
+    stat_bonuses {
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+      combat_options {
+        name: "Punch"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Kick"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
   key: 32961
   value {
     id: 32961
@@ -124665,6 +124807,46 @@ items {
   }
 }
 items {
+  key: 32964
+  value {
+    id: 32964
+    name: "Crate of furs"
+    stat_bonuses {
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+      combat_options {
+        name: "Punch"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Kick"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
   key: 32967
   value {
     id: 32967
@@ -124710,6 +124892,46 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      combat_options {
+        name: "Punch"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Kick"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 32972
+  value {
+    id: 32972
+    name: "Crate of furs"
+    stat_bonuses {
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
         name: "Punch"
         modifiers {
