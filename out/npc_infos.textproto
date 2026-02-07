@@ -41625,8 +41625,12 @@ npcs {
   def: 225
   mage: 250
   range: 210
+  attbns: 50
+  strbns: 15
   amagic: 100
+  mbns: 65
   arange: 100
+  rngbns: 80
   dstab: 100
   dslash: 80
   dcrush: 333
@@ -41643,8 +41647,12 @@ npcs {
   def: 225
   mage: 250
   range: 210
+  attbns: 50
+  strbns: 15
   amagic: 100
+  mbns: 65
   arange: 100
+  rngbns: 80
   dstab: 100
   dslash: 80
   dcrush: 333
