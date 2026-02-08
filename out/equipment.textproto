@@ -108318,6 +108318,7 @@ items {
     }
     weapon_details {
       base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
         name: "Chop"
         modifiers {
@@ -108372,6 +108373,7 @@ items {
     }
     weapon_details {
       base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
         name: "Stab"
         modifiers {
@@ -108535,6 +108537,7 @@ items {
     }
     weapon_details {
       base_attack_speed: 5
+      base_attack_range: 1
       combat_options {
         name: "Pound"
         modifiers {
@@ -110333,7 +110336,7 @@ items {
       base_attack_speed: 4
       base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -110342,7 +110345,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
@@ -111731,7 +111734,7 @@ items {
       base_attack_speed: 4
       base_attack_range: 1
       combat_options {
-        name: "Pound"
+        name: "Punch"
         modifiers {
           attack_modifier: 3
         }
@@ -111740,7 +111743,7 @@ items {
         }
       }
       combat_options {
-        name: "Pummel"
+        name: "Kick"
         modifiers {
           strength_modifier: 3
         }
