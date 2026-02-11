@@ -41947,6 +41947,7 @@ npcs {
   def: 150
   mage: 1
   range: 1
+  attributes: "None"
 }
 npcs {
   ids: 15559
@@ -41958,6 +41959,7 @@ npcs {
   def: 10
   mage: 50
   range: 1
+  attributes: "spectral"
 }
 npcs {
   ids: 15560
@@ -41969,6 +41971,7 @@ npcs {
   def: 100
   mage: 1
   range: 1
+  attributes: "None"
 }
 npcs {
   ids: 15561
@@ -41980,6 +41983,7 @@ npcs {
   def: 100
   mage: 1
   range: 1
+  attributes: "None"
 }
 npcs {
   ids: 15562
@@ -41991,6 +41995,7 @@ npcs {
   def: 50
   mage: 1
   range: 1
+  attributes: "None"
 }
 npcs {
   ids: 15563
@@ -42002,6 +42007,7 @@ npcs {
   def: 100
   mage: 1
   range: 1
+  attributes: "None"
 }
 npcs {
   ids: 866
