@@ -71374,7 +71374,7 @@ items {
       crush_defence: 8
       ranged_defence: 7
       magic_defence: 20
-      ranged_strength: 2
+      ranged_strength: 1
     }
   }
 }
