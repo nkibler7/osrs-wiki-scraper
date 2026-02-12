@@ -13466,7 +13466,7 @@ npcs {
   dslash: 90
   dcrush: 15
   dmagic: 50
-  attributes: "Dragon"
+  attributes: "Dragon, Fiery"
 }
 npcs {
   ids: 13728
