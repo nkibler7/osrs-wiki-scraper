@@ -18968,6 +18968,22 @@ npcs {
 npcs {
   ids: 14852
   name: "Hermit crab"
+  version: "Active"
+  hitpoints: 75
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  dcrush: -50
+}
+npcs {
+  ids: 14853
+  ids: 14854
+  ids: 14855
+  ids: 14856
+  name: "Hermit crab"
+  version: "Hidden"
   hitpoints: 75
   att: 1
   str: 1
