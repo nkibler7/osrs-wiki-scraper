@@ -23667,7 +23667,6 @@ npcs {
 }
 npcs {
   ids: 11069
-  ids: 11070
   name: "Lynx"
   version: "Level 24"
   hitpoints: 30
