@@ -127606,6 +127606,8 @@ items {
   value {
     id: 33080
     name: "25th anniversary helmet"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -127613,6 +127615,8 @@ items {
   value {
     id: 33082
     name: "25th anniversary warrior tabard"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -127620,6 +127624,8 @@ items {
   value {
     id: 33084
     name: "25th anniversary skeleton tabard"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -127627,5 +127633,7 @@ items {
   value {
     id: 33086
     name: "25th anniversary 5x5 hat"
+    stat_bonuses {
+    }
   }
 }
