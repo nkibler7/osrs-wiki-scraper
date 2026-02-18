@@ -2723,6 +2723,9 @@ npcs {
   attributes: "dragon"
 }
 npcs {
+  name: "Baby blue dragon"
+}
+npcs {
   ids: 5194
   name: "Baby green dragon"
   version: "1"
@@ -4089,6 +4092,9 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  name: "Black demon"
+}
+npcs {
   ids: 1432
   name: "Black demon"
   hitpoints: 157
@@ -4152,6 +4158,9 @@ npcs {
   dcrush: 70
   dmagic: 60
   attributes: "dragon,fiery"
+}
+npcs {
+  name: "Black dragon"
 }
 npcs {
   ids: 15025
@@ -4997,6 +5006,9 @@ npcs {
   dcrush: 70
   dmagic: 60
   attributes: "dragon,fiery"
+}
+npcs {
+  name: "Blue dragon"
 }
 npcs {
   ids: 13013
@@ -15952,6 +15964,9 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  name: "Greater demon"
+}
+npcs {
   ids: 12387
   name: "Greater demon"
   hitpoints: 87
@@ -22266,6 +22281,9 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
+  name: "King black dragon"
+}
+npcs {
   ids: 7405
   name: "King kurask"
   hitpoints: 270
@@ -22348,6 +22366,9 @@ npcs {
   dslash: 15
   dcrush: 15
   drange: 5
+}
+npcs {
+  name: "King Scorpion"
 }
 npcs {
   ids: 3297
@@ -23128,6 +23149,9 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  name: "Lesser demon"
+}
+npcs {
   ids: 12376
   name: "Lesser demon"
   version: "Level 39"
@@ -23321,6 +23345,9 @@ npcs {
   dslash: 15
   dcrush: 15
   drange: 5
+}
+npcs {
+  name: "Lizard man"
 }
 npcs {
   ids: 6914
@@ -27012,6 +27039,9 @@ npcs {
   range: 1
 }
 npcs {
+  name: "Orc"
+}
+npcs {
   ids: 15204
   name: "Orca"
   hitpoints: 265
@@ -29893,6 +29923,9 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
+  name: "Red dragon"
+}
+npcs {
   ids: 14511
   name: "Red dragon"
   hitpoints: 100
@@ -31186,6 +31219,9 @@ npcs {
   dslash: 15
   dcrush: 15
   drange: 55
+}
+npcs {
+  name: "Scorpion"
 }
 npcs {
   ids: 14940
@@ -37783,6 +37819,9 @@ npcs {
   dcrush: 40
   dmagic: 200
   drange: 200
+}
+npcs {
+  name: "Troll"
 }
 npcs {
   ids: 4120
