@@ -127601,3 +127601,31 @@ items {
     }
   }
 }
+items {
+  key: 33080
+  value {
+    id: 33080
+    name: "25th anniversary helmet"
+  }
+}
+items {
+  key: 33082
+  value {
+    id: 33082
+    name: "25th anniversary warrior tabard"
+  }
+}
+items {
+  key: 33084
+  value {
+    id: 33084
+    name: "25th anniversary skeleton tabard"
+  }
+}
+items {
+  key: 33086
+  value {
+    id: 33086
+    name: "25th anniversary 5x5 hat"
+  }
+}
