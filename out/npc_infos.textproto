@@ -12807,6 +12807,10 @@ npcs {
   attributes: "fiery"
 }
 npcs {
+  ids: 15619
+  name: "Fire giant"
+}
+npcs {
   ids: 3448
   name: "Fire Warrior of Lesarkus"
   hitpoints: 59
