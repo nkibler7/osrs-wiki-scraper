@@ -5860,6 +5860,7 @@ npcs {
   drange: 95
 }
 npcs {
+  ids: 15614
   name: "Cave Bug"
 }
 npcs {
@@ -15550,6 +15551,10 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 15621
+  name: "Goblin"
+}
+npcs {
   ids: 2484
   name: "Goblin"
   version: "Level 5"
@@ -19320,6 +19325,10 @@ npcs {
   strbns: 16
 }
 npcs {
+  ids: 15620
+  name: "Hill Giant"
+}
+npcs {
   ids: 3049
   name: "Hobgoblin"
   version: "Hobgoblin"
@@ -21644,6 +21653,17 @@ npcs {
   dmagic: 10
   drange: 10
   attributes: "kalphite"
+}
+npcs {
+  ids: 15616
+  ids: 15617
+  name: "Kalphite Queen"
+  version: "Crawling"
+}
+npcs {
+  ids: 15618
+  name: "Kalphite Queen"
+  version: "Airborne"
 }
 npcs {
   ids: 957
