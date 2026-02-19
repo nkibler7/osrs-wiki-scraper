@@ -2725,6 +2725,15 @@ npcs {
 npcs {
   ids: 15605
   name: "Baby blue dragon"
+  hitpoints: 50
+  att: 40
+  str: 40
+  def: 40
+  mage: 1
+  range: 1
+  dslash: 50
+  dcrush: 50
+  dmagic: 40
 }
 npcs {
   ids: 5194
@@ -5849,6 +5858,9 @@ npcs {
   dcrush: 35
   dmagic: 25
   drange: 95
+}
+npcs {
+  name: "Cave Bug"
 }
 npcs {
   ids: 406
