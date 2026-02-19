@@ -2723,6 +2723,7 @@ npcs {
   attributes: "dragon"
 }
 npcs {
+  ids: 15605
   name: "Baby blue dragon"
 }
 npcs {
@@ -4092,6 +4093,7 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  ids: 15608
   name: "Black demon"
 }
 npcs {
@@ -4160,6 +4162,7 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
+  ids: 15601
   name: "Black dragon"
 }
 npcs {
@@ -5008,6 +5011,7 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
+  ids: 15603
   name: "Blue dragon"
 }
 npcs {
@@ -15964,6 +15968,7 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  ids: 15607
   name: "Greater demon"
 }
 npcs {
@@ -22281,6 +22286,7 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
+  ids: 15604
   name: "King black dragon"
 }
 npcs {
@@ -22368,6 +22374,7 @@ npcs {
   drange: 5
 }
 npcs {
+  ids: 15610
   name: "King Scorpion"
 }
 npcs {
@@ -23149,6 +23156,7 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  ids: 15606
   name: "Lesser demon"
 }
 npcs {
@@ -23347,6 +23355,7 @@ npcs {
   drange: 5
 }
 npcs {
+  ids: 15612
   name: "Lizard man"
 }
 npcs {
@@ -27039,6 +27048,7 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 15611
   name: "Orc"
 }
 npcs {
@@ -29923,6 +29933,7 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
+  ids: 15602
   name: "Red dragon"
 }
 npcs {
@@ -31221,6 +31232,7 @@ npcs {
   drange: 55
 }
 npcs {
+  ids: 15609
   name: "Scorpion"
 }
 npcs {
@@ -37821,6 +37833,7 @@ npcs {
   drange: 200
 }
 npcs {
+  ids: 15613
   name: "Troll"
 }
 npcs {
