@@ -15991,6 +15991,7 @@ npcs {
 npcs {
   ids: 15607
   name: "Greater demon"
+  hitpoints: 89
 }
 npcs {
   ids: 12387
@@ -23194,6 +23195,7 @@ npcs {
 npcs {
   ids: 15606
   name: "Lesser demon"
+  hitpoints: 80
 }
 npcs {
   ids: 12376
