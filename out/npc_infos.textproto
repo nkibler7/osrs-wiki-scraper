@@ -24692,6 +24692,11 @@ npcs {
   drange: -10
 }
 npcs {
+  ids: 2482
+  name: "Minotaur"
+  version: "Unused"
+}
+npcs {
   ids: 12812
   name: "Minotaur"
   version: "Normal"
