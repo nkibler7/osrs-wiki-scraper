@@ -6512,11 +6512,7 @@ npcs {
 npcs {
   ids: 1173
   ids: 1174
-  ids: 10495
-  ids: 10496
   ids: 9488
-  ids: 10494
-  ids: 10497
   name: "Chicken"
   version: "Normal"
   hitpoints: 3
@@ -6558,6 +6554,27 @@ npcs {
   ids: 2806
   name: "Chicken"
   version: "Falador Farm"
+  hitpoints: 3
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  attbns: -47
+  strbns: -42
+  dstab: -42
+  dslash: -42
+  dcrush: -42
+  dmagic: -42
+  drange: -42
+}
+npcs {
+  ids: 10495
+  ids: 10496
+  ids: 10494
+  ids: 10497
+  name: "Chicken"
+  version: "Gordon and Mary\'s Farm"
   hitpoints: 3
   att: 1
   str: 1
