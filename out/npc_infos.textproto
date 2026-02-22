@@ -14065,11 +14065,8 @@ npcs {
   ids: 91
   ids: 92
   ids: 93
-  ids: 94
   ids: 95
-  ids: 96
   ids: 97
-  ids: 98
   ids: 99
   ids: 472
   ids: 473
@@ -17683,8 +17680,7 @@ npcs {
   drange: 8
 }
 npcs {
-  ids: 15567
-  ids: 15568
+  ids: 15566
   name: "Guard"
   version: "Ruins of Unkah"
   hitpoints: 800
@@ -17701,8 +17697,7 @@ npcs {
   drange: 8
 }
 npcs {
-  ids: 15565
-  ids: 15566
+  ids: 15568
   name: "Guard"
   version: "Wintertodt"
   hitpoints: 800
