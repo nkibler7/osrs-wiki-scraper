@@ -30714,7 +30714,7 @@ npcs {
   range: 246
   mbns: 16
   rngbns: 14
-  dstab: 30
+  dstab: 20
   dslash: 115
   dcrush: 90
   dmagic: 30
