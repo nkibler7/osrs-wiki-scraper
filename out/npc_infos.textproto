@@ -5475,6 +5475,7 @@ npcs {
 }
 npcs {
   ids: 15626
+  ids: 15627
   name: "Brutus"
   hitpoints: 58
   att: 12
