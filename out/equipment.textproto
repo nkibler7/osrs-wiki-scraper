@@ -127637,3 +127637,48 @@ items {
     }
   }
 }
+items {
+  key: 33093
+  value {
+    id: 33093
+    name: "Cow slippers"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33096
+  value {
+    id: 33096
+    name: "Cow slippers"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33097
+  value {
+    id: 33097
+    name: "Cow slippers"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33098
+  value {
+    id: 33098
+    name: "Cow slippers"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33099
+  value {
+    id: 33099
+    name: "Brutus slippers"
+    stat_bonuses {
+    }
+  }
+}

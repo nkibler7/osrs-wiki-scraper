@@ -5474,6 +5474,20 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
+  ids: 15626
+  name: "Brutus"
+  hitpoints: 58
+  att: 12
+  str: 25
+  def: 10
+  mage: 8
+  range: 1
+  dstab: -7
+  dslash: -7
+  dcrush: -7
+  dmagic: -3
+}
+npcs {
   ids: 8195
   name: "Bryophyta"
   hitpoints: 115
@@ -5499,6 +5513,18 @@ npcs {
   dcrush: -21
   dmagic: -21
   drange: -21
+}
+npcs {
+  ids: 15625
+  name: "Bull"
+  hitpoints: 58
+  att: 12
+  def: 10
+  mage: 8
+  dstab: -7
+  dslash: -7
+  dcrush: -7
+  dmagic: -3
 }
 npcs {
   ids: 15194
@@ -9053,6 +9079,33 @@ npcs {
   mage: 1
   range: 1
   dmagic: -10
+}
+npcs {
+  ids: 15628
+  name: "Demonic Brutus"
+  version: "1"
+  hitpoints: 750
+  att: 380
+  str: 418
+  def: 200
+  mage: 272
+  dstab: 182
+  dslash: 65
+  dcrush: 216
+  dmagic: 520
+}
+npcs {
+  ids: 15629
+  name: "Demonic Brutus"
+  version: "2"
+  hitpoints: 750
+  att: 380
+  def: 200
+  mage: 272
+  dstab: 182
+  dslash: 65
+  dcrush: 216
+  dmagic: 520
 }
 npcs {
   ids: 7144
