@@ -9090,7 +9090,7 @@ npcs {
   str: 418
   def: 200
   mage: 272
-  arange: 1
+  range: 1
   dstab: 182
   dslash: 65
   dcrush: 216
@@ -9104,7 +9104,7 @@ npcs {
   att: 380
   def: 200
   mage: 272
-  arange: 1
+  range: 1
   dstab: 182
   dslash: 65
   dcrush: 216
