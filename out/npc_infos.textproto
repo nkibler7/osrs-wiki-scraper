@@ -9099,7 +9099,7 @@ npcs {
 npcs {
   ids: 15629
   name: "Demonic Brutus"
-  version: "Summons"
+  version: "Ghost"
   hitpoints: 750
   att: 380
   def: 200
