@@ -127682,3 +127682,41 @@ items {
     }
   }
 }
+items {
+  key: 33101
+  value {
+    id: 33101
+    name: "Mooleta"
+    stat_bonuses {
+      stab_attack: 5
+      slash_attack: 7
+      crush_attack: 7
+      ranged_attack: -1
+      magic_attack: -1
+      stab_defence: 4
+      slash_defence: 8
+      crush_defence: 8
+      ranged_defence: -1
+      magic_defence: -2
+      melee_strength: 1
+    }
+  }
+}
+items {
+  key: 33103
+  value {
+    id: 33103
+    name: "Cowbell amulet"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33104
+  value {
+    id: 33104
+    name: "Cowbell amulet"
+    stat_bonuses {
+    }
+  }
+}

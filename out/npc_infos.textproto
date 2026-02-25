@@ -9083,7 +9083,7 @@ npcs {
 npcs {
   ids: 15628
   name: "Demonic Brutus"
-  version: "1"
+  version: "Brutus"
   hitpoints: 750
   att: 380
   str: 418
@@ -9097,7 +9097,7 @@ npcs {
 npcs {
   ids: 15629
   name: "Demonic Brutus"
-  version: "2"
+  version: "Summons"
   hitpoints: 750
   att: 380
   def: 200
