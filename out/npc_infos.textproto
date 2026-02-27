@@ -5520,8 +5520,10 @@ npcs {
   name: "Bull"
   hitpoints: 58
   att: 12
+  str: 25
   def: 10
   mage: 8
+  range: 1
   dstab: -7
   dslash: -7
   dcrush: -7
