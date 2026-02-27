@@ -28572,6 +28572,7 @@ npcs {
   version: "1"
   hitpoints: 38
   att: 54
+  str: 50
   def: 35
   mage: 10
 }
@@ -28581,6 +28582,7 @@ npcs {
   version: "2"
   hitpoints: 38
   att: 54
+  str: 50
   def: 35
   mage: 10
 }
@@ -28590,6 +28592,7 @@ npcs {
   version: "3"
   hitpoints: 38
   att: 54
+  str: 50
   def: 35
   mage: 10
 }
@@ -28599,6 +28602,7 @@ npcs {
   version: "4"
   hitpoints: 38
   att: 54
+  str: 50
   def: 35
   mage: 10
 }
