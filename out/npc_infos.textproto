@@ -9102,6 +9102,7 @@ npcs {
   version: "Ghost"
   hitpoints: 750
   att: 380
+  str: 418
   def: 200
   mage: 272
   range: 1
