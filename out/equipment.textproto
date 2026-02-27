@@ -58096,6 +58096,7 @@ items {
       magic_attack: 2
       stab_defence: 2
       magic_defence: 2
+      prayer: 2
     }
   }
 }
