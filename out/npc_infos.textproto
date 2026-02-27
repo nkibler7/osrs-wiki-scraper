@@ -4179,6 +4179,7 @@ npcs {
   name: "Black Eye Bethel"
   hitpoints: 180
   att: 170
+  str: 210
   def: 180
   mage: 80
 }
@@ -14538,6 +14539,7 @@ npcs {
   name: "Giant lobster"
   hitpoints: 100
   att: 80
+  str: 90
   def: 60
   mage: 20
 }
