@@ -5517,20 +5517,6 @@ npcs {
   drange: -21
 }
 npcs {
-  ids: 15625
-  name: "Bull"
-  hitpoints: 58
-  att: 12
-  str: 25
-  def: 10
-  mage: 8
-  range: 1
-  dstab: -7
-  dslash: -7
-  dcrush: -7
-  dmagic: -3
-}
-npcs {
   ids: 15194
   name: "Bull shark"
   hitpoints: 90
