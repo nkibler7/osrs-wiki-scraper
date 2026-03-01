@@ -15683,6 +15683,17 @@ npcs {
 npcs {
   ids: 15621
   name: "Goblin"
+  hitpoints: 5
+  att: 1
+  str: 1
+  def: 1
+  mage: 1
+  range: 1
+  strbns: -15
+  dstab: -15
+  dslash: -15
+  dcrush: -15
+  dmagic: -15
 }
 npcs {
   ids: 2484
@@ -16121,7 +16132,14 @@ npcs {
 npcs {
   ids: 15607
   name: "Greater demon"
-  hitpoints: 89
+  hitpoints: 87
+  att: 76
+  str: 78
+  def: 81
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
 }
 npcs {
   ids: 12387
@@ -19456,6 +19474,13 @@ npcs {
 npcs {
   ids: 15620
   name: "Hill Giant"
+  hitpoints: 35
+  att: 18
+  str: 22
+  def: 26
+  mage: 1
+  range: 1
+  strbns: 16
 }
 npcs {
   ids: 3049
@@ -21788,11 +21813,35 @@ npcs {
   ids: 15617
   name: "Kalphite Queen"
   version: "Crawling"
+  hitpoints: 255
+  att: 300
+  str: 300
+  def: 300
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 50
+  dcrush: 10
+  dmagic: 100
+  drange: 100
+  attributes: "kalphite"
 }
 npcs {
   ids: 15618
   name: "Kalphite Queen"
   version: "Airborne"
+  hitpoints: 255
+  att: 300
+  str: 300
+  def: 300
+  mage: 150
+  range: 1
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 10
+  drange: 10
+  attributes: "kalphite"
 }
 npcs {
   ids: 957
@@ -22453,6 +22502,17 @@ npcs {
 npcs {
   ids: 15604
   name: "King black dragon"
+  hitpoints: 240
+  att: 240
+  str: 240
+  def: 240
+  mage: 240
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 80
+  drange: 70
 }
 npcs {
   ids: 7405
@@ -22541,6 +22601,16 @@ npcs {
 npcs {
   ids: 15610
   name: "King Scorpion"
+  hitpoints: 30
+  att: 30
+  str: 29
+  def: 23
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 15
+  dcrush: 15
+  drange: 9
 }
 npcs {
   ids: 3297
@@ -23323,7 +23393,14 @@ npcs {
 npcs {
   ids: 15606
   name: "Lesser demon"
-  hitpoints: 80
+  hitpoints: 79
+  att: 68
+  str: 70
+  def: 71
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
 }
 npcs {
   ids: 12376
@@ -23523,6 +23600,17 @@ npcs {
 npcs {
   ids: 15612
   name: "Lizard man"
+  hitpoints: 35
+  att: 18
+  str: 13
+  def: 14
+  mage: 1
+  range: 1
+  strbns: 9
+  dstab: 8
+  dslash: 12
+  dcrush: 12
+  drange: 12
 }
 npcs {
   ids: 6914
@@ -27221,6 +27309,18 @@ npcs {
 npcs {
   ids: 15611
   name: "Orc"
+  hitpoints: 29
+  att: 13
+  str: 16
+  def: 14
+  mage: 1
+  range: 1
+  strbns: 5
+  dstab: 12
+  dslash: 14
+  dcrush: 13
+  dmagic: 5
+  drange: 13
 }
 npcs {
   ids: 15204
@@ -30110,6 +30210,18 @@ npcs {
 npcs {
   ids: 15602
   name: "Red dragon"
+  hitpoints: 140
+  att: 130
+  str: 130
+  def: 130
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon"
 }
 npcs {
   ids: 14511
@@ -31409,6 +31521,16 @@ npcs {
 npcs {
   ids: 15609
   name: "Scorpion"
+  hitpoints: 17
+  att: 11
+  str: 12
+  def: 11
+  mage: 1
+  range: 1
+  dstab: 5
+  dslash: 15
+  dcrush: 15
+  drange: 5
 }
 npcs {
   ids: 14940
@@ -38010,6 +38132,12 @@ npcs {
 npcs {
   ids: 15613
   name: "Troll"
+  hitpoints: 55
+  att: 65
+  str: 63
+  def: 58
+  mage: 1
+  range: 1
 }
 npcs {
   ids: 4120
