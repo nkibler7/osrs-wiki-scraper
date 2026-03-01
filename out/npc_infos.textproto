@@ -2731,9 +2731,12 @@ npcs {
   def: 40
   mage: 1
   range: 1
+  dstab: 30
   dslash: 50
   dcrush: 50
   dmagic: 40
+  drange: 30
+  attributes: "dragon"
 }
 npcs {
   ids: 5194
@@ -4104,6 +4107,14 @@ npcs {
 npcs {
   ids: 15608
   name: "Black demon"
+  hitpoints: 157
+  att: 145
+  str: 148
+  def: 152
+  mage: 1
+  range: 1
+  dmagic: -10
+  attributes: "demon"
 }
 npcs {
   ids: 1432
@@ -4173,6 +4184,18 @@ npcs {
 npcs {
   ids: 15601
   name: "Black dragon"
+  hitpoints: 190
+  att: 200
+  str: 200
+  def: 200
+  mage: 100
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon"
 }
 npcs {
   ids: 15025
@@ -5023,6 +5046,18 @@ npcs {
 npcs {
   ids: 15603
   name: "Blue dragon"
+  hitpoints: 105
+  att: 95
+  str: 95
+  def: 95
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 70
+  dcrush: 70
+  dmagic: 60
+  drange: 50
+  attributes: "dragon"
 }
 npcs {
   ids: 13013
@@ -5878,6 +5913,16 @@ npcs {
 npcs {
   ids: 15614
   name: "Cave Bug"
+  hitpoints: 5
+  att: 6
+  str: 5
+  def: 6
+  mage: 1
+  range: 1
+  dstab: 10
+  dslash: 10
+  dcrush: 5
+  dmagic: 5
 }
 npcs {
   ids: 406
@@ -12873,6 +12918,16 @@ npcs {
 npcs {
   ids: 15619
   name: "Fire giant"
+  hitpoints: 111
+  att: 65
+  str: 65
+  def: 65
+  mage: 1
+  range: 1
+  strbns: 31
+  dslash: 3
+  dcrush: 2
+  attributes: "fiery"
 }
 npcs {
   ids: 3448
