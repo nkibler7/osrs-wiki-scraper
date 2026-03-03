@@ -38364,7 +38364,7 @@ npcs {
 npcs {
   ids: 430
   name: "Turoth"
-  version: "Level 83"
+  version: "Baby"
   hitpoints: 76
   att: 53
   str: 83
@@ -38378,7 +38378,7 @@ npcs {
 npcs {
   ids: 429
   name: "Turoth"
-  version: "Level 85"
+  version: "Child"
   hitpoints: 77
   att: 54
   str: 84
@@ -38392,7 +38392,7 @@ npcs {
 npcs {
   ids: 428
   name: "Turoth"
-  version: "Level 87"
+  version: "Mum"
   hitpoints: 79
   att: 56
   str: 86
@@ -38406,7 +38406,7 @@ npcs {
 npcs {
   ids: 427
   name: "Turoth"
-  version: "Level 89"
+  version: "Dad"
   hitpoints: 81
   att: 58
   str: 88
