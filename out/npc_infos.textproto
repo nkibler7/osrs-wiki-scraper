@@ -2723,22 +2723,6 @@ npcs {
   attributes: "dragon"
 }
 npcs {
-  ids: 15605
-  name: "Baby blue dragon"
-  hitpoints: 50
-  att: 40
-  str: 40
-  def: 40
-  mage: 1
-  range: 1
-  dstab: 30
-  dslash: 50
-  dcrush: 50
-  dmagic: 40
-  drange: 30
-  attributes: "dragon"
-}
-npcs {
   ids: 5194
   name: "Baby green dragon"
   version: "1"
@@ -4105,18 +4089,6 @@ npcs {
   attributes: "demon"
 }
 npcs {
-  ids: 15608
-  name: "Black demon"
-  hitpoints: 157
-  att: 145
-  str: 148
-  def: 152
-  mage: 1
-  range: 1
-  dmagic: -10
-  attributes: "demon"
-}
-npcs {
   ids: 1432
   name: "Black demon"
   hitpoints: 157
@@ -4180,22 +4152,6 @@ npcs {
   dcrush: 70
   dmagic: 60
   attributes: "dragon,fiery"
-}
-npcs {
-  ids: 15601
-  name: "Black dragon"
-  hitpoints: 190
-  att: 200
-  str: 200
-  def: 200
-  mage: 100
-  range: 1
-  dstab: 50
-  dslash: 70
-  dcrush: 70
-  dmagic: 60
-  drange: 50
-  attributes: "dragon"
 }
 npcs {
   ids: 15025
@@ -5042,22 +4998,6 @@ npcs {
   dcrush: 70
   dmagic: 60
   attributes: "dragon,fiery"
-}
-npcs {
-  ids: 15603
-  name: "Blue dragon"
-  hitpoints: 105
-  att: 95
-  str: 95
-  def: 95
-  mage: 1
-  range: 1
-  dstab: 50
-  dslash: 70
-  dcrush: 70
-  dmagic: 60
-  drange: 50
-  attributes: "dragon"
 }
 npcs {
   ids: 13013
@@ -5909,20 +5849,6 @@ npcs {
   dcrush: 35
   dmagic: 25
   drange: 95
-}
-npcs {
-  ids: 15614
-  name: "Cave Bug"
-  hitpoints: 5
-  att: 6
-  str: 5
-  def: 6
-  mage: 1
-  range: 1
-  dstab: 10
-  dslash: 10
-  dcrush: 5
-  dmagic: 5
 }
 npcs {
   ids: 406
@@ -12916,20 +12842,6 @@ npcs {
   attributes: "fiery"
 }
 npcs {
-  ids: 15619
-  name: "Fire giant"
-  hitpoints: 111
-  att: 65
-  str: 65
-  def: 65
-  mage: 1
-  range: 1
-  strbns: 31
-  dslash: 3
-  dcrush: 2
-  attributes: "fiery"
-}
-npcs {
   ids: 3448
   name: "Fire Warrior of Lesarkus"
   hitpoints: 59
@@ -15681,21 +15593,6 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 15621
-  name: "Goblin"
-  hitpoints: 5
-  att: 1
-  str: 1
-  def: 1
-  mage: 1
-  range: 1
-  strbns: -15
-  dstab: -15
-  dslash: -15
-  dcrush: -15
-  dmagic: -15
-}
-npcs {
   ids: 2484
   name: "Goblin"
   version: "Level 5"
@@ -16124,18 +16021,6 @@ npcs {
   att: 120
   str: 90
   def: 50
-  mage: 1
-  range: 1
-  dmagic: -10
-  attributes: "demon"
-}
-npcs {
-  ids: 15607
-  name: "Greater demon"
-  hitpoints: 87
-  att: 76
-  str: 78
-  def: 81
   mage: 1
   range: 1
   dmagic: -10
@@ -19472,17 +19357,6 @@ npcs {
   strbns: 16
 }
 npcs {
-  ids: 15620
-  name: "Hill Giant"
-  hitpoints: 35
-  att: 18
-  str: 22
-  def: 26
-  mage: 1
-  range: 1
-  strbns: 16
-}
-npcs {
   ids: 3049
   name: "Hobgoblin"
   version: "Hobgoblin"
@@ -21809,41 +21683,6 @@ npcs {
   attributes: "kalphite"
 }
 npcs {
-  ids: 15616
-  ids: 15617
-  name: "Kalphite Queen"
-  version: "Crawling"
-  hitpoints: 255
-  att: 300
-  str: 300
-  def: 300
-  mage: 1
-  range: 1
-  dstab: 50
-  dslash: 50
-  dcrush: 10
-  dmagic: 100
-  drange: 100
-  attributes: "kalphite"
-}
-npcs {
-  ids: 15618
-  name: "Kalphite Queen"
-  version: "Airborne"
-  hitpoints: 255
-  att: 300
-  str: 300
-  def: 300
-  mage: 150
-  range: 1
-  dstab: 100
-  dslash: 100
-  dcrush: 100
-  dmagic: 10
-  drange: 10
-  attributes: "kalphite"
-}
-npcs {
   ids: 957
   name: "Kalphite Soldier"
   version: "Kalphite Lair"
@@ -22500,21 +22339,6 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
-  ids: 15604
-  name: "King black dragon"
-  hitpoints: 240
-  att: 240
-  str: 240
-  def: 240
-  mage: 240
-  range: 1
-  dstab: 50
-  dslash: 70
-  dcrush: 70
-  dmagic: 80
-  drange: 70
-}
-npcs {
   ids: 7405
   name: "King kurask"
   hitpoints: 270
@@ -22597,20 +22421,6 @@ npcs {
   dslash: 15
   dcrush: 15
   drange: 5
-}
-npcs {
-  ids: 15610
-  name: "King Scorpion"
-  hitpoints: 30
-  att: 30
-  str: 29
-  def: 23
-  mage: 1
-  range: 1
-  dstab: 5
-  dslash: 15
-  dcrush: 15
-  drange: 9
 }
 npcs {
   ids: 3297
@@ -23391,18 +23201,6 @@ npcs {
   attributes: "demon"
 }
 npcs {
-  ids: 15606
-  name: "Lesser demon"
-  hitpoints: 79
-  att: 68
-  str: 70
-  def: 71
-  mage: 1
-  range: 1
-  dmagic: -10
-  attributes: "demon"
-}
-npcs {
   ids: 12376
   name: "Lesser demon"
   version: "Level 39"
@@ -23596,21 +23394,6 @@ npcs {
   dslash: 15
   dcrush: 15
   drange: 5
-}
-npcs {
-  ids: 15612
-  name: "Lizard man"
-  hitpoints: 35
-  att: 18
-  str: 13
-  def: 14
-  mage: 1
-  range: 1
-  strbns: 9
-  dstab: 8
-  dslash: 12
-  dcrush: 12
-  drange: 12
 }
 npcs {
   ids: 6914
@@ -27307,22 +27090,6 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 15611
-  name: "Orc"
-  hitpoints: 29
-  att: 13
-  str: 16
-  def: 14
-  mage: 1
-  range: 1
-  strbns: 5
-  dstab: 12
-  dslash: 14
-  dcrush: 13
-  dmagic: 5
-  drange: 13
-}
-npcs {
   ids: 15204
   name: "Orca"
   hitpoints: 265
@@ -30208,22 +29975,6 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
-  ids: 15602
-  name: "Red dragon"
-  hitpoints: 140
-  att: 130
-  str: 130
-  def: 130
-  mage: 1
-  range: 1
-  dstab: 50
-  dslash: 70
-  dcrush: 70
-  dmagic: 60
-  drange: 50
-  attributes: "dragon"
-}
-npcs {
   ids: 14511
   name: "Red dragon"
   hitpoints: 100
@@ -31535,20 +31286,6 @@ npcs {
   dslash: 15
   dcrush: 15
   drange: 55
-}
-npcs {
-  ids: 15609
-  name: "Scorpion"
-  hitpoints: 17
-  att: 11
-  str: 12
-  def: 11
-  mage: 1
-  range: 1
-  dstab: 5
-  dslash: 15
-  dcrush: 15
-  drange: 5
 }
 npcs {
   ids: 7390
@@ -38129,16 +37866,6 @@ npcs {
   dcrush: 40
   dmagic: 200
   drange: 200
-}
-npcs {
-  ids: 15613
-  name: "Troll"
-  hitpoints: 55
-  att: 65
-  str: 63
-  def: 58
-  mage: 1
-  range: 1
 }
 npcs {
   ids: 4120
