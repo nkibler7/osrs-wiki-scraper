@@ -24694,6 +24694,16 @@ npcs {
   ids: 2482
   name: "Minotaur"
   version: "Unused"
+  hitpoints: 13
+  att: 22
+  str: 15
+  def: 15
+  mage: 1
+  range: 1
+  dstab: 1
+  dslash: 1
+  dcrush: 1
+  dmagic: 1
 }
 npcs {
   ids: 12812
