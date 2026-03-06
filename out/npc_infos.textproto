@@ -1626,19 +1626,6 @@ npcs {
 npcs {
   ids: 15210
   name: "Armoured kraken"
-  version: "In combat"
-  hitpoints: 175
-  att: 1
-  str: 1
-  def: 140
-  mage: 175
-  range: 1
-  dmagic: -63
-}
-npcs {
-  ids: 15211
-  name: "Armoured kraken"
-  version: "Defeated"
   hitpoints: 175
   att: 1
   str: 1
@@ -5549,16 +5536,6 @@ npcs {
 npcs {
   ids: 15216
   name: "Butterfly ray"
-  version: "In combat"
-  hitpoints: 70
-  att: 100
-  str: 35
-  mage: 1
-}
-npcs {
-  ids: 15217
-  name: "Butterfly ray"
-  version: "Defeated"
   hitpoints: 70
   att: 100
   str: 35
@@ -10901,16 +10878,6 @@ npcs {
 npcs {
   ids: 15214
   name: "Eagle ray"
-  version: "In combat"
-  hitpoints: 50
-  att: 70
-  str: 1
-  mage: 1
-}
-npcs {
-  ids: 15215
-  name: "Eagle ray"
-  version: "Defeated"
   hitpoints: 50
   att: 70
   str: 1
@@ -24194,16 +24161,6 @@ npcs {
 npcs {
   ids: 15220
   name: "Manta ray"
-  version: "In combat"
-  hitpoints: 160
-  att: 155
-  str: 75
-  mage: 1
-}
-npcs {
-  ids: 15221
-  name: "Manta ray"
-  version: "Defeated"
   hitpoints: 160
   att: 155
   str: 75
@@ -39088,19 +39045,6 @@ npcs {
 npcs {
   ids: 15212
   name: "Vampyre kraken"
-  version: "In combat"
-  hitpoints: 225
-  att: 1
-  str: 1
-  def: 115
-  mage: 215
-  range: 1
-  dmagic: -63
-}
-npcs {
-  ids: 15213
-  name: "Vampyre kraken"
-  version: "Defeated"
   hitpoints: 225
   att: 1
   str: 1
