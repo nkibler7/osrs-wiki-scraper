@@ -1664,6 +1664,7 @@ npcs {
   ids: 12739
   ids: 12761
   ids: 12763
+  ids: 12764
   name: "Armoured zombie"
   version: "Ranged (invasion)"
   hitpoints: 75
