@@ -38913,7 +38913,7 @@ npcs {
   ids: 4438
   ids: 4439
   name: "Vampyre Juvenile"
-  version: "Burgh de Rott/Crombwick Manor"
+  version: "Burgh de Rott and Crombwick Manor"
   hitpoints: 60
   att: 40
   str: 30
@@ -38929,8 +38929,10 @@ npcs {
   ids: 3697
   ids: 9731
   ids: 9732
+  ids: 9733
+  ids: 9744
   name: "Vampyre Juvenile"
-  version: "Meiyerditch/Darkmeyer"
+  version: "Meiyerditch and Darkmeyer"
   hitpoints: 60
   att: 40
   str: 30
