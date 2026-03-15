@@ -38927,12 +38927,23 @@ npcs {
   ids: 3693
   ids: 3696
   ids: 3697
+  name: "Vampyre Juvenile"
+  version: "Meiyerditch"
+  hitpoints: 60
+  att: 40
+  str: 30
+  def: 30
+  mage: 1
+  range: 1
+  attributes: "vampyre1"
+}
+npcs {
   ids: 9731
   ids: 9732
   ids: 9733
   ids: 9744
   name: "Vampyre Juvenile"
-  version: "Meiyerditch and Darkmeyer"
+  version: "Darkmeyer"
   hitpoints: 60
   att: 40
   str: 30
@@ -38945,7 +38956,7 @@ npcs {
   ids: 4443
   ids: 4486
   name: "Vampyre Juvinate"
-  version: "Level 50"
+  version: "Level 50 (In Aid of the Myreque)"
   hitpoints: 60
   att: 50
   str: 37
@@ -38962,7 +38973,7 @@ npcs {
   ids: 4432
   ids: 4487
   name: "Vampyre Juvinate"
-  version: "Level 54"
+  version: "Level 54 (Burgh de Rott)"
   hitpoints: 85
   att: 40
   str: 40
@@ -38972,16 +38983,27 @@ npcs {
   attributes: "vampyre2"
 }
 npcs {
-  ids: 3690
-  ids: 3691
   ids: 3694
   ids: 3695
   ids: 3698
   ids: 3699
-  ids: 9728
-  ids: 9727
   name: "Vampyre Juvinate"
-  version: "Level 54 (Meiyerditch/Darkmeyer)"
+  version: "Level 54 (Meiyerditch)"
+  hitpoints: 85
+  att: 40
+  str: 40
+  def: 30
+  mage: 1
+  range: 1
+  attributes: "vampyre2"
+}
+npcs {
+  ids: 9727
+  ids: 9728
+  ids: 9729
+  ids: 9730
+  name: "Vampyre Juvinate"
+  version: "Level 54 (Darkmeyer)"
   hitpoints: 85
   att: 40
   str: 40
@@ -38994,7 +39016,7 @@ npcs {
   ids: 5634
   ids: 5637
   name: "Vampyre Juvinate"
-  version: "Level 59"
+  version: "Level 59 (Temple Trekking)"
   hitpoints: 50
   att: 95
   str: 16
@@ -39006,7 +39028,7 @@ npcs {
 npcs {
   ids: 4442
   name: "Vampyre Juvinate"
-  version: "Level 75"
+  version: "Level 75 (In Aid of the Myreque)"
   hitpoints: 110
   att: 70
   str: 50
@@ -39019,7 +39041,7 @@ npcs {
   ids: 5635
   ids: 5638
   name: "Vampyre Juvinate"
-  version: "Level 90"
+  version: "Level 90 (Temple Trekking)"
   hitpoints: 100
   att: 113
   str: 46
@@ -39032,7 +39054,22 @@ npcs {
   ids: 5636
   ids: 5639
   name: "Vampyre Juvinate"
-  version: "Level 119"
+  version: "Level 119 (Temple Trekking)"
+  hitpoints: 150
+  att: 127
+  str: 76
+  def: 65
+  mage: 50
+  range: 50
+  attributes: "vampyre2"
+}
+npcs {
+  ids: 9614
+  ids: 9615
+  ids: 9616
+  ids: 9617
+  name: "Vampyre Juvinate"
+  version: "Level 119 (Sins of the Father)"
   hitpoints: 150
   att: 127
   str: 76
