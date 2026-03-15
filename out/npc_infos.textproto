@@ -12631,7 +12631,7 @@ npcs {
   ids: 3708
   ids: 4431
   name: "Feral Vampyre"
-  version: "Level 64"
+  version: "Level 64 (Juvenile/Juvinate)"
   hitpoints: 80
   att: 55
   str: 30
@@ -12643,7 +12643,7 @@ npcs {
 npcs {
   ids: 5640
   name: "Feral Vampyre"
-  version: "Level 70"
+  version: "Level 70 (Temple Trekking)"
   hitpoints: 75
   att: 90
   str: 46
@@ -12653,7 +12653,7 @@ npcs {
 npcs {
   ids: 3234
   name: "Feral Vampyre"
-  version: "Level 72"
+  version: "Level 72 (Spider)"
   hitpoints: 50
   att: 65
   str: 70
@@ -12665,7 +12665,7 @@ npcs {
 npcs {
   ids: 3137
   name: "Feral Vampyre"
-  version: "Level 77"
+  version: "Level 77 (God Wars Dungeon)"
   hitpoints: 60
   att: 65
   str: 66
@@ -12677,7 +12677,7 @@ npcs {
 npcs {
   ids: 5641
   name: "Feral Vampyre"
-  version: "Level 100"
+  version: "Level 100 (Temple Trekking)"
   hitpoints: 135
   att: 105
   str: 76
@@ -12687,7 +12687,7 @@ npcs {
 npcs {
   ids: 5642
   name: "Feral Vampyre"
-  version: "Level 130"
+  version: "Level 130 (Temple Trekking)"
   hitpoints: 185
   att: 120
   str: 116
