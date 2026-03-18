@@ -36218,7 +36218,7 @@ npcs {
   range: 115
 }
 npcs {
-  ids: 15268
+  ids: 15228
   name: "Tern"
   hitpoints: 46
   att: 25
