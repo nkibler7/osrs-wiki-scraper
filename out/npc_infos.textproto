@@ -9523,10 +9523,9 @@ npcs {
 npcs {
   ids: 15234
   name: "Dolphin"
-  hitpoints: 50
+  hitpoints: 74
   att: 25
   str: 10
-  def: 5
   mage: 1
 }
 npcs {
@@ -24748,7 +24747,7 @@ npcs {
   ids: 15230
   ids: 15232
   name: "Mogre"
-  hitpoints: 60
+  hitpoints: 87
   att: 40
   str: 50
   def: 40
@@ -39336,8 +39335,10 @@ npcs {
   name: "Veiled kraken"
   hitpoints: 225
   att: 200
+  str: 185
   def: 115
   mage: 100
+  range: 1
   dmagic: 325
 }
 npcs {
