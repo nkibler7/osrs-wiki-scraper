@@ -30829,7 +30829,7 @@ npcs {
 npcs {
   ids: 799
   name: "Scarab Mage"
-  version: "Level 66 (Quest)"
+  version: "Level 66 (Contact!)"
   hitpoints: 50
   att: 90
   str: 90
@@ -30865,7 +30865,7 @@ npcs {
 npcs {
   ids: 11508
   name: "Scarab Mage"
-  version: "Level 119 (Quest)"
+  version: "Level 119 (Beneath Cursed Sands)"
   hitpoints: 120
   att: 1
   str: 1
