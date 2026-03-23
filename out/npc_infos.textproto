@@ -28433,6 +28433,17 @@ npcs {
   dslash: 1
 }
 npcs {
+  ids: 15456
+  name: "Pirate"
+  hitpoints: 35
+  att: 20
+  str: 45
+  def: 10
+  strbns: 30
+  dstab: 5
+  dslash: 17
+}
+npcs {
   ids: 15021
   name: "Pirate"
   version: "1"
@@ -28541,6 +28552,17 @@ npcs {
   dstab: 10
   dslash: 20
   dcrush: 10
+}
+npcs {
+  ids: 15455
+  name: "Pirate captain"
+  hitpoints: 50
+  att: 60
+  str: 70
+  def: 50
+  strbns: 30
+  dstab: 5
+  dslash: 17
 }
 npcs {
   ids: 4926
