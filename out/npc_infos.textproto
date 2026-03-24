@@ -28969,7 +28969,7 @@ npcs {
 npcs {
   ids: 15430
   name: "Praying mantis"
-  version: "1"
+  version: "Green"
   hitpoints: 18
   att: 12
   str: 12
@@ -28983,7 +28983,7 @@ npcs {
 npcs {
   ids: 15431
   name: "Praying mantis"
-  version: "2"
+  version: "Brown"
   hitpoints: 18
   att: 12
   str: 12
@@ -28997,7 +28997,7 @@ npcs {
 npcs {
   ids: 15432
   name: "Praying mantis"
-  version: "3"
+  version: "Orchid"
   hitpoints: 18
   att: 12
   str: 12
@@ -34035,6 +34035,7 @@ npcs {
 }
 npcs {
   ids: 2845
+  ids: 14916
   name: "Snake"
   hitpoints: 6
   att: 4
