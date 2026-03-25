@@ -109192,6 +109192,54 @@ items {
   }
 }
 items {
+  key: 31353
+  value {
+    id: 31353
+    name: "Prison uniform top"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31355
+  value {
+    id: 31355
+    name: "Prison uniform trousers"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31357
+  value {
+    id: 31357
+    name: "Fishy prison uniform top"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 31359
+  value {
+    id: 31359
+    name: "Tin cup"
+  }
+}
+items {
+  key: 31361
+  value {
+    id: 31361
+    name: "Tin cup"
+  }
+}
+items {
+  key: 31373
+  value {
+    id: 31373
+    name: "Vacuum pump and gull"
+  }
+}
+items {
   key: 31398
   value {
     id: 31398
