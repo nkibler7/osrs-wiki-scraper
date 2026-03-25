@@ -31507,6 +31507,7 @@ npcs {
 }
 npcs {
   ids: 1339
+  ids: 14938
   name: "Seagull"
   version: "Level 3"
   hitpoints: 10
