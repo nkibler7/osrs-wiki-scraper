@@ -41763,6 +41763,7 @@ npcs {
 npcs {
   ids: 7701
   ids: 7705
+  ids: 10624
   name: "Yt-HurKot"
   version: "Level 141"
   hitpoints: 90
