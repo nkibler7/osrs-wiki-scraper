@@ -856,6 +856,9 @@ npcs {
   attributes: "Spectral"
 }
 npcs {
+  name: "Amoxliatl (Echo)"
+}
+npcs {
   ids: 14520
   name: "Ancient Custodian"
   hitpoints: 330
