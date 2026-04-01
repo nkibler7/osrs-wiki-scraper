@@ -686,7 +686,7 @@ npcs {
 }
 npcs {
   ids: 15224
-  hitpoints: 179
+  hitpoints: 135
   att: 100
   str: 90
   def: 60
@@ -5484,7 +5484,7 @@ npcs {
 npcs {
   ids: 15194
   name: "Bull shark"
-  hitpoints: 128
+  hitpoints: 81
   att: 80
   str: 45
   def: 20
@@ -5540,7 +5540,7 @@ npcs {
 npcs {
   ids: 15216
   name: "Butterfly ray"
-  hitpoints: 101
+  hitpoints: 83
   att: 100
   str: 35
   def: 15
@@ -9526,7 +9526,7 @@ npcs {
 npcs {
   ids: 15234
   name: "Dolphin"
-  hitpoints: 74
+  hitpoints: 45
   att: 25
   str: 10
   mage: 1
@@ -10867,7 +10867,7 @@ npcs {
 npcs {
   ids: 15214
   name: "Eagle ray"
-  hitpoints: 74
+  hitpoints: 55
   att: 70
   str: 1
   mage: 1
@@ -13394,7 +13394,7 @@ npcs {
 npcs {
   ids: 15226
   name: "Frigatebird"
-  hitpoints: 121
+  hitpoints: 79
   att: 80
   str: 70
   def: 40
@@ -18709,7 +18709,7 @@ npcs {
 npcs {
   ids: 15196
   name: "Hammerhead shark"
-  hitpoints: 128
+  hitpoints: 125
   att: 80
   str: 65
   def: 50
@@ -24092,7 +24092,7 @@ npcs {
 npcs {
   ids: 15220
   name: "Manta ray"
-  hitpoints: 225
+  hitpoints: 194
   att: 155
   str: 75
   def: 40
@@ -24689,7 +24689,7 @@ npcs {
   ids: 15230
   ids: 15232
   name: "Mogre"
-  hitpoints: 87
+  hitpoints: 59
   att: 40
   str: 50
   def: 40
@@ -25895,7 +25895,7 @@ npcs {
 npcs {
   ids: 15202
   name: "Narwhal"
-  hitpoints: 220
+  hitpoints: 187
   att: 95
   str: 65
   def: 50
@@ -27030,7 +27030,7 @@ npcs {
 npcs {
   ids: 15222
   name: "Osprey"
-  hitpoints: 114
+  hitpoints: 72
   att: 60
   str: 50
   def: 40
@@ -28998,7 +28998,7 @@ npcs {
 npcs {
   ids: 15206
   name: "Pygmy kraken"
-  hitpoints: 177
+  hitpoints: 150
   att: 1
   str: 1
   def: 50
@@ -35231,7 +35231,7 @@ npcs {
 npcs {
   ids: 15218
   name: "Stingray"
-  hitpoints: 128
+  hitpoints: 106
   att: 130
   str: 55
   def: 25
@@ -36198,7 +36198,7 @@ npcs {
 npcs {
   ids: 15228
   name: "Tern"
-  hitpoints: 46
+  hitpoints: 22
   att: 25
   str: 20
   mage: 1
