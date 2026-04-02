@@ -102690,14 +102690,6 @@ items {
     id: 29049
     name: "Eclipse moon chestplate (broken)"
     stat_bonuses {
-      ranged_attack: 31
-      magic_attack: -15
-      stab_defence: 15
-      slash_defence: 18
-      crush_defence: 57
-      ranged_defence: 32
-      magic_defence: 55
-      melee_strength: 3
     }
   }
 }
@@ -102707,14 +102699,6 @@ items {
     id: 29052
     name: "Eclipse moon tassets (broken)"
     stat_bonuses {
-      ranged_attack: 17
-      magic_attack: -15
-      stab_defence: 9
-      slash_defence: 13
-      crush_defence: 37
-      ranged_defence: 17
-      magic_defence: 31
-      melee_strength: 1
     }
   }
 }
@@ -102724,14 +102708,6 @@ items {
     id: 29055
     name: "Eclipse moon helm (broken)"
     stat_bonuses {
-      ranged_attack: 8
-      magic_attack: -6
-      stab_defence: 2
-      slash_defence: 3
-      crush_defence: 14
-      ranged_defence: 4
-      magic_defence: 10
-      melee_strength: 3
     }
   }
 }
@@ -102741,11 +102717,6 @@ items {
     id: 29058
     name: "Blue moon chestplate (broken)"
     stat_bonuses {
-      magic_attack: 30
-      crush_defence: 51
-      magic_defence: 28
-      melee_strength: 2
-      magic_damage: 0.1
     }
   }
 }
@@ -102755,11 +102726,6 @@ items {
     id: 29061
     name: "Blue moon tassets (broken)"
     stat_bonuses {
-      magic_attack: 22
-      crush_defence: 23
-      magic_defence: 32
-      melee_strength: 1
-      magic_damage: 0.1
     }
   }
 }
@@ -102769,11 +102735,6 @@ items {
     id: 29064
     name: "Blue moon helm (broken)"
     stat_bonuses {
-      magic_attack: 6
-      crush_defence: 10
-      magic_defence: 6
-      melee_strength: 3
-      magic_damage: 0.1
     }
   }
 }
@@ -102783,14 +102744,6 @@ items {
     id: 29067
     name: "Blood moon chestplate (broken)"
     stat_bonuses {
-      ranged_attack: -10
-      magic_attack: -15
-      stab_defence: 60
-      slash_defence: 80
-      crush_defence: 80
-      ranged_defence: 79
-      magic_defence: 40
-      melee_strength: 4
     }
   }
 }
@@ -102800,14 +102753,6 @@ items {
     id: 29070
     name: "Blood moon tassets (broken)"
     stat_bonuses {
-      ranged_attack: -7
-      magic_attack: -21
-      stab_defence: 30
-      slash_defence: 50
-      crush_defence: 49
-      ranged_defence: 46
-      magic_defence: 32
-      melee_strength: 2
     }
   }
 }
@@ -102817,14 +102762,6 @@ items {
     id: 29073
     name: "Blood moon helm (broken)"
     stat_bonuses {
-      ranged_attack: -2
-      magic_attack: -6
-      stab_defence: 20
-      slash_defence: 31
-      crush_defence: 34
-      ranged_defence: 29
-      magic_defence: 7
-      melee_strength: 4
     }
   }
 }
