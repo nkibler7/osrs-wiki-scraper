@@ -30367,8 +30367,8 @@ npcs {
 npcs {
   ids: 6725
   name: "Rock Golem"
-  version: "Level 14"
-  hitpoints: 25
+  version: "Level 13"
+  hitpoints: 20
   att: 9
   str: 9
   def: 9
@@ -30379,8 +30379,8 @@ npcs {
 npcs {
   ids: 6726
   name: "Rock Golem"
-  version: "Level 29"
-  hitpoints: 40
+  version: "Level 27"
+  hitpoints: 30
   att: 22
   str: 22
   def: 22
@@ -30391,8 +30391,8 @@ npcs {
 npcs {
   ids: 6727
   name: "Rock Golem"
-  version: "Level 49"
-  hitpoints: 60
+  version: "Level 46"
+  hitpoints: 50
   att: 38
   str: 38
   def: 38
@@ -30403,8 +30403,8 @@ npcs {
 npcs {
   ids: 6728
   name: "Rock Golem"
-  version: "Level 79"
-  hitpoints: 85
+  version: "Level 76"
+  hitpoints: 70
   att: 65
   str: 65
   def: 65
@@ -30415,8 +30415,8 @@ npcs {
 npcs {
   ids: 6729
   name: "Rock Golem"
-  version: "Level 120"
-  hitpoints: 120
+  version: "Level 115"
+  hitpoints: 100
   att: 100
   str: 100
   def: 100
