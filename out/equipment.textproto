@@ -96817,8 +96817,8 @@ items {
     stat_bonuses {
       stab_attack: -2
       slash_attack: 10
-      crush_attack: 102
-      melee_strength: 110
+      crush_attack: 92
+      melee_strength: 100
     }
     weapon_details {
       base_attack_speed: 6
@@ -97036,7 +97036,7 @@ items {
   key: 27863
   value {
     id: 27863
-    name: "Abyssal dagger (bh)(p)"
+    name: "Abyssal dagger (bhp)"
     stat_bonuses {
       stab_attack: 85
       slash_attack: 40
@@ -97091,7 +97091,7 @@ items {
   key: 27865
   value {
     id: 27865
-    name: "Abyssal dagger (bh)(p+)"
+    name: "Abyssal dagger (bhp+)"
     stat_bonuses {
       stab_attack: 85
       slash_attack: 40
@@ -97146,7 +97146,7 @@ items {
   key: 27867
   value {
     id: 27867
-    name: "Abyssal dagger (bh)(p++)"
+    name: "Abyssal dagger (bhp++)"
     stat_bonuses {
       stab_attack: 85
       slash_attack: 40
