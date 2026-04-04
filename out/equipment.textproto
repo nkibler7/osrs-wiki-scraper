@@ -92875,6 +92875,48 @@ items {
   }
 }
 items {
+  key: 27187
+  value {
+    id: 27187
+    name: "Bow of faerdhinen (c)"
+    stat_bonuses {
+      ranged_attack: 128
+      ranged_strength: 106
+    }
+    weapon_details {
+      base_attack_speed: 5
+      base_attack_range: 10
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          ranged_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Rapid"
+        modifiers {
+          attack_speed_modifier: -1
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_RAPID
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
+  }
+}
+items {
   key: 27188
   value {
     id: 27188
@@ -128026,6 +128068,230 @@ items {
           attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
         }
       }
+    }
+  }
+}
+items {
+  key: 33166
+  value {
+    id: 33166
+    name: "Crystal body"
+    stat_bonuses {
+      ranged_attack: 31
+      magic_attack: -18
+      stab_defence: 46
+      slash_defence: 38
+      crush_defence: 48
+      ranged_defence: 68
+      magic_defence: 44
+      prayer: 3
+    }
+  }
+}
+items {
+  key: 33168
+  value {
+    id: 33168
+    name: "Crystal legs"
+    stat_bonuses {
+      ranged_attack: 18
+      magic_attack: -12
+      stab_defence: 26
+      slash_defence: 21
+      crush_defence: 30
+      ranged_defence: 38
+      magic_defence: 34
+      prayer: 2
+    }
+  }
+}
+items {
+  key: 33170
+  value {
+    id: 33170
+    name: "Crystal helm"
+    stat_bonuses {
+      ranged_attack: 9
+      magic_attack: -10
+      stab_defence: 12
+      slash_defence: 8
+      crush_defence: 14
+      ranged_defence: 18
+      magic_defence: 10
+      prayer: 2
+    }
+  }
+}
+items {
+  key: 33172
+  value {
+    id: 33172
+    name: "Avernic treads (max)"
+    stat_bonuses {
+      stab_attack: 5
+      slash_attack: 5
+      crush_attack: 5
+      ranged_attack: 15
+      magic_attack: 11
+      stab_defence: 21
+      slash_defence: 25
+      crush_defence: 25
+      ranged_defence: 10
+      magic_defence: 10
+      melee_strength: 6
+      ranged_strength: 3
+      magic_damage: 0.2
+    }
+  }
+}
+items {
+  key: 33176
+  value {
+    id: 33176
+    name: "Elidinis\' ward (f)"
+    stat_bonuses {
+      magic_attack: 25
+      stab_defence: 53
+      slash_defence: 55
+      crush_defence: 73
+      ranged_defence: 52
+      magic_defence: 2
+      magic_damage: 0.5
+      prayer: 4
+    }
+  }
+}
+items {
+  key: 33180
+  value {
+    id: 33180
+    name: "Magus ring"
+    stat_bonuses {
+      magic_attack: 15
+      magic_damage: 0.2
+    }
+  }
+}
+items {
+  key: 33186
+  value {
+    id: 33186
+    name: "Dragonfire shield"
+    stat_bonuses {
+      ranged_attack: -5
+      magic_attack: -10
+      stab_defence: 70
+      slash_defence: 75
+      crush_defence: 72
+      ranged_defence: 72
+      magic_defence: 10
+      melee_strength: 7
+    }
+  }
+}
+items {
+  key: 33190
+  value {
+    id: 33190
+    name: "Masori body (f)"
+    stat_bonuses {
+      ranged_attack: 43
+      magic_attack: -4
+      stab_defence: 59
+      slash_defence: 52
+      crush_defence: 64
+      ranged_defence: 60
+      magic_defence: 74
+      ranged_strength: 4
+      prayer: 1
+    }
+  }
+}
+items {
+  key: 33192
+  value {
+    id: 33192
+    name: "Masori chaps (f)"
+    stat_bonuses {
+      ranged_attack: 27
+      magic_attack: -2
+      stab_defence: 35
+      slash_defence: 30
+      crush_defence: 39
+      ranged_defence: 37
+      magic_defence: 46
+      ranged_strength: 2
+      prayer: 1
+    }
+  }
+}
+items {
+  key: 33200
+  value {
+    id: 33200
+    name: "Burning claws"
+    stat_bonuses {
+      stab_attack: 43
+      slash_attack: 54
+      stab_defence: 3
+      slash_defence: 6
+      crush_defence: 1
+      melee_strength: 32
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+      combat_options {
+        name: "Chop"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Slash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Lunge"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33202
+  value {
+    id: 33202
+    name: "Aranea boots"
+    stat_bonuses {
+      ranged_attack: 6
+      magic_attack: 5
+      melee_strength: 4
+      prayer: 1
     }
   }
 }
