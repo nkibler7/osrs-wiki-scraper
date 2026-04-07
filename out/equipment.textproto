@@ -128269,6 +128269,16 @@ items {
   }
 }
 items {
+  key: 33182
+  value {
+    id: 33182
+    name: "Ultor ring"
+    stat_bonuses {
+      melee_strength: 12
+    }
+  }
+}
+items {
   key: 33184
   value {
     id: 33184
