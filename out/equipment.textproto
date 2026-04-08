@@ -85295,6 +85295,100 @@ items {
   }
 }
 items {
+  key: 25615
+  value {
+    id: 25615
+    name: "Heat-proof vessel"
+    stat_bonuses {
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+      combat_options {
+        name: "Punch"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Kick"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 25618
+  value {
+    id: 25618
+    name: "Plain satchel"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 25619
+  value {
+    id: 25619
+    name: "Green satchel"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 25620
+  value {
+    id: 25620
+    name: "Red satchel"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 25621
+  value {
+    id: 25621
+    name: "Black satchel"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 25622
+  value {
+    id: 25622
+    name: "Gold satchel"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 25623
+  value {
+    id: 25623
+    name: "Rune satchel"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 25641
   value {
     id: 25641
