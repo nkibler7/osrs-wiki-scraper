@@ -101630,7 +101630,7 @@ items {
     }
     weapon_details {
       base_attack_speed: 3
-      base_attack_range: 5
+      base_attack_range: 6
       combat_options {
         name: "Accurate"
         modifiers {
