@@ -109111,6 +109111,7 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
       combat_options {
         name: "Pound"
         modifiers {
@@ -115172,6 +115173,7 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
       combat_options {
         name: "Punch"
         modifiers {
@@ -116206,6 +116208,7 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
       combat_options {
         name: "Punch"
         modifiers {
@@ -118754,6 +118757,7 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
       combat_options {
         name: "Punch"
         modifiers {
@@ -123092,6 +123096,7 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
       combat_options {
         name: "Punch"
         modifiers {
@@ -123690,6 +123695,7 @@ items {
     stat_bonuses {
     }
     weapon_details {
+      base_attack_speed: 4
       combat_options {
         name: "Punch"
         modifiers {
