@@ -104804,6 +104804,96 @@ items {
   }
 }
 items {
+  key: 29929
+  value {
+    id: 29929
+    name: "Ram mask"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 29930
+  value {
+    id: 29930
+    name: "Wolf mask"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 29931
+  value {
+    id: 29931
+    name: "Bird mask"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 29932
+  value {
+    id: 29932
+    name: "Jaguar mask"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 29933
+  value {
+    id: 29933
+    name: "Snake mask"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 29934
+  value {
+    id: 29934
+    name: "Ram mask"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 29936
+  value {
+    id: 29936
+    name: "Wolf mask"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 29938
+  value {
+    id: 29938
+    name: "Bird mask"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 29940
+  value {
+    id: 29940
+    name: "Jaguar mask"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 29942
+  value {
+    id: 29942
+    name: "Snake mask"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 29974
   value {
     id: 29974
