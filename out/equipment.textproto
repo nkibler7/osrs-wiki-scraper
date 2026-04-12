@@ -99350,7 +99350,7 @@ items {
       melee_strength: 12
     }
     weapon_details {
-      base_attack_speed: 5
+      base_attack_speed: 7
       base_attack_range: 1
       combat_options {
         name: "Chop"
