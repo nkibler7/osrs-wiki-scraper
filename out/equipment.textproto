@@ -128730,3 +128730,226 @@ items {
     }
   }
 }
+items {
+  key: 33296
+  value {
+    id: 33296
+    name: "Demonic sceptre"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33299
+  value {
+    id: 33299
+    name: "Demonic pacts banner"
+    stat_bonuses {
+    }
+    weapon_details {
+      combat_options {
+        name: "Lunge"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Swipe"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33345
+  value {
+    id: 33345
+    name: "Demonic pacts dragon trophy"
+    stat_bonuses {
+      stab_attack: -100
+      slash_attack: -100
+      crush_attack: -50
+      melee_strength: -10
+    }
+    weapon_details {
+      base_attack_speed: 4
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33347
+  value {
+    id: 33347
+    name: "Demonic pacts rune trophy"
+    stat_bonuses {
+      stab_attack: -100
+      slash_attack: -100
+      crush_attack: -50
+      melee_strength: -10
+    }
+    weapon_details {
+      base_attack_speed: 4
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33349
+  value {
+    id: 33349
+    name: "Demonic pacts adamant trophy"
+    stat_bonuses {
+      stab_attack: -100
+      slash_attack: -100
+      crush_attack: -50
+      melee_strength: -10
+    }
+    weapon_details {
+      base_attack_speed: 4
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33351
+  value {
+    id: 33351
+    name: "Demonic pacts mithril trophy"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33353
+  value {
+    id: 33353
+    name: "Demonic pacts steel trophy"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33355
+  value {
+    id: 33355
+    name: "Demonic pacts iron trophy"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33357
+  value {
+    id: 33357
+    name: "Demonic pacts bronze trophy"
+    stat_bonuses {
+    }
+  }
+}
