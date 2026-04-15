@@ -128731,6 +128731,323 @@ items {
   }
 }
 items {
+  key: 33227
+  value {
+    id: 33227
+    name: "Evil eye"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33229
+  value {
+    id: 33229
+    name: "Transmutation ledger"
+  }
+}
+items {
+  key: 33245
+  value {
+    id: 33245
+    name: "Nature\'s recurve"
+    stat_bonuses {
+      ranged_attack: 95
+      ranged_strength: 4
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 7
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          ranged_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Rapid"
+        modifiers {
+          attack_speed_modifier: -1
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_RAPID
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33249
+  value {
+    id: 33249
+    name: "Fang of the hound"
+    stat_bonuses {
+      stab_attack: 60
+      slash_attack: 60
+      crush_attack: 10
+      magic_attack: 3
+      melee_strength: 20
+    }
+    weapon_details {
+      base_attack_speed: 3
+      base_attack_range: 1
+      combat_options {
+        name: "Stab"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Lunge"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Slash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33251
+  value {
+    id: 33251
+    name: "King\'s barrage"
+    stat_bonuses {
+      ranged_attack: 130
+      stab_defence: 20
+      slash_defence: 20
+      crush_defence: 20
+      ranged_defence: 60
+      magic_defence: 25
+      ranged_strength: 14
+    }
+    weapon_details {
+      base_attack_speed: 6
+      base_attack_range: 9
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          ranged_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Rapid"
+        modifiers {
+          attack_speed_modifier: -1
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_RAPID
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33253
+  value {
+    id: 33253
+    name: "Shadowflame quadrant"
+    stat_bonuses {
+      crush_attack: 60
+      magic_attack: 25
+      crush_defence: 5
+      magic_defence: 17
+      melee_strength: 50
+      magic_damage: 1.5
+    }
+    weapon_details {
+      base_attack_speed: 5
+      base_attack_range: 8
+      combat_options {
+        name: "Bash"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pound"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Focus"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_DEFENSIVE_AUTOCAST
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_AUTOCAST
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33255
+  value {
+    id: 33255
+    name: "Lithic sceptre"
+    stat_bonuses {
+      magic_attack: 25
+      stab_defence: 10
+      slash_defence: 10
+      crush_defence: 10
+      magic_defence: 20
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 7
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+          magic_modifier: 1
+          attack_range_modifier: 2
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33257
+  value {
+    id: 33257
+    name: "Lithic sceptre (uncharged)"
+    stat_bonuses {
+      magic_attack: 25
+      stab_defence: 10
+      slash_defence: 10
+      crush_defence: 10
+      magic_defence: 20
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 7
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+          magic_modifier: 1
+          attack_range_modifier: 2
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
+  }
+}
+items {
   key: 33296
   value {
     id: 33296
