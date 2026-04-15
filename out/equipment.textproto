@@ -129048,6 +129048,33 @@ items {
   }
 }
 items {
+  key: 33260
+  value {
+    id: 33260
+    name: "Demonic hood (t1)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33272
+  value {
+    id: 33272
+    name: "Demonic hood (t2)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33284
+  value {
+    id: 33284
+    name: "Demonic hood (t3)"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 33296
   value {
     id: 33296
