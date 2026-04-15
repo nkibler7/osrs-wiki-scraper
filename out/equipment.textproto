@@ -129057,6 +129057,33 @@ items {
   }
 }
 items {
+  key: 33263
+  value {
+    id: 33263
+    name: "Demonic robe top (t1)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33266
+  value {
+    id: 33266
+    name: "Demonic robe bottom (t1)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33269
+  value {
+    id: 33269
+    name: "Demonic boots (t1)"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 33272
   value {
     id: 33272
@@ -129066,10 +129093,64 @@ items {
   }
 }
 items {
+  key: 33275
+  value {
+    id: 33275
+    name: "Demonic robe top (t2)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33278
+  value {
+    id: 33278
+    name: "Demonic robe bottom (t2)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33281
+  value {
+    id: 33281
+    name: "Demonic boots (t2)"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 33284
   value {
     id: 33284
     name: "Demonic hood (t3)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33287
+  value {
+    id: 33287
+    name: "Demonic robe top (t3)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33290
+  value {
+    id: 33290
+    name: "Demonic robe bottom (t3)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33293
+  value {
+    id: 33293
+    name: "Demonic boots (t3)"
     stat_bonuses {
     }
   }
