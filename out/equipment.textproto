@@ -101613,15 +101613,6 @@ items {
   }
 }
 items {
-  key: 28771
-  value {
-    id: 28771
-    name: "Sage\'s greaves"
-    stat_bonuses {
-    }
-  }
-}
-items {
   key: 28773
   value {
     id: 28773
