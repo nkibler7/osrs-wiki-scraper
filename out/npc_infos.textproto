@@ -858,6 +858,14 @@ npcs {
 npcs {
   name: "Amoxliatl (Echo)"
   hitpoints: 650
+  def: 80
+  mage: 240
+  amagic: 160
+  mbns: 15
+  dstab: 100
+  dslash: 100
+  dcrush: 40
+  dmagic: 100
 }
 npcs {
   ids: 14520
