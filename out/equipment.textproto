@@ -128735,6 +128735,8 @@ items {
   value {
     id: 33229
     name: "Transmutation ledger"
+    stat_bonuses {
+    }
   }
 }
 items {
