@@ -857,6 +857,7 @@ npcs {
 }
 npcs {
   name: "Amoxliatl (Echo)"
+  hitpoints: 650
 }
 npcs {
   ids: 14520
