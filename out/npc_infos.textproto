@@ -4155,6 +4155,11 @@ npcs {
   attributes: "dragon,fiery"
 }
 npcs {
+  ids: 14146
+  ids: 15610
+  name: "Black dragon"
+}
+npcs {
   ids: 15025
   name: "Black Eye Bethel"
   hitpoints: 180
