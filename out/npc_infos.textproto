@@ -10583,6 +10583,15 @@ npcs {
   attributes: "Golem"
 }
 npcs {
+  name: "Dusk (Echo)"
+  hitpoints: 1080
+  att: 345
+  str: 287
+  def: 187
+  mage: 262
+  range: 387
+}
+npcs {
   ids: 423
   name: "Dust devil"
   version: "Smoke Dungeon"
