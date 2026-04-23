@@ -866,7 +866,8 @@ npcs {
   dstab: 100
   dslash: 100
   dcrush: 40
-  dmagic: 100
+  dmagic: 20
+  drange: 40
   attributes: "Spectral"
 }
 npcs {
