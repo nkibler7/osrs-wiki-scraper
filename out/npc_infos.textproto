@@ -856,7 +856,6 @@ npcs {
   attributes: "Spectral"
 }
 npcs {
-  ids: 13685
   name: "Amoxliatl (Echo)"
   hitpoints: 650
   def: 80
