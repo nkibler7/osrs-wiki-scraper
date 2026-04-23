@@ -109834,6 +109834,8 @@ items {
     id: 32398
     name: "Sailors\' amulet (inert)"
     stat_bonuses {
+      magic_attack: -3
+      magic_defence: -1
     }
   }
 }
