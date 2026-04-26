@@ -129308,6 +129308,140 @@ items {
   }
 }
 items {
+  key: 33330
+  value {
+    id: 33330
+    name: "Iban\'s staff"
+    stat_bonuses {
+      stab_attack: 10
+      slash_attack: -1
+      crush_attack: 40
+      magic_attack: 10
+      stab_defence: 2
+      slash_defence: 3
+      crush_defence: 1
+      magic_defence: 10
+      melee_strength: 50
+    }
+    weapon_details {
+      base_attack_speed: 5
+      base_attack_range: 1
+      combat_options {
+        name: "Bash"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pound"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Focus"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_DEFENSIVE_AUTOCAST
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_AUTOCAST
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33332
+  value {
+    id: 33332
+    name: "Iban\'s staff (u) (o)"
+    stat_bonuses {
+      stab_attack: 10
+      slash_attack: -1
+      crush_attack: 40
+      magic_attack: 10
+      stab_defence: 2
+      slash_defence: 3
+      crush_defence: 1
+      magic_defence: 10
+      melee_strength: 50
+    }
+    weapon_details {
+      base_attack_speed: 5
+      base_attack_range: 1
+      combat_options {
+        name: "Bash"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pound"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Focus"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_DEFENSIVE_AUTOCAST
+        }
+      }
+      combat_options {
+        name: "Spell"
+        modifiers {
+          attack_range_modifier: 9
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_AUTOCAST
+        }
+      }
+    }
+  }
+}
+items {
   key: 33335
   value {
     id: 33335
