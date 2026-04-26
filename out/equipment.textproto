@@ -129308,6 +129308,382 @@ items {
   }
 }
 items {
+  key: 33314
+  value {
+    id: 33314
+    name: "Trident of the swamp (o)"
+    stat_bonuses {
+      magic_attack: 25
+      stab_defence: 2
+      slash_defence: 3
+      crush_defence: 1
+      magic_defence: 15
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 7
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+          magic_modifier: 1
+          attack_range_modifier: 2
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33316
+  value {
+    id: 33316
+    name: "Uncharged toxic trident (o)"
+    stat_bonuses {
+      magic_attack: 25
+      stab_defence: 2
+      slash_defence: 3
+      crush_defence: 1
+      magic_defence: 15
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 7
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+          magic_modifier: 1
+          attack_range_modifier: 2
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33318
+  value {
+    id: 33318
+    name: "Trident of the swamp (e) (o)"
+    stat_bonuses {
+      magic_attack: 25
+      stab_defence: 2
+      slash_defence: 3
+      crush_defence: 1
+      magic_defence: 15
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 7
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+          magic_modifier: 1
+          attack_range_modifier: 2
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33320
+  value {
+    id: 33320
+    name: "Uncharged toxic trident (e)"
+    stat_bonuses {
+      magic_attack: 25
+      stab_defence: 2
+      slash_defence: 3
+      crush_defence: 1
+      magic_defence: 15
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 7
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+          magic_modifier: 1
+          attack_range_modifier: 2
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33322
+  value {
+    id: 33322
+    name: "Trident of the seas (o)"
+    stat_bonuses {
+      magic_attack: 25
+      stab_defence: 2
+      slash_defence: 3
+      crush_defence: 1
+      magic_defence: 15
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 7
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+          magic_modifier: 1
+          attack_range_modifier: 2
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33323
+  value {
+    id: 33323
+    name: "Trident of the seas (full) (o)"
+    stat_bonuses {
+      magic_attack: 25
+      stab_defence: 2
+      slash_defence: 3
+      crush_defence: 1
+      magic_defence: 15
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 7
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+          magic_modifier: 1
+          attack_range_modifier: 2
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33326
+  value {
+    id: 33326
+    name: "Trident of the seas (e) (o)"
+    stat_bonuses {
+      magic_attack: 25
+      stab_defence: 2
+      slash_defence: 3
+      crush_defence: 1
+      magic_defence: 15
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 7
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+          magic_modifier: 1
+          attack_range_modifier: 2
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33328
+  value {
+    id: 33328
+    name: "Uncharged trident (e) (o)"
+    stat_bonuses {
+      magic_attack: 25
+      stab_defence: 2
+      slash_defence: 3
+      crush_defence: 1
+      magic_defence: 15
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 7
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+          magic_modifier: 1
+          attack_range_modifier: 2
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
+  }
+}
+items {
   key: 33330
   value {
     id: 33330
@@ -129491,6 +129867,38 @@ items {
           attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
         }
       }
+    }
+  }
+}
+items {
+  key: 33338
+  value {
+    id: 33338
+    name: "Demonic slayer helmet"
+    stat_bonuses {
+      ranged_attack: -2
+      magic_attack: -6
+      stab_defence: 30
+      slash_defence: 32
+      crush_defence: 27
+      ranged_defence: 30
+      magic_defence: -1
+    }
+  }
+}
+items {
+  key: 33340
+  value {
+    id: 33340
+    name: "Demonic slayer helmet"
+    stat_bonuses {
+      ranged_attack: -2
+      magic_attack: -6
+      stab_defence: 30
+      slash_defence: 32
+      crush_defence: 27
+      ranged_defence: 30
+      magic_defence: -1
     }
   }
 }
