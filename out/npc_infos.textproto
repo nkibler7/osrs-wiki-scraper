@@ -40,7 +40,6 @@ npcs {
   dstab: 20
   dslash: 20
   dcrush: 20
-  drange: 15
   attributes: "undead, spectral"
 }
 npcs {
@@ -72,7 +71,6 @@ npcs {
   dslash: 80
   dcrush: 80
   dmagic: 20
-  drange: 180
 }
 npcs {
   ids: 12372
@@ -98,7 +96,6 @@ npcs {
   dstab: 20
   dslash: 20
   dcrush: 20
-  drange: 20
   attributes: "demon"
 }
 npcs {
@@ -114,7 +111,6 @@ npcs {
   dstab: 20
   dslash: 20
   dcrush: 20
-  drange: 20
   attributes: "demon"
 }
 npcs {
@@ -130,7 +126,6 @@ npcs {
   dstab: 20
   dslash: 20
   dcrush: 20
-  drange: 20
   attributes: "demon"
 }
 npcs {
@@ -148,7 +143,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 150
-  drange: 70
 }
 npcs {
   ids: 2584
@@ -165,7 +159,6 @@ npcs {
   dslash: 50
   dcrush: 100
   dmagic: 50
-  drange: 10
 }
 npcs {
   ids: 12393
@@ -183,7 +176,6 @@ npcs {
   dslash: 50
   dcrush: 10
   dmagic: 50
-  drange: 10
 }
 npcs {
   ids: 12366
@@ -212,7 +204,6 @@ npcs {
   dslash: 50
   dcrush: 100
   dmagic: 50
-  drange: 10
 }
 npcs {
   ids: 7533
@@ -257,7 +248,6 @@ npcs {
   dslash: 60
   dcrush: 50
   dmagic: 20
-  drange: 60
   attributes: "demon"
 }
 npcs {
@@ -276,7 +266,6 @@ npcs {
   dslash: 60
   dcrush: 50
   dmagic: 20
-  drange: 60
   attributes: "demon"
 }
 npcs {
@@ -294,7 +283,6 @@ npcs {
   dslash: 60
   dcrush: 50
   dmagic: 20
-  drange: 60
   attributes: "demon"
 }
 npcs {
@@ -312,7 +300,6 @@ npcs {
   dslash: 30
   dcrush: 25
   dmagic: -40
-  drange: 30
   attributes: "demon"
 }
 npcs {
@@ -330,7 +317,6 @@ npcs {
   dslash: 75
   dcrush: 10
   dmagic: 75
-  drange: 75
 }
 npcs {
   ids: 12394
@@ -347,7 +333,6 @@ npcs {
   dslash: 75
   dcrush: 10
   dmagic: 75
-  drange: 75
 }
 npcs {
   ids: 12392
@@ -365,7 +350,6 @@ npcs {
   dslash: 75
   dcrush: 10
   dmagic: 75
-  drange: 75
 }
 npcs {
   ids: 13675
@@ -397,7 +381,6 @@ npcs {
   dslash: -100
   dcrush: -100
   dmagic: -100
-  drange: -100
 }
 npcs {
   ids: 13824
@@ -544,7 +527,6 @@ npcs {
   dslash: 100
   dcrush: 60
   dmagic: 100
-  drange: 100
 }
 npcs {
   ids: 6369
@@ -642,7 +624,6 @@ npcs {
   dslash: 120
   dcrush: 120
   dmagic: 10
-  drange: 60
 }
 npcs {
   ids: 11797
@@ -665,7 +646,6 @@ npcs {
   dslash: 120
   dcrush: 120
   dmagic: 10
-  drange: 60
 }
 npcs {
   ids: 3292
@@ -682,7 +662,6 @@ npcs {
   dslash: 15
   dcrush: 10
   dmagic: -1
-  drange: 12
 }
 npcs {
   ids: 15224
@@ -721,7 +700,6 @@ npcs {
   dslash: 150
   dcrush: 150
   dmagic: 150
-  drange: 45
   attributes: "dragon"
 }
 npcs {
@@ -743,7 +721,6 @@ npcs {
   dslash: 150
   dcrush: 150
   dmagic: 150
-  drange: 45
   attributes: "dragon"
 }
 npcs {
@@ -765,7 +742,6 @@ npcs {
   dslash: 150
   dcrush: 150
   dmagic: 150
-  drange: 45
   attributes: "dragon"
 }
 npcs {
@@ -787,7 +763,6 @@ npcs {
   dslash: 150
   dcrush: 150
   dmagic: 150
-  drange: 45
   attributes: "dragon"
 }
 npcs {
@@ -803,7 +778,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 12092
@@ -866,7 +840,6 @@ npcs {
   dslash: 100
   dcrush: 40
   dmagic: 20
-  drange: 40
   attributes: "Spectral"
 }
 npcs {
@@ -899,7 +872,6 @@ npcs {
   dstab: 40
   dslash: 40
   dmagic: 5
-  drange: 30
 }
 npcs {
   ids: 10666
@@ -916,7 +888,6 @@ npcs {
   dstab: 40
   dslash: 40
   dmagic: 5
-  drange: 30
 }
 npcs {
   ids: 12336
@@ -931,7 +902,6 @@ npcs {
   dslash: 40
   dcrush: 20
   dmagic: 10
-  drange: 50
   attributes: "golem"
 }
 npcs {
@@ -983,7 +953,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 170
-  drange: 120
   attributes: "dragon"
 }
 npcs {
@@ -1000,7 +969,6 @@ npcs {
   dslash: 20
   dcrush: 20
   dmagic: 30
-  drange: 30
 }
 npcs {
   ids: 5563
@@ -1016,7 +984,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
   attributes: "spectral"
 }
 npcs {
@@ -1100,7 +1067,6 @@ npcs {
   dslash: 80
   dcrush: 50
   dmagic: 30
-  drange: 80
 }
 npcs {
   ids: 1061
@@ -1139,7 +1105,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: 400
-  drange: 400
 }
 npcs {
   ids: 2453
@@ -1156,7 +1121,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: 400
-  drange: 400
 }
 npcs {
   ids: 2450
@@ -1173,7 +1137,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: 400
-  drange: 400
 }
 npcs {
   ids: 2451
@@ -1190,7 +1153,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: 400
-  drange: 400
 }
 npcs {
   ids: 2454
@@ -1207,7 +1169,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: 400
-  drange: 400
 }
 npcs {
   ids: 2456
@@ -1224,7 +1185,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: 400
-  drange: 400
 }
 npcs {
   ids: 6470
@@ -1239,7 +1199,6 @@ npcs {
   dslash: 10
   dcrush: 5
   dmagic: 5
-  drange: 10
 }
 npcs {
   ids: 2452
@@ -1256,7 +1215,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: 400
-  drange: 400
 }
 npcs {
   ids: 6438
@@ -1273,7 +1231,6 @@ npcs {
   dslash: 25
   dcrush: 25
   dmagic: 400
-  drange: 400
 }
 npcs {
   ids: 3285
@@ -1288,7 +1245,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 2514
@@ -1393,7 +1349,6 @@ npcs {
   dstab: 30
   dslash: 30
   dcrush: 30
-  drange: 70
 }
 npcs {
   ids: 4198
@@ -1409,7 +1364,6 @@ npcs {
   dslash: 15
   dcrush: 15
   dmagic: 70
-  drange: 70
 }
 npcs {
   ids: 15497
@@ -1500,7 +1454,6 @@ npcs {
   dslash: 30
   dcrush: 20
   dmagic: 20
-  drange: 20
 }
 npcs {
   ids: 11176
@@ -1517,7 +1470,6 @@ npcs {
   dslash: 30
   dcrush: 20
   dmagic: 20
-  drange: 20
 }
 npcs {
   ids: 11726
@@ -1553,7 +1505,6 @@ npcs {
   dslash: 23
   dcrush: 27
   dmagic: 10
-  drange: 19
 }
 npcs {
   ids: 4096
@@ -1569,7 +1520,6 @@ npcs {
   dslash: 50
   dcrush: 49
   dmagic: 18
-  drange: 45
 }
 npcs {
   ids: 8865
@@ -1584,7 +1534,6 @@ npcs {
   dslash: 80
   dcrush: 80
   dmagic: 260
-  drange: 180
 }
 npcs {
   ids: 9248
@@ -1599,7 +1548,6 @@ npcs {
   dslash: 80
   dcrush: 80
   dmagic: 260
-  drange: 180
 }
 npcs {
   ids: 9246
@@ -1614,7 +1562,6 @@ npcs {
   dslash: 80
   dcrush: 80
   dmagic: 260
-  drange: 180
 }
 npcs {
   ids: 6587
@@ -1670,7 +1617,6 @@ npcs {
   range: 1
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -1690,7 +1636,6 @@ npcs {
   range: 72
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -1741,7 +1686,6 @@ npcs {
   range: 1
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -1760,7 +1704,6 @@ npcs {
   range: 72
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -1934,7 +1877,6 @@ npcs {
   dslash: 60
   dcrush: 35
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 6392
@@ -1951,7 +1893,6 @@ npcs {
   dslash: 60
   dcrush: 35
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 6331
@@ -1968,7 +1909,6 @@ npcs {
   dslash: 60
   dcrush: 35
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 11992
@@ -1984,7 +1924,6 @@ npcs {
   dstab: 125
   dslash: 110
   dcrush: 110
-  drange: 40
 }
 npcs {
   ids: 1233
@@ -2009,7 +1948,6 @@ npcs {
   dslash: 80
   dcrush: 80
   dmagic: 20
-  drange: 15
 }
 npcs {
   ids: 1235
@@ -2024,7 +1962,6 @@ npcs {
   dslash: 40
   dcrush: 40
   dmagic: 15
-  drange: 10
 }
 npcs {
   ids: 1230
@@ -2050,7 +1987,6 @@ npcs {
   dslash: 15
   dcrush: 15
   dmagic: 80
-  drange: 20
 }
 npcs {
   ids: 1232
@@ -2066,7 +2002,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: 40
-  drange: 15
 }
 npcs {
   ids: 1227
@@ -2089,7 +2024,6 @@ npcs {
   dslash: 20
   dcrush: 20
   dmagic: 15
-  drange: 80
 }
 npcs {
   ids: 1229
@@ -2103,7 +2037,6 @@ npcs {
   dslash: 15
   dcrush: 15
   dmagic: 10
-  drange: 40
 }
 npcs {
   ids: 12062
@@ -2122,7 +2055,6 @@ npcs {
   dslash: 30
   dcrush: 80
   dmagic: 200
-  drange: 50
 }
 npcs {
   ids: 10940
@@ -2137,7 +2069,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 20
-  drange: 50
 }
 npcs {
   ids: 10941
@@ -2152,7 +2083,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 20
-  drange: 50
 }
 npcs {
   ids: 13514
@@ -2231,7 +2161,6 @@ npcs {
   dslash: 20
   dcrush: 20
   dmagic: 20
-  drange: 20
 }
 npcs {
   ids: 10532
@@ -2247,7 +2176,6 @@ npcs {
   dslash: 20
   dcrush: 20
   dmagic: 20
-  drange: 20
 }
 npcs {
   ids: 3169
@@ -2472,7 +2400,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 50
-  drange: 50
 }
 npcs {
   ids: 11709
@@ -2491,7 +2418,6 @@ npcs {
   dslash: 900
   dcrush: 900
   dmagic: -60
-  drange: 900
 }
 npcs {
   ids: 11712
@@ -2510,7 +2436,6 @@ npcs {
   dslash: 900
   dcrush: 900
   dmagic: -60
-  drange: 900
 }
 npcs {
   ids: 11711
@@ -2529,7 +2454,6 @@ npcs {
   dslash: 900
   dcrush: 900
   dmagic: 900
-  drange: -50
 }
 npcs {
   ids: 11714
@@ -2548,7 +2472,6 @@ npcs {
   dslash: 900
   dcrush: 900
   dmagic: 900
-  drange: -50
 }
 npcs {
   ids: 11715
@@ -2566,7 +2489,6 @@ npcs {
   dslash: 900
   dcrush: 900
   dmagic: 900
-  drange: -50
 }
 npcs {
   ids: 11718
@@ -2598,7 +2520,6 @@ npcs {
   dslash: -50
   dcrush: -50
   dmagic: 900
-  drange: 900
 }
 npcs {
   ids: 11713
@@ -2617,7 +2538,6 @@ npcs {
   dslash: -50
   dcrush: -50
   dmagic: 900
-  drange: 900
 }
 npcs {
   ids: 1871
@@ -2738,7 +2658,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 40
-  drange: 30
   attributes: "dragon"
 }
 npcs {
@@ -2754,7 +2673,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 40
-  drange: 30
   attributes: "dragon"
 }
 npcs {
@@ -2770,7 +2688,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 40
-  drange: 30
   attributes: "dragon"
 }
 npcs {
@@ -2837,7 +2754,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 40
-  drange: 30
   attributes: "Dragon"
 }
 npcs {
@@ -3049,7 +2965,6 @@ npcs {
   dslash: 8
   dcrush: 5
   dmagic: 1
-  drange: 4
 }
 npcs {
   ids: 13283
@@ -3066,7 +2981,6 @@ npcs {
   dslash: 8
   dcrush: 5
   dmagic: 1
-  drange: 4
 }
 npcs {
   ids: 738
@@ -3096,7 +3010,6 @@ npcs {
   dslash: 14
   dcrush: 13
   dmagic: 5
-  drange: 13
 }
 npcs {
   ids: 414
@@ -3143,7 +3056,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: -3
-  drange: 5
 }
 npcs {
   ids: 3056
@@ -3160,7 +3072,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 3059
@@ -3177,7 +3088,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 3060
@@ -3194,7 +3104,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 3061
@@ -3211,7 +3120,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 3064
@@ -3228,7 +3136,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 3065
@@ -3245,7 +3152,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 3066
@@ -3262,7 +3168,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 3067
@@ -3279,7 +3184,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 3070
@@ -3296,7 +3200,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 3071
@@ -3313,7 +3216,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 3068
@@ -3330,7 +3232,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 3055
@@ -3347,7 +3248,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 3057
@@ -3364,7 +3264,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 3058
@@ -3381,7 +3280,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 3062
@@ -3398,7 +3296,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 3069
@@ -3415,7 +3312,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 10988
@@ -3432,7 +3328,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: -3
-  drange: 5
 }
 npcs {
   ids: 10987
@@ -3449,7 +3344,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 10984
@@ -3466,7 +3360,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 10985
@@ -3483,7 +3376,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 10986
@@ -3500,7 +3392,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 10989
@@ -3514,7 +3405,6 @@ npcs {
   dstab: 15
   dslash: 20
   dcrush: 15
-  drange: 10
 }
 npcs {
   ids: 2648
@@ -3529,7 +3419,6 @@ npcs {
   dslash: 5
   dcrush: 30
   dmagic: 5
-  drange: 30
 }
 npcs {
   ids: 600
@@ -3654,7 +3543,6 @@ npcs {
   dslash: 50
   dcrush: 10
   dmagic: 50
-  drange: 10
 }
 npcs {
   ids: 9282
@@ -3807,7 +3695,6 @@ npcs {
   strbns: 20
   dcrush: 10
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 4134
@@ -3821,7 +3708,6 @@ npcs {
   strbns: 20
   dcrush: 10
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 5565
@@ -3837,7 +3723,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
   attributes: "spectral"
 }
 npcs {
@@ -3938,7 +3823,6 @@ npcs {
   strbns: 29
   dstab: 10
   dslash: 10
-  drange: 10
 }
 npcs {
   ids: 1797
@@ -3954,7 +3838,6 @@ npcs {
   strbns: 29
   dstab: 10
   dslash: 10
-  drange: 10
 }
 npcs {
   ids: 5241
@@ -4180,7 +4063,6 @@ npcs {
   dslash: 300
   dcrush: 1
   dmagic: 300
-  drange: 300
   attributes: "Golem"
 }
 npcs {
@@ -4199,7 +4081,6 @@ npcs {
   dslash: 4
   dcrush: 4
   dmagic: 2
-  drange: 3
 }
 npcs {
   ids: 1410
@@ -4217,7 +4098,6 @@ npcs {
   dslash: 4
   dcrush: 4
   dmagic: 2
-  drange: 3
 }
 npcs {
   ids: 1411
@@ -4235,7 +4115,6 @@ npcs {
   dslash: 4
   dcrush: 4
   dmagic: 2
-  drange: 3
 }
 npcs {
   ids: 1412
@@ -4253,7 +4132,6 @@ npcs {
   dslash: 4
   dcrush: 4
   dmagic: 2
-  drange: 3
 }
 npcs {
   ids: 6046
@@ -4270,7 +4148,6 @@ npcs {
   dstab: 40
   dslash: 40
   dcrush: 40
-  drange: 40
 }
 npcs {
   ids: 6047
@@ -4287,7 +4164,6 @@ npcs {
   dstab: 40
   dslash: 40
   dcrush: 40
-  drange: 40
 }
 npcs {
   ids: 6048
@@ -4304,7 +4180,6 @@ npcs {
   dstab: 40
   dslash: 40
   dcrush: 40
-  drange: 40
 }
 npcs {
   ids: 6049
@@ -4321,7 +4196,6 @@ npcs {
   dstab: 40
   dslash: 40
   dcrush: 40
-  drange: 40
 }
 npcs {
   ids: 6050
@@ -4338,7 +4212,6 @@ npcs {
   dstab: 60
   dslash: 60
   dcrush: 60
-  drange: 60
 }
 npcs {
   ids: 6051
@@ -4355,7 +4228,6 @@ npcs {
   dstab: 60
   dslash: 60
   dcrush: 60
-  drange: 60
 }
 npcs {
   ids: 6052
@@ -4373,7 +4245,6 @@ npcs {
   dstab: 60
   dslash: 60
   dcrush: 60
-  drange: 60
 }
 npcs {
   ids: 301
@@ -4427,7 +4298,6 @@ npcs {
   dslash: 76
   dcrush: 70
   dmagic: -11
-  drange: 72
 }
 npcs {
   ids: 11953
@@ -4445,7 +4315,6 @@ npcs {
   dslash: 76
   dcrush: 70
   dmagic: -11
-  drange: 72
 }
 npcs {
   ids: 516
@@ -4463,7 +4332,6 @@ npcs {
   dslash: 76
   dcrush: 70
   dmagic: -11
-  drange: 72
 }
 npcs {
   ids: 11952
@@ -4481,7 +4349,6 @@ npcs {
   dslash: 76
   dcrush: 70
   dmagic: -11
-  drange: 72
 }
 npcs {
   ids: 1545
@@ -4498,7 +4365,6 @@ npcs {
   dslash: 76
   dcrush: 70
   dmagic: -11
-  drange: 72
 }
 npcs {
   ids: 4934
@@ -4517,7 +4383,6 @@ npcs {
   dslash: 76
   dcrush: 70
   dmagic: -11
-  drange: 72
 }
 npcs {
   ids: 4067
@@ -4551,7 +4416,6 @@ npcs {
   dslash: 27
   dcrush: 18
   dmagic: 1000
-  drange: 1000
 }
 npcs {
   ids: 6299
@@ -4569,7 +4433,6 @@ npcs {
   dslash: 27
   dcrush: 18
   dmagic: 1000
-  drange: 1000
 }
 npcs {
   ids: 2849
@@ -4606,7 +4469,6 @@ npcs {
   dslash: -24
   dcrush: -24
   dmagic: -24
-  drange: -24
   attributes: "rat"
 }
 npcs {
@@ -4624,7 +4486,6 @@ npcs {
   dslash: -24
   dcrush: -24
   dmagic: -24
-  drange: -24
   attributes: "rat"
 }
 npcs {
@@ -4641,7 +4502,6 @@ npcs {
   dslash: 16
   dcrush: 7
   dmagic: 12
-  drange: 16
 }
 npcs {
   ids: 8978
@@ -4657,7 +4517,6 @@ npcs {
   dslash: 16
   dcrush: 7
   dmagic: 12
-  drange: 16
 }
 npcs {
   ids: 2645
@@ -4673,7 +4532,6 @@ npcs {
   dslash: 5
   dcrush: 30
   dmagic: 5
-  drange: 50
 }
 npcs {
   ids: 2650
@@ -4689,7 +4547,6 @@ npcs {
   dslash: 5
   dcrush: 30
   dmagic: 5
-  drange: 50
 }
 npcs {
   ids: 13021
@@ -4714,7 +4571,6 @@ npcs {
   dstab: 100
   dcrush: 100
   dmagic: 500
-  drange: 500
 }
 npcs {
   ids: 11293
@@ -4730,7 +4586,6 @@ npcs {
   dslash: 80
   dcrush: 120
   dmagic: 300
-  drange: 55
   attributes: "Demon"
 }
 npcs {
@@ -4747,7 +4602,6 @@ npcs {
   dslash: 80
   dcrush: 120
   dmagic: 300
-  drange: 55
   attributes: "Demon"
 }
 npcs {
@@ -5016,7 +4870,6 @@ npcs {
   dstab: 100
   dslash: 100
   dmagic: 500
-  drange: 500
 }
 npcs {
   ids: 11066
@@ -5054,7 +4907,6 @@ npcs {
   dstab: 5
   dslash: 5
   dmagic: 2
-  drange: 10
   attributes: "Golem"
 }
 npcs {
@@ -5071,7 +4923,6 @@ npcs {
   dstab: 5
   dslash: 5
   dmagic: 2
-  drange: 10
 }
 npcs {
   ids: 2613
@@ -5086,7 +4937,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 3939
@@ -5234,7 +5084,6 @@ npcs {
   dslash: 14
   dcrush: 14
   dmagic: 18
-  drange: 5
 }
 npcs {
   ids: 4107
@@ -5249,7 +5098,6 @@ npcs {
   dslash: -12
   dcrush: -12
   dmagic: -12
-  drange: -12
 }
 npcs {
   ids: 4501
@@ -5275,7 +5123,6 @@ npcs {
   dslash: -12
   dcrush: -12
   dmagic: -12
-  drange: -12
 }
 npcs {
   ids: 270
@@ -5364,7 +5211,6 @@ npcs {
   dslash: 5
   dcrush: 30
   dmagic: 5
-  drange: 50
 }
 npcs {
   ids: 2652
@@ -5380,7 +5226,6 @@ npcs {
   dslash: 5
   dcrush: 30
   dmagic: 5
-  drange: 50
 }
 npcs {
   ids: 7275
@@ -5493,7 +5338,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 15194
@@ -5520,7 +5364,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 3903
@@ -5538,7 +5381,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 6102
@@ -5574,7 +5416,6 @@ npcs {
   dstab: 150
   dslash: 130
   dcrush: 125
-  drange: 50
 }
 npcs {
   ids: 6503
@@ -5589,7 +5430,6 @@ npcs {
   dslash: 104
   dcrush: 175
   dmagic: 900
-  drange: 230
 }
 npcs {
   ids: 11993
@@ -5605,7 +5445,6 @@ npcs {
   dslash: 128
   dcrush: -10
   dmagic: 198
-  drange: 211
   attributes: "undead"
 }
 npcs {
@@ -5622,7 +5461,6 @@ npcs {
   dslash: 128
   dcrush: -10
   dmagic: 198
-  drange: 211
   attributes: "undead"
 }
 npcs {
@@ -5855,7 +5693,6 @@ npcs {
   dslash: 10
   dcrush: 5
   dmagic: 5
-  drange: 10
 }
 npcs {
   ids: 407
@@ -5871,7 +5708,6 @@ npcs {
   dslash: 10
   dcrush: 5
   dmagic: 5
-  drange: 10
 }
 npcs {
   ids: 408
@@ -5887,7 +5723,6 @@ npcs {
   dslash: 10
   dcrush: 5
   dmagic: 5
-  drange: 10
 }
 npcs {
   ids: 409
@@ -5903,7 +5738,6 @@ npcs {
   dslash: 10
   dcrush: 5
   dmagic: 5
-  drange: 10
 }
 npcs {
   ids: 13800
@@ -5919,7 +5753,6 @@ npcs {
   dslash: 10
   dcrush: 5
   dmagic: 5
-  drange: 10
 }
 npcs {
   ids: 13801
@@ -5935,7 +5768,6 @@ npcs {
   dslash: 10
   dcrush: 5
   dmagic: 5
-  drange: 10
 }
 npcs {
   ids: 6434
@@ -5995,7 +5827,6 @@ npcs {
   dslash: 15
   dcrush: 19
   dmagic: -3
-  drange: 12
 }
 npcs {
   ids: 5334
@@ -6011,7 +5842,6 @@ npcs {
   dslash: 16
   dcrush: 19
   dmagic: -3
-  drange: 12
 }
 npcs {
   ids: 5330
@@ -6167,7 +5997,6 @@ npcs {
   mage: 120
   range: 1
   dmagic: -63
-  drange: 100
 }
 npcs {
   ids: 492
@@ -6180,7 +6009,6 @@ npcs {
   mage: 120
   range: 1
   dmagic: -63
-  drange: 100
 }
 npcs {
   ids: 7424
@@ -6194,7 +6022,6 @@ npcs {
   dstab: 5
   dslash: 15
   dcrush: 15
-  drange: 5
 }
 npcs {
   ids: 480
@@ -6219,7 +6046,6 @@ npcs {
   dslash: -12
   dcrush: -12
   dmagic: -12
-  drange: -12
 }
 npcs {
   ids: 5862
@@ -6258,7 +6084,6 @@ npcs {
   dslash: 100
   dcrush: 25
   dmagic: 100
-  drange: 100
   attributes: "Demon"
 }
 npcs {
@@ -6278,7 +6103,6 @@ npcs {
   dslash: 100
   dcrush: 25
   dmagic: 100
-  drange: 100
   attributes: "Demon"
 }
 npcs {
@@ -6298,7 +6122,6 @@ npcs {
   dslash: 160
   dcrush: 160
   dmagic: 340
-  drange: 5
   attributes: "kalphite"
 }
 npcs {
@@ -6326,7 +6149,6 @@ npcs {
   dslash: 17
   dcrush: 14
   dmagic: -4
-  drange: 14
 }
 npcs {
   ids: 291
@@ -6343,7 +6165,6 @@ npcs {
   dslash: 34
   dcrush: 25
   dmagic: 10
-  drange: 35
 }
 npcs {
   ids: 2054
@@ -6358,7 +6179,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 70
-  drange: 70
 }
 npcs {
   ids: 6505
@@ -6373,7 +6193,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 70
-  drange: 70
 }
 npcs {
   ids: 6619
@@ -6405,7 +6224,6 @@ npcs {
   dstab: 5
   dslash: 5
   dmagic: 2
-  drange: 10
   attributes: "golem"
 }
 npcs {
@@ -6422,7 +6240,6 @@ npcs {
   dstab: 5
   dslash: 5
   dmagic: 2
-  drange: 10
 }
 npcs {
   ids: 6716
@@ -6769,7 +6586,6 @@ npcs {
   dslash: 200
   dcrush: 200
   dmagic: 200
-  drange: 20
   attributes: "dragon"
 }
 npcs {
@@ -6806,7 +6622,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 100
-  drange: 100
 }
 npcs {
   ids: 12445
@@ -6825,7 +6640,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 100
-  drange: 100
 }
 npcs {
   ids: 12445
@@ -6844,7 +6658,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 100
-  drange: 100
 }
 npcs {
   ids: 6493
@@ -6862,7 +6675,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 100
-  drange: 100
 }
 npcs {
   ids: 2920
@@ -6878,7 +6690,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 1068
@@ -7048,7 +6859,6 @@ npcs {
   dslash: 20
   dcrush: 20
   dmagic: 20
-  drange: 20
 }
 npcs {
   ids: 9040
@@ -7263,7 +7073,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 6340
@@ -7281,7 +7090,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 2792
@@ -7299,7 +7107,6 @@ npcs {
   dslash: -26
   dcrush: -26
   dmagic: -26
-  drange: -26
 }
 npcs {
   ids: 2794
@@ -7317,7 +7124,6 @@ npcs {
   dslash: -26
   dcrush: -26
   dmagic: -26
-  drange: -26
 }
 npcs {
   ids: 2801
@@ -7335,7 +7141,6 @@ npcs {
   dslash: -26
   dcrush: -26
   dmagic: -26
-  drange: -26
 }
 npcs {
   ids: 4822
@@ -7503,7 +7308,6 @@ npcs {
   dslash: 5
   dcrush: 30
   dmagic: 250
-  drange: 250
 }
 npcs {
   ids: 12369
@@ -7529,7 +7333,6 @@ npcs {
   dslash: 12
   dcrush: 22
   dmagic: 10
-  drange: 20
 }
 npcs {
   ids: 11582
@@ -7545,7 +7348,6 @@ npcs {
   dslash: 12
   dcrush: 22
   dmagic: 10
-  drange: 20
 }
 npcs {
   ids: 4184
@@ -7561,7 +7363,6 @@ npcs {
   dslash: 12
   dcrush: 22
   dmagic: 10
-  drange: 20
 }
 npcs {
   ids: 11705
@@ -7577,7 +7378,6 @@ npcs {
   dslash: 350
   dcrush: 350
   dmagic: 5
-  drange: 150
 }
 npcs {
   ids: 11285
@@ -7593,7 +7393,6 @@ npcs {
   dslash: 25
   dcrush: 100
   dmagic: 150
-  drange: 50
 }
 npcs {
   ids: 7388
@@ -7630,7 +7429,6 @@ npcs {
   dslash: 20
   dcrush: 10
   dmagic: 17
-  drange: 20
 }
 npcs {
   ids: 9028
@@ -7699,7 +7497,6 @@ npcs {
   dslash: 20
   dcrush: 20
   dmagic: 20
-  drange: 20
 }
 npcs {
   ids: 9026
@@ -7759,7 +7556,6 @@ npcs {
   dslash: 5
   dcrush: 5
   dmagic: 5
-  drange: 5
 }
 npcs {
   ids: 3400
@@ -7783,7 +7579,6 @@ npcs {
   dslash: -10
   dcrush: -10
   dmagic: -10
-  drange: -10
 }
 npcs {
   ids: 6368
@@ -7799,7 +7594,6 @@ npcs {
   dslash: -10
   dcrush: -10
   dmagic: -10
-  drange: -10
 }
 npcs {
   ids: 6307
@@ -7815,7 +7609,6 @@ npcs {
   dslash: -10
   dcrush: -10
   dmagic: -10
-  drange: -10
 }
 npcs {
   ids: 12918
@@ -7831,7 +7624,6 @@ npcs {
   dslash: 20
   dcrush: 30
   dmagic: 10
-  drange: 20
 }
 npcs {
   ids: 12919
@@ -7847,7 +7639,6 @@ npcs {
   dslash: 20
   dcrush: 30
   dmagic: 10
-  drange: 20
 }
 npcs {
   ids: 12920
@@ -7863,7 +7654,6 @@ npcs {
   dslash: 20
   dcrush: 30
   dmagic: 10
-  drange: 20
 }
 npcs {
   ids: 12921
@@ -7879,7 +7669,6 @@ npcs {
   dslash: 20
   dcrush: 30
   dmagic: 10
-  drange: 20
 }
 npcs {
   ids: 12922
@@ -7895,7 +7684,6 @@ npcs {
   dslash: 20
   dcrush: 30
   dmagic: 10
-  drange: 20
 }
 npcs {
   ids: 12923
@@ -7911,7 +7699,6 @@ npcs {
   dslash: 20
   dcrush: 30
   dmagic: 10
-  drange: 20
 }
 npcs {
   ids: 11717
@@ -7929,7 +7716,6 @@ npcs {
   dslash: 900
   dcrush: 900
   dmagic: -60
-  drange: -50
 }
 npcs {
   ids: 12957
@@ -8054,7 +7840,6 @@ npcs {
   dslash: 25
   dcrush: 40
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 6391
@@ -8070,7 +7855,6 @@ npcs {
   dslash: 25
   dcrush: 40
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 6330
@@ -8086,7 +7870,6 @@ npcs {
   dslash: 25
   dcrush: 40
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 15167
@@ -8128,7 +7911,6 @@ npcs {
   mage: 1
   range: 1
   dmagic: 50
-  drange: 50
 }
 npcs {
   ids: 7259
@@ -8152,7 +7934,6 @@ npcs {
   mage: 1
   range: 1
   dmagic: 50
-  drange: 50
 }
 npcs {
   ids: 140
@@ -8169,7 +7950,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 50
-  drange: 50
 }
 npcs {
   ids: 976
@@ -8199,7 +7979,6 @@ npcs {
   dslash: 10
   dcrush: 90
   dmagic: 200
-  drange: 150
 }
 npcs {
   ids: 3185
@@ -8218,7 +7997,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 50
-  drange: 50
 }
 npcs {
   ids: 2264
@@ -8251,7 +8029,6 @@ npcs {
   dslash: 150
   dcrush: 150
   dmagic: 50
-  drange: 50
 }
 npcs {
   ids: 6361
@@ -8272,7 +8049,6 @@ npcs {
   dslash: 150
   dcrush: 150
   dmagic: 50
-  drange: 50
 }
 npcs {
   ids: 6300
@@ -8293,7 +8069,6 @@ npcs {
   dslash: 150
   dcrush: 150
   dmagic: 50
-  drange: 50
 }
 npcs {
   ids: 2266
@@ -8307,7 +8082,6 @@ npcs {
   dslash: 255
   dcrush: 255
   dmagic: 255
-  drange: 10
 }
 npcs {
   ids: 12442
@@ -8322,7 +8096,6 @@ npcs {
   dslash: 255
   dcrush: 255
   dmagic: 255
-  drange: 10
 }
 npcs {
   ids: 12442
@@ -8337,7 +8110,6 @@ npcs {
   dslash: 255
   dcrush: 255
   dmagic: 255
-  drange: 10
 }
 npcs {
   ids: 12442
@@ -8352,7 +8124,6 @@ npcs {
   dslash: 255
   dcrush: 255
   dmagic: 255
-  drange: 10
 }
 npcs {
   ids: 6497
@@ -8366,7 +8137,6 @@ npcs {
   dslash: 255
   dcrush: 255
   dmagic: 255
-  drange: 10
 }
 npcs {
   ids: 2267
@@ -8380,7 +8150,6 @@ npcs {
   dslash: 255
   dcrush: 255
   dmagic: 10
-  drange: 255
 }
 npcs {
   ids: 12439
@@ -8395,7 +8164,6 @@ npcs {
   dslash: 255
   dcrush: 255
   dmagic: 10
-  drange: 255
 }
 npcs {
   ids: 12439
@@ -8410,7 +8178,6 @@ npcs {
   dslash: 255
   dcrush: 255
   dmagic: 10
-  drange: 255
 }
 npcs {
   ids: 12439
@@ -8425,7 +8192,6 @@ npcs {
   dslash: 255
   dcrush: 255
   dmagic: 10
-  drange: 255
 }
 npcs {
   ids: 6498
@@ -8439,7 +8205,6 @@ npcs {
   dslash: 255
   dcrush: 255
   dmagic: 10
-  drange: 255
 }
 npcs {
   ids: 3184
@@ -8464,7 +8229,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: 255
-  drange: 550
 }
 npcs {
   ids: 12441
@@ -8480,7 +8244,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: 255
-  drange: 550
 }
 npcs {
   ids: 12441
@@ -8496,7 +8259,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: 255
-  drange: 550
 }
 npcs {
   ids: 12441
@@ -8512,7 +8274,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: 255
-  drange: 550
 }
 npcs {
   ids: 6496
@@ -8527,7 +8288,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: 255
-  drange: 550
 }
 npcs {
   ids: 9561
@@ -8547,7 +8307,6 @@ npcs {
   dslash: 30
   dcrush: 30
   dmagic: 30
-  drange: 30
   attributes: "vampyre3"
 }
 npcs {
@@ -8565,7 +8324,6 @@ npcs {
   dslash: 60
   dcrush: 60
   dmagic: 60
-  drange: 60
 }
 npcs {
   ids: 683
@@ -8582,7 +8340,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 80
-  drange: 120
 }
 npcs {
   ids: 6346
@@ -8599,7 +8356,6 @@ npcs {
   dslash: 60
   dcrush: 60
   dmagic: 60
-  drange: 60
 }
 npcs {
   ids: 6347
@@ -8616,7 +8372,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 80
-  drange: 120
 }
 npcs {
   ids: 1134
@@ -8633,7 +8388,6 @@ npcs {
   dslash: 60
   dcrush: 60
   dmagic: 60
-  drange: 60
 }
 npcs {
   ids: 1135
@@ -8650,7 +8404,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 80
-  drange: 120
 }
 npcs {
   ids: 7296
@@ -8677,7 +8430,6 @@ npcs {
   dslash: 40
   dcrush: 100
   dmagic: 90
-  drange: 100
 }
 npcs {
   ids: 320
@@ -8692,7 +8444,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: -5
-  drange: 10
 }
 npcs {
   ids: 531
@@ -8861,7 +8612,6 @@ npcs {
   dslash: 16
   dcrush: 7
   dmagic: 12
-  drange: 16
 }
 npcs {
   ids: 10
@@ -8875,7 +8625,6 @@ npcs {
   dstab: 20
   dslash: 20
   dcrush: 20
-  drange: 20
 }
 npcs {
   ids: 509
@@ -9111,7 +8860,6 @@ npcs {
   dslash: 20
   dcrush: 50
   dmagic: 300
-  drange: 300
 }
 npcs {
   ids: 7513
@@ -9129,7 +8877,6 @@ npcs {
   dslash: 200
   dcrush: 200
   dmagic: -60
-  drange: 200
 }
 npcs {
   ids: 12450
@@ -9147,7 +8894,6 @@ npcs {
   dslash: 200
   dcrush: 200
   dmagic: -60
-  drange: 200
 }
 npcs {
   ids: 12450
@@ -9165,7 +8911,6 @@ npcs {
   dslash: 200
   dcrush: 200
   dmagic: -60
-  drange: 200
 }
 npcs {
   ids: 12450
@@ -9183,7 +8928,6 @@ npcs {
   dslash: 200
   dcrush: 200
   dmagic: -60
-  drange: 200
 }
 npcs {
   ids: 459
@@ -9199,7 +8943,6 @@ npcs {
   dstab: 5
   dslash: 15
   dcrush: 15
-  drange: 5
 }
 npcs {
   ids: 460
@@ -9214,7 +8957,6 @@ npcs {
   dstab: 5
   dslash: 15
   dcrush: 15
-  drange: 5
 }
 npcs {
   ids: 461
@@ -9229,7 +8971,6 @@ npcs {
   dstab: 5
   dslash: 15
   dcrush: 15
-  drange: 5
 }
 npcs {
   ids: 4649
@@ -9405,7 +9146,6 @@ npcs {
   dslash: 250
   dcrush: 244
   dmagic: -11
-  drange: 249
   attributes: "spectral"
 }
 npcs {
@@ -9425,7 +9165,6 @@ npcs {
   dslash: 250
   dcrush: 244
   dmagic: -11
-  drange: 249
   attributes: "spectral"
 }
 npcs {
@@ -9445,7 +9184,6 @@ npcs {
   dslash: 250
   dcrush: 244
   dmagic: -11
-  drange: 249
   attributes: "spectral"
 }
 npcs {
@@ -10155,7 +9893,6 @@ npcs {
   dstab: 60
   dslash: 30
   dmagic: 10
-  drange: 100
 }
 npcs {
   ids: 15164
@@ -10201,7 +9938,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 1838
@@ -10219,7 +9955,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 1839
@@ -10237,7 +9972,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 2001
@@ -10254,7 +9988,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 5258
@@ -10495,7 +10228,6 @@ npcs {
   dslash: 134
   dcrush: 162
   dmagic: 69
-  drange: 88
 }
 npcs {
   ids: 13662
@@ -10514,7 +10246,6 @@ npcs {
   dslash: 134
   dcrush: 162
   dmagic: 69
-  drange: 88
 }
 npcs {
   ids: 13662
@@ -10533,7 +10264,6 @@ npcs {
   dslash: 134
   dcrush: 162
   dmagic: 69
-  drange: 88
 }
 npcs {
   ids: 7851
@@ -10649,7 +10379,6 @@ npcs {
   attbns: 5
   strbns: 7
   dmagic: 5
-  drange: 10
 }
 npcs {
   ids: 295
@@ -10692,7 +10421,6 @@ npcs {
   attbns: 5
   strbns: 7
   dmagic: 5
-  drange: 10
 }
 npcs {
   ids: 1402
@@ -10707,7 +10435,6 @@ npcs {
   attbns: 5
   strbns: 7
   dmagic: 5
-  drange: 10
 }
 npcs {
   ids: 1403
@@ -10724,7 +10451,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: 10
-  drange: 20
 }
 npcs {
   ids: 1404
@@ -10739,7 +10465,6 @@ npcs {
   attbns: 5
   strbns: 7
   dmagic: 5
-  drange: 10
 }
 npcs {
   ids: 1405
@@ -10754,7 +10479,6 @@ npcs {
   attbns: 5
   strbns: 7
   dmagic: 5
-  drange: 10
 }
 npcs {
   ids: 1406
@@ -10769,7 +10493,6 @@ npcs {
   attbns: 5
   strbns: 7
   dmagic: 5
-  drange: 10
 }
 npcs {
   ids: 1407
@@ -10784,7 +10507,6 @@ npcs {
   attbns: 5
   strbns: 7
   dmagic: 5
-  drange: 10
 }
 npcs {
   ids: 1408
@@ -10799,7 +10521,6 @@ npcs {
   attbns: 5
   strbns: 7
   dmagic: 5
-  drange: 10
 }
 npcs {
   ids: 8496
@@ -10814,7 +10535,6 @@ npcs {
   attbns: 5
   strbns: 7
   dmagic: 5
-  drange: 10
 }
 npcs {
   ids: 1354
@@ -10828,7 +10548,6 @@ npcs {
   range: 1
   dstab: 7
   dslash: 7
-  drange: 7
 }
 npcs {
   ids: 1355
@@ -10842,7 +10561,6 @@ npcs {
   range: 1
   dstab: 7
   dslash: 7
-  drange: 7
 }
 npcs {
   ids: 1356
@@ -10856,7 +10574,6 @@ npcs {
   range: 1
   dstab: 7
   dslash: 7
-  drange: 7
 }
 npcs {
   ids: 4095
@@ -10871,7 +10588,6 @@ npcs {
   dslash: -12
   dcrush: -12
   dmagic: -12
-  drange: -12
 }
 npcs {
   ids: 15214
@@ -10916,7 +10632,6 @@ npcs {
   dslash: 40
   dcrush: 20
   dmagic: 10
-  drange: 30
 }
 npcs {
   ids: 3328
@@ -11000,7 +10715,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 500
-  drange: 500
 }
 npcs {
   ids: 13012
@@ -11016,7 +10730,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 500
-  drange: 500
 }
 npcs {
   ids: 2618
@@ -11031,7 +10744,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 3675
@@ -11133,7 +10845,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 60
-  drange: 70
 }
 npcs {
   ids: 5296
@@ -11150,7 +10861,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 60
-  drange: 70
 }
 npcs {
   ids: 5293
@@ -11165,7 +10875,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 60
-  drange: 50
 }
 npcs {
   ids: 5294
@@ -11180,7 +10889,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 60
-  drange: 50
 }
 npcs {
   ids: 11753
@@ -11200,7 +10908,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: -30
-  drange: 70
 }
 npcs {
   ids: 11755
@@ -11219,7 +10926,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: -30
-  drange: 70
 }
 npcs {
   ids: 11761
@@ -11240,7 +10946,6 @@ npcs {
   dslash: 40
   dcrush: 20
   dmagic: 20
-  drange: 20
 }
 npcs {
   ids: 11763
@@ -11261,7 +10966,6 @@ npcs {
   dslash: 40
   dcrush: 20
   dmagic: 20
-  drange: 20
 }
 npcs {
   ids: 11761
@@ -11282,7 +10986,6 @@ npcs {
   dslash: 40
   dcrush: 20
   dmagic: 20
-  drange: 20
 }
 npcs {
   ids: 15552
@@ -11540,7 +11243,6 @@ npcs {
   dslash: 40
   dcrush: 40
   dmagic: 30
-  drange: 20
 }
 npcs {
   ids: 6118
@@ -11556,7 +11258,6 @@ npcs {
   dslash: 40
   dcrush: 40
   dmagic: 30
-  drange: 20
 }
 npcs {
   ids: 13139
@@ -11573,7 +11274,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 13732
@@ -11864,7 +11564,6 @@ npcs {
   dslash: 30
   dcrush: 20
   dmagic: 5
-  drange: 30
 }
 npcs {
   ids: 13775
@@ -11881,7 +11580,6 @@ npcs {
   dslash: 30
   dcrush: 20
   dmagic: 5
-  drange: 30
 }
 npcs {
   ids: 13738
@@ -11988,7 +11686,6 @@ npcs {
   dslash: 15
   dcrush: 10
   dmagic: 15
-  drange: 5
 }
 npcs {
   ids: 13778
@@ -12005,7 +11702,6 @@ npcs {
   dslash: 15
   dcrush: 10
   dmagic: 15
-  drange: 5
 }
 npcs {
   ids: 14268
@@ -12105,7 +11801,6 @@ npcs {
   range: 150
   mbns: 40
   dmagic: -15
-  drange: 270
 }
 npcs {
   ids: 5535
@@ -12119,7 +11814,6 @@ npcs {
   range: 150
   mbns: 40
   dmagic: -15
-  drange: 270
 }
 npcs {
   ids: 5564
@@ -12135,7 +11829,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
   attributes: "spectral"
 }
 npcs {
@@ -12163,7 +11856,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 40
-  drange: 30
 }
 npcs {
   ids: 6594
@@ -12178,7 +11870,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 40
-  drange: 30
 }
 npcs {
   ids: 4927
@@ -12195,7 +11886,6 @@ npcs {
   dslash: -26
   dcrush: -26
   dmagic: -26
-  drange: -26
 }
 npcs {
   ids: 8847
@@ -12216,7 +11906,6 @@ npcs {
   dslash: 40
   dcrush: 20
   dmagic: 30
-  drange: 120
 }
 npcs {
   ids: 9249
@@ -12234,7 +11923,6 @@ npcs {
   dslash: 40
   dcrush: 20
   dmagic: 30
-  drange: 120
 }
 npcs {
   ids: 9247
@@ -12254,7 +11942,6 @@ npcs {
   dslash: 40
   dcrush: 20
   dmagic: 30
-  drange: 120
 }
 npcs {
   ids: 12047
@@ -12269,7 +11956,6 @@ npcs {
   dstab: 70
   dslash: 60
   dcrush: 40
-  drange: 40
 }
 npcs {
   ids: 6739
@@ -12299,16 +11985,6 @@ npcs {
   hitpoints: 240
   def: 126
   mage: 400
-  range: 1
-}
-npcs {
-  ids: 1870
-  name: "Evil Chicken"
-  hitpoints: 120
-  att: 1
-  str: 1
-  def: 126
-  mage: 200
   range: 1
 }
 npcs {
@@ -12678,7 +12354,6 @@ npcs {
   dslash: 15
   dcrush: 10
   dmagic: 15
-  drange: 15
 }
 npcs {
   ids: 1365
@@ -12774,7 +12449,6 @@ npcs {
   dslash: 37
   dcrush: 35
   dmagic: -7
-  drange: 35
 }
 npcs {
   ids: 1556
@@ -12820,7 +12494,6 @@ npcs {
   dslash: 50
   dcrush: 5
   dmagic: 5
-  drange: 50
 }
 npcs {
   ids: 6370
@@ -12866,7 +12539,6 @@ npcs {
   dstab: 18
   dslash: 18
   dcrush: 18
-  drange: 18
   attributes: "demon"
 }
 npcs {
@@ -12883,7 +12555,6 @@ npcs {
   dslash: 18
   dcrush: 18
   dmagic: 150
-  drange: 18
   attributes: "demon"
 }
 npcs {
@@ -12900,7 +12571,6 @@ npcs {
   dslash: 18
   dcrush: 18
   dmagic: 150
-  drange: 18
   attributes: "demon"
 }
 npcs {
@@ -12917,7 +12587,6 @@ npcs {
   dslash: 18
   dcrush: 18
   dmagic: 150
-  drange: 18
   attributes: "demon"
 }
 npcs {
@@ -12934,7 +12603,6 @@ npcs {
   dstab: 5
   dslash: 5
   dmagic: 2
-  drange: 10
   attributes: "Golem"
 }
 npcs {
@@ -12951,7 +12619,6 @@ npcs {
   dstab: 5
   dslash: 5
   dmagic: 2
-  drange: 10
 }
 npcs {
   ids: 2498
@@ -12967,7 +12634,6 @@ npcs {
   dslash: 15
   dcrush: 15
   dmagic: 15
-  drange: 15
 }
 npcs {
   ids: 2499
@@ -12983,7 +12649,6 @@ npcs {
   dslash: 15
   dcrush: 15
   dmagic: 15
-  drange: 15
 }
 npcs {
   ids: 2500
@@ -12999,7 +12664,6 @@ npcs {
   dslash: 15
   dcrush: 15
   dmagic: 15
-  drange: 15
 }
 npcs {
   ids: 3165
@@ -13123,7 +12787,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: 10
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -13143,7 +12806,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: 10
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -13161,7 +12823,6 @@ npcs {
   dslash: 18
   dcrush: 14
   dmagic: -4
-  drange: 15
 }
 npcs {
   ids: 4774
@@ -13178,7 +12839,6 @@ npcs {
   dslash: 18
   dcrush: 14
   dmagic: -4
-  drange: 15
 }
 npcs {
   ids: 4775
@@ -13195,7 +12855,6 @@ npcs {
   dslash: 18
   dcrush: 14
   dmagic: -4
-  drange: 15
 }
 npcs {
   ids: 4776
@@ -13212,7 +12871,6 @@ npcs {
   dslash: 18
   dcrush: 14
   dmagic: -4
-  drange: 15
 }
 npcs {
   ids: 3901
@@ -13229,7 +12887,6 @@ npcs {
   dslash: 30
   dcrush: 30
   dmagic: 30
-  drange: 30
 }
 npcs {
   ids: 8917
@@ -13250,7 +12907,6 @@ npcs {
   dslash: 220
   dcrush: 320
   dmagic: 10
-  drange: 480
 }
 npcs {
   ids: 3938
@@ -13278,7 +12934,6 @@ npcs {
   arange: 150
   rngbns: 10
   dmagic: 75
-  drange: 50
 }
 npcs {
   ids: 12816
@@ -13483,7 +13138,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 150
-  drange: 50
 }
 npcs {
   ids: 4483
@@ -13501,7 +13155,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: 10
-  drange: 10
 }
 npcs {
   ids: 2625
@@ -13516,7 +13169,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 8094
@@ -13539,7 +13191,6 @@ npcs {
   dslash: 140
   dcrush: 140
   dmagic: 280
-  drange: 86
   attributes: "dragon,fiery"
 }
 npcs {
@@ -13561,7 +13212,6 @@ npcs {
   dslash: 140
   dcrush: 140
   dmagic: 280
-  drange: 86
   attributes: "dragon,fiery"
 }
 npcs {
@@ -13583,7 +13233,6 @@ npcs {
   dslash: 140
   dcrush: 140
   dmagic: 280
-  drange: 86
   attributes: "dragon,fiery"
 }
 npcs {
@@ -13607,7 +13256,6 @@ npcs {
   dslash: 140
   dcrush: 140
   dmagic: 280
-  drange: 86
   attributes: "dragon,fiery"
 }
 npcs {
@@ -13769,7 +13417,6 @@ npcs {
   dslash: 150
   dcrush: 150
   dmagic: 50
-  drange: 50
 }
 npcs {
   ids: 6373
@@ -13790,7 +13437,6 @@ npcs {
   dslash: 150
   dcrush: 150
   dmagic: 50
-  drange: 50
 }
 npcs {
   ids: 6312
@@ -13811,7 +13457,6 @@ npcs {
   dslash: 150
   dcrush: 150
   dmagic: 50
-  drange: 50
 }
 npcs {
   ids: 2215
@@ -13830,7 +13475,6 @@ npcs {
   dslash: 90
   dcrush: 90
   dmagic: 298
-  drange: 90
 }
 npcs {
   ids: 12444
@@ -13850,7 +13494,6 @@ npcs {
   dslash: 90
   dcrush: 90
   dmagic: 201
-  drange: 90
 }
 npcs {
   ids: 12444
@@ -13870,7 +13513,6 @@ npcs {
   dslash: 90
   dcrush: 90
   dmagic: 201
-  drange: 90
 }
 npcs {
   ids: 12444
@@ -13890,7 +13532,6 @@ npcs {
   dslash: 90
   dcrush: 90
   dmagic: 201
-  drange: 90
 }
 npcs {
   ids: 6494
@@ -13909,7 +13550,6 @@ npcs {
   dslash: 90
   dcrush: 90
   dmagic: 298
-  drange: 90
 }
 npcs {
   ids: 1213
@@ -13942,7 +13582,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 946
@@ -14096,7 +13735,6 @@ npcs {
   dslash: 5
   dcrush: 5
   dmagic: -5
-  drange: 5
   attributes: "undead, spectral"
 }
 npcs {
@@ -14113,7 +13751,6 @@ npcs {
   dslash: 5
   dcrush: 5
   dmagic: -5
-  drange: 5
   attributes: "undead, spectral"
 }
 npcs {
@@ -14130,7 +13767,6 @@ npcs {
   dslash: 5
   dcrush: 5
   dmagic: -5
-  drange: 5
   attributes: "undead, spectral"
 }
 npcs {
@@ -14147,7 +13783,6 @@ npcs {
   dslash: 5
   dcrush: 5
   dmagic: -5
-  drange: 5
   attributes: "undead, spectral"
 }
 npcs {
@@ -14164,7 +13799,6 @@ npcs {
   dslash: 5
   dcrush: 5
   dmagic: -5
-  drange: 5
   attributes: "undead, spectral"
 }
 npcs {
@@ -14231,7 +13865,6 @@ npcs {
   dslash: 10
   dcrush: 12
   dmagic: 10
-  drange: 8
 }
 npcs {
   ids: 6824
@@ -14247,7 +13880,6 @@ npcs {
   dslash: 10
   dcrush: 12
   dmagic: 10
-  drange: 8
 }
 npcs {
   ids: 4504
@@ -14262,7 +13894,6 @@ npcs {
   dslash: 10
   dcrush: 12
   dmagic: 10
-  drange: 8
 }
 npcs {
   ids: 3329
@@ -14300,7 +13931,6 @@ npcs {
   dslash: 20
   dcrush: 10
   dmagic: 17
-  drange: 20
 }
 npcs {
   ids: 8700
@@ -14340,7 +13970,6 @@ npcs {
   dslash: -15
   dcrush: -15
   dmagic: -15
-  drange: -15
 }
 npcs {
   ids: 12452
@@ -14358,7 +13987,6 @@ npcs {
   dslash: -15
   dcrush: -15
   dmagic: -15
-  drange: -15
 }
 npcs {
   ids: 12452
@@ -14376,7 +14004,6 @@ npcs {
   dslash: -15
   dcrush: -15
   dmagic: -15
-  drange: -15
 }
 npcs {
   ids: 4799
@@ -14405,7 +14032,6 @@ npcs {
   dstab: 5
   dslash: 15
   dcrush: 5
-  drange: 5
 }
 npcs {
   ids: 15034
@@ -14530,7 +14156,6 @@ npcs {
   dstab: -100
   dslash: -100
   dcrush: -100
-  drange: -100
 }
 npcs {
   ids: 3314
@@ -14545,7 +14170,6 @@ npcs {
   dstab: -100
   dslash: -100
   dcrush: -100
-  drange: -100
 }
 npcs {
   ids: 3315
@@ -14560,7 +14184,6 @@ npcs {
   dstab: -100
   dslash: -100
   dcrush: -100
-  drange: -100
 }
 npcs {
   ids: 9483
@@ -14575,7 +14198,6 @@ npcs {
   dstab: -100
   dslash: -100
   dcrush: -100
-  drange: -100
 }
 npcs {
   ids: 763
@@ -14746,7 +14368,6 @@ npcs {
   strbns: 15
   dstab: 50
   dslash: 40
-  drange: 40
   attributes: "undead"
 }
 npcs {
@@ -14871,7 +14492,6 @@ npcs {
   dslash: 100
   dcrush: 25
   dmagic: 150
-  drange: 50
 }
 npcs {
   ids: 5129
@@ -14982,7 +14602,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 6094
@@ -15000,7 +14619,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 6095
@@ -15018,7 +14636,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 6096
@@ -15036,7 +14653,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 5968
@@ -15055,7 +14671,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 5970
@@ -15074,7 +14689,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 6097
@@ -15089,7 +14703,6 @@ npcs {
   dslash: -30
   dcrush: -30
   dmagic: -30
-  drange: -30
 }
 npcs {
   ids: 6077
@@ -15107,7 +14720,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 6078
@@ -15125,7 +14737,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 6079
@@ -15143,7 +14754,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 6098
@@ -15158,7 +14768,6 @@ npcs {
   dslash: -30
   dcrush: -30
   dmagic: -30
-  drange: -30
 }
 npcs {
   ids: 6081
@@ -15188,7 +14797,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 6099
@@ -15203,7 +14811,6 @@ npcs {
   dslash: -30
   dcrush: -30
   dmagic: -30
-  drange: -30
 }
 npcs {
   ids: 4973
@@ -15223,7 +14830,6 @@ npcs {
   dslash: 4
   dcrush: 5
   dmagic: 2
-  drange: 4
 }
 npcs {
   ids: 5966
@@ -15243,7 +14849,6 @@ npcs {
   dslash: 4
   dcrush: 5
   dmagic: 2
-  drange: 4
 }
 npcs {
   ids: 6086
@@ -15261,7 +14866,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 6087
@@ -15279,7 +14883,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 1795
@@ -15296,7 +14899,6 @@ npcs {
   strbns: 29
   dstab: 10
   dslash: 10
-  drange: 10
 }
 npcs {
   ids: 1792
@@ -15313,7 +14915,6 @@ npcs {
   strbns: 29
   dstab: 10
   dslash: 10
-  drange: 10
 }
 npcs {
   ids: 3028
@@ -15549,7 +15150,6 @@ npcs {
   dslash: 6
   dcrush: 8
   dmagic: 4
-  drange: 4
 }
 npcs {
   ids: 2487
@@ -15579,7 +15179,6 @@ npcs {
   dslash: 16
   dcrush: 18
   dmagic: 14
-  drange: 14
 }
 npcs {
   ids: 3353
@@ -15704,7 +15303,6 @@ npcs {
   dslash: 200
   dcrush: 200
   dmagic: 200
-  drange: 50
   attributes: "dragon,xerician"
 }
 npcs {
@@ -15722,7 +15320,6 @@ npcs {
   dslash: 200
   dcrush: 200
   dmagic: 200
-  drange: 50
   attributes: "dragon,xerician"
 }
 npcs {
@@ -15740,7 +15337,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 200
-  drange: 200
   attributes: "dragon,xerician"
 }
 npcs {
@@ -15758,7 +15354,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 200
-  drange: 200
   attributes: "dragon,xerician"
 }
 npcs {
@@ -15776,7 +15371,6 @@ npcs {
   dslash: 200
   dcrush: 200
   dmagic: 50
-  drange: 200
   attributes: "dragon,xerician"
 }
 npcs {
@@ -15794,7 +15388,6 @@ npcs {
   dslash: 200
   dcrush: 200
   dmagic: 50
-  drange: 200
   attributes: "dragon,xerician"
 }
 npcs {
@@ -15819,7 +15412,6 @@ npcs {
   dstab: 50
   dslash: 50
   dcrush: 50
-  drange: 50
   attributes: "demon"
 }
 npcs {
@@ -15835,7 +15427,6 @@ npcs {
   dstab: 50
   dslash: 50
   dcrush: 50
-  drange: 50
   attributes: "demon"
 }
 npcs {
@@ -15851,7 +15442,6 @@ npcs {
   dstab: 50
   dslash: 50
   dcrush: 50
-  drange: 50
   attributes: "demon"
 }
 npcs {
@@ -15867,7 +15457,6 @@ npcs {
   dstab: 50
   dslash: 50
   dcrush: 50
-  drange: 50
   attributes: "demon"
 }
 npcs {
@@ -15969,7 +15558,6 @@ npcs {
   dstab: 50
   dslash: 50
   dcrush: 50
-  drange: 50
   attributes: "demon"
 }
 npcs {
@@ -15985,7 +15573,6 @@ npcs {
   dstab: 50
   dslash: 50
   dcrush: 50
-  drange: 50
   attributes: "demon"
 }
 npcs {
@@ -16001,7 +15588,6 @@ npcs {
   dslash: 101
   dcrush: 15
   dmagic: 156
-  drange: 184
   attributes: "undead"
 }
 npcs {
@@ -16017,7 +15603,6 @@ npcs {
   dslash: 163
   dcrush: 20
   dmagic: 210
-  drange: 275
   attributes: "undead"
 }
 npcs {
@@ -16072,7 +15657,6 @@ npcs {
   dslash: 1
   dcrush: 300
   dmagic: 300
-  drange: 300
   attributes: "Golem"
 }
 npcs {
@@ -16089,7 +15673,6 @@ npcs {
   dslash: 15
   dcrush: 50
   dmagic: 50
-  drange: 35
 }
 npcs {
   ids: 4919
@@ -16175,7 +15758,6 @@ npcs {
   dslash: 14
   dcrush: 14
   dmagic: 18
-  drange: 5
 }
 npcs {
   ids: 8194
@@ -16230,7 +15812,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 11922
@@ -16248,7 +15829,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 11923
@@ -16266,7 +15846,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 11924
@@ -16284,7 +15863,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 3269
@@ -16302,7 +15880,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 11942
@@ -16320,7 +15897,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 11943
@@ -16338,7 +15914,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 11944
@@ -16356,7 +15931,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 3270
@@ -16375,7 +15949,6 @@ npcs {
   dslash: 17
   dcrush: 14
   dmagic: -4
-  drange: 15
 }
 npcs {
   ids: 11945
@@ -16394,7 +15967,6 @@ npcs {
   dslash: 17
   dcrush: 14
   dmagic: -4
-  drange: 15
 }
 npcs {
   ids: 3271
@@ -16412,7 +15984,6 @@ npcs {
   dslash: 5
   dcrush: 5
   dmagic: -4
-  drange: 5
 }
 npcs {
   ids: 11946
@@ -16430,7 +16001,6 @@ npcs {
   dslash: 5
   dcrush: 5
   dmagic: -4
-  drange: 5
 }
 npcs {
   ids: 11947
@@ -16448,7 +16018,6 @@ npcs {
   dslash: 5
   dcrush: 5
   dmagic: -4
-  drange: 5
 }
 npcs {
   ids: 3273
@@ -16466,7 +16035,6 @@ npcs {
   dslash: 5
   dcrush: 5
   dmagic: -4
-  drange: 5
 }
 npcs {
   ids: 3274
@@ -16484,7 +16052,6 @@ npcs {
   dslash: 5
   dcrush: 5
   dmagic: -4
-  drange: 5
 }
 npcs {
   ids: 11911
@@ -16502,7 +16069,6 @@ npcs {
   dslash: 30
   dcrush: 25
   dmagic: -9
-  drange: 25
 }
 npcs {
   ids: 11912
@@ -16520,7 +16086,6 @@ npcs {
   dslash: 30
   dcrush: 25
   dmagic: -9
-  drange: 25
 }
 npcs {
   ids: 11913
@@ -16538,7 +16103,6 @@ npcs {
   dslash: 30
   dcrush: 25
   dmagic: -9
-  drange: 25
 }
 npcs {
   ids: 11914
@@ -16556,7 +16120,6 @@ npcs {
   dslash: 30
   dcrush: 25
   dmagic: -9
-  drange: 25
 }
 npcs {
   ids: 11915
@@ -16574,7 +16137,6 @@ npcs {
   dslash: 30
   dcrush: 25
   dmagic: -9
-  drange: 25
 }
 npcs {
   ids: 11916
@@ -16592,7 +16154,6 @@ npcs {
   dslash: 30
   dcrush: 25
   dmagic: -9
-  drange: 25
 }
 npcs {
   ids: 11917
@@ -16610,7 +16171,6 @@ npcs {
   dslash: 30
   dcrush: 25
   dmagic: -9
-  drange: 25
 }
 npcs {
   ids: 5418
@@ -16628,7 +16188,6 @@ npcs {
   dslash: 14
   dcrush: 19
   dmagic: 4
-  drange: 16
 }
 npcs {
   ids: 11937
@@ -16646,7 +16205,6 @@ npcs {
   dslash: 14
   dcrush: 19
   dmagic: 4
-  drange: 16
 }
 npcs {
   ids: 11938
@@ -16664,7 +16222,6 @@ npcs {
   dslash: 14
   dcrush: 19
   dmagic: 4
-  drange: 16
 }
 npcs {
   ids: 11939
@@ -16682,7 +16239,6 @@ npcs {
   dslash: 14
   dcrush: 19
   dmagic: 4
-  drange: 16
 }
 npcs {
   ids: 13986
@@ -16700,7 +16256,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 13987
@@ -16718,7 +16273,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 13988
@@ -16736,7 +16290,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 13989
@@ -16754,7 +16307,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 13990
@@ -16772,7 +16324,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 13991
@@ -16790,7 +16341,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 13992
@@ -16808,7 +16358,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 13993
@@ -16826,7 +16375,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 13994
@@ -16844,7 +16392,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 13995
@@ -16862,7 +16409,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 5141
@@ -16890,7 +16436,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 14664
@@ -16908,7 +16453,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 14665
@@ -16928,7 +16472,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 14666
@@ -16948,7 +16491,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 14667
@@ -16966,7 +16508,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 14668
@@ -16984,7 +16525,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 14669
@@ -17004,7 +16544,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 14670
@@ -17024,7 +16563,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 4099
@@ -17041,7 +16579,6 @@ npcs {
   dslash: 48
   dcrush: 50
   dmagic: -4
-  drange: 38
 }
 npcs {
   ids: 4100
@@ -17058,7 +16595,6 @@ npcs {
   dslash: 48
   dcrush: 50
   dmagic: -4
-  drange: 38
 }
 npcs {
   ids: 2316
@@ -17074,7 +16610,6 @@ npcs {
   dslash: 16
   dcrush: 19
   dmagic: -3
-  drange: 12
 }
 npcs {
   ids: 2317
@@ -17090,7 +16625,6 @@ npcs {
   dslash: 15
   dcrush: 19
   dmagic: -3
-  drange: 12
 }
 npcs {
   ids: 3361
@@ -17107,7 +16641,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 11210
@@ -17124,7 +16657,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 6574
@@ -17141,7 +16673,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 11199
@@ -17158,7 +16689,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 6575
@@ -17175,7 +16705,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 6576
@@ -17192,7 +16721,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 6579
@@ -17209,7 +16737,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 11200
@@ -17226,7 +16753,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 6580
@@ -17243,7 +16769,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 11201
@@ -17260,7 +16785,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 6581
@@ -17277,7 +16801,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 11202
@@ -17294,7 +16817,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 6582
@@ -17311,7 +16833,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 11203
@@ -17328,7 +16849,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 6583
@@ -17345,7 +16865,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 11204
@@ -17362,7 +16881,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 6698
@@ -17379,7 +16897,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 11205
@@ -17396,7 +16913,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 6699
@@ -17413,7 +16929,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 11206
@@ -17430,7 +16945,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 6700
@@ -17447,7 +16961,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 11207
@@ -17464,7 +16977,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 6701
@@ -17481,7 +16993,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 11208
@@ -17498,7 +17009,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 6702
@@ -17515,7 +17025,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 11209
@@ -17532,7 +17041,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 6595
@@ -17549,7 +17057,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 11211
@@ -17566,7 +17073,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 12460
@@ -17583,7 +17089,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 12461
@@ -17600,7 +17105,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 15566
@@ -17617,7 +17121,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 15568
@@ -17634,7 +17137,6 @@ npcs {
   dstab: 8
   dslash: 9
   dcrush: 7
-  drange: 8
 }
 npcs {
   ids: 995
@@ -17647,7 +17149,6 @@ npcs {
   range: 1
   dstab: 7
   dslash: 7
-  drange: 7
 }
 npcs {
   ids: 4660
@@ -17665,7 +17166,6 @@ npcs {
   dslash: 15
   dcrush: 19
   dmagic: -3
-  drange: 19
 }
 npcs {
   ids: 4665
@@ -17681,7 +17181,6 @@ npcs {
   dslash: 15
   dcrush: 19
   dmagic: -3
-  drange: 19
 }
 npcs {
   ids: 4664
@@ -17697,7 +17196,6 @@ npcs {
   dslash: 15
   dcrush: 19
   dmagic: -3
-  drange: 19
 }
 npcs {
   ids: 4661
@@ -17715,7 +17213,6 @@ npcs {
   dslash: 15
   dcrush: 19
   dmagic: -3
-  drange: 19
 }
 npcs {
   ids: 4662
@@ -17732,7 +17229,6 @@ npcs {
   dslash: 15
   dcrush: 19
   dmagic: -3
-  drange: 19
 }
 npcs {
   ids: 3283
@@ -17749,7 +17245,6 @@ npcs {
   dslash: 5
   dcrush: 5
   dmagic: -4
-  drange: 5
 }
 npcs {
   ids: 5185
@@ -17770,7 +17265,6 @@ npcs {
   dslash: 4
   dcrush: 4
   dmagic: 2
-  drange: 3
 }
 npcs {
   ids: 4522
@@ -17787,7 +17281,6 @@ npcs {
   range: 1
   dstab: 7
   dslash: 7
-  drange: 7
 }
 npcs {
   ids: 397
@@ -17806,7 +17299,6 @@ npcs {
   dslash: 5
   dcrush: 5
   dmagic: -4
-  drange: 5
 }
 npcs {
   ids: 399
@@ -17825,7 +17317,6 @@ npcs {
   dslash: 5
   dcrush: 5
   dmagic: -4
-  drange: 5
 }
 npcs {
   ids: 14887
@@ -17895,7 +17386,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 1547
@@ -17913,7 +17403,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 1548
@@ -17931,7 +17420,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 1549
@@ -17949,7 +17437,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 1550
@@ -17967,7 +17454,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 9182
@@ -17982,7 +17468,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 60
-  drange: 50
 }
 npcs {
   ids: 9183
@@ -17997,7 +17482,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 60
-  drange: 50
 }
 npcs {
   ids: 9184
@@ -18012,7 +17496,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 60
-  drange: 50
 }
 npcs {
   ids: 9185
@@ -18027,7 +17510,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 60
-  drange: 50
 }
 npcs {
   ids: 9186
@@ -18043,7 +17525,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 60
-  drange: 50
 }
 npcs {
   ids: 9187
@@ -18058,7 +17539,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 60
-  drange: 50
 }
 npcs {
   ids: 9188
@@ -18073,7 +17553,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 60
-  drange: 50
 }
 npcs {
   ids: 6056
@@ -18091,7 +17570,6 @@ npcs {
   dslash: 23
   dcrush: 27
   dmagic: 10
-  drange: 19
 }
 npcs {
   ids: 11092
@@ -18115,7 +17593,6 @@ npcs {
   dslash: 14
   dcrush: 19
   dmagic: 4
-  drange: 16
 }
 npcs {
   ids: 14716
@@ -18133,7 +17610,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 14717
@@ -18151,7 +17627,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 14718
@@ -18171,7 +17646,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 14719
@@ -18191,7 +17665,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 14720
@@ -18209,7 +17682,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 14721
@@ -18227,7 +17699,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 14722
@@ -18247,7 +17718,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 14723
@@ -18267,7 +17737,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 13100
@@ -18285,7 +17754,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 13101
@@ -18303,7 +17771,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 13102
@@ -18321,7 +17788,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 13103
@@ -18339,7 +17805,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 13104
@@ -18357,7 +17822,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 13105
@@ -18375,7 +17839,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 13106
@@ -18393,7 +17856,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 13107
@@ -18411,7 +17873,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 13108
@@ -18429,7 +17890,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 13109
@@ -18447,7 +17907,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 1027
@@ -18464,7 +17923,6 @@ npcs {
   dslash: 8
   dcrush: 5
   dmagic: 1
-  drange: 4
 }
 npcs {
   ids: 114
@@ -18547,7 +18005,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 20
-  drange: 150
   attributes: "dragon"
 }
 npcs {
@@ -18566,7 +18023,6 @@ npcs {
   dslash: 55
   dcrush: 50
   dmagic: -12
-  drange: 51
 }
 npcs {
   ids: 3446
@@ -18584,7 +18040,6 @@ npcs {
   dslash: 55
   dcrush: 50
   dmagic: -12
-  drange: 51
 }
 npcs {
   ids: 299
@@ -18601,7 +18056,6 @@ npcs {
   dslash: 14
   dcrush: 10
   dmagic: -1
-  drange: 11
 }
 npcs {
   ids: 1674
@@ -18630,7 +18084,6 @@ npcs {
   range: 30
   dstab: 5
   dslash: 5
-  drange: 5
 }
 npcs {
   ids: 2536
@@ -18644,7 +18097,6 @@ npcs {
   range: 1
   dstab: 5
   dslash: 5
-  drange: 5
 }
 npcs {
   ids: 2537
@@ -18658,7 +18110,6 @@ npcs {
   range: 1
   dstab: 6
   dslash: 6
-  drange: 6
 }
 npcs {
   ids: 2538
@@ -18672,7 +18123,6 @@ npcs {
   range: 1
   dstab: 7
   dslash: 7
-  drange: 7
 }
 npcs {
   ids: 5158
@@ -18684,7 +18134,6 @@ npcs {
   amagic: 8
   dstab: 5
   dslash: 5
-  drange: 5
 }
 npcs {
   ids: 3678
@@ -18718,7 +18167,6 @@ npcs {
   dslash: 5
   dcrush: 10
   dmagic: 5
-  drange: 10
 }
 npcs {
   ids: 3625
@@ -18779,7 +18227,6 @@ npcs {
   dslash: 16
   dcrush: 18
   dmagic: -12
-  drange: 27
 }
 npcs {
   ids: 11529
@@ -18793,7 +18240,6 @@ npcs {
   dstab: 10
   dslash: 30
   dcrush: 30
-  drange: 50
 }
 npcs {
   ids: 4248
@@ -18808,7 +18254,6 @@ npcs {
   dslash: 14
   dcrush: 15
   dmagic: 4
-  drange: 9
 }
 npcs {
   ids: 10506
@@ -18823,7 +18268,6 @@ npcs {
   dslash: 18
   dcrush: 18
   dmagic: 6
-  drange: 52
   attributes: "undead"
 }
 npcs {
@@ -18924,7 +18368,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 14852
@@ -18969,7 +18412,6 @@ npcs {
   dslash: 84
   dcrush: 76
   dmagic: -10
-  drange: 79
 }
 npcs {
   ids: 11934
@@ -18987,7 +18429,6 @@ npcs {
   dslash: 84
   dcrush: 76
   dmagic: -10
-  drange: 79
 }
 npcs {
   ids: 11935
@@ -19005,7 +18446,6 @@ npcs {
   dslash: 84
   dcrush: 76
   dmagic: -10
-  drange: 79
 }
 npcs {
   ids: 8583
@@ -19022,7 +18462,6 @@ npcs {
   dslash: 20
   dcrush: 60
   dmagic: 80
-  drange: 80
 }
 npcs {
   ids: 11192
@@ -19039,7 +18478,6 @@ npcs {
   dslash: 20
   dcrush: 60
   dmagic: 80
-  drange: 80
 }
 npcs {
   ids: 518
@@ -19427,7 +18865,6 @@ npcs {
   dslash: 20
   dcrush: 20
   dmagic: 80
-  drange: 80
 }
 npcs {
   ids: 9455
@@ -19443,7 +18880,6 @@ npcs {
   dslash: 20
   dcrush: 20
   dmagic: 80
-  drange: 80
 }
 npcs {
   ids: 8609
@@ -19473,7 +18909,6 @@ npcs {
   dslash: -12
   dcrush: -12
   dmagic: -12
-  drange: -12
 }
 npcs {
   ids: 15553
@@ -19694,7 +19129,6 @@ npcs {
   dslash: 40
   dcrush: 20
   dmagic: 10
-  drange: 30
 }
 npcs {
   ids: 3022
@@ -19710,7 +19144,6 @@ npcs {
   dslash: 17
   dcrush: 12
   dmagic: 13
-  drange: 13
 }
 npcs {
   ids: 10722
@@ -19726,7 +19159,6 @@ npcs {
   dslash: 17
   dcrush: 12
   dmagic: 13
-  drange: 13
 }
 npcs {
   ids: 13798
@@ -19742,7 +19174,6 @@ npcs {
   dslash: 17
   dcrush: 12
   dmagic: 13
-  drange: 13
 }
 npcs {
   ids: 650
@@ -19881,7 +19312,6 @@ npcs {
   dslash: 45
   dcrush: 45
   dmagic: 2000
-  drange: 2000
 }
 npcs {
   ids: 6356
@@ -19899,7 +19329,6 @@ npcs {
   dslash: 45
   dcrush: 45
   dmagic: 2000
-  drange: 2000
 }
 npcs {
   ids: 6294
@@ -19917,7 +19346,6 @@ npcs {
   dslash: 45
   dcrush: 45
   dmagic: 2000
-  drange: 2000
 }
 npcs {
   ids: 5829
@@ -20199,7 +19627,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 443
@@ -20228,7 +19655,6 @@ npcs {
   dstab: 18
   dslash: 18
   dcrush: 18
-  drange: 18
   attributes: "demon"
 }
 npcs {
@@ -20279,7 +19705,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 60
-  drange: 70
 }
 npcs {
   ids: 3428
@@ -20296,7 +19721,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 60
-  drange: 70
 }
 npcs {
   ids: 3429
@@ -20312,7 +19736,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 60
-  drange: 50
 }
 npcs {
   ids: 9502
@@ -20328,7 +19751,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 60
-  drange: 50
 }
 npcs {
   ids: 2622
@@ -20343,7 +19765,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 272
@@ -20390,7 +19811,6 @@ npcs {
   dslash: 31
   dcrush: 29
   dmagic: -1
-  drange: 29
   attributes: "spectral"
 }
 npcs {
@@ -20448,7 +19868,6 @@ npcs {
   dslash: 30
   dcrush: 30
   dmagic: 15
-  drange: 45
 }
 npcs {
   ids: 13660
@@ -20465,7 +19884,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 100
-  drange: 50
 }
 npcs {
   ids: 13660
@@ -20482,7 +19900,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 100
-  drange: 50
 }
 npcs {
   ids: 13660
@@ -20499,7 +19916,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 100
-  drange: 50
 }
 npcs {
   ids: 4276
@@ -20610,7 +20026,6 @@ npcs {
   dslash: 25
   dcrush: 25
   dmagic: 25
-  drange: 25
 }
 npcs {
   ids: 7696
@@ -20650,7 +20065,6 @@ npcs {
   range: 120
   arange: 25
   rngbns: 25
-  drange: 25
 }
 npcs {
   ids: 7697
@@ -20666,7 +20080,6 @@ npcs {
   dslash: 65
   dcrush: 65
   dmagic: 30
-  drange: 50
 }
 npcs {
   ids: 12455
@@ -20683,7 +20096,6 @@ npcs {
   dslash: 65
   dcrush: 65
   dmagic: 30
-  drange: 50
 }
 npcs {
   ids: 12455
@@ -20700,7 +20112,6 @@ npcs {
   dslash: 65
   dcrush: 65
   dmagic: 30
-  drange: 50
 }
 npcs {
   ids: 12455
@@ -20717,7 +20128,6 @@ npcs {
   dslash: 65
   dcrush: 65
   dmagic: 30
-  drange: 50
 }
 npcs {
   ids: 7708
@@ -20742,7 +20152,6 @@ npcs {
   dslash: 30
   dcrush: 30
   dmagic: -20
-  drange: 45
 }
 npcs {
   ids: 7691
@@ -20757,7 +20166,6 @@ npcs {
   dslash: -20
   dcrush: -20
   dmagic: -20
-  drange: -20
 }
 npcs {
   ids: 7698
@@ -20814,7 +20222,6 @@ npcs {
   dslash: 15
   dcrush: 15
   dmagic: 20
-  drange: 30
 }
 npcs {
   ids: 3282
@@ -20829,7 +20236,6 @@ npcs {
   dslash: -10
   dcrush: -10
   dmagic: -10
-  drange: -10
 }
 npcs {
   ids: 437
@@ -20978,7 +20384,6 @@ npcs {
   dslash: 200
   dcrush: 200
   dmagic: 300
-  drange: 150
 }
 npcs {
   ids: 12353
@@ -20995,7 +20400,6 @@ npcs {
   dslash: 200
   dcrush: 200
   dmagic: 300
-  drange: 150
 }
 npcs {
   ids: 2094
@@ -21059,7 +20463,6 @@ npcs {
   dslash: 50
   dcrush: 10
   dmagic: 50
-  drange: 50
 }
 npcs {
   ids: 2616
@@ -21074,7 +20477,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 4863
@@ -21121,7 +20523,6 @@ npcs {
   dslash: 40
   dcrush: 40
   dmagic: 600
-  drange: 600
   attributes: "demon"
 }
 npcs {
@@ -21241,7 +20642,6 @@ npcs {
   dslash: 20
   dcrush: 10
   dmagic: 17
-  drange: 20
 }
 npcs {
   ids: 5243
@@ -21282,7 +20682,6 @@ npcs {
   dslash: 200
   dcrush: 200
   dmagic: -60
-  drange: 200
 }
 npcs {
   ids: 12449
@@ -21301,7 +20700,6 @@ npcs {
   dslash: 200
   dcrush: 200
   dmagic: -60
-  drange: 200
 }
 npcs {
   ids: 12449
@@ -21320,7 +20718,6 @@ npcs {
   dslash: 200
   dcrush: 200
   dmagic: -60
-  drange: 200
 }
 npcs {
   ids: 12449
@@ -21339,7 +20736,6 @@ npcs {
   dslash: 200
   dcrush: 200
   dmagic: -60
-  drange: 200
 }
 npcs {
   ids: 14702
@@ -21389,7 +20785,6 @@ npcs {
   dslash: 80
   dcrush: 80
   dmagic: 130
-  drange: 80
 }
 npcs {
   ids: 12446
@@ -21407,7 +20802,6 @@ npcs {
   dslash: 80
   dcrush: 80
   dmagic: 130
-  drange: 80
 }
 npcs {
   ids: 12446
@@ -21425,7 +20819,6 @@ npcs {
   dslash: 80
   dcrush: 80
   dmagic: 130
-  drange: 80
 }
 npcs {
   ids: 6495
@@ -21442,7 +20835,6 @@ npcs {
   dslash: 80
   dcrush: 80
   dmagic: 130
-  drange: 80
   attributes: "demon"
 }
 npcs {
@@ -21507,7 +20899,6 @@ npcs {
   dslash: 50
   dcrush: 10
   dmagic: 100
-  drange: 100
   attributes: "kalphite"
 }
 npcs {
@@ -21525,7 +20916,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 10
-  drange: 10
   attributes: "kalphite"
 }
 npcs {
@@ -21542,7 +20932,6 @@ npcs {
   dslash: 50
   dcrush: 10
   dmagic: 100
-  drange: 100
   attributes: "kalphite"
 }
 npcs {
@@ -21559,7 +20948,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 10
-  drange: 10
   attributes: "kalphite"
 }
 npcs {
@@ -21607,7 +20995,6 @@ npcs {
   dslash: 25
   dcrush: 5
   dmagic: 50
-  drange: 50
 }
 npcs {
   ids: 955
@@ -21639,7 +21026,6 @@ npcs {
   dslash: 17
   dcrush: 12
   dmagic: 13
-  drange: 13
 }
 npcs {
   ids: 3458
@@ -21703,7 +21089,6 @@ npcs {
   dslash: 150
   dcrush: 150
   dmagic: 150
-  drange: 150
 }
 npcs {
   ids: 6371
@@ -21721,7 +21106,6 @@ npcs {
   dslash: 150
   dcrush: 150
   dmagic: 150
-  drange: 150
 }
 npcs {
   ids: 6310
@@ -21739,7 +21123,6 @@ npcs {
   dslash: 150
   dcrush: 150
   dmagic: 150
-  drange: 150
 }
 npcs {
   name: "Karamjan tiger shark"
@@ -21782,7 +21165,6 @@ npcs {
   dslash: 30
   dcrush: 30
   dmagic: 250
-  drange: 50
 }
 npcs {
   ids: 12331
@@ -21802,7 +21184,6 @@ npcs {
   dslash: 30
   dcrush: 30
   dmagic: 250
-  drange: 50
   attributes: "spectral"
 }
 npcs {
@@ -21899,7 +21280,6 @@ npcs {
   dslash: 30
   dcrush: 80
   dmagic: 200
-  drange: 70
   attributes: "spectral"
 }
 npcs {
@@ -21916,7 +21296,6 @@ npcs {
   dslash: 30
   dcrush: 80
   dmagic: 200
-  drange: 70
   attributes: "spectral"
 }
 npcs {
@@ -22031,7 +21410,6 @@ npcs {
   dstab: 5
   dslash: 15
   dcrush: 15
-  drange: 5
 }
 npcs {
   ids: 4969
@@ -22050,7 +21428,6 @@ npcs {
   dslash: 34
   dcrush: 29
   dmagic: -7
-  drange: -33
 }
 npcs {
   ids: 4970
@@ -22069,7 +21446,6 @@ npcs {
   dslash: 25
   dcrush: 22
   dmagic: -7
-  drange: -25
 }
 npcs {
   ids: 7621
@@ -22119,7 +21495,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: 20
-  drange: -10
 }
 npcs {
   ids: 469
@@ -22136,7 +21511,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: 20
-  drange: -10
 }
 npcs {
   ids: 239
@@ -22214,7 +21588,6 @@ npcs {
   dslash: 90
   dcrush: 90
   dmagic: 80
-  drange: 70
   attributes: "dragon,fiery"
 }
 npcs {
@@ -22299,7 +21672,6 @@ npcs {
   dstab: 5
   dslash: 15
   dcrush: 15
-  drange: 5
 }
 npcs {
   ids: 3297
@@ -22317,7 +21689,6 @@ npcs {
   dslash: 40
   dcrush: 36
   dmagic: -11
-  drange: 36
 }
 npcs {
   ids: 11936
@@ -22335,7 +21706,6 @@ npcs {
   dslash: 40
   dcrush: 36
   dmagic: -11
-  drange: 36
 }
 npcs {
   ids: 8854
@@ -22353,7 +21723,6 @@ npcs {
   dslash: 40
   dcrush: 36
   dmagic: -11
-  drange: 36
 }
 npcs {
   ids: 11902
@@ -22371,7 +21740,6 @@ npcs {
   dslash: 40
   dcrush: 36
   dmagic: -11
-  drange: 36
 }
 npcs {
   ids: 8851
@@ -22387,7 +21755,6 @@ npcs {
   dslash: 25
   dcrush: 25
   dmagic: 15
-  drange: 5
 }
 npcs {
   ids: 8852
@@ -22403,7 +21770,6 @@ npcs {
   dslash: 40
   dcrush: 40
   dmagic: 30
-  drange: 20
 }
 npcs {
   ids: 3300
@@ -22430,7 +21796,6 @@ npcs {
   dstab: 12
   dslash: 14
   dcrush: 13
-  drange: 13
 }
 npcs {
   ids: 2213
@@ -22447,7 +21812,6 @@ npcs {
   dstab: 10
   dslash: 10
   dcrush: 7
-  drange: 13
 }
 npcs {
   ids: 13114
@@ -22465,7 +21829,6 @@ npcs {
   dslash: 40
   dcrush: 36
   dmagic: -11
-  drange: 36
 }
 npcs {
   ids: 13115
@@ -22483,7 +21846,6 @@ npcs {
   dslash: 40
   dcrush: 36
   dmagic: -11
-  drange: 36
 }
 npcs {
   ids: 13116
@@ -22501,7 +21863,6 @@ npcs {
   dslash: 40
   dcrush: 36
   dmagic: -11
-  drange: 36
 }
 npcs {
   ids: 13117
@@ -22519,7 +21880,6 @@ npcs {
   dslash: 40
   dcrush: 36
   dmagic: -11
-  drange: 36
 }
 npcs {
   ids: 13118
@@ -22537,7 +21897,6 @@ npcs {
   dslash: 40
   dcrush: 36
   dmagic: -11
-  drange: 36
 }
 npcs {
   ids: 13119
@@ -22555,7 +21914,6 @@ npcs {
   dslash: 40
   dcrush: 36
   dmagic: -11
-  drange: 36
 }
 npcs {
   ids: 12916
@@ -22570,7 +21928,6 @@ npcs {
   dslash: 26
   dcrush: 10
   dmagic: 5
-  drange: 20
 }
 npcs {
   ids: 7106
@@ -22586,7 +21943,6 @@ npcs {
   dslash: 85
   dcrush: 90
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 1605
@@ -22658,7 +22014,6 @@ npcs {
   dslash: 20
   dcrush: 20
   dmagic: 20
-  drange: 20
 }
 npcs {
   ids: 3898
@@ -22673,7 +22028,6 @@ npcs {
   dslash: 40
   dcrush: 40
   dmagic: 40
-  drange: 40
 }
 npcs {
   ids: 3899
@@ -22688,7 +22042,6 @@ npcs {
   dslash: 60
   dcrush: 60
   dmagic: 60
-  drange: 60
 }
 npcs {
   ids: 3900
@@ -22713,7 +22066,6 @@ npcs {
   dslash: 25
   dcrush: 40
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 496
@@ -22726,7 +22078,6 @@ npcs {
   mage: 1
   range: 1
   dmagic: 130
-  drange: 300
 }
 npcs {
   ids: 494
@@ -22740,7 +22091,6 @@ npcs {
   range: 1
   mbns: 50
   dmagic: 130
-  drange: 300
 }
 npcs {
   ids: 3162
@@ -22780,7 +22130,6 @@ npcs {
   dslash: 180
   dcrush: 180
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 12443
@@ -22800,7 +22149,6 @@ npcs {
   dslash: 180
   dcrush: 180
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 6492
@@ -22819,7 +22167,6 @@ npcs {
   dslash: 180
   dcrush: 180
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 9560
@@ -22837,7 +22184,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 50
-  drange: 50
   attributes: "vampyre1"
 }
 npcs {
@@ -22857,7 +22203,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 250
-  drange: 100
 }
 npcs {
   ids: 2627
@@ -22872,7 +22217,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 410
@@ -23251,7 +22595,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   name: "Little monster"
@@ -23271,7 +22614,6 @@ npcs {
   dstab: 5
   dslash: 15
   dcrush: 15
-  drange: 5
 }
 npcs {
   ids: 6914
@@ -23465,7 +22807,6 @@ npcs {
   dslash: 50
   dcrush: 15
   dmagic: 99
-  drange: 70
 }
 npcs {
   ids: 11584
@@ -23494,7 +22835,6 @@ npcs {
   dslash: 90
   dcrush: 50
   dmagic: 34
-  drange: 66
   attributes: "kalphite"
 }
 npcs {
@@ -23513,7 +22853,6 @@ npcs {
   dslash: 90
   dcrush: 50
   dmagic: 34
-  drange: 66
   attributes: "kalphite"
 }
 npcs {
@@ -23587,7 +22926,6 @@ npcs {
   dslash: 8
   dcrush: 7
   dmagic: -1
-  drange: 4
 }
 npcs {
   ids: 14363
@@ -23642,7 +22980,6 @@ npcs {
   dslash: 14
   dcrush: 19
   dmagic: 4
-  drange: 16
 }
 npcs {
   ids: 2844
@@ -23658,7 +22995,6 @@ npcs {
   dslash: 5
   dcrush: 15
   dmagic: 5
-  drange: 10
 }
 npcs {
   ids: 7269
@@ -23674,7 +23010,6 @@ npcs {
   dslash: 5
   dcrush: 15
   dmagic: 5
-  drange: 10
 }
 npcs {
   ids: 13663
@@ -23690,7 +23025,6 @@ npcs {
   dslash: 25
   dcrush: 25
   dmagic: 150
-  drange: 10
 }
 npcs {
   ids: 13663
@@ -23706,7 +23040,6 @@ npcs {
   dslash: 25
   dcrush: 25
   dmagic: 150
-  drange: 10
 }
 npcs {
   ids: 13663
@@ -23722,7 +23055,6 @@ npcs {
   dslash: 25
   dcrush: 25
   dmagic: 150
-  drange: 10
 }
 npcs {
   ids: 15504
@@ -23814,7 +23146,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 3107
@@ -23831,7 +23162,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 3108
@@ -23848,7 +23178,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 3109
@@ -23865,7 +23194,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 3110
@@ -23881,7 +23209,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 3261
@@ -23908,7 +23235,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 3265
@@ -23924,7 +23250,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 3652
@@ -23940,7 +23265,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 3014
@@ -23956,7 +23280,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 11057
@@ -23972,7 +23295,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 11058
@@ -23988,7 +23310,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 14920
@@ -24004,7 +23325,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 3298
@@ -24019,7 +23339,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 1118
@@ -24088,7 +23407,6 @@ npcs {
   mage: 300
   range: 350
   dmagic: 10
-  drange: 25
 }
 npcs {
   ids: 7407
@@ -24104,7 +23422,6 @@ npcs {
   dstab: 50
   dslash: 50
   dmagic: 50
-  drange: 50
   attributes: "Golem"
 }
 npcs {
@@ -24122,7 +23439,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 50
-  drange: 50
 }
 npcs {
   ids: 5732
@@ -24140,7 +23456,6 @@ npcs {
   dslash: 14
   dcrush: 19
   dmagic: 4
-  drange: 16
 }
 npcs {
   ids: 2120
@@ -24158,7 +23473,6 @@ npcs {
   dslash: 14
   dcrush: 19
   dmagic: 4
-  drange: 16
 }
 npcs {
   ids: 14703
@@ -24246,7 +23560,6 @@ npcs {
   dslash: 30
   dcrush: 30
   dmagic: 280
-  drange: 180
 }
 npcs {
   ids: 11462
@@ -24265,7 +23578,6 @@ npcs {
   dslash: 30
   dcrush: 30
   dmagic: 280
-  drange: 180
 }
 npcs {
   ids: 3550
@@ -24309,7 +23621,6 @@ npcs {
   dslash: 15
   dcrush: 19
   dmagic: -3
-  drange: 19
 }
 npcs {
   ids: 4656
@@ -24325,7 +23636,6 @@ npcs {
   dslash: 15
   dcrush: 19
   dmagic: -3
-  drange: 19
 }
 npcs {
   ids: 4659
@@ -24341,7 +23651,6 @@ npcs {
   dslash: 15
   dcrush: 19
   dmagic: -3
-  drange: 19
 }
 npcs {
   ids: 4657
@@ -24357,7 +23666,6 @@ npcs {
   dslash: 15
   dcrush: 19
   dmagic: -3
-  drange: 19
 }
 npcs {
   ids: 13535
@@ -24406,7 +23714,6 @@ npcs {
   dslash: 15
   dcrush: 19
   dmagic: -3
-  drange: 19
 }
 npcs {
   ids: 13537
@@ -24473,7 +23780,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 8633
@@ -24491,7 +23797,6 @@ npcs {
   dslash: 165
   dcrush: 150
   dmagic: 30
-  drange: 145
 }
 npcs {
   ids: 10693
@@ -24507,7 +23812,6 @@ npcs {
   dstab: 5
   dslash: 5
   dmagic: 2
-  drange: 10
   attributes: "Golem"
 }
 npcs {
@@ -24524,7 +23828,6 @@ npcs {
   dstab: 5
   dslash: 5
   dmagic: 2
-  drange: 10
   attributes: "None"
 }
 npcs {
@@ -24584,7 +23887,6 @@ npcs {
   range: 120
   attbns: 15
   strbns: 64
-  drange: 12
 }
 npcs {
   ids: 12813
@@ -24598,7 +23900,6 @@ npcs {
   range: 120
   attbns: 15
   strbns: 64
-  drange: 12
 }
 npcs {
   ids: 13814
@@ -24688,7 +23989,6 @@ npcs {
   dslash: 45
   dcrush: 35
   dmagic: 30
-  drange: 55
 }
 npcs {
   ids: 4246
@@ -25079,7 +24379,6 @@ npcs {
   dslash: 10
   dcrush: 5
   dmagic: 5
-  drange: 20
 }
 npcs {
   ids: 8428
@@ -25142,7 +24441,6 @@ npcs {
   dslash: 16
   dcrush: 18
   dmagic: 15
-  drange: 10
 }
 npcs {
   ids: 2068
@@ -25162,7 +24460,6 @@ npcs {
   dslash: 16
   dcrush: 18
   dmagic: 15
-  drange: 10
 }
 npcs {
   ids: 9013
@@ -25193,7 +24490,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 60
-  drange: 50
 }
 npcs {
   ids: 9008
@@ -25222,7 +24518,6 @@ npcs {
   dslash: 25
   dcrush: 25
   dmagic: 15
-  drange: 5
 }
 npcs {
   ids: 8845
@@ -25238,7 +24533,6 @@ npcs {
   dslash: 40
   dcrush: 40
   dmagic: 30
-  drange: 20
 }
 npcs {
   ids: 8846
@@ -25254,7 +24548,6 @@ npcs {
   dslash: 60
   dcrush: 60
   dmagic: 50
-  drange: 40
 }
 npcs {
   ids: 5127
@@ -25270,7 +24563,6 @@ npcs {
   dslash: 55
   dcrush: 65
   dmagic: 50
-  drange: 60
 }
 npcs {
   ids: 5128
@@ -25286,7 +24578,6 @@ npcs {
   dslash: 55
   dcrush: 65
   dmagic: 50
-  drange: 60
 }
 npcs {
   ids: 4820
@@ -25667,7 +24958,6 @@ npcs {
   arange: 400
   dstab: 50
   dslash: 50
-  drange: 62
 }
 npcs {
   ids: 12465
@@ -25780,7 +25070,6 @@ npcs {
   dslash: 5
   dcrush: 30
   dmagic: 5
-  drange: 50
 }
 npcs {
   ids: 2649
@@ -25796,7 +25085,6 @@ npcs {
   dslash: 5
   dcrush: 30
   dmagic: 5
-  drange: 50
 }
 npcs {
   ids: 12300
@@ -25818,7 +25106,6 @@ npcs {
   dslash: 40
   dcrush: 60
   dmagic: 30
-  drange: 20
 }
 npcs {
   ids: 2946
@@ -25868,7 +25155,6 @@ npcs {
   dslash: -5
   dcrush: -5
   dmagic: -5
-  drange: -5
 }
 npcs {
   ids: 15202
@@ -25904,7 +25190,6 @@ npcs {
   dslash: 5
   dcrush: 5
   dmagic: 5
-  drange: 5
   attributes: "undead"
 }
 npcs {
@@ -25941,7 +25226,6 @@ npcs {
   dslash: 5
   dcrush: 5
   dmagic: 5
-  drange: 5
   attributes: "none"
 }
 npcs {
@@ -25978,7 +25262,6 @@ npcs {
   dslash: 5
   dcrush: 5
   dmagic: 5
-  drange: 5
   attributes: "none"
 }
 npcs {
@@ -26004,7 +25287,6 @@ npcs {
   dstab: 20
   dslash: 20
   dcrush: 20
-  drange: 20
   attributes: "demon"
 }
 npcs {
@@ -26020,7 +25302,6 @@ npcs {
   dstab: 20
   dslash: 20
   dcrush: 20
-  drange: 20
   attributes: "demon"
 }
 npcs {
@@ -26035,7 +25316,6 @@ npcs {
   dstab: 30
   dslash: 30
   dcrush: 30
-  drange: 30
   attributes: "demon"
 }
 npcs {
@@ -26146,7 +25426,6 @@ npcs {
   dslash: 80
   dcrush: 200
   dmagic: 190
-  drange: 200
 }
 npcs {
   ids: 12459
@@ -26162,7 +25441,6 @@ npcs {
   dslash: 80
   dcrush: 200
   dmagic: 190
-  drange: 100
 }
 npcs {
   ids: 12459
@@ -26178,7 +25456,6 @@ npcs {
   dslash: 80
   dcrush: 120
   dmagic: 100
-  drange: 100
 }
 npcs {
   ids: 12459
@@ -26194,7 +25471,6 @@ npcs {
   dslash: 80
   dcrush: 120
   dmagic: 100
-  drange: 100
 }
 npcs {
   ids: 9425
@@ -26224,7 +25500,6 @@ npcs {
   dslash: 180
   dcrush: 40
   dmagic: 600
-  drange: 600
 }
 npcs {
   ids: 2629
@@ -26239,7 +25514,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 2617
@@ -26254,7 +25528,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 7406
@@ -26266,7 +25539,6 @@ npcs {
   mage: 1
   range: 280
   dmagic: 850
-  drange: 80
 }
 npcs {
   ids: 10844
@@ -26670,7 +25942,6 @@ npcs {
   dslash: 40
   dcrush: 45
   dmagic: 20
-  drange: 20
 }
 npcs {
   ids: 14545
@@ -26718,7 +25989,6 @@ npcs {
   dslash: -12
   dcrush: -12
   dmagic: -12
-  drange: -12
 }
 npcs {
   ids: 2646
@@ -26734,7 +26004,6 @@ npcs {
   dslash: 5
   dcrush: 30
   dmagic: 5
-  drange: 50
 }
 npcs {
   ids: 2651
@@ -26750,7 +26019,6 @@ npcs {
   dslash: 5
   dcrush: 30
   dmagic: 5
-  drange: 50
 }
 npcs {
   ids: 136
@@ -26911,7 +26179,6 @@ npcs {
   dslash: 14
   dcrush: 14
   dmagic: 16
-  drange: 8
 }
 npcs {
   ids: 7989
@@ -26927,7 +26194,6 @@ npcs {
   dslash: 12
   dcrush: 12
   dmagic: 14
-  drange: 16
 }
 npcs {
   ids: 7990
@@ -26943,7 +26209,6 @@ npcs {
   dslash: 12
   dcrush: 12
   dmagic: 14
-  drange: 16
 }
 npcs {
   ids: 5259
@@ -26993,7 +26258,6 @@ npcs {
   dslash: 14
   dcrush: 13
   dmagic: 5
-  drange: 13
 }
 npcs {
   ids: 13006
@@ -27039,7 +26303,6 @@ npcs {
   dslash: 10
   dcrush: 20
   dmagic: -5
-  drange: 15
   attributes: "spectral"
 }
 npcs {
@@ -27200,7 +26463,6 @@ npcs {
   dslash: 84
   dcrush: 76
   dmagic: -10
-  drange: 79
 }
 npcs {
   ids: 11930
@@ -27218,7 +26480,6 @@ npcs {
   dslash: 84
   dcrush: 76
   dmagic: -10
-  drange: 79
 }
 npcs {
   ids: 11931
@@ -27236,7 +26497,6 @@ npcs {
   dslash: 84
   dcrush: 76
   dmagic: -10
-  drange: 79
 }
 npcs {
   ids: 11932
@@ -27254,7 +26514,6 @@ npcs {
   dslash: 84
   dcrush: 76
   dmagic: -10
-  drange: 79
 }
 npcs {
   ids: 11933
@@ -27272,7 +26531,6 @@ npcs {
   dslash: 84
   dcrush: 76
   dmagic: -10
-  drange: 79
 }
 npcs {
   ids: 8853
@@ -27290,7 +26548,6 @@ npcs {
   dslash: 84
   dcrush: 76
   dmagic: -10
-  drange: 79
 }
 npcs {
   ids: 11901
@@ -27308,7 +26565,6 @@ npcs {
   dslash: 84
   dcrush: 76
   dmagic: -10
-  drange: 79
 }
 npcs {
   ids: 3294
@@ -27325,7 +26581,6 @@ npcs {
   dslash: 84
   dcrush: 76
   dmagic: -10
-  drange: 79
 }
 npcs {
   ids: 8849
@@ -27341,7 +26596,6 @@ npcs {
   dslash: 40
   dcrush: 40
   dmagic: 30
-  drange: 20
 }
 npcs {
   ids: 8850
@@ -27357,7 +26611,6 @@ npcs {
   dslash: 84
   dcrush: 76
   dmagic: -10
-  drange: 79
 }
 npcs {
   ids: 3869
@@ -27387,7 +26640,6 @@ npcs {
   dslash: 70
   dcrush: 10
   dmagic: 100
-  drange: 100
 }
 npcs {
   ids: 9452
@@ -27407,7 +26659,6 @@ npcs {
   dslash: 80
   dcrush: 20
   dmagic: 120
-  drange: 120
 }
 npcs {
   ids: 12833
@@ -27432,7 +26683,6 @@ npcs {
   dslash: 25
   dcrush: 40
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 1667
@@ -27875,7 +27125,6 @@ npcs {
   dslash: -12
   dcrush: -12
   dmagic: -12
-  drange: -12
 }
 npcs {
   ids: 2063
@@ -27899,7 +27148,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 200
-  drange: 20
   attributes: "spectral"
 }
 npcs {
@@ -27920,7 +27168,6 @@ npcs {
   dslash: 5
   dcrush: 10
   dmagic: 600
-  drange: 800
   attributes: "undead"
 }
 npcs {
@@ -27941,7 +27188,6 @@ npcs {
   dslash: 20
   dcrush: 40
   dmagic: 600
-  drange: 800
   attributes: "undead"
 }
 npcs {
@@ -27962,7 +27208,6 @@ npcs {
   dslash: 20
   dcrush: 40
   dmagic: 600
-  drange: 800
   attributes: "undead"
 }
 npcs {
@@ -28025,7 +27270,6 @@ npcs {
   dslash: 134
   dcrush: 120
   dmagic: 437
-  drange: 56
   attributes: "spectral"
 }
 npcs {
@@ -28048,7 +27292,6 @@ npcs {
   dslash: 134
   dcrush: 120
   dmagic: 34
-  drange: 261
   attributes: "spectral"
 }
 npcs {
@@ -28071,7 +27314,6 @@ npcs {
   dslash: 134
   dcrush: 120
   dmagic: 437
-  drange: 56
   attributes: "spectral"
 }
 npcs {
@@ -28094,7 +27336,6 @@ npcs {
   dslash: 134
   dcrush: 120
   dmagic: 437
-  drange: 56
   attributes: "spectral"
 }
 npcs {
@@ -28117,7 +27358,6 @@ npcs {
   dslash: 134
   dcrush: 120
   dmagic: 437
-  drange: 56
   attributes: "spectral"
 }
 npcs {
@@ -28235,7 +27475,6 @@ npcs {
   dslash: 180
   dcrush: 40
   dmagic: 600
-  drange: 600
 }
 npcs {
   ids: 1280
@@ -28533,7 +27772,6 @@ npcs {
   dstab: 5
   dslash: 15
   dcrush: 15
-  drange: 5
 }
 npcs {
   ids: 5373
@@ -28549,7 +27787,6 @@ npcs {
   dslash: 17
   dcrush: 10
   dmagic: 14
-  drange: 14
 }
 npcs {
   ids: 3023
@@ -28566,7 +27803,6 @@ npcs {
   dslash: 17
   dcrush: 10
   dmagic: 14
-  drange: 14
 }
 npcs {
   ids: 11990
@@ -28583,7 +27819,6 @@ npcs {
   dslash: 17
   dcrush: 10
   dmagic: 14
-  drange: 14
 }
 npcs {
   ids: 4758
@@ -28600,7 +27835,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 7515
@@ -28618,7 +27852,6 @@ npcs {
   dslash: 200
   dcrush: 200
   dmagic: -60
-  drange: 200
   attributes: "demon"
 }
 npcs {
@@ -28637,7 +27870,6 @@ npcs {
   dslash: 200
   dcrush: 200
   dmagic: -60
-  drange: 200
   attributes: "demon"
 }
 npcs {
@@ -28656,7 +27888,6 @@ npcs {
   dslash: 200
   dcrush: 200
   dmagic: -60
-  drange: 200
   attributes: "demon"
 }
 npcs {
@@ -28675,7 +27906,6 @@ npcs {
   dslash: 200
   dcrush: 200
   dmagic: -60
-  drange: 200
   attributes: "demon"
 }
 npcs {
@@ -28741,7 +27971,6 @@ npcs {
   dstab: 100
   dslash: 100
   dmagic: 100
-  drange: 100
 }
 npcs {
   ids: 1754
@@ -28752,7 +27981,6 @@ npcs {
   dstab: 100
   dslash: 100
   dmagic: 100
-  drange: 100
 }
 npcs {
   ids: 1742
@@ -28763,7 +27991,6 @@ npcs {
   dstab: 100
   dslash: 100
   dmagic: 100
-  drange: 100
 }
 npcs {
   ids: 1746
@@ -28774,7 +28001,6 @@ npcs {
   dstab: 100
   dslash: 100
   dmagic: 100
-  drange: 100
 }
 npcs {
   ids: 1749
@@ -28784,7 +28010,6 @@ npcs {
   def: 120
   dcrush: 100
   dmagic: 100
-  drange: 100
 }
 npcs {
   ids: 1753
@@ -28794,7 +28019,6 @@ npcs {
   def: 120
   dcrush: 100
   dmagic: 100
-  drange: 100
 }
 npcs {
   ids: 1741
@@ -28804,7 +28028,6 @@ npcs {
   def: 120
   dcrush: 100
   dmagic: 100
-  drange: 100
 }
 npcs {
   ids: 1745
@@ -28814,7 +28037,6 @@ npcs {
   def: 120
   dcrush: 100
   dmagic: 100
-  drange: 100
 }
 npcs {
   ids: 1748
@@ -28825,7 +28047,6 @@ npcs {
   dstab: 100
   dslash: 100
   dcrush: 100
-  drange: 100
 }
 npcs {
   ids: 1752
@@ -28836,7 +28057,6 @@ npcs {
   dstab: 100
   dslash: 100
   dcrush: 100
-  drange: 100
 }
 npcs {
   ids: 1740
@@ -28847,7 +28067,6 @@ npcs {
   dstab: 100
   dslash: 100
   dcrush: 100
-  drange: 100
 }
 npcs {
   ids: 1744
@@ -28858,7 +28077,6 @@ npcs {
   dstab: 100
   dslash: 100
   dcrush: 100
-  drange: 100
 }
 npcs {
   ids: 12334
@@ -28885,7 +28103,6 @@ npcs {
   dslash: 10
   dcrush: 5
   dmagic: 5
-  drange: 10
 }
 npcs {
   ids: 7268
@@ -28901,7 +28118,6 @@ npcs {
   dslash: 10
   dcrush: 5
   dmagic: 5
-  drange: 10
 }
 npcs {
   ids: 4210
@@ -29030,7 +28246,6 @@ npcs {
   dstab: 10
   dslash: 10
   dcrush: 10
-  drange: 10
   attributes: "demon"
 }
 npcs {
@@ -29046,7 +28261,6 @@ npcs {
   dstab: 10
   dslash: 10
   dcrush: 10
-  drange: 10
   attributes: "demon"
 }
 npcs {
@@ -29075,7 +28289,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 3664
@@ -29093,7 +28306,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 1852
@@ -29126,7 +28338,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 9118
@@ -29143,7 +28354,6 @@ npcs {
   dslash: 150
   dcrush: 150
   dmagic: 150
-  drange: 200
 }
 npcs {
   ids: 4759
@@ -29160,7 +28370,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 12370
@@ -29195,7 +28404,6 @@ npcs {
   dslash: -12
   dcrush: -12
   dmagic: -12
-  drange: -12
 }
 npcs {
   ids: 1262
@@ -29213,7 +28421,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 1263
@@ -29231,7 +28438,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 1264
@@ -29249,7 +28455,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 1265
@@ -29267,7 +28472,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 1261
@@ -29285,7 +28489,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 3966
@@ -29299,7 +28502,6 @@ npcs {
   dstab: 38
   dslash: 40
   dcrush: 36
-  drange: 38
   attributes: "spectral"
 }
 npcs {
@@ -29317,7 +28519,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 200
-  drange: 100
 }
 npcs {
   ids: 13664
@@ -29334,7 +28535,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 200
-  drange: 100
 }
 npcs {
   ids: 13664
@@ -29351,7 +28551,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 200
-  drange: 100
 }
 npcs {
   ids: 8242
@@ -29373,7 +28572,6 @@ npcs {
   dslash: 60
   dcrush: 60
   dmagic: 60
-  drange: 60
   attributes: "vampyre3"
 }
 npcs {
@@ -29392,7 +28590,6 @@ npcs {
   dslash: 60
   dcrush: 60
   dmagic: 60
-  drange: 60
   attributes: "vampyre3"
 }
 npcs {
@@ -29408,7 +28605,6 @@ npcs {
   dslash: -12
   dcrush: -12
   dmagic: -12
-  drange: -12
 }
 npcs {
   ids: 2854
@@ -29427,7 +28623,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
   attributes: "rat"
 }
 npcs {
@@ -29447,7 +28642,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
   attributes: "rat"
 }
 npcs {
@@ -29507,7 +28701,6 @@ npcs {
   dstab: 20
   dslash: 20
   dcrush: 20
-  drange: 20
   attributes: "demon"
 }
 npcs {
@@ -29609,7 +28802,6 @@ npcs {
   dslash: 40
   dcrush: 40
   dmagic: 30
-  drange: 20
   attributes: "dragon"
 }
 npcs {
@@ -29625,7 +28817,6 @@ npcs {
   dslash: 20
   dcrush: 40
   dmagic: 60
-  drange: 50
 }
 npcs {
   ids: 7027
@@ -29654,7 +28845,6 @@ npcs {
   dslash: -15
   dcrush: -15
   dmagic: -15
-  drange: -15
 }
 npcs {
   ids: 11463
@@ -29692,7 +28882,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
   attributes: "demon"
 }
 npcs {
@@ -29708,7 +28897,6 @@ npcs {
   dslash: 25
   dcrush: 5
   dmagic: 50
-  drange: 50
   attributes: "kalphite"
 }
 npcs {
@@ -29724,7 +28912,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 7019
@@ -29775,7 +28962,6 @@ npcs {
   strbns: 20
   dcrush: 10
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 7035
@@ -29908,7 +29094,6 @@ npcs {
   dslash: 10
   dcrush: 5
   dmagic: 5
-  drange: 20
 }
 npcs {
   ids: 15499
@@ -29949,7 +29134,6 @@ npcs {
   dstab: 120
   dslash: 120
   dcrush: 120
-  drange: 115
   attributes: "undead, spectral"
 }
 npcs {
@@ -29974,7 +29158,6 @@ npcs {
   dslash: 130
   dcrush: 135
   dmagic: 10
-  drange: 135
   attributes: "undead, spectral"
 }
 npcs {
@@ -29994,7 +29177,6 @@ npcs {
   dslash: 152
   dcrush: 155
   dmagic: 70
-  drange: 158
   attributes: "undead, spectral"
 }
 npcs {
@@ -30016,7 +29198,6 @@ npcs {
   dslash: 118
   dcrush: 130
   dmagic: 85
-  drange: 90
   attributes: "undead, spectral"
 }
 npcs {
@@ -30038,7 +29219,6 @@ npcs {
   dslash: 206
   dcrush: 188
   dmagic: 101
-  drange: 197
   attributes: "undead, spectral"
 }
 npcs {
@@ -30060,7 +29240,6 @@ npcs {
   dslash: 28
   dcrush: 31
   dmagic: 1
-  drange: 31
   attributes: "undead, spectral"
 }
 npcs {
@@ -30079,7 +29258,6 @@ npcs {
   dslash: 140
   dcrush: 142
   dmagic: 62
-  drange: 140
   attributes: "undead, spectral"
 }
 npcs {
@@ -30133,7 +29311,6 @@ npcs {
   dslash: 200
   dcrush: 180
   dmagic: 95
-  drange: 190
   attributes: "undead, spectral"
 }
 npcs {
@@ -30155,7 +29332,6 @@ npcs {
   dslash: 206
   dcrush: 188
   dmagic: 101
-  drange: 231
   attributes: "Undead, Spectral"
 }
 npcs {
@@ -30174,7 +29350,6 @@ npcs {
   dslash: 150
   dcrush: 146
   dmagic: 50
-  drange: 148
   attributes: "undead, spectral"
 }
 npcs {
@@ -30190,7 +29365,6 @@ npcs {
   dslash: 40
   dcrush: 50
   dmagic: 15
-  drange: 10
   attributes: "undead, spectral"
 }
 npcs {
@@ -30302,7 +29476,6 @@ npcs {
   dslash: 180
   dcrush: 60
   dmagic: 940
-  drange: 860
 }
 npcs {
   ids: 925
@@ -30522,7 +29695,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 1175
@@ -30540,7 +29712,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 4634
@@ -30626,7 +29797,6 @@ npcs {
   dslash: -15
   dcrush: -15
   dmagic: -15
-  drange: -15
 }
 npcs {
   ids: 304
@@ -30651,7 +29821,6 @@ npcs {
   dslash: 22
   dcrush: 20
   dmagic: -1
-  drange: 20
   attributes: "spectral"
 }
 npcs {
@@ -30726,7 +29895,6 @@ npcs {
   dslash: 40
   dcrush: 10
   dmagic: 150
-  drange: 300
 }
 npcs {
   ids: 2209
@@ -30743,7 +29911,6 @@ npcs {
   dslash: 14
   dcrush: 13
   dmagic: 5
-  drange: 13
 }
 npcs {
   ids: 2955
@@ -30867,7 +30034,6 @@ npcs {
   dslash: -100
   dcrush: -100
   dmagic: -100
-  drange: -100
 }
 npcs {
   ids: 11723
@@ -30881,7 +30047,6 @@ npcs {
   dslash: -100
   dcrush: -100
   dmagic: -100
-  drange: -100
 }
 npcs {
   ids: 729
@@ -30896,7 +30061,6 @@ npcs {
   dslash: 15
   dcrush: 15
   dmagic: 15
-  drange: 15
   attributes: "kalphite"
 }
 npcs {
@@ -31085,7 +30249,6 @@ npcs {
   dslash: 284
   dcrush: 284
   dmagic: 44
-  drange: 284
 }
 npcs {
   ids: 6617
@@ -31196,7 +30359,6 @@ npcs {
   dstab: 13
   dslash: 13
   dcrush: 13
-  drange: 13
   attributes: "undead, spectral"
 }
 npcs {
@@ -31211,7 +30373,6 @@ npcs {
   dstab: 25
   dslash: 25
   dcrush: 25
-  drange: 25
   attributes: "undead, spectral"
 }
 npcs {
@@ -31234,7 +30395,6 @@ npcs {
   dslash: 20
   dcrush: 20
   dmagic: 10
-  drange: 20
   attributes: "rat"
 }
 npcs {
@@ -31257,7 +30417,6 @@ npcs {
   dslash: 20
   dcrush: 20
   dmagic: 10
-  drange: 20
   attributes: "rat"
 }
 npcs {
@@ -31450,7 +30609,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 1339
@@ -31469,7 +30627,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   ids: 9609
@@ -31486,7 +30643,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
 }
 npcs {
   name: "Seal"
@@ -31514,7 +30670,6 @@ npcs {
   dslash: 16
   dcrush: 18
   dmagic: -12
-  drange: 27
 }
 npcs {
   ids: 2218
@@ -31565,7 +30720,6 @@ npcs {
   dslash: 30
   dcrush: 30
   dmagic: 15
-  drange: 50
 }
 npcs {
   ids: 4104
@@ -31580,7 +30734,6 @@ npcs {
   dslash: -12
   dcrush: -12
   dmagic: -12
-  drange: -12
 }
 npcs {
   ids: 6740
@@ -31631,7 +30784,6 @@ npcs {
   dslash: 30
   dcrush: 30
   dmagic: 30
-  drange: 30
 }
 npcs {
   ids: 3449
@@ -31676,7 +30828,6 @@ npcs {
   dslash: 15
   dcrush: 10
   dmagic: 15
-  drange: 15
 }
 npcs {
   ids: 2853
@@ -31691,7 +30842,6 @@ npcs {
   dslash: 31
   dcrush: 19
   dmagic: 15
-  drange: 38
 }
 npcs {
   ids: 10398
@@ -31709,7 +30859,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 50
-  drange: 20
   attributes: "dragon"
 }
 npcs {
@@ -31728,7 +30877,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 50
-  drange: 20
   attributes: "dragon"
 }
 npcs {
@@ -31745,7 +30893,6 @@ npcs {
   dslash: 30
   dcrush: 100
   dmagic: 150
-  drange: 50
 }
 npcs {
   ids: 4643
@@ -31761,7 +30908,6 @@ npcs {
   dslash: 15
   dcrush: 18
   dmagic: 6
-  drange: 15
 }
 npcs {
   name: "Shark"
@@ -31892,7 +31038,6 @@ npcs {
   dslash: 15
   dcrush: 15
   dmagic: 5
-  drange: 35
 }
 npcs {
   ids: 990
@@ -31957,7 +31102,6 @@ npcs {
   dslash: 84
   dcrush: 76
   dmagic: -10
-  drange: 79
 }
 npcs {
   ids: 4348
@@ -31990,7 +31134,6 @@ npcs {
   dslash: 84
   dcrush: 76
   dmagic: -10
-  drange: 79
 }
 npcs {
   ids: 8987
@@ -32007,7 +31150,6 @@ npcs {
   dslash: 84
   dcrush: 76
   dmagic: -10
-  drange: 79
 }
 npcs {
   ids: 4349
@@ -32146,7 +31288,6 @@ npcs {
   dslash: 11
   dcrush: -2
   dmagic: 1
-  drange: 4
 }
 npcs {
   ids: 7604
@@ -32206,7 +31347,6 @@ npcs {
   dslash: 90
   dcrush: 90
   dmagic: 80
-  drange: 140
   attributes: "dragon"
 }
 npcs {
@@ -32223,7 +31363,6 @@ npcs {
   dslash: 90
   dcrush: 90
   dmagic: 80
-  drange: 140
   attributes: "dragon"
 }
 npcs {
@@ -32240,7 +31379,6 @@ npcs {
   dslash: 90
   dcrush: 90
   dmagic: 80
-  drange: 140
   attributes: "dragon"
 }
 npcs {
@@ -32257,7 +31395,6 @@ npcs {
   dslash: 90
   dcrush: 90
   dmagic: 80
-  drange: 140
   attributes: "dragon"
 }
 npcs {
@@ -32561,7 +31698,6 @@ npcs {
   dstab: 5
   dslash: 5
   dcrush: -5
-  drange: 5
   attributes: "undead"
 }
 npcs {
@@ -32577,7 +31713,6 @@ npcs {
   dstab: 5
   dslash: 5
   dcrush: -5
-  drange: 5
   attributes: "undead"
 }
 npcs {
@@ -32593,7 +31728,6 @@ npcs {
   dstab: 5
   dslash: 5
   dcrush: -5
-  drange: 5
   attributes: "undead"
 }
 npcs {
@@ -32609,7 +31743,6 @@ npcs {
   dstab: 5
   dslash: 5
   dcrush: -5
-  drange: 5
   attributes: "undead"
 }
 npcs {
@@ -32624,7 +31757,6 @@ npcs {
   dstab: 5
   dslash: 5
   dcrush: -5
-  drange: 5
   attributes: "undead"
 }
 npcs {
@@ -32642,7 +31774,6 @@ npcs {
   dslash: 11
   dcrush: -2
   dmagic: 1
-  drange: 4
   attributes: "undead"
 }
 npcs {
@@ -32661,7 +31792,6 @@ npcs {
   dslash: 11
   dcrush: -1
   dmagic: 1
-  drange: 4
   attributes: "undead"
 }
 npcs {
@@ -32680,7 +31810,6 @@ npcs {
   dslash: 11
   dcrush: -1
   dmagic: 1
-  drange: 4
   attributes: "undead"
 }
 npcs {
@@ -32699,7 +31828,6 @@ npcs {
   dslash: 11
   dcrush: -1
   dmagic: 1
-  drange: 4
   attributes: "undead"
 }
 npcs {
@@ -32718,7 +31846,6 @@ npcs {
   dslash: 11
   dcrush: -1
   dmagic: 1
-  drange: 4
   attributes: "undead"
 }
 npcs {
@@ -32737,7 +31864,6 @@ npcs {
   dslash: 11
   dcrush: -1
   dmagic: 1
-  drange: 4
   attributes: "undead"
 }
 npcs {
@@ -32820,7 +31946,6 @@ npcs {
   strbns: 5
   dstab: 50
   dslash: 40
-  drange: 40
   attributes: "undead"
 }
 npcs {
@@ -32839,7 +31964,6 @@ npcs {
   dslash: 11
   dcrush: -2
   dmagic: 1
-  drange: 4
   attributes: "undead"
 }
 npcs {
@@ -32858,7 +31982,6 @@ npcs {
   dslash: 11
   dcrush: -2
   dmagic: 1
-  drange: 4
   attributes: "undead"
 }
 npcs {
@@ -32877,7 +32000,6 @@ npcs {
   dslash: 11
   dcrush: -2
   dmagic: 1
-  drange: 4
   attributes: "undead"
 }
 npcs {
@@ -32895,7 +32017,6 @@ npcs {
   dslash: 20
   dcrush: 25
   dmagic: 10
-  drange: 30
   attributes: "undead"
 }
 npcs {
@@ -32913,7 +32034,6 @@ npcs {
   dslash: 10
   dcrush: 15
   dmagic: 30
-  drange: 20
   attributes: "undead"
 }
 npcs {
@@ -32931,7 +32051,6 @@ npcs {
   dslash: 30
   dcrush: 35
   dmagic: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -32947,7 +32066,6 @@ npcs {
   dstab: 35
   dslash: 35
   dcrush: -5
-  drange: 35
   attributes: "undead"
 }
 npcs {
@@ -32963,7 +32081,6 @@ npcs {
   dstab: 35
   dslash: 35
   dcrush: -5
-  drange: 35
   attributes: "undead"
 }
 npcs {
@@ -32979,7 +32096,6 @@ npcs {
   dstab: 35
   dslash: 35
   dcrush: -5
-  drange: 35
   attributes: "undead"
 }
 npcs {
@@ -32995,7 +32111,6 @@ npcs {
   dstab: 35
   dslash: 35
   dcrush: -5
-  drange: 35
   attributes: "undead"
 }
 npcs {
@@ -33014,7 +32129,6 @@ npcs {
   dslash: 31
   dcrush: 20
   dmagic: 5
-  drange: 70
   attributes: "undead"
 }
 npcs {
@@ -33033,7 +32147,6 @@ npcs {
   dslash: 31
   dcrush: 20
   dmagic: 5
-  drange: 70
   attributes: "undead"
 }
 npcs {
@@ -33052,7 +32165,6 @@ npcs {
   dslash: 31
   dcrush: 20
   dmagic: 5
-  drange: 70
   attributes: "undead"
 }
 npcs {
@@ -33067,7 +32179,6 @@ npcs {
   range: 1
   dstab: 50
   dslash: 40
-  drange: 40
   attributes: "undead"
 }
 npcs {
@@ -33082,7 +32193,6 @@ npcs {
   range: 1
   dstab: 50
   dslash: 40
-  drange: 40
   attributes: "undead"
 }
 npcs {
@@ -33097,7 +32207,6 @@ npcs {
   range: 1
   dstab: 50
   dslash: 40
-  drange: 40
   attributes: "undead"
 }
 npcs {
@@ -33112,7 +32221,6 @@ npcs {
   range: 1
   dstab: 50
   dslash: 40
-  drange: 40
   attributes: "undead"
 }
 npcs {
@@ -33127,7 +32235,6 @@ npcs {
   range: 1
   dstab: 50
   dslash: 40
-  drange: 40
   attributes: "undead"
 }
 npcs {
@@ -33143,7 +32250,6 @@ npcs {
   strbns: 15
   dstab: 50
   dslash: 40
-  drange: 40
   attributes: "undead"
 }
 npcs {
@@ -33159,7 +32265,6 @@ npcs {
   strbns: 5
   dstab: 50
   dslash: 40
-  drange: 40
   attributes: "undead"
 }
 npcs {
@@ -33174,7 +32279,6 @@ npcs {
   range: 1
   dstab: 50
   dslash: 40
-  drange: 40
   attributes: "undead"
 }
 npcs {
@@ -33190,7 +32294,6 @@ npcs {
   strbns: 15
   dstab: 50
   dslash: 40
-  drange: 40
   attributes: "undead"
 }
 npcs {
@@ -33205,7 +32308,6 @@ npcs {
   dstab: 5
   dslash: 5
   dcrush: -5
-  drange: 5
   attributes: "undead"
 }
 npcs {
@@ -33224,7 +32326,6 @@ npcs {
   dslash: 11
   dcrush: -2
   dmagic: 1
-  drange: 4
   attributes: "undead"
 }
 npcs {
@@ -33243,7 +32344,6 @@ npcs {
   dslash: 11
   dcrush: -2
   dmagic: 1
-  drange: 4
   attributes: "undead"
 }
 npcs {
@@ -33262,7 +32362,6 @@ npcs {
   dslash: 11
   dcrush: -2
   dmagic: 1
-  drange: 4
   attributes: "undead"
 }
 npcs {
@@ -33281,7 +32380,6 @@ npcs {
   dslash: 11
   dcrush: -2
   dmagic: 1
-  drange: 4
   attributes: "undead"
 }
 npcs {
@@ -33300,7 +32398,6 @@ npcs {
   dslash: 11
   dcrush: -2
   dmagic: 1
-  drange: 4
   attributes: "undead"
 }
 npcs {
@@ -33319,7 +32416,6 @@ npcs {
   dslash: 11
   dcrush: -2
   dmagic: 1
-  drange: 4
   attributes: "undead"
 }
 npcs {
@@ -33338,7 +32434,6 @@ npcs {
   dslash: 11
   dcrush: -2
   dmagic: 1
-  drange: 4
   attributes: "undead"
 }
 npcs {
@@ -33365,7 +32460,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
   attributes: "undead"
 }
 npcs {
@@ -33397,7 +32491,6 @@ npcs {
   dslash: 18
   dcrush: 15
   dmagic: -4
-  drange: 15
   attributes: "undead"
 }
 npcs {
@@ -33418,7 +32511,6 @@ npcs {
   dslash: 18
   dcrush: 15
   dmagic: -4
-  drange: 15
   attributes: "undead"
 }
 npcs {
@@ -33439,7 +32531,6 @@ npcs {
   dslash: 18
   dcrush: 15
   dmagic: -4
-  drange: 15
   attributes: "undead"
 }
 npcs {
@@ -33457,7 +32548,6 @@ npcs {
   dslash: 11
   dcrush: -2
   dmagic: 1
-  drange: 4
 }
 npcs {
   ids: 1540
@@ -33473,7 +32563,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
   attributes: "undead"
 }
 npcs {
@@ -33500,7 +32589,6 @@ npcs {
   dslash: 73
   dcrush: 10
   dmagic: 126
-  drange: 155
   attributes: "undead"
 }
 npcs {
@@ -33540,7 +32628,6 @@ npcs {
   dslash: 103
   dcrush: 10
   dmagic: 180
-  drange: 266
   attributes: "undead"
 }
 npcs {
@@ -33557,7 +32644,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
 }
 npcs {
   ids: 84
@@ -33598,7 +32684,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
   attributes: "undead"
 }
 npcs {
@@ -33615,7 +32700,6 @@ npcs {
   dslash: 3
   dcrush: 2
   dmagic: -3
-  drange: 2
   attributes: "undead"
 }
 npcs {
@@ -33633,7 +32717,6 @@ npcs {
   dslash: 10
   dcrush: 5
   dmagic: 5
-  drange: 20
 }
 npcs {
   ids: 872
@@ -33702,7 +32785,6 @@ npcs {
   dslash: -12
   dcrush: -12
   dmagic: -12
-  drange: -12
 }
 npcs {
   ids: 774
@@ -33718,7 +32800,6 @@ npcs {
   dslash: -12
   dcrush: -12
   dmagic: -12
-  drange: -12
 }
 npcs {
   ids: 3684
@@ -33734,7 +32815,6 @@ npcs {
   dslash: -12
   dcrush: -12
   dmagic: -12
-  drange: -12
 }
 npcs {
   ids: 3686
@@ -33750,7 +32830,6 @@ npcs {
   dslash: -12
   dcrush: -12
   dmagic: -12
-  drange: -12
 }
 npcs {
   ids: 1362
@@ -33767,7 +32846,6 @@ npcs {
   dslash: 50
   dcrush: 5
   dmagic: 5
-  drange: 50
 }
 npcs {
   ids: 6385
@@ -33784,7 +32862,6 @@ npcs {
   dslash: 50
   dcrush: 5
   dmagic: 5
-  drange: 50
 }
 npcs {
   ids: 6324
@@ -33801,7 +32878,6 @@ npcs {
   dslash: 50
   dcrush: 5
   dmagic: 5
-  drange: 50
 }
 npcs {
   ids: 882
@@ -33829,7 +32905,6 @@ npcs {
   dslash: -100
   dcrush: -100
   dmagic: -100
-  drange: -100
 }
 npcs {
   ids: 9447
@@ -33842,7 +32917,6 @@ npcs {
   dslash: -100
   dcrush: -100
   dmagic: -100
-  drange: -100
 }
 npcs {
   ids: 9448
@@ -33855,7 +32929,6 @@ npcs {
   dslash: -100
   dcrush: -100
   dmagic: -100
-  drange: -100
 }
 npcs {
   ids: 9449
@@ -33868,7 +32941,6 @@ npcs {
   dslash: -100
   dcrush: -100
   dmagic: -100
-  drange: -100
 }
 npcs {
   ids: 9450
@@ -33881,7 +32953,6 @@ npcs {
   dslash: -100
   dcrush: -100
   dmagic: -100
-  drange: -100
 }
 npcs {
   ids: 9451
@@ -33894,7 +32965,6 @@ npcs {
   dslash: -100
   dcrush: -100
   dmagic: -100
-  drange: -100
 }
 npcs {
   ids: 4797
@@ -33909,7 +32979,6 @@ npcs {
   dslash: 30
   dcrush: 30
   dmagic: 99
-  drange: 99
 }
 npcs {
   ids: 462
@@ -33959,7 +33028,6 @@ npcs {
   mage: 1
   range: 195
   dmagic: 600
-  drange: 44
 }
 npcs {
   ids: 11270
@@ -33979,7 +33047,6 @@ npcs {
   dslash: 10
   dcrush: 5
   dmagic: 5
-  drange: 20
 }
 npcs {
   ids: 2845
@@ -34062,7 +33129,6 @@ npcs {
   dslash: -40
   dcrush: -40
   dmagic: -40
-  drange: -40
 }
 npcs {
   ids: 2046
@@ -34080,7 +33146,6 @@ npcs {
   dslash: -40
   dcrush: -40
   dmagic: -40
-  drange: -40
 }
 npcs {
   ids: 15163
@@ -34114,7 +33179,6 @@ npcs {
   dslash: 10
   dcrush: 5
   dmagic: 5
-  drange: 20
 }
 npcs {
   ids: 2626
@@ -34129,7 +33193,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 12821
@@ -34148,7 +33211,6 @@ npcs {
   dslash: 5
   dcrush: 30
   dmagic: 750
-  drange: 825
 }
 npcs {
   ids: 15554
@@ -34182,7 +33244,6 @@ npcs {
   dslash: 23
   dcrush: 21
   dmagic: 6
-  drange: 14
 }
 npcs {
   ids: 11072
@@ -34206,7 +33267,6 @@ npcs {
   dslash: 14
   dcrush: 19
   dmagic: 4
-  drange: 16
 }
 npcs {
   ids: 6905
@@ -34220,7 +33280,6 @@ npcs {
   range: 1
   attbns: 12
   strbns: 11
-  drange: -1
 }
 npcs {
   ids: 6907
@@ -34247,7 +33306,6 @@ npcs {
   range: 1
   attbns: 20
   strbns: 8
-  drange: -1
 }
 npcs {
   ids: 6911
@@ -34292,7 +33350,6 @@ npcs {
   dslash: 14
   dcrush: 19
   dmagic: -4
-  drange: 16
 }
 npcs {
   ids: 11724
@@ -34373,7 +33430,6 @@ npcs {
   dslash: 30
   dcrush: 30
   dmagic: 10
-  drange: 120
 }
 npcs {
   ids: 8387
@@ -34395,7 +33451,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 30
-  drange: 150
 }
 npcs {
   ids: 10867
@@ -34417,7 +33472,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 30
-  drange: 150
 }
 npcs {
   ids: 508
@@ -34483,7 +33537,6 @@ npcs {
   dstab: 5
   dslash: 15
   dcrush: 15
-  drange: 5
 }
 npcs {
   ids: 8715
@@ -34554,7 +33607,6 @@ npcs {
   dslash: -53
   dcrush: -53
   dmagic: -53
-  drange: -53
 }
 npcs {
   ids: 4561
@@ -34572,7 +33624,6 @@ npcs {
   dslash: -53
   dcrush: -53
   dmagic: -53
-  drange: -53
 }
 npcs {
   ids: 2478
@@ -34590,7 +33641,6 @@ npcs {
   dslash: 53
   dcrush: 53
   dmagic: 53
-  drange: 53
 }
 npcs {
   ids: 5238
@@ -34621,7 +33671,6 @@ npcs {
   dslash: 20
   dcrush: 10
   dmagic: 17
-  drange: 20
 }
 npcs {
   ids: 3602
@@ -34659,7 +33708,6 @@ npcs {
   dslash: 70
   dcrush: 10
   dmagic: 205
-  drange: 103
 }
 npcs {
   ids: 12001
@@ -34748,7 +33796,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 50
-  drange: 50
 }
 npcs {
   ids: 5946
@@ -35032,7 +34079,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 140
-  drange: 120
   attributes: "dragon"
 }
 npcs {
@@ -35121,7 +34167,6 @@ npcs {
   dslash: 14
   dcrush: 13
   dmagic: 5
-  drange: 13
 }
 npcs {
   name: "Starved horror"
@@ -35201,7 +34246,6 @@ npcs {
   dslash: 30
   dcrush: 50
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 15218
@@ -35245,7 +34289,6 @@ npcs {
   dslash: 25
   dcrush: 15
   dmagic: 10
-  drange: 40
   attributes: "Golem"
 }
 npcs {
@@ -35264,7 +34307,6 @@ npcs {
   dstab: 10
   dslash: 10
   dmagic: 55
-  drange: 25
   attributes: "Golem"
 }
 npcs {
@@ -35308,7 +34350,6 @@ npcs {
   dslash: 90
   dcrush: 80
   dmagic: -10
-  drange: 160
 }
 npcs {
   ids: 12075
@@ -35380,7 +34421,6 @@ npcs {
   dslash: 93
   dcrush: 98
   dmagic: 1
-  drange: 82
 }
 npcs {
   ids: 12268
@@ -35569,7 +34609,6 @@ npcs {
   dslash: 10
   dcrush: 5
   dmagic: 5
-  drange: 20
 }
 npcs {
   ids: 5043
@@ -35586,7 +34625,6 @@ npcs {
   dslash: 50
   dcrush: 45
   dmagic: -12
-  drange: 45
 }
 npcs {
   ids: 8614
@@ -35600,7 +34638,6 @@ npcs {
   dstab: 15
   dslash: 25
   dcrush: 25
-  drange: 15
 }
 npcs {
   ids: 12458
@@ -35615,7 +34652,6 @@ npcs {
   dstab: 15
   dslash: 25
   dcrush: 25
-  drange: 15
 }
 npcs {
   ids: 12458
@@ -35630,7 +34666,6 @@ npcs {
   dstab: 15
   dslash: 25
   dcrush: 25
-  drange: 15
 }
 npcs {
   ids: 13033
@@ -35646,7 +34681,6 @@ npcs {
   dslash: 50
   dcrush: 10
   dmagic: 200
-  drange: 200
   attributes: "spectral"
 }
 npcs {
@@ -35663,7 +34697,6 @@ npcs {
   dslash: 50
   dcrush: 10
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 69
@@ -35809,7 +34842,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 8297
@@ -35825,7 +34857,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 100
-  drange: -55
 }
 npcs {
   ids: 8298
@@ -35841,7 +34872,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 100
-  drange: -55
 }
 npcs {
   ids: 8299
@@ -35857,7 +34887,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 100
-  drange: -55
 }
 npcs {
   ids: 8578
@@ -35925,7 +34954,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: 140
-  drange: 120
   attributes: "dragon"
 }
 npcs {
@@ -36007,7 +35035,6 @@ npcs {
   dslash: 25
   dcrush: 19
   dmagic: -4
-  drange: 20
 }
 npcs {
   ids: 6477
@@ -36022,7 +35049,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 50
-  drange: 50
 }
 npcs {
   ids: 6476
@@ -36037,7 +35063,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 50
-  drange: 50
   attributes: "undead"
 }
 npcs {
@@ -36133,7 +35158,6 @@ npcs {
   dslash: 30
   dcrush: 10
   dmagic: 25
-  drange: 20
 }
 npcs {
   ids: 5912
@@ -36248,7 +35272,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 500
-  drange: 500
   attributes: "undead"
 }
 npcs {
@@ -36300,7 +35323,6 @@ npcs {
   dslash: 30
   dcrush: 80
   dmagic: 200
-  drange: 50
   attributes: "spectral"
 }
 npcs {
@@ -36486,7 +35508,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: -10
-  drange: 20
 }
 npcs {
   ids: 6383
@@ -36502,7 +35523,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: -10
-  drange: 20
 }
 npcs {
   ids: 6322
@@ -36518,7 +35538,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: -10
-  drange: 20
 }
 npcs {
   ids: 10814
@@ -36618,7 +35637,6 @@ npcs {
   mage: 1
   range: 1
   dmagic: 10000
-  drange: 10000
 }
 npcs {
   ids: 3475
@@ -36665,7 +35683,6 @@ npcs {
   dslash: 4
   dcrush: 9
   dmagic: 800
-  drange: 900
 }
 npcs {
   ids: 13659
@@ -36681,7 +35698,6 @@ npcs {
   dslash: 12
   dcrush: 20
   dmagic: 200
-  drange: 300
 }
 npcs {
   ids: 13659
@@ -36697,7 +35713,6 @@ npcs {
   dslash: 12
   dcrush: 20
   dmagic: 200
-  drange: 300
 }
 npcs {
   ids: 3252
@@ -36791,7 +35806,6 @@ npcs {
   dslash: 13
   dcrush: 14
   dmagic: 4
-  drange: 9
 }
 npcs {
   ids: 7914
@@ -36809,7 +35823,6 @@ npcs {
   dslash: 14
   dcrush: 19
   dmagic: 4
-  drange: 16
 }
 npcs {
   ids: 7915
@@ -36827,7 +35840,6 @@ npcs {
   dslash: 14
   dcrush: 19
   dmagic: 4
-  drange: 16
 }
 npcs {
   ids: 7916
@@ -36845,7 +35857,6 @@ npcs {
   dslash: 14
   dcrush: 19
   dmagic: 4
-  drange: 16
 }
 npcs {
   ids: 13291
@@ -36938,7 +35949,6 @@ npcs {
   dslash: 6
   dcrush: 5
   dmagic: 65
-  drange: -5
 }
 npcs {
   ids: 8636
@@ -36955,7 +35965,6 @@ npcs {
   dslash: 47
   dcrush: 60
   dmagic: 60
-  drange: 55
 }
 npcs {
   ids: 8635
@@ -36972,7 +35981,6 @@ npcs {
   dslash: 108
   dcrush: 113
   dmagic: -4
-  drange: 97
 }
 npcs {
   ids: 3682
@@ -36987,7 +35995,6 @@ npcs {
   dslash: -12
   dcrush: -12
   dmagic: -12
-  drange: -12
 }
 npcs {
   ids: 3677
@@ -37105,7 +36112,6 @@ npcs {
   mage: 1
   range: 1
   dmagic: 50
-  drange: 50
 }
 npcs {
   ids: 1076
@@ -37117,7 +36123,6 @@ npcs {
   mage: 1
   range: 1
   dmagic: 50
-  drange: 50
 }
 npcs {
   ids: 1077
@@ -37129,7 +36134,6 @@ npcs {
   mage: 1
   range: 1
   dmagic: 50
-  drange: 50
 }
 npcs {
   ids: 1676
@@ -37440,7 +36444,6 @@ npcs {
   range: 20
   rngbns: 16
   dmagic: 6
-  drange: 12
 }
 npcs {
   ids: 6066
@@ -37454,7 +36457,6 @@ npcs {
   range: 40
   rngbns: 22
   dmagic: 24
-  drange: 40
 }
 npcs {
   ids: 6067
@@ -37468,7 +36470,6 @@ npcs {
   range: 60
   rngbns: 31
   dmagic: 20
-  drange: 45
 }
 npcs {
   ids: 6068
@@ -37482,7 +36483,6 @@ npcs {
   range: 80
   rngbns: 49
   dmagic: 34
-  drange: 66
 }
 npcs {
   ids: 4405
@@ -37648,7 +36648,6 @@ npcs {
   dslash: 5
   dcrush: 5
   dmagic: -5
-  drange: 5
   attributes: "spectral, undead"
 }
 npcs {
@@ -37665,7 +36664,6 @@ npcs {
   dslash: 5
   dcrush: 5
   dmagic: -5
-  drange: 5
   attributes: "spectral"
 }
 npcs {
@@ -37682,7 +36680,6 @@ npcs {
   dslash: 5
   dcrush: 5
   dmagic: -5
-  drange: 5
   attributes: "spectral"
 }
 npcs {
@@ -37778,7 +36775,6 @@ npcs {
   dslash: 25
   dcrush: 40
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 4120
@@ -37842,7 +36838,6 @@ npcs {
   strbns: 20
   dcrush: 10
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 3130
@@ -37877,7 +36872,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: -30
-  drange: 70
 }
 npcs {
   ids: 11758
@@ -37898,7 +36892,6 @@ npcs {
   dslash: 70
   dcrush: 70
   dmagic: -30
-  drange: 70
 }
 npcs {
   ids: 11762
@@ -37919,7 +36912,6 @@ npcs {
   dslash: 40
   dcrush: 20
   dmagic: 20
-  drange: 20
 }
 npcs {
   ids: 11764
@@ -37940,7 +36932,6 @@ npcs {
   dslash: 40
   dcrush: 20
   dmagic: 20
-  drange: 20
 }
 npcs {
   ids: 11762
@@ -37961,7 +36952,6 @@ npcs {
   dslash: 40
   dcrush: 20
   dmagic: 20
-  drange: 20
 }
 npcs {
   ids: 15551
@@ -38069,7 +37059,6 @@ npcs {
   strbns: 20
   dcrush: 10
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 4133
@@ -38083,7 +37072,6 @@ npcs {
   strbns: 20
   dcrush: 10
   dmagic: 200
-  drange: 200
 }
 npcs {
   ids: 7272
@@ -38097,7 +37085,6 @@ npcs {
   dstab: 15
   dslash: 15
   dcrush: 15
-  drange: 15
   attributes: "undead, spectral"
 }
 npcs {
@@ -38137,7 +37124,6 @@ npcs {
   dslash: 84
   dcrush: 76
   dmagic: -10
-  drange: 79
 }
 npcs {
   ids: 2191
@@ -38295,7 +37281,6 @@ npcs {
   arange: 550
   rngbns: 200
   dmagic: 350
-  drange: 100
 }
 npcs {
   ids: 7706
@@ -38313,7 +37298,6 @@ npcs {
   arange: 550
   rngbns: 200
   dmagic: 350
-  drange: 100
 }
 npcs {
   ids: 3127
@@ -38413,7 +37397,6 @@ npcs {
   dslash: 100
   dcrush: 100
   dmagic: 150
-  drange: 25
 }
 npcs {
   name: "Unbound JalTok-Jad"
@@ -38442,7 +37425,6 @@ npcs {
   dslash: -42
   dcrush: -42
   dmagic: -42
-  drange: -42
   attributes: "undead"
 }
 npcs {
@@ -38460,7 +37442,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
   attributes: "undead"
 }
 npcs {
@@ -38479,7 +37460,6 @@ npcs {
   dslash: 30
   dcrush: 80
   dmagic: 140
-  drange: 40
   attributes: "undead"
 }
 npcs {
@@ -38668,7 +37648,6 @@ npcs {
   dslash: 5
   dcrush: 3
   dmagic: 1
-  drange: 4
   attributes: "undead"
 }
 npcs {
@@ -38721,7 +37700,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
 }
 npcs {
   ids: 10592
@@ -38736,7 +37714,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
 }
 npcs {
   name: "Underwater horror"
@@ -38854,7 +37831,6 @@ npcs {
   dslash: -12
   dcrush: -12
   dmagic: -12
-  drange: -12
 }
 npcs {
   ids: 4436
@@ -39054,7 +38030,6 @@ npcs {
   dslash: 340
   dcrush: 400
   dmagic: 110
-  drange: 50
   attributes: "xerician"
 }
 npcs {
@@ -39073,7 +38048,6 @@ npcs {
   dslash: 150
   dcrush: 150
   dmagic: 20
-  drange: 400
   attributes: "xerician"
 }
 npcs {
@@ -39092,7 +38066,6 @@ npcs {
   dslash: 60
   dcrush: 100
   dmagic: 400
-  drange: 300
   attributes: "xerician"
 }
 npcs {
@@ -39111,7 +38084,6 @@ npcs {
   dslash: 340
   dcrush: 400
   dmagic: 110
-  drange: 50
   attributes: "xerician"
 }
 npcs {
@@ -39130,7 +38102,6 @@ npcs {
   dslash: 150
   dcrush: 150
   dmagic: 20
-  drange: 400
   attributes: "xerician"
 }
 npcs {
@@ -39149,7 +38120,6 @@ npcs {
   dslash: 60
   dcrush: 100
   dmagic: 400
-  drange: 300
   attributes: "xerician"
 }
 npcs {
@@ -39193,7 +38163,6 @@ npcs {
   dslash: 34
   dcrush: 34
   dmagic: 34
-  drange: 34
   attributes: "vampyre3"
 }
 npcs {
@@ -39211,7 +38180,6 @@ npcs {
   dslash: 65
   dcrush: 85
   dmagic: 400
-  drange: 300
 }
 npcs {
   ids: 13656
@@ -39228,7 +38196,6 @@ npcs {
   dslash: 65
   dcrush: 85
   dmagic: 400
-  drange: 300
 }
 npcs {
   ids: 13656
@@ -39245,7 +38212,6 @@ npcs {
   dslash: 65
   dcrush: 85
   dmagic: 400
-  drange: 300
 }
 npcs {
   ids: 7566
@@ -39307,7 +38273,6 @@ npcs {
   dslash: 100
   dcrush: 10
   dmagic: 300
-  drange: 150
 }
 npcs {
   ids: 6504
@@ -39322,7 +38287,6 @@ npcs {
   dslash: 260
   dcrush: 260
   dmagic: 850
-  drange: 100
 }
 npcs {
   ids: 12000
@@ -39347,7 +38311,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 1677
@@ -39364,7 +38327,6 @@ npcs {
   dstab: 227
   dslash: 230
   dcrush: 221
-  drange: 225
   attributes: "spectral"
 }
 npcs {
@@ -39387,7 +38349,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: 10
-  drange: 10
 }
 npcs {
   ids: 10833
@@ -39408,7 +38369,6 @@ npcs {
   dslash: 20
   dcrush: 40
   dmagic: 40
-  drange: 180
 }
 npcs {
   ids: 10835
@@ -39431,7 +38391,6 @@ npcs {
   dslash: 10
   dcrush: 30
   dmagic: 60
-  drange: 100
 }
 npcs {
   ids: 8369
@@ -39453,7 +38412,6 @@ npcs {
   dslash: 20
   dcrush: 20
   dmagic: 20
-  drange: 20
 }
 npcs {
   ids: 8372
@@ -39474,7 +38432,6 @@ npcs {
   dslash: 60
   dcrush: 100
   dmagic: 70
-  drange: 250
 }
 npcs {
   ids: 8374
@@ -39497,7 +38454,6 @@ npcs {
   dslash: 30
   dcrush: 70
   dmagic: 100
-  drange: 230
 }
 npcs {
   ids: 10847
@@ -39519,7 +38475,6 @@ npcs {
   dslash: 20
   dcrush: 20
   dmagic: 20
-  drange: 20
 }
 npcs {
   ids: 10850
@@ -39540,7 +38495,6 @@ npcs {
   dslash: 60
   dcrush: 100
   dmagic: 70
-  drange: 250
 }
 npcs {
   ids: 10852
@@ -39563,7 +38517,6 @@ npcs {
   dslash: 30
   dcrush: 70
   dmagic: 100
-  drange: 230
 }
 npcs {
   ids: 7538
@@ -39645,7 +38598,6 @@ npcs {
   dslash: 200
   dcrush: -10
   dmagic: 250
-  drange: 270
   attributes: "undead"
 }
 npcs {
@@ -39662,7 +38614,6 @@ npcs {
   dslash: 200
   dcrush: -10
   dmagic: 250
-  drange: 270
   attributes: "undead"
 }
 npcs {
@@ -39778,7 +38729,6 @@ npcs {
   dslash: 900
   dcrush: 900
   dmagic: -60
-  drange: -50
 }
 npcs {
   ids: 8059
@@ -39799,7 +38749,6 @@ npcs {
   dslash: 108
   dcrush: 108
   dmagic: 240
-  drange: 26
   attributes: "dragon,undead,fiery"
 }
 npcs {
@@ -39820,7 +38769,6 @@ npcs {
   dslash: 126
   dcrush: 126
   dmagic: 204
-  drange: 80
   attributes: "dragon,undead,fiery"
 }
 npcs {
@@ -40096,7 +39044,6 @@ npcs {
   dslash: 150
   dcrush: 175
   dmagic: 250
-  drange: -10
 }
 npcs {
   ids: 5939
@@ -40112,7 +39059,6 @@ npcs {
   dslash: 150
   dcrush: 175
   dmagic: 250
-  drange: 10
 }
 npcs {
   ids: 7277
@@ -40190,7 +39136,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 50
-  drange: 50
 }
 npcs {
   ids: 3260
@@ -40210,7 +39155,6 @@ npcs {
   dslash: 41
   dcrush: 37
   dmagic: -10
-  drange: 38
 }
 npcs {
   ids: 11925
@@ -40230,7 +39174,6 @@ npcs {
   dslash: 41
   dcrush: 37
   dmagic: -10
-  drange: 38
 }
 npcs {
   ids: 11926
@@ -40250,7 +39193,6 @@ npcs {
   dslash: 41
   dcrush: 37
   dmagic: -10
-  drange: 38
 }
 npcs {
   ids: 11927
@@ -40270,7 +39212,6 @@ npcs {
   dslash: 41
   dcrush: 37
   dmagic: -10
-  drange: 38
 }
 npcs {
   ids: 11928
@@ -40290,7 +39231,6 @@ npcs {
   dslash: 41
   dcrush: 37
   dmagic: -10
-  drange: 38
 }
 npcs {
   ids: 11929
@@ -40310,7 +39250,6 @@ npcs {
   dslash: 41
   dcrush: 37
   dmagic: -10
-  drange: 38
 }
 npcs {
   ids: 10393
@@ -40352,7 +39291,6 @@ npcs {
   dslash: 14
   dcrush: 19
   dmagic: -4
-  drange: 16
 }
 npcs {
   ids: 1370
@@ -40417,7 +39355,6 @@ npcs {
   dslash: 23
   dcrush: 21
   dmagic: -6
-  drange: 20
 }
 npcs {
   ids: 7751
@@ -40683,7 +39620,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 3136
@@ -40699,7 +39635,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   name: "Whale"
@@ -40729,7 +39664,6 @@ npcs {
   dslash: 300
   dcrush: 220
   dmagic: 10
-  drange: 300
 }
 npcs {
   ids: 12204
@@ -40752,7 +39686,6 @@ npcs {
   dslash: 300
   dcrush: 220
   dmagic: 10
-  drange: 300
 }
 npcs {
   ids: 12206
@@ -40775,7 +39708,6 @@ npcs {
   dslash: 300
   dcrush: 220
   dmagic: 10
-  drange: 300
 }
 npcs {
   ids: 4743
@@ -40790,7 +39722,6 @@ npcs {
   dslash: 300
   dcrush: 300
   dmagic: 300
-  drange: 300
   attributes: "Golem"
 }
 npcs {
@@ -40956,7 +39887,6 @@ npcs {
   dslash: 76
   dcrush: 70
   dmagic: -11
-  drange: 74
 }
 npcs {
   ids: 107
@@ -41246,7 +40176,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: 10
-  drange: 10
 }
 npcs {
   ids: 3111
@@ -41264,7 +40193,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 3112
@@ -41281,7 +40209,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 3113
@@ -41298,7 +40225,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 3015
@@ -41314,7 +40240,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 11053
@@ -41330,7 +40255,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 11054
@@ -41346,7 +40270,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 14921
@@ -41362,7 +40285,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 3299
@@ -41377,7 +40299,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 1119
@@ -41532,7 +40453,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 50
-  drange: 20
   attributes: "dragon"
 }
 npcs {
@@ -41551,7 +40471,6 @@ npcs {
   dslash: 50
   dcrush: 50
   dmagic: 50
-  drange: 20
   attributes: "dragon"
 }
 npcs {
@@ -41567,7 +40486,6 @@ npcs {
   dslash: 180
   dcrush: 180
   dmagic: 260
-  drange: 30
 }
 npcs {
   ids: 10953
@@ -41582,7 +40500,6 @@ npcs {
   dslash: 180
   dcrush: 180
   dmagic: 260
-  drange: 30
 }
 npcs {
   ids: 10768
@@ -41593,7 +40510,6 @@ npcs {
   def: 100
   mage: 80
   range: 50
-  drange: 100
 }
 npcs {
   ids: 8340
@@ -41604,7 +40520,6 @@ npcs {
   def: 250
   mage: 220
   range: 100
-  drange: 160
 }
 npcs {
   ids: 10772
@@ -41615,7 +40530,6 @@ npcs {
   def: 200
   mage: 220
   range: 100
-  drange: 160
 }
 npcs {
   ids: 2628
@@ -41630,7 +40544,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 5816
@@ -41733,7 +40646,6 @@ npcs {
   mage: 120
   range: 120
   dmagic: 100
-  drange: 100
 }
 npcs {
   ids: 7701
@@ -41750,7 +40662,6 @@ npcs {
   amagic: 100
   arange: 80
   dmagic: 130
-  drange: 130
 }
 npcs {
   ids: 3123
@@ -41787,7 +40698,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 3131
@@ -41933,7 +40843,6 @@ npcs {
   dslash: 160
   dcrush: 260
   dmagic: 200
-  drange: 110
 }
 npcs {
   ids: 11732
@@ -41955,7 +40864,6 @@ npcs {
   dslash: 160
   dcrush: 260
   dmagic: 200
-  drange: 110
 }
 npcs {
   ids: 15237
@@ -42093,7 +41001,6 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
-  drange: -21
 }
 npcs {
   ids: 26
@@ -42306,7 +41213,6 @@ npcs {
   dslash: 8
   dcrush: 12
   dmagic: 10
-  drange: 11
   attributes: "undead"
 }
 npcs {
@@ -42325,7 +41231,6 @@ npcs {
   dslash: 8
   dcrush: 12
   dmagic: 10
-  drange: 11
   attributes: "undead"
 }
 npcs {
@@ -42344,7 +41249,6 @@ npcs {
   dslash: 8
   dcrush: 12
   dmagic: 10
-  drange: 11
   attributes: "undead"
 }
 npcs {
@@ -42363,7 +41267,6 @@ npcs {
   dslash: 8
   dcrush: 12
   dmagic: 10
-  drange: 11
   attributes: "undead"
 }
 npcs {
@@ -42382,7 +41285,6 @@ npcs {
   dslash: 8
   dcrush: 12
   dmagic: 10
-  drange: 11
   attributes: "undead"
 }
 npcs {
@@ -42401,7 +41303,6 @@ npcs {
   dslash: 8
   dcrush: 12
   dmagic: 10
-  drange: 11
   attributes: "undead"
 }
 npcs {
@@ -42420,7 +41321,6 @@ npcs {
   dslash: 8
   dcrush: 12
   dmagic: 10
-  drange: 11
   attributes: "undead"
 }
 npcs {
@@ -42439,7 +41339,6 @@ npcs {
   dslash: 8
   dcrush: 12
   dmagic: 10
-  drange: 11
   attributes: "undead"
 }
 npcs {
@@ -42458,7 +41357,6 @@ npcs {
   dslash: 8
   dcrush: 12
   dmagic: 10
-  drange: 11
   attributes: "undead"
 }
 npcs {
@@ -42477,7 +41375,6 @@ npcs {
   dslash: 8
   dcrush: 12
   dmagic: 10
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -42496,7 +41393,6 @@ npcs {
   dslash: 8
   dcrush: 12
   dmagic: 10
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -42515,7 +41411,6 @@ npcs {
   dslash: 8
   dcrush: 12
   dmagic: 10
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -42534,7 +41429,6 @@ npcs {
   dslash: 8
   dcrush: 12
   dmagic: 10
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -42553,7 +41447,6 @@ npcs {
   dslash: 8
   dcrush: 12
   dmagic: 10
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -42570,7 +41463,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -42587,7 +41479,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -42604,7 +41495,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -42621,7 +41511,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -42640,7 +41529,6 @@ npcs {
   dslash: 8
   dcrush: 12
   dmagic: 10
-  drange: 11
   attributes: "undead"
 }
 npcs {
@@ -42669,7 +41557,6 @@ npcs {
   dslash: 20
   dcrush: 25
   dmagic: 10
-  drange: 30
   attributes: "undead"
 }
 npcs {
@@ -42687,7 +41574,6 @@ npcs {
   dslash: 10
   dcrush: 15
   dmagic: 30
-  drange: 20
   attributes: "undead"
 }
 npcs {
@@ -42705,7 +41591,6 @@ npcs {
   dslash: 30
   dcrush: 35
   dmagic: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -42804,7 +41689,6 @@ npcs {
   dstab: 19
   dslash: 18
   dmagic: 20
-  drange: 21
   attributes: "undead"
 }
 npcs {
@@ -42822,7 +41706,6 @@ npcs {
   dstab: 19
   dslash: 18
   dmagic: 20
-  drange: 21
   attributes: "undead"
 }
 npcs {
@@ -42840,7 +41723,6 @@ npcs {
   dstab: 19
   dslash: 18
   dmagic: 20
-  drange: 21
   attributes: "undead"
 }
 npcs {
@@ -42856,7 +41738,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -42872,7 +41753,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -42888,7 +41768,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -42904,7 +41783,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -42920,7 +41798,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -42936,7 +41813,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -42952,7 +41828,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -42968,7 +41843,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -42984,7 +41858,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -43000,7 +41873,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -43016,7 +41888,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -43032,7 +41903,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -43048,7 +41918,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -43064,7 +41933,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -43080,7 +41948,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -43096,7 +41963,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -43112,7 +41978,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -43128,7 +41993,6 @@ npcs {
   strbns: 10
   dstab: 20
   dslash: 20
-  drange: 10
   attributes: "undead"
 }
 npcs {
@@ -43249,7 +42113,6 @@ npcs {
   dslash: 8
   dcrush: 12
   dmagic: 10
-  drange: 11
   attributes: "undead"
 }
 npcs {
@@ -43268,7 +42131,6 @@ npcs {
   dslash: 8
   dcrush: 12
   dmagic: 10
-  drange: 11
   attributes: "undead"
 }
 npcs {
@@ -43287,7 +42149,6 @@ npcs {
   dslash: 8
   dcrush: 12
   dmagic: 10
-  drange: 11
   attributes: "undead"
 }
 npcs {
@@ -43306,7 +42167,6 @@ npcs {
   dslash: 8
   dcrush: 12
   dmagic: 10
-  drange: 11
   attributes: "undead"
 }
 npcs {
@@ -43325,7 +42185,6 @@ npcs {
   dslash: 8
   dcrush: 12
   dmagic: 10
-  drange: 11
   attributes: "undead"
 }
 npcs {
@@ -43904,7 +42763,6 @@ npcs {
   dslash: 3
   dcrush: 3
   dmagic: -100
-  drange: 3
   attributes: "undead"
 }
 npcs {
@@ -43921,7 +42779,6 @@ npcs {
   dslash: 3
   dcrush: 3
   dmagic: -100
-  drange: 3
   attributes: "undead"
 }
 npcs {
@@ -43985,7 +42842,6 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: 20
-  drange: 20
 }
 npcs {
   ids: 1024
@@ -44001,5 +42857,4 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: 20
-  drange: 20
 }
