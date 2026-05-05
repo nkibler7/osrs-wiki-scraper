@@ -128947,6 +128947,7 @@ items {
     stat_bonuses {
       crush_attack: 60
       magic_attack: 25
+      slash_defence: 5
       crush_defence: 5
       magic_defence: 17
       melee_strength: 50
