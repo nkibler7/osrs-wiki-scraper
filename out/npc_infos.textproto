@@ -4040,6 +4040,12 @@ npcs {
   ids: 14146
   ids: 15610
   name: "Black dragon"
+  hitpoints: 190
+  att: 200
+  str: 200
+  def: 200
+  mage: 100
+  range: 1
 }
 npcs {
   ids: 15025
@@ -21574,6 +21580,21 @@ npcs {
   dcrush: 90
   dmagic: 80
   attributes: "dragon"
+}
+npcs {
+  ids: 239
+  name: "King Black Dragon (Echo)"
+  hitpoints: 840
+  att: 300
+  str: 300
+  def: 300
+  mage: 252
+  range: 1
+  dstab: 60
+  dslash: 90
+  dcrush: 90
+  dmagic: 80
+  attributes: "Dragon, Fiery"
 }
 npcs {
   ids: 6502
