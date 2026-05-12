@@ -1584,6 +1584,10 @@ npcs {
   def: 500
   mage: 1
   range: 1
+  dstab: 275
+  dslash: 275
+  dcrush: 275
+  dmagic: 900
 }
 npcs {
   ids: 15210
@@ -39386,6 +39390,10 @@ npcs {
   def: 500
   mage: 1
   range: 1
+  dstab: 275
+  dslash: 275
+  dcrush: 275
+  dmagic: 900
 }
 npcs {
   ids: 2593
