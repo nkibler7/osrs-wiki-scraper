@@ -3613,18 +3613,6 @@ npcs {
 npcs {
   ids: 3908
   name: "Bear Cub"
-  version: "1"
-  hitpoints: 20
-  att: 10
-  str: 15
-  def: 10
-  mage: 1
-  range: 1
-}
-npcs {
-  ids: 3909
-  name: "Bear Cub"
-  version: "2"
   hitpoints: 20
   att: 10
   str: 15
