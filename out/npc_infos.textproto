@@ -14151,6 +14151,7 @@ npcs {
   str: 90
   def: 60
   mage: 20
+  range: 1
   dstab: 20
   dslash: 50
   dcrush: 30
