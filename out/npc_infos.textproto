@@ -4045,8 +4045,13 @@ npcs {
   hitpoints: 180
   att: 170
   str: 210
-  def: 180
+  def: 100
   mage: 80
+  range: 1
+  dstab: 20
+  dslash: 40
+  dcrush: 20
+  dmagic: 10
 }
 npcs {
   ids: 4742
@@ -14039,6 +14044,10 @@ npcs {
   str: 90
   def: 60
   mage: 20
+  dstab: 20
+  dslash: 50
+  dcrush: 30
+  dmagic: 10
 }
 npcs {
   ids: 5779
