@@ -4042,11 +4042,42 @@ npcs {
 npcs {
   ids: 15025
   name: "Black Eye Bethel"
+  version: "Steel scimitar"
   hitpoints: 180
   att: 170
   str: 210
   def: 100
   mage: 80
+  range: 1
+  dstab: 20
+  dslash: 40
+  dcrush: 20
+  dmagic: 10
+}
+npcs {
+  ids: 15025
+  name: "Black Eye Bethel"
+  version: "Rune scimitar"
+  hitpoints: 180
+  att: 145
+  str: 241
+  def: 85
+  mage: 68
+  range: 1
+  dstab: 20
+  dslash: 40
+  dcrush: 20
+  dmagic: 10
+}
+npcs {
+  ids: 15025
+  name: "Black Eye Bethel"
+  version: "Dragon scimitar"
+  hitpoints: 180
+  att: 95
+  str: 273
+  def: 56
+  mage: 45
   range: 1
   dstab: 20
   dslash: 40
@@ -4667,6 +4698,25 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 15682
+  name: "Bloody Jack"
+  hitpoints: 100
+  att: 55
+  str: 55
+  def: 65
+  mage: 60
+  range: 70
+  attbns: 50
+  strbns: 43
+  amagic: 13
+  arange: 100
+  rngbns: 70
+  dstab: 35
+  dslash: 11
+  dcrush: 40
+  dmagic: 70
+}
+npcs {
   ids: 15166
   name: "Blue dagannoth"
   hitpoints: 120
@@ -4895,6 +4945,25 @@ npcs {
   def: 4
   mage: 1
   range: 1
+}
+npcs {
+  ids: 15678
+  name: "Boatswain Bill Teak"
+  hitpoints: 100
+  att: 55
+  str: 55
+  def: 65
+  mage: 60
+  range: 70
+  attbns: 50
+  strbns: 43
+  amagic: 13
+  arange: 100
+  rngbns: 70
+  dstab: 35
+  dslash: 11
+  dcrush: 40
+  dmagic: 70
 }
 npcs {
   ids: 10691
@@ -5554,6 +5623,44 @@ npcs {
   dstab: 120
   dslash: 140
   dcrush: 137
+}
+npcs {
+  ids: 15684
+  name: "Captain Jack"
+  hitpoints: 150
+  att: 55
+  str: 55
+  def: 75
+  mage: 65
+  range: 80
+  attbns: 50
+  strbns: 43
+  amagic: 13
+  arange: 120
+  rngbns: 75
+  dstab: 35
+  dslash: 11
+  dcrush: 40
+  dmagic: 70
+}
+npcs {
+  ids: 15683
+  name: "Captain Ruban Acer"
+  hitpoints: 150
+  att: 55
+  str: 55
+  def: 75
+  mage: 65
+  range: 80
+  attbns: 50
+  strbns: 43
+  amagic: 13
+  arange: 120
+  rngbns: 75
+  dstab: 35
+  dslash: 11
+  dcrush: 40
+  dmagic: 70
 }
 npcs {
   ids: 2911
@@ -23959,6 +24066,25 @@ npcs {
   dmagic: -10
 }
 npcs {
+  ids: 15679
+  name: "Mister U."
+  hitpoints: 100
+  att: 55
+  str: 55
+  def: 65
+  mage: 60
+  range: 70
+  attbns: 50
+  strbns: 43
+  amagic: 13
+  arange: 100
+  rngbns: 70
+  dstab: 35
+  dslash: 11
+  dcrush: 40
+  dmagic: 70
+}
+npcs {
   ids: 2919
   ids: 8088
   ids: 8089
@@ -24993,6 +25119,25 @@ npcs {
   dslash: 50
 }
 npcs {
+  ids: 15681
+  name: "Mute Jack"
+  hitpoints: 100
+  att: 55
+  str: 55
+  def: 65
+  mage: 60
+  range: 70
+  attbns: 50
+  strbns: 43
+  amagic: 13
+  arange: 100
+  rngbns: 70
+  dstab: 35
+  dslash: 11
+  dcrush: 40
+  dmagic: 70
+}
+npcs {
   ids: 7562
   name: "Muttadile"
   version: "Small"
@@ -25934,6 +26079,25 @@ npcs {
   rngbns: 60
 }
 npcs {
+  ids: 15677
+  name: "Oaky Doak"
+  hitpoints: 100
+  att: 55
+  str: 55
+  def: 65
+  mage: 60
+  range: 70
+  attbns: 50
+  strbns: 43
+  amagic: 13
+  arange: 100
+  rngbns: 70
+  dstab: 35
+  dslash: 11
+  dcrush: 40
+  dmagic: 70
+}
+npcs {
   ids: 11751
   name: "Obelisk"
   hitpoints: 260
@@ -26242,6 +26406,25 @@ npcs {
   mage: 130
   range: 1
   attbns: 50
+}
+npcs {
+  ids: 15680
+  name: "Old Jack"
+  hitpoints: 100
+  att: 55
+  str: 55
+  def: 65
+  mage: 60
+  range: 70
+  attbns: 50
+  strbns: 43
+  amagic: 13
+  arange: 100
+  rngbns: 70
+  dstab: 35
+  dslash: 11
+  dcrush: 40
+  dmagic: 70
 }
 npcs {
   ids: 2062
@@ -27633,6 +27816,10 @@ npcs {
   str: 50
   def: 35
   mage: 10
+  range: 1
+  dstab: 10
+  dslash: 20
+  dcrush: 10
 }
 npcs {
   ids: 15022
@@ -27643,6 +27830,10 @@ npcs {
   str: 50
   def: 35
   mage: 10
+  range: 1
+  dstab: 10
+  dslash: 20
+  dcrush: 10
 }
 npcs {
   ids: 15023
@@ -27653,6 +27844,10 @@ npcs {
   str: 50
   def: 35
   mage: 10
+  range: 1
+  dstab: 10
+  dslash: 20
+  dcrush: 10
 }
 npcs {
   ids: 15024
@@ -27663,6 +27858,10 @@ npcs {
   str: 50
   def: 35
   mage: 10
+  range: 1
+  dstab: 10
+  dslash: 20
+  dcrush: 10
 }
 npcs {
   ids: 14933
