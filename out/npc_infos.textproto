@@ -8863,9 +8863,9 @@ npcs {
   ids: 5079
   name: "Delrith"
   hitpoints: 7
-  att: 11
-  str: 10
-  def: 5
+  att: 32
+  str: 25
+  def: 27
   mage: 1
   range: 1
 }
