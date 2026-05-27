@@ -3648,8 +3648,8 @@ npcs {
 npcs {
   ids: 13658
   name: "Bee Swarm"
-  version: "All-Stars"
-  hitpoints: 750
+  version: "Annihilation"
+  hitpoints: 5000
   att: 400
   str: 100
   def: 30
@@ -3663,8 +3663,8 @@ npcs {
 npcs {
   ids: 13658
   name: "Bee Swarm"
-  version: "Annihilation"
-  hitpoints: 5000
+  version: "Permanent"
+  hitpoints: 1500
   att: 400
   str: 100
   def: 30
@@ -3720,8 +3720,8 @@ npcs {
 npcs {
   ids: 15547
   name: "Big Evil Chicken"
-  version: "Factions"
-  hitpoints: 1000
+  version: "Annihilation"
+  hitpoints: 3500
   att: 255
   str: 255
   def: 25
@@ -3734,8 +3734,8 @@ npcs {
 npcs {
   ids: 15547
   name: "Big Evil Chicken"
-  version: "Annihilation"
-  hitpoints: 3500
+  version: "Permanent"
+  hitpoints: 1000
   att: 255
   str: 255
   def: 25
@@ -5760,6 +5760,17 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 12454
+  name: "Cave abomination"
+  version: "Permanent"
+  hitpoints: 750
+  att: 280
+  str: 250
+  def: 142
+  mage: 230
+  range: 1
+}
+npcs {
   ids: 481
   name: "Cave bug"
   version: "Level 6"
@@ -6201,6 +6212,25 @@ npcs {
   name: "Cerberus"
   version: "Annihilation"
   hitpoints: 2000
+  att: 300
+  str: 280
+  def: 150
+  mage: 220
+  range: 220
+  attbns: 50
+  amagic: 50
+  arange: 50
+  dstab: 50
+  dslash: 100
+  dcrush: 25
+  dmagic: 100
+  attributes: "Demon"
+}
+npcs {
+  ids: 13657
+  name: "Cerberus"
+  version: "Permanent"
+  hitpoints: 750
   att: 300
   str: 280
   def: 150
@@ -6756,6 +6786,24 @@ npcs {
   name: "Commander Zilyana"
   version: "Annihilation"
   hitpoints: 1500
+  att: 280
+  str: 196
+  def: 150
+  mage: 300
+  range: 250
+  attbns: 195
+  strbns: 20
+  amagic: 200
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 100
+}
+npcs {
+  ids: 12445
+  name: "Commander Zilyana"
+  version: "Permanent"
+  hitpoints: 750
   att: 280
   str: 196
   def: 150
@@ -8236,6 +8284,20 @@ npcs {
   dmagic: 255
 }
 npcs {
+  ids: 12442
+  name: "Dagannoth Prime"
+  version: "Permanent"
+  hitpoints: 1000
+  att: 255
+  str: 255
+  def: 125
+  mage: 255
+  dstab: 255
+  dslash: 255
+  dcrush: 255
+  dmagic: 255
+}
+npcs {
   ids: 6497
   name: "Dagannoth Prime"
   hitpoints: 255
@@ -8294,6 +8356,20 @@ npcs {
   name: "Dagannoth Rex"
   version: "Annihilation"
   hitpoints: 3500
+  att: 255
+  str: 255
+  def: 255
+  range: 255
+  dstab: 255
+  dslash: 255
+  dcrush: 255
+  dmagic: 10
+}
+npcs {
+  ids: 12439
+  name: "Dagannoth Rex"
+  version: "Permanent"
+  hitpoints: 1000
   att: 255
   str: 255
   def: 255
@@ -8375,6 +8451,21 @@ npcs {
   name: "Dagannoth Supreme"
   version: "Annihilation"
   hitpoints: 3000
+  att: 255
+  str: 255
+  def: 84
+  mage: 255
+  range: 255
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+  dmagic: 255
+}
+npcs {
+  ids: 12441
+  name: "Dagannoth Supreme"
+  version: "Permanent"
+  hitpoints: 1000
   att: 255
   str: 255
   def: 84
@@ -9040,6 +9131,23 @@ npcs {
   dmagic: -60
 }
 npcs {
+  ids: 12450
+  name: "Derwen"
+  version: "Permanent"
+  hitpoints: 500
+  att: 250
+  str: 150
+  def: 100
+  mage: 180
+  range: 1
+  amagic: 80
+  mbns: 80
+  dstab: 200
+  dslash: 200
+  dcrush: 200
+  dmagic: -60
+}
+npcs {
   ids: 459
   ids: 12003
   name: "Desert Lizard"
@@ -9281,6 +9389,25 @@ npcs {
   ids: 12447
   name: "Dharok the Wretched"
   version: "Annihilation"
+  hitpoints: 300
+  att: 100
+  str: 100
+  def: 200
+  mage: 1
+  range: 1
+  strbns: 105
+  amagic: -58
+  arange: -18
+  dstab: 252
+  dslash: 250
+  dcrush: 244
+  dmagic: -11
+  attributes: "spectral"
+}
+npcs {
+  ids: 12447
+  name: "Dharok the Wretched"
+  version: "Permanent"
   hitpoints: 300
   att: 100
   str: 100
@@ -10342,15 +10469,15 @@ npcs {
 npcs {
   ids: 13662
   name: "Durial321"
-  version: "All-Stars"
-  hitpoints: 500
+  version: "Annihilation"
+  hitpoints: 2500
   att: 95
   str: 98
   def: 88
   mage: 94
   range: 80
   strbns: 105
-  amagic: 47
+  amagic: 150
   arange: -12
   dstab: 148
   dslash: 134
@@ -10360,8 +10487,8 @@ npcs {
 npcs {
   ids: 13662
   name: "Durial321"
-  version: "Annihilation"
-  hitpoints: 2500
+  version: "Permanent"
+  hitpoints: 750
   att: 95
   str: 98
   def: 88
@@ -11100,8 +11227,8 @@ npcs {
 npcs {
   ids: 15552
   name: "Elidinis\' Warden"
-  version: "Factions"
-  hitpoints: 140
+  version: "Annihilation"
+  hitpoints: 3000
   att: 300
   str: 150
   def: 100
@@ -11118,8 +11245,8 @@ npcs {
 npcs {
   ids: 15552
   name: "Elidinis\' Warden"
-  version: "Annihilation"
-  hitpoints: 3000
+  version: "Permanent"
+  hitpoints: 750
   att: 300
   str: 150
   def: 100
@@ -12700,6 +12827,22 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  ids: 12453
+  name: "Flaming pyrelord"
+  version: "Permanent"
+  hitpoints: 750
+  att: 150
+  str: 200
+  def: 150
+  mage: 1
+  range: 1
+  dstab: 18
+  dslash: 18
+  dcrush: 18
+  dmagic: 150
+  attributes: "demon"
+}
+npcs {
   ids: 10695
   name: "Flawed Golem"
   version: "Golem"
@@ -13644,6 +13787,25 @@ npcs {
   dmagic: 201
 }
 npcs {
+  ids: 12444
+  name: "General Graardor"
+  version: "Permanent"
+  hitpoints: 1000
+  att: 280
+  str: 350
+  def: 250
+  mage: 80
+  range: 350
+  attbns: 120
+  strbns: 43
+  arange: 100
+  rngbns: 40
+  dstab: 90
+  dslash: 90
+  dcrush: 90
+  dmagic: 201
+}
+npcs {
   ids: 6494
   name: "General Graardor"
   hitpoints: 255
@@ -14103,6 +14265,23 @@ npcs {
   name: "Giant goblin"
   version: "Annihilation"
   hitpoints: 3500
+  att: 150
+  str: 150
+  def: 200
+  mage: 1
+  range: 1
+  attbns: 120
+  strbns: 43
+  dstab: -15
+  dslash: -15
+  dcrush: -15
+  dmagic: -15
+}
+npcs {
+  ids: 12452
+  name: "Giant goblin"
+  version: "Permanent"
+  hitpoints: 1000
   att: 150
   str: 150
   def: 200
@@ -15564,6 +15743,21 @@ npcs {
   name: "Greater abyssal demon"
   version: "Annihilation"
   hitpoints: 2000
+  att: 300
+  str: 260
+  def: 150
+  mage: 1
+  range: 1
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  attributes: "demon"
+}
+npcs {
+  ids: 12451
+  name: "Greater abyssal demon"
+  version: "Permanent"
+  hitpoints: 750
   att: 300
   str: 260
   def: 150
@@ -19028,7 +19222,23 @@ npcs {
 npcs {
   ids: 15553
   name: "I DSCIM YOU"
+  version: "Annihilation"
   hitpoints: 1500
+  att: 150
+  str: 200
+  def: 25
+  mage: 100
+  range: 25
+  dstab: 25
+  dslash: 25
+  dcrush: 25
+  dmagic: 50
+}
+npcs {
+  ids: 15553
+  name: "I DSCIM YOU"
+  version: "Permanent"
+  hitpoints: 750
   att: 150
   str: 200
   def: 25
@@ -20003,8 +20213,8 @@ npcs {
 npcs {
   ids: 13660
   name: "Jaguar warrior"
-  version: "All-Stars"
-  hitpoints: 750
+  version: "Annihilation"
+  hitpoints: 3000
   att: 200
   str: 165
   def: 100
@@ -20019,8 +20229,8 @@ npcs {
 npcs {
   ids: 13660
   name: "Jaguar warrior"
-  version: "Annihilation"
-  hitpoints: 3000
+  version: "Permanent"
+  hitpoints: 1000
   att: 200
   str: 165
   def: 100
@@ -20233,6 +20443,22 @@ npcs {
   name: "Jal-ImKot"
   version: "Annihilation"
   hitpoints: 3000
+  att: 210
+  str: 290
+  def: 120
+  mage: 120
+  range: 220
+  strbns: 40
+  dstab: 65
+  dslash: 65
+  dcrush: 65
+  dmagic: 30
+}
+npcs {
+  ids: 12455
+  name: "Jal-ImKot"
+  version: "Permanent"
+  hitpoints: 500
   att: 210
   str: 290
   def: 120
@@ -20853,6 +21079,24 @@ npcs {
   dmagic: -60
 }
 npcs {
+  ids: 12449
+  name: "Justiciar Zachariah"
+  version: "Permanent"
+  hitpoints: 500
+  att: 500
+  str: 250
+  def: 100
+  mage: 180
+  range: 1
+  attbns: 200
+  amagic: 80
+  mbns: 80
+  dstab: 200
+  dslash: 200
+  dcrush: 200
+  dmagic: -60
+}
+npcs {
   ids: 14702
   name: "Juvenile custodian stalker"
   hitpoints: 135
@@ -20923,6 +21167,23 @@ npcs {
   name: "K\'ril Tsutsaroth"
   version: "Annihilation"
   hitpoints: 1500
+  att: 340
+  str: 300
+  def: 270
+  mage: 200
+  range: 1
+  attbns: 160
+  strbns: 31
+  dstab: 80
+  dslash: 80
+  dcrush: 80
+  dmagic: 130
+}
+npcs {
+  ids: 12446
+  name: "K\'ril Tsutsaroth"
+  version: "Permanent"
+  hitpoints: 750
   att: 340
   str: 300
   def: 270
@@ -21682,6 +21943,23 @@ npcs {
   hitpoints: 500
   att: 240
   str: 240
+  def: 150
+  mage: 240
+  range: 1
+  dstab: 70
+  dslash: 90
+  dcrush: 90
+  dmagic: 80
+  attributes: "dragon"
+}
+npcs {
+  ids: 12440
+  name: "King Black Dragon"
+  version: "Permanent"
+  hitpoints: 350
+  att: 240
+  str: 240
+  def: 150
   mage: 240
   range: 1
   dstab: 70
@@ -23159,8 +23437,8 @@ npcs {
 npcs {
   ids: 13663
   name: "Magic Mark"
-  version: "All-Stars"
-  hitpoints: 500
+  version: "Annihilation"
+  hitpoints: 3500
   att: 10
   str: 30
   def: 30
@@ -23174,8 +23452,8 @@ npcs {
 npcs {
   ids: 13663
   name: "Magic Mark"
-  version: "Annihilation"
-  hitpoints: 3500
+  version: "Permanent"
+  hitpoints: 1500
   att: 10
   str: 30
   def: 30
@@ -23243,6 +23521,18 @@ npcs {
   name: "Malevolent Mage"
   version: "Annihilation"
   hitpoints: 2000
+  att: 1
+  str: 1
+  def: 150
+  mage: 255
+  range: 1
+  dmagic: 300
+}
+npcs {
+  ids: 12456
+  name: "Malevolent Mage"
+  version: "Permanent"
+  hitpoints: 500
   att: 1
   str: 1
   def: 150
@@ -25641,6 +25931,18 @@ npcs {
   dmagic: 100
 }
 npcs {
+  ids: 12459
+  name: "Night beast"
+  version: "Permanent"
+  hitpoints: 500
+  att: 270
+  str: 290
+  mage: 300
+  range: 1
+  dstab: 75
+  dslash: 80
+}
+npcs {
   ids: 9425
   ids: 9426
   ids: 9427
@@ -27419,7 +27721,27 @@ npcs {
 npcs {
   ids: 15556
   name: "Pestilent Bloat"
+  version: "Annihilation"
   hitpoints: 2000
+  att: 250
+  str: 340
+  def: 100
+  mage: 150
+  range: 180
+  attbns: 150
+  strbns: 82
+  arange: 180
+  rngbns: 4
+  dstab: 40
+  dslash: 20
+  dcrush: 40
+  dmagic: 600
+}
+npcs {
+  ids: 15556
+  name: "Pestilent Bloat"
+  version: "Permanent"
+  hitpoints: 750
   att: 250
   str: 340
   def: 100
@@ -27569,8 +27891,8 @@ npcs {
 npcs {
   ids: 15549
   name: "Phantom Muspah"
-  version: "Factions"
-  hitpoints: 850
+  version: "Annihilation"
+  hitpoints: 2000
   att: 280
   str: 280
   def: 200
@@ -27590,8 +27912,8 @@ npcs {
 npcs {
   ids: 15549
   name: "Phantom Muspah"
-  version: "Annihilation"
-  hitpoints: 2000
+  version: "Permanent"
+  hitpoints: 500
   att: 280
   str: 280
   def: 200
@@ -28117,6 +28439,24 @@ npcs {
   name: "Porazdir"
   version: "Annihilation"
   hitpoints: 2000
+  att: 250
+  str: 150
+  def: 100
+  mage: 180
+  range: 1
+  amagic: 80
+  mbns: 80
+  dstab: 200
+  dslash: 200
+  dcrush: 200
+  dmagic: -60
+  attributes: "demon"
+}
+npcs {
+  ids: 12448
+  name: "Porazdir"
+  version: "Permanent"
+  hitpoints: 500
   att: 250
   str: 150
   def: 100
@@ -28745,8 +29085,8 @@ npcs {
 npcs {
   ids: 13664
   name: "Ranging Ro"
-  version: "All-Stars"
-  hitpoints: 500
+  version: "Annihilation"
+  hitpoints: 3500
   att: 10
   str: 30
   def: 100
@@ -28761,8 +29101,8 @@ npcs {
 npcs {
   ids: 13664
   name: "Ranging Ro"
-  version: "Annihilation"
-  hitpoints: 3500
+  version: "Permanent"
+  hitpoints: 1500
   att: 10
   str: 30
   def: 100
@@ -30644,8 +30984,8 @@ npcs {
 npcs {
   ids: 15548
   name: "Scurrius"
-  version: "Factions"
-  hitpoints: 1000
+  version: "Annihilation"
+  hitpoints: 5000
   att: 300
   str: 300
   def: 100
@@ -30666,8 +31006,8 @@ npcs {
 npcs {
   ids: 15548
   name: "Scurrius"
-  version: "Annihilation"
-  hitpoints: 5000
+  version: "Permanent"
+  hitpoints: 1000
   att: 300
   str: 300
   def: 100
@@ -33437,7 +33777,27 @@ npcs {
 npcs {
   ids: 15554
   name: "Sol Heredit"
+  version: "Annihilation"
   hitpoints: 1500
+  att: 350
+  str: 400
+  def: 200
+  mage: 300
+  range: 350
+  attbns: 250
+  strbns: 5
+  arange: 150
+  rngbns: 5
+  dstab: 65
+  dslash: 5
+  dcrush: 30
+  dmagic: 750
+}
+npcs {
+  ids: 15554
+  name: "Sol Heredit"
+  version: "Permanent"
+  hitpoints: 750
   att: 350
   str: 400
   def: 200
@@ -34356,7 +34716,19 @@ npcs {
 npcs {
   ids: 15550
   name: "Splatter"
+  version: "Annihilation"
   hitpoints: 2000
+  att: 200
+  str: 250
+  def: 10
+  mage: 300
+  range: 1
+}
+npcs {
+  ids: 15550
+  name: "Splatter"
+  version: "Permanent"
+  hitpoints: 1000
   att: 200
   str: 250
   def: 10
@@ -34880,6 +35252,20 @@ npcs {
   name: "Sulphur Lizard"
   version: "Annihilation"
   hitpoints: 2500
+  att: 150
+  str: 200
+  def: 75
+  mage: 1
+  range: 1
+  dstab: 15
+  dslash: 25
+  dcrush: 25
+}
+npcs {
+  ids: 12458
+  name: "Sulphur Lizard"
+  version: "Permanent"
+  hitpoints: 500
   att: 150
   str: 200
   def: 75
@@ -35926,6 +36312,21 @@ npcs {
   name: "Thermonuclear smoke devil"
   version: "Annihilation"
   hitpoints: 1500
+  att: 230
+  str: 220
+  def: 150
+  mage: 1
+  range: 310
+  dstab: 30
+  dslash: 12
+  dcrush: 20
+  dmagic: 200
+}
+npcs {
+  ids: 13659
+  name: "Thermonuclear smoke devil"
+  version: "Permanent"
+  hitpoints: 500
   att: 230
   str: 220
   def: 150
@@ -37178,8 +37579,8 @@ npcs {
 npcs {
   ids: 15551
   name: "Tumeken\'s Warden"
-  version: "Factions"
-  hitpoints: 1000
+  version: "Annihilation"
+  hitpoints: 3000
   att: 300
   str: 150
   def: 100
@@ -37197,8 +37598,8 @@ npcs {
 npcs {
   ids: 15551
   name: "Tumeken\'s Warden"
-  version: "Annihilation"
-  hitpoints: 3000
+  version: "Permanent"
+  hitpoints: 750
   att: 300
   str: 150
   def: 100
@@ -37546,19 +37947,19 @@ npcs {
 npcs {
   ids: 13661
   name: "TzTok-Jad"
-  version: "All-Stars"
-  hitpoints: 1000
-  att: 350
-  str: 350
+  version: "Annihilation"
+  hitpoints: 5000
+  att: 640
+  str: 770
   def: 200
-  mage: 450
-  range: 450
+  mage: 750
+  range: 750
 }
 npcs {
   ids: 13661
   name: "TzTok-Jad"
-  version: "Annihilation"
-  hitpoints: 5000
+  version: "Permanent"
+  hitpoints: 2000
   att: 640
   str: 770
   def: 200
@@ -38406,11 +38807,11 @@ npcs {
 npcs {
   ids: 13656
   name: "Vardorvis"
-  version: "All-Stars"
-  hitpoints: 500
+  version: "Annihilation"
+  hitpoints: 2500
   att: 200
   str: 250
-  def: 100
+  def: 25
   mage: 300
   attbns: 200
   strbns: 10
@@ -38422,8 +38823,8 @@ npcs {
 npcs {
   ids: 13656
   name: "Vardorvis"
-  version: "Annihilation"
-  hitpoints: 2500
+  version: "Permanent"
+  hitpoints: 1000
   att: 200
   str: 250
   def: 25
@@ -38895,6 +39296,17 @@ npcs {
   name: "Vitreous warped Jelly"
   version: "Annihilation"
   hitpoints: 3000
+  att: 200
+  str: 250
+  def: 50
+  mage: 180
+  range: 1
+}
+npcs {
+  ids: 12457
+  name: "Vitreous warped Jelly"
+  version: "Permanent"
+  hitpoints: 500
   att: 200
   str: 250
   def: 50
@@ -40806,8 +41218,8 @@ npcs {
 npcs {
   ids: 15555
   name: "Yama"
-  version: "Factions"
-  hitpoints: 2500
+  version: "Annihilation"
+  hitpoints: 3000
   att: 320
   str: 350
   def: 225
@@ -40828,8 +41240,8 @@ npcs {
 npcs {
   ids: 15555
   name: "Yama"
-  version: "Annihilation"
-  hitpoints: 3000
+  version: "Permanent"
+  hitpoints: 1000
   att: 320
   str: 350
   def: 225
@@ -41094,8 +41506,23 @@ npcs {
 npcs {
   ids: 15237
   name: "Zemouregal"
-  version: "Breach"
+  version: "Annihilation"
   hitpoints: 2500
+  att: 1
+  str: 1
+  def: 125
+  mage: 255
+  range: 1
+  dstab: 30
+  dslash: 30
+  dcrush: 30
+  dmagic: 255
+}
+npcs {
+  ids: 15237
+  name: "Zemouregal"
+  version: "Permanent"
+  hitpoints: 750
   att: 1
   str: 1
   def: 125
