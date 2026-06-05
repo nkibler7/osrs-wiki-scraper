@@ -129571,7 +129571,7 @@ items {
   key: 33330
   value {
     id: 33330
-    name: "Iban\'s staff"
+    name: "Iban\'s staff (o)"
     stat_bonuses {
       stab_attack: 10
       slash_attack: -1
