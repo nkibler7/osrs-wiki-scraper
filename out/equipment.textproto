@@ -129336,7 +129336,7 @@ items {
   key: 33320
   value {
     id: 33320
-    name: "Uncharged toxic trident (e)"
+    name: "Uncharged toxic trident (e) (o)"
     stat_bonuses {
       magic_attack: 25
       stab_defence: 2
