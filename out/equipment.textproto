@@ -129758,7 +129758,7 @@ items {
   key: 33338
   value {
     id: 33338
-    name: "Demonic slayer helmet"
+    name: "Oathplate slayer helmet"
     stat_bonuses {
       ranged_attack: -2
       magic_attack: -6
@@ -129774,7 +129774,7 @@ items {
   key: 33340
   value {
     id: 33340
-    name: "Demonic slayer helmet"
+    name: "Radiant slayer helmet"
     stat_bonuses {
       ranged_attack: -2
       magic_attack: -6
@@ -130067,6 +130067,140 @@ items {
           attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
         }
       }
+    }
+  }
+}
+items {
+  key: 33434
+  value {
+    id: 33434
+    name: "Uncharged trident (o)"
+    weapon_details {
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          magic_modifier: 3
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+          magic_modifier: 1
+          attack_range_modifier: 2
+        }
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33439
+  value {
+    id: 33439
+    name: "Oathplate slayer helmet (i)"
+    stat_bonuses {
+      ranged_attack: 3
+      magic_attack: 3
+      stab_defence: 30
+      slash_defence: 32
+      crush_defence: 27
+      ranged_defence: 30
+      magic_defence: 10
+    }
+  }
+}
+items {
+  key: 33441
+  value {
+    id: 33441
+    name: "Oathplate slayer helmet (i)"
+    stat_bonuses {
+      ranged_attack: 3
+      magic_attack: 3
+      stab_defence: 30
+      slash_defence: 32
+      crush_defence: 27
+      ranged_defence: 30
+      magic_defence: 10
+    }
+  }
+}
+items {
+  key: 33443
+  value {
+    id: 33443
+    name: "Oathplate slayer helmet (i)"
+    stat_bonuses {
+      ranged_attack: 3
+      magic_attack: 3
+      stab_defence: 30
+      slash_defence: 32
+      crush_defence: 27
+      ranged_defence: 30
+      magic_defence: 10
+    }
+  }
+}
+items {
+  key: 33445
+  value {
+    id: 33445
+    name: "Radiant slayer helmet (i)"
+    stat_bonuses {
+      ranged_attack: 3
+      magic_attack: 3
+      stab_defence: 30
+      slash_defence: 32
+      crush_defence: 27
+      ranged_defence: 30
+      magic_defence: 10
+    }
+  }
+}
+items {
+  key: 33447
+  value {
+    id: 33447
+    name: "Radiant slayer helmet (i)"
+    stat_bonuses {
+      ranged_attack: 3
+      magic_attack: 3
+      stab_defence: 30
+      slash_defence: 32
+      crush_defence: 27
+      ranged_defence: 30
+      magic_defence: 10
+    }
+  }
+}
+items {
+  key: 33449
+  value {
+    id: 33449
+    name: "Radiant slayer helmet (i)"
+    stat_bonuses {
+      ranged_attack: 3
+      magic_attack: 3
+      stab_defence: 30
+      slash_defence: 32
+      crush_defence: 27
+      ranged_defence: 30
+      magic_defence: 10
     }
   }
 }
