@@ -33980,6 +33980,7 @@ npcs {
   def: 50
   mage: 1
   range: 1
+  attributes: "undead"
 }
 npcs {
   ids: 562
@@ -33991,6 +33992,7 @@ npcs {
   def: 50
   mage: 1
   range: 1
+  attributes: "undead"
 }
 npcs {
   ids: 10864
