@@ -818,11 +818,27 @@ npcs {
 npcs {
   ids: 13685
   name: "Amoxliatl"
+  version: "Post-quest"
   hitpoints: 520
   def: 80
   mage: 170
   amagic: 160
   mbns: 15
+  dstab: 100
+  dslash: 100
+  dcrush: 40
+  dmagic: 100
+  attributes: "Spectral"
+}
+npcs {
+  ids: 13686
+  name: "Amoxliatl"
+  version: "Quest"
+  hitpoints: 400
+  def: 60
+  mage: 140
+  amagic: 140
+  mbns: 5
   dstab: 100
   dslash: 100
   dcrush: 40
