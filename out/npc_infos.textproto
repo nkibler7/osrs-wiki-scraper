@@ -19207,6 +19207,38 @@ npcs {
   dmagic: 80
 }
 npcs {
+  ids: 9466
+  name: "Husk"
+  version: "Magic"
+  hitpoints: 20
+  att: 1
+  str: 1
+  def: 20
+  mage: 80
+  amagic: 168
+  mbns: 82
+  dstab: 20
+  dslash: 20
+  dcrush: 20
+  dmagic: 80
+}
+npcs {
+  ids: 9467
+  name: "Husk"
+  version: "Ranged"
+  hitpoints: 20
+  att: 1
+  str: 1
+  def: 20
+  range: 80
+  arange: 168
+  rngbns: 82
+  dstab: 20
+  dslash: 20
+  dcrush: 20
+  dmagic: 80
+}
+npcs {
   ids: 8609
   name: "Hydra"
   hitpoints: 300
@@ -27185,6 +27217,44 @@ npcs {
   dmagic: 120
 }
 npcs {
+  ids: 9468
+  name: "Parasite"
+  version: "Regular"
+  hitpoints: 55
+  att: 1
+  str: 1
+  def: 60
+  mage: 60
+  range: 60
+  amagic: 84
+  mbns: 142
+  arange: 84
+  rngbns: 142
+  dstab: 60
+  dslash: 80
+  dcrush: 20
+  dmagic: 120
+}
+npcs {
+  ids: 9469
+  name: "Parasite"
+  version: "Weakened"
+  hitpoints: 55
+  att: 1
+  str: 1
+  def: 40
+  mage: 60
+  range: 60
+  amagic: 44
+  mbns: 102
+  arange: 44
+  rngbns: 102
+  dstab: 50
+  dslash: 70
+  dcrush: 10
+  dmagic: 100
+}
+npcs {
   ids: 12833
   name: "Passionate Supporter"
   hitpoints: 10
@@ -33536,6 +33606,17 @@ npcs {
   ids: 9451
   name: "Sleepwalker"
   version: "6"
+  hitpoints: 10
+  att: 1
+  str: 1
+  dstab: -100
+  dslash: -100
+  dcrush: -100
+  dmagic: -100
+}
+npcs {
+  ids: 9470
+  name: "Sleepwalker"
   hitpoints: 10
   att: 1
   str: 1
