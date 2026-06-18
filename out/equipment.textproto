@@ -102198,11 +102198,7 @@ items {
   key: 28949
   value {
     id: 28949
-    name: "Dizana\'s quiver (uncharged) (l)"
-    stat_bonuses {
-      ranged_attack: 18
-      ranged_strength: 3
-    }
+    name: "Dizana\'s quiver (l) (uncharged)"
   }
 }
 items {
@@ -102221,10 +102217,6 @@ items {
   value {
     id: 28953
     name: "Dizana\'s quiver (l)"
-    stat_bonuses {
-      ranged_attack: 18
-      ranged_strength: 3
-    }
   }
 }
 items {
