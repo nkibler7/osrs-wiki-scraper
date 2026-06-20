@@ -22017,7 +22017,6 @@ npcs {
   attributes: "dragon"
 }
 npcs {
-  ids: 239
   name: "King Black Dragon (Echo)"
   hitpoints: 840
   att: 300
