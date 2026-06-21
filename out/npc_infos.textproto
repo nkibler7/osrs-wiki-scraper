@@ -31419,7 +31419,6 @@ npcs {
 }
 npcs {
   ids: 4004
-  ids: 764
   name: "Shadow"
   hitpoints: 15
   att: 90
