@@ -74840,10 +74840,10 @@ items {
   key: 23595
   value {
     id: 23595
-    name: "Berserker ring"
+    name: "Berserker ring (i)"
     stat_bonuses {
-      crush_defence: 4
-      melee_strength: 4
+      crush_defence: 8
+      melee_strength: 8
     }
   }
 }
@@ -130194,6 +130194,23 @@ items {
           attack_style: RANGED_ATTACK_STYLE_LONGRANGE
         }
       }
+    }
+  }
+}
+items {
+  key: 33462
+  value {
+    id: 33462
+    name: "Oathplate helm (Last Man Standing)"
+    stat_bonuses {
+      slash_attack: 10
+      ranged_attack: -7
+      magic_attack: -2
+      stab_defence: 50
+      slash_defence: 72
+      crush_defence: 45
+      ranged_defence: 50
+      melee_strength: 6
     }
   }
 }
