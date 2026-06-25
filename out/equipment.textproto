@@ -88163,7 +88163,7 @@ items {
   key: 26237
   value {
     id: 26237
-    name: "Zaryte bow (uncharged)"
+    name: "Zaryte bow"
     stat_bonuses {
       ranged_attack: 100
       ranged_strength: 10
@@ -111836,6 +111836,46 @@ items {
   }
 }
 items {
+  key: 32488
+  value {
+    id: 32488
+    name: "Crate of glassmaking supplies"
+    stat_bonuses {
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+      combat_options {
+        name: "Punch"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Kick"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
   key: 32489
   value {
     id: 32489
@@ -117851,7 +117891,7 @@ items {
   key: 32640
   value {
     id: 32640
-    name: "Crate of glassmaking supplies"
+    name: "Crate of gin"
     stat_bonuses {
     }
     weapon_details {
@@ -130160,7 +130200,7 @@ items {
   key: 33460
   value {
     id: 33460
-    name: "Dragon crossbow (Last Man Standing)"
+    name: "Dragon crossbow"
     stat_bonuses {
       ranged_attack: 94
     }
@@ -130201,7 +130241,7 @@ items {
   key: 33462
   value {
     id: 33462
-    name: "Oathplate helm (Last Man Standing)"
+    name: "Oathplate helm"
     stat_bonuses {
       slash_attack: 10
       ranged_attack: -7

@@ -25374,7 +25374,7 @@ npcs {
   dmagic: 90
 }
 npcs {
-  ids: 7661
+  ids: 7660
   name: "Mummy"
   version: "3"
   hitpoints: 90
@@ -25390,7 +25390,7 @@ npcs {
   dmagic: 90
 }
 npcs {
-  ids: 7660
+  ids: 7661
   name: "Mummy"
   version: "4"
   hitpoints: 90
