@@ -130254,3 +130254,350 @@ items {
     }
   }
 }
+items {
+  key: 33553
+  value {
+    id: 33553
+    name: "Seeking bronze arrow"
+    stat_bonuses {
+      ranged_attack: 20
+      ranged_strength: 7
+    }
+  }
+}
+items {
+  key: 33559
+  value {
+    id: 33559
+    name: "Seeking iron arrow"
+    stat_bonuses {
+      ranged_attack: 20
+      ranged_strength: 10
+    }
+  }
+}
+items {
+  key: 33565
+  value {
+    id: 33565
+    name: "Seeking steel arrow"
+    stat_bonuses {
+      ranged_attack: 20
+      ranged_strength: 16
+    }
+  }
+}
+items {
+  key: 33571
+  value {
+    id: 33571
+    name: "Seeking mithril arrow"
+    stat_bonuses {
+      ranged_attack: 20
+      ranged_strength: 22
+    }
+  }
+}
+items {
+  key: 33577
+  value {
+    id: 33577
+    name: "Seeking adamant arrow"
+    stat_bonuses {
+      ranged_attack: 20
+      ranged_strength: 31
+    }
+  }
+}
+items {
+  key: 33583
+  value {
+    id: 33583
+    name: "Seeking rune arrow"
+    stat_bonuses {
+      ranged_attack: 20
+      ranged_strength: 49
+    }
+  }
+}
+items {
+  key: 33589
+  value {
+    id: 33589
+    name: "Seeking amethyst arrow"
+    stat_bonuses {
+      ranged_attack: 20
+      ranged_strength: 55
+    }
+  }
+}
+items {
+  key: 33595
+  value {
+    id: 33595
+    name: "Seeking dragon arrow"
+    stat_bonuses {
+      ranged_attack: 20
+      ranged_strength: 60
+    }
+  }
+}
+items {
+  key: 33601
+  value {
+    id: 33601
+    name: "Seeking broad arrows"
+    stat_bonuses {
+      ranged_attack: 20
+      ranged_strength: 28
+    }
+  }
+}
+items {
+  key: 33644
+  value {
+    id: 33644
+    name: "Dummy stymphike feather"
+    stat_bonuses {
+    }
+    weapon_details {
+      base_attack_speed: 3
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Pummel"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33655
+  value {
+    id: 33655
+    name: "Makeshift spear"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33709
+  value {
+    id: 33709
+    name: "Diamond sickle (b)"
+    stat_bonuses {
+      slash_defence: 1
+      crush_defence: 1
+      ranged_defence: 1
+      magic_defence: 1
+      melee_strength: 8
+      prayer: 5
+    }
+    weapon_details {
+      base_attack_speed: 5
+      combat_options {
+        name: "Chop"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Slash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Lunge"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33711
+  value {
+    id: 33711
+    name: "Enchanted diamond sickle (b)"
+    stat_bonuses {
+      slash_defence: 1
+      crush_defence: 1
+      ranged_defence: 1
+      magic_defence: 1
+      melee_strength: 12
+      prayer: 5
+    }
+    weapon_details {
+      base_attack_speed: 5
+      combat_options {
+        name: "Chop"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Slash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Lunge"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33716
+  value {
+    id: 33716
+    name: "Blisterwood stake"
+    stat_bonuses {
+      ranged_attack: 16
+      ranged_strength: 14
+    }
+    weapon_details {
+      base_attack_speed: 3
+      base_attack_range: 6
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          ranged_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Rapid"
+        modifiers {
+          attack_speed_modifier: -1
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_RAPID
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33718
+  value {
+    id: 33718
+    name: "Hallowed flail"
+    stat_bonuses {
+      stab_attack: 32
+      slash_attack: 68
+      magic_attack: 10
+      slash_defence: 2
+      magic_defence: 10
+      melee_strength: 46
+      prayer: 6
+    }
+    weapon_details {
+      base_attack_speed: 4
+      combat_options {
+        name: "Punch"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Kick"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
