@@ -24011,6 +24011,7 @@ npcs {
   dmagic: 35
 }
 npcs {
+  ids: 16233
   name: "Maxilla beast"
 }
 npcs {
@@ -30585,6 +30586,35 @@ npcs {
 }
 npcs {
   name: "Sanguidae"
+  version: "Empty"
+  hitpoints: 10
+  att: 200
+  str: 90
+  def: 30
+  mage: 30
+  range: 1
+  dstab: 10
+  dslash: 5
+  dcrush: 10
+  dmagic: 5
+}
+npcs {
+  name: "Sanguidae"
+  version: "Partially full"
+  hitpoints: 10
+  att: 200
+  str: 90
+  def: 30
+  mage: 30
+  range: 1
+  dstab: 10
+  dslash: 5
+  dcrush: 10
+  dmagic: 5
+}
+npcs {
+  name: "Sanguidae"
+  version: "Full"
   hitpoints: 10
   att: 200
   str: 90

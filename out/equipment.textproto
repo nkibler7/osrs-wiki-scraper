@@ -130758,3 +130758,55 @@ items {
     }
   }
 }
+items {
+  key: 33800
+  value {
+    id: 33800
+    name: "Silvthrill ballista"
+    stat_bonuses {
+      ranged_attack: 125
+      ranged_strength: 15
+    }
+    weapon_details {
+      base_attack_speed: 6
+      base_attack_range: 10
+      combat_options {
+        name: "Punch"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Kick"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33801
+  value {
+    id: 33801
+    name: "Silvthrill javelin"
+    stat_bonuses {
+      ranged_strength: 124
+    }
+  }
+}
