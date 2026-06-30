@@ -874,6 +874,46 @@ npcs {
 }
 npcs {
   name: "Ancient feral vyre"
+  version: "1"
+  hitpoints: 81
+  att: 144
+  str: 88
+  def: 88
+  mage: 1
+  range: 1
+  dslash: 20
+  dcrush: 20
+  attributes: "vampyre3"
+}
+npcs {
+  name: "Ancient feral vyre"
+  version: "2"
+  hitpoints: 81
+  att: 144
+  str: 88
+  def: 88
+  mage: 1
+  range: 1
+  dslash: 20
+  dcrush: 20
+  attributes: "vampyre3"
+}
+npcs {
+  name: "Ancient feral vyre"
+  version: "3"
+  hitpoints: 81
+  att: 144
+  str: 88
+  def: 88
+  mage: 1
+  range: 1
+  dslash: 20
+  dcrush: 20
+  attributes: "vampyre3"
+}
+npcs {
+  name: "Ancient feral vyre"
+  version: "4"
   hitpoints: 81
   att: 144
   str: 88
