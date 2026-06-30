@@ -130404,6 +130404,18 @@ items {
   }
 }
 items {
+  key: 33639
+  value {
+    id: 33639
+    name: "Necklace of rupture"
+    stat_bonuses {
+      ranged_attack: 20
+      ranged_strength: 8
+      prayer: 3
+    }
+  }
+}
+items {
   key: 33644
   value {
     id: 33644
@@ -130726,6 +130738,7 @@ items {
     }
     weapon_details {
       base_attack_speed: 5
+      base_attack_range: 1
       combat_options {
         name: "Lunge"
         modifiers {

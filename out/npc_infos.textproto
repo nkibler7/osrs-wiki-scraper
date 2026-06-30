@@ -23437,6 +23437,26 @@ npcs {
   dmagic: 4
 }
 npcs {
+  ids: 15742
+  name: "Maggot King"
+  hitpoints: 1500
+  att: 200
+  str: 250
+  def: 200
+  mage: 200
+  range: 300
+  attbns: 400
+  strbns: 50
+  amagic: 200
+  mbns: 57
+  arange: 200
+  rngbns: 10
+  dstab: 172
+  dslash: 100
+  dcrush: 45
+  dmagic: 150
+}
+npcs {
   ids: 2844
   name: "Magic axe"
   version: "Normal"
@@ -38508,6 +38528,14 @@ npcs {
   attbns: 50
 }
 npcs {
+  ids: 15743
+  name: "Ur-maggot larvae"
+  hitpoints: 30
+  att: 80
+  def: 35
+  mage: 100
+}
+npcs {
   ids: 10589
   name: "Urium Shade"
   version: "Shade"
@@ -40086,6 +40114,15 @@ npcs {
   dslash: 23
   dcrush: 21
   dmagic: -6
+}
+npcs {
+  name: "Webbed-winged Crow"
+  hitpoints: 50
+  att: 160
+  str: 70
+  def: 50
+  mage: 50
+  range: 1
 }
 npcs {
   ids: 7751
