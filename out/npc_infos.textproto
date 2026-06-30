@@ -40116,6 +40116,7 @@ npcs {
   dmagic: -6
 }
 npcs {
+  ids: 16226
   name: "Webbed-winged Crow"
   hitpoints: 50
   att: 160
