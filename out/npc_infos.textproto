@@ -35485,6 +35485,19 @@ npcs {
   attributes: "undead"
 }
 npcs {
+  ids: 15770
+  name: "Superior venator"
+  hitpoints: 345
+  att: 200
+  def: 120
+  mage: 100
+  range: 75
+  dstab: -5
+  dslash: 60
+  dcrush: 130
+  dmagic: 110
+}
+npcs {
   ids: 787
   name: "Suqah"
   version: "1"
@@ -41317,8 +41330,25 @@ npcs {
   att: 50
 }
 npcs {
+  ids: 16212
   name: "Wyrd"
   hitpoints: 1100
+  att: 250
+  str: 250
+  def: 180
+  mage: 250
+  range: 250
+  attbns: 80
+  strbns: 80
+  amagic: 80
+  mbns: 10
+  arange: 20
+  rngbns: 10
+  dstab: 30
+  dslash: 30
+  dcrush: 30
+  dmagic: 30
+  attributes: "vampyre3"
 }
 npcs {
   ids: 8610
