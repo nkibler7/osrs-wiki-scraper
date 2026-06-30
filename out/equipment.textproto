@@ -130354,6 +130354,56 @@ items {
   }
 }
 items {
+  key: 33631
+  value {
+    id: 33631
+    name: "Crimson kisten"
+    stat_bonuses {
+      crush_attack: 80
+      melee_strength: 56
+    }
+    weapon_details {
+      base_attack_speed: 4
+      combat_options {
+        name: "Chop"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Hack"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Smash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
   key: 33644
   value {
     id: 33644
@@ -130514,6 +130564,65 @@ items {
   }
 }
 items {
+  key: 33713
+  value {
+    id: 33713
+    name: "Blisterwood sickle (e)"
+    stat_bonuses {
+      stab_attack: 44
+      slash_attack: 56
+      stab_defence: 1
+      slash_defence: 2
+      crush_defence: 2
+      ranged_defence: 2
+      magic_defence: 2
+      melee_strength: 56
+      prayer: 5
+    }
+    weapon_details {
+      base_attack_speed: 5
+      combat_options {
+        name: "Chop"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Slash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Lunge"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
   key: 33716
   value {
     id: 33716
@@ -130587,6 +130696,67 @@ items {
         }
         melee {
           attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 33722
+  value {
+    id: 33722
+    name: "Sunspear"
+    stat_bonuses {
+      stab_attack: 100
+      slash_attack: 21
+      crush_attack: 60
+      slash_defence: 42
+      crush_defence: 28
+      melee_strength: 70
+      prayer: 7
+    }
+    weapon_details {
+      base_attack_speed: 5
+      combat_options {
+        name: "Lunge"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
+        }
+      }
+      combat_options {
+        name: "Swipe"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
+        }
+      }
+      combat_options {
+        name: "Pound"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
         }
       }
       combat_options {
