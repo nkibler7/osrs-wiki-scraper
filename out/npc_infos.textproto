@@ -20059,6 +20059,7 @@ npcs {
   range: 5
 }
 npcs {
+  ids: 15759
   name: "Impaler deer"
   hitpoints: 50
   att: 200
@@ -30670,6 +30671,7 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 16223
   name: "Sanguidae"
   version: "Empty"
   hitpoints: 10
@@ -30684,6 +30686,8 @@ npcs {
   dmagic: 5
 }
 npcs {
+  ids: 15756
+  ids: 16224
   name: "Sanguidae"
   version: "Partially full"
   hitpoints: 10
@@ -30698,6 +30702,7 @@ npcs {
   dmagic: 5
 }
 npcs {
+  ids: 16225
   name: "Sanguidae"
   version: "Full"
   hitpoints: 10
