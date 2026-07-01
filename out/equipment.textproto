@@ -130455,15 +130455,6 @@ items {
   }
 }
 items {
-  key: 33655
-  value {
-    id: 33655
-    name: "Makeshift spear"
-    stat_bonuses {
-    }
-  }
-}
-items {
   key: 33709
   value {
     id: 33709
