@@ -9505,6 +9505,7 @@ npcs {
   def: 40
 }
 npcs {
+  ids: 15757
   name: "Dire bat"
   hitpoints: 90
   att: 300
@@ -23535,6 +23536,7 @@ npcs {
 npcs {
   ids: 15742
   name: "Maggot King"
+  version: "Far"
   hitpoints: 1500
   att: 200
   str: 250
@@ -23551,6 +23553,27 @@ npcs {
   dslash: 100
   dcrush: 45
   dmagic: 150
+}
+npcs {
+  ids: 15742
+  name: "Maggot King"
+  version: "Nearby"
+  hitpoints: 1500
+  att: 200
+  str: 250
+  def: 200
+  mage: 200
+  range: 300
+  attbns: 400
+  strbns: 50
+  amagic: 200
+  mbns: 57
+  arange: 200
+  rngbns: 10
+  dstab: 172
+  dslash: 100
+  dcrush: 45
+  dmagic: 400
 }
 npcs {
   ids: 2844
@@ -39171,7 +39194,7 @@ npcs {
   version: "1"
   hitpoints: 345
   att: 200
-  str: 100
+  str: 200
   def: 120
   mage: 100
   range: 75
@@ -39189,7 +39212,7 @@ npcs {
   version: "2"
   hitpoints: 345
   att: 200
-  str: 100
+  str: 200
   def: 120
   mage: 100
   range: 75
@@ -39207,7 +39230,7 @@ npcs {
   version: "3"
   hitpoints: 345
   att: 200
-  str: 100
+  str: 200
   def: 120
   mage: 100
   range: 75
@@ -39225,7 +39248,7 @@ npcs {
   version: "4"
   hitpoints: 345
   att: 200
-  str: 100
+  str: 200
   def: 120
   mage: 100
   range: 75
@@ -39243,7 +39266,7 @@ npcs {
   version: "5"
   hitpoints: 345
   att: 200
-  str: 100
+  str: 200
   def: 120
   mage: 100
   range: 75
