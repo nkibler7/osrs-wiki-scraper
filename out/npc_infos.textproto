@@ -35609,6 +35609,7 @@ npcs {
   name: "Superior venator"
   hitpoints: 345
   att: 200
+  str: 200
   def: 120
   mage: 100
   range: 75
@@ -35616,6 +35617,7 @@ npcs {
   dslash: 60
   dcrush: 130
   dmagic: 110
+  attributes: "vampyre3"
 }
 npcs {
   ids: 787
