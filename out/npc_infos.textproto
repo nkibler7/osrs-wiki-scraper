@@ -23441,6 +23441,23 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 16204
+  name: "Lowerniel Drakan"
+  hitpoints: 3000
+  att: 400
+  str: 320
+  def: 100
+  mage: 320
+  range: 320
+  attbns: 100
+  strbns: 70
+  amagic: 300
+  mbns: 10
+  arange: 60
+  rngbns: 10
+  attributes: "vampyre3"
+}
+npcs {
   ids: 3443
   name: "Lucien"
   hitpoints: 17
@@ -41409,10 +41426,10 @@ npcs {
   mage: 250
   range: 250
   attbns: 80
-  strbns: 80
+  strbns: 10
   amagic: 80
   mbns: 10
-  arange: 20
+  arange: 80
   rngbns: 10
   dstab: 30
   dslash: 30

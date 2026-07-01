@@ -130771,30 +130771,30 @@ items {
       base_attack_speed: 6
       base_attack_range: 10
       combat_options {
-        name: "Punch"
+        name: "Accurate"
         modifiers {
-          attack_modifier: 3
+          ranged_modifier: 3
         }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_ACCURATE
         }
       }
       combat_options {
-        name: "Kick"
+        name: "Rapid"
         modifiers {
-          strength_modifier: 3
+          attack_speed_modifier: -1
         }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_RAPID
         }
       }
       combat_options {
-        name: "Block"
+        name: "Longrange"
         modifiers {
           defence_modifier: 3
         }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_LONGRANGE
         }
       }
     }
