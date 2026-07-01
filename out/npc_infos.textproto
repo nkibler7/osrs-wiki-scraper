@@ -873,6 +873,8 @@ npcs {
   dcrush: 80
 }
 npcs {
+  ids: 15760
+  ids: 16229
   name: "Ancient feral vyre"
   version: "1"
   hitpoints: 81
@@ -886,6 +888,7 @@ npcs {
   attributes: "vampyre3"
 }
 npcs {
+  ids: 16230
   name: "Ancient feral vyre"
   version: "2"
   hitpoints: 81
@@ -899,6 +902,7 @@ npcs {
   attributes: "vampyre3"
 }
 npcs {
+  ids: 16231
   name: "Ancient feral vyre"
   version: "3"
   hitpoints: 81
@@ -912,6 +916,7 @@ npcs {
   attributes: "vampyre3"
 }
 npcs {
+  ids: 16232
   name: "Ancient feral vyre"
   version: "4"
   hitpoints: 81
