@@ -23577,6 +23577,27 @@ npcs {
   dmagic: 400
 }
 npcs {
+  ids: 15742
+  name: "Maggot King"
+  version: "Roaring"
+  hitpoints: 1500
+  att: 200
+  str: 250
+  def: 100
+  mage: 200
+  range: 300
+  attbns: 400
+  strbns: 50
+  amagic: 200
+  mbns: 57
+  arange: 200
+  rngbns: 10
+  dstab: 172
+  dslash: 100
+  dcrush: 45
+  dmagic: 150
+}
+npcs {
   ids: 2844
   name: "Magic axe"
   version: "Normal"
