@@ -3552,7 +3552,7 @@ npcs {
   ids: 9283
   ids: 9284
   name: "Basilisk"
-  version: "1"
+  version: "Adult"
   hitpoints: 75
   att: 30
   str: 45
@@ -3567,7 +3567,7 @@ npcs {
   ids: 9285
   ids: 9286
   name: "Basilisk"
-  version: "2"
+  version: "Baby"
   hitpoints: 75
   att: 30
   str: 45
@@ -30433,7 +30433,7 @@ npcs {
   ids: 421
   ids: 14423
   name: "Rockslug"
-  version: "Cave"
+  version: "Adult"
   hitpoints: 27
   att: 22
   str: 27
@@ -30444,7 +30444,7 @@ npcs {
 npcs {
   ids: 422
   name: "Rockslug"
-  version: "Swamp"
+  version: "Baby"
   hitpoints: 27
   att: 22
   str: 27
