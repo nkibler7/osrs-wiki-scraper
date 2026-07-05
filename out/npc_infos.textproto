@@ -13725,6 +13725,7 @@ npcs {
 }
 npcs {
   ids: 1543
+  ids: 413
   name: "Gargoyle"
   version: "Basement"
   hitpoints: 105
