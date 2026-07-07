@@ -130364,6 +130364,7 @@ items {
     }
     weapon_details {
       base_attack_speed: 4
+      base_attack_range: 1
       combat_options {
         name: "Chop"
         modifiers {
