@@ -4734,6 +4734,21 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 15770
+  name: "Blood-starved venator"
+  hitpoints: 345
+  att: 200
+  str: 200
+  def: 120
+  mage: 100
+  range: 75
+  dstab: -5
+  dslash: 60
+  dcrush: 130
+  dmagic: 110
+  attributes: "vampyre3"
+}
+npcs {
   ids: 484
   ids: 485
   ids: 486
@@ -35625,21 +35640,6 @@ npcs {
   mage: 1
   range: 1
   attributes: "undead"
-}
-npcs {
-  ids: 15770
-  name: "Blood-starved venator"
-  hitpoints: 345
-  att: 200
-  str: 200
-  def: 120
-  mage: 100
-  range: 75
-  dstab: -5
-  dslash: 60
-  dcrush: 130
-  dmagic: 110
-  attributes: "vampyre3"
 }
 npcs {
   ids: 787
