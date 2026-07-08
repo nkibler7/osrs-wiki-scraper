@@ -35628,7 +35628,7 @@ npcs {
 }
 npcs {
   ids: 15770
-  name: "Superior venator"
+  name: "Blood-starved venator"
   hitpoints: 345
   att: 200
   str: 200
