@@ -24136,6 +24136,7 @@ npcs {
 npcs {
   ids: 16233
   name: "Maxilla beast"
+  hitpoints: 200
 }
 npcs {
   ids: 785
