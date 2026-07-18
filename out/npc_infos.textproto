@@ -13961,6 +13961,7 @@ npcs {
 npcs {
   ids: 946
   name: "Ghast"
+  version: "Level 30"
   hitpoints: 45
   att: 22
   str: 22
@@ -13972,6 +13973,7 @@ npcs {
 npcs {
   ids: 5625
   name: "Ghast"
+  version: "Level 79"
   hitpoints: 115
   att: 80
   str: 30
@@ -13983,6 +13985,7 @@ npcs {
 npcs {
   ids: 5626
   name: "Ghast"
+  version: "Level 109"
   hitpoints: 135
   att: 110
   str: 70
@@ -13994,6 +13997,7 @@ npcs {
 npcs {
   ids: 5627
   name: "Ghast"
+  version: "Level 139"
   hitpoints: 160
   att: 135
   str: 110
@@ -18583,6 +18587,7 @@ npcs {
 npcs {
   ids: 3625
   name: "Ghost"
+  version: "Ghost"
   hitpoints: 30
   att: 23
   str: 23
