@@ -86680,8 +86680,8 @@ items {
     name: "Blade of saeldor (c)"
     stat_bonuses {
       stab_attack: 55
-      slash_attack: 94
-      melee_strength: 89
+      slash_attack: 100
+      melee_strength: 93
     }
     weapon_details {
       base_attack_speed: 4
@@ -86734,8 +86734,8 @@ items {
     name: "Blade of saeldor (c)"
     stat_bonuses {
       stab_attack: 55
-      slash_attack: 94
-      melee_strength: 89
+      slash_attack: 100
+      melee_strength: 93
     }
     weapon_details {
       base_attack_speed: 4
@@ -86842,8 +86842,8 @@ items {
     name: "Blade of saeldor (c)"
     stat_bonuses {
       stab_attack: 55
-      slash_attack: 94
-      melee_strength: 89
+      slash_attack: 100
+      melee_strength: 93
     }
     weapon_details {
       base_attack_speed: 4
@@ -86896,8 +86896,8 @@ items {
     name: "Blade of saeldor (c)"
     stat_bonuses {
       stab_attack: 55
-      slash_attack: 94
-      melee_strength: 89
+      slash_attack: 100
+      melee_strength: 93
     }
     weapon_details {
       base_attack_speed: 4
@@ -86950,8 +86950,8 @@ items {
     name: "Blade of saeldor (c)"
     stat_bonuses {
       stab_attack: 55
-      slash_attack: 94
-      melee_strength: 89
+      slash_attack: 100
+      melee_strength: 93
     }
     weapon_details {
       base_attack_speed: 4
@@ -87004,8 +87004,8 @@ items {
     name: "Blade of saeldor (c)"
     stat_bonuses {
       stab_attack: 55
-      slash_attack: 94
-      melee_strength: 89
+      slash_attack: 100
+      melee_strength: 93
     }
     weapon_details {
       base_attack_speed: 4
