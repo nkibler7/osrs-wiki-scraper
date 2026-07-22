@@ -80702,7 +80702,7 @@ items {
     id: 24419
     name: "Inquisitor\'s great helm"
     stat_bonuses {
-      crush_attack: 8
+      crush_attack: 10
       ranged_attack: -5
       magic_attack: -5
       stab_defence: 19
@@ -86788,8 +86788,8 @@ items {
     name: "Blade of saeldor (c)"
     stat_bonuses {
       stab_attack: 55
-      slash_attack: 94
-      melee_strength: 89
+      slash_attack: 100
+      melee_strength: 93
     }
     weapon_details {
       base_attack_speed: 4

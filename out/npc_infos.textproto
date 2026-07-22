@@ -7041,10 +7041,10 @@ npcs {
 npcs {
   ids: 9042
   name: "Corrupted Bat"
-  hitpoints: 14
+  hitpoints: 12
   att: 36
   str: 102
-  def: 2
+  def: 4
   mage: 2
 }
 npcs {
@@ -7109,10 +7109,10 @@ npcs {
 npcs {
   ids: 9040
   name: "Corrupted Rat"
-  hitpoints: 14
+  hitpoints: 12
   att: 42
   str: 48
-  def: 6
+  def: 4
   mage: 6
 }
 npcs {
@@ -7136,19 +7136,19 @@ npcs {
 npcs {
   ids: 9043
   name: "Corrupted Unicorn"
-  hitpoints: 44
+  hitpoints: 38
   att: 75
   str: 72
-  def: 24
+  def: 18
   mage: 24
 }
 npcs {
   ids: 9045
   name: "Corrupted Wolf"
-  hitpoints: 52
+  hitpoints: 38
   att: 159
   str: 99
-  def: 22
+  def: 18
   mage: 22
 }
 npcs {
@@ -7679,10 +7679,10 @@ npcs {
 npcs {
   ids: 9028
   name: "Crystalline Bat"
-  hitpoints: 14
+  hitpoints: 12
   att: 24
   str: 68
-  def: 2
+  def: 4
   mage: 2
 }
 npcs {
@@ -7747,10 +7747,10 @@ npcs {
 npcs {
   ids: 9026
   name: "Crystalline Rat"
-  hitpoints: 14
+  hitpoints: 12
   att: 28
   str: 32
-  def: 6
+  def: 4
   mage: 6
 }
 npcs {
@@ -7774,19 +7774,19 @@ npcs {
 npcs {
   ids: 9029
   name: "Crystalline Unicorn"
-  hitpoints: 44
+  hitpoints: 38
   att: 50
   str: 48
-  def: 24
+  def: 18
   mage: 24
 }
 npcs {
   ids: 9031
   name: "Crystalline Wolf"
-  hitpoints: 52
+  hitpoints: 38
   att: 106
   str: 66
-  def: 22
+  def: 18
   mage: 22
 }
 npcs {
