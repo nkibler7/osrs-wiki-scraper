@@ -32605,6 +32605,7 @@ items {
     stat_bonuses {
       magic_attack: 20
       magic_defence: 20
+      magic_damage: 1.0
     }
     weapon_details {
       base_attack_speed: 4
@@ -58721,6 +58722,7 @@ items {
       crush_defence: 5
       ranged_defence: 5
       magic_defence: 5
+      ranged_strength: 1
     }
   }
 }
@@ -67765,7 +67767,7 @@ items {
     name: "Shaman mask"
     stat_bonuses {
       ranged_attack: -2
-      magic_attack: -6
+      magic_attack: 2
       stab_defence: 6
       slash_defence: 7
       crush_defence: 5
@@ -69651,9 +69653,9 @@ items {
     id: 22324
     name: "Ghrazi rapier"
     stat_bonuses {
-      stab_attack: 94
+      stab_attack: 100
       slash_attack: 55
-      melee_strength: 89
+      melee_strength: 93
     }
     weapon_details {
       base_attack_speed: 4
@@ -78203,8 +78205,8 @@ items {
     name: "Blade of saeldor"
     stat_bonuses {
       stab_attack: 55
-      slash_attack: 94
-      melee_strength: 89
+      slash_attack: 100
+      melee_strength: 93
     }
     weapon_details {
       base_attack_speed: 4
@@ -80646,8 +80648,8 @@ items {
     stat_bonuses {
       stab_attack: 52
       slash_attack: -4
-      crush_attack: 95
-      melee_strength: 89
+      crush_attack: 102
+      melee_strength: 96
       prayer: 2
     }
     weapon_details {
@@ -80700,8 +80702,6 @@ items {
     id: 24419
     name: "Inquisitor\'s great helm"
     stat_bonuses {
-      stab_attack: -2
-      slash_attack: -2
       crush_attack: 8
       ranged_attack: -5
       magic_attack: -5
@@ -80709,7 +80709,7 @@ items {
       slash_defence: 10
       crush_defence: 21
       ranged_defence: 12
-      melee_strength: 4
+      melee_strength: 6
       prayer: 1
     }
   }
@@ -80720,9 +80720,7 @@ items {
     id: 24420
     name: "Inquisitor\'s hauberk"
     stat_bonuses {
-      stab_attack: -3
-      slash_attack: -3
-      crush_attack: 12
+      crush_attack: 16
       ranged_attack: -10
       magic_attack: -11
       stab_defence: 67
@@ -80740,8 +80738,6 @@ items {
     id: 24421
     name: "Inquisitor\'s plateskirt"
     stat_bonuses {
-      stab_attack: -3
-      slash_attack: -3
       crush_attack: 12
       ranged_attack: -5
       magic_attack: -9
@@ -81213,8 +81209,8 @@ items {
     name: "Blade of saeldor (c)"
     stat_bonuses {
       stab_attack: 55
-      slash_attack: 94
-      melee_strength: 89
+      slash_attack: 100
+      melee_strength: 93
     }
     weapon_details {
       base_attack_speed: 4
@@ -86046,9 +86042,9 @@ items {
     id: 25734
     name: "Holy ghrazi rapier"
     stat_bonuses {
-      stab_attack: 94
+      stab_attack: 100
       slash_attack: 55
-      melee_strength: 89
+      melee_strength: 93
     }
     weapon_details {
       base_attack_speed: 4
@@ -94846,7 +94842,7 @@ items {
       crush_defence: 1
       magic_defence: 15
       melee_strength: 60
-      magic_damage: 0.5
+      magic_damage: 1.0
       prayer: -1
     }
     weapon_details {
@@ -94915,7 +94911,7 @@ items {
       crush_defence: 1
       magic_defence: 15
       melee_strength: 60
-      magic_damage: 0.5
+      magic_damage: 1.0
       prayer: -1
     }
     weapon_details {
@@ -99784,7 +99780,7 @@ items {
       crush_defence: 1
       magic_defence: 15
       melee_strength: 60
-      magic_damage: 0.5
+      magic_damage: 1.0
       prayer: -1
     }
     weapon_details {
@@ -99853,7 +99849,7 @@ items {
       crush_defence: 1
       magic_defence: 15
       melee_strength: 60
-      magic_damage: 0.5
+      magic_damage: 1.0
       prayer: -1
     }
     weapon_details {
@@ -99922,7 +99918,7 @@ items {
       crush_defence: 1
       magic_defence: 15
       melee_strength: 60
-      magic_damage: 0.5
+      magic_damage: 1.0
       prayer: -1
     }
     weapon_details {
@@ -99991,7 +99987,7 @@ items {
       crush_defence: 1
       magic_defence: 15
       melee_strength: 60
-      magic_damage: 0.5
+      magic_damage: 1.0
       prayer: -1
     }
     weapon_details {
@@ -100131,7 +100127,7 @@ items {
       stab_attack: 28
       slash_attack: 134
       crush_attack: 66
-      melee_strength: 121
+      melee_strength: 125
     }
     weapon_details {
       base_attack_speed: 5
@@ -100199,7 +100195,7 @@ items {
       crush_defence: 1
       magic_defence: 15
       melee_strength: 60
-      magic_damage: 0.5
+      magic_damage: 1.0
       prayer: -1
     }
     weapon_details {
@@ -100268,7 +100264,7 @@ items {
       crush_defence: 1
       magic_defence: 15
       melee_strength: 60
-      magic_damage: 0.5
+      magic_damage: 1.0
       prayer: -1
     }
     weapon_details {
@@ -100337,7 +100333,7 @@ items {
       crush_defence: 1
       magic_defence: 15
       melee_strength: 60
-      magic_damage: 0.5
+      magic_damage: 1.0
       prayer: -1
     }
     weapon_details {
@@ -100406,7 +100402,7 @@ items {
       crush_defence: 1
       magic_defence: 15
       melee_strength: 60
-      magic_damage: 0.5
+      magic_damage: 1.0
       prayer: -1
     }
     weapon_details {
