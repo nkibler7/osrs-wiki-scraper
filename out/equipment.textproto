@@ -129698,7 +129698,7 @@ items {
       stab_attack: 28
       slash_attack: 134
       crush_attack: 66
-      melee_strength: 121
+      melee_strength: 125
     }
     weapon_details {
       base_attack_speed: 5
