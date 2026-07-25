@@ -8509,7 +8509,7 @@ items {
       slash_attack: -4
       crush_attack: 18
       magic_attack: -4
-      melee_strength: 16
+      melee_strength: 18
     }
     weapon_details {
       base_attack_speed: 6
