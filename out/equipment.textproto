@@ -67172,6 +67172,18 @@ items {
     id: 21433
     name: "Wilderness champion amulet"
     stat_bonuses {
+      stab_attack: 100
+      slash_attack: 100
+      crush_attack: 100
+      ranged_attack: 100
+      magic_attack: 100
+      stab_defence: 100
+      slash_defence: 100
+      crush_defence: 100
+      ranged_defence: 100
+      magic_defence: 100
+      melee_strength: 50
+      prayer: 50
     }
   }
 }
