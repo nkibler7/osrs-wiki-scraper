@@ -129479,7 +129479,7 @@ items {
     id: 33326
     name: "Trident of the seas (e) (o)"
     stat_bonuses {
-      magic_attack: 25
+      magic_attack: 15
       stab_defence: 2
       slash_defence: 3
       crush_defence: 1
@@ -129526,7 +129526,7 @@ items {
     id: 33328
     name: "Uncharged trident (e) (o)"
     stat_bonuses {
-      magic_attack: 25
+      magic_attack: 15
       stab_defence: 2
       slash_defence: 3
       crush_defence: 1
