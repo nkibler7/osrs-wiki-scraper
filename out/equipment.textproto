@@ -130857,3 +130857,52 @@ items {
     }
   }
 }
+items {
+  key: 33836
+  value {
+    id: 33836
+    name: "Noble robe top"
+  }
+}
+items {
+  key: 33839
+  value {
+    id: 33839
+    name: "Noble robe top"
+  }
+}
+items {
+  key: 33842
+  value {
+    id: 33842
+    name: "Noble robe top"
+  }
+}
+items {
+  key: 33845
+  value {
+    id: 33845
+    name: "Noble robe top"
+  }
+}
+items {
+  key: 33848
+  value {
+    id: 33848
+    name: "Noble robe top"
+  }
+}
+items {
+  key: 33851
+  value {
+    id: 33851
+    name: "Noble robe top"
+  }
+}
+items {
+  key: 33854
+  value {
+    id: 33854
+    name: "Noble robe top"
+  }
+}

@@ -23573,6 +23573,51 @@ npcs {
   dmagic: 4
 }
 npcs {
+  ids: 16309
+  ids: 16315
+  name: "Mad Angel"
+  version: "Quest"
+  hitpoints: 565
+  att: 100
+  str: 160
+  def: 125
+  mage: 100
+  range: 170
+  attbns: 120
+  strbns: 4
+  amagic: 180
+  mbns: 140
+  arange: 30
+  dstab: 40
+  dslash: 60
+  dcrush: 20
+  dmagic: 165
+  attributes: "Golem"
+}
+npcs {
+  ids: 16305
+  ids: 16314
+  name: "Mad Angel"
+  version: "Post-quest"
+  hitpoints: 755
+  att: 150
+  str: 230
+  def: 175
+  mage: 150
+  range: 250
+  attbns: 200
+  strbns: 11
+  amagic: 280
+  mbns: 180
+  arange: 64
+  rngbns: 6
+  dstab: 60
+  dslash: 80
+  dcrush: 40
+  dmagic: 185
+  attributes: "Golem"
+}
+npcs {
   ids: 15742
   name: "Maggot King"
   version: "Far"
