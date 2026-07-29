@@ -131330,6 +131330,8 @@ items {
   value {
     id: 33992
     name: "Wyrmscraig villager work skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -131337,6 +131339,8 @@ items {
   value {
     id: 33995
     name: "Wyrmscraig villager work skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -131344,6 +131348,8 @@ items {
   value {
     id: 33998
     name: "Wyrmscraig villager work skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -131351,6 +131357,8 @@ items {
   value {
     id: 34001
     name: "Wyrmscraig villager work skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -131358,6 +131366,8 @@ items {
   value {
     id: 34004
     name: "Wyrmscraig villager work skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -131365,6 +131375,8 @@ items {
   value {
     id: 34007
     name: "Wyrmscraig villager work skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -131372,6 +131384,8 @@ items {
   value {
     id: 34010
     name: "Wyrmscraig villager work skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -131379,6 +131393,8 @@ items {
   value {
     id: 34013
     name: "Wyrmscraig villager work skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
