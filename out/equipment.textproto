@@ -130979,6 +130979,15 @@ items {
   }
 }
 items {
+  key: 33881
+  value {
+    id: 33881
+    name: "Wyrmscraig boots"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 33884
   value {
     id: 33884
@@ -131037,6 +131046,132 @@ items {
   value {
     id: 33902
     name: "Wyrmscraig villager robe top"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33908
+  value {
+    id: 33908
+    name: "Wyrmscraig villager robe bottom"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33911
+  value {
+    id: 33911
+    name: "Wyrmscraig villager robe bottom"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33914
+  value {
+    id: 33914
+    name: "Wyrmscraig villager robe bottom"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33917
+  value {
+    id: 33917
+    name: "Wyrmscraig villager robe bottom"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33920
+  value {
+    id: 33920
+    name: "Wyrmscraig villager robe bottom"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33923
+  value {
+    id: 33923
+    name: "Wyrmscraig villager robe bottom"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33926
+  value {
+    id: 33926
+    name: "Wyrmscraig villager robe bottom"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33929
+  value {
+    id: 33929
+    name: "Wyrmscraig villager robe bottom"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33932
+  value {
+    id: 33932
+    name: "Wyrmscraig villager robe bottom"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33935
+  value {
+    id: 33935
+    name: "Wyrmscraig villager robe bottom"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33938
+  value {
+    id: 33938
+    name: "Wyrmscraig villager robe bottom"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33941
+  value {
+    id: 33941
+    name: "Wyrmscraig villager robe bottom"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33944
+  value {
+    id: 33944
+    name: "Wyrmscraig villager robe bottom"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33947
+  value {
+    id: 33947
+    name: "Wyrmscraig villager robe bottom"
     stat_bonuses {
     }
   }
