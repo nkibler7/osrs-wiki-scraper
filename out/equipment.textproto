@@ -130862,6 +130862,8 @@ items {
   value {
     id: 33836
     name: "Noble robe top"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -130869,6 +130871,8 @@ items {
   value {
     id: 33839
     name: "Noble robe top"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -130876,6 +130880,8 @@ items {
   value {
     id: 33842
     name: "Noble robe top"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -130883,6 +130889,8 @@ items {
   value {
     id: 33845
     name: "Noble robe top"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -130890,6 +130898,8 @@ items {
   value {
     id: 33848
     name: "Noble robe top"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -130897,6 +130907,8 @@ items {
   value {
     id: 33851
     name: "Noble robe top"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -130904,5 +130916,223 @@ items {
   value {
     id: 33854
     name: "Noble robe top"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33857
+  value {
+    id: 33857
+    name: "Wyrmscraig noble skirt"
+  }
+}
+items {
+  key: 33860
+  value {
+    id: 33860
+    name: "Wyrmscraig noble skirt"
+  }
+}
+items {
+  key: 33863
+  value {
+    id: 33863
+    name: "Wyrmscraig noble skirt"
+  }
+}
+items {
+  key: 33866
+  value {
+    id: 33866
+    name: "Wyrmscraig noble skirt"
+  }
+}
+items {
+  key: 33869
+  value {
+    id: 33869
+    name: "Wyrmscraig noble skirt"
+  }
+}
+items {
+  key: 33872
+  value {
+    id: 33872
+    name: "Wyrmscraig noble skirt"
+  }
+}
+items {
+  key: 33875
+  value {
+    id: 33875
+    name: "Wyrmscraig noble skirt"
+  }
+}
+items {
+  key: 33878
+  value {
+    id: 33878
+    name: "Wyrmscraig shoes"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33971
+  value {
+    id: 33971
+    name: "Wyrmscraig villager skirt"
+  }
+}
+items {
+  key: 33974
+  value {
+    id: 33974
+    name: "Wyrmscraig villager skirt"
+  }
+}
+items {
+  key: 33977
+  value {
+    id: 33977
+    name: "Wyrmscraig villager skirt"
+  }
+}
+items {
+  key: 33980
+  value {
+    id: 33980
+    name: "Wyrmscraig villager skirt"
+  }
+}
+items {
+  key: 33983
+  value {
+    id: 33983
+    name: "Wyrmscraig villager skirt"
+  }
+}
+items {
+  key: 33986
+  value {
+    id: 33986
+    name: "Wyrmscraig villager skirt"
+  }
+}
+items {
+  key: 33989
+  value {
+    id: 33989
+    name: "Wyrmscraig villager skirt"
+  }
+}
+items {
+  key: 33992
+  value {
+    id: 33992
+    name: "Wyrmscraig villager work skirt"
+  }
+}
+items {
+  key: 33995
+  value {
+    id: 33995
+    name: "Wyrmscraig villager work skirt"
+  }
+}
+items {
+  key: 33998
+  value {
+    id: 33998
+    name: "Wyrmscraig villager work skirt"
+  }
+}
+items {
+  key: 34001
+  value {
+    id: 34001
+    name: "Wyrmscraig villager work skirt"
+  }
+}
+items {
+  key: 34004
+  value {
+    id: 34004
+    name: "Wyrmscraig villager work skirt"
+  }
+}
+items {
+  key: 34007
+  value {
+    id: 34007
+    name: "Wyrmscraig villager work skirt"
+  }
+}
+items {
+  key: 34010
+  value {
+    id: 34010
+    name: "Wyrmscraig villager work skirt"
+  }
+}
+items {
+  key: 34013
+  value {
+    id: 34013
+    name: "Wyrmscraig villager work skirt"
+  }
+}
+items {
+  key: 34027
+  value {
+    id: 34027
+    name: "Hallowfell"
+    stat_bonuses {
+      slash_attack: 117
+      crush_attack: 25
+      melee_strength: 110
+      prayer: 4
+    }
+    weapon_details {
+      base_attack_speed: 6
+      base_attack_range: 1
+      combat_options {
+        name: "Chop"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Slash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Smash"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
   }
 }
