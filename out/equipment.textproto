@@ -130979,6 +130979,132 @@ items {
   }
 }
 items {
+  key: 33884
+  value {
+    id: 33884
+    name: "Wyrmscraig villager robe top"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33887
+  value {
+    id: 33887
+    name: "Wyrmscraig villager robe top"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33890
+  value {
+    id: 33890
+    name: "Wyrmscraig villager robe top"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33893
+  value {
+    id: 33893
+    name: "Wyrmscraig villager robe top"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33896
+  value {
+    id: 33896
+    name: "Wyrmscraig villager robe top"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33899
+  value {
+    id: 33899
+    name: "Wyrmscraig villager robe top"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33902
+  value {
+    id: 33902
+    name: "Wyrmscraig villager robe top"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33950
+  value {
+    id: 33950
+    name: "Wyrmscraig villager robe top"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33953
+  value {
+    id: 33953
+    name: "Wyrmscraig villager robe top"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33956
+  value {
+    id: 33956
+    name: "Wyrmscraig villager robe top"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33959
+  value {
+    id: 33959
+    name: "Wyrmscraig villager robe top"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33962
+  value {
+    id: 33962
+    name: "Wyrmscraig villager robe top"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33965
+  value {
+    id: 33965
+    name: "Wyrmscraig villager robe top"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33968
+  value {
+    id: 33968
+    name: "Wyrmscraig villager robe top"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 33971
   value {
     id: 33971
