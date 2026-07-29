@@ -130925,6 +130925,8 @@ items {
   value {
     id: 33857
     name: "Wyrmscraig noble skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -130932,6 +130934,8 @@ items {
   value {
     id: 33860
     name: "Wyrmscraig noble skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -130939,6 +130943,8 @@ items {
   value {
     id: 33863
     name: "Wyrmscraig noble skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -130946,6 +130952,8 @@ items {
   value {
     id: 33866
     name: "Wyrmscraig noble skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -130953,6 +130961,8 @@ items {
   value {
     id: 33869
     name: "Wyrmscraig noble skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -130960,6 +130970,8 @@ items {
   value {
     id: 33872
     name: "Wyrmscraig noble skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -130967,6 +130979,8 @@ items {
   value {
     id: 33875
     name: "Wyrmscraig noble skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -131045,6 +131059,15 @@ items {
   key: 33902
   value {
     id: 33902
+    name: "Wyrmscraig villager robe top"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 33905
+  value {
+    id: 33905
     name: "Wyrmscraig villager robe top"
     stat_bonuses {
     }
@@ -131244,6 +131267,8 @@ items {
   value {
     id: 33971
     name: "Wyrmscraig villager skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -131251,6 +131276,8 @@ items {
   value {
     id: 33974
     name: "Wyrmscraig villager skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -131258,6 +131285,8 @@ items {
   value {
     id: 33977
     name: "Wyrmscraig villager skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -131265,6 +131294,8 @@ items {
   value {
     id: 33980
     name: "Wyrmscraig villager skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -131272,6 +131303,8 @@ items {
   value {
     id: 33983
     name: "Wyrmscraig villager skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -131279,6 +131312,8 @@ items {
   value {
     id: 33986
     name: "Wyrmscraig villager skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
@@ -131286,6 +131321,8 @@ items {
   value {
     id: 33989
     name: "Wyrmscraig villager skirt"
+    stat_bonuses {
+    }
   }
 }
 items {
