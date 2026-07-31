@@ -41601,7 +41601,7 @@ npcs {
 npcs {
   ids: 13031
   name: "Wyrmling"
-  version: "Idle"
+  version: "Idle (Neypotzli)"
   hitpoints: 65
   att: 20
   str: 30
@@ -41619,7 +41619,7 @@ npcs {
 npcs {
   ids: 13032
   name: "Wyrmling"
-  version: "Attacking"
+  version: "Attacking (Neypotzli)"
   hitpoints: 65
   att: 20
   str: 30
