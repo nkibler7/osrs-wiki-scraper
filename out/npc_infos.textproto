@@ -41635,6 +41635,42 @@ npcs {
   attributes: "dragon"
 }
 npcs {
+  ids: 16297
+  name: "Wyrmling"
+  version: "Idle (Wyrmscraig)"
+  hitpoints: 65
+  att: 20
+  str: 30
+  def: 40
+  mage: 60
+  range: 15
+  strbns: 10
+  mbns: 10
+  dstab: 20
+  dslash: 50
+  dcrush: 50
+  dmagic: 50
+  attributes: "dragon"
+}
+npcs {
+  ids: 16296
+  name: "Wyrmling"
+  version: "Attacking (Wyrmscraig)"
+  hitpoints: 65
+  att: 20
+  str: 30
+  def: 40
+  mage: 60
+  range: 15
+  strbns: 10
+  mbns: 10
+  dstab: 20
+  dslash: 50
+  dcrush: 50
+  dmagic: 50
+  attributes: "dragon"
+}
+npcs {
   ids: 10954
   ids: 10955
   name: "Xamphur"
