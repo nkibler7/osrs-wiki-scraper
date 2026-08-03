@@ -1084,6 +1084,8 @@ H
 ÙjCerberusAnnihilation Ğ(¬0˜8–@ÜHÜP2`2p2€2ˆd˜dªDemon
 E
 ÙjCerberus	Permanent î(¬0˜8–@ÜHÜP2`2p2€2ˆd˜dªDemon
+@
+üyCerberus (Echo) Ô(“0“8s@“H“P2`2p2€2ˆd˜FªDemon
 M
 ÚYÛYChampion of Scabaras Ø( 0 8 @ PX`h€xˆ  ˜Ôªkalphite
 
@@ -1210,6 +1212,7 @@ P
 ×FCorrupted Dragon d(“0“8b@bH“`’hâ
 G
 ËFÌFÍFÎFCorrupted Hunllef è(ğ0ğ8ğ@ğHğPZXp`ZhppZxp€ˆ˜
+DCorrupted Hunllef (Echo) Ì(¬0¬8ƒ@ˆH”PZXp`ZhppZxp€ˆ˜
 
 ĞFCorrupted Rat (*008@
 #
@@ -1404,6 +1407,13 @@ Dad (hard)	Hard Mode ğ(„0ˆ82P(XF€ˆ(˜È
 ñ·.	DagannothLevel 90 _(L0N8A@HP2X2€2ˆ22˜2
 &
 ØDagannoth fledgeling d(20282@H
+:Dagannoth Prime (Echo)Prime ˆ(ÿ0ÿ8ÿ@€dˆdd˜d
+6Dagannoth Rex (Echo)Rex ˆ(08ÿHÿ€dˆdd˜
+
+ADagannoth Supreme (Echo)Supreme ˆ(ÿ0€8ÿ@ÿH¦€
+ˆ
+
+˜d
 A
 ÔÕÖ×ØÙÚÛÜDagannoth mother x(N0N8Q@H2€–ˆ––˜2
 H
@@ -1422,6 +1432,8 @@ A
 šaDagannoth PrimeAnnihilation ¸(ÿ0ÿ8}@ÿ€ÿˆÿÿ˜ÿ
 >
 šaDagannoth Prime	Permanent è(ÿ0ÿ8}@ÿ€ÿˆÿÿ˜ÿ
+7
+ƒzDagannoth Prime (Echo) ˆ(ÿ0ÿ8ÿ@€dˆdd˜d
 4
 á2Dagannoth Prime ÿ(ÿ0ÿ8ÿ@ÿ€ÿˆÿÿ˜ÿ
 1
@@ -1440,6 +1452,9 @@ Armageddon è(ÿ0ÿ8ÿHÿ€ÿˆÿÿ˜
 
 <
 —aDagannoth Rex	Permanent è(ÿ0ÿ8ÿHÿ€ÿˆÿÿ˜
+
+5
+„zDagannoth Rex (Echo) ˆ(08ÿHÿ€dˆdd˜
 
 1
 â2Dagannoth Rex ÿ(ÿ0ÿ8ÿHÿ€ÿˆÿÿ˜
@@ -1473,6 +1488,11 @@ C
 ˆ
 
 ˜ÿ
+<
+‚zDagannoth Supreme (Echo) ˆ(ÿ0€8ÿ@ÿH¦€
+ˆ
+
+˜d
 6
 à2Dagannoth Supreme ÿ(ÿ0ÿ8€@ÿHÿ€
 ˆ
@@ -1534,6 +1554,7 @@ H˜
 8@H˜
 3
 ¬=­=Ì=Í=Dawn Â(Œ0Œ8d@dHŒ˜PªFlying, Golem
+Dawn Â(Œ0Œ8d@dHŒ˜P
 /
 ÍDeadly red spider #(08@H€ˆ˜
 %
@@ -1563,6 +1584,7 @@ C
 ÂÃDefilerLevel 80 N85Hb
 
 ÄÅDefilerLevel 97 a8AHu
+&Definitely Not Dusk Â(È0Œ8d@ŒHŒ
 
 ×'Delrith ( 08@H
 #
@@ -2729,6 +2751,9 @@ Grey golem P(P08P@H€¬ˆ¬˜¬ªGolem
 àGrizzly bear cubLevel 33 #(08@H
 ,
 áGrizzly bear cubLevel 36 #( 0 8@H
+-Dusk (Echo)Dusk ¸(Ù0Ÿ8»@†Hƒªgolem
+'DawnDawn Â(Œ0Œ8d@dHŒ˜Pªgolem
+CDefinitely Not DuskDefinitely Not Dusk Â(È0Œ8d@ŒHŒªgolem
 +
 ŸGrowler ’(d0e8x@–HP
 X€ˆ˜
@@ -3112,6 +3137,7 @@ H
 ‡CHespori ¬(08x@~H–`–p–€<ˆ<˜P
 -
 ¸WHespori è(08x@~H–`–p–€<ˆ<˜P
+1Hespori (Echo) „(08x@úHÈ`–p–€<ˆ<˜P
 /
 †
 HighwaymanNo hood (08@HPXˆ
@@ -3549,6 +3575,12 @@ H
 H
 ÅĞ!Kalphite QueenAirborne ÿ(¬0¬8¬@–H€dˆdd˜
 ªkalphite
+M
+€zKalphite Queen (Echo)Crawling ±(÷0÷8¬@¥H€2ˆ2
+˜AªKalphite
+M
+zKalphite Queen (Echo)Airborne ±(÷0÷8¬@¥H€2ˆ22˜
+ªKalphite
 F
 ä2Kalphite QueenCrawling ÿ(¬0¬8¬@–H€2ˆ2
 ˜dªkalphite
@@ -6093,6 +6125,7 @@ K
 ÛjThermonuclear smoke devilAnnihilation Ü(æ0Ü8–@H¶€ˆ˜È
 H
 ÛjThermonuclear smoke devil	Permanent ô(æ0Ü8–@H¶€ˆ˜È
+@ Thermonuclear smoke devil (Echo) °	(æ0Ü8Ä@Hƒ€ˆ	˜ 
 !
 ´ThiefStandard (08@H
 !
