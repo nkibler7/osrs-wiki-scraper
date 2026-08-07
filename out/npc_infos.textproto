@@ -8292,46 +8292,6 @@ npcs {
   range: 1
 }
 npcs {
-  name: "Dagannoth Prime (Echo)"
-  version: "Prime"
-  hitpoints: 1800
-  att: 255
-  str: 255
-  def: 255
-  mage: 400
-  dstab: 100
-  dslash: 100
-  dcrush: 100
-  dmagic: 100
-}
-npcs {
-  name: "Dagannoth Rex (Echo)"
-  version: "Rex"
-  hitpoints: 1800
-  att: 400
-  str: 400
-  def: 255
-  range: 255
-  dstab: 100
-  dslash: 100
-  dcrush: 100
-  dmagic: 10
-}
-npcs {
-  name: "Dagannoth Supreme (Echo)"
-  version: "Supreme"
-  hitpoints: 1800
-  att: 255
-  str: 128
-  def: 255
-  mage: 255
-  range: 550
-  dstab: 10
-  dslash: 10
-  dcrush: 10
-  dmagic: 100
-}
-npcs {
   ids: 980
   ids: 981
   ids: 982
@@ -8463,7 +8423,6 @@ npcs {
   dmagic: 255
 }
 npcs {
-  ids: 15619
   name: "Dagannoth Prime (Echo)"
   hitpoints: 1800
   att: 255
@@ -8558,7 +8517,6 @@ npcs {
   dmagic: 10
 }
 npcs {
-  ids: 15620
   name: "Dagannoth Rex (Echo)"
   hitpoints: 1800
   att: 400
@@ -8668,7 +8626,6 @@ npcs {
   dmagic: 255
 }
 npcs {
-  ids: 15618
   name: "Dagannoth Supreme (Echo)"
   hitpoints: 1800
   att: 255
@@ -16294,40 +16251,6 @@ npcs {
   def: 28
   mage: 1
   range: 1
-}
-npcs {
-  name: "Dusk (Echo)"
-  version: "Dusk"
-  hitpoints: 1080
-  att: 345
-  str: 287
-  def: 187
-  mage: 262
-  range: 387
-  attributes: "golem"
-}
-npcs {
-  name: "Dawn"
-  version: "Dawn"
-  hitpoints: 450
-  att: 140
-  str: 140
-  def: 100
-  mage: 100
-  range: 140
-  dmagic: 80
-  attributes: "golem"
-}
-npcs {
-  name: "Definitely Not Dusk"
-  version: "Definitely Not Dusk"
-  hitpoints: 450
-  att: 200
-  str: 140
-  def: 100
-  mage: 140
-  range: 140
-  attributes: "golem"
 }
 npcs {
   ids: 2207
