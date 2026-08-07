@@ -23791,7 +23791,7 @@ npcs {
 }
 npcs {
   ids: 16309
-  ids: 16315
+  ids: 16311
   name: "Mad Angel"
   version: "Quest"
   hitpoints: 565
@@ -23813,7 +23813,7 @@ npcs {
 }
 npcs {
   ids: 16305
-  ids: 16314
+  ids: 16307
   name: "Mad Angel"
   version: "Post-quest"
   hitpoints: 755
