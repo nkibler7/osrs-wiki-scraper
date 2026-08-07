@@ -24891,7 +24891,6 @@ npcs {
 }
 npcs {
   ids: 528
-  ids: 3485
   ids: 8401
   name: "Monk of Zamorak"
   version: "Level 17"
@@ -24904,7 +24903,6 @@ npcs {
 }
 npcs {
   ids: 527
-  ids: 3484
   ids: 8400
   name: "Monk of Zamorak"
   version: "Level 22"
@@ -24927,17 +24925,6 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 3486
-  name: "Monk of Zamorak"
-  version: "Level 30"
-  hitpoints: 25
-  att: 25
-  str: 25
-  def: 25
-  mage: 40
-  range: 1
-}
-npcs {
   ids: 529
   name: "Monk of Zamorak"
   version: "Level 45"
@@ -24945,6 +24932,42 @@ npcs {
   att: 38
   str: 38
   def: 42
+  mage: 40
+  range: 1
+}
+npcs {
+  ids: 3485
+  ids: 16272
+  name: "Monk of Zamorak"
+  version: "Level 17"
+  hitpoints: 10
+  att: 8
+  str: 8
+  def: 12
+  mage: 25
+  range: 1
+}
+npcs {
+  ids: 3484
+  ids: 16271
+  name: "Monk of Zamorak"
+  version: "Level 22"
+  hitpoints: 20
+  att: 18
+  str: 18
+  def: 22
+  mage: 25
+  range: 1
+}
+npcs {
+  ids: 3486
+  ids: 16273
+  name: "Monk of Zamorak"
+  version: "Level 30"
+  hitpoints: 25
+  att: 25
+  str: 25
+  def: 25
   mage: 40
   range: 1
 }
