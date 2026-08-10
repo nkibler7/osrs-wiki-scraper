@@ -88277,7 +88277,7 @@ items {
     name: "Virtus robe top"
     stat_bonuses {
       ranged_attack: -11
-      magic_attack: 35
+      magic_attack: 50
       stab_defence: 47
       slash_defence: 36
       crush_defence: 56
