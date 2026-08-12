@@ -50107,7 +50107,7 @@ items {
   key: 11791
   value {
     id: 11791
-    name: "Staff of the dead"
+    name: "Staff of the Dead"
     stat_bonuses {
       stab_attack: 55
       slash_attack: 70
