@@ -141,7 +141,6 @@ npcs {
   strbns: 5
   dstab: 70
   dslash: 70
-  dcrush: 70
   dmagic: 150
 }
 npcs {
@@ -39220,6 +39219,7 @@ npcs {
   name: "Vampyre Snail"
   hitpoints: 500
   att: 1
+  str: 1
   def: 300
   mage: 100
   range: 300
