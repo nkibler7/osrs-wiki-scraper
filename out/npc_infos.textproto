@@ -156,7 +156,6 @@ npcs {
   strbns: 10
   dstab: 50
   dslash: 50
-  dcrush: 100
   dmagic: 50
 }
 npcs {
@@ -314,7 +313,6 @@ npcs {
   strbns: 10
   dstab: 75
   dslash: 75
-  dcrush: 10
   dmagic: 75
 }
 npcs {

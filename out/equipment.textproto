@@ -16728,7 +16728,7 @@ items {
   key: 3844
   value {
     id: 3844
-    name: "Book of balance"
+    name: "Book of Balance"
     stat_bonuses {
       stab_attack: 4
       slash_attack: 4
@@ -86565,7 +86565,7 @@ items {
   key: 25862
   value {
     id: 25862
-    name: "Bow of faerdhinen (inactive)"
+    name: "Bow of Faerdhinen (inactive)"
     stat_bonuses {
     }
     weapon_details {
@@ -86605,7 +86605,7 @@ items {
   key: 25865
   value {
     id: 25865
-    name: "Bow of faerdhinen"
+    name: "Bow of Faerdhinen"
     stat_bonuses {
       ranged_attack: 128
       ranged_strength: 106
@@ -86647,7 +86647,7 @@ items {
   key: 25867
   value {
     id: 25867
-    name: "Bow of faerdhinen (c)"
+    name: "Bow of Faerdhinen (c)"
     stat_bonuses {
       ranged_attack: 128
       ranged_strength: 106
@@ -87067,7 +87067,7 @@ items {
   key: 25884
   value {
     id: 25884
-    name: "Bow of faerdhinen (c)"
+    name: "Bow of Faerdhinen (c)"
     stat_bonuses {
       ranged_attack: 128
       ranged_strength: 106
@@ -87109,7 +87109,7 @@ items {
   key: 25886
   value {
     id: 25886
-    name: "Bow of faerdhinen (c)"
+    name: "Bow of Faerdhinen (c)"
     stat_bonuses {
       ranged_attack: 128
       ranged_strength: 106
@@ -87151,49 +87151,7 @@ items {
   key: 25888
   value {
     id: 25888
-    name: "Bow of faerdhinen (c)"
-    stat_bonuses {
-      ranged_attack: 128
-      ranged_strength: 106
-    }
-    weapon_details {
-      base_attack_speed: 5
-      base_attack_range: 10
-      combat_options {
-        name: "Accurate"
-        modifiers {
-          ranged_modifier: 3
-        }
-        ranged {
-          attack_style: RANGED_ATTACK_STYLE_ACCURATE
-        }
-      }
-      combat_options {
-        name: "Rapid"
-        modifiers {
-          attack_speed_modifier: -1
-        }
-        ranged {
-          attack_style: RANGED_ATTACK_STYLE_RAPID
-        }
-      }
-      combat_options {
-        name: "Longrange"
-        modifiers {
-          defence_modifier: 3
-        }
-        ranged {
-          attack_style: RANGED_ATTACK_STYLE_LONGRANGE
-        }
-      }
-    }
-  }
-}
-items {
-  key: 25890
-  value {
-    id: 25890
-    name: "Bow of faerdhinen (c)"
+    name: "Bow of Faerdhinen (c)"
     stat_bonuses {
       ranged_attack: 128
       ranged_strength: 106
@@ -87235,7 +87193,7 @@ items {
   key: 25892
   value {
     id: 25892
-    name: "Bow of faerdhinen (c)"
+    name: "Bow of Faerdhinen (c)"
     stat_bonuses {
       ranged_attack: 128
       ranged_strength: 106
@@ -87277,7 +87235,7 @@ items {
   key: 25894
   value {
     id: 25894
-    name: "Bow of faerdhinen (c)"
+    name: "Bow of Faerdhinen (c)"
     stat_bonuses {
       ranged_attack: 128
       ranged_strength: 106
@@ -88954,7 +88912,7 @@ items {
   key: 26488
   value {
     id: 26488
-    name: "Book of balance (or)"
+    name: "Book of Balance (or)"
     stat_bonuses {
       stab_attack: 4
       slash_attack: 4
