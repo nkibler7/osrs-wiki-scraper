@@ -39216,6 +39216,19 @@ npcs {
   dmagic: -63
 }
 npcs {
+  ids: 16344
+  name: "Vampyre Snail"
+  hitpoints: 500
+  att: 1
+  def: 300
+  mage: 100
+  range: 300
+  dstab: 600
+  dslash: 600
+  dcrush: 50
+  dmagic: 600
+}
+npcs {
   ids: 7529
   name: "Vanguard"
   version: "Magic"
