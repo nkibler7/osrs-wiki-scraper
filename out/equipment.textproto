@@ -54821,7 +54821,7 @@ items {
   key: 12608
   value {
     id: 12608
-    name: "Book of war"
+    name: "Book of War"
     stat_bonuses {
       melee_strength: 2
       prayer: 5
