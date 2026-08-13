@@ -25298,6 +25298,9 @@ npcs {
   ids: 940
   ids: 941
   ids: 942
+  ids: 16330
+  ids: 16331
+  ids: 16332
   name: "Mountain troll"
   version: "Level 69"
   hitpoints: 90

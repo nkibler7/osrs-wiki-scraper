@@ -54863,7 +54863,7 @@ items {
   key: 12612
   value {
     id: 12612
-    name: "Book of darkness"
+    name: "Book of Darkness"
     stat_bonuses {
       magic_attack: 10
       prayer: 5
@@ -88974,7 +88974,7 @@ items {
   key: 26490
   value {
     id: 26490
-    name: "Book of darkness (or)"
+    name: "Book of Darkness (or)"
     stat_bonuses {
       magic_attack: 10
       prayer: 5
@@ -88985,7 +88985,7 @@ items {
   key: 26492
   value {
     id: 26492
-    name: "Book of law (or)"
+    name: "Book of Law (or)"
     stat_bonuses {
       ranged_attack: 10
       prayer: 5
@@ -88996,7 +88996,7 @@ items {
   key: 26494
   value {
     id: 26494
-    name: "Book of war (or)"
+    name: "Book of War (or)"
     stat_bonuses {
       melee_strength: 2
       prayer: 5
