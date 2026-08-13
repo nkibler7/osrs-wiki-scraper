@@ -67641,7 +67641,7 @@ items {
   key: 21776
   value {
     id: 21776
-    name: "Imbued saradomin max cape"
+    name: "Imbued Saradomin max cape"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 3
@@ -67656,7 +67656,7 @@ items {
   key: 21778
   value {
     id: 21778
-    name: "Imbued saradomin max hood"
+    name: "Imbued Saradomin max hood"
     stat_bonuses {
     }
   }
@@ -67665,7 +67665,7 @@ items {
   key: 21780
   value {
     id: 21780
-    name: "Imbued zamorak max cape"
+    name: "Imbued Zamorak max cape"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 3
@@ -67680,7 +67680,7 @@ items {
   key: 21782
   value {
     id: 21782
-    name: "Imbued zamorak max hood"
+    name: "Imbued Zamorak max hood"
     stat_bonuses {
     }
   }
@@ -67689,7 +67689,7 @@ items {
   key: 21784
   value {
     id: 21784
-    name: "Imbued guthix max cape"
+    name: "Imbued Guthix max cape"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 3
@@ -74941,7 +74941,7 @@ items {
   key: 23603
   value {
     id: 23603
-    name: "Imbued guthix cape"
+    name: "Imbued Guthix cape"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 3
@@ -74956,7 +74956,7 @@ items {
   key: 23605
   value {
     id: 23605
-    name: "Imbued zamorak cape"
+    name: "Imbued Zamorak cape"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 3
@@ -74971,7 +74971,7 @@ items {
   key: 23607
   value {
     id: 23607
-    name: "Imbued saradomin cape"
+    name: "Imbued Saradomin cape"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 3
@@ -79880,7 +79880,7 @@ items {
   key: 24232
   value {
     id: 24232
-    name: "Imbued saradomin max cape (l)"
+    name: "Imbued Saradomin max cape (l)"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 3
@@ -79895,7 +79895,7 @@ items {
   key: 24233
   value {
     id: 24233
-    name: "Imbued zamorak max cape (l)"
+    name: "Imbued Zamorak max cape (l)"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 3
@@ -79910,7 +79910,7 @@ items {
   key: 24234
   value {
     id: 24234
-    name: "Imbued guthix max cape (l)"
+    name: "Imbued Guthix max cape (l)"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 3
@@ -92926,7 +92926,7 @@ items {
   key: 27187
   value {
     id: 27187
-    name: "Bow of faerdhinen (c)"
+    name: "Bow of Faerdhinen (c)"
     stat_bonuses {
       ranged_attack: 128
       ranged_strength: 106
@@ -127333,7 +127333,7 @@ items {
   key: 33021
   value {
     id: 33021
-    name: "Bow of faerdhinen (c)"
+    name: "Bow of Faerdhinen (c)"
     stat_bonuses {
       ranged_attack: 128
       ranged_strength: 106
