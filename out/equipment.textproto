@@ -67704,7 +67704,7 @@ items {
   key: 21786
   value {
     id: 21786
-    name: "Imbued guthix max hood"
+    name: "Imbued Guthix max hood"
     stat_bonuses {
     }
   }
@@ -67713,7 +67713,7 @@ items {
   key: 21791
   value {
     id: 21791
-    name: "Imbued saradomin cape"
+    name: "Imbued Saradomin cape"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 3
@@ -67728,7 +67728,7 @@ items {
   key: 21793
   value {
     id: 21793
-    name: "Imbued guthix cape"
+    name: "Imbued Guthix cape"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 3
@@ -67743,7 +67743,7 @@ items {
   key: 21795
   value {
     id: 21795
-    name: "Imbued zamorak cape"
+    name: "Imbued Zamorak cape"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 3
@@ -79925,7 +79925,7 @@ items {
   key: 24248
   value {
     id: 24248
-    name: "Imbued saradomin cape (l)"
+    name: "Imbued Saradomin cape (l)"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 3
@@ -79940,7 +79940,7 @@ items {
   key: 24249
   value {
     id: 24249
-    name: "Imbued guthix cape (l)"
+    name: "Imbued Guthix cape (l)"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 3
@@ -79955,7 +79955,7 @@ items {
   key: 24250
   value {
     id: 24250
-    name: "Imbued zamorak cape (l)"
+    name: "Imbued Zamorak cape (l)"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 3
@@ -103886,7 +103886,7 @@ items {
   key: 29613
   value {
     id: 29613
-    name: "Imbued zamorak cape (deadman)"
+    name: "Imbued Zamorak cape (Deadman)"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 3
@@ -103901,7 +103901,7 @@ items {
   key: 29615
   value {
     id: 29615
-    name: "Imbued guthix cape (deadman)"
+    name: "Imbued Guthix cape (Deadman)"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 3
@@ -103916,7 +103916,7 @@ items {
   key: 29617
   value {
     id: 29617
-    name: "Imbued saradomin cape (deadman)"
+    name: "Imbued Saradomin cape (Deadman)"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 3
