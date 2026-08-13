@@ -54842,7 +54842,7 @@ items {
   key: 12610
   value {
     id: 12610
-    name: "Book of law"
+    name: "Book of Law"
     stat_bonuses {
       ranged_attack: 10
       prayer: 5
