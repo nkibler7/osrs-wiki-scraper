@@ -69429,7 +69429,7 @@ items {
   key: 22296
   value {
     id: 22296
-    name: "Staff of light"
+    name: "Staff of Light"
     stat_bonuses {
       stab_attack: 55
       slash_attack: 70
@@ -74160,7 +74160,7 @@ items {
   key: 23363
   value {
     id: 23363
-    name: "Staff of bob the cat"
+    name: "Staff of Bob the Cat"
     stat_bonuses {
       stab_attack: 2
       slash_attack: -1
@@ -78846,7 +78846,7 @@ items {
   key: 24144
   value {
     id: 24144
-    name: "Staff of balance"
+    name: "Staff of Balance"
     stat_bonuses {
       stab_attack: 55
       slash_attack: 70
@@ -80827,7 +80827,7 @@ items {
   key: 24423
   value {
     id: 24423
-    name: "Harmonised nightmare staff"
+    name: "Harmonised Nightmare staff"
     stat_bonuses {
       magic_attack: 16
       magic_defence: 14
@@ -80888,7 +80888,7 @@ items {
   key: 24424
   value {
     id: 24424
-    name: "Volatile nightmare staff"
+    name: "Volatile Nightmare staff"
     stat_bonuses {
       magic_attack: 16
       magic_defence: 14
@@ -80949,7 +80949,7 @@ items {
   key: 24425
   value {
     id: 24425
-    name: "Eldritch nightmare staff"
+    name: "Eldritch Nightmare staff"
     stat_bonuses {
       magic_attack: 16
       magic_defence: 14
@@ -86330,7 +86330,7 @@ items {
   key: 25818
   value {
     id: 25818
-    name: "Book of the dead"
+    name: "Book of the Dead"
     stat_bonuses {
       magic_attack: 6
       prayer: 3
@@ -103609,71 +103609,10 @@ items {
   }
 }
 items {
-  key: 29602
-  value {
-    id: 29602
-    name: "Corrupted volatile nightmare staff"
-    stat_bonuses {
-      magic_attack: 16
-      magic_defence: 14
-      magic_damage: 1.5
-    }
-    weapon_details {
-      base_attack_speed: 5
-      base_attack_range: 1
-      combat_options {
-        name: "Bash"
-        modifiers {
-          attack_modifier: 3
-        }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_ACCURATE
-        }
-      }
-      combat_options {
-        name: "Pound"
-        modifiers {
-          strength_modifier: 3
-        }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
-        }
-      }
-      combat_options {
-        name: "Focus"
-        modifiers {
-          defence_modifier: 3
-        }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
-        }
-      }
-      combat_options {
-        name: "Spell"
-        modifiers {
-          attack_range_modifier: 9
-        }
-        magic {
-          attack_style: MAGIC_ATTACK_STYLE_DEFENSIVE_AUTOCAST
-        }
-      }
-      combat_options {
-        name: "Spell"
-        modifiers {
-          attack_range_modifier: 9
-        }
-        magic {
-          attack_style: MAGIC_ATTACK_STYLE_AUTOCAST
-        }
-      }
-    }
-  }
-}
-items {
   key: 29605
   value {
     id: 29605
-    name: "Armadyl godsword (deadman)"
+    name: "Armadyl godsword (Deadman)"
     stat_bonuses {
       slash_attack: 132
       crush_attack: 80
@@ -103726,7 +103665,7 @@ items {
   key: 29607
   value {
     id: 29607
-    name: "Voidwaker (deadman)"
+    name: "Voidwaker (Deadman)"
     stat_bonuses {
       stab_attack: 70
       slash_attack: 80
@@ -103784,7 +103723,7 @@ items {
   key: 29609
   value {
     id: 29609
-    name: "Volatile nightmare staff (deadman)"
+    name: "Volatile Nightmare staff (Deadman)"
     stat_bonuses {
       magic_attack: 16
       magic_defence: 14
@@ -103845,7 +103784,7 @@ items {
   key: 29611
   value {
     id: 29611
-    name: "Dark bow (deadman)"
+    name: "Dark bow (Deadman)"
     stat_bonuses {
       ranged_attack: 95
     }
@@ -127519,7 +127458,7 @@ items {
   key: 33036
   value {
     id: 33036
-    name: "Toxic staff (deadman)"
+    name: "Toxic staff (Deadman)"
     stat_bonuses {
       stab_attack: 55
       slash_attack: 70
