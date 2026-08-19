@@ -91540,7 +91540,7 @@ items {
   key: 26914
   value {
     id: 26914
-    name: "Amulet of the eye"
+    name: "Amulet of the Eye"
     stat_bonuses {
     }
   }
@@ -91768,7 +91768,7 @@ items {
   key: 26990
   value {
     id: 26990
-    name: "Amulet of the eye"
+    name: "Amulet of the Eye"
     stat_bonuses {
     }
   }
@@ -91777,7 +91777,7 @@ items {
   key: 26992
   value {
     id: 26992
-    name: "Amulet of the eye"
+    name: "Amulet of the Eye"
     stat_bonuses {
     }
   }
@@ -91786,7 +91786,7 @@ items {
   key: 26994
   value {
     id: 26994
-    name: "Amulet of the eye"
+    name: "Amulet of the Eye"
     stat_bonuses {
     }
   }
