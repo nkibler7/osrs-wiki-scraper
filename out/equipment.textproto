@@ -43408,7 +43408,7 @@ items {
   key: 10330
   value {
     id: 10330
-    name: "3rd age range top"
+    name: "3rd Age range top"
     stat_bonuses {
       ranged_attack: 30
       magic_attack: -15
@@ -43424,7 +43424,7 @@ items {
   key: 10332
   value {
     id: 10332
-    name: "3rd age range legs"
+    name: "3rd Age range legs"
     stat_bonuses {
       ranged_attack: 17
       magic_attack: -10
@@ -43440,7 +43440,7 @@ items {
   key: 10334
   value {
     id: 10334
-    name: "3rd age range coif"
+    name: "3rd Age range coif"
     stat_bonuses {
       ranged_attack: 9
       magic_attack: -2
@@ -43456,7 +43456,7 @@ items {
   key: 10336
   value {
     id: 10336
-    name: "3rd age vambraces"
+    name: "3rd Age vambraces"
     stat_bonuses {
       ranged_attack: 11
       magic_attack: -10
@@ -43471,7 +43471,7 @@ items {
   key: 10338
   value {
     id: 10338
-    name: "3rd age robe top"
+    name: "3rd Age robe top"
     stat_bonuses {
       magic_attack: 24
       magic_defence: 24
@@ -43483,7 +43483,7 @@ items {
   key: 10340
   value {
     id: 10340
-    name: "3rd age robe"
+    name: "3rd Age robe"
     stat_bonuses {
       magic_attack: 19
       magic_defence: 19
@@ -43495,7 +43495,7 @@ items {
   key: 10342
   value {
     id: 10342
-    name: "3rd age mage hat"
+    name: "3rd Age mage hat"
     stat_bonuses {
       magic_attack: 8
       magic_defence: 8
@@ -43507,7 +43507,7 @@ items {
   key: 10344
   value {
     id: 10344
-    name: "3rd age amulet"
+    name: "3rd Age amulet"
     stat_bonuses {
       magic_attack: 15
       magic_defence: 10
@@ -43518,7 +43518,7 @@ items {
   key: 10346
   value {
     id: 10346
-    name: "3rd age platelegs"
+    name: "3rd Age platelegs"
     stat_bonuses {
       ranged_attack: -2
       magic_attack: -25
@@ -43534,7 +43534,7 @@ items {
   key: 10348
   value {
     id: 10348
-    name: "3rd age platebody"
+    name: "3rd Age platebody"
     stat_bonuses {
       magic_attack: -20
       stab_defence: 96
@@ -43549,7 +43549,7 @@ items {
   key: 10350
   value {
     id: 10350
-    name: "3rd age full helmet"
+    name: "3rd Age full helmet"
     stat_bonuses {
       ranged_attack: -2
       magic_attack: -5
@@ -43565,7 +43565,7 @@ items {
   key: 10352
   value {
     id: 10352
-    name: "3rd age kiteshield"
+    name: "3rd Age kiteshield"
     stat_bonuses {
       ranged_attack: -4
       magic_attack: -10
@@ -53956,7 +53956,7 @@ items {
   key: 12426
   value {
     id: 12426
-    name: "3rd age longsword"
+    name: "3rd Age longsword"
     stat_bonuses {
       slash_attack: 72
       crush_attack: 60
@@ -71564,7 +71564,7 @@ items {
   key: 22664
   value {
     id: 22664
-    name: "Scythe of vitur"
+    name: "Scythe of Vitur"
   }
 }
 items {
@@ -73380,7 +73380,7 @@ items {
   key: 23242
   value {
     id: 23242
-    name: "3rd age plateskirt"
+    name: "3rd Age plateskirt"
     stat_bonuses {
       ranged_attack: -2
       magic_attack: -25
@@ -91414,7 +91414,7 @@ items {
   key: 26852
   value {
     id: 26852
-    name: "Robe top of the eye"
+    name: "Robe top of the Eye"
     stat_bonuses {
     }
   }
@@ -91450,7 +91450,7 @@ items {
   key: 26860
   value {
     id: 26860
-    name: "Robe top of the eye (red)"
+    name: "Robe top of the Eye (red)"
     stat_bonuses {
     }
   }
@@ -91477,7 +91477,7 @@ items {
   key: 26866
   value {
     id: 26866
-    name: "Robe top of the eye (green)"
+    name: "Robe top of the Eye (green)"
     stat_bonuses {
     }
   }
@@ -91504,7 +91504,7 @@ items {
   key: 26872
   value {
     id: 26872
-    name: "Robe top of the eye (blue)"
+    name: "Robe top of the Eye (blue)"
     stat_bonuses {
     }
   }
@@ -93763,7 +93763,7 @@ items {
   key: 27370
   value {
     id: 27370
-    name: "Mask of rebirth"
+    name: "Mask of Rebirth"
     stat_bonuses {
     }
   }
