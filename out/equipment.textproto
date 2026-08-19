@@ -58668,7 +58668,7 @@ items {
   key: 13203
   value {
     id: 13203
-    name: "Mask of balance"
+    name: "Mask of Balance"
     stat_bonuses {
     }
   }
@@ -83007,7 +83007,7 @@ items {
   key: 25104
   value {
     id: 25104
-    name: "Crystal of echoes"
+    name: "Crystal of Echoes"
   }
 }
 items {
