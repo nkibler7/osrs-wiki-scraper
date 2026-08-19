@@ -64526,7 +64526,7 @@ items {
   key: 20714
   value {
     id: 20714
-    name: "Tome of fire"
+    name: "Tome of Fire"
     stat_bonuses {
       magic_attack: 8
       magic_defence: 8
@@ -64537,7 +64537,7 @@ items {
   key: 20716
   value {
     id: 20716
-    name: "Tome of fire (empty)"
+    name: "Tome of Fire (empty)"
     stat_bonuses {
       magic_attack: 8
       magic_defence: 8
@@ -85189,7 +85189,7 @@ items {
   key: 25574
   value {
     id: 25574
-    name: "Tome of water"
+    name: "Tome of Water"
     stat_bonuses {
       magic_attack: 8
       magic_defence: 8
@@ -85200,7 +85200,7 @@ items {
   key: 25576
   value {
     id: 25576
-    name: "Tome of water (empty)"
+    name: "Tome of Water (empty)"
     stat_bonuses {
       magic_attack: 8
       magic_defence: 8
@@ -104978,7 +104978,7 @@ items {
   key: 30064
   value {
     id: 30064
-    name: "Tome of earth"
+    name: "Tome of Earth"
     stat_bonuses {
       magic_attack: 8
       magic_defence: 8
@@ -104989,7 +104989,7 @@ items {
   key: 30066
   value {
     id: 30066
-    name: "Tome of earth (empty)"
+    name: "Tome of Earth (empty)"
     stat_bonuses {
       magic_attack: 8
       magic_defence: 8
@@ -109164,7 +109164,7 @@ items {
   key: 31241
   value {
     id: 31241
-    name: "Horn of plenty"
+    name: "Horn of Plenty"
     stat_bonuses {
     }
   }
@@ -109173,7 +109173,7 @@ items {
   key: 31243
   value {
     id: 31243
-    name: "Horn of plenty (empty)"
+    name: "Horn of Plenty (empty)"
     stat_bonuses {
     }
   }
