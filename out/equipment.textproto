@@ -97,7 +97,7 @@ items {
   key: 86
   value {
     id: 86
-    name: "Pendant of lucien"
+    name: "Pendant of Lucien"
     stat_bonuses {
     }
   }
@@ -45181,7 +45181,7 @@ items {
   key: 10828
   value {
     id: 10828
-    name: "Helm of neitiznot"
+    name: "Helm of Neitiznot"
     stat_bonuses {
       stab_defence: 31
       slash_defence: 29
