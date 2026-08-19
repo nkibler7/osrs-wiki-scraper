@@ -32294,7 +32294,7 @@ items {
   key: 6787
   value {
     id: 6787
-    name: "Robe of elidinis"
+    name: "Robe of Elidinis"
     stat_bonuses {
     }
   }
@@ -69733,7 +69733,7 @@ items {
   key: 22325
   value {
     id: 22325
-    name: "Scythe of vitur"
+    name: "Scythe of Vitur"
     stat_bonuses {
       stab_attack: 70
       slash_attack: 125
@@ -70585,7 +70585,7 @@ items {
   key: 22486
   value {
     id: 22486
-    name: "Scythe of vitur (uncharged)"
+    name: "Scythe of Vitur (uncharged)"
     stat_bonuses {
       stab_attack: 50
       slash_attack: 75
@@ -103028,7 +103028,7 @@ items {
   key: 29433
   value {
     id: 29433
-    name: "Book of egg"
+    name: "Book of Egg"
     stat_bonuses {
     }
   }
@@ -104529,7 +104529,7 @@ items {
   key: 29892
   value {
     id: 29892
-    name: "Pendant of ates (inert)"
+    name: "Pendant of Ates (inert)"
     stat_bonuses {
       magic_attack: 2
     }
@@ -104539,7 +104539,7 @@ items {
   key: 29893
   value {
     id: 29893
-    name: "Pendant of ates"
+    name: "Pendant of Ates"
     stat_bonuses {
       magic_defence: 3
       prayer: 2
