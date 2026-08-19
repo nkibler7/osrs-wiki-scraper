@@ -91405,7 +91405,7 @@ items {
   key: 26850
   value {
     id: 26850
-    name: "Hat of the eye"
+    name: "Hat of the Eye"
     stat_bonuses {
     }
   }
@@ -91441,7 +91441,7 @@ items {
   key: 26858
   value {
     id: 26858
-    name: "Hat of the eye (red)"
+    name: "Hat of the Eye (red)"
     stat_bonuses {
     }
   }
@@ -91468,7 +91468,7 @@ items {
   key: 26864
   value {
     id: 26864
-    name: "Hat of the eye (green)"
+    name: "Hat of the Eye (green)"
     stat_bonuses {
     }
   }
@@ -91495,7 +91495,7 @@ items {
   key: 26870
   value {
     id: 26870
-    name: "Hat of the eye (blue)"
+    name: "Hat of the Eye (blue)"
     stat_bonuses {
     }
   }
