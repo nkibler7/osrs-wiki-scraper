@@ -34627,7 +34627,7 @@ items {
   key: 7639
   value {
     id: 7639
-    name: "Rod of ivandis (10)"
+    name: "Rod of Ivandis (10)"
     stat_bonuses {
       slash_attack: -1
       crush_attack: 7
@@ -34693,7 +34693,7 @@ items {
   key: 7640
   value {
     id: 7640
-    name: "Rod of ivandis (9)"
+    name: "Rod of Ivandis (9)"
     stat_bonuses {
       slash_attack: -1
       crush_attack: 7
@@ -34759,7 +34759,7 @@ items {
   key: 7641
   value {
     id: 7641
-    name: "Rod of ivandis (8)"
+    name: "Rod of Ivandis (8)"
     stat_bonuses {
       slash_attack: -1
       crush_attack: 7
@@ -34825,7 +34825,7 @@ items {
   key: 7642
   value {
     id: 7642
-    name: "Rod of ivandis (7)"
+    name: "Rod of Ivandis (7)"
     stat_bonuses {
       slash_attack: -1
       crush_attack: 7
@@ -34891,7 +34891,7 @@ items {
   key: 7643
   value {
     id: 7643
-    name: "Rod of ivandis (6)"
+    name: "Rod of Ivandis (6)"
     stat_bonuses {
       slash_attack: -1
       crush_attack: 7
@@ -34957,7 +34957,7 @@ items {
   key: 7644
   value {
     id: 7644
-    name: "Rod of ivandis (5)"
+    name: "Rod of Ivandis (5)"
     stat_bonuses {
       slash_attack: -1
       crush_attack: 7
@@ -35023,7 +35023,7 @@ items {
   key: 7645
   value {
     id: 7645
-    name: "Rod of ivandis (4)"
+    name: "Rod of Ivandis (4)"
     stat_bonuses {
       slash_attack: -1
       crush_attack: 7
@@ -35089,7 +35089,7 @@ items {
   key: 7646
   value {
     id: 7646
-    name: "Rod of ivandis (3)"
+    name: "Rod of Ivandis (3)"
     stat_bonuses {
       slash_attack: -1
       crush_attack: 7
@@ -35155,7 +35155,7 @@ items {
   key: 7647
   value {
     id: 7647
-    name: "Rod of ivandis (2)"
+    name: "Rod of Ivandis (2)"
     stat_bonuses {
       slash_attack: -1
       crush_attack: 7
@@ -35221,7 +35221,7 @@ items {
   key: 7648
   value {
     id: 7648
-    name: "Rod of ivandis (1)"
+    name: "Rod of Ivandis (1)"
     stat_bonuses {
       slash_attack: -1
       crush_attack: 7
