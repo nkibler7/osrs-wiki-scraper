@@ -18064,7 +18064,7 @@ items {
   key: 4202
   value {
     id: 4202
-    name: "Ring of charos"
+    name: "Ring of Charos"
     stat_bonuses {
     }
   }
@@ -29906,7 +29906,7 @@ items {
   key: 6465
   value {
     id: 6465
-    name: "Ring of charos(a)"
+    name: "Ring of Charos(a)"
     stat_bonuses {
     }
   }
@@ -53915,7 +53915,7 @@ items {
   key: 12424
   value {
     id: 12424
-    name: "3rd age bow"
+    name: "3rd Age bow"
     stat_bonuses {
       ranged_attack: 80
     }
@@ -54067,7 +54067,7 @@ items {
   key: 12437
   value {
     id: 12437
-    name: "3rd age cloak"
+    name: "3rd Age cloak"
     stat_bonuses {
       stab_defence: 9
       slash_defence: 9
@@ -62022,7 +62022,7 @@ items {
   key: 20011
   value {
     id: 20011
-    name: "3rd age axe"
+    name: "3rd Age axe"
     stat_bonuses {
       stab_attack: -2
       slash_attack: 38
@@ -62076,7 +62076,7 @@ items {
   key: 20014
   value {
     id: 20014
-    name: "3rd age pickaxe"
+    name: "3rd Age pickaxe"
     stat_bonuses {
       stab_attack: 38
       slash_attack: -2
@@ -73958,7 +73958,7 @@ items {
   key: 23336
   value {
     id: 23336
-    name: "3rd age druidic robe top"
+    name: "3rd Age druidic robe top"
     stat_bonuses {
       prayer: 8
     }
@@ -73968,7 +73968,7 @@ items {
   key: 23339
   value {
     id: 23339
-    name: "3rd age druidic robe bottoms"
+    name: "3rd Age druidic robe bottoms"
     stat_bonuses {
       prayer: 6
     }
@@ -73978,7 +73978,7 @@ items {
   key: 23342
   value {
     id: 23342
-    name: "3rd age druidic staff"
+    name: "3rd Age druidic staff"
     stat_bonuses {
       stab_attack: 7
       slash_attack: -1
@@ -74046,7 +74046,7 @@ items {
   key: 23345
   value {
     id: 23345
-    name: "3rd age druidic cloak"
+    name: "3rd Age druidic cloak"
     stat_bonuses {
       magic_attack: 1
       stab_defence: 3
@@ -91423,7 +91423,7 @@ items {
   key: 26854
   value {
     id: 26854
-    name: "Robe bottoms of the eye"
+    name: "Robe bottoms of the Eye"
     stat_bonuses {
     }
   }
@@ -91432,7 +91432,7 @@ items {
   key: 26856
   value {
     id: 26856
-    name: "Boots of the eye"
+    name: "Boots of the Eye"
     stat_bonuses {
     }
   }
@@ -91459,7 +91459,7 @@ items {
   key: 26862
   value {
     id: 26862
-    name: "Robe bottoms of the eye (red)"
+    name: "Robe bottoms of the Eye (red)"
     stat_bonuses {
     }
   }
@@ -91486,7 +91486,7 @@ items {
   key: 26868
   value {
     id: 26868
-    name: "Robe bottoms of the eye (green)"
+    name: "Robe bottoms of the Eye (green)"
     stat_bonuses {
     }
   }
@@ -91513,7 +91513,7 @@ items {
   key: 26874
   value {
     id: 26874
-    name: "Robe bottoms of the eye (blue)"
+    name: "Robe bottoms of the Eye (blue)"
     stat_bonuses {
     }
   }
@@ -99691,7 +99691,7 @@ items {
   key: 28226
   value {
     id: 28226
-    name: "3rd age felling axe"
+    name: "3rd Age felling axe"
     stat_bonuses {
       stab_attack: -3
       slash_attack: 60
