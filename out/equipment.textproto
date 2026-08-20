@@ -55922,7 +55922,7 @@ items {
   key: 12851
   value {
     id: 12851
-    name: "Amulet of the damned (full)"
+    name: "Amulet of the Damned (full)"
     stat_bonuses {
       stab_attack: 10
       slash_attack: 10
@@ -55943,7 +55943,7 @@ items {
   key: 12853
   value {
     id: 12853
-    name: "Amulet of the damned"
+    name: "Amulet of the Damned"
     stat_bonuses {
       stab_attack: 10
       slash_attack: 10
@@ -90236,7 +90236,7 @@ items {
   key: 26723
   value {
     id: 26723
-    name: "Wristbands of the arena"
+    name: "Wristbands of the Arena"
     stat_bonuses {
       stab_attack: 12
       slash_attack: 12
@@ -90256,7 +90256,7 @@ items {
   key: 26724
   value {
     id: 26724
-    name: "Wristbands of the arena (l)"
+    name: "Wristbands of the Arena (l)"
     stat_bonuses {
       stab_attack: 12
       slash_attack: 12
@@ -90276,7 +90276,7 @@ items {
   key: 26725
   value {
     id: 26725
-    name: "Wristbands of the arena (c)"
+    name: "Wristbands of the Arena (c)"
     stat_bonuses {
       stab_attack: 12
       slash_attack: 12
@@ -90296,7 +90296,7 @@ items {
   key: 26726
   value {
     id: 26726
-    name: "Wristbands of the arena (cl)"
+    name: "Wristbands of the Arena (cl)"
     stat_bonuses {
       stab_attack: 12
       slash_attack: 12
@@ -90316,7 +90316,7 @@ items {
   key: 26727
   value {
     id: 26727
-    name: "Wristbands of the arena (i)"
+    name: "Wristbands of the Arena (i)"
     stat_bonuses {
       stab_attack: 14
       slash_attack: 13
@@ -90336,7 +90336,7 @@ items {
   key: 26728
   value {
     id: 26728
-    name: "Wristbands of the arena (il)"
+    name: "Wristbands of the Arena (il)"
     stat_bonuses {
       stab_attack: 14
       slash_attack: 13
@@ -90356,7 +90356,7 @@ items {
   key: 26729
   value {
     id: 26729
-    name: "Wristbands of the arena (ic)"
+    name: "Wristbands of the Arena (ic)"
     stat_bonuses {
       stab_attack: 14
       slash_attack: 13
@@ -90376,7 +90376,7 @@ items {
   key: 26730
   value {
     id: 26730
-    name: "Wristbands of the arena (ilc)"
+    name: "Wristbands of the Arena (ilc)"
     stat_bonuses {
       stab_attack: 14
       slash_attack: 13
