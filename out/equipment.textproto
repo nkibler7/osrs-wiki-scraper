@@ -51246,7 +51246,7 @@ items {
   key: 11905
   value {
     id: 11905
-    name: "Trident of the seas (full)"
+    name: "Trident of the Seas (full)"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 2
@@ -51293,7 +51293,7 @@ items {
   key: 11907
   value {
     id: 11907
-    name: "Trident of the seas"
+    name: "Trident of the Seas"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 2
@@ -56072,7 +56072,7 @@ items {
   key: 12899
   value {
     id: 12899
-    name: "Trident of the swamp"
+    name: "Trident of the Swamp"
     stat_bonuses {
       magic_attack: 25
       stab_defence: 2
@@ -61343,7 +61343,7 @@ items {
   key: 19687
   value {
     id: 19687
-    name: "Helm of raedwald"
+    name: "Helm of Raedwald"
     stat_bonuses {
       ranged_attack: -2
       magic_attack: -6
@@ -69259,7 +69259,7 @@ items {
   key: 22288
   value {
     id: 22288
-    name: "Trident of the seas (e)"
+    name: "Trident of the Seas (e)"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 2
@@ -69353,7 +69353,7 @@ items {
   key: 22292
   value {
     id: 22292
-    name: "Trident of the swamp (e)"
+    name: "Trident of the Swamp (e)"
     stat_bonuses {
       magic_attack: 25
       stab_defence: 2
@@ -93711,7 +93711,7 @@ items {
   key: 27358
   value {
     id: 27358
-    name: "Tome of fire"
+    name: "Tome of Fire"
     stat_bonuses {
       magic_attack: 8
       magic_defence: 8
@@ -102112,7 +102112,7 @@ items {
   key: 28919
   value {
     id: 28919
-    name: "Tonalztics of ralos (uncharged)"
+    name: "Tonalztics of Ralos (uncharged)"
     stat_bonuses {
       ranged_attack: 115
       ranged_strength: 55
@@ -102128,7 +102128,7 @@ items {
   key: 28922
   value {
     id: 28922
-    name: "Tonalztics of ralos"
+    name: "Tonalztics of Ralos"
     stat_bonuses {
       ranged_attack: 115
       ranged_strength: 55
@@ -129213,7 +129213,7 @@ items {
   key: 33314
   value {
     id: 33314
-    name: "Trident of the swamp (o)"
+    name: "Trident of the Swamp (o)"
     stat_bonuses {
       magic_attack: 25
       stab_defence: 2
@@ -129307,7 +129307,7 @@ items {
   key: 33318
   value {
     id: 33318
-    name: "Trident of the swamp (e) (o)"
+    name: "Trident of the Swamp (e) (o)"
     stat_bonuses {
       magic_attack: 25
       stab_defence: 2
@@ -129401,7 +129401,7 @@ items {
   key: 33322
   value {
     id: 33322
-    name: "Trident of the seas (o)"
+    name: "Trident of the Seas (o)"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 2
@@ -129448,7 +129448,7 @@ items {
   key: 33323
   value {
     id: 33323
-    name: "Trident of the seas (full) (o)"
+    name: "Trident of the Seas (full) (o)"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 2
@@ -129495,7 +129495,7 @@ items {
   key: 33326
   value {
     id: 33326
-    name: "Trident of the seas (e) (o)"
+    name: "Trident of the Seas (e) (o)"
     stat_bonuses {
       magic_attack: 15
       stab_defence: 2
