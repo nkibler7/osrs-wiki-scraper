@@ -64194,7 +64194,7 @@ items {
   key: 20576
   value {
     id: 20576
-    name: "3rd age robe top"
+    name: "3rd Age robe top"
     stat_bonuses {
       magic_attack: 24
       magic_defence: 24
@@ -64206,7 +64206,7 @@ items {
   key: 20577
   value {
     id: 20577
-    name: "3rd age robe"
+    name: "3rd Age robe"
     stat_bonuses {
       magic_attack: 19
       magic_defence: 19
@@ -92812,7 +92812,7 @@ items {
   key: 27183
   value {
     id: 27183
-    name: "3rd age mage hat"
+    name: "3rd Age mage hat"
     stat_bonuses {
       magic_attack: 8
       magic_defence: 8
@@ -93263,7 +93263,7 @@ items {
   key: 27199
   value {
     id: 27199
-    name: "3rd age range top"
+    name: "3rd Age range top"
     stat_bonuses {
       ranged_attack: 30
       magic_attack: -15
@@ -93279,7 +93279,7 @@ items {
   key: 27200
   value {
     id: 27200
-    name: "3rd age range legs"
+    name: "3rd Age range legs"
     stat_bonuses {
       ranged_attack: 17
       magic_attack: -10
@@ -93295,7 +93295,7 @@ items {
   key: 27201
   value {
     id: 27201
-    name: "3rd age range coif"
+    name: "3rd Age range coif"
     stat_bonuses {
       ranged_attack: 9
       magic_attack: -2
