@@ -72629,7 +72629,7 @@ items {
   key: 22951
   value {
     id: 22951
-    name: "Boots of brimstone"
+    name: "Boots of Brimstone"
     stat_bonuses {
       stab_attack: 3
       ranged_attack: 5
@@ -74836,7 +74836,7 @@ items {
   key: 23591
   value {
     id: 23591
-    name: "Helm of neitiznot"
+    name: "Helm of Neitiznot"
     stat_bonuses {
       stab_defence: 31
       slash_defence: 29
