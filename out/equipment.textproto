@@ -74771,7 +74771,7 @@ items {
   key: 23522
   value {
     id: 23522
-    name: "Mask of ranul"
+    name: "Mask of Ranul"
     stat_bonuses {
       magic_attack: 2
       magic_defence: 2
