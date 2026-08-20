@@ -27923,7 +27923,7 @@ items {
   key: 6040
   value {
     id: 6040
-    name: "Amulet of nature"
+    name: "Amulet of Nature"
     stat_bonuses {
     }
   }
