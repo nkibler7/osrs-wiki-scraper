@@ -98848,7 +98848,7 @@ items {
   key: 28070
   value {
     id: 28070
-    name: "Helm of neitiznot (or)"
+    name: "Helm of Neitiznot (or)"
     stat_bonuses {
       stab_defence: 31
       slash_defence: 29
@@ -102249,7 +102249,7 @@ items {
   key: 28955
   value {
     id: 28955
-    name: "Blessed dizana\'s quiver"
+    name: "Blessed Dizana\'s quiver"
     stat_bonuses {
       ranged_attack: 18
       ranged_strength: 3
@@ -102260,7 +102260,7 @@ items {
   key: 28957
   value {
     id: 28957
-    name: "Blessed dizana\'s quiver (l)"
+    name: "Blessed Dizana\'s quiver (l)"
     stat_bonuses {
       ranged_attack: 18
       ranged_strength: 3
@@ -106121,7 +106121,7 @@ items {
   key: 30380
   value {
     id: 30380
-    name: "Gloves of the damned"
+    name: "Gloves of the Damned"
     stat_bonuses {
       stab_attack: 12
       slash_attack: 12
@@ -108868,7 +108868,7 @@ items {
   key: 31113
   value {
     id: 31113
-    name: "Eye of ayak"
+    name: "Eye of Ayak"
     stat_bonuses {
       magic_attack: 30
       stab_defence: 1
@@ -109724,7 +109724,7 @@ items {
   key: 32386
   value {
     id: 32386
-    name: "Medallion of the deep"
+    name: "Medallion of the Deep"
     stat_bonuses {
     }
   }
