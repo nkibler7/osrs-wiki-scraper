@@ -41021,10 +41021,10 @@ npcs {
   mbns: 54
   arange: 140
   rngbns: 66
-  dstab: 180
-  dslash: 300
-  dcrush: 220
-  dmagic: 10
+  dstab: 150
+  dslash: 250
+  dcrush: 180
+  dmagic: -10
 }
 npcs {
   ids: 4743
