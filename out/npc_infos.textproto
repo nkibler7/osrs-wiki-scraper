@@ -15815,6 +15815,7 @@ npcs {
 }
 npcs {
   ids: 7552
+  name: "Great Olm (Left claw)"
   version: "Left claw (Normal)"
   hitpoints: 600
   att: 250
@@ -15832,6 +15833,7 @@ npcs {
 }
 npcs {
   ids: 7555
+  name: "Great Olm (Left claw)"
   version: "Left claw (Challenge Mode)"
   hitpoints: 600
   att: 375
@@ -15849,6 +15851,7 @@ npcs {
 }
 npcs {
   ids: 7550
+  name: "Great Olm (Right claw)"
   version: "Right claw (Normal)"
   hitpoints: 600
   att: 250
@@ -15866,6 +15869,7 @@ npcs {
 }
 npcs {
   ids: 7553
+  name: "Great Olm (Right claw)"
   version: "Right claw (Challenge Mode)"
   hitpoints: 600
   att: 375
