@@ -10770,7 +10770,7 @@ npcs {
 npcs {
   ids: 290
   name: "Dwarf"
-  version: "Standard"
+  version: "Standard (Level 10)"
   hitpoints: 16
   att: 8
   str: 8
