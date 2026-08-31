@@ -93084,6 +93084,15 @@ items {
   value {
     id: 27190
     name: "Verac\'s brassard"
+    stat_bonuses {
+      ranged_attack: -2
+      magic_attack: -6
+      stab_defence: 81
+      slash_defence: 95
+      crush_defence: 85
+      ranged_defence: 81
+      prayer: 5
+    }
   }
 }
 items {
