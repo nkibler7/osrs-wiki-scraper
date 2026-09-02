@@ -131496,6 +131496,26 @@ items {
   }
 }
 items {
+  key: 34407
+  value {
+    id: 34407
+    name: "Amulet of air"
+    stat_bonuses {
+      magic_attack: 10
+    }
+  }
+}
+items {
+  key: 34413
+  value {
+    id: 34413
+    name: "Amulet of water"
+    stat_bonuses {
+      magic_attack: 10
+    }
+  }
+}
+items {
   key: 34419
   value {
     id: 34419
