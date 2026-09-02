@@ -94480,15 +94480,6 @@ items {
   }
 }
 items {
-  key: 27544
-  value {
-    id: 27544
-    name: "Ghommal\'s lucky penny"
-    stat_bonuses {
-    }
-  }
-}
-items {
   key: 27550
   value {
     id: 27550
@@ -131490,6 +131481,47 @@ items {
       crush_defence: 6
       ranged_defence: 7
       magic_defence: -1
+    }
+  }
+}
+items {
+  key: 34401
+  value {
+    id: 34401
+    name: "Necklace of fangs"
+    stat_bonuses {
+      ranged_attack: 12
+      ranged_strength: 1
+    }
+  }
+}
+items {
+  key: 34419
+  value {
+    id: 34419
+    name: "Amulet of earth"
+    stat_bonuses {
+      magic_attack: 10
+    }
+  }
+}
+items {
+  key: 34425
+  value {
+    id: 34425
+    name: "Amulet of fire"
+    stat_bonuses {
+      magic_attack: 10
+    }
+  }
+}
+items {
+  key: 34428
+  value {
+    id: 34428
+    name: "Elemental amulet"
+    stat_bonuses {
+      magic_attack: 10
     }
   }
 }
