@@ -12692,8 +12692,8 @@ npcs {
   version: "Level 64 (Burgh de Rott/Crombwick Manor)"
   hitpoints: 80
   att: 55
-  str: 30
-  def: 60
+  str: 60
+  def: 30
   mage: 1
   range: 1
   attributes: "vampyre1"
@@ -12705,8 +12705,8 @@ npcs {
   version: "Level 64 (Meiyerditch)"
   hitpoints: 80
   att: 55
-  str: 30
-  def: 60
+  str: 60
+  def: 30
   mage: 1
   attributes: "vampyre1"
 }
