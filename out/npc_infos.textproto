@@ -14558,6 +14558,66 @@ npcs {
   dmagic: 80
 }
 npcs {
+  ids: 16354
+  name: "Giant Mole (Zamorak)"
+  version: "Zamorak"
+  hitpoints: 1000
+  att: 300
+  str: 300
+  def: 200
+  mage: 200
+  range: 1
+  dstab: 60
+  dslash: 80
+  dcrush: 100
+  dmagic: 80
+}
+npcs {
+  ids: 16355
+  name: "Giant Mole (Saradomin)"
+  version: "Saradomin"
+  hitpoints: 1000
+  att: 300
+  str: 300
+  def: 200
+  mage: 200
+  range: 1
+  dstab: 60
+  dslash: 80
+  dcrush: 100
+  dmagic: 80
+}
+npcs {
+  ids: 16356
+  name: "Giant Mole (Guthix)"
+  version: "Guthix"
+  hitpoints: 1000
+  att: 300
+  str: 300
+  def: 200
+  mage: 200
+  range: 1
+  dstab: 60
+  dslash: 80
+  dcrush: 100
+  dmagic: 80
+}
+npcs {
+  ids: 16357
+  name: "Giant Mole (Bandos)"
+  version: "Bandos"
+  hitpoints: 1000
+  att: 300
+  str: 300
+  def: 200
+  mage: 200
+  range: 1
+  dstab: 60
+  dslash: 80
+  dcrush: 100
+  dmagic: 80
+}
+npcs {
   ids: 6499
   name: "Giant Mole"
   hitpoints: 200
