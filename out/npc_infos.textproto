@@ -27465,6 +27465,24 @@ npcs {
   strbns: -21
 }
 npcs {
+  ids: 16527
+  name: "Outlaw"
+  version: "Level 23"
+  hitpoints: 20
+  att: 18
+  str: 25
+  def: 20
+}
+npcs {
+  ids: 16528
+  name: "Outlaw"
+  version: "Level 22"
+  hitpoints: 20
+  att: 14
+  str: 25
+  def: 20
+}
+npcs {
   ids: 5263
   name: "Padulah"
   hitpoints: 130
