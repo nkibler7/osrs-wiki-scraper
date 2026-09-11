@@ -27477,7 +27477,7 @@ npcs {
   ids: 16528
   name: "Outlaw"
   version: "Level 22"
-  hitpoints: 20
+  hitpoints: 13
   att: 14
   str: 25
   def: 20
