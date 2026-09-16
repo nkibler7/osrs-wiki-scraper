@@ -56232,7 +56232,7 @@ items {
   key: 12904
   value {
     id: 12904
-    name: "Toxic staff of the dead"
+    name: "Toxic Staff of the Dead"
     stat_bonuses {
       stab_attack: 55
       slash_attack: 70
@@ -102271,7 +102271,7 @@ items {
   key: 28988
   value {
     id: 28988
-    name: "Blue moon spear"
+    name: "Blue Moon spear"
     stat_bonuses {
       stab_attack: 70
       slash_attack: 62
@@ -102446,7 +102446,7 @@ items {
   key: 29004
   value {
     id: 29004
-    name: "Eclipse moon chestplate"
+    name: "Eclipse Moon chestplate"
     stat_bonuses {
       ranged_attack: 31
       magic_attack: -15
@@ -102463,7 +102463,7 @@ items {
   key: 29007
   value {
     id: 29007
-    name: "Eclipse moon tassets"
+    name: "Eclipse Moon tassets"
     stat_bonuses {
       ranged_attack: 17
       magic_attack: -15
@@ -102480,7 +102480,7 @@ items {
   key: 29010
   value {
     id: 29010
-    name: "Eclipse moon helm"
+    name: "Eclipse Moon helm"
     stat_bonuses {
       ranged_attack: 8
       magic_attack: -6
@@ -102497,7 +102497,7 @@ items {
   key: 29013
   value {
     id: 29013
-    name: "Blue moon chestplate"
+    name: "Blue Moon chestplate"
     stat_bonuses {
       magic_attack: 30
       crush_defence: 51
@@ -102511,7 +102511,7 @@ items {
   key: 29016
   value {
     id: 29016
-    name: "Blue moon tassets"
+    name: "Blue Moon tassets"
     stat_bonuses {
       magic_attack: 22
       crush_defence: 23
@@ -102525,7 +102525,7 @@ items {
   key: 29019
   value {
     id: 29019
-    name: "Blue moon helm"
+    name: "Blue Moon helm"
     stat_bonuses {
       magic_attack: 6
       crush_defence: 10
@@ -102590,7 +102590,7 @@ items {
   key: 29031
   value {
     id: 29031
-    name: "Eclipse moon chestplate"
+    name: "Eclipse Moon chestplate"
     stat_bonuses {
       ranged_attack: 31
       magic_attack: -15
@@ -102607,7 +102607,7 @@ items {
   key: 29033
   value {
     id: 29033
-    name: "Eclipse moon tassets"
+    name: "Eclipse Moon tassets"
     stat_bonuses {
       ranged_attack: 17
       magic_attack: -15
@@ -102624,7 +102624,7 @@ items {
   key: 29035
   value {
     id: 29035
-    name: "Eclipse moon helm"
+    name: "Eclipse Moon helm"
     stat_bonuses {
       ranged_attack: 8
       magic_attack: -6
@@ -102641,7 +102641,7 @@ items {
   key: 29037
   value {
     id: 29037
-    name: "Blue moon chestplate"
+    name: "Blue Moon chestplate"
     stat_bonuses {
       magic_attack: 30
       crush_defence: 51
@@ -102655,7 +102655,7 @@ items {
   key: 29039
   value {
     id: 29039
-    name: "Blue moon tassets"
+    name: "Blue Moon tassets"
     stat_bonuses {
       magic_attack: 22
       crush_defence: 23
@@ -102669,7 +102669,7 @@ items {
   key: 29041
   value {
     id: 29041
-    name: "Blue moon helm"
+    name: "Blue Moon helm"
     stat_bonuses {
       magic_attack: 6
       crush_defence: 10
@@ -102734,7 +102734,7 @@ items {
   key: 29049
   value {
     id: 29049
-    name: "Eclipse moon chestplate (broken)"
+    name: "Eclipse Moon chestplate (broken)"
     stat_bonuses {
     }
   }
@@ -102743,7 +102743,7 @@ items {
   key: 29052
   value {
     id: 29052
-    name: "Eclipse moon tassets (broken)"
+    name: "Eclipse Moon tassets (broken)"
     stat_bonuses {
     }
   }
@@ -102752,7 +102752,7 @@ items {
   key: 29055
   value {
     id: 29055
-    name: "Eclipse moon helm (broken)"
+    name: "Eclipse Moon helm (broken)"
     stat_bonuses {
     }
   }
@@ -102761,7 +102761,7 @@ items {
   key: 29058
   value {
     id: 29058
-    name: "Blue moon chestplate (broken)"
+    name: "Blue Moon chestplate (broken)"
     stat_bonuses {
     }
   }
@@ -102770,7 +102770,7 @@ items {
   key: 29061
   value {
     id: 29061
-    name: "Blue moon tassets (broken)"
+    name: "Blue Moon tassets (broken)"
     stat_bonuses {
     }
   }
@@ -102779,7 +102779,7 @@ items {
   key: 29064
   value {
     id: 29064
-    name: "Blue moon helm (broken)"
+    name: "Blue Moon helm (broken)"
     stat_bonuses {
     }
   }
