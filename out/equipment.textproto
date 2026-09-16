@@ -3540,7 +3540,7 @@ items {
   key: 1052
   value {
     id: 1052
-    name: "Cape of legends"
+    name: "Cape of Legends"
     stat_bonuses {
       stab_defence: 7
       slash_defence: 7
@@ -12747,7 +12747,7 @@ items {
   key: 2581
   value {
     id: 2581
-    name: "Robin hood hat"
+    name: "Robin Hood hat"
     stat_bonuses {
       ranged_attack: 8
       magic_attack: -10
@@ -39286,7 +39286,7 @@ items {
   key: 9083
   value {
     id: 9083
-    name: "Seal of passage"
+    name: "Seal of Passage"
     stat_bonuses {
     }
   }
@@ -86122,7 +86122,7 @@ items {
   key: 25736
   value {
     id: 25736
-    name: "Holy scythe of vitur"
+    name: "Holy Scythe of Vitur"
     stat_bonuses {
       stab_attack: 70
       slash_attack: 125
@@ -86179,7 +86179,7 @@ items {
   key: 25738
   value {
     id: 25738
-    name: "Holy scythe of vitur (uncharged)"
+    name: "Holy Scythe of Vitur (uncharged)"
     stat_bonuses {
       stab_attack: 50
       slash_attack: 75
@@ -86235,7 +86235,7 @@ items {
   key: 25739
   value {
     id: 25739
-    name: "Sanguine scythe of vitur"
+    name: "Sanguine Scythe of Vitur"
     stat_bonuses {
       stab_attack: 70
       slash_attack: 125
@@ -86292,7 +86292,7 @@ items {
   key: 25741
   value {
     id: 25741
-    name: "Sanguine scythe of vitur (uncharged)"
+    name: "Sanguine Scythe of Vitur (uncharged)"
     stat_bonuses {
       stab_attack: 50
       slash_attack: 75
@@ -94150,7 +94150,7 @@ items {
   key: 27428
   value {
     id: 27428
-    name: "Hood of ruin"
+    name: "Hood of Ruin"
     stat_bonuses {
     }
   }
@@ -94159,7 +94159,7 @@ items {
   key: 27430
   value {
     id: 27430
-    name: "Robe top of ruin"
+    name: "Robe top of Ruin"
     stat_bonuses {
     }
   }
@@ -94168,7 +94168,7 @@ items {
   key: 27432
   value {
     id: 27432
-    name: "Robe bottom of ruin"
+    name: "Robe bottom of Ruin"
     stat_bonuses {
     }
   }
@@ -94177,7 +94177,7 @@ items {
   key: 27434
   value {
     id: 27434
-    name: "Gloves of ruin"
+    name: "Gloves of Ruin"
     stat_bonuses {
     }
   }
@@ -94186,7 +94186,7 @@ items {
   key: 27436
   value {
     id: 27436
-    name: "Socks of ruin"
+    name: "Socks of Ruin"
     stat_bonuses {
     }
   }
@@ -94195,7 +94195,7 @@ items {
   key: 27438
   value {
     id: 27438
-    name: "Cloak of ruin"
+    name: "Cloak of Ruin"
     stat_bonuses {
     }
   }
@@ -102539,7 +102539,7 @@ items {
   key: 29022
   value {
     id: 29022
-    name: "Blood moon chestplate"
+    name: "Blood Moon chestplate"
     stat_bonuses {
       ranged_attack: -10
       magic_attack: -15
@@ -102556,7 +102556,7 @@ items {
   key: 29025
   value {
     id: 29025
-    name: "Blood moon tassets"
+    name: "Blood Moon tassets"
     stat_bonuses {
       ranged_attack: -7
       magic_attack: -21
@@ -102573,7 +102573,7 @@ items {
   key: 29028
   value {
     id: 29028
-    name: "Blood moon helm"
+    name: "Blood Moon helm"
     stat_bonuses {
       ranged_attack: -2
       magic_attack: -6
@@ -102683,7 +102683,7 @@ items {
   key: 29043
   value {
     id: 29043
-    name: "Blood moon chestplate"
+    name: "Blood Moon chestplate"
     stat_bonuses {
       ranged_attack: -10
       magic_attack: -15
@@ -102700,7 +102700,7 @@ items {
   key: 29045
   value {
     id: 29045
-    name: "Blood moon tassets"
+    name: "Blood Moon tassets"
     stat_bonuses {
       ranged_attack: -7
       magic_attack: -21
@@ -102717,7 +102717,7 @@ items {
   key: 29047
   value {
     id: 29047
-    name: "Blood moon helm"
+    name: "Blood Moon helm"
     stat_bonuses {
       ranged_attack: -2
       magic_attack: -6
@@ -102788,7 +102788,7 @@ items {
   key: 29067
   value {
     id: 29067
-    name: "Blood moon chestplate (broken)"
+    name: "Blood Moon chestplate (broken)"
     stat_bonuses {
     }
   }
@@ -102797,7 +102797,7 @@ items {
   key: 29070
   value {
     id: 29070
-    name: "Blood moon tassets (broken)"
+    name: "Blood Moon tassets (broken)"
     stat_bonuses {
     }
   }
@@ -102806,7 +102806,7 @@ items {
   key: 29073
   value {
     id: 29073
-    name: "Blood moon helm (broken)"
+    name: "Blood Moon helm (broken)"
     stat_bonuses {
     }
   }
@@ -131488,7 +131488,7 @@ items {
   key: 34401
   value {
     id: 34401
-    name: "Necklace of fangs"
+    name: "Necklace of Fangs"
     stat_bonuses {
       ranged_attack: 12
       ranged_strength: 1
