@@ -3024,9 +3024,42 @@ npcs {
 }
 npcs {
   ids: 11063
+  name: "Bandit"
+  version: "1"
+  hitpoints: 27
+  att: 17
+  str: 17
+  def: 17
+  mage: 1
+  range: 1
+  attbns: 11
+  strbns: 12
+  dstab: 4
+  dslash: 8
+  dcrush: 5
+  dmagic: 1
+}
+npcs {
   ids: 11064
+  name: "Bandit"
+  version: "2"
+  hitpoints: 27
+  att: 17
+  str: 17
+  def: 17
+  mage: 1
+  range: 1
+  attbns: 11
+  strbns: 12
+  dstab: 4
+  dslash: 8
+  dcrush: 5
+  dmagic: 1
+}
+npcs {
   ids: 11065
   name: "Bandit"
+  version: "3"
   hitpoints: 27
   att: 17
   str: 17
