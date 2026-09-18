@@ -100701,7 +100701,7 @@ items {
   key: 28543
   value {
     id: 28543
-    name: "Corrupted scythe of vitur"
+    name: "Corrupted Scythe of Vitur"
     stat_bonuses {
       stab_attack: 56
       slash_attack: 88
@@ -100758,7 +100758,7 @@ items {
   key: 28545
   value {
     id: 28545
-    name: "Corrupted scythe of vitur (uncharged)"
+    name: "Corrupted Scythe of Vitur (uncharged)"
     stat_bonuses {
       stab_attack: 40
       slash_attack: 60
