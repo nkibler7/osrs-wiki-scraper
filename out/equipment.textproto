@@ -104130,7 +104130,7 @@ items {
   key: 29840
   value {
     id: 29840
-    name: "Eclipse moon chestplate"
+    name: "Eclipse Moon chestplate"
     stat_bonuses {
       ranged_attack: 31
       magic_attack: -15
@@ -104147,7 +104147,7 @@ items {
   key: 29841
   value {
     id: 29841
-    name: "Eclipse moon tassets"
+    name: "Eclipse Moon tassets"
     stat_bonuses {
       ranged_attack: 17
       magic_attack: -15
@@ -104164,7 +104164,7 @@ items {
   key: 29842
   value {
     id: 29842
-    name: "Eclipse moon helm"
+    name: "Eclipse Moon helm"
     stat_bonuses {
       ranged_attack: 8
       magic_attack: -6
@@ -104181,7 +104181,7 @@ items {
   key: 29843
   value {
     id: 29843
-    name: "Blue moon chestplate"
+    name: "Blue Moon chestplate"
     stat_bonuses {
       magic_attack: 30
       crush_defence: 51
@@ -104195,7 +104195,7 @@ items {
   key: 29844
   value {
     id: 29844
-    name: "Blue moon tassets"
+    name: "Blue Moon tassets"
     stat_bonuses {
       magic_attack: 22
       crush_defence: 23
@@ -104209,7 +104209,7 @@ items {
   key: 29845
   value {
     id: 29845
-    name: "Blue moon helm"
+    name: "Blue Moon helm"
     stat_bonuses {
       magic_attack: 6
       crush_defence: 10
@@ -104223,7 +104223,7 @@ items {
   key: 29846
   value {
     id: 29846
-    name: "Blood moon chestplate"
+    name: "Blood Moon chestplate"
     stat_bonuses {
       ranged_attack: -10
       magic_attack: -15
@@ -104240,7 +104240,7 @@ items {
   key: 29847
   value {
     id: 29847
-    name: "Blood moon tassets"
+    name: "Blood Moon tassets"
     stat_bonuses {
       ranged_attack: -7
       magic_attack: -21
@@ -104257,7 +104257,7 @@ items {
   key: 29848
   value {
     id: 29848
-    name: "Blood moon helm"
+    name: "Blood Moon helm"
     stat_bonuses {
       ranged_attack: -2
       magic_attack: -6
@@ -104274,7 +104274,7 @@ items {
   key: 29849
   value {
     id: 29849
-    name: "Blue moon spear"
+    name: "Blue Moon spear"
     stat_bonuses {
       stab_attack: 70
       slash_attack: 62
