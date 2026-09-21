@@ -15884,6 +15884,7 @@ npcs {
 }
 npcs {
   ids: 7551
+  ids: 7554
   version: "Head (Normal)"
   hitpoints: 800
   att: 250
@@ -15900,6 +15901,7 @@ npcs {
   attributes: "dragon,xerician"
 }
 npcs {
+  ids: 7551
   ids: 7554
   version: "Head (Challenge Mode)"
   hitpoints: 800
@@ -15918,6 +15920,7 @@ npcs {
 }
 npcs {
   ids: 7552
+  ids: 7555
   name: "Great Olm (Left claw)"
   version: "Left claw (Normal)"
   hitpoints: 600
@@ -15935,6 +15938,7 @@ npcs {
   attributes: "dragon,xerician"
 }
 npcs {
+  ids: 7552
   ids: 7555
   name: "Great Olm (Left claw)"
   version: "Left claw (Challenge Mode)"
@@ -15954,6 +15958,7 @@ npcs {
 }
 npcs {
   ids: 7550
+  ids: 7553
   name: "Great Olm (Right claw)"
   version: "Right claw (Normal)"
   hitpoints: 600
@@ -15971,6 +15976,7 @@ npcs {
   attributes: "dragon,xerician"
 }
 npcs {
+  ids: 7550
   ids: 7553
   name: "Great Olm (Right claw)"
   version: "Right claw (Challenge Mode)"
