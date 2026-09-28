@@ -73032,6 +73032,15 @@ items {
   }
 }
 items {
+  key: 23185
+  value {
+    id: 23185
+    name: "Ring of 3rd Age"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 23188
   value {
     id: 23188
@@ -102225,6 +102234,10 @@ items {
   value {
     id: 28949
     name: "Dizana\'s quiver (l) (uncharged)"
+    stat_bonuses {
+      ranged_attack: 18
+      ranged_strength: 3
+    }
   }
 }
 items {
@@ -102243,6 +102256,10 @@ items {
   value {
     id: 28953
     name: "Dizana\'s quiver (l)"
+    stat_bonuses {
+      ranged_attack: 18
+      ranged_strength: 3
+    }
   }
 }
 items {
@@ -104885,6 +104902,24 @@ items {
   }
 }
 items {
+  key: 30045
+  value {
+    id: 30045
+    name: "Graceful hood"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30047
+  value {
+    id: 30047
+    name: "Graceful hood"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 30048
   value {
     id: 30048
@@ -105225,6 +105260,573 @@ items {
   value {
     id: 30232
     name: "Scarecrow shirt"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30237
+  value {
+    id: 30237
+    name: "Beige pumpkin (disgusted)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30239
+  value {
+    id: 30239
+    name: "Beige pumpkin (silly)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30241
+  value {
+    id: 30241
+    name: "Beige pumpkin (evil)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30242
+  value {
+    id: 30242
+    name: "Beige pumpkin (angry)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30243
+  value {
+    id: 30243
+    name: "Beige pumpkin (depressed)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30244
+  value {
+    id: 30244
+    name: "Beige pumpkin (shocked)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30245
+  value {
+    id: 30245
+    name: "Beige pumpkin (sad)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30246
+  value {
+    id: 30246
+    name: "Beige pumpkin (happy)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30247
+  value {
+    id: 30247
+    name: "Beige pumpkin (laughing)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30248
+  value {
+    id: 30248
+    name: "White pumpkin (disgusted)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30249
+  value {
+    id: 30249
+    name: "White pumpkin (silly)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30250
+  value {
+    id: 30250
+    name: "White pumpkin (evil)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30251
+  value {
+    id: 30251
+    name: "White pumpkin (angry)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30252
+  value {
+    id: 30252
+    name: "White pumpkin (depressed)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30253
+  value {
+    id: 30253
+    name: "White pumpkin (shocked)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30254
+  value {
+    id: 30254
+    name: "White pumpkin (sad)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30255
+  value {
+    id: 30255
+    name: "White pumpkin (happy)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30256
+  value {
+    id: 30256
+    name: "White pumpkin (laughing)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30257
+  value {
+    id: 30257
+    name: "Yellow pumpkin (disgusted)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30258
+  value {
+    id: 30258
+    name: "Yellow pumpkin (silly)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30259
+  value {
+    id: 30259
+    name: "Yellow pumpkin (evil)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30260
+  value {
+    id: 30260
+    name: "Yellow pumpkin (angry)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30261
+  value {
+    id: 30261
+    name: "Yellow pumpkin (depressed)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30262
+  value {
+    id: 30262
+    name: "Yellow pumpkin (shocked)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30263
+  value {
+    id: 30263
+    name: "Yellow pumpkin (sad)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30264
+  value {
+    id: 30264
+    name: "Yellow pumpkin (happy)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30265
+  value {
+    id: 30265
+    name: "Yellow pumpkin (laughing)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30266
+  value {
+    id: 30266
+    name: "Orange pumpkin (disgusted)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30267
+  value {
+    id: 30267
+    name: "Orange pumpkin (silly)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30268
+  value {
+    id: 30268
+    name: "Orange pumpkin (evil)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30269
+  value {
+    id: 30269
+    name: "Orange pumpkin (angry)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30270
+  value {
+    id: 30270
+    name: "Orange pumpkin (depressed)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30271
+  value {
+    id: 30271
+    name: "Orange pumpkin (shocked)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30272
+  value {
+    id: 30272
+    name: "Orange pumpkin (sad)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30273
+  value {
+    id: 30273
+    name: "Orange pumpkin (happy)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30274
+  value {
+    id: 30274
+    name: "Orange pumpkin (laughing)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30275
+  value {
+    id: 30275
+    name: "Red pumpkin (disgusted)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30276
+  value {
+    id: 30276
+    name: "Red pumpkin (silly)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30277
+  value {
+    id: 30277
+    name: "Red pumpkin (evil)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30278
+  value {
+    id: 30278
+    name: "Red pumpkin (angry)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30279
+  value {
+    id: 30279
+    name: "Red pumpkin (depressed)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30280
+  value {
+    id: 30280
+    name: "Red pumpkin (shocked)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30281
+  value {
+    id: 30281
+    name: "Red pumpkin (sad)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30282
+  value {
+    id: 30282
+    name: "Red pumpkin (happy)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30283
+  value {
+    id: 30283
+    name: "Red pumpkin (laughing)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30284
+  value {
+    id: 30284
+    name: "Dark green pumpkin (disgusted)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30285
+  value {
+    id: 30285
+    name: "Dark green pumpkin (silly)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30286
+  value {
+    id: 30286
+    name: "Dark green pumpkin (evil)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30287
+  value {
+    id: 30287
+    name: "Dark green pumpkin (angry)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30288
+  value {
+    id: 30288
+    name: "Dark green pumpkin (depressed)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30289
+  value {
+    id: 30289
+    name: "Dark green pumpkin (shocked)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30290
+  value {
+    id: 30290
+    name: "Dark green pumpkin (sad)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30291
+  value {
+    id: 30291
+    name: "Dark green pumpkin (happy)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30292
+  value {
+    id: 30292
+    name: "Dark green pumpkin (laughing)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30293
+  value {
+    id: 30293
+    name: "Powder grey pumpkin (disgusted)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30294
+  value {
+    id: 30294
+    name: "Powder grey pumpkin (silly)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30295
+  value {
+    id: 30295
+    name: "Powder grey pumpkin (evil)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30296
+  value {
+    id: 30296
+    name: "Powder grey pumpkin (angry)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30297
+  value {
+    id: 30297
+    name: "Powder grey pumpkin (depressed)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30298
+  value {
+    id: 30298
+    name: "Powder grey pumpkin (shocked)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30299
+  value {
+    id: 30299
+    name: "Powder grey pumpkin (sad)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30300
+  value {
+    id: 30300
+    name: "Powder grey pumpkin (happy)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30301
+  value {
+    id: 30301
+    name: "Powder grey pumpkin (laughing)"
     stat_bonuses {
     }
   }
@@ -106576,6 +107178,23 @@ items {
   }
 }
 items {
+  key: 30437
+  value {
+    id: 30437
+    name: "Echo virtus mask"
+    stat_bonuses {
+      ranged_attack: -3
+      magic_attack: 8
+      stab_defence: 15
+      slash_defence: 14
+      crush_defence: 16
+      magic_defence: 6
+      magic_damage: 0.2
+      prayer: 1
+    }
+  }
+}
+items {
   key: 30439
   value {
     id: 30439
@@ -106938,6 +107557,51 @@ items {
           attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
         }
       }
+    }
+  }
+}
+items {
+  key: 30479
+  value {
+    id: 30479
+    name: "Present box hat"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30481
+  value {
+    id: 30481
+    name: "Present box hat"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30483
+  value {
+    id: 30483
+    name: "Present box hat"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30485
+  value {
+    id: 30485
+    name: "Present box hat"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 30487
+  value {
+    id: 30487
+    name: "Dog disguise"
+    stat_bonuses {
     }
   }
 }
@@ -108141,6 +108805,15 @@ items {
   }
 }
 items {
+  key: 30720
+  value {
+    id: 30720
+    name: "Carrot costume hat"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 30722
   value {
     id: 30722
@@ -108275,6 +108948,23 @@ items {
           attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
         }
       }
+    }
+  }
+}
+items {
+  key: 30777
+  value {
+    id: 30777
+    name: "Radiant oathplate helm"
+    stat_bonuses {
+      slash_attack: 10
+      ranged_attack: -7
+      magic_attack: -2
+      stab_defence: 50
+      slash_defence: 72
+      crush_defence: 45
+      ranged_defence: 50
+      melee_strength: 6
     }
   }
 }

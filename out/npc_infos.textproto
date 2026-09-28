@@ -39685,6 +39685,66 @@ npcs {
   attributes: "vampyre3"
 }
 npcs {
+  ids: 16213
+  name: "Venator"
+  version: "1"
+  hitpoints: 160
+  att: 200
+  str: 200
+  def: 100
+  mage: 100
+  range: 75
+  attributes: "vampyre3"
+}
+npcs {
+  ids: 16214
+  name: "Venator"
+  version: "2"
+  hitpoints: 160
+  att: 200
+  str: 200
+  def: 100
+  mage: 100
+  range: 75
+  attributes: "vampyre3"
+}
+npcs {
+  ids: 16215
+  name: "Venator"
+  version: "3"
+  hitpoints: 160
+  att: 200
+  str: 200
+  def: 100
+  mage: 100
+  range: 75
+  attributes: "vampyre3"
+}
+npcs {
+  ids: 16216
+  name: "Venator"
+  version: "4"
+  hitpoints: 160
+  att: 200
+  str: 200
+  def: 100
+  mage: 100
+  range: 75
+  attributes: "vampyre3"
+}
+npcs {
+  ids: 16217
+  name: "Venator"
+  version: "5"
+  hitpoints: 160
+  att: 200
+  str: 200
+  def: 100
+  mage: 100
+  range: 75
+  attributes: "vampyre3"
+}
+npcs {
   ids: 6610
   name: "Venenatis"
   hitpoints: 850
