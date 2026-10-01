@@ -26594,10 +26594,8 @@ npcs {
 npcs {
   ids: 8344
   ids: 8350
-  ids: 8383
   ids: 10793
   ids: 10799
-  ids: 10860
   name: "Nylocas Hagios"
   version: "Small"
   hitpoints: 11
@@ -26627,10 +26625,17 @@ npcs {
   mbns: 500
 }
 npcs {
+  ids: 8383
+  ids: 10860
+  name: "Nylocas Hagios"
+  version: "Verzik"
+  hitpoints: 25
+}
+npcs {
   ids: 10776
   ids: 10782
   name: "Nylocas Hagios"
-  version: "Small (Entry mode)"
+  version: "Small (Entry Mode)"
   hitpoints: 2
   att: 80
   str: 40
@@ -26643,8 +26648,9 @@ npcs {
 }
 npcs {
   ids: 10779
+  ids: 10785
   name: "Nylocas Hagios"
-  version: "Big (Entry mode)"
+  version: "Big (Entry Mode)"
   hitpoints: 3
   att: 100
   str: 90
@@ -26656,12 +26662,16 @@ npcs {
   rngbns: -6
 }
 npcs {
+  ids: 10843
+  name: "Nylocas Hagios"
+  version: "Verzik"
+  hitpoints: 3
+}
+npcs {
   ids: 8342
   ids: 8348
-  ids: 8381
   ids: 10791
   ids: 10797
-  ids: 10858
   name: "Nylocas Ischyros"
   version: "Small"
   hitpoints: 11
@@ -26691,10 +26701,17 @@ npcs {
   mbns: 500
 }
 npcs {
+  ids: 8381
+  ids: 10858
+  name: "Nylocas Ischyros"
+  version: "Verzik"
+  hitpoints: 25
+}
+npcs {
   ids: 10774
   ids: 10780
   name: "Nylocas Ischyros"
-  version: "Small (Entry mode)"
+  version: "Small (Entry Mode)"
   hitpoints: 2
   att: 80
   str: 40
@@ -26709,7 +26726,7 @@ npcs {
   ids: 10777
   ids: 10783
   name: "Nylocas Ischyros"
-  version: "Big (Entry mode)"
+  version: "Big (Entry Mode)"
   hitpoints: 3
   att: 100
   str: 90
@@ -26719,6 +26736,12 @@ npcs {
   amagic: 400
   mbns: 360
   rngbns: -6
+}
+npcs {
+  ids: 10841
+  name: "Nylocas Ischyros"
+  version: "Verzik (Entry Mode)"
+  hitpoints: 3
 }
 npcs {
   ids: 10820
@@ -26824,10 +26847,8 @@ npcs {
 npcs {
   ids: 8343
   ids: 8349
-  ids: 8382
   ids: 10792
   ids: 10798
-  ids: 10859
   name: "Nylocas Toxobolos"
   version: "Small"
   hitpoints: 11
@@ -26857,10 +26878,17 @@ npcs {
   mbns: 500
 }
 npcs {
+  ids: 8382
+  ids: 10859
+  name: "Nylocas Toxobolos"
+  version: "Verzik"
+  hitpoints: 25
+}
+npcs {
   ids: 10775
   ids: 10781
   name: "Nylocas Toxobolos"
-  version: "Small (Entry mode)"
+  version: "Small (Entry Mode)"
   hitpoints: 2
   att: 80
   str: 40
@@ -26875,7 +26903,7 @@ npcs {
   ids: 10778
   ids: 10784
   name: "Nylocas Toxobolos"
-  version: "Big (Entry mode)"
+  version: "Big (Entry Mode)"
   hitpoints: 3
   att: 100
   str: 90
@@ -26885,6 +26913,12 @@ npcs {
   amagic: 400
   mbns: 360
   rngbns: -6
+}
+npcs {
+  ids: 10842
+  name: "Nylocas Toxobolos"
+  version: "Verzik (Entry Mode)"
+  hitpoints: 3
 }
 npcs {
   ids: 10786
