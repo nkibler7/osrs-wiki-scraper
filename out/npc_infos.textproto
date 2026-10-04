@@ -40293,6 +40293,7 @@ npcs {
   range: 268
   attbns: 14
   amagic: 148
+  mbns: 42
   arange: 96
   dstab: 66
   dslash: 126
