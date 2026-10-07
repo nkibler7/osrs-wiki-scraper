@@ -132193,3 +132193,87 @@ items {
     }
   }
 }
+items {
+  key: 34607
+  value {
+    id: 34607
+    name: "Imbued ancient cape (Deadman)"
+    stat_bonuses {
+      magic_attack: 15
+      stab_defence: 3
+      slash_defence: 3
+      crush_defence: 3
+      magic_defence: 15
+      magic_damage: 0.2
+    }
+  }
+}
+items {
+  key: 34625
+  value {
+    id: 34625
+    name: "Imbued ancient max cape"
+    stat_bonuses {
+      magic_attack: 15
+      stab_defence: 3
+      slash_defence: 3
+      crush_defence: 3
+      magic_defence: 15
+      magic_damage: 0.2
+    }
+  }
+}
+items {
+  key: 34627
+  value {
+    id: 34627
+    name: "Imbued ancient max hood"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 34633
+  value {
+    id: 34633
+    name: "Imbued ancient cape"
+    stat_bonuses {
+      magic_attack: 15
+      stab_defence: 3
+      slash_defence: 3
+      crush_defence: 3
+      magic_defence: 15
+      magic_damage: 0.2
+    }
+  }
+}
+items {
+  key: 34635
+  value {
+    id: 34635
+    name: "Imbued ancient cape (broken)"
+    stat_bonuses {
+      magic_attack: 15
+      stab_defence: 3
+      slash_defence: 3
+      crush_defence: 3
+      magic_defence: 15
+      magic_damage: 0.2
+    }
+  }
+}
+items {
+  key: 34637
+  value {
+    id: 34637
+    name: "Imbued ancient cape (l)"
+    stat_bonuses {
+      magic_attack: 15
+      stab_defence: 3
+      slash_defence: 3
+      crush_defence: 3
+      magic_defence: 15
+      magic_damage: 0.2
+    }
+  }
+}
