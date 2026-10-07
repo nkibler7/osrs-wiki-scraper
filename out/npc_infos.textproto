@@ -4656,6 +4656,22 @@ npcs {
   dmagic: 12
 }
 npcs {
+  ids: 16598
+  name: "Blink"
+  version: "1"
+  hitpoints: 99
+  att: 99
+  def: 99
+}
+npcs {
+  ids: 16625
+  name: "Blink"
+  version: "2"
+  hitpoints: 99
+  att: 99
+  def: 1
+}
+npcs {
   ids: 2645
   name: "Blood Blamish Snail"
   version: "Round"
@@ -34800,6 +34816,116 @@ npcs {
   dslash: 30
   dcrush: 10
   dmagic: 30
+}
+npcs {
+  ids: 16607
+  name: "Sparring partner"
+  version: "1"
+  hitpoints: 1000
+  att: 99
+  def: 70
+  mage: 99
+  range: 99
+}
+npcs {
+  ids: 16608
+  name: "Sparring partner"
+  version: "2"
+  hitpoints: 1000
+  att: 99
+  def: 99
+  mage: 99
+  range: 99
+}
+npcs {
+  ids: 16609
+  name: "Sparring partner"
+  version: "3"
+  hitpoints: 1000
+  att: 99
+  def: 99
+  mage: 99
+  range: 99
+}
+npcs {
+  ids: 16610
+  name: "Sparring partner"
+  version: "4"
+  hitpoints: 1000
+  att: 99
+  def: 99
+  mage: 99
+  range: 99
+}
+npcs {
+  ids: 16611
+  name: "Sparring partner"
+  version: "5"
+  hitpoints: 99
+  att: 99
+  def: 99
+  mage: 99
+  range: 99
+}
+npcs {
+  ids: 16612
+  name: "Sparring partner"
+  version: "6"
+  hitpoints: 99
+  att: 99
+  def: 99
+  mage: 99
+  range: 99
+}
+npcs {
+  ids: 16613
+  name: "Sparring partner"
+  version: "7"
+  hitpoints: 99
+  att: 99
+  def: 99
+  mage: 99
+  range: 99
+}
+npcs {
+  ids: 16614
+  name: "Sparring partner"
+  version: "8"
+  hitpoints: 99
+  att: 99
+  def: 99
+  mage: 99
+  range: 99
+}
+npcs {
+  ids: 16615
+  name: "Sparring partner"
+  version: "9"
+  hitpoints: 99
+  att: 99
+  def: 99
+  mage: 99
+  range: 99
+}
+npcs {
+  ids: 16616
+  name: "Sparring partner"
+  version: "10"
+  hitpoints: 99
+  att: 99
+  def: 99
+  mage: 99
+  range: 99
+}
+npcs {
+  ids: 16617
+  name: "Sparring partner"
+  version: "11"
+  hitpoints: 99
+  att: 99
+  def: 99
+  mage: 99
+  range: 99
 }
 npcs {
   ids: 5916
