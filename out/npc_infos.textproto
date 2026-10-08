@@ -28422,6 +28422,44 @@ npcs {
   dmagic: 600
 }
 npcs {
+  ids: 16588
+  ids: 16589
+  ids: 16590
+  ids: 16591
+  ids: 16592
+  ids: 16593
+  ids: 16594
+  ids: 16595
+  ids: 16596
+  ids: 19597
+  name: "Pete Kayer"
+  version: "Penultimate Challenge"
+  hitpoints: 115
+  att: 118
+  str: 120
+  def: 120
+  mage: 99
+  range: 112
+}
+npcs {
+  ids: 16579
+  ids: 16580
+  ids: 16581
+  ids: 16582
+  ids: 16583
+  ids: 16584
+  ids: 16585
+  ids: 16586
+  name: "Pete Kayer"
+  version: "Final Challenge"
+  hitpoints: 115
+  att: 118
+  str: 120
+  def: 120
+  mage: 99
+  range: 112
+}
+npcs {
   ids: 10957
   name: "Phantom Hand"
   version: "Left Hand"
