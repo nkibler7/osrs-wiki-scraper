@@ -26680,7 +26680,7 @@ npcs {
 npcs {
   ids: 10843
   name: "Nylocas Hagios"
-  version: "Verzik"
+  version: "Verzik (Entry Mode)"
   hitpoints: 3
 }
 npcs {
