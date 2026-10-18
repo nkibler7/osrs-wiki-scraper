@@ -14875,6 +14875,21 @@ npcs {
   dmagic: 10
 }
 npcs {
+  ids: 14424
+  name: "Giant Rock Crab"
+  version: "Tonali Cavern"
+  hitpoints: 180
+  att: 50
+  str: 80
+  def: 200
+  mage: 1
+  range: 1
+  dstab: 225
+  dslash: 200
+  dcrush: 175
+  dmagic: -10
+}
+npcs {
   ids: 7392
   name: "Giant rockslug"
   hitpoints: 77
