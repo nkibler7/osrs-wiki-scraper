@@ -4658,7 +4658,7 @@ npcs {
 npcs {
   ids: 16598
   name: "Blink"
-  version: "1"
+  version: "Combo Eating"
   hitpoints: 99
   att: 99
   def: 99
@@ -4666,7 +4666,7 @@ npcs {
 npcs {
   ids: 16625
   name: "Blink"
-  version: "2"
+  version: "Special Attacks"
   hitpoints: 99
   att: 99
   def: 1
