@@ -132277,3 +132277,10 @@ items {
     }
   }
 }
+items {
+  key: 34681
+  value {
+    id: 34681
+    name: "Ascension crossbows"
+  }
+}

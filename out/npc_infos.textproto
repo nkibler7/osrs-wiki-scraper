@@ -1592,6 +1592,25 @@ npcs {
   dmagic: 18
 }
 npcs {
+  ids: 16659
+  name: "Archive Guardian"
+  hitpoints: 550
+  att: 250
+  str: 240
+  def: 260
+  mage: 250
+  range: 280
+  amagic: 350
+  mbns: 55
+  arange: 350
+  rngbns: 55
+  dstab: 120
+  dslash: 110
+  dcrush: 20
+  dmagic: 130
+  attributes: "flying"
+}
+npcs {
   ids: 8865
   ids: 9248
   name: "Arianwyn"
@@ -5143,6 +5162,9 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
+}
+npcs {
+  name: "Bork"
 }
 npcs {
   ids: 3939
@@ -10373,6 +10395,9 @@ npcs {
   dmagic: 10
 }
 npcs {
+  name: "Dreadnoth the Jellied"
+}
+npcs {
   ids: 15164
   name: "Drink troll"
   hitpoints: 25
@@ -12558,6 +12583,9 @@ npcs {
   dslash: 70
   dcrush: 60
   dmagic: 60
+}
+npcs {
+  name: "Ezekiel"
 }
 npcs {
   name: "Famished shark"
@@ -24981,6 +25009,9 @@ npcs {
   strbns: 20
 }
 npcs {
+  name: "Moia"
+}
+npcs {
   ids: 1
   name: "Molanisk"
   hitpoints: 52
@@ -26423,7 +26454,7 @@ npcs {
   rngbns: 5
   dstab: 40
   dslash: 140
-  dcrush: 60
+  dcrush: 35
   dmagic: 300
 }
 npcs {
@@ -37134,6 +37165,9 @@ npcs {
   dmagic: 10000
 }
 npcs {
+  name: "The Smorks"
+}
+npcs {
   ids: 3475
   name: "The Untouchable"
   hitpoints: 90
@@ -42310,6 +42344,9 @@ npcs {
   def: 200
   mage: 220
   range: 100
+}
+npcs {
+  name: "Xarth"
 }
 npcs {
   ids: 2628
