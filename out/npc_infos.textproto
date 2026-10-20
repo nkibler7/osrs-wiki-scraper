@@ -7088,6 +7088,9 @@ npcs {
   dmagic: 150
 }
 npcs {
+  name: "Corpse"
+}
+npcs {
   ids: 8000
   name: "Corrupt Lizardman"
   hitpoints: 50
