@@ -132278,9 +132278,360 @@ items {
   }
 }
 items {
+  key: 34659
+  value {
+    id: 34659
+    name: "Living record (tier 1)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 34661
+  value {
+    id: 34661
+    name: "Living record (tier 2)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 34663
+  value {
+    id: 34663
+    name: "Living record (tier 3)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 34665
+  value {
+    id: 34665
+    name: "Living record (tier 4)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 34667
+  value {
+    id: 34667
+    name: "Living record (tier 5)"
+    stat_bonuses {
+    }
+  }
+}
+items {
   key: 34681
   value {
     id: 34681
     name: "Ascension crossbows"
+    stat_bonuses {
+      ranged_attack: 34
+      magic_attack: 3
+      stab_defence: -7
+      slash_defence: -5
+      magic_defence: 10
+    }
+    weapon_details {
+      base_attack_speed: 3
+      base_attack_range: 6
+      combat_options {
+        name: "Accurate"
+        modifiers {
+          ranged_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Rapid"
+        modifiers {
+          attack_speed_modifier: -1
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_RAPID
+        }
+      }
+      combat_options {
+        name: "Longrange"
+        modifiers {
+          defence_modifier: 3
+        }
+        ranged {
+          attack_style: RANGED_ATTACK_STYLE_LONGRANGE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 34684
+  value {
+    id: 34684
+    name: "Ascension bolts"
+    stat_bonuses {
+      ranged_strength: 53
+    }
+  }
+}
+items {
+  key: 34690
+  value {
+    id: 34690
+    name: "Diamond ascension bolts"
+    stat_bonuses {
+      ranged_strength: 58
+    }
+  }
+}
+items {
+  key: 34696
+  value {
+    id: 34696
+    name: "Diamond ascension bolts (e)"
+    stat_bonuses {
+      ranged_strength: 58
+    }
+  }
+}
+items {
+  key: 34702
+  value {
+    id: 34702
+    name: "Onyx ascension bolts"
+    stat_bonuses {
+      ranged_strength: 58
+    }
+  }
+}
+items {
+  key: 34708
+  value {
+    id: 34708
+    name: "Onyx ascension bolts (e)"
+    stat_bonuses {
+      ranged_strength: 58
+    }
+  }
+}
+items {
+  key: 34715
+  value {
+    id: 34715
+    name: "Obligator"
+    stat_bonuses {
+      stab_attack: 22
+      slash_attack: -8
+      crush_attack: 120
+      slash_defence: 16
+      ranged_defence: 8
+      magic_defence: 3
+      melee_strength: 40
+      prayer: 3
+    }
+    weapon_details {
+      base_attack_speed: 5
+      combat_options {
+        name: "Punch"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Kick"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 34717
+  value {
+    id: 34717
+    name: "Obligator (uncharged)"
+    stat_bonuses {
+      stab_attack: 22
+      slash_attack: -8
+      crush_attack: 120
+      slash_defence: 16
+      ranged_defence: 8
+      magic_defence: 3
+      melee_strength: 40
+      prayer: 3
+    }
+    weapon_details {
+      base_attack_speed: 5
+      combat_options {
+        name: "Punch"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Kick"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 34719
+  value {
+    id: 34719
+    name: "Rondache"
+    stat_bonuses {
+      ranged_attack: -8
+      magic_attack: -5
+      stab_defence: 35
+      slash_defence: 41
+      crush_defence: 38
+      ranged_defence: 55
+      magic_defence: -6
+      melee_strength: 8
+    }
+  }
+}
+items {
+  key: 34722
+  value {
+    id: 34722
+    name: "Archivist\'s folio (inert)"
+  }
+}
+items {
+  key: 34723
+  value {
+    id: 34723
+    name: "Archivist\'s folio"
+  }
+}
+items {
+  key: 34725
+  value {
+    id: 34725
+    name: "Zorya\'s tome"
+    stat_bonuses {
+      magic_attack: 45
+      stab_defence: 1
+      slash_defence: 5
+      crush_defence: 5
+      magic_defence: 10
+      magic_damage: 1.5
+    }
+    weapon_details {
+      base_attack_speed: 3
+      base_attack_range: 7
+      combat_options {
+        name: "Punch"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Kick"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 34727
+  value {
+    id: 34727
+    name: "Zorya\'s tome (uncharged)"
+    stat_bonuses {
+      magic_attack: 45
+      stab_defence: 1
+      slash_defence: 5
+      crush_defence: 5
+      magic_defence: 10
+      magic_damage: 1.5
+      prayer: 2
+    }
+    weapon_details {
+      base_attack_speed: 3
+      base_attack_range: 7
+      combat_options {
+        name: "Punch"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Kick"
+        modifiers {
+          strength_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        }
+      }
+      combat_options {
+        name: "Block"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
   }
 }

@@ -5164,7 +5164,20 @@ npcs {
   dmagic: -21
 }
 npcs {
+  ids: 16640
   name: "Bork"
+  hitpoints: 1500
+  att: 200
+  str: 200
+  def: 300
+  mage: 90
+  range: 200
+  attbns: 100
+  strbns: 40
+  dstab: 140
+  dslash: 130
+  dcrush: 10
+  dmagic: 300
 }
 npcs {
   ids: 3939
@@ -8721,6 +8734,22 @@ npcs {
   dmagic: 255
 }
 npcs {
+  ids: 16643
+  name: "Dagon\'hai Elder"
+}
+npcs {
+  ids: 16645
+  ids: 16646
+  name: "Dagon\'hai Monk"
+  version: "Staff"
+}
+npcs {
+  ids: 16647
+  ids: 16648
+  name: "Dagon\'hai Monk"
+  version: "Book"
+}
+npcs {
   ids: 9561
   ids: 9562
   ids: 9563
@@ -10395,7 +10424,22 @@ npcs {
   dmagic: 10
 }
 npcs {
+  ids: 16665
   name: "Dreadnoth the Jellied"
+  hitpoints: 2100
+  att: 280
+  str: 285
+  def: 125
+  mage: 220
+  range: 250
+  attbns: 185
+  strbns: 35
+  arange: 180
+  rngbns: 20
+  dstab: 15
+  dslash: 20
+  dcrush: 5
+  dmagic: 20
 }
 npcs {
   ids: 15164
@@ -12585,7 +12629,19 @@ npcs {
   dmagic: 60
 }
 npcs {
+  ids: 16652
   name: "Ezekiel"
+  hitpoints: 3000
+  att: 250
+  str: 150
+  def: 130
+  mage: 200
+  range: 80
+  amagic: 250
+  dstab: 150
+  dslash: 90
+  dcrush: 35
+  dmagic: 200
 }
 npcs {
   name: "Famished shark"
@@ -25009,7 +25065,21 @@ npcs {
   strbns: 20
 }
 npcs {
+  ids: 16667
   name: "Moia"
+  hitpoints: 785
+  att: 1
+  str: 1
+  def: 195
+  mage: 350
+  range: 200
+  amagic: 300
+  arange: 350
+  rngbns: 35
+  dstab: 20
+  dslash: 110
+  dcrush: 15
+  dmagic: 30
 }
 npcs {
   ids: 1
@@ -27086,6 +27156,46 @@ npcs {
   dslash: 40
   dcrush: 45
   dmagic: 20
+}
+npcs {
+  ids: 16673
+  name: "Ocellus"
+  version: "Phase 1"
+  hitpoints: 2500
+  att: 1
+  str: 1
+  def: 215
+  mage: 350
+  range: 250
+  attbns: 1
+  strbns: 1
+  amagic: 150
+  arange: 150
+  dstab: 150
+  dslash: 95
+  dcrush: 60
+  dmagic: 100
+  attributes: "Demon"
+}
+npcs {
+  ids: 16677
+  name: "Ocellus"
+  version: "Phase 3"
+  hitpoints: 5250
+  att: 325
+  str: 250
+  def: 250
+  mage: 300
+  range: 300
+  attbns: 150
+  strbns: 10
+  amagic: 350
+  mbns: 10
+  dstab: 150
+  dslash: 100
+  dcrush: 30
+  dmagic: 200
+  attributes: "Demon"
 }
 npcs {
   ids: 14545
@@ -37165,7 +37275,22 @@ npcs {
   dmagic: 10000
 }
 npcs {
+  ids: 16641
   name: "The Smorks"
+  hitpoints: 600
+  att: 1
+  str: 1
+  def: 220
+  mage: 185
+  range: 185
+  amagic: 185
+  mbns: 35
+  arange: 250
+  rngbns: 30
+  dstab: 220
+  dslash: 170
+  dcrush: 160
+  dmagic: 400
 }
 npcs {
   ids: 3475
@@ -40432,6 +40557,13 @@ npcs {
   strbns: 3
 }
 npcs {
+  ids: 16680
+  name: "Void Augmenter"
+  hitpoints: 44
+  def: 175
+  mage: 300
+}
+npcs {
   ids: 14179
   name: "Void Flare"
   version: "Fire"
@@ -40454,6 +40586,18 @@ npcs {
   mage: 200
   range: 1
   attributes: "demon"
+}
+npcs {
+  ids: 16678
+  name: "Void Rift"
+  hitpoints: 44
+  def: 175
+  mage: 300
+}
+npcs {
+  ids: 16681
+  name: "Void Vine"
+  hitpoints: 44
 }
 npcs {
   ids: 11716
@@ -42346,7 +42490,21 @@ npcs {
   range: 100
 }
 npcs {
+  ids: 16684
   name: "Xarth"
+  hitpoints: 2600
+  att: 250
+  str: 225
+  def: 170
+  mage: 350
+  range: 220
+  amagic: 250
+  arange: 250
+  dstab: 115
+  dslash: 105
+  dcrush: 20
+  dmagic: 205
+  attributes: "Demon"
 }
 npcs {
   ids: 2628
