@@ -132434,33 +132434,6 @@ items {
     }
     weapon_details {
       base_attack_speed: 5
-      combat_options {
-        name: "Punch"
-        modifiers {
-          attack_modifier: 3
-        }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_ACCURATE
-        }
-      }
-      combat_options {
-        name: "Kick"
-        modifiers {
-          strength_modifier: 3
-        }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
-        }
-      }
-      combat_options {
-        name: "Block"
-        modifiers {
-          defence_modifier: 3
-        }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
-        }
-      }
     }
   }
 }
@@ -132481,33 +132454,6 @@ items {
     }
     weapon_details {
       base_attack_speed: 5
-      combat_options {
-        name: "Punch"
-        modifiers {
-          attack_modifier: 3
-        }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_ACCURATE
-        }
-      }
-      combat_options {
-        name: "Kick"
-        modifiers {
-          strength_modifier: 3
-        }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
-        }
-      }
-      combat_options {
-        name: "Block"
-        modifiers {
-          defence_modifier: 3
-        }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
-        }
-      }
     }
   }
 }
@@ -132554,6 +132500,7 @@ items {
       crush_defence: 5
       magic_defence: 10
       magic_damage: 1.5
+      prayer: 2
     }
     weapon_details {
       base_attack_speed: 3

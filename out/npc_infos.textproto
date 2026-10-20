@@ -10443,6 +10443,7 @@ npcs {
   dslash: 20
   dcrush: 5
   dmagic: 20
+  attributes: "Demon"
 }
 npcs {
   ids: 15164
