@@ -1210,7 +1210,10 @@ H
 Ö$Confusion beastLevel 63 @(40784@H
 7
 ¿Corporeal Beast Ğ(À0À8¶@ŞH–P2€ˆÈd˜–
-Corpse
+*
+¯‚CorpseNormal (20(8d@dH€dˆdd
+*
+°‚CorpseDoused (20(8d@dH€dˆdd
 :
 À>Corrupt Lizardman 2(&0&8&@H&PXpx€öÿÿÿÿÿÿÿÿˆ
 G
@@ -1503,12 +1506,12 @@ C
 ˆ
 
 ˜ÿ
-
-ƒ‚Dagon'hai Elder
-
-…‚†‚Dagon'hai MonkStaff
-
-‡‚ˆ‚Dagon'hai MonkBook
+8
+ƒ‚Dagon'hai Elder €(08d@¢H„X`x´€2ˆ22˜d
+A
+…‚†‚Dagon'hai MonkStaff €(08d@¢H„X`x´€2ˆ22˜d
+@
+‡‚ˆ‚Dagon'hai MonkBook €(08d@¢H„X`x´€2ˆ22˜d
 F
 ÙJÚJÛJÜJDamien Leucurte Ù8 @ H `hpx€ˆ˜ªvampyre3
 1
@@ -3504,8 +3507,8 @@ $
 ìWJelly	Olive (w) K(-0-8x@-H
 !
 íWJellyDark (w) K(-0-8x@-H
-
-š‚Jelly
++
+š‚Jelly =(È0 8d@dH€ˆ˜ªdemon
 
 èJennella 2((0(8(@HX
 2
@@ -6500,6 +6503,9 @@ $
 )
 ”XUmbra ô(08È@ÈHh€dˆdd˜–
 ,Unbound JalTok-Jad ¼(å0ú8Ø@ıHı`dhKpP
+2
+‚Undead binder _8á@2X€ˆ
+˜ìÿÿÿÿÿÿÿÿ
 o
 ±Undead chicken (08@HPÑÿÿÿÿÿÿÿÿXÖÿÿÿÿÿÿÿÿ€ÖÿÿÿÿÿÿÿÿˆÖÿÿÿÿÿÿÿÿÖÿÿÿÿÿÿÿÿ˜Öÿÿÿÿÿÿÿÿªundead
 k
@@ -6734,6 +6740,8 @@ Void FlareFire Œ(08d@ÈHªdemon
 Void FlareShadow Œ(08d@ÈHªdemon
 
 ¦‚	Void Rift ,8¯@¬
+#
+§‚Void Siphon ,8¯@¬€2ˆ22
 
 ©‚	Void Vine ,
 ?

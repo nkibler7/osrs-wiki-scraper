@@ -7109,7 +7109,32 @@ npcs {
   dmagic: 150
 }
 npcs {
+  ids: 16687
   name: "Corpse"
+  version: "Normal"
+  hitpoints: 20
+  att: 50
+  str: 40
+  def: 100
+  mage: 100
+  range: 1
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+}
+npcs {
+  ids: 16688
+  name: "Corpse"
+  version: "Doused"
+  hitpoints: 20
+  att: 50
+  str: 40
+  def: 100
+  mage: 100
+  range: 1
+  dstab: 100
+  dslash: 100
+  dcrush: 100
 }
 npcs {
   ids: 8000
@@ -8760,18 +8785,57 @@ npcs {
 npcs {
   ids: 16643
   name: "Dagon\'hai Elder"
+  hitpoints: 640
+  att: 1
+  str: 1
+  def: 100
+  mage: 290
+  range: 260
+  strbns: 1
+  amagic: 1
+  rngbns: 180
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  dmagic: 100
 }
 npcs {
   ids: 16645
   ids: 16646
   name: "Dagon\'hai Monk"
   version: "Staff"
+  hitpoints: 640
+  att: 1
+  str: 1
+  def: 100
+  mage: 290
+  range: 260
+  strbns: 1
+  amagic: 1
+  rngbns: 180
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  dmagic: 100
 }
 npcs {
   ids: 16647
   ids: 16648
   name: "Dagon\'hai Monk"
   version: "Book"
+  hitpoints: 640
+  att: 1
+  str: 1
+  def: 100
+  mage: 290
+  range: 260
+  strbns: 1
+  amagic: 1
+  rngbns: 180
+  dstab: 50
+  dslash: 50
+  dcrush: 50
+  dmagic: 100
 }
 npcs {
   ids: 9561
@@ -21227,6 +21291,16 @@ npcs {
 npcs {
   ids: 16666
   name: "Jelly"
+  hitpoints: 61
+  att: 200
+  str: 160
+  def: 100
+  mage: 100
+  range: 1
+  dstab: 4
+  dslash: 5
+  dmagic: 15
+  attributes: "demon"
 }
 npcs {
   ids: 3944
@@ -39122,6 +39196,18 @@ npcs {
   arange: 80
 }
 npcs {
+  ids: 16670
+  name: "Undead binder"
+  hitpoints: 95
+  def: 225
+  mage: 50
+  strbns: 15
+  dstab: 12
+  dslash: 15
+  dcrush: 10
+  dmagic: -20
+}
+npcs {
   ids: 2993
   name: "Undead chicken"
   hitpoints: 3
@@ -40622,6 +40708,16 @@ npcs {
   hitpoints: 44
   def: 175
   mage: 300
+}
+npcs {
+  ids: 16679
+  name: "Void Siphon"
+  hitpoints: 44
+  def: 175
+  mage: 300
+  dstab: 50
+  dslash: 50
+  dcrush: 50
 }
 npcs {
   ids: 16681
