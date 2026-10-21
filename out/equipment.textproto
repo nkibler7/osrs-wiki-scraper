@@ -132434,6 +132434,7 @@ items {
     }
     weapon_details {
       base_attack_speed: 5
+      base_attack_range: 1
     }
   }
 }
@@ -132454,6 +132455,7 @@ items {
     }
     weapon_details {
       base_attack_speed: 5
+      base_attack_range: 1
     }
   }
 }

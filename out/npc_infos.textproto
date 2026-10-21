@@ -1594,6 +1594,7 @@ npcs {
 npcs {
   ids: 16659
   name: "Archive Guardian"
+  version: "Flying"
   hitpoints: 550
   att: 250
   str: 240
@@ -1606,6 +1607,26 @@ npcs {
   rngbns: 55
   dstab: 120
   dslash: 110
+  dcrush: 20
+  dmagic: 130
+  attributes: "flying"
+}
+npcs {
+  ids: 16659
+  name: "Archive Guardian"
+  version: "Grounded"
+  hitpoints: 550
+  att: 250
+  str: 240
+  def: 260
+  mage: 250
+  range: 280
+  amagic: 350
+  mbns: 55
+  arange: 350
+  rngbns: 55
+  dstab: 120
+  dslash: 90
   dcrush: 20
   dmagic: 130
   attributes: "flying"
@@ -21202,6 +21223,10 @@ npcs {
   def: 120
   mage: 45
   range: 1
+}
+npcs {
+  ids: 16666
+  name: "Jelly"
 }
 npcs {
   ids: 3944
