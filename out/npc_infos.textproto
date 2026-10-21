@@ -5197,7 +5197,7 @@ npcs {
   strbns: 40
   dstab: 140
   dslash: 130
-  dcrush: 10
+  dcrush: 20
   dmagic: 300
 }
 npcs {
@@ -42623,7 +42623,10 @@ npcs {
   def: 170
   mage: 350
   range: 220
+  attbns: 150
+  strbns: 225
   amagic: 250
+  mbns: 350
   arange: 250
   dstab: 115
   dslash: 105

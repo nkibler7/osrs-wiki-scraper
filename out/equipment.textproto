@@ -132477,20 +132477,6 @@ items {
   }
 }
 items {
-  key: 34722
-  value {
-    id: 34722
-    name: "Archivist\'s folio (inert)"
-  }
-}
-items {
-  key: 34723
-  value {
-    id: 34723
-    name: "Archivist\'s folio"
-  }
-}
-items {
   key: 34725
   value {
     id: 34725
