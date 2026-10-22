@@ -132494,30 +132494,32 @@ items {
       base_attack_speed: 3
       base_attack_range: 7
       combat_options {
-        name: "Punch"
+        name: "Accurate"
         modifiers {
-          attack_modifier: 3
+          magic_modifier: 3
         }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
         }
       }
       combat_options {
-        name: "Kick"
+        name: "Accurate"
         modifiers {
-          strength_modifier: 3
+          magic_modifier: 3
         }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
         }
       }
       combat_options {
-        name: "Block"
+        name: "Longrange"
         modifiers {
           defence_modifier: 3
+          magic_modifier: 1
+          attack_range_modifier: 2
         }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_LONGRANGE
         }
       }
     }
@@ -132541,30 +132543,32 @@ items {
       base_attack_speed: 3
       base_attack_range: 7
       combat_options {
-        name: "Punch"
+        name: "Accurate"
         modifiers {
-          attack_modifier: 3
+          magic_modifier: 3
         }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
         }
       }
       combat_options {
-        name: "Kick"
+        name: "Accurate"
         modifiers {
-          strength_modifier: 3
+          magic_modifier: 3
         }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_AGGRESSIVE
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
         }
       }
       combat_options {
-        name: "Block"
+        name: "Longrange"
         modifiers {
           defence_modifier: 3
+          magic_modifier: 1
+          attack_range_modifier: 2
         }
-        melee {
-          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        magic {
+          attack_style: MAGIC_ATTACK_STYLE_LONGRANGE
         }
       }
     }
