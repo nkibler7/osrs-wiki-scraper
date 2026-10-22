@@ -7132,9 +7132,9 @@ npcs {
   def: 100
   mage: 100
   range: 1
-  dstab: 100
-  dslash: 100
-  dcrush: 100
+  dstab: -20
+  dslash: -20
+  dcrush: -20
 }
 npcs {
   ids: 8000
