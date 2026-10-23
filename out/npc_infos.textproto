@@ -40708,8 +40708,11 @@ npcs {
   ids: 16678
   name: "Void Rift"
   hitpoints: 44
+  att: 1
+  str: 1
   def: 175
   mage: 300
+  range: 1
 }
 npcs {
   ids: 16679
