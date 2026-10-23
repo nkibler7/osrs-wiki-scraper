@@ -7112,7 +7112,7 @@ npcs {
   ids: 16687
   name: "Corpse"
   version: "Normal"
-  hitpoints: 20
+  hitpoints: 62
   att: 50
   str: 40
   def: 100
@@ -7127,7 +7127,7 @@ npcs {
   ids: 16688
   name: "Corpse"
   version: "Doused"
-  hitpoints: 20
+  hitpoints: 62
   att: 50
   str: 40
   def: 100
