@@ -7121,6 +7121,7 @@ npcs {
   dstab: 100
   dslash: 100
   dcrush: 100
+  attributes: "undead"
 }
 npcs {
   ids: 16688
@@ -7135,6 +7136,7 @@ npcs {
   dstab: -20
   dslash: -20
   dcrush: -20
+  attributes: "undead"
 }
 npcs {
   ids: 8000
