@@ -27285,8 +27285,10 @@ npcs {
 }
 npcs {
   ids: 16675
+  ids: 16676
   name: "Ocellus"
   version: "Phase 2"
+  hitpoints: 1000
   att: 1
   str: 1
   def: 250
