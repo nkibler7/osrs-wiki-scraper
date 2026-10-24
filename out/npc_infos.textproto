@@ -20511,6 +20511,11 @@ npcs {
   attributes: "demon"
 }
 npcs {
+  ids: 16650
+  name: "Imp"
+  hitpoints: 44
+}
+npcs {
   ids: 3355
   name: "Imp Champion"
   hitpoints: 40
