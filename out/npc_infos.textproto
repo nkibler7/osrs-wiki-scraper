@@ -5197,7 +5197,7 @@ npcs {
   strbns: 40
   dstab: 140
   dslash: 130
-  dcrush: 20
+  dcrush: 10
   dmagic: 300
 }
 npcs {
@@ -27264,6 +27264,7 @@ npcs {
 }
 npcs {
   ids: 16673
+  ids: 16674
   name: "Ocellus"
   version: "Phase 1"
   hitpoints: 2500
@@ -27281,6 +27282,20 @@ npcs {
   dcrush: 60
   dmagic: 100
   attributes: "Demon"
+}
+npcs {
+  ids: 16675
+  name: "Ocellus"
+  version: "Phase 2"
+  att: 1
+  str: 1
+  def: 250
+  mage: 220
+  range: 1
+  dstab: 150
+  dslash: 120
+  dcrush: 10
+  dmagic: 100
 }
 npcs {
   ids: 16677
