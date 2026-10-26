@@ -1303,6 +1303,10 @@ npcs {
   dmagic: 400
 }
 npcs {
+  ids: 16653
+  name: "Animated Sword"
+}
+npcs {
   ids: 3285
   name: "Anja"
   hitpoints: 7
@@ -9411,6 +9415,10 @@ npcs {
   rngbns: 29
   dmagic: 20
   attributes: "demon"
+}
+npcs {
+  ids: 16651
+  name: "Demonic rift"
 }
 npcs {
   ids: 7806
