@@ -10507,6 +10507,21 @@ npcs {
   attributes: "dragon"
 }
 npcs {
+  ids: 3922
+  name: "The Draugen"
+  hitpoints: 60
+  att: 60
+  str: 60
+  def: 60
+  mage: 1
+  range: 1
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 500
+  attributes: "undead"
+}
+npcs {
   ids: 13680
   name: "Dreadborn Araxyte"
   hitpoints: 350
@@ -12604,6 +12619,38 @@ npcs {
   dcrush: 40
 }
 npcs {
+  ids: 6351
+  name: "The Everlasting"
+  version: "Normal Mode"
+  hitpoints: 230
+  att: 187
+  str: 231
+  def: 120
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 6120
+  name: "The Everlasting (hard)"
+  version: "Hard Mode"
+  hitpoints: 255
+  att: 374
+  str: 462
+  def: 120
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 3474
+  name: "The Everlasting"
+  hitpoints: 230
+  att: 187
+  str: 231
+  def: 120
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 6739
   name: "Evil Chicken"
   hitpoints: 120
@@ -13494,6 +13541,25 @@ npcs {
   dcrush: 10
   dmagic: 10
   attributes: "undead"
+}
+npcs {
+  ids: 12328
+  name: "The Forsaken Assassin"
+  hitpoints: 200
+  att: 160
+  str: 160
+  def: 140
+  mage: 140
+  range: 160
+  attbns: 66
+  strbns: 12
+  arange: 66
+  rngbns: 12
+  dstab: 60
+  dslash: 30
+  dcrush: 80
+  dmagic: 200
+  attributes: "spectral"
 }
 npcs {
   ids: 4773
@@ -19708,6 +19774,133 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 14009
+  ids: 14010
+  ids: 14013
+  name: "The Hueycoatl"
+  version: "Normal"
+  hitpoints: 2500
+  att: 150
+  str: 50
+  def: 125
+  mage: 50
+  range: 50
+  attbns: 100
+  strbns: 50
+  amagic: 200
+  mbns: 50
+  arange: 250
+  rngbns: 50
+  dstab: 100
+  dslash: 100
+  dmagic: 200
+  attributes: "dragon"
+}
+npcs {
+  ids: 14011
+  name: "The Hueycoatl"
+  version: "Shielded"
+  hitpoints: 2500
+  att: 150
+  str: 50
+  def: 125
+  mage: 50
+  range: 50
+  attbns: 100
+  strbns: 50
+  amagic: 200
+  mbns: 50
+  arange: 250
+  rngbns: 50
+  dstab: 100
+  dslash: 100
+  dmagic: 200
+  attributes: "dragon"
+}
+npcs {
+  ids: 14012
+  name: "The Hueycoatl"
+  version: "Defeated"
+  hitpoints: 2500
+  att: 150
+  str: 50
+  def: 125
+  mage: 50
+  range: 50
+  attbns: 100
+  strbns: 50
+  amagic: 200
+  mbns: 50
+  arange: 250
+  rngbns: 50
+  dstab: 100
+  dslash: 100
+  dmagic: 200
+  attributes: "dragon"
+}
+npcs {
+  ids: 14017
+  name: "Hueycoatl body"
+  hitpoints: 250
+  att: 150
+  str: 50
+  def: 125
+  mage: 50
+  range: 50
+  attbns: 100
+  strbns: 50
+  amagic: 200
+  mbns: 50
+  arange: 250
+  rngbns: 50
+  dstab: 100
+  dslash: 100
+  dmagic: 200
+  attributes: "dragon"
+}
+npcs {
+  ids: 14014
+  name: "Hueycoatl tail"
+  version: "Normal"
+  hitpoints: 300
+  att: 150
+  str: 50
+  def: 125
+  mage: 50
+  range: 50
+  attbns: 100
+  strbns: 50
+  amagic: 200
+  mbns: 50
+  arange: 250
+  rngbns: 50
+  dstab: 100
+  dslash: 100
+  dmagic: 200
+  attributes: "dragon"
+}
+npcs {
+  ids: 14015
+  name: "Hueycoatl tail (broken)"
+  version: "Broken"
+  hitpoints: 300
+  att: 150
+  str: 50
+  def: 125
+  mage: 50
+  range: 50
+  attbns: 100
+  strbns: 50
+  amagic: 200
+  mbns: 50
+  arange: 250
+  rngbns: 50
+  dstab: 100
+  dslash: 100
+  dmagic: 200
+  attributes: "dragon"
+}
+npcs {
   ids: 134
   name: "Huge spider"
   hitpoints: 90
@@ -20483,6 +20676,16 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 3476
+  name: "The Illusive"
+  hitpoints: 144
+  att: 72
+  str: 71
+  def: 105
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 5007
   name: "Imp"
   version: "Normal"
@@ -20556,6 +20759,38 @@ npcs {
   dslash: -21
   dcrush: -21
   dmagic: -21
+}
+npcs {
+  ids: 6350
+  name: "The Inadequacy"
+  version: "Normal Mode"
+  hitpoints: 180
+  att: 564
+  str: 170
+  def: 240
+  mage: 1
+  range: 170
+}
+npcs {
+  ids: 6119
+  name: "The Inadequacy (hard)"
+  version: "Hard Mode"
+  hitpoints: 255
+  att: 1128
+  str: 340
+  def: 240
+  mage: 1
+  range: 340
+}
+npcs {
+  ids: 3473
+  name: "The Inadequacy"
+  hitpoints: 180
+  att: 564
+  str: 170
+  def: 240
+  mage: 1
+  range: 170
 }
 npcs {
   ids: 443
@@ -22237,6 +22472,51 @@ npcs {
   dstab: 50
   dslash: 50
   dcrush: 50
+}
+npcs {
+  ids: 6383
+  name: "The Kendal"
+  version: "Normal Mode"
+  hitpoints: 50
+  att: 65
+  str: 65
+  def: 60
+  attbns: 5
+  strbns: 10
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+  dmagic: -10
+}
+npcs {
+  ids: 6322
+  name: "The Kendal (hard)"
+  version: "Hard Mode"
+  hitpoints: 150
+  att: 195
+  str: 195
+  def: 60
+  attbns: 5
+  strbns: 10
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+  dmagic: -10
+}
+npcs {
+  ids: 1377
+  ids: 1378
+  name: "The Kendal"
+  hitpoints: 50
+  att: 65
+  str: 65
+  def: 60
+  attbns: 5
+  strbns: 10
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+  dmagic: -10
 }
 npcs {
   ids: 11721
@@ -24254,6 +24534,79 @@ npcs {
   dcrush: 70
   dmagic: 40
   attributes: "dragon"
+}
+npcs {
+  ids: 10814
+  name: "The Maiden of Sugadinti"
+  version: "Entry Mode"
+  hitpoints: 2000
+  att: 140
+  str: 140
+  def: 80
+  mage: 140
+  range: 140
+  amagic: 150
+  mbns: 12
+}
+npcs {
+  ids: 8360
+  name: "The Maiden of Sugadinti"
+  version: "Normal"
+  hitpoints: 3500
+  att: 350
+  str: 350
+  def: 200
+  mage: 350
+  range: 350
+  amagic: 300
+}
+npcs {
+  ids: 10822
+  name: "The Maiden of Sugadinti"
+  version: "Hard Mode"
+  hitpoints: 3500
+  att: 350
+  str: 350
+  def: 200
+  mage: 350
+  range: 350
+  amagic: 300
+}
+npcs {
+  ids: 8361
+  name: "The Maiden of Sugadinti"
+  version: "70% Health"
+  hitpoints: 2450
+  att: 350
+  str: 350
+  def: 200
+  mage: 350
+  range: 350
+  amagic: 300
+}
+npcs {
+  ids: 8362
+  name: "The Maiden of Sugadinti"
+  version: "50% Health"
+  hitpoints: 1750
+  att: 350
+  str: 350
+  def: 200
+  mage: 350
+  range: 350
+  amagic: 300
+}
+npcs {
+  ids: 8363
+  name: "The Maiden of Sugadinti"
+  version: "30% Health"
+  hitpoints: 1050
+  att: 350
+  str: 350
+  def: 200
+  mage: 350
+  range: 350
+  amagic: 300
 }
 npcs {
   ids: 7396
@@ -32496,6 +32849,17 @@ npcs {
   dmagic: 150
 }
 npcs {
+  ids: 4708
+  name: "The Shaikahan"
+  hitpoints: 100
+  att: 80
+  str: 80
+  def: 25
+  mage: 1
+  range: 1
+  dmagic: 10000
+}
+npcs {
   ids: 4643
   ids: 4648
   name: "Shantay Guard"
@@ -34641,6 +35005,24 @@ npcs {
   mage: 1
   range: 195
   dmagic: 600
+}
+npcs {
+  ids: 16641
+  name: "The Smorks"
+  hitpoints: 600
+  att: 1
+  str: 1
+  def: 220
+  mage: 185
+  range: 185
+  amagic: 185
+  mbns: 35
+  arange: 250
+  rngbns: 30
+  dstab: 220
+  dslash: 170
+  dcrush: 160
+  dmagic: 400
 }
 npcs {
   ids: 11270
@@ -37031,359 +37413,6 @@ npcs {
   range: 1
 }
 npcs {
-  ids: 3922
-  name: "The Draugen"
-  hitpoints: 60
-  att: 60
-  str: 60
-  def: 60
-  mage: 1
-  range: 1
-  dstab: 100
-  dslash: 100
-  dcrush: 100
-  dmagic: 500
-  attributes: "undead"
-}
-npcs {
-  ids: 3474
-  name: "The Everlasting"
-  hitpoints: 230
-  att: 187
-  str: 231
-  def: 120
-  mage: 1
-  range: 1
-}
-npcs {
-  ids: 6351
-  name: "The Everlasting"
-  version: "Normal Mode"
-  hitpoints: 230
-  att: 187
-  str: 231
-  def: 120
-  mage: 1
-  range: 1
-}
-npcs {
-  ids: 6120
-  name: "The Everlasting (hard)"
-  version: "Hard Mode"
-  hitpoints: 255
-  att: 374
-  str: 462
-  def: 120
-  mage: 1
-  range: 1
-}
-npcs {
-  ids: 12328
-  name: "The Forsaken Assassin"
-  hitpoints: 200
-  att: 160
-  str: 160
-  def: 140
-  mage: 140
-  range: 160
-  attbns: 66
-  strbns: 12
-  arange: 66
-  rngbns: 12
-  dstab: 60
-  dslash: 30
-  dcrush: 80
-  dmagic: 200
-  attributes: "spectral"
-}
-npcs {
-  ids: 14009
-  ids: 14010
-  ids: 14013
-  name: "The Hueycoatl"
-  version: "Normal"
-  hitpoints: 2500
-  att: 150
-  str: 50
-  def: 125
-  mage: 50
-  range: 50
-  attbns: 100
-  strbns: 50
-  amagic: 200
-  mbns: 50
-  arange: 250
-  rngbns: 50
-  dstab: 100
-  dslash: 100
-  dmagic: 200
-  attributes: "dragon"
-}
-npcs {
-  ids: 14011
-  name: "The Hueycoatl"
-  version: "Shielded"
-  hitpoints: 2500
-  att: 150
-  str: 50
-  def: 125
-  mage: 50
-  range: 50
-  attbns: 100
-  strbns: 50
-  amagic: 200
-  mbns: 50
-  arange: 250
-  rngbns: 50
-  dstab: 100
-  dslash: 100
-  dmagic: 200
-  attributes: "dragon"
-}
-npcs {
-  ids: 14012
-  name: "The Hueycoatl"
-  version: "Defeated"
-  hitpoints: 2500
-  att: 150
-  str: 50
-  def: 125
-  mage: 50
-  range: 50
-  attbns: 100
-  strbns: 50
-  amagic: 200
-  mbns: 50
-  arange: 250
-  rngbns: 50
-  dstab: 100
-  dslash: 100
-  dmagic: 200
-  attributes: "dragon"
-}
-npcs {
-  ids: 14017
-  name: "Hueycoatl body"
-  hitpoints: 250
-  att: 150
-  str: 50
-  def: 125
-  mage: 50
-  range: 50
-  attbns: 100
-  strbns: 50
-  amagic: 200
-  mbns: 50
-  arange: 250
-  rngbns: 50
-  dstab: 100
-  dslash: 100
-  dmagic: 200
-  attributes: "dragon"
-}
-npcs {
-  ids: 14014
-  name: "Hueycoatl tail"
-  version: "Normal"
-  hitpoints: 300
-  att: 150
-  str: 50
-  def: 125
-  mage: 50
-  range: 50
-  attbns: 100
-  strbns: 50
-  amagic: 200
-  mbns: 50
-  arange: 250
-  rngbns: 50
-  dstab: 100
-  dslash: 100
-  dmagic: 200
-  attributes: "dragon"
-}
-npcs {
-  ids: 14015
-  name: "Hueycoatl tail (broken)"
-  version: "Broken"
-  hitpoints: 300
-  att: 150
-  str: 50
-  def: 125
-  mage: 50
-  range: 50
-  attbns: 100
-  strbns: 50
-  amagic: 200
-  mbns: 50
-  arange: 250
-  rngbns: 50
-  dstab: 100
-  dslash: 100
-  dmagic: 200
-  attributes: "dragon"
-}
-npcs {
-  ids: 3476
-  name: "The Illusive"
-  hitpoints: 144
-  att: 72
-  str: 71
-  def: 105
-  mage: 1
-  range: 1
-}
-npcs {
-  ids: 3473
-  name: "The Inadequacy"
-  hitpoints: 180
-  att: 564
-  str: 170
-  def: 240
-  mage: 1
-  range: 170
-}
-npcs {
-  ids: 6350
-  name: "The Inadequacy"
-  version: "Normal Mode"
-  hitpoints: 180
-  att: 564
-  str: 170
-  def: 240
-  mage: 1
-  range: 170
-}
-npcs {
-  ids: 6119
-  name: "The Inadequacy (hard)"
-  version: "Hard Mode"
-  hitpoints: 255
-  att: 1128
-  str: 340
-  def: 240
-  mage: 1
-  range: 340
-}
-npcs {
-  ids: 1377
-  ids: 1378
-  name: "The Kendal"
-  hitpoints: 50
-  att: 65
-  str: 65
-  def: 60
-  attbns: 5
-  strbns: 10
-  dstab: 10
-  dslash: 10
-  dcrush: 10
-  dmagic: -10
-}
-npcs {
-  ids: 6383
-  name: "The Kendal"
-  version: "Normal Mode"
-  hitpoints: 50
-  att: 65
-  str: 65
-  def: 60
-  attbns: 5
-  strbns: 10
-  dstab: 10
-  dslash: 10
-  dcrush: 10
-  dmagic: -10
-}
-npcs {
-  ids: 6322
-  name: "The Kendal (hard)"
-  version: "Hard Mode"
-  hitpoints: 150
-  att: 195
-  str: 195
-  def: 60
-  attbns: 5
-  strbns: 10
-  dstab: 10
-  dslash: 10
-  dcrush: 10
-  dmagic: -10
-}
-npcs {
-  ids: 10814
-  name: "The Maiden of Sugadinti"
-  version: "Entry Mode"
-  hitpoints: 2000
-  att: 140
-  str: 140
-  def: 80
-  mage: 140
-  range: 140
-  amagic: 150
-  mbns: 12
-}
-npcs {
-  ids: 8360
-  name: "The Maiden of Sugadinti"
-  version: "Normal"
-  hitpoints: 3500
-  att: 350
-  str: 350
-  def: 200
-  mage: 350
-  range: 350
-  amagic: 300
-}
-npcs {
-  ids: 10822
-  name: "The Maiden of Sugadinti"
-  version: "Hard Mode"
-  hitpoints: 3500
-  att: 350
-  str: 350
-  def: 200
-  mage: 350
-  range: 350
-  amagic: 300
-}
-npcs {
-  ids: 8361
-  name: "The Maiden of Sugadinti"
-  version: "70% Health"
-  hitpoints: 2450
-  att: 350
-  str: 350
-  def: 200
-  mage: 350
-  range: 350
-  amagic: 300
-}
-npcs {
-  ids: 8362
-  name: "The Maiden of Sugadinti"
-  version: "50% Health"
-  hitpoints: 1750
-  att: 350
-  str: 350
-  def: 200
-  mage: 350
-  range: 350
-  amagic: 300
-}
-npcs {
-  ids: 8363
-  name: "The Maiden of Sugadinti"
-  version: "30% Health"
-  hitpoints: 1050
-  att: 350
-  str: 350
-  def: 200
-  mage: 350
-  range: 350
-  amagic: 300
-}
-npcs {
   ids: 15168
   name: "The rocks"
   hitpoints: 130
@@ -37397,67 +37426,6 @@ npcs {
   dstab: 35
   dslash: 60
   dcrush: 35
-}
-npcs {
-  ids: 4708
-  name: "The Shaikahan"
-  hitpoints: 100
-  att: 80
-  str: 80
-  def: 25
-  mage: 1
-  range: 1
-  dmagic: 10000
-}
-npcs {
-  ids: 16641
-  name: "The Smorks"
-  hitpoints: 600
-  att: 1
-  str: 1
-  def: 220
-  mage: 185
-  range: 185
-  amagic: 185
-  mbns: 35
-  arange: 250
-  rngbns: 30
-  dstab: 220
-  dslash: 170
-  dcrush: 160
-  dmagic: 400
-}
-npcs {
-  ids: 3475
-  name: "The Untouchable"
-  hitpoints: 90
-  att: 187
-  str: 255
-  def: 434
-  mage: 1
-  range: 1
-}
-npcs {
-  ids: 6352
-  name: "The Untouchable"
-  version: "Normal Mode"
-  hitpoints: 90
-  att: 187
-  str: 255
-  def: 434
-  mage: 1
-  range: 1
-}
-npcs {
-  ids: 6121
-  name: "The Untouchable (hard)"
-  version: "Hard Mode"
-  hitpoints: 180
-  att: 374
-  str: 510
-  def: 434
-  mage: 1
-  range: 1
 }
 npcs {
   ids: 499
@@ -39602,6 +39570,38 @@ npcs {
   att: 18
   str: 26
   def: 22
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 6352
+  name: "The Untouchable"
+  version: "Normal Mode"
+  hitpoints: 90
+  att: 187
+  str: 255
+  def: 434
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 6121
+  name: "The Untouchable (hard)"
+  version: "Hard Mode"
+  hitpoints: 180
+  att: 374
+  str: 510
+  def: 434
+  mage: 1
+  range: 1
+}
+npcs {
+  ids: 3475
+  name: "The Untouchable"
+  hitpoints: 90
+  att: 187
+  str: 255
+  def: 434
   mage: 1
   range: 1
 }

@@ -1759,6 +1759,8 @@ Deep Delve ñ(¬0¾8Z@“HnPÒX-`}hpxx2€¬ˆ¬<˜ ªdemon
 9Double agent	Level 141  (‚0i8d@_HP(X(€ˆ
 7
 ¤C¥CDrake á(Œ0v8x@pHŒXp(x(€ˆ<<˜ªdragon
+3
+ÒThe Draugen <(<0<8<@H€dˆdd˜ôªundead
 4
 ğjDreadborn Araxyte Ş(„0„8d@dHPÈX
 €<ˆ˜
@@ -2134,6 +2136,12 @@ D
 &
 ^Evelot  ( 0–8x@PPX
 €Fˆ<(
+1
+Ï1The EverlastingNormal Mode æ(»0ç8x@H
+6
+è/The Everlasting (hard)	Hard Mode ÿ(ö0Î8x@H
+$
+’The Everlasting æ(»0ç8x@H
 
 Ó4Evil Chicken x(08~@ÈH
 ,
@@ -2303,6 +2311,8 @@ E
 
 ˜
 ªundead
+M
+¨`The Forsaken Assassin È( 0 8Œ@ŒH PBXpBx€<ˆP˜Èªspectral
 9
 ¥%Fortress Guard (08@HPX€ˆ˜üÿÿÿÿÿÿÿÿ
 9
@@ -3247,6 +3257,18 @@ Hoop Snake (0
 °±²Hopeless creatureLevel 40 (&0$8'@H
 -
 ×$Hopeless creatureLevel 71 G(;0>8;@H
+N
+¹mºm½mThe HueycoatlNormal Ä(–028}@2H2PdX2`Èh2púx2€dˆd˜Èªdragon
+L
+»mThe HueycoatlShielded Ä(–028}@2H2PdX2`Èh2púx2€dˆd˜Èªdragon
+L
+¼mThe HueycoatlDefeated Ä(–028}@2H2PdX2`Èh2púx2€dˆd˜Èªdragon
+C
+ÁmHueycoatl body ú(–028}@2H2PdX2`Èh2púx2€dˆd˜Èªdragon
+K
+¾mHueycoatl tailNormal ¬(–028}@2H2PdX2`Èh2púx2€dˆd˜Èªdragon
+T
+¿mHueycoatl tail (broken)Broken ¬(–028}@2H2PdX2`Èh2púx2€dˆd˜Èªdragon
 
 †Huge spider Z(;0F8E@H
 )
@@ -3362,6 +3384,8 @@ F
 ÕIcelordMelee, 3 <((0(8(@H
 !
 ÔIcelordRanged <((0(8(@H
+
+”The Illusive (H0G8i@H
 k
 'ImpNormal (08@HPÖÿÿÿÿÿÿÿÿXÛÿÿÿÿÿÿÿÿ€ÖÿÿÿÿÿÿÿÿˆÖÿÿÿÿÿÿÿÿÖÿÿÿÿÿÿÿÿ˜Öÿÿÿÿÿÿÿÿªdemon
 h
@@ -3379,6 +3403,12 @@ F
 0
 8
 @H€ëÿÿÿÿÿÿÿÿˆëÿÿÿÿÿÿÿÿëÿÿÿÿÿÿÿÿ˜ëÿÿÿÿÿÿÿÿ
+2
+Î1The InadequacyNormal Mode ´(´0ª8ğ@Hª
+7
+ç/The Inadequacy (hard)	Hard Mode ÿ(è0Ô8ğ@HÔ
+%
+‘The Inadequacy ´(´0ª8ğ@Hª
 *
 
 »¼½¾¿Infernal Mage <(08<@KH˜(
@@ -3656,6 +3686,28 @@ J
 ÖKebbit 2(08@H
 *
 À7Á7Keef ´(¥0x8¥@HP¾Xª€2ˆ22
+>
+ï1
+The KendalNormal Mode 2(A0A8<PX
+€
+ˆ
+
+˜öÿÿÿÿÿÿÿÿ
+F
+²1The Kendal (hard)	Hard Mode –(Ã0Ã8<PX
+€
+ˆ
+
+˜öÿÿÿÿÿÿÿÿ
+3
+á
+â
+
+The Kendal 2(A0A8<PX
+€
+ˆ
+
+˜öÿÿÿÿÿÿÿÿ
 ;
 É[Kephri
 Aggressive P8P@}`}h2€<ˆ¬d˜Èªkalphite
@@ -3992,6 +4044,22 @@ Magic Mark	Permanent Ü(
 08@¯`d€ˆ˜–
 ?
 yMagma strykewyrm Ô(Ò0Ò8n@nHúPx(€<ˆF˜(ªdragon
+?
+¾TThe Maiden of Sugadinti
+Entry Mode Ğ(Œ0Œ8P@ŒHŒ`–h
+:
+¨AThe Maiden of SugadintiNormal ¬(Ş0Ş8È@ŞHŞ`¬
+=
+ÆTThe Maiden of Sugadinti	Hard Mode ¬(Ş0Ş8È@ŞHŞ`¬
+>
+©AThe Maiden of Sugadinti
+70% Health ’(Ş0Ş8È@ŞHŞ`¬
+>
+ªAThe Maiden of Sugadinti
+50% Health Ö(Ş0Ş8È@ŞHŞ`¬
+>
+«AThe Maiden of Sugadinti
+30% Health š(Ş0Ş8È@ŞHŞ`¬
 '
 ä9Malevolent Mage ¯(08‡@¯H˜K
 4
@@ -5391,6 +5459,8 @@ E
 0
 …DShaeded Beast Ò(20P82@úHh
 €2ˆd˜–
+#
+ä$The Shaikahan d(P0P8@H˜N
 -
 £$¨$Shantay Guard  (08PX€ˆ˜
 Shark <(d0@
@@ -5718,6 +5788,9 @@ G
 ®nSmall scarab ((7087@Hªkalphite
 &
 òSmoke devil ¹(Œ0‚8“@HÃ˜Ø
+;
+‚
+The Smorks Ø(08Ü@¹H¹`¹h#púx€Üˆª ˜
 1
 †X‹X	Snailfeet P(08@HP X$p x$€
 ˆ
@@ -6131,87 +6204,8 @@ Terrorbird2 "(08@H
 
 ’
 Terrorbird3 "(08@H
-3
-ÒThe Draugen <(<0<8<@H€dˆdd˜ôªundead
-$
-’The Everlasting æ(»0ç8x@H
-1
-Ï1The EverlastingNormal Mode æ(»0ç8x@H
-6
-è/The Everlasting (hard)	Hard Mode ÿ(ö0Î8x@H
-M
-¨`The Forsaken Assassin È( 0 8Œ@ŒH PBXpBx€<ˆP˜Èªspectral
-N
-¹mºm½mThe HueycoatlNormal Ä(–028}@2H2PdX2`Èh2púx2€dˆd˜Èªdragon
-L
-»mThe HueycoatlShielded Ä(–028}@2H2PdX2`Èh2púx2€dˆd˜Èªdragon
-L
-¼mThe HueycoatlDefeated Ä(–028}@2H2PdX2`Èh2púx2€dˆd˜Èªdragon
-C
-ÁmHueycoatl body ú(–028}@2H2PdX2`Èh2púx2€dˆd˜Èªdragon
-K
-¾mHueycoatl tailNormal ¬(–028}@2H2PdX2`Èh2púx2€dˆd˜Èªdragon
-T
-¿mHueycoatl tail (broken)Broken ¬(–028}@2H2PdX2`Èh2púx2€dˆd˜Èªdragon
-
-”The Illusive (H0G8i@H
-%
-‘The Inadequacy ´(´0ª8ğ@Hª
-2
-Î1The InadequacyNormal Mode ´(´0ª8ğ@Hª
-7
-ç/The Inadequacy (hard)	Hard Mode ÿ(è0Ô8ğ@HÔ
-3
-á
-â
-
-The Kendal 2(A0A8<PX
-€
-ˆ
-
-˜öÿÿÿÿÿÿÿÿ
->
-ï1
-The KendalNormal Mode 2(A0A8<PX
-€
-ˆ
-
-˜öÿÿÿÿÿÿÿÿ
-F
-²1The Kendal (hard)	Hard Mode –(Ã0Ã8<PX
-€
-ˆ
-
-˜öÿÿÿÿÿÿÿÿ
-?
-¾TThe Maiden of Sugadinti
-Entry Mode Ğ(Œ0Œ8P@ŒHŒ`–h
-:
-¨AThe Maiden of SugadintiNormal ¬(Ş0Ş8È@ŞHŞ`¬
-=
-ÆTThe Maiden of Sugadinti	Hard Mode ¬(Ş0Ş8È@ŞHŞ`¬
->
-©AThe Maiden of Sugadinti
-70% Health ’(Ş0Ş8È@ŞHŞ`¬
->
-ªAThe Maiden of Sugadinti
-50% Health Ö(Ş0Ş8È@ŞHŞ`¬
->
-«AThe Maiden of Sugadinti
-30% Health š(Ş0Ş8È@ŞHŞ`¬
 +
 Àv	The rocks ‚(¾0P8‡@HP<Xd€#ˆ<#
-#
-ä$The Shaikahan d(P0P8@H˜N
-;
-‚
-The Smorks Ø(08Ü@¹H¹`¹h#púx€Üˆª ˜
-$
-“The Untouchable Z(»0ÿ8²@H
-1
-Ğ1The UntouchableNormal Mode Z(»0ÿ8²@H
-7
-é/The Untouchable (hard)	Hard Mode ´(ö0ş8²@H
 =
 óThermonuclear smoke devil ğ(æ0Ü8è@H¶€ˆ	˜ 
 I
@@ -6574,6 +6568,12 @@ Undead oneLevel 73 ;(A0A8APXªundead
 @H
 
 ‘Unicow (08@H
+1
+Ğ1The UntouchableNormal Mode Z(»0ÿ8²@H
+7
+é/The Untouchable (hard)	Hard Mode ´(ö0ş8²@H
+$
+“The Untouchable Z(»0ÿ8²@H
 
 )Uodai ‚(‚0‚8‚@‚HP2
 "
