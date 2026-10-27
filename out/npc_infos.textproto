@@ -9139,6 +9139,16 @@ npcs {
   dmagic: 5
 }
 npcs {
+  ids: 16599
+  name: "Dave"
+  version: "Combo Eating"
+}
+npcs {
+  ids: 16626
+  name: "Dave"
+  version: "Special Attacks"
+}
+npcs {
   ids: 7852
   ids: 7853
   ids: 7884
@@ -10486,6 +10496,16 @@ npcs {
   dstab: 20
   dslash: 20
   dcrush: 20
+}
+npcs {
+  ids: 16600
+  name: "Double Decimation Daryl"
+  version: "Combo Eating"
+}
+npcs {
+  ids: 16627
+  name: "Double Decimation Daryl"
+  version: "Special Attacks"
 }
 npcs {
   ids: 8612
@@ -18240,8 +18260,13 @@ npcs {
   version: "1"
   hitpoints: 22
   att: 19
+  str: 18
   def: 14
+  mage: 1
+  range: 1
+  attbns: 4
   strbns: 5
+  arange: 1
   dstab: 18
   dslash: 25
   dcrush: 19
@@ -18253,8 +18278,13 @@ npcs {
   version: "2"
   hitpoints: 22
   att: 19
+  str: 18
   def: 14
+  mage: 1
+  range: 1
+  attbns: 4
   strbns: 5
+  arange: 1
   dstab: 18
   dslash: 25
   dcrush: 19
@@ -18266,8 +18296,13 @@ npcs {
   version: "3"
   hitpoints: 22
   att: 19
+  str: 18
   def: 14
+  mage: 1
+  range: 1
+  attbns: 4
   strbns: 5
+  arange: 1
   dstab: 18
   dslash: 25
   dcrush: 19
@@ -18279,8 +18314,13 @@ npcs {
   version: "4"
   hitpoints: 22
   att: 19
+  str: 18
   def: 14
+  mage: 1
+  range: 1
+  attbns: 4
   strbns: 5
+  arange: 1
   dstab: 18
   dslash: 25
   dcrush: 19
@@ -22817,6 +22857,16 @@ npcs {
   dslash: 10
   dcrush: 10
   dmagic: 20
+}
+npcs {
+  ids: 16602
+  name: "Kinetic Katara"
+  version: "Combo Eating"
+}
+npcs {
+  ids: 16629
+  name: "Kinetic Katara"
+  version: "Special Attacks"
 }
 npcs {
   ids: 239
@@ -35531,7 +35581,7 @@ npcs {
 npcs {
   ids: 16607
   name: "Sparring partner"
-  version: "1"
+  version: "Power of Freezes"
   hitpoints: 1000
   att: 99
   def: 70
@@ -35541,7 +35591,7 @@ npcs {
 npcs {
   ids: 16608
   name: "Sparring partner"
-  version: "2"
+  version: "Gear Switching (melee)"
   hitpoints: 1000
   att: 99
   def: 99
@@ -35551,7 +35601,7 @@ npcs {
 npcs {
   ids: 16609
   name: "Sparring partner"
-  version: "3"
+  version: "Gear Switching (ranged)"
   hitpoints: 1000
   att: 99
   def: 99
@@ -35561,7 +35611,7 @@ npcs {
 npcs {
   ids: 16610
   name: "Sparring partner"
-  version: "4"
+  version: "Gear Switching (magic)"
   hitpoints: 1000
   att: 99
   def: 99
@@ -35571,7 +35621,7 @@ npcs {
 npcs {
   ids: 16611
   name: "Sparring partner"
-  version: "5"
+  version: "Prayer Protection (Armadyl godsword)"
   hitpoints: 99
   att: 99
   def: 99
@@ -35581,7 +35631,7 @@ npcs {
 npcs {
   ids: 16612
   name: "Sparring partner"
-  version: "6"
+  version: "Prayer Protection (Voidwaker)"
   hitpoints: 99
   att: 99
   def: 99
@@ -35591,7 +35641,7 @@ npcs {
 npcs {
   ids: 16613
   name: "Sparring partner"
-  version: "7"
+  version: "Prayer Protection (granite maul)"
   hitpoints: 99
   att: 99
   def: 99
@@ -35601,7 +35651,7 @@ npcs {
 npcs {
   ids: 16614
   name: "Sparring partner"
-  version: "8"
+  version: "Prayer Protection (dragon claws)"
   hitpoints: 99
   att: 99
   def: 99
@@ -35611,7 +35661,7 @@ npcs {
 npcs {
   ids: 16615
   name: "Sparring partner"
-  version: "9"
+  version: "Prayer Protection (rune crossbow)"
   hitpoints: 99
   att: 99
   def: 99
@@ -35621,7 +35671,7 @@ npcs {
 npcs {
   ids: 16616
   name: "Sparring partner"
-  version: "10"
+  version: "Prayer Protection (dark bow)"
   hitpoints: 99
   att: 99
   def: 99
@@ -35631,7 +35681,7 @@ npcs {
 npcs {
   ids: 16617
   name: "Sparring partner"
-  version: "11"
+  version: "Prayer Protection (Ice Barrage)"
   hitpoints: 99
   att: 99
   def: 99
@@ -42676,6 +42726,20 @@ npcs {
   dcrush: 20
   dmagic: 205
   attributes: "Demon"
+}
+npcs {
+  ids: 16603
+  name: "Xx I DB0W I xX"
+}
+npcs {
+  ids: 16604
+  name: "Xx I DBOW I xX"
+  version: "Combo Eating"
+}
+npcs {
+  ids: 16628
+  name: "Xx I DBOW I xX"
+  version: "Special Attacks"
 }
 npcs {
   ids: 2628
