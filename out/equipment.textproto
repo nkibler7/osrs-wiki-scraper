@@ -132574,3 +132574,39 @@ items {
     }
   }
 }
+items {
+  key: 34740
+  value {
+    id: 34740
+    name: "Vampyre monocle"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 34742
+  value {
+    id: 34742
+    name: "Vampyre costume top"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 34744
+  value {
+    id: 34744
+    name: "Vampyre costume bottom"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 34746
+  value {
+    id: 34746
+    name: "Vampyre costume cape"
+    stat_bonuses {
+    }
+  }
+}
