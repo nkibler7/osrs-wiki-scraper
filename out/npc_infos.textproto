@@ -40765,8 +40765,14 @@ npcs {
   ids: 16680
   name: "Void Augmenter"
   hitpoints: 44
+  att: 1
+  str: 1
   def: 175
   mage: 300
+  range: 1
+  dstab: 50
+  dslash: 50
+  dcrush: 50
 }
 npcs {
   ids: 14179
