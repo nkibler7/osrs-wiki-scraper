@@ -26960,7 +26960,7 @@ npcs {
 npcs {
   ids: 11
   name: "Nechryael"
-  version: "Slayer task"
+  version: "Slayer Tower basement"
   hitpoints: 105
   att: 97
   str: 97
@@ -41438,7 +41438,7 @@ npcs {
 npcs {
   ids: 2917
   name: "Waterfiend"
-  version: "Slayer task"
+  version: "Slayer task area"
   hitpoints: 128
   def: 128
   mage: 105

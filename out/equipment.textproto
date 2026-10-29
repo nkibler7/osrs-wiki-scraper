@@ -132493,35 +132493,6 @@ items {
     weapon_details {
       base_attack_speed: 3
       base_attack_range: 7
-      combat_options {
-        name: "Accurate"
-        modifiers {
-          magic_modifier: 3
-        }
-        magic {
-          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
-        }
-      }
-      combat_options {
-        name: "Accurate"
-        modifiers {
-          magic_modifier: 3
-        }
-        magic {
-          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
-        }
-      }
-      combat_options {
-        name: "Longrange"
-        modifiers {
-          defence_modifier: 3
-          magic_modifier: 1
-          attack_range_modifier: 2
-        }
-        magic {
-          attack_style: MAGIC_ATTACK_STYLE_LONGRANGE
-        }
-      }
     }
   }
 }
@@ -132542,35 +132513,6 @@ items {
     weapon_details {
       base_attack_speed: 3
       base_attack_range: 7
-      combat_options {
-        name: "Accurate"
-        modifiers {
-          magic_modifier: 3
-        }
-        magic {
-          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
-        }
-      }
-      combat_options {
-        name: "Accurate"
-        modifiers {
-          magic_modifier: 3
-        }
-        magic {
-          attack_style: MAGIC_ATTACK_STYLE_ACCURATE
-        }
-      }
-      combat_options {
-        name: "Longrange"
-        modifiers {
-          defence_modifier: 3
-          magic_modifier: 1
-          attack_range_modifier: 2
-        }
-        magic {
-          attack_style: MAGIC_ATTACK_STYLE_LONGRANGE
-        }
-      }
     }
   }
 }
