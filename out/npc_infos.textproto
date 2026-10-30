@@ -1619,7 +1619,7 @@ npcs {
   ids: 16659
   name: "Archive Guardian"
   version: "Grounded"
-  hitpoints: 550
+  hitpoints: 1100
   att: 250
   str: 240
   def: 260
@@ -8796,8 +8796,8 @@ npcs {
   mage: 290
   range: 260
   strbns: 1
-  amagic: 1
-  rngbns: 180
+  amagic: 250
+  arange: 180
   dstab: 50
   dslash: 50
   dcrush: 50
@@ -8815,8 +8815,8 @@ npcs {
   mage: 290
   range: 260
   strbns: 1
-  amagic: 1
-  rngbns: 180
+  amagic: 250
+  arange: 180
   dstab: 50
   dslash: 50
   dcrush: 50
@@ -8834,8 +8834,8 @@ npcs {
   mage: 290
   range: 260
   strbns: 1
-  amagic: 1
-  rngbns: 180
+  amagic: 250
+  arange: 180
   dstab: 50
   dslash: 50
   dcrush: 50
@@ -12798,7 +12798,7 @@ npcs {
   hitpoints: 3000
   att: 250
   str: 150
-  def: 130
+  def: 200
   mage: 200
   range: 80
   amagic: 250
@@ -25586,13 +25586,14 @@ npcs {
 npcs {
   ids: 16667
   name: "Moia"
-  hitpoints: 785
+  hitpoints: 1900
   att: 1
   str: 1
   def: 195
   mage: 350
   range: 200
   amagic: 300
+  mbns: 15
   arange: 350
   rngbns: 35
   dstab: 20
@@ -42721,10 +42722,10 @@ npcs {
   mage: 350
   range: 220
   attbns: 150
-  strbns: 225
+  strbns: 30
   amagic: 250
-  mbns: 350
   arange: 250
+  rngbns: 30
   dstab: 115
   dslash: 105
   dcrush: 20
