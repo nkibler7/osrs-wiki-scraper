@@ -132209,6 +132209,152 @@ items {
   }
 }
 items {
+  key: 34609
+  value {
+    id: 34609
+    name: "Karil\'s leatherskirt"
+    stat_bonuses {
+      ranged_attack: 17
+      magic_attack: -10
+      stab_defence: 26
+      slash_defence: 20
+      crush_defence: 28
+      ranged_defence: 33
+      magic_defence: 35
+    }
+  }
+}
+items {
+  key: 34611
+  value {
+    id: 34611
+    name: "Bandos chestplate"
+    stat_bonuses {
+      ranged_attack: -10
+      magic_attack: -15
+      stab_defence: 98
+      slash_defence: 93
+      crush_defence: 105
+      ranged_defence: 133
+      magic_defence: -6
+      melee_strength: 4
+      prayer: 1
+    }
+  }
+}
+items {
+  key: 34613
+  value {
+    id: 34613
+    name: "Fighter torso"
+    stat_bonuses {
+      magic_attack: -40
+      stab_defence: 62
+      slash_defence: 85
+      crush_defence: 62
+      ranged_defence: 67
+      magic_defence: -10
+      melee_strength: 4
+    }
+  }
+}
+items {
+  key: 34615
+  value {
+    id: 34615
+    name: "Black d\'hide shield"
+    stat_bonuses {
+      stab_attack: -15
+      slash_attack: -15
+      crush_attack: -11
+      ranged_attack: 7
+      magic_attack: -10
+      stab_defence: 21
+      slash_defence: 18
+      crush_defence: 16
+      ranged_defence: 14
+      magic_defence: 15
+    }
+  }
+}
+items {
+  key: 34617
+  value {
+    id: 34617
+    name: "Torva full helm"
+    stat_bonuses {
+      ranged_attack: -5
+      magic_attack: -5
+      stab_defence: 59
+      slash_defence: 60
+      crush_defence: 62
+      ranged_defence: 57
+      magic_defence: -2
+      melee_strength: 8
+      prayer: 1
+    }
+  }
+}
+items {
+  key: 34619
+  value {
+    id: 34619
+    name: "Abyssal tentacle"
+    stat_bonuses {
+      slash_attack: 90
+      melee_strength: 86
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+      combat_options {
+        name: "Flick"
+        modifiers {
+          attack_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_ACCURATE
+        }
+      }
+      combat_options {
+        name: "Lash"
+        modifiers {
+          attack_modifier: 1
+          strength_modifier: 1
+          defence_modifier: 1
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_CONTROLLED
+        }
+      }
+      combat_options {
+        name: "Deflect"
+        modifiers {
+          defence_modifier: 3
+        }
+        melee {
+          attack_style: MELEE_ATTACK_STYLE_DEFENSIVE
+        }
+      }
+    }
+  }
+}
+items {
+  key: 34621
+  value {
+    id: 34621
+    name: "Dragon boots"
+    stat_bonuses {
+      ranged_attack: -1
+      magic_attack: -3
+      stab_defence: 16
+      slash_defence: 17
+      crush_defence: 18
+      melee_strength: 4
+    }
+  }
+}
+items {
   key: 34625
   value {
     id: 34625

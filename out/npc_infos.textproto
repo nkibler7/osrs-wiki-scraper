@@ -5569,8 +5569,37 @@ npcs {
 }
 npcs {
   ids: 15626
+  name: "Brutus"
+  version: "Post-quest"
+  hitpoints: 58
+  att: 12
+  str: 25
+  def: 10
+  mage: 8
+  range: 1
+  dstab: -7
+  dslash: -7
+  dcrush: -7
+  dmagic: -3
+}
+npcs {
   ids: 15627
   name: "Brutus"
+  version: "Charging"
+  hitpoints: 60
+  att: 15
+  str: 30
+  def: 10
+  range: 1
+  dstab: -7
+  dslash: -7
+  dcrush: -7
+  dmagic: -3
+}
+npcs {
+  ids: 15625
+  name: "Bull"
+  version: "Quest"
   hitpoints: 58
   att: 12
   str: 25
