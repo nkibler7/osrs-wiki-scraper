@@ -39278,6 +39278,7 @@ npcs {
   ids: 16670
   name: "Undead binder"
   hitpoints: 95
+  str: 170
   def: 225
   mage: 50
   strbns: 15
