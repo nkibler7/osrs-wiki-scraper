@@ -11,6 +11,7 @@ B
 Ä@Å@Æ@Abomination È(n0n8n@nHn€PˆPP˜
 "
 Ô`Abyssal antibody 2(08@H
+Abyssal arbalest
 >
 Ÿ Abyssal demonStandard –(a0C8‡@H€ˆªdemon
 H
@@ -2810,11 +2811,8 @@ X€ˆ˜
 ‚@
 Growthling 
 ((0&8(@H
-%
-‰tŠtGryphon n(A0K82@2€
-ˆ(˜d
-#
-¡uGryphon n(A0K82@2€
+'
+‰tŠt¡uGryphon n(A0K82@2€
 ˆ(˜d
 =
 ¶GuardEdgeville 1 (08@HPX€ˆ˜üÿÿÿÿÿÿÿÿ
@@ -4813,6 +4811,14 @@ X
 ¯^Phantom MuspahShielded K(˜0˜8È@´HĞP‰X`˜h´p@x€¹ˆ†x˜µªspectral
 \
 °^Phantom MuspahPost-shield Ò(˜0˜8È@³HÏP‰X`˜h´p@x€¹ˆ†x˜µªspectral
+[
+©^±^Strange CreatureRanged ¦(˜0˜8È@–H˜P<Xöÿÿÿÿÿÿÿÿ`ZhBxöÿÿÿÿÿÿÿÿ€nˆZP˜˜
+b
+Ÿ^ª^Strange CreatureMelee ¦(˜0˜8È@–H˜P<Xöÿÿÿÿÿÿÿÿ`ZhBxöÿÿÿÿÿÿÿÿ€nˆZP˜öÿÿÿÿÿÿÿÿ
+Z
+«^Strange CreatureShielded K(˜0˜8È@´HĞP<Xöÿÿÿÿÿÿÿÿ`ZhBxöÿÿÿÿÿÿÿÿ€nˆZP˜˜
+^
+¬^Strange CreaturePost-shield ¦(˜0˜8È@³HÏP<Xöÿÿÿÿÿÿÿÿ`ZhBxöÿÿÿÿÿÿÿÿ€nˆZP˜˜
 P
 ½yPhantom MuspahAnnihilation Ğ(˜0˜8È@dH˜P‰X`˜h´p@x€¹ˆ†x˜"
 M
@@ -5476,11 +5482,12 @@ E
 -
 £$¨$Shantay Guard  (08PX€ˆ˜
 Shark <(d0@
-5
-ŒtShellbane gryphon ( 0Ò8x@dH–p€
+A
+ŒtShellbane gryphon
+Post-quest ( 0Ò8x@dH–p€
 ˆ(˜d
-5
-¢uShellbane gryphon ( 0Ò8x@dH–p€
+<
+¢uShellbane gryphonQuest ( 0Ò8x@dH–p€
 ˆ(˜d
 #
 ŸShifterLevel 38 (/0%8@
@@ -6046,14 +6053,6 @@ x
 €
 ˆ
 ˜7ªGolem
-[
-©^±^Strange CreatureRanged ¦(˜0˜8È@–H˜P<Xöÿÿÿÿÿÿÿÿ`ZhBxöÿÿÿÿÿÿÿÿ€nˆZP˜˜
-b
-Ÿ^ª^Strange CreatureMelee ¦(˜0˜8È@–H˜P<Xöÿÿÿÿÿÿÿÿ`ZhBxöÿÿÿÿÿÿÿÿ€nˆZP˜öÿÿÿÿÿÿÿÿ
-Z
-«^Strange CreatureShielded K(˜0˜8È@´HĞP<Xöÿÿÿÿÿÿÿÿ`ZhBxöÿÿÿÿÿÿÿÿ€nˆZP˜˜
-^
-¬^Strange CreaturePost-shield ¦(˜0˜8È@³HÏP<Xöÿÿÿÿÿÿÿÿ`ZhBxöÿÿÿÿÿÿÿÿ€nˆZP˜˜
 9
 òrStrange creature d(_078-@H`€ˆöÿÿÿÿÿÿÿÿ2˜#
 *

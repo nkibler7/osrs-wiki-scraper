@@ -83,6 +83,9 @@ npcs {
   range: 1
 }
 npcs {
+  name: "Abyssal arbalest"
+}
+npcs {
   ids: 415
   ids: 416
   name: "Abyssal demon"
@@ -16689,18 +16692,6 @@ npcs {
 npcs {
   ids: 14857
   ids: 14858
-  name: "Gryphon"
-  hitpoints: 110
-  att: 65
-  str: 75
-  def: 50
-  mage: 50
-  dstab: 10
-  dslash: 20
-  dcrush: 40
-  dmagic: 100
-}
-npcs {
   ids: 15009
   name: "Gryphon"
   hitpoints: 110
@@ -29285,6 +29276,88 @@ npcs {
   attributes: "spectral"
 }
 npcs {
+  ids: 12073
+  ids: 12081
+  name: "Strange Creature"
+  version: "Ranged"
+  hitpoints: 550
+  att: 280
+  str: 280
+  def: 200
+  mage: 150
+  range: 280
+  attbns: 60
+  strbns: -10
+  amagic: 90
+  mbns: 66
+  rngbns: -10
+  dstab: 110
+  dslash: 90
+  dcrush: 80
+  dmagic: 280
+}
+npcs {
+  ids: 12063
+  ids: 12074
+  name: "Strange Creature"
+  version: "Melee"
+  hitpoints: 550
+  att: 280
+  str: 280
+  def: 200
+  mage: 150
+  range: 280
+  attbns: 60
+  strbns: -10
+  amagic: 90
+  mbns: 66
+  rngbns: -10
+  dstab: 110
+  dslash: 90
+  dcrush: 80
+  dmagic: -10
+}
+npcs {
+  ids: 12075
+  name: "Strange Creature"
+  version: "Shielded"
+  hitpoints: 75
+  att: 280
+  str: 280
+  def: 200
+  mage: 180
+  range: 336
+  attbns: 60
+  strbns: -10
+  amagic: 90
+  mbns: 66
+  rngbns: -10
+  dstab: 110
+  dslash: 90
+  dcrush: 80
+  dmagic: 280
+}
+npcs {
+  ids: 12076
+  name: "Strange Creature"
+  version: "Post-shield"
+  hitpoints: 550
+  att: 280
+  str: 280
+  def: 200
+  mage: 179
+  range: 335
+  attbns: 60
+  strbns: -10
+  amagic: 90
+  mbns: 66
+  rngbns: -10
+  dstab: 110
+  dslash: 90
+  dcrush: 80
+  dmagic: 280
+}
+npcs {
   ids: 15549
   name: "Phantom Muspah"
   version: "Annihilation"
@@ -32933,6 +33006,7 @@ npcs {
 npcs {
   ids: 14860
   name: "Shellbane gryphon"
+  version: "Post-quest"
   hitpoints: 400
   att: 160
   str: 210
@@ -32948,6 +33022,7 @@ npcs {
 npcs {
   ids: 15010
   name: "Shellbane gryphon"
+  version: "Quest"
   hitpoints: 400
   att: 160
   str: 210
@@ -36496,88 +36571,6 @@ npcs {
   dslash: 10
   dmagic: 55
   attributes: "Golem"
-}
-npcs {
-  ids: 12073
-  ids: 12081
-  name: "Strange Creature"
-  version: "Ranged"
-  hitpoints: 550
-  att: 280
-  str: 280
-  def: 200
-  mage: 150
-  range: 280
-  attbns: 60
-  strbns: -10
-  amagic: 90
-  mbns: 66
-  rngbns: -10
-  dstab: 110
-  dslash: 90
-  dcrush: 80
-  dmagic: 280
-}
-npcs {
-  ids: 12063
-  ids: 12074
-  name: "Strange Creature"
-  version: "Melee"
-  hitpoints: 550
-  att: 280
-  str: 280
-  def: 200
-  mage: 150
-  range: 280
-  attbns: 60
-  strbns: -10
-  amagic: 90
-  mbns: 66
-  rngbns: -10
-  dstab: 110
-  dslash: 90
-  dcrush: 80
-  dmagic: -10
-}
-npcs {
-  ids: 12075
-  name: "Strange Creature"
-  version: "Shielded"
-  hitpoints: 75
-  att: 280
-  str: 280
-  def: 200
-  mage: 180
-  range: 336
-  attbns: 60
-  strbns: -10
-  amagic: 90
-  mbns: 66
-  rngbns: -10
-  dstab: 110
-  dslash: 90
-  dcrush: 80
-  dmagic: 280
-}
-npcs {
-  ids: 12076
-  name: "Strange Creature"
-  version: "Post-shield"
-  hitpoints: 550
-  att: 280
-  str: 280
-  def: 200
-  mage: 179
-  range: 335
-  attbns: 60
-  strbns: -10
-  amagic: 90
-  mbns: 66
-  rngbns: -10
-  dstab: 110
-  dslash: 90
-  dcrush: 80
-  dmagic: 280
 }
 npcs {
   ids: 14706
