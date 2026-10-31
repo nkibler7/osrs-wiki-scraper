@@ -29306,7 +29306,6 @@ npcs {
 }
 npcs {
   ids: 12073
-  ids: 12081
   name: "Strange Creature"
   version: "Ranged"
   hitpoints: 550
@@ -29326,7 +29325,6 @@ npcs {
   dmagic: 280
 }
 npcs {
-  ids: 12063
   ids: 12074
   name: "Strange Creature"
   version: "Melee"
@@ -29345,6 +29343,26 @@ npcs {
   dslash: 90
   dcrush: 80
   dmagic: -10
+}
+npcs {
+  ids: 12081
+  name: "Strange Creature"
+  version: "Teleporting"
+  hitpoints: 550
+  att: 280
+  str: 280
+  def: 200
+  mage: 150
+  range: 280
+  attbns: 60
+  strbns: -10
+  amagic: 90
+  mbns: 66
+  rngbns: -10
+  dstab: 110
+  dslash: 90
+  dcrush: 80
+  dmagic: 280
 }
 npcs {
   ids: 12075
@@ -38246,6 +38264,10 @@ npcs {
   str: 1
   mage: 1
   range: 1
+  dstab: -100
+  dslash: -100
+  dcrush: -100
+  dmagic: -100
 }
 npcs {
   ids: 9436
@@ -38255,6 +38277,10 @@ npcs {
   str: 1
   mage: 1
   range: 1
+  dstab: -100
+  dslash: -100
+  dcrush: -100
+  dmagic: -100
 }
 npcs {
   ids: 9435
