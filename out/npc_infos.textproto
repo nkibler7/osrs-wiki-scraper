@@ -29574,7 +29574,7 @@ npcs {
   ids: 521
   ids: 6993
   name: "Pirate"
-  version: "Pirate\'s Cove"
+  version: "Pirates\' Cove"
   hitpoints: 20
   att: 20
   str: 20
