@@ -6801,7 +6801,7 @@ items {
   key: 1277
   value {
     id: 1277
-    name: "Bronze sword"
+    name: "Bronze shortsword"
     stat_bonuses {
       stab_attack: 4
       slash_attack: 3
@@ -6856,7 +6856,7 @@ items {
   key: 1279
   value {
     id: 1279
-    name: "Iron sword"
+    name: "Iron shortsword"
     stat_bonuses {
       stab_attack: 6
       slash_attack: 4
@@ -6911,7 +6911,7 @@ items {
   key: 1281
   value {
     id: 1281
-    name: "Steel sword"
+    name: "Steel shortsword"
     stat_bonuses {
       stab_attack: 11
       slash_attack: 8
@@ -6966,7 +6966,7 @@ items {
   key: 1283
   value {
     id: 1283
-    name: "Black sword"
+    name: "Black shortsword"
     stat_bonuses {
       stab_attack: 14
       slash_attack: 10
@@ -7021,7 +7021,7 @@ items {
   key: 1285
   value {
     id: 1285
-    name: "Mithril sword"
+    name: "Mithril shortsword"
     stat_bonuses {
       stab_attack: 16
       slash_attack: 11
@@ -7076,7 +7076,7 @@ items {
   key: 1287
   value {
     id: 1287
-    name: "Adamant sword"
+    name: "Adamant shortsword"
     stat_bonuses {
       stab_attack: 23
       slash_attack: 18
@@ -7131,7 +7131,7 @@ items {
   key: 1289
   value {
     id: 1289
-    name: "Rune sword"
+    name: "Rune shortsword"
     stat_bonuses {
       stab_attack: 38
       slash_attack: 26
@@ -31046,7 +31046,7 @@ items {
   key: 6605
   value {
     id: 6605
-    name: "White sword"
+    name: "White shortsword"
     stat_bonuses {
       stab_attack: 14
       slash_attack: 10
@@ -35438,7 +35438,7 @@ items {
   key: 7675
   value {
     id: 7675
-    name: "Wooden sword"
+    name: "Wooden shortsword"
     stat_bonuses {
       stab_attack: 4
       slash_attack: 3
@@ -40614,7 +40614,7 @@ items {
   key: 9703
   value {
     id: 9703
-    name: "Training sword"
+    name: "Training shortsword"
     stat_bonuses {
       stab_attack: 4
       slash_attack: 3
@@ -40683,7 +40683,7 @@ items {
   key: 9705
   value {
     id: 9705
-    name: "Training bow"
+    name: "Training shortbow"
     stat_bonuses {
       ranged_attack: 8
     }
@@ -65608,7 +65608,7 @@ items {
   key: 21009
   value {
     id: 21009
-    name: "Dragon sword"
+    name: "Dragon shortsword"
     stat_bonuses {
       stab_attack: 65
       slash_attack: 55
@@ -98008,7 +98008,7 @@ items {
   key: 28029
   value {
     id: 28029
-    name: "Dragon sword (cr)"
+    name: "Dragon shortsword (cr)"
     stat_bonuses {
       stab_attack: 65
       slash_attack: 55
@@ -132695,6 +132695,16 @@ items {
     id: 34746
     name: "Vampyre costume cape"
     stat_bonuses {
+    }
+  }
+}
+items {
+  key: 34762
+  value {
+    id: 34762
+    name: "Amulet of sight"
+    stat_bonuses {
+      ranged_attack: 10
     }
   }
 }
