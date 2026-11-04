@@ -28285,6 +28285,97 @@ npcs {
   def: 20
 }
 npcs {
+  ids: 16835
+  ids: 16836
+  name: "Outlaw"
+  version: "Before confrontation"
+  hitpoints: 9
+  att: 1
+  str: 1
+  def: 3
+  mage: 2
+  range: 6
+  dstab: 2
+  dslash: 6
+  dcrush: 6
+  dmagic: 10
+}
+npcs {
+  ids: 16837
+  name: "Outlaw"
+  version: "During confrontation"
+  hitpoints: 9
+  att: 1
+  str: 1
+  def: 3
+  mage: 2
+  range: 6
+  dstab: 2
+  dslash: 6
+  dcrush: 6
+  dmagic: 10
+}
+npcs {
+  ids: 16839
+  name: "Outlaw"
+  version: "Before confrontation"
+  hitpoints: 9
+  att: 1
+  str: 1
+  def: 3
+  mage: 6
+  range: 1
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+  dmagic: 12
+}
+npcs {
+  ids: 16840
+  name: "Outlaw"
+  version: "During confrontation"
+  hitpoints: 9
+  att: 1
+  str: 1
+  def: 3
+  mage: 6
+  range: 1
+  dstab: 10
+  dslash: 10
+  dcrush: 10
+  dmagic: 12
+}
+npcs {
+  ids: 16842
+  name: "Outlaw"
+  version: "Before confrontation"
+  hitpoints: 15
+  att: 6
+  str: 6
+  def: 3
+  mage: 2
+  range: 1
+  dstab: 8
+  dslash: 8
+  dcrush: 6
+  dmagic: -5
+}
+npcs {
+  ids: 16843
+  name: "Outlaw"
+  version: "During confrontation"
+  hitpoints: 15
+  att: 6
+  str: 6
+  def: 3
+  mage: 2
+  range: 1
+  dstab: 8
+  dslash: 8
+  dcrush: 6
+  dmagic: -5
+}
+npcs {
   ids: 5263
   name: "Padulah"
   hitpoints: 130
