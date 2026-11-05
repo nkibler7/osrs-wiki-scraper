@@ -39173,7 +39173,6 @@ npcs {
   ids: 2177
   ids: 2178
   ids: 2179
-  ids: 2187
   name: "TzHaar-Ket"
   version: "Level 149"
   hitpoints: 140
