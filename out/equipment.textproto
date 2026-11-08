@@ -132704,7 +132704,7 @@ items {
     id: 34762
     name: "Amulet of sight"
     stat_bonuses {
-      ranged_attack: 4
+      ranged_attack: 10
     }
   }
 }
