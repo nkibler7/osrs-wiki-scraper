@@ -39404,6 +39404,7 @@ npcs {
   dslash: 15
   dcrush: 10
   dmagic: -20
+  attributes: "undead"
 }
 npcs {
   ids: 2993
