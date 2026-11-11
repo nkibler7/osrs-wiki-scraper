@@ -1635,7 +1635,7 @@ npcs {
   dstab: 120
   dslash: 90
   dcrush: 20
-  dmagic: 130
+  dmagic: 50
   attributes: "No"
 }
 npcs {
@@ -42868,7 +42868,7 @@ npcs {
   amagic: 250
   arange: 250
   rngbns: 30
-  dstab: 115
+  dstab: 60
   dslash: 105
   dcrush: 20
   dmagic: 205
