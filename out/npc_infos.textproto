@@ -23735,6 +23735,16 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 16883
+  name: "Leech"
+  hitpoints: 25
+  att: 80
+  str: 20
+  def: 1
+  mage: 1
+  range: 1
+}
+npcs {
   ids: 3943
   name: "Lensa"
   hitpoints: 50
@@ -35419,6 +35429,19 @@ npcs {
   dslash: -40
   dcrush: -40
   dmagic: -40
+}
+npcs {
+  ids: 16885
+  name: "SnelmLover500"
+  hitpoints: 35
+  att: 50
+  str: 50
+  def: 35
+  mage: 10
+  range: 1
+  dstab: 20
+  dslash: 20
+  dcrush: 10
 }
 npcs {
   ids: 11269
