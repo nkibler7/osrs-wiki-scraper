@@ -1308,6 +1308,13 @@ npcs {
 npcs {
   ids: 16653
   name: "Animated Sword"
+  hitpoints: 120
+  def: 115
+  mage: 90
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 100
 }
 npcs {
   ids: 3285
@@ -1615,7 +1622,7 @@ npcs {
   dstab: 120
   dslash: 110
   dcrush: 20
-  dmagic: 130
+  dmagic: 50
   attributes: "flying"
 }
 npcs {
@@ -5194,7 +5201,7 @@ npcs {
 npcs {
   ids: 16640
   name: "Bork"
-  hitpoints: 1500
+  hitpoints: 1650
   att: 200
   str: 200
   def: 300
@@ -20851,6 +20858,19 @@ npcs {
   range: 170
 }
 npcs {
+  ids: 16661
+  ids: 16662
+  name: "Inert Guardian"
+  hitpoints: 150
+  att: 1
+  str: 1
+  def: 50
+  mage: 50
+  range: 1
+  dslash: 20
+  dcrush: -20
+}
+npcs {
   ids: 443
   ids: 444
   ids: 445
@@ -35281,7 +35301,7 @@ npcs {
 npcs {
   ids: 16641
   name: "The Smorks"
-  hitpoints: 600
+  hitpoints: 650
   att: 1
   str: 1
   def: 220
@@ -42880,7 +42900,7 @@ npcs {
 npcs {
   ids: 16684
   name: "Xarth"
-  hitpoints: 2600
+  hitpoints: 2450
   att: 250
   str: 225
   def: 170
