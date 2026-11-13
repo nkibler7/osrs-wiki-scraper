@@ -1622,7 +1622,7 @@ npcs {
   dstab: 120
   dslash: 110
   dcrush: 20
-  dmagic: 50
+  dmagic: 130
   attributes: "flying"
 }
 npcs {
