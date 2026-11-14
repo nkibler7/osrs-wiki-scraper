@@ -1309,12 +1309,16 @@ npcs {
   ids: 16653
   name: "Animated Sword"
   hitpoints: 120
+  att: 1
+  str: 1
   def: 115
   mage: 90
+  range: 1
   dstab: 100
   dslash: 100
   dcrush: 100
   dmagic: 100
+  attributes: "Flying"
 }
 npcs {
   ids: 3285
