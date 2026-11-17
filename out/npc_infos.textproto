@@ -12844,7 +12844,10 @@ npcs {
   def: 200
   mage: 200
   range: 80
+  attbns: 280
+  strbns: 80
   amagic: 250
+  mbns: 30
   dstab: 150
   dslash: 90
   dcrush: 35
