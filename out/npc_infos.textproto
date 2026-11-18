@@ -20797,6 +20797,15 @@ npcs {
   ids: 16650
   name: "Imp"
   hitpoints: 44
+  att: 250
+  str: 195
+  def: 50
+  mage: 125
+  range: 66
+  attbns: 150
+  mbns: 1
+  arange: 1
+  rngbns: 6
 }
 npcs {
   ids: 3355
