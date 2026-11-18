@@ -1630,7 +1630,7 @@ npcs {
   attributes: "flying"
 }
 npcs {
-  ids: 16659
+  ids: 16660
   name: "Archive Guardian"
   version: "Grounded"
   hitpoints: 1100
