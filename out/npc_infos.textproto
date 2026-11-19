@@ -859,6 +859,7 @@ npcs {
   attributes: "Spectral"
 }
 npcs {
+  ids: 16919
   name: "Ancient Banshee"
   hitpoints: 120
   att: 120
@@ -33147,6 +33148,10 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 16922
+  name: "Shadow Rift"
+}
+npcs {
   ids: 3016
   name: "Shadow spider"
   hitpoints: 55
@@ -33634,7 +33639,7 @@ npcs {
   name: "Siren"
 }
 npcs {
-  name: "Skeletal hand"
+  name: "Skeletal Hand"
   hitpoints: 15
   att: 250
   str: 8
@@ -36897,9 +36902,6 @@ npcs {
   dslash: -10
   dcrush: 50
   dmagic: 35
-}
-npcs {
-  name: "Strange rift"
 }
 npcs {
   ids: 685
