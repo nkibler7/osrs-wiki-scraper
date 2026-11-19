@@ -865,6 +865,10 @@ npcs {
   str: 90
   def: 60
   mage: 60
+  range: 1
+  dstab: 15
+  dslash: 15
+  dcrush: 15
 }
 npcs {
   ids: 14520
@@ -33073,6 +33077,18 @@ npcs {
   def: 100
   mage: 50
   range: 50
+  attributes: "undead, spectral"
+}
+npcs {
+  ids: 16917
+  name: "Shade"
+  version: "Ancient asylum"
+  hitpoints: 90
+  att: 130
+  str: 70
+  def: 60
+  mage: 60
+  range: 1
   attributes: "undead, spectral"
 }
 npcs {
