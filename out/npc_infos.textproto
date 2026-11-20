@@ -33639,6 +33639,7 @@ npcs {
   name: "Siren"
 }
 npcs {
+  ids: 16923
   name: "Skeletal Hand"
   hitpoints: 15
   att: 250
