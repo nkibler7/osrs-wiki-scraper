@@ -20866,6 +20866,7 @@ npcs {
   mbns: 1
   arange: 1
   rngbns: 6
+  attributes: "Demon"
 }
 npcs {
   ids: 3355
