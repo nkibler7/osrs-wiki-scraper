@@ -1663,6 +1663,11 @@ npcs {
   attributes: "No"
 }
 npcs {
+  ids: 16905
+  name: "Archmage Sedridor"
+  hitpoints: 10
+}
+npcs {
   ids: 8865
   ids: 9248
   name: "Arianwyn"
@@ -24424,6 +24429,11 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 16903
+  name: "Lost Soul"
+  hitpoints: 5
+}
+npcs {
   ids: 16204
   name: "Lowerniel Drakan"
   hitpoints: 3000
@@ -38249,6 +38259,7 @@ npcs {
 }
 npcs {
   ids: 1075
+  ids: 16910
   name: "Tolna"
   hitpoints: 37
   att: 42
@@ -38260,6 +38271,7 @@ npcs {
 }
 npcs {
   ids: 1076
+  ids: 16909
   name: "Tolna"
   hitpoints: 37
   att: 42
@@ -38271,6 +38283,7 @@ npcs {
 }
 npcs {
   ids: 1077
+  ids: 16911
   name: "Tolna"
   hitpoints: 37
   att: 42
@@ -39584,7 +39597,6 @@ npcs {
   dslash: 15
   dcrush: 10
   dmagic: -20
-  attributes: "undead"
 }
 npcs {
   ids: 2993
