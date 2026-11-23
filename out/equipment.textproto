@@ -66687,6 +66687,25 @@ items {
   }
 }
 items {
+  key: 21206
+  value {
+    id: 21206
+    name: "Dragon shortsword"
+    stat_bonuses {
+      stab_attack: 65
+      slash_attack: 55
+      crush_attack: -2
+      slash_defence: 2
+      crush_defence: 1
+      melee_strength: 63
+    }
+    weapon_details {
+      base_attack_speed: 4
+      base_attack_range: 1
+    }
+  }
+}
+items {
   key: 21209
   value {
     id: 21209
