@@ -2,6 +2,36 @@
 # proto-message: NpcInfos
 
 npcs {
+  ids: 16990
+  name: "2Fast4U"
+  version: "1"
+  hitpoints: 30
+  att: 99
+  def: 1
+  mage: 99
+  range: 99
+}
+npcs {
+  ids: 16991
+  name: "2Fast4U"
+  version: "2"
+  hitpoints: 99
+  att: 99
+  def: 1
+  mage: 99
+  range: 99
+}
+npcs {
+  ids: 16992
+  name: "2Fast4U"
+  version: "3"
+  hitpoints: 99
+  att: 99
+  def: 1
+  mage: 99
+  range: 99
+}
+npcs {
   ids: 15165
   name: "A corpse"
   hitpoints: 90
@@ -7012,6 +7042,15 @@ npcs {
   attributes: "dragon"
 }
 npcs {
+  ids: 16984
+  name: "Combo Cameron"
+  hitpoints: 99
+  att: 99
+  def: 99
+  mage: 99
+  range: 99
+}
+npcs {
   ids: 2205
   name: "Commander Zilyana"
   hitpoints: 255
@@ -9877,6 +9916,13 @@ npcs {
   dcrush: 244
   dmagic: -11
   attributes: "spectral"
+}
+npcs {
+  ids: 16989
+  name: "DharokFan"
+  hitpoints: 99
+  att: 99
+  def: 1
 }
 npcs {
   ids: 15171
@@ -32085,6 +32131,24 @@ npcs {
   dmagic: -15
 }
 npcs {
+  name: "Ræun"
+  hitpoints: 1250
+  att: 130
+  str: 200
+  def: 265
+  mage: 150
+  range: 250
+  attbns: 180
+  strbns: 5
+  amagic: 280
+  mbns: 180
+  rngbns: 5
+  dstab: 60
+  dslash: 40
+  dcrush: 50
+  dmagic: 255
+}
+npcs {
   ids: 304
   name: "Salarin the twisted"
   hitpoints: 70
@@ -37512,6 +37576,13 @@ npcs {
   range: 1
 }
 npcs {
+  ids: 16988
+  name: "TankTester"
+  hitpoints: 20
+  att: 99
+  def: 1
+}
+npcs {
   ids: 7804
   name: "Tar Monster"
   hitpoints: 200
@@ -40036,6 +40107,15 @@ npcs {
   str: 116
   def: 100
   attributes: "undead,spectral"
+}
+npcs {
+  ids: 16993
+  name: "UrSpadeIsMine"
+  hitpoints: 99
+  att: 99
+  def: 75
+  mage: 99
+  range: 99
 }
 npcs {
   ids: 5260
