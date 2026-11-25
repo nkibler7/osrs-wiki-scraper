@@ -132978,3 +132978,111 @@ items {
     }
   }
 }
+items {
+  key: 35039
+  value {
+    id: 35039
+    name: "Graceful hood (Fremennik)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 35041
+  value {
+    id: 35041
+    name: "Graceful hood (Fremennik)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 35042
+  value {
+    id: 35042
+    name: "Graceful cape (Fremennik)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 35044
+  value {
+    id: 35044
+    name: "Graceful cape (Fremennik)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 35045
+  value {
+    id: 35045
+    name: "Graceful top (Fremennik)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 35047
+  value {
+    id: 35047
+    name: "Graceful top (Fremennik)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 35048
+  value {
+    id: 35048
+    name: "Graceful legs (Fremennik)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 35050
+  value {
+    id: 35050
+    name: "Graceful legs (Fremennik)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 35051
+  value {
+    id: 35051
+    name: "Graceful gloves (Fremennik)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 35053
+  value {
+    id: 35053
+    name: "Graceful gloves (Fremennik)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 35054
+  value {
+    id: 35054
+    name: "Graceful boots (Fremennik)"
+    stat_bonuses {
+    }
+  }
+}
+items {
+  key: 35056
+  value {
+    id: 35056
+    name: "Graceful boots (Fremennik)"
+    stat_bonuses {
+    }
+  }
+}

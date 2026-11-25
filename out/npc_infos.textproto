@@ -20997,6 +20997,7 @@ npcs {
   range: 1
   dslash: 20
   dcrush: -20
+  dmagic: -20
 }
 npcs {
   ids: 443
@@ -32131,6 +32132,7 @@ npcs {
   dmagic: -15
 }
 npcs {
+  ids: 16944
   name: "Ræun"
   hitpoints: 1250
   att: 130
