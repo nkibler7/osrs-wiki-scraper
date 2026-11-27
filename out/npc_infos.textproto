@@ -34928,10 +34928,23 @@ npcs {
   attributes: "undead"
 }
 npcs {
+  ids: 16935
+  name: "Skeleton captain"
+  version: "Ranged"
+  hitpoints: 100
+  att: 1
+  str: 1
+  def: 90
+  mage: 1
+  range: 135
+  dslash: 3
+  dcrush: 2
+  dmagic: -3
+}
+npcs {
   ids: 16933
   ids: 16934
   ids: 16936
-  ids: 16937
   name: "Skeleton captain"
   version: "Melee"
   hitpoints: 100
@@ -34947,15 +34960,17 @@ npcs {
   dmagic: -3
 }
 npcs {
-  ids: 16935
+  ids: 16937
   name: "Skeleton captain"
-  version: "Ranged"
+  version: "Melee (Shield)"
   hitpoints: 100
-  att: 1
-  str: 1
-  def: 90
+  att: 80
+  str: 70
+  def: 50
   mage: 1
-  range: 135
+  range: 1
+  attbns: 9
+  strbns: 15
   dslash: 3
   dcrush: 2
   dmagic: -3
