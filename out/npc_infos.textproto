@@ -9535,10 +9535,6 @@ npcs {
   attributes: "demon"
 }
 npcs {
-  ids: 16651
-  name: "Demonic rift"
-}
-npcs {
   ids: 7806
   name: "Deranged archaeologist"
   hitpoints: 200
@@ -20986,7 +20982,6 @@ npcs {
   range: 170
 }
 npcs {
-  ids: 16661
   ids: 16662
   name: "Inert Guardian"
   hitpoints: 150
