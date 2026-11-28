@@ -1351,6 +1351,55 @@ npcs {
 npcs {
   ids: 16653
   name: "Animated Sword"
+  version: "Guthixian"
+  hitpoints: 120
+  att: 1
+  str: 1
+  def: 115
+  mage: 90
+  range: 1
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 100
+  attributes: "Flying"
+}
+npcs {
+  ids: 16653
+  name: "Animated Sword"
+  version: "Armadylean"
+  hitpoints: 120
+  att: 1
+  str: 1
+  def: 115
+  mage: 90
+  range: 1
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 100
+  attributes: "Flying"
+}
+npcs {
+  ids: 16653
+  name: "Animated Sword"
+  version: "Bandosian"
+  hitpoints: 120
+  att: 1
+  str: 1
+  def: 115
+  mage: 90
+  range: 1
+  dstab: 100
+  dslash: 100
+  dcrush: 100
+  dmagic: 100
+  attributes: "Flying"
+}
+npcs {
+  ids: 16653
+  name: "Animated Sword"
+  version: "Zamorakian"
   hitpoints: 120
   att: 1
   str: 1
